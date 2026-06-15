@@ -17,8 +17,7 @@ BGOpen("sc730",0);
 ScrFadeIn(0);
 VoicePlay("X200D00002_22_000");
 MsgDisp("Hikaru","Look, look!
-Mari is the Rose Queen∈
-Yay∈");
+Mari is the Rose Queen∈ Yay∈");
 MsgDisp("主人公","Eeehhh∋");
 VoicePlay("X200D00002_21_000");
 MsgDisp("Michiru","Mari, congratulations!

@@ -30,8 +30,7 @@ What's the matter, where's your usual guts?");
         ChEye(5,3);
         ChMouth(5,2);
         VoicePlay("B040515202_05_020");
-        MsgDisp("Hiiragi","Huh?
-What's the matter?");
+        MsgDisp("Hiiragi","Huh? What's the matter?");
         MsgDisp("主人公","......");
         ChEye(5,0);
         ChMouth(5,4);
@@ -39,14 +38,12 @@ What's the matter?");
         VoicePlay("B040515202_05_030");
         MsgDisp("Hiiragi","Understood.
 Let's add a handicap.");
-        MsgDisp("主人公","Hehe!
-Yeah, thank you.");
+        MsgDisp("主人公","Hehe! Yeah, thank you.");
         ChEye(5,4);
         ChMouth(5,3);
         ChMotion(5,1);
         VoicePlay("B040515202_05_040");
-        MsgDisp("Hiiragi","Phew—...
-Well, you got me, huh?");
+        MsgDisp("Hiiragi","Phew—... Well, you got me, huh?");
         MsgDisp("主人公","Hehe, shall we have a competition then?");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -87,8 +84,7 @@ of three rounds.");
         SEPlay("EV_SE_869");
         SEPlay("EV_SE_062");
         SEWait();
-        MsgDisp("主人公","Ehhh∋
-Sneaky!");
+        MsgDisp("主人公","Ehhh∋ Sneaky!");
         MsgDisp("主人公","(Hey...
 ｛Hiiragi＊＊＊｝, you really hate to lose huh...)");
         MsgClose();
@@ -106,8 +102,7 @@ Sneaky!");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040515202_05_080");
-    MsgDisp("Hiiragi","Haha.
-I like that about you.");
+    MsgDisp("Hiiragi","Haha. I like that about you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

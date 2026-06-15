@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040608302_06_000");
-MsgDisp("Himuro","It's just been brutally hot lately, hasn't
-it?");
+MsgDisp("Himuro","It's just been brutally hot lately,
+hasn't it?");
 MsgSel("I wonder if it's the effects of global warming?","Yeah, it's pretty harsh...","I'm alright even if it's hot!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -45,8 +45,8 @@ I don't want to see you exhausted.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608302_06_030");
-        MsgDisp("Himuro","It's gonna be painful if you get too carried
-away.");
+        MsgDisp("Himuro","It's gonna be painful if you get too
+carried away.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,8 +58,7 @@ away.");
         ChEyeOpenLevel(6,7);
         VoicePlay("B040608302_06_040");
         MsgDisp("Himuro","......");
-        MsgDisp("主人公","?
-What's wrong?");
+        MsgDisp("主人公","? What's wrong?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -85,10 +84,9 @@ You'd better hydrate properly.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040608302_06_070");
-        MsgDisp("Himuro","That's right, loosen the clothes around your
-neck.");
-        MsgDisp("主人公","Yeah...
-Eh?");
+        MsgDisp("Himuro","That's right, loosen the clothes around
+your neck.");
+        MsgDisp("主人公","Yeah... Eh?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

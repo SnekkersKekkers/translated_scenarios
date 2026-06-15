@@ -49,7 +49,7 @@ MsgDisp("Honda","Your skills are amazing, but you should take
 pride in your consistent efforts, too!
 Really, congratulations!");
 MsgDisp("主人公","(I'm so happy...
-I'm really glad I stayed in the handicrafts
-club!)");
+I'm really glad I stayed in the
+handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040408501_04_010");
     MsgDisp("Nanatsumori","Right, right.
-You can just keep sleeping like this, little
-bugs...");
+You can just keep sleeping like this,
+little bugs...");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -26,8 +26,7 @@ bugs...");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040408501_04_020");
-    MsgDisp("Nanatsumori","Sigh∋
-That sort of evolution is troubling.");
+    MsgDisp("Nanatsumori","Sigh∋ That sort of evolution is troubling.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -36,8 +35,7 @@ That sort of evolution is troubling.");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040408501_04_030");
-    MsgDisp("Nanatsumori","I am.
-Everyone has their weaknesses.");
+    MsgDisp("Nanatsumori","I am. Everyone has their weaknesses.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

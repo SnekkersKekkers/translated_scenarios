@@ -42,9 +42,9 @@ Should I make one?");
     ChFace(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040330001_03_030");
-    MsgDisp("Honda","Eh?
-Yeah. What are you going to do with them if
-you don't read the books?");
+    MsgDisp("Honda","Eh? Yeah.
+What are you going to do with them if you
+don't read the books?");
     MsgDateResultDisp();
     break ;
     default :

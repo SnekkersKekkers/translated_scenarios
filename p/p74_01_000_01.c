@@ -10,8 +10,7 @@ ChOpen(1,254,0,0,2,#1,#1,0,0);
 ChMotion(1,3);
 VoicePlay("P740100001_01_000");
 MsgDisp("Kazama","Oi, are you alright?");
-MsgDisp("主人公","Yeah.
-Sorry I worried you.");
+MsgDisp("主人公","Yeah. Sorry I worried you.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

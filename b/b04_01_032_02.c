@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040103202_01_010");
-    MsgDisp("Kazama","OK!
-It's got a great atmosphere.");
+    MsgDisp("Kazama","OK! It's got a great atmosphere.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

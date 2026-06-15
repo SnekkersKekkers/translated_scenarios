@@ -42,19 +42,17 @@ StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300000_03_040");
 MsgDisp("Honda","Yepyep, that's the exact same reaction I had.
-But you know, this isn't a pattern, it's a
-fossil.");
-MsgDisp("主人公","Eh?
-Fossils, you mean like dinosaurs?");
+But you know, this isn't a pattern, it's
+a fossil.");
+MsgDisp("主人公","Eh? Fossils, you mean like dinosaurs?");
 StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300000_03_050");
 MsgDisp("Honda","Exactly.
-It's Ammonite-kun, from 150 million years ago.
-Isn't that awesome?");
-MsgDisp("主人公","Seriously?
-Wow!");
+It's Ammonite-kun, from 150 million years
+ago. Isn't that awesome?");
+MsgDisp("主人公","Seriously? Wow!");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300000_03_060");
@@ -95,9 +93,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("D010300000_03_100");
-MsgDisp("Honda","Rightright, because when you're teaching someone,
-that kind of knowledge is more interesting
-than the stuff in books.");
+MsgDisp("Honda","Rightright, because when you're teaching
+someone, that kind of knowledge is more
+interesting than the stuff in books.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);

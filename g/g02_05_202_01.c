@@ -15,8 +15,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520201_05_020");
-MsgDisp("Hiiragi","I also respect Mikage-sensei, and not only
-that...
+MsgDisp("Hiiragi","I also respect Mikage-sensei, and not
+only that...
 I also like him as a friend.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 ChEye(5,2);
@@ -25,8 +25,8 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520201_05_030");
 MsgDisp("Hiiragi","Therefore, I understand your feelings.
-Thus, I cannot see a story in which I'm able to
-turn things around.");
+Thus, I cannot see a story in which I'm able
+to turn things around.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_040");
 MsgDisp("Hiiragi","Consequently, I am in despair.");
@@ -43,8 +43,7 @@ delusions.");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520201_05_060");
-MsgDisp("Hiiragi","Sigh...
-He's such a formidable opponent.");
+MsgDisp("Hiiragi","Sigh... He's such a formidable opponent.");
 MsgDisp("主人公","Formidable opponent?");
 ChMouth(5,4);
 ChEyeOpenLevel(5,8);
@@ -58,8 +57,7 @@ MsgDisp("Hiiragi","Huu...
 I am an actor...maybe I should attempt
 imitating Mikage-sensei?");
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","Eh?
-｛Hiiragi＊＊＊｝ imitating ｛Mikage＊＊｝∋");
+MsgDisp("主人公","Eh? ｛Hiiragi＊＊＊｝ imitating ｛Mikage＊＊｝∋");
 ChEye(5,4);
 ChMouth(5,0);
 ChEyeOpenLevel(5,#1);

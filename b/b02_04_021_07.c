@@ -6,8 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020402107_04_000");
 MsgDisp("Nanatsumori","A girl from, erm, a fairy tale?");
-MsgDisp("主人公","Huh?
-You mean what I'm wearing?");
+MsgDisp("主人公","Huh? You mean what I'm wearing?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);

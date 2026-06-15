@@ -22,9 +22,9 @@ switch (MsgSelRsltGet()){
         ChMotion(3,0);
         ChEyeOpenLevel(3,8);
         VoicePlay("B040305102_03_010");
-        MsgDisp("Honda","Oh...
-I see... I can't help but want to share
-anything I know...");
+        MsgDisp("Honda","Oh... I see...
+I can't help but want to share anything
+I know...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -36,8 +36,8 @@ anything I know...");
         ChEyeOpenLevel(3,8);
         VoicePlay("B040305102_03_020");
         MsgDisp("Honda","Huh?
-Is my talk, by any chance, getting in the
-way?");
+Is my talk, by any chance, getting in
+the way?");
         MsgDisp("主人公","No, not at all.
 It's really enjoyable.");
         ChEye(3,4);
@@ -45,8 +45,8 @@ It's really enjoyable.");
         ChMotion(3,4);
         VoicePlay("B040305102_03_030");
         MsgDisp("Honda","If it's interesting, it's all good, but...
-I might not read it exactly as scripted,
-though.");
+I might not read it exactly as
+scripted, though.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);

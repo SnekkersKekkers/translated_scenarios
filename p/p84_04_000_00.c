@@ -28,8 +28,7 @@ ChMotion(4,1,1);
 VoicePlay("P840400000_04_030");
 MsgDisp("Nanatsumori","Let's go out once you reach a stopping point?
 As a reward, I'll treat you to takoyaki.");
-MsgDisp("主人公","(Yay—!
-I'm glad my work also went well.)");
+MsgDisp("主人公","(Yay—! I'm glad my work also went well.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

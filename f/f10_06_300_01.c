@@ -9,10 +9,8 @@ Goodbye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 VoicePlay("F100630001_22_000");
-MsgDisp("Hikaru?","Ehhh∋
-Himuro-chan wait!");
-MsgDisp("主人公","(Hmm?
-These voices...)");
+MsgDisp("Hikaru?","Ehhh∋ Himuro-chan wait!");
+MsgDisp("主人公","(Hmm? These voices...)");
 MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 Umm, what is it this time?");
 MsgClose();

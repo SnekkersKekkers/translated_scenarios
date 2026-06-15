@@ -44,8 +44,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360121200_01_040");
 MsgDisp("Kazama","Not great.
-It might be fine for you, but it's rough on
-me.");
+It might be fine for you, but it's rough
+on me.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -54,8 +54,8 @@ VoicePlay("B360121200_01_050");
 MsgDisp("Kazama","It'll be a week of being bombarded by
 questions at school.");
 MsgDisp("主人公","Hehe, is that so?
-Then, let's come here with everyone next
-time.");
+Then, let's come here with everyone
+next time.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -67,8 +67,7 @@ Wait(10,0);
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("B360121200_01_070");
-MsgDisp("Kazama","...Geez.
-We can just buy souvenirs for us.
+MsgDisp("Kazama","...Geez. We can just buy souvenirs for us.
 Right?");
 MsgDisp("主人公","Y-Yeah.");
 BGMStop();

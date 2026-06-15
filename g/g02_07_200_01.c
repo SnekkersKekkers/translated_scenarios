@@ -4,8 +4,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("G020720001_07_000");
-MsgDisp("Mikage","With all these friends, every day must be
-fun.");
+MsgDisp("Mikage","With all these friends, every day must
+be fun.");
 MsgDisp("主人公","Are you talking about the fireflies here?");
 ChEye(7,0);
 ChMouth(7,0);

@@ -23,8 +23,7 @@ ChMotion(4,1,1);
 VoicePlay("B360450100_04_020");
 MsgDisp("Nanatsumori","Just imagining you playing on swings and
 slides as a child is soothing.");
-MsgDisp("主人公","Hehe.
-How so?");
+MsgDisp("主人公","Hehe. How so?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -39,9 +38,9 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360450100_04_050");
-MsgDisp("Nanatsumori","...I wonder if I lived in this neighbourhood
-as well, would I have become friends with
-you?");
+MsgDisp("Nanatsumori","...I wonder if I lived in this
+neighbourhood as well, would I have become
+friends with you?");
 MsgDisp("主人公","That's right...
 I think we would've definitely become
 friends.");
@@ -49,8 +48,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B360450100_04_060");
-MsgDisp("Nanatsumori","I see.
-...Yeah, maybe that's true.");
+MsgDisp("Nanatsumori","I see. ...Yeah, maybe that's true.");
 MsgDisp("主人公","Hehe!");
 BGMStop();
 MsgClose();

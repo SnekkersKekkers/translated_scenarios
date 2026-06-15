@@ -33,8 +33,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("P740700002_07_030");
 MsgDisp("Mikage","I'm also happy.
-It's the best when your efforts have paid
-off.");
+It's the best when your efforts have
+paid off.");
 MsgDisp("主人公","(Yay, the show was a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -8,8 +8,7 @@ switch (ChPrmGet(3,6)){
     break ;
     case 4:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Oh?
-It's a call from ｛Honda＊＊｝.)");
+    MsgDisp("主人公","(Oh? It's a call from ｛Honda＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -25,8 +24,7 @@ It's a call from ｛Honda＊＊｝.)");
         break ;
         case 1:
         VoicePlay("J040300001_03_020");
-        MsgDisp("Honda","I see.
-I guess I can't do it then.");
+        MsgDisp("Honda","I see. I guess I can't do it then.");
         MsgDisp("主人公","Sorry.");
         VoicePlay("J040300001_03_030");
         MsgDisp("Honda","No, not at all!
@@ -45,8 +43,7 @@ I asked you out of the blue.");
     break ;
     case 5:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Oh?
-It's a call from ｛Honda＊＊｝.)");
+    MsgDisp("主人公","(Oh? It's a call from ｛Honda＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();

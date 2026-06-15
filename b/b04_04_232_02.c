@@ -68,8 +68,8 @@ I'm asking you this seriously.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_070");
-        MsgDisp("Nanatsumori","Think back over how this conversation just
-went.
+        MsgDisp("Nanatsumori","Think back over how this conversation
+just went.
 ...That's where it lands, right?");
         MsgDisp("主人公","...Ah.");
         ChEye(4,2);
@@ -96,8 +96,8 @@ like that, take a proper look at them first.");
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_120");
         MsgDisp("Nanatsumori","I can still stay calm.
-But there'll be people who can't.
-That's for sure.");
+But there'll be people who can't. That's
+for sure.");
         ChEye(4,2);
         ChMouth(4,4);
         ChMotion(4,0,1);
@@ -110,8 +110,7 @@ What I want to say.");
         ChMouth(4,3);
         ChMotion(4,3,1);
         VoicePlay("B040423202_04_140");
-        MsgDisp("Nanatsumori","Mm.
-Alright.");
+        MsgDisp("Nanatsumori","Mm. Alright.");
         MsgDisp("主人公","(｛Nanatsumori＊｝...you really are worried
 about me.)");
         break ;
@@ -127,8 +126,7 @@ about me.)");
     ChMotion(4,1,1);
     VoicePlay("B040423202_04_150");
     MsgDisp("Nanatsumori","You're too anxious.
-Your face is bright red.
-Cute.");
+Your face is bright red. Cute.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

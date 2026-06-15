@@ -24,8 +24,8 @@ to home for us?!");
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040118500_01_010");
-    MsgDisp("Kazama","So-so means it was neither good nor bad,
-right?
+    MsgDisp("Kazama","So-so means it was neither good nor
+bad, right?
 What a waste of time.");
     MsgDateResultDisp();
     break ;

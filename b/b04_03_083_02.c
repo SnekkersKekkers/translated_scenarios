@@ -5,8 +5,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040308302_03_000");
-MsgDisp("Honda","Doesn't it feel about two degrees cooler
-here?");
+MsgDisp("Honda","Doesn't it feel about two degrees
+cooler here?");
 MsgSel("Seems like the fireflies are also comfortable with it","It's a mysterious spot","Maybe it's thanks to the spring water?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,9 +30,9 @@ switch (MsgSelRsltGet()){
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040308302_03_020");
-        MsgDisp("Honda","Yeah, the fireflies in the daytime take their
-time to rest so they can preserve their
-energy.");
+        MsgDisp("Honda","Yeah, the fireflies in the daytime take
+their time to rest so they can preserve
+their energy.");
         MsgDisp("主人公","Shining and flying around at night must be
 tough huh.");
         ChEye(3,1);
@@ -58,8 +58,7 @@ with some amazing strategies huh?");
         MsgDisp("Honda","If I were a firefly, I'd take the direct
 approach! I'd fly around flashing right in
 front of you.");
-        MsgDisp("主人公","Ummm...
-This is if I were a firefly too?");
+        MsgDisp("主人公","Ummm... This is if I were a firefly too?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,3);

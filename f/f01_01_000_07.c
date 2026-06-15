@@ -25,8 +25,7 @@ switch (ChPrmGet(1,6)){
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("F010100007_01_060");
-        MsgDisp("Kazama","OK.
-Well then, let's go.");
+        MsgDisp("Kazama","OK. Well then, let's go.");
         break ;
         case 1:
         ChEye(1,4);
@@ -119,9 +118,7 @@ We'll eat your favourite sweets.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("F010100007_01_120");
-        MsgDisp("Kazama","I see.
-Maybe another time.
-...Sigh.");
+        MsgDisp("Kazama","I see. Maybe another time. ...Sigh.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

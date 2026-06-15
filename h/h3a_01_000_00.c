@@ -45,8 +45,8 @@ I'm glad I practised so much!)");
     ChMotion(1,3);
     VoicePlay("H3A0100000_01_030");
     MsgDisp("Kazama","Awesome.
-It felt like that stage was made just for
-you.");
+It felt like that stage was made just
+for you.");
     MsgDisp("主人公","｛Kazama＊＊｝, you came to cheer for me!");
     ChEye(1,4);
     ChMouth(1,3);
@@ -64,8 +64,8 @@ looks like I was worrying for nothing.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("H3A0100000_01_060");
-    MsgDisp("Kazama","What was amazing wasn't just that you were
-strong.
+    MsgDisp("Kazama","What was amazing wasn't just that you
+were strong.
 ...It was kind of beautiful.");
     MsgDisp("主人公","Hm?");
     ChEye(1,4);

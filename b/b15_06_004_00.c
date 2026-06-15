@@ -40,8 +40,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 ChEyeOpenLevel(6,#1);
 Wait(60,0);
-MsgDisp("主人公","Eh∋
-Wait!");
+MsgDisp("主人公","Eh∋ Wait!");
 SEWait();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
@@ -54,8 +53,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600400_06_060");
-MsgDisp("Himuro","...Sigh.
-I've told you so many times.
+MsgDisp("Himuro","...Sigh. I've told you so many times.
 I don't want an apology from you.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -70,8 +68,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600400_06_080");
 MsgDisp("Himuro","It's just that I want you to be more aware.
-Your actions stimulate me more than you
-think.");
+Your actions stimulate me more than
+you think.");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);

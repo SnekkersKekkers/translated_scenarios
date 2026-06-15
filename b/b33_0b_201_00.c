@@ -18,8 +18,7 @@ ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20100_04_000");
-MsgDisp("Nanatsumori","Eh∋
-That's not like you to say that, Dahon.");
+MsgDisp("Nanatsumori","Eh∋ That's not like you to say that, Dahon.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -50,8 +49,7 @@ VoicePlay("B330B20100_01_010");
 MsgDisp("Kazama","Even giving it every benefit of the doubt,
 can I see it as cute?
 Nope, I can't.");
-MsgDisp("主人公","Hehe!
-｛Honda＊＊｝, are you satisfied?");
+MsgDisp("主人公","Hehe! ｛Honda＊＊｝, are you satisfied?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

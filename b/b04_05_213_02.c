@@ -60,8 +60,8 @@ But, it feels nice to see something clean.");
         ChMotion(5,4);
         VoicePlay("B040521302_05_060");
         MsgDisp("Hiiragi","Even if you try your best, there are many
-things in this world that don't get tidied
-up.");
+things in this world that don't get
+tidied up.");
         MsgDisp("主人公","｛Hiiragi＊＊＊｝, doing both school and the
 theatre company must be difficult...");
         ChEye(5,3);
@@ -69,8 +69,8 @@ theatre company must be difficult...");
         ChMotion(5,3);
         VoicePlay("B040521302_05_070");
         MsgDisp("Hiiragi","Yes, it is difficult.
-But, I have people who support and encourage
-me.");
+But, I have people who support and
+encourage me.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);

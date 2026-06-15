@@ -37,8 +37,7 @@ stage or school.");
     ChMouth(5,2);
     ChMotion(5,2);
     VoicePlay("B040511101_05_030");
-    MsgDisp("Hiiragi","Eh?
-Why is that?
+    MsgDisp("Hiiragi","Eh? Why is that?
 I don't understand your intentions...");
     MsgDateResultDisp();
     break ;

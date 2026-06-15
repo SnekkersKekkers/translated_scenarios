@@ -71,8 +71,7 @@ cherry blossoms right?");
         VoicePlay("B040608102_06_060");
         MsgDisp("Himuro","Then when am I doing something \"like\" me?
 Tell me.");
-        MsgDisp("主人公","Hm...
-When you're surfing?");
+        MsgDisp("主人公","Hm... When you're surfing?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0,1);

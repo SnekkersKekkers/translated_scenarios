@@ -100,8 +100,8 @@ I'll let you steer.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B030523001_05_080");
-    MsgDisp("Hiiragi","I'll hold on tightly, so turn as much as you
-like.");
+    MsgDisp("Hiiragi","I'll hold on tightly, so turn as much as
+you like.");
     break ;
     case 4:
     MsgDispSksp(1,0);

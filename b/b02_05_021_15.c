@@ -4,8 +4,7 @@ ChMotion(5,0);
 VoicePlay("B020502115_05_000");
 MsgDisp("Hiiragi","I am not familiar with women's clothing such
 as that.");
-MsgDisp("主人公","Ehh∋
-Does it look weird...?");
+MsgDisp("主人公","Ehh∋ Does it look weird...?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

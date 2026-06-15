@@ -17,14 +17,14 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600000_06_370");
 MsgDisp("Himuro","Surfing just feels good.
-I wouldn't think of it as a dream for the
-future.");
+I wouldn't think of it as a dream for
+the future.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_380");
-MsgDisp("Himuro","I'm sure there are other things I'll want to
-do.
+MsgDisp("Himuro","I'm sure there are other things I'll want
+to do.
 ...I don't know what they are though.");
 MsgDisp("主人公","I see.");
 ChEye(6,0);

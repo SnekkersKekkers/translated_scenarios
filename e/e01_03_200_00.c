@@ -1,8 +1,8 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Alright then, I guess it's time to go
-home?)");
+MsgDisp("主人公","(...Alright then, I guess it's time to
+go home?)");
 VoicePlay("E010320000_01_000");
 MsgDisp("Kazama?","Honda, don't be so noisy in the store.");
 VoicePlay("E010320000_03_000");
@@ -38,8 +38,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("E010320000_03_020");
-MsgDisp("Honda","Yeah!
-It's funny right, the aprons.
+MsgDisp("Honda","Yeah! It's funny right, the aprons.
 Hahaha.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
@@ -51,8 +50,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010320000_01_030");
-MsgDisp("Kazama","You guys are laughing right in front of the
-store.
+MsgDisp("Kazama","You guys are laughing right in front of
+the store.
 ...Geez.");
 MsgDisp("主人公","Ah, sorry.
 You're working part-time today?");
@@ -60,8 +59,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("E010320000_01_040");
-MsgDisp("Kazama","Yeah, I was asked to take this shift on short
-notice.");
+MsgDisp("Kazama","Yeah, I was asked to take this shift on
+short notice.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -73,10 +72,9 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("E010320000_01_050");
 MsgDisp("Kazama","Because of that, Honda-kun went all the way
-back just to get the apron from his part-time
-job.");
-MsgDisp("主人公","Hehe.
-｛Honda＊＊｝, that's interesting.");
+back just to get the apron from his
+part-time job.");
+MsgDisp("主人公","Hehe. ｛Honda＊＊｝, that's interesting.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

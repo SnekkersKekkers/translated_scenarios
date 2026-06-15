@@ -12,8 +12,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010720100_07_000");
-MsgDisp("Mikage","Oh, the three of us from the same class are
-here.");
+MsgDisp("Mikage","Oh, the three of us from the same class
+are here.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -26,8 +26,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("E010720100_07_010");
 MsgDisp("Mikage","Fine, but it's close enough.");
-MsgDisp("主人公","Hehe.
-What were you two up to?");
+MsgDisp("主人公","Hehe. What were you two up to?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

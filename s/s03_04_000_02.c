@@ -11,8 +11,7 @@ I don't want to catch a cold.");
     MsgDisp("主人公","Ah...yeah.
 I guess that's true.");
     VoicePlay("S030400002_04_020");
-    MsgDisp("Nanatsumori","Yeah.
-Bye.");
+    MsgDisp("Nanatsumori","Yeah. Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(It can't be helped...
@@ -37,13 +36,10 @@ Let's go alone then.)");
     case 4:
     case 5:
     VoicePlay("S030400002_04_060");
-    MsgDisp("Nanatsumori","Sigh...
-I wanted to go with you too.");
-    MsgDisp("主人公","Ah...
-Work?");
+    MsgDisp("Nanatsumori","Sigh... I wanted to go with you too.");
+    MsgDisp("主人公","Ah... Work?");
     VoicePlay("S030400002_04_070");
-    MsgDisp("Nanatsumori","Yeah.
-The Model Agency's New Year's Party.");
+    MsgDisp("Nanatsumori","Yeah. The Model Agency's New Year's Party.");
     MsgDisp("主人公","I guess it can't be helped...
 Be safe then.
 Byebye.");

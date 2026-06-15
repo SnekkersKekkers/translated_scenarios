@@ -24,8 +24,7 @@ switch (ChPrmGet(22,6)){
     ChMotion(22,4,1);
     ChCheek(22,5);
     VoicePlay("F012200003_22_020");
-    MsgDisp("Hikaru","Heh▼
-Mari asked Hikaru out.
+    MsgDisp("Hikaru","Heh▼ Mari asked Hikaru out.
 Let's go♪");
     MsgDisp("主人公","Yay!");
     break ;

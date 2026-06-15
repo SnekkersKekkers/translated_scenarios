@@ -5,8 +5,7 @@ I need to find a staff member...)");
 SEPlay("EV_SE_590",0,0.6);
 Wait(20,0);
 ScrQuake(0);
-MsgDisp("主人公","Ah!
-Sorry!");
+MsgDisp("主人公","Ah! Sorry!");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ev003",0);
@@ -15,10 +14,8 @@ MsgClose();
 ChOpen(3,100,1,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("A020330100_03_000");
-MsgDisp("Honda?","Ah-!
-You're the newbie!");
-MsgDisp("主人公","Y-Yes!
-I'm the new employee here.
+MsgDisp("Honda?","Ah-! You're the newbie!");
+MsgDisp("主人公","Y-Yes! I'm the new employee here.
 My name is ｛主人公苗字｝.");
 ChEye(3,0);
 ChMouth(3,0);

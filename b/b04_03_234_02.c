@@ -65,8 +65,8 @@ worthwhile going anywhere!");
         ChMotion(3,1);
         VoicePlay("B040323402_03_070");
         MsgDisp("Honda","Yep yep...
-Ah, but I think I'm good on the teacups for a
-while.");
+Ah, but I think I'm good on the teacups for
+a while.");
         MsgDisp("主人公","(Hmmm, what should we do?)");
         break ;
         default :

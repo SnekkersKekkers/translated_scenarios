@@ -73,8 +73,7 @@ binoculars?");
         ChMouth(3,0);
         ChMotion(3,5);
         VoicePlay("B040301102_03_070");
-        MsgDisp("Honda","Darn!
-You got me.");
+        MsgDisp("Honda","Darn! You got me.");
         ChSet(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040301102_03_080");
@@ -83,8 +82,8 @@ You got me.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040301102_03_090");
-        MsgDisp("Honda","Okay then, next time it's my turn to prank
-you.
+        MsgDisp("Honda","Okay then, next time it's my turn to
+prank you.
 Be prepared for it, okay?");
         MsgDisp("主人公","Really?
 I feel like a prank from ｛Honda＊＊｝ is going

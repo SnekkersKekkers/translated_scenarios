@@ -33,8 +33,8 @@ Did something happen?");
     ChMotion(7,1);
     VoicePlay("Q020700000_07_020");
     MsgDisp("Mikage","Yeah. I was thinking of doing an
-\"Extracurricular lesson: Nagasaki
-Chapter!\", but I guess nobody's up for it.");
+\"Extracurricular lesson: Nagasaki Chapter!\",
+but I guess nobody's up for it.");
     MsgDisp("主人公","Extracurricular lesson: Nagasaki Chapter?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -57,8 +57,7 @@ I'm still recruiting, but at this rate
         ChMotion(7,1);
         VoicePlay("Q020700000_07_050");
         MsgDisp("Mikage","Well, let's enjoy.");
-        MsgDisp("主人公","(Extracurricular lesson: Nagasaki
-Chapter...
+        MsgDisp("主人公","(Extracurricular lesson: Nagasaki Chapter...
 Hehe, I'm excited!)");
         break ;
         case 1:
@@ -77,8 +76,7 @@ opportunity. Make sure to enjoy it to the
 fullest so you won't regret it in the end.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(Hmmm...
-｛Mikage＊＊｝ looks lonely...
+        MsgDisp("主人公","(Hmmm... ｛Mikage＊＊｝ looks lonely...
 I feel a bit bad.)");
         break ;
         default :
@@ -100,8 +98,8 @@ I feel a bit bad.)");
     ChMotion(7,3);
     VoicePlay("Q020700000_07_090");
     MsgDisp("Mikage","Good morning!
-Do you already have plans for the free
-period?");
+Do you already have plans for the
+free period?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -146,13 +144,12 @@ together with him!)");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("Q020700000_07_150");
-        MsgDisp("Mikage","I knew it...
-Coming all this way just to attend an extracurricular lesson?
+        MsgDisp("Mikage","I knew it... Coming all this way just to
+attend an extracurricular lesson?
 I'd say no too, I guess.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(7);
-        MsgDisp("主人公","(Hmmm...
-Maybe I should've gone?)");
+        MsgDisp("主人公","(Hmmm... Maybe I should've gone?)");
         break ;
         default :
         DbgAssert(0);

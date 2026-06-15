@@ -100,8 +100,7 @@ ChOpen(1,255,0,0,0,#1,#1,0,3,0,30);
 ChOpen(2,255,0,2,0,0,#1,0,3,0,30);
 ChMouth(1,2);
 VoicePlay("B330A10800_01_040");
-MsgDisp("Kazama","...Huh?
-We're missing someone.");
+MsgDisp("Kazama","...Huh? We're missing someone.");
 MsgDisp("主人公","Eh∋");
 ChEye(2,2);
 ChMouth(2,0);

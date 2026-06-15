@@ -1,7 +1,6 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh...
-Feels good to get a little exercise!");
+MsgDisp("主人公","Huh... Feels good to get a little exercise!");
 VoicePlay("A020210000_02_000");
 MsgDisp("Sassa?","I think so too!");
 MsgDisp("主人公","What?");
@@ -11,8 +10,8 @@ SEWait();
 BGMPlay("BGM_C02_SASSA_I");
 ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("A020210000_02_010");
-MsgDisp("Sassa?","You've been exercising around here lately,
-right?
+MsgDisp("Sassa?","You've been exercising around here
+lately, right?
 Looks like you really enjoy working out.");
 MsgDisp("主人公","Uhh...");
 ChEye(2,0);
@@ -25,8 +24,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_030");
-MsgDisp("Sassa","Err...
-I'm Sassa Nozomu.
+MsgDisp("Sassa","Err... I'm Sassa Nozomu.
 From the track and field club. You?");
 MsgDisp("主人公","I'm ｛主人公姓名｝.");
 ChEye(2,0);
@@ -105,8 +103,7 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoicePlay("A020210000_02_120");
 MsgDisp("Sassa","Phew, that was nice!
 Feeling a little tired?");
-MsgDisp("主人公","Ahh...
-Yeah, a little, but it was fun!
+MsgDisp("主人公","Ahh... Yeah, a little, but it was fun!
 Thank you, ｛Sassa＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -132,8 +129,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020210000_02_160");
-MsgDisp("Sassa","If you ever feel like it, let's hang out
-again.
+MsgDisp("Sassa","If you ever feel like it, let's hang
+out again.
 See you!");
 MsgClose();
 SEPlay("EV_SE_626");

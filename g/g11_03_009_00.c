@@ -1,8 +1,8 @@
 BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Lots of books are going to be delivered
-today.
+MsgDisp("主人公","(Lots of books are going to be
+delivered today.
 I'll do my best!)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");

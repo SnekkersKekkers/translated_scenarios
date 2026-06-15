@@ -6,8 +6,7 @@ switch (MsgSelRsltGet()){
     MsgDisp("主人公","Then, at the ｛待ち合わせ場所｝.
 Should we meet up there?");
     VoicePlay("J140601001_06_010");
-    MsgDisp("Himuro","Cool.
-I'll let the other two know.
+    MsgDisp("Himuro","Cool. I'll let the other two know.
 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

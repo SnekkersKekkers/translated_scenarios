@@ -34,8 +34,8 @@ than the guy playing Hades.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P230200001_02_020");
-    MsgDisp("Sassa","Maybe they picked up the smell of dogs on my
-body?");
+    MsgDisp("Sassa","Maybe they picked up the smell of dogs on
+my body?");
     MsgDisp("主人公","Also, ｛Sassa＊＊｝ is quite big?");
     ChEye(2,0);
     ChMouth(2,3);

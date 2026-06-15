@@ -13,8 +13,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("Q110B00000_03_000");
-MsgDisp("Honda","Ahh...
-The castella was so yummy!");
+MsgDisp("Honda","Ahh... The castella was so yummy!");
 MsgDisp("主人公","Yeah!");
 ChEye(1,0);
 ChMouth(1,3);
@@ -96,12 +95,10 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q110B00000_04_020");
-MsgDisp("Nanatsumori","Yeah.
-Our masterpiece.");
+MsgDisp("Nanatsumori","Yeah. Our masterpiece.");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Eh?
-By \"our\", you mean...");
+MsgDisp("主人公","Eh? By \"our\", you mean...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -126,8 +123,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q110B00000_01_050");
 MsgDisp("Kazama","Do you like it?");
-MsgDisp("主人公","Yes...!
-Thanks, everyone!");
+MsgDisp("主人公","Yes...! Thanks, everyone!");
 MsgDisp("主人公","(I got gifted a wonderful memory!)");
 BGMStop();
 MsgClose();

@@ -7,8 +7,7 @@ ChMotion(4,0);
 VoicePlay("B020402000_04_000");
 MsgDisp("Nanatsumori","Ah, Hazuki Kei.
 ...Actually, Hazuki-san.");
-MsgDisp("主人公","Yeah.
-It's a bestseller T-shirt, right?");
+MsgDisp("主人公","Yeah. It's a bestseller T-shirt, right?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -20,8 +19,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3);
 VoicePlay("B020402000_04_020");
-MsgDisp("Nanatsumori","...Yeah.
-Seriously incredible...");
+MsgDisp("Nanatsumori","...Yeah. Seriously incredible...");
 MsgDisp("主人公","(｛Nanatsumori＊｝, are you overwhelmed by the
 intensity of your senior?
 Hehe, that's a little funny!)");

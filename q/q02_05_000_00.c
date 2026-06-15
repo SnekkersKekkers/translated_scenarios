@@ -51,14 +51,14 @@ confidence that I'm enjoying the school trip.");
         ChMouth(5,4);
         ChMotion(5,0,1);
         VoicePlay("Q020500000_05_050");
-        MsgDisp("Hiiragi","No, I apologise for the invitation out of the
-blue.
+        MsgDisp("Hiiragi","No, I apologise for the invitation out of
+the blue.
 To each our own, let us enjoy Nagasaki.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
-        MsgDisp("主人公","(I feel a bit bad refusing, he even invited
-me...)");
+        MsgDisp("主人公","(I feel a bit bad refusing, he even
+invited me...)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -118,8 +118,7 @@ I'll get ready quickly!");
         VoicePlay("Q020500000_05_120");
         MsgDisp("Hiiragi","Oh right, please take your time.
 I will rejoice here as I wait for you.");
-        MsgDisp("主人公","(Hehe!
-｛Hiiragi＊＊＊｝ looks so excited.
+        MsgDisp("主人公","(Hehe! ｛Hiiragi＊＊＊｝ looks so excited.
 I'm sure it will be a wonderful school trip!)");
         MsgClose();
         ScrFadeOut(0,0);

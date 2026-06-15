@@ -31,8 +31,7 @@ ChMouth(4,4);
 VoicePlay("F020400008_04_020");
 MsgDisp("Nanatsumori","But friends you drifted apart from when you
 started high school might come visit, right?");
-MsgDisp("主人公","Oh...
-I guess.");
+MsgDisp("主人公","Oh... I guess.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);

@@ -6,8 +6,7 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 SEWait();
 VoicePlay("U100D00003_22_000");
-MsgDisp("Hikaru","Hi～
-Mari!
+MsgDisp("Hikaru","Hi～ Mari!
 It's Hikaru♪");
 MsgDisp("主人公","What's up, ｛ひかる＊｝?");
 VoicePlay("U100D00003_22_010");
@@ -17,10 +16,8 @@ MsgSel("Ok, I'll come!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U100D00003_22_020");
-    MsgDisp("Hikaru","Yay!
-Merci, Mari▼");
-    MsgDisp("主人公","Hehe!
-Well then, I'll get ready to come over.");
+    MsgDisp("Hikaru","Yay! Merci, Mari▼");
+    MsgDisp("主人公","Hehe! Well then, I'll get ready to come over.");
     VoicePlay("U100D00003_22_030");
     MsgDisp("Hikaru","Ok, we'll wait for you♪
 See you soon!");

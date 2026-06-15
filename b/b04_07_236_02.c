@@ -12,8 +12,8 @@ ChMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("B040723602_07_000");
 MsgDisp("Mikage","There's a lot of people...
-It's night time, so don't get separated,
-okay?");
+It's night time, so don't get
+separated, okay?");
 MsgSel("Please hold my hand.","Can we get a little closer?","｛Mikage＊＊｝'s head stands out, so it'll be okay.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -58,8 +58,8 @@ That's right.");
         ChMotion(7,0);
         VoicePlay("B040723602_07_040");
         MsgDisp("Mikage","That's fine, but if you're only looking at
-me, there's no point in coming to the night
-parade.");
+me, there's no point in coming to the
+night parade.");
         MsgDisp("主人公","I don't mind.");
         ChEye(7,0);
         ChMouth(7,0);

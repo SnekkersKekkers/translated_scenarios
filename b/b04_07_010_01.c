@@ -5,8 +5,7 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,5);
 ScrFadeIn(0);
 VoicePlay("B040701001_07_000");
-MsgDisp("Mikage","Oh.
-Wouldn't this be nice?");
+MsgDisp("Mikage","Oh. Wouldn't this be nice?");
 MsgSel("You're right, I think I should buy it!","Is that so...?","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:

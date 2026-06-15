@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Now that I think about it, it's almost sports
-day.");
+MsgDisp("主人公","Now that I think about it, it's almost
+sports day.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -44,8 +44,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200006_02_050");
 MsgDisp("Sassa","Yeah, Ryota's a good example.
-The more you encourage them, the more they
-flee.");
+The more you encourage them, the more
+they flee.");
 MsgDisp("主人公","Haha, that's definitely ｛Kazama＊＊｝.
 He doesn't seem like he'd join a sports club.");
 ChEye(2,0);

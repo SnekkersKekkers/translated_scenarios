@@ -12,8 +12,7 @@ BGMPlay("BGM_C04_NANA_A");
 ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("K020400001_04_000");
-MsgDisp("Nanatsumori","Hey.
-Sorry for coming so late.");
+MsgDisp("Nanatsumori","Hey. Sorry for coming so late.");
 MsgDisp("主人公","｛Nanatsumori＊｝!?
 What's up so suddenly?");
 SEPlay("EV_SE_665");
@@ -35,8 +34,7 @@ MsgDisp("Nanatsumori","No problem.
 It's late, but happy birthday.");
 MsgDisp("主人公","Thank you, ｛Nanatsumori＊｝.");
 VoicePlay("K020400001_04_030");
-MsgDisp("Nanatsumori","Yeah.
-Well, see you at school.");
+MsgDisp("Nanatsumori","Yeah. Well, see you at school.");
 SEPlay("EV_SE_DOOR_022");
 SEWait();
 SEPlay("EV_SE_DOOR_023",0,0.3);

@@ -28,8 +28,7 @@ familiar voice somewhere.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I650600000_06_020");
-    MsgDisp("Himuro","Well, work hard.
-...Bye.");
+    MsgDisp("Himuro","Well, work hard. ...Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -46,8 +45,7 @@ I wonder if he was checking on me?)");
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650600000_06_030");
-    MsgDisp("Himuro","Wow...
-You working hard?");
+    MsgDisp("Himuro","Wow... You working hard?");
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -65,8 +63,7 @@ But it's worth doing.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I650600000_06_060");
-    MsgDisp("Himuro","Well, just don't overdo it.
-...Bye.");
+    MsgDisp("Himuro","Well, just don't overdo it. ...Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -103,14 +100,13 @@ If so, I'm happy.)");
     MsgDisp("Himuro","You're loud.
 It's echoing onto the road.");
     MsgDisp("主人公","Huh, really?
-I always try to greet people cheerfully,
-so...");
+I always try to greet people
+cheerfully, so...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I650600000_06_100");
-    MsgDisp("Himuro","Hm.
-Customer service is tough.");
+    MsgDisp("Himuro","Hm. Customer service is tough.");
     SEPlay("EV_SE_659",0,0.8);
     SEWait();
     ChEye(6,0);
@@ -126,15 +122,14 @@ I had this leftover, so take it.");
     ChCheek(6,5);
     VoicePlay("I650600000_06_120");
     MsgDisp("Himuro","Right.
-Since it's over for you if you lose your
-voice.");
+Since it's over for you if you lose
+your voice.");
     MsgDisp("主人公","Hehe, thank you!");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I650600000_06_130");
-    MsgDisp("Himuro","You're welcome.
-...Bye.");
+    MsgDisp("Himuro","You're welcome. ...Bye.");
     MsgClose();
     BGMStop();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

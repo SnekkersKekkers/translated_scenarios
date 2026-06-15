@@ -24,8 +24,7 @@ ChCheek(1,7);
 VoicePlay("B070100001_01_160");
 MsgDisp("Kazama","Anytime...
 Are you saying that for real?");
-MsgDisp("主人公","Yeah.
-Huh?
+MsgDisp("主人公","Yeah. Huh?
 Is that wrong?");
 ChEye(1,0);
 ChMouth(1,1);

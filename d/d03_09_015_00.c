@@ -46,8 +46,7 @@ interfere with your studies.");
 MsgDisp("主人公","U-Uhm...");
 VoicePlay("D030901500_09_070");
 MsgDisp("Kuya","Good night, then.");
-MsgDisp("主人公","Ah...
-Okay, good night...");
+MsgDisp("主人公","Ah... Okay, good night...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Hmm... I wanted to invite Kuya-san to the

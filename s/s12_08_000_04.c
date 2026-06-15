@@ -14,8 +14,8 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,0);
     ChMotion(8,4);
     VoicePlay("S120800004_08_000");
-    MsgDisp("Shirahane","It's already our senior year shrine visit
-huh...");
+    MsgDisp("Shirahane","It's already our senior year shrine
+visit huh...");
     MsgDisp("主人公","Yeah...");
     ChEye(8,3);
     ChMouth(8,3);
@@ -43,8 +43,8 @@ Let's live without any regrets!)");
     ChMotion(8,4);
     ChEyeOpenLevel(8,10);
     VoicePlay("S120800004_08_030");
-    MsgDisp("Shirahane","It's our last shrine visit in high school, but it
-feels kinda anticlimactic...");
+    MsgDisp("Shirahane","It's our last shrine visit in high school,
+but it feels kinda anticlimactic...");
     MsgDisp("主人公","Eh?");
     ChEye(8,2);
     ChMouth(8,0);

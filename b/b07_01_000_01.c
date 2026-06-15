@@ -4,8 +4,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_010");
-MsgDisp("Kazama","TV?
-Geez, you're such a trend-chaser.");
+MsgDisp("Kazama","TV? Geez, you're such a trend-chaser.");
 MsgDisp("主人公","Does ｛Kazama＊＊｝ not watch it at all?");
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);

@@ -14,8 +14,7 @@ ChCheek(6,5);
 VoicePlay("B050600100_06_000");
 MsgDisp("Himuro","Oh, hey...no, that's not right.
 We're just friends.");
-MsgDisp("主人公","Uhm...
-｛Himuro＊＊｝, do you come here often?");
+MsgDisp("主人公","Uhm... ｛Himuro＊＊｝, do you come here often?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -67,8 +66,7 @@ StlOpen("ev_06_03");
 StlEye(6,0);
 StlMouth(6,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Woah...
-｛Himuro＊＊｝ is playing...!");
+MsgDisp("主人公","Woah... ｛Himuro＊＊｝ is playing...!");
 VoicePlay("B050600100_34_040");
 MsgDisp("Band Guy","You're a natural!");
 StlEye(6,1);
@@ -107,8 +105,7 @@ ChCheek(6,5);
 VoicePlay("B050600100_06_090");
 MsgDisp("Himuro","Not really.
 It just happened to work.");
-MsgDisp("主人公","Eh?
-It just happened?");
+MsgDisp("主人公","Eh? It just happened?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -149,8 +146,8 @@ MsgClose();
 ChClose(6);
 VoicePlay("B050600100_06_150");
 MsgDisp("Himuro","Excuse me!
-Would it be okay for me to borrow your bass
-again?");
+Would it be okay for me to borrow your
+bass again?");
 MsgDisp("主人公","W-Wait a minute!
 ｛Himuro＊＊｝, I'm fine...!");
 BGMStop();

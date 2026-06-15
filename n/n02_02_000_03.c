@@ -29,8 +29,7 @@ let's just do our best next time.");
     VoiceEVSPlay(2);
     VoicePlay("N020200003_02_020");
     MsgDisp("Sassa","｛主人公｝, are you okay?");
-    MsgDisp("主人公","Huh?
-｛Sassa＊＊｝, what do you mean?");
+    MsgDisp("主人公","Huh? ｛Sassa＊＊｝, what do you mean?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -43,8 +42,7 @@ I hope you don't mind.");
     VoicePlay("N020200003_02_040");
     MsgDisp("Sassa","No, you should mind.
 You should be a little concerned.");
-    MsgDisp("主人公","Umm...
-Yeah, I guess you're right.");
+    MsgDisp("主人公","Umm... Yeah, I guess you're right.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -65,8 +63,8 @@ problem.");
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("N020200003_02_060");
-    MsgDisp("Sassa","｛主人公｝, this is really weird coming from
-you.");
+    MsgDisp("Sassa","｛主人公｝, this is really weird coming
+from you.");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 What's wrong?");
     ChEye(2,0);
@@ -76,8 +74,7 @@ What's wrong?");
     MsgDisp("Sassa","Is your name not on the list?
 This must be a mistake.
 Should I tell the teachers?");
-    MsgDisp("主人公","Huh∋
-You don't have to tell them.");
+    MsgDisp("主人公","Huh∋ You don't have to tell them.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);

@@ -48,8 +48,7 @@ partners!");
     ChMotion(1,0);
     ChCheek(1,5);
     VoicePlay("B040102400_01_030");
-    MsgDisp("Kazama","Aah...
-That's something else.
+    MsgDisp("Kazama","Aah... That's something else.
 Let's listen to it again, one more time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

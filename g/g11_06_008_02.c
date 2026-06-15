@@ -11,8 +11,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600802_06_010");
-MsgDisp("Himuro","I'm thinking of walking by the shore, wanna
-come?");
+MsgDisp("Himuro","I'm thinking of walking by the shore,
+wanna come?");
 MsgDisp("主人公","Huh, are you going to surf?
 Why not!");
 ChEye(6,0);
@@ -75,8 +75,7 @@ while (1){
     ChMotion(6,0);
     ChCheek(6,10);
     VoicePlay("G110600802_06_080");
-    MsgDisp("Himuro","W-Wha∋
-W-What are you talking about.
+    MsgDisp("Himuro","W-Wha∋ W-What are you talking about.
 I'm just still soaked.");
     }
 ChEye(6,0);

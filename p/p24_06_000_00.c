@@ -19,8 +19,7 @@ At this part, Hikoboshi is supposed to take
 Orihime's hand...)");
 MsgDisp("主人公","Hikoboshi-sama...?");
 VoicePlay("P240600000_06_010");
-MsgDisp("Himuro","!
-...Thy truth is also my truth.");
+MsgDisp("Himuro","! ...Thy truth is also my truth.");
 MsgClose();
 BGMVol(0.5,2);
 SEPlay("EV_SE_551",0,0.7);
@@ -44,8 +43,8 @@ VoicePlay("P240600000_06_030");
 MsgDisp("Himuro","However, since the day I was called by the
 Celestial Emperor and the day I first laid
 eyes on you, everything changed.");
-MsgDisp("主人公","(｛Himuro＊＊｝'s not wearing his glasses—so
-close!
+MsgDisp("主人公","(｛Himuro＊＊｝'s not wearing his
+glasses—so close!
 This is nothing like what we practised!)");
 StlEye(6,0,0);
 StlMouth(6,0);
@@ -102,8 +101,7 @@ SEPlay("EV_SE_544");
 ChOpen(6,38,0,0,0,#1,#1,0,0);
 VoicePlay("P240600000_06_090");
 MsgDisp("Himuro","Sorry...about that.");
-MsgDisp("主人公","Eh...
-Ah, you mean the adlibbing?");
+MsgDisp("主人公","Eh... Ah, you mean the adlibbing?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -117,8 +115,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("P240600000_06_110");
-MsgDisp("Himuro","Ugh...
-Well, it's fine.
+MsgDisp("Himuro","Ugh... Well, it's fine.
 Let's leave it at that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

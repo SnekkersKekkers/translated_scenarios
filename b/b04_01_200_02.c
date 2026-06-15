@@ -47,8 +47,8 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_030");
         MsgDisp("Kazama","What's that?
-When you say it, it sounds all sorts of
-scary.");
+When you say it, it sounds all sorts
+of scary.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -68,8 +68,7 @@ everything—you're curiosity personified.");
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_050");
-        MsgDisp("Kazama","There it is.
-\"Umm...\"
+        MsgDisp("Kazama","There it is. \"Umm...\"
 No. Put yourself in my shoes for once!");
         MsgDisp("主人公","｛Kazama＊＊｝, are you angry?");
         ChEye(1,1);

@@ -25,8 +25,7 @@ Are your feet okay?");
     MsgDisp("Hiiragi","That's a relief.
 If that's the case, would you mind spending
 the next free period with me too?");
-    MsgDisp("主人公","Yes.
-Let's do more sightseeing together.");
+    MsgDisp("主人公","Yes. Let's do more sightseeing together.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q080500000_05_020");
@@ -44,8 +43,8 @@ Then I'll meet you back here tomorrow.");
     ScrFadeIn(0);
     VoicePlay("Q080500000_05_030");
     MsgDisp("Hiiragi","Today was fun.
-I'm glad to spend my first school trip with
-you.");
+I'm glad to spend my first school trip
+with you.");
     MsgDisp("主人公","I had fun too!
 Thanks for inviting me.");
     ChEye(5,4);

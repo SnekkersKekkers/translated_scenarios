@@ -9,8 +9,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403102_04_000");
-MsgDisp("Nanatsumori","What?
-There's a queue over there.
+MsgDisp("Nanatsumori","What? There's a queue over there.
 ...Shall we go?");
 MsgSel("There's a sushi restaurant there, let's go!","The aquarium is sparkling, it's so pretty!","I don't wanna stand in line...");
 switch (MsgSelRsltGet()){
@@ -33,9 +32,9 @@ Whoever thought of that is a genius.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040403102_04_020");
-    MsgDisp("Nanatsumori","Wow, it's the jewellery illumination aquarium.
-The collab between the fish and the lights is
-incredible. Damn.");
+    MsgDisp("Nanatsumori","Wow, it's the jewellery illumination
+aquarium. The collab between the fish and the
+lights is incredible. Damn.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -52,8 +51,8 @@ incredible. Damn.");
         ChMotion(4,2,1);
         VoicePlay("B040403102_04_030");
         MsgDisp("Nanatsumori","Ah...right.
-Then, let's just wander around then head
-home.");
+Then, let's just wander around then
+head home.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -64,8 +63,7 @@ home.");
         ChMotion(4,2,1);
         VoicePlay("B040403102_04_040");
         MsgDisp("Nanatsumori","Ah...right.");
-        MsgDisp("主人公","Ah, did you want to take a picture?
-Then—");
+        MsgDisp("主人公","Ah, did you want to take a picture? Then—");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);
@@ -102,8 +100,7 @@ those kinds of things.");
         VoicePlay("B040403102_04_090");
         MsgDisp("Nanatsumori","Nice, your face is all teary-eyed.
 Should I take a picture?");
-        MsgDisp("主人公","Eh...∋
-Hey!");
+        MsgDisp("主人公","Eh...∋ Hey!");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,3,1);

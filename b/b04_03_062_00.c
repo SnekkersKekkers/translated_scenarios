@@ -28,8 +28,8 @@ habitat for living creatures.");
     ChMotion(3,3);
     VoicePlay("B040306200_03_020");
     MsgDisp("Honda","Let's see～
-Wait, isn't this the part where we both fall
-in!?");
+Wait, isn't this the part where we both
+fall in!?");
     MsgDateResultDisp();
     break ;
     case 2:

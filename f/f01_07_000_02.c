@@ -19,10 +19,8 @@ switch (MsgSelRsltGet()){
         BGMPlay("BGM_C07_MIKAGE_A",0.01);
         ChOpen(7,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010700002_07_010");
-        MsgDisp("Mikage","Hm?
-Do you want something?");
-        MsgDisp("主人公","Yes.
-If it's okay, can we go home together?");
+        MsgDisp("Mikage","Hm? Do you want something?");
+        MsgDisp("主人公","Yes. If it's okay, can we go home together?");
         break ;
         case 4:
         case 5:
@@ -31,10 +29,8 @@ If it's okay, can we go home together?");
         BGMPlay("BGM_C07_MIKAGE_A",0.01);
         ChOpen(7,254,0,0,0,#1,#1,0,0);
         VoicePlay("SS0007005_07_000");
-        MsgDisp("Mikage","Hm?
-Do you want something?");
-        MsgDisp("主人公","Yes.
-If it's okay, can we go home together?");
+        MsgDisp("Mikage","Hm? Do you want something?");
+        MsgDisp("主人公","Yes. If it's okay, can we go home together?");
         break ;
         default :
         DbgAssert(1);

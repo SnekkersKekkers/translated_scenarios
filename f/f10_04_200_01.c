@@ -28,8 +28,7 @@ SEWait();
 VoicePlay("F100420001_06_000");
 MsgDisp("Himuro","Minoru-senpai, thanks for yesterday...no,
 thanks for this morning.");
-MsgDisp("主人公","Ah...
-｛Himuro＊＊｝ also seems sleepy huh?");
+MsgDisp("主人公","Ah... ｛Himuro＊＊｝ also seems sleepy huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -51,8 +50,7 @@ ChMotion(6,0);
 VoicePlay("F100420001_06_020");
 MsgDisp("Himuro","Tell me about it.
 The sky was already getting light out.");
-MsgDisp("主人公","Eh?
-Wait a second.
+MsgDisp("主人公","Eh? Wait a second.
 What were you doing until dawn?");
 ChEye(6,0);
 ChMouth(6,4);

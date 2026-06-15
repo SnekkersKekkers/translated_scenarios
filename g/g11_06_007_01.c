@@ -34,8 +34,7 @@ ChMotion(6,2);
 VoicePlay("G110600701_06_020");
 MsgDisp("Himuro","Yeah...come to think of it, you also came to
 see me last time.");
-MsgDisp("主人公","Yeah.
-You were really cool!");
+MsgDisp("主人公","Yeah. You were really cool!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -47,9 +46,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G110600701_06_040");
-MsgDisp("Himuro","Well, if me participating in events make it
-more exciting, then I'll participate more
-often.");
+MsgDisp("Himuro","Well, if me participating in events make
+it more exciting, then I'll participate
+more often.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

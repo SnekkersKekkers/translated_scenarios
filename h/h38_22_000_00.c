@@ -9,8 +9,7 @@ switch (ChPrmGet(22,6)){
     ChOpen(22,254,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H382200000_22_000");
-    MsgDisp("Hikaru","Hi～
-Mari!
+    MsgDisp("Hikaru","Hi～ Mari!
 You're looking cool♪");
     MsgDisp("主人公","Ah, ｛ひかる＊｝.
 Did you come to cheer me on?");
@@ -42,11 +41,10 @@ Thank you!");
     ChMotion(22,2,1);
     ChEyeOpenLevel(22,0);
     VoicePlay("H382200000_22_030");
-    MsgDisp("Hikaru","Mari, you look so dignified in your gi for
-judo.
+    MsgDisp("Hikaru","Mari, you look so dignified in your gi
+for judo.
 Hikaru's going to fall for you▼");
-    MsgDisp("主人公","Hehe.
-I'll show you my cool side!");
+    MsgDisp("主人公","Hehe. I'll show you my cool side!");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,3,1);

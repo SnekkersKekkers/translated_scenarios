@@ -50,8 +50,8 @@ support was perfect.");
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H2A2200001_22_050");
-    MsgDisp("Hikaru","Hikaru will give you and your team the grand
-prize!
+    MsgDisp("Hikaru","Hikaru will give you and your team the
+grand prize!
 So, cheer up. Okay?");
     MsgDisp("主人公","(｛ひかる＊｝...
 We might have lost, but I'm glad that I

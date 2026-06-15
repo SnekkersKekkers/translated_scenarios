@@ -53,15 +53,14 @@ ChMotion(7,1);
 VoicePlay("D140C03100_07_020");
 MsgDisp("Mikage","Baby eggplant Yanosuke?
 Isn't that cute?");
-MsgDisp("主人公","Hehe!
-Yeah, it's cute.");
+MsgDisp("主人公","Hehe! Yeah, it's cute.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C03100_05_020");
 MsgDisp("Hiiragi","Really?
-I guess my bowl cut looked like an eggplant
-stem.");
+I guess my bowl cut looked like an
+eggplant stem.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

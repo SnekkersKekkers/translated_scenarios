@@ -6,8 +6,7 @@ MsgDisp("主人公","So many fireflies!
 Amazing...");
 ChMotion(8,3,1);
 VoicePlay("G020830100_08_000");
-MsgDisp("Shirahane","Haha!
-It's just like you, isn't it?");
+MsgDisp("Shirahane","Haha! It's just like you, isn't it?");
 MsgDisp("主人公","Eh, why?");
 ChEye(8,3);
 ChMouth(8,0);
@@ -22,8 +21,7 @@ ChMouth(8,4);
 ChMotion(8,2,1);
 ChCheek(8,6);
 VoicePlay("G020830100_08_020");
-MsgDisp("Shirahane","Am I...your friend?
-Or—");
+MsgDisp("Shirahane","Am I...your friend? Or—");
 MsgDisp("主人公","Eh?");
 ChEye(8,4);
 ChMouth(8,4);

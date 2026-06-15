@@ -70,8 +70,8 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F100330000_22_040");
-MsgDisp("Hikaru","Don't make your little sister call us weird
-names!");
+MsgDisp("Hikaru","Don't make your little sister call us
+weird names!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -88,11 +88,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F100330000_21_030");
-MsgDisp("Michiru","Hmm.
-What do you think, Mari?");
+MsgDisp("Michiru","Hmm. What do you think, Mari?");
 ChEye(22,0);
-MsgDisp("主人公","Umm...
-They're pretty huge nicknames.");
+MsgDisp("主人公","Umm... They're pretty huge nicknames.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,3,1);

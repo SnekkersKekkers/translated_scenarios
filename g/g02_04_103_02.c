@@ -8,8 +8,7 @@ MsgDisp("主人公","Like if they see us as a couple?");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("G020410302_04_010");
-MsgDisp("Nanatsumori","Yeah.
-Would it be hard to find that?
+MsgDisp("Nanatsumori","Yeah. Would it be hard to find that?
 High school students being a couple.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,4);

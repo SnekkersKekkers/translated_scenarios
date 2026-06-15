@@ -1,6 +1,5 @@
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-Where is the cardboard...?");
+MsgDisp("主人公","Huh? Where is the cardboard...?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -18,8 +17,7 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,8);
 VoicePlay("P840600003_06_010");
 MsgDisp("Himuro","Hey, is this it?");
-MsgDisp("主人公","Ah!
-It was there!");
+MsgDisp("主人公","Ah! It was there!");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

@@ -56,8 +56,8 @@ done anything like that.");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040106202_01_040");
-        MsgDisp("Kazama","I wouldn't have done it without you there,
-either.");
+        MsgDisp("Kazama","I wouldn't have done it without you
+there, either.");
         MsgDisp("主人公","Huh?");
         ChEye(1,2);
         ChMouth(1,0);
@@ -67,8 +67,8 @@ either.");
         VoicePlay("B040106202_01_060");
         MsgDisp("Kazama","I only wanted to explore with you.");
         MsgDisp("主人公","Hehe.
-Being on your expedition team made everyday
-fun.");
+Being on your expedition team made
+everyday fun.");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -76,8 +76,7 @@ fun.");
         VoicePlay("B040106202_01_070");
         MsgDisp("Kazama","Are you really sure?
 Do you even remember it all?");
-        MsgDisp("主人公","Jeez.
-Of course I do.");
+        MsgDisp("主人公","Jeez. Of course I do.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0,1);
@@ -98,8 +97,7 @@ But there's no deserting.");
     ChMouth(1,1);
     ChMotion(1,5);
     VoicePlay("B040106202_01_090");
-    MsgDisp("Kazama","Oh, watch out!
-Duck!");
+    MsgDisp("Kazama","Oh, watch out! Duck!");
     MsgDispSksp(1,7);
     ChEye(1,0);
     ChMouth(1,3);

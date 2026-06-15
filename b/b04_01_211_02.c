@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,4);
     ChCheek(1,5);
     VoicePlay("B040121102_01_010");
-    MsgDisp("Kazama","Don't we just look like a pair of humans to
-them?");
+    MsgDisp("Kazama","Don't we just look like a pair of humans
+to them?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -77,8 +77,8 @@ I'd survive just fine in the Savannah.");
         ChMotion(1,3);
         VoicePlay("B040121102_01_060");
         MsgDisp("Kazama","I see, that's right.
-You might even be better at surviving than
-me.");
+You might even be better at surviving
+than me.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0);

@@ -6,8 +6,8 @@ StlEye(22,1);
 StlMouth(22,1);
 VoicePlay("U160D00002_22_000");
 MsgDisp("Hikaru","Bad Mari.
-Keeping a love secret from Hikaru like a bad
-girl!");
+Keeping a love secret from Hikaru like a
+bad girl!");
 MsgDisp("主人公","Ahaha...
 I'm sorry, it's a bit embarrassing.");
 StlEyeOpenLevel(21,5,1);

@@ -76,8 +76,8 @@ affections towards you.");
         ChEye(5,2);
         VoicePlay("B040503302_05_090");
         MsgDisp("Hiiragi","Nevertheless, I am an actor.
-Please let me act a little cool in front of
-you.");
+Please let me act a little cool in front
+of you.");
         MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
         ChEye(5,4);
         ChMotion(5,0);
@@ -85,8 +85,8 @@ you.");
         MsgDisp("Hiiragi","Then, shall we keep holding hands like this
 while we walk around?");
         MsgDisp("主人公","(Affections towards me...
-I might've unintentionally heard something
-huge.)");
+I might've unintentionally heard
+something huge.)");
         break ;
         default :
         DbgAssert(1);

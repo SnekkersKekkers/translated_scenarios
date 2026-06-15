@@ -20,8 +20,8 @@ ChEyeOpenLevel(8,0);
 ChCheek(8,8);
 VoicePlay("G020810304_08_020");
 MsgDisp("Shirahane","Ah...
-If you were happy with it, that also makes me
-happy.");
+If you were happy with it, that also makes
+me happy.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -49,8 +49,8 @@ ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("G020810304_08_060");
 MsgDisp("Shirahane","Yeah.
-After all, I wanted you to be happy receiving
-it.");
+After all, I wanted you to be happy
+receiving it.");
 MsgDisp("主人公","(｛Daichi＊＊｝...
 I'm happy.)");
 BGMStop();

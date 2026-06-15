@@ -8,8 +8,8 @@ ChOpen(2,254,0,0,4,#1,#1,0,1);
 MsgClose();
 ChOpen(5,254,0,2,4,9,#1,0,2);
 VoicePlay("F100220002_02_000");
-MsgDisp("Sassa","Vice President, you've come in at a good
-time.");
+MsgDisp("Sassa","Vice President, you've come in at a
+good time.");
 MsgDisp("主人公","By Vice President, do you mean me?
 ...That means...");
 ChEye(5,2);
@@ -38,10 +38,9 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("F100220002_02_020");
-MsgDisp("Sassa","First, we have to present an annual activity
-plan.");
-MsgDisp("主人公","I see...
-You're both really busy...");
+MsgDisp("Sassa","First, we have to present an annual
+activity plan.");
+MsgDisp("主人公","I see... You're both really busy...");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);

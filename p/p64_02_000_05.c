@@ -4,8 +4,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P640200005_02_000");
-MsgDisp("Sassa","Uhm.
-Thank you for the meal...");
+MsgDisp("Sassa","Uhm. Thank you for the meal...");
 MsgDisp("主人公","｛Sassa＊＊｝, how did it taste?");
 ChEye(2,2);
 ChMouth(2,0);
@@ -39,8 +38,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P640200005_02_050");
-MsgDisp("Sassa","I'll enjoy these beautiful vegetables at
-home.");
+MsgDisp("Sassa","I'll enjoy these beautiful vegetables
+at home.");
 MsgClose();
 ChClose(2);
 Wait(30);

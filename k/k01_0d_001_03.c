@@ -2,8 +2,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("K010D00103_21_000");
-MsgDisp("Michiru","Hm...
-I'll accept your feelings.");
+MsgDisp("Michiru","Hm... I'll accept your feelings.");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);

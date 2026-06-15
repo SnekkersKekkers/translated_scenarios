@@ -18,8 +18,7 @@ MsgDisp("Nanatsumori","Ah, just wait a sec.");
 MsgDisp("主人公","Hm?");
 ChMotion(4,0,1);
 VoicePlay("K020401000_04_010");
-MsgDisp("Nanatsumori","January 1st.
-It's your birthday, right?");
+MsgDisp("Nanatsumori","January 1st. It's your birthday, right?");
 MsgDisp("主人公","Ah, yeah.
 You remembered?");
 ChEye(4,4);

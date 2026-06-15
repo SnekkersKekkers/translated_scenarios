@@ -38,9 +38,9 @@ How many would you like?");
     MsgDisp("Hiiragi","Ah, I will be getting portions for the
 theatre company staff as well.
 Not all of it is for myself.");
-    MsgDisp("主人公","Hehe.
-Yes, of course. You won't be able to finish
-all that on your own.");
+    MsgDisp("主人公","Hehe. Yes, of course.
+You won't be able to finish all that on
+your own.");
     ChEye(5,3);
     ChMouth(5,2);
     ChMotion(5,0);
@@ -74,8 +74,8 @@ it all by yourself...)");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Welcome!");
     VoicePlay("I550500000_05_080");
-    MsgDisp("Hiiragi","I think that I will be eating in-store,
-today.");
+    MsgDisp("Hiiragi","I think that I will be eating
+in-store, today.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I550500000_05_090");
@@ -92,8 +92,8 @@ fugashi?");
 It is as though I can already feel its
 deliciousness in my mouth.");
     MsgDisp("主人公","Hehe.
-I'll bring it to your seat, so please wait a
-little.");
+I'll bring it to your seat, so please wait
+a little.");
     MsgClose();
     ScrFadeOut(0,0);
     MsgDisp("","　　　　　　　　　　 ・
@@ -105,8 +105,7 @@ little.");
     ChCheek(5,7);
     ScrFadeIn(0);
     VoicePlay("I550500000_05_110");
-    MsgDisp("Hiiragi","Sigh...
-The karinto manju has been surpassed.");
+    MsgDisp("Hiiragi","Sigh... The karinto manju has been surpassed.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, how was it?");
     ChMouth(5,4);
     ChMotion(5,4);
@@ -155,14 +154,13 @@ confections?");
     ChEyeOpenLevel(5,0);
     VoicePlay("I550500000_05_170");
     MsgDisp("Hiiragi","Sigh...this is bad.
-Let us talk at length about this on our way
-back.");
+Let us talk at length about this on our
+way back.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Bad?
-I wonder if I said something wrong...)");
+    MsgDisp("主人公","(Bad? I wonder if I said something wrong...)");
     break ;
     default :
     DbgAssert(1);

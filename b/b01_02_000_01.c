@@ -48,8 +48,8 @@ I made you wait.");
     ChMotion(2,1);
     VoicePlay("B010200001_02_040");
     MsgDisp("Sassa","Yeah...
-Then as an apology, I'll carry all your bags
-today.");
+Then as an apology, I'll carry all your
+bags today.");
     MsgDisp("主人公","Hehe, it's okay.
 I run late sometimes too.");
     ChEye(2,0);
@@ -79,8 +79,7 @@ I could carry you around too?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B010200001_02_070");
-    MsgDisp("Sassa","...Huh.
-You can be a little angrier.");
+    MsgDisp("Sassa","...Huh. You can be a little angrier.");
     MsgDisp("主人公","Huh?");
     ChEye(2,2);
     ChMouth(2,2);

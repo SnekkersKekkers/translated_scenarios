@@ -6,8 +6,7 @@ ScrFadeIn(0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B150110000_01_000");
-MsgDisp("Kazama","Oi.
-That's enough already!");
+MsgDisp("Kazama","Oi. That's enough already!");
 MsgDisp("主人公","I already stopped, see?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -27,8 +26,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B150110000_01_030");
-MsgDisp("Kazama","What are you going to do about this?
-...Geez.");
+MsgDisp("Kazama","What are you going to do about this? ...Geez.");
 MsgDisp("主人公","(Is ｛Kazama＊＊｝ okay, I wonder...)");
 MsgClose();
 ScrFadeOut(0,0);

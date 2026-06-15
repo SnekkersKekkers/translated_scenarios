@@ -35,8 +35,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("H380700000_07_040");
-MsgDisp("Mikage","Hm?
-Shouldn't you be saying \"OSSU!\"?
+MsgDisp("Mikage","Hm? Shouldn't you be saying \"OSSU!\"?
 Or is that in karate?");
 MsgDisp("主人公","(Hehe, thanks to ｛Mikage＊＊｝, I feel a
 lot more relaxed...

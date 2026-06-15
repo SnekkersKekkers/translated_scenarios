@@ -17,8 +17,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P540500001_05_010");
 MsgDisp("Hiiragi","That might be the case.
-But you carried it out properly until the
-end.");
+But you carried it out properly until
+the end.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

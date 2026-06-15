@@ -10,8 +10,7 @@ switch (ChPrmGet(4,6)){
     SEWait();
     MsgDisp("主人公","Yes, it's ｛主人公苗字｝.");
     VoicePlay("J030401000_04_000");
-    MsgDisp("Nanatsumori","Ah...
-Hey.
+    MsgDisp("Nanatsumori","Ah... Hey.
 I heard your voicemail thing, it's fine.");
     MsgDisp("主人公","Really?
 Then, on ｛日付｝ I'll be waiting for
@@ -30,11 +29,9 @@ I hope that ｛日付｝ comes soon!)");
     SEWait();
     MsgDisp("主人公","Hello, it's ｛主人公苗字｝.");
     VoicePlay("J030401000_04_020");
-    MsgDisp("Nanatsumori","Oh, hi.
-It's Nanatsumori.
+    MsgDisp("Nanatsumori","Oh, hi. It's Nanatsumori.
 Just heard the voicemail.");
-    MsgDisp("主人公","Yeah.
-So, what do you think?");
+    MsgDisp("主人公","Yeah. So, what do you think?");
     VoicePlay("J030401000_04_030");
     MsgDisp("Nanatsumori","It's OK.
 What about the day of the event?");
@@ -56,8 +53,7 @@ I hope that ｛日付｝ comes soon!)");
     SEWait();
     MsgDisp("主人公","Hello, it's ｛主人公苗字｝.");
     VoicePlay("J030401000_04_050");
-    MsgDisp("Nanatsumori","Hi.
-Sorry, I missed your call.");
+    MsgDisp("Nanatsumori","Hi. Sorry, I missed your call.");
     MsgDisp("主人公","It's okay.
 So, you'll come?");
     VoicePlay("J030401000_04_060");

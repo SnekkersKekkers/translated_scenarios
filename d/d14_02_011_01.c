@@ -16,8 +16,7 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,3,1);
     VoicePlay("D140201101_02_010");
     MsgDisp("Sassa","Oh, you have the same as me.");
-    MsgDisp("主人公","Hehe.
-Yeah, we're quite similar.");
+    MsgDisp("主人公","Hehe. Yeah, we're quite similar.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

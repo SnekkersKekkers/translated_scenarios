@@ -13,8 +13,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P640500003_05_010");
 MsgDisp("Hiiragi","Yes, both the colour and the form are
-considerably different to those on the
-market.");
+considerably different to those on
+the market.");
 MsgDisp("主人公","Umm, well, they're a bit flimsy though...");
 ChEyeOpenLevel(5,0);
 Wait(8,0);
@@ -25,17 +25,16 @@ MsgDisp("主人公","Umm, maybe...");
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("P640500003_05_030");
-MsgDisp("Hiiragi","If you, the one who made it, don't have
-any confidence in it, wouldn't it be a pity
-for these vegetables?");
+MsgDisp("Hiiragi","If you, the one who made it, don't have any
+confidence in it, wouldn't it be a pity for
+these vegetables?");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P640500003_05_040");
 MsgDisp("Hiiragi","I don't want to leave any food behind, so
 turns out, I'll return these vegetables.");
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","(Uugh...
-I should have prepared better...)");
+MsgDisp("主人公","(Uugh... I should have prepared better...)");
 MsgClose();
 BGMStop();
 MsgClose();

@@ -13,8 +13,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,5);
     MsgDispSksp(1,3);
     VoicePlay("B060300013_03_010");
-    MsgDisp("Honda","Yay!
-Let's go then.");
+    MsgDisp("Honda","Yay! Let's go then.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);
@@ -28,12 +27,11 @@ Let's go then.");
     ChMouth(3,4);
     ChMotion(3,2);
     VoicePlay("B060300013_03_020");
-    MsgDisp("Honda","I see.
-Gotcha.");
+    MsgDisp("Honda","I see. Gotcha.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","(I wonder if it was bad for me to turn him
-down?)");
+    MsgDisp("主人公","(I wonder if it was bad for me to turn
+him down?)");
     MsgClose();
     ScrFadeOut(0);
     break ;

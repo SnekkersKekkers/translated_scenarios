@@ -6,8 +6,8 @@ MsgDisp("主人公","(Your hard work at Habatcher's Editorial
 Department has been recognised.
 Your \"Journalist Level\" has increased!)");
 VoicePlay("D240000002_45_000");
-MsgDisp("Mayo","You're already such an integral part of our
-team.");
+MsgDisp("Mayo","You're already such an integral part of
+our team.");
 VoicePlay("D240000002_41_010");
 MsgDisp("Tanaka Shin","Let's continue to make Habatcher even better
 and better!");

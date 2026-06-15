@@ -8,8 +8,8 @@ VoicePlay("E010120200_02_000");
 MsgDisp("Sassa?","Hey, you're wasting some good legs!
 Exercise a little.");
 VoicePlay("E010120200_01_000");
-MsgDisp("Kazama?","Do you have to bother me with this all the
-time?
+MsgDisp("Kazama?","Do you have to bother me with this all
+the time?
 Leave me alone.");
 MsgDisp("主人公","｛Kazama＊＊｝, ｛Sassa＊＊｝!");
 MsgClose();
@@ -30,8 +30,7 @@ together!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","Hehe.
-What were you guys doing?");
+MsgDisp("主人公","Hehe. What were you guys doing?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -90,8 +89,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChCheek(1,7);
 VoicePlay("E010120200_01_060");
-MsgDisp("Kazama","Uuh...
-Ah...");
+MsgDisp("Kazama","Uuh... Ah...");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -119,8 +117,7 @@ VoicePlay("E010120200_01_080");
 MsgDisp("Kazama","If you're so eager to recruit someone, why
 not recruit this one?
 She's always running around.");
-MsgDisp("主人公","...Eh?
-This one, you mean me?");
+MsgDisp("主人公","...Eh? This one, you mean me?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

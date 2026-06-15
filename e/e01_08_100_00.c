@@ -12,8 +12,7 @@ MsgDisp("主人公","Ah, ｛Daichi＊＊｝!");
 VoicePlay("E010810000_08_010");
 MsgDisp("Shirahane","What a coincidence.
 Are you shoppin' too?");
-MsgDisp("主人公","Yeah.
-｛Daichi＊＊｝, is that food?");
+MsgDisp("主人公","Yeah. ｛Daichi＊＊｝, is that food?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -33,8 +32,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("E010810000_08_030");
-MsgDisp("Shirahane","Haha!
-You really are hungry!");
+MsgDisp("Shirahane","Haha! You really are hungry!");
 MsgDisp("主人公","Ugh...");
 ChEye(8,4);
 ChMouth(8,4);
@@ -50,8 +48,8 @@ ChMotion(8,4,1);
 ChCheek(8,7);
 VoicePlay("E010810000_08_050");
 MsgDisp("Shirahane","Oh gosh!
-That sounded way too much like a pick-up
-line.");
+That sounded way too much like a
+pick-up line.");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,0,1);

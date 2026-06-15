@@ -13,8 +13,8 @@ SEWait();
 ChOpen(5,254,4,0,0,#1,#1,0,0);
 VoicePlay("P840500003_05_000");
 MsgDisp("Hiiragi","...It really is true.
-I'll go to this class and ask them to return
-it.");
+I'll go to this class and ask them to
+return it.");
 VoicePlay("P840500003_48_020");
 MsgDisp("School Girl","Then, I'll go with you to take some.");
 MsgClose();

@@ -34,8 +34,8 @@ I'll check over there, you do over here.");
     MsgClose();
     ScrFadeIn(0);
     MsgDisp("主人公","Our manager's amazing.
-The flowers are just getting better and
-better.");
+The flowers are just getting better
+and better.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -78,8 +78,7 @@ Always smiling and butting in with advice.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600001_06_070");
-    MsgDisp("Himuro","It is.
-...I'm jealous.");
+    MsgDisp("Himuro","It is. ...I'm jealous.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);

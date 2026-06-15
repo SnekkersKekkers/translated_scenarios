@@ -22,8 +22,7 @@ I'm glad I did my best...!)");
     MsgDisp("Nanatsumori","Yo. You're a good manager of the track and
 field team. I heard you won the practice game
 the other day. Congratulations.");
-    MsgDisp("主人公","Yes.
-But I'm just the manager.");
+    MsgDisp("主人公","Yes. But I'm just the manager.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

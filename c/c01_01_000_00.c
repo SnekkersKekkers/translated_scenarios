@@ -22,8 +22,7 @@ Tell me these things sooner.");
 MsgDisp("主人公","I-I'm sorry...");
 VoicePlay("C010100000_01_040");
 MsgDisp("Kazama","Fine, I get it.
-But don't put me through this anymore. 
-Yeah?");
+But don't put me through this anymore. Yeah?");
 MsgDisp("主人公","Yeah, thanks!");
 VoicePlay("C010100000_01_050");
 MsgDisp("Kazama","Yeah, see ya.");

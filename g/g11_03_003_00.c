@@ -27,8 +27,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G110300300_03_010");
-MsgDisp("Honda","The latest edition of 'Habatcher' just sold
-out...");
+MsgDisp("Honda","The latest edition of 'Habatcher' just
+sold out...");
 MsgDisp("主人公","Ah, I see.
 But, I understand.");
 MsgClose();
@@ -53,11 +53,11 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300300_03_040");
-MsgDisp("Honda","But the store clerk version of me won in the
-end.");
+MsgDisp("Honda","But the store clerk version of me won in
+the end.");
 MsgDisp("主人公","I see.
-But as a store clerk, you did the right
-thing.");
+But as a store clerk, you did the
+right thing.");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,0);
@@ -65,8 +65,7 @@ VoicePlay("G110300300_03_050");
 MsgDisp("Honda","Sigh...
 I wonder if there's another book wedged
 around here...?");
-MsgDisp("主人公","(Hehe.
-Thank you, ｛Honda＊＊｝.)");
+MsgDisp("主人公","(Hehe. Thank you, ｛Honda＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

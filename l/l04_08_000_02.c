@@ -26,17 +26,15 @@ Thank goodness!)");
     ChMotion(8,1,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("L040800002_08_020");
-    MsgDisp("Shirahane","Yay!
-It's the trendy chocolate!");
-    MsgDisp("主人公","Yeah.
-I kinda went all out!");
+    MsgDisp("Shirahane","Yay! It's the trendy chocolate!");
+    MsgDisp("主人公","Yeah. I kinda went all out!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("L040800002_08_030");
     MsgDisp("Shirahane","Heheh, that so.
-Well, I gotta go all out for the return gift,
-too!");
+Well, I gotta go all out for the return
+gift, too!");
     MsgDisp("主人公","Oh, that wasn't my intention...");
     ChEye(8,3);
     ChMouth(8,3);
@@ -57,15 +55,13 @@ Thank goodness!)");
     ChEyeOpenLevel(8,10);
     ChCheek(8,8);
     VoicePlay("L040800002_08_050");
-    MsgDisp("Shirahane","This...
-It's the chocolates on Habatcher...");
+    MsgDisp("Shirahane","This... It's the chocolates on Habatcher...");
     MsgDisp("主人公","Hehe, I got a little excited▼");
     ChEye(8,3);
     ChMouth(8,4);
     VoicePlay("L040800002_08_060");
     MsgDisp("Shirahane","For me...?");
-    MsgDisp("主人公","Yes.
-Just for you, ｛Daichi＊＊｝.");
+    MsgDisp("主人公","Yes. Just for you, ｛Daichi＊＊｝.");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,2,1);
@@ -83,9 +79,9 @@ today...");
     MsgDisp("Shirahane","So I'll go brag 'bout this chocolate before
 the manager scolds me.
 Thanks, ｛主人公｝.");
-    MsgDisp("主人公","(Huh!?
-Will he be fine...
-But, he seemed really happy. Thank goodness!)");
+    MsgDisp("主人公","(Huh!? Will he be fine...
+But, he seemed really happy.
+Thank goodness!)");
     break ;
     default :
     DbgAssert(1);

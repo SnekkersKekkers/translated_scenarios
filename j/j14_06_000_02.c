@@ -17,7 +17,6 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("J140600002_06_000");
-MsgDisp("Himuro","Yeah.
-Don't forget.
+MsgDisp("Himuro","Yeah. Don't forget.
 See you.");
 ChEyeOpenLevel(7,#1);

@@ -39,8 +39,7 @@ There's lots of half-eaten ones?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208401_02_030");
-    MsgDisp("Sassa","Ehh?
-There's no squirrels this big.");
+    MsgDisp("Sassa","Ehh? There's no squirrels this big.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

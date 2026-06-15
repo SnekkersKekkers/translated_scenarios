@@ -5,8 +5,7 @@ ChMotion(9,0);
 ChEyeOpenLevel(9,10);
 ScrFadeIn(0);
 VoicePlay("D030901601_48_000");
-MsgDisp("Girl A","Hey.
-Doesn't that guy look super cool?");
+MsgDisp("Girl A","Hey. Doesn't that guy look super cool?");
 VoicePlay("D030901601_44_000");
 MsgDisp("Girl B","He really does～!
 Even the lead roles in the play we just
@@ -29,8 +28,8 @@ VoicePlay("D030901600_09_070");
 MsgDisp("Kuya","...But, can I ask you a favour.
 Can you be my escort for this festival?");
 MsgDisp("主人公","Of course.
-There's not a lot of time left, so let's have
-fun!");
+There's not a lot of time left, so let's
+have fun!");
 MsgDisp("主人公","(I have to guide Kuya-san well so he can
 enjoy my last school festival!)");
 BGMStop();

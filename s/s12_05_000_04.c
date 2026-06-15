@@ -67,8 +67,7 @@ year too.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S120500002_05_060");
-    MsgDisp("Hiiragi","Yeah.
-I prayed to graduate properly with you.");
+    MsgDisp("Hiiragi","Yeah. I prayed to graduate properly with you.");
     MsgDisp("主人公","Hehe.");
     ChEye(5,0);
     VoicePlay("S120500002_05_070");
@@ -103,10 +102,8 @@ properly.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("S120500002_05_140");
-    MsgDisp("Hiiragi","...I see.
-Is that how you think about it?");
-    MsgDisp("主人公","Eh?
-I don't mean it like that...");
+    MsgDisp("Hiiragi","...I see. Is that how you think about it?");
+    MsgDisp("主人公","Eh? I don't mean it like that...");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);

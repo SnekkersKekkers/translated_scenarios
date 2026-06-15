@@ -11,8 +11,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("L060300000_03_010");
-MsgDisp("Honda","The return gift for Valentine's.
-Here!");
+MsgDisp("Honda","The return gift for Valentine's. Here!");
 SEPlay("EV_SE_664");
 SEWait();
 ChEye(3,0);
@@ -26,7 +25,6 @@ BGMStop();
 MsgClose();
 ChClose(3,0,30);
 Wait(60);
-MsgDisp("主人公","(Hm...
-This is obligatory.)");
+MsgDisp("主人公","(Hm... This is obligatory.)");
 MsgClose();
 ScrFadeOut(0);

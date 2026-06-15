@@ -14,8 +14,7 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3,1);
 VoicePlay("D140A06101_01_000");
-MsgDisp("Kazama","...∋
-Sigh∋");
+MsgDisp("Kazama","...∋ Sigh∋");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -27,8 +26,8 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
 VoicePlay("D140A06101_01_010");
-MsgDisp("Kazama","It's because you're suddenly saying weird
-things.");
+MsgDisp("Kazama","It's because you're suddenly saying
+weird things.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

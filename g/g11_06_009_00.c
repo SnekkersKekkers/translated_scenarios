@@ -30,8 +30,7 @@ ChOpen(6,100,2,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600900_06_020");
 MsgDisp("Himuro","Why don't you just quit work your next shift?");
-MsgDisp("主人公","Eh.
-Why?");
+MsgDisp("主人公","Eh. Why?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -48,8 +47,7 @@ MsgDisp("Himuro","Taking care of your health is also part of
 the job. I wouldn't want to work alongside
 someone who looks like that. It would be a
 real nuisance if they collapsed.");
-MsgDisp("主人公","I see...
-Sorry.");
+MsgDisp("主人公","I see... Sorry.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

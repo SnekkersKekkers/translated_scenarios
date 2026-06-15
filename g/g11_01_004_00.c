@@ -2,8 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home now.)");
-MsgDisp("主人公","(...Huh?
-｛Kazama＊＊｝ is over there, huh.
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there, huh.
 Let's go for a chat before heading home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -60,8 +59,8 @@ MsgClose();
 SEPlay("EV_SE_645");
 ChClose(1,0,30);
 VoicePlay("G110100400_01_040");
-MsgDisp("Kazama?","Hey, I can hear everything you guys are
-saying!");
+MsgDisp("Kazama?","Hey, I can hear everything you guys
+are saying!");
 VoicePlay("G110100400_41_020");
 MsgDisp("School Boy","We're very sorry.");
 VoicePlay("G110100400_48_010");

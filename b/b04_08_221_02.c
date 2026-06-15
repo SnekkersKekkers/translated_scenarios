@@ -44,8 +44,8 @@ with you, it feels brand new.");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("B040822102_08_040");
-        MsgDisp("Shirahane","In a way, everytime, might be \"our first
-time\".");
+        MsgDisp("Shirahane","In a way, everytime, might be \"our
+first time\".");
         ChEye(8,3);
         ChMouth(8,0);
         ChCheek(8,5);
@@ -79,8 +79,8 @@ Let's go on lotsa dates▼");
     ChMotion(8,2,1);
     VoicePlay("B040822102_08_080");
     MsgDisp("Shirahane","I don't think it's really a place ta come on
-a date.
-It's more like fer an extracurricular lesson, right?");
+a date. It's more like fer an extracurricular
+lesson, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

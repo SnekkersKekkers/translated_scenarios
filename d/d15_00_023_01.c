@@ -5,8 +5,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D150002301_02_000");
-MsgDisp("Sassa","Iku really eats everything and isn't picky at
-all.");
+MsgDisp("Sassa","Iku really eats everything and isn't picky
+at all.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -29,8 +29,7 @@ VoicePlay("D150002301_03_010");
 MsgDisp("Honda","True, true.
 Sometimes you order a large or super large
 portion.");
-MsgDisp("主人公","Uhm...
-I guess I do?");
+MsgDisp("主人公","Uhm... I guess I do?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -52,8 +51,7 @@ VoicePlay("D150002301_02_030");
 MsgDisp("Sassa","Alright.
 Next time you eat a super large meal I'll go
 no limits and join you.");
-MsgDisp("主人公","(Uhm...
-Is that supposed to be a compliment?)");
+MsgDisp("主人公","(Uhm... Is that supposed to be a compliment?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -57,10 +57,9 @@ other than you and that dress.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("R040100001_01_060");
-    MsgDisp("Kazama","Thanks for coming in that beautiful dress for
-me.");
-    MsgDisp("主人公","Umm...
-｛Kazama＊＊｝?");
+    MsgDisp("Kazama","Thanks for coming in that beautiful dress
+for me.");
+    MsgDisp("主人公","Umm... ｛Kazama＊＊｝?");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,1);

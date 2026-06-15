@@ -28,8 +28,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05000_01_000");
-MsgDisp("Kazama","Ha...?
-Sassa, what are you talking about?");
+MsgDisp("Kazama","Ha...? Sassa, what are you talking about?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -41,8 +40,8 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05000_01_010");
-MsgDisp("Kazama","We haven't only recently started getting
-along.");
+MsgDisp("Kazama","We haven't only recently started
+getting along.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4,1);

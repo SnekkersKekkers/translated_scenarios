@@ -18,8 +18,8 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Kazama＊＊｝, what did you want to talk to me
-about?");
+MsgDisp("主人公","｛Kazama＊＊｝, what did you want to talk to
+me about?");
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101104_01_000");

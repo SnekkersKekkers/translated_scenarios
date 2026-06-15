@@ -3,8 +3,7 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     VoicePlay("J030400001_04_000");
-    MsgDisp("Nanatsumori","I can't.
-I have something to do that day.");
+    MsgDisp("Nanatsumori","I can't. I have something to do that day.");
     MsgDisp("主人公","Is that so...
 Well, then, I don't blame you.");
     VoicePlay("J030400001_04_010");
@@ -15,8 +14,7 @@ Well, then, I don't blame you.");
     break ;
     case 3:
     VoicePlay("J030400001_04_020");
-    MsgDisp("Nanatsumori","That day...
-Huh.");
+    MsgDisp("Nanatsumori","That day... Huh.");
     MsgDisp("主人公","Eh?");
     VoicePlay("J030400001_04_030");
     MsgDisp("Nanatsumori","I had a prior engagement.
@@ -33,20 +31,18 @@ See ya.");
     case 4:
     case 5:
     VoicePlay("J030400001_04_050");
-    MsgDisp("Nanatsumori","Seriously...
-Hmm.");
+    MsgDisp("Nanatsumori","Seriously... Hmm.");
     MsgDisp("主人公","Perhaps you have a prior engagement?");
     VoicePlay("J030400001_04_060");
-    MsgDisp("Nanatsumori","Yeah.
-I can't get out of this one...
-No way around it. Sorry.");
+    MsgDisp("Nanatsumori","Yeah. I can't get out of this one...
+No way around it.
+Sorry.");
     MsgDisp("主人公","It's okay.
 I'll ask you out again, alright?");
     VoicePlay("J030400001_04_070");
     MsgDisp("Nanatsumori","Yeah, do that.
 Oh, I'll ask you out too.");
-    MsgDisp("主人公","Ha ha!
-Okay, I'll see you later.");
+    MsgDisp("主人公","Ha ha! Okay, I'll see you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hmmm, too bad!)");

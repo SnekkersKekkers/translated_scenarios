@@ -62,8 +62,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B30301_01_020");
 MsgDisp("Kazama","Would you even call that revealing?
-Weird he doesn't get called out for it more,
-though.");
+Weird he doesn't get called out for it
+more, though.");
 MsgDisp("主人公","Hehe, for sure!");
 ChEye(3,3);
 ChMouth(3,3);
@@ -93,9 +93,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30301_04_040");
-MsgDisp("Nanatsumori","Yeah.
-Hm. I can't imitate Dahon's sense of fashion
-in that respect.");
+MsgDisp("Nanatsumori","Yeah. Hm.
+I can't imitate Dahon's sense of fashion in
+that respect.");
 MsgDisp("主人公","(Hehe! I might be caught off-guard if
 ｛Nanatsumori＊｝ wore his uniform in the
 casual way ｛Honda＊＊｝ does?)");

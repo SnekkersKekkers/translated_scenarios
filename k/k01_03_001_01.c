@@ -5,8 +5,7 @@ ChMouth(3,3);
 ChMotion(3,5);
 ScrFadeIn(0);
 VoicePlay("K010300101_03_000");
-MsgDisp("Honda","Da—!
-This is amazing!");
+MsgDisp("Honda","Da—! This is amazing!");
 MsgDisp("主人公","How is it?
 Do you like it?");
 ChEye(3,0);

@@ -10,8 +10,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F032100000_21_410");
-MsgDisp("Michiru","No...
-Why do you ask such a thing?");
+MsgDisp("Michiru","No... Why do you ask such a thing?");
 MsgDisp("主人公","I mean, I can't guess it.
 I'd like to hear if you have one.");
 ChEye(21,0);

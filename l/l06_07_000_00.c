@@ -33,7 +33,6 @@ BGMStop();
 MsgClose();
 ChClose(7);
 Wait(60);
-MsgDisp("主人公","(Hm.
-This is definitely obligatory...)");
+MsgDisp("主人公","(Hm. This is definitely obligatory...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -62,14 +62,12 @@ ChMouth(5,2);
 ChEyeOpenLevel(5,9);
 VoicePlay("B040506402_05_060");
 MsgDisp("Hiiragi","Uh...");
-MsgDisp("主人公","Eh?
-｛Hiiragi＊＊＊｝, what's wrong?");
+MsgDisp("主人公","Eh? ｛Hiiragi＊＊＊｝, what's wrong?");
 ChMouth(5,4);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040506402_05_070");
-MsgDisp("Hiiragi","Phew—
-I'm alright.
+MsgDisp("Hiiragi","Phew— I'm alright.
 I'm happy about everyone's feelings...");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...
 That's good.");
@@ -80,7 +78,8 @@ MsgDisp("Hiiragi","Yes...");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B040506402_05_090");
-MsgDisp("Hiiragi","Sigh, I was fine until I saw your face, but...");
+MsgDisp("Hiiragi","Sigh, I was fine until I saw your
+face, but...");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);

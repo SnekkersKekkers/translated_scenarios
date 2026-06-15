@@ -66,8 +66,7 @@ Let's go.");
     VoicePlay("S120200000_02_050");
     MsgDisp("Sassa","Visiting the shrine on New Year's gives such
 a refreshing feeling.");
-    MsgDisp("主人公","Yeah.
-｛Sassa＊＊｝, thanks for coming with me.");
+    MsgDisp("主人公","Yeah. ｛Sassa＊＊｝, thanks for coming with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

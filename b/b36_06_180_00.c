@@ -31,8 +31,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B360618000_06_030");
 MsgDisp("Himuro","Yeah.
-The atmosphere isn't nice if there's too many
-people.");
+The atmosphere isn't nice if there's too
+many people.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -50,14 +50,12 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360618000_06_060");
-MsgDisp("Himuro","Hmm.
-Then how about we do this?");
+MsgDisp("Himuro","Hmm. Then how about we do this?");
 MsgDisp("主人公","?");
 SEPlay("EV_SE_065",0.2,0.6);
 SEPlay("EV_SE_504",0.2,0.6);
 SEWait();
-MsgDisp("主人公","Eh!
-｛Himuro＊＊｝, your hand...");
+MsgDisp("主人公","Eh! ｛Himuro＊＊｝, your hand...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);

@@ -7,8 +7,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("L040100001_01_000");
     MsgDisp("Kazama","Did you buy this at Simon's?");
-    MsgDisp("主人公","Hm?
-No, I didn't.");
+    MsgDisp("主人公","Hm? No, I didn't.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);
@@ -16,8 +15,8 @@ No, I didn't.");
     VoicePlay("L040100001_01_010");
     MsgDisp("Kazama","Well, I guess you can buy these anywhere.
 I'll accept your feelings gratefully.");
-    MsgDisp("主人公","(Hm, maybe I should've given him a better
-one?)");
+    MsgDisp("主人公","(Hm, maybe I should've given him a
+better one?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -37,8 +36,7 @@ one?)");
     VoicePlay("L040100001_01_030");
     MsgDisp("Kazama","I know that much.
 Just, everyone is giving me these.");
-    MsgDisp("主人公","Hm?
-Really?");
+    MsgDisp("主人公","Hm? Really?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);
@@ -69,16 +67,14 @@ Should I have given him a better chocolate?)");
     VoicePlay("L040100001_01_060");
     MsgDisp("Kazama","Uh...you're okay with these expressing your
 feelings, right?");
-    MsgDisp("主人公","Um...
-Yes.");
+    MsgDisp("主人公","Um... Yes.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,0);
     Wait(8,0);
     ChEye(1,2);
     ChMouth(1,3);
     VoicePlay("L040100001_01_070");
-    MsgDisp("Kazama","I see.
-Then, I'll cherish these.");
+    MsgDisp("Kazama","I see. Then, I'll cherish these.");
     ChEye(1,2);
     ChMouth(1,0);
     ChMotion(1,0);

@@ -16,8 +16,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("J040300000_03_010");
-    MsgDisp("Honda","Hey.
-Are you free this Sunday?");
+    MsgDisp("Honda","Hey. Are you free this Sunday?");
     MsgSel("Yeah, I'm free.", "I'm not available that day...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -81,8 +80,7 @@ Are you free this Sunday?");
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("J040300000_03_060");
-        MsgDisp("Honda","Eh!
-I see...");
+        MsgDisp("Honda","Eh! I see...");
         MsgDisp("主人公","I'm sorry...");
         ChEye(3,0);
         ChMouth(3,0);

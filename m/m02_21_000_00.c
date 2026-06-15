@@ -27,8 +27,7 @@ MsgDisp("Michiru","When she hears how you're doing now, I think
 we can be sure Hikaru will be relieved too.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("M022100000_21_040");
-MsgDisp("Michiru","Ah...
-That's no good, look at the time!
+MsgDisp("Michiru","Ah... That's no good, look at the time!
 I was having fun and got caught up talking.");
 VoicePlay("M022100000_21_050");
 MsgDisp("Michiru","Sorry.

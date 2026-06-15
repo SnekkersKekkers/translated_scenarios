@@ -12,8 +12,7 @@ SEPlay("EV_SE_DOOR_011",0,1);
 SEWait();
 VoicePlay("D010300200_03_000");
 MsgDisp("Honda?","Yaaay!");
-MsgDisp("主人公","(∋
-That voice, is that maybe...)");
+MsgDisp("主人公","(∋ That voice, is that maybe...)");
 SEPlay("EV_SE_616",0.2,0.6);
 Wait(16,0);
 BGOpen("sc231",0);
@@ -90,9 +89,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D010300200_03_080");
-MsgDisp("Honda","Yepyep, I also bought her a gift to celebrate.
-I left it on her bed, so I wonder if she
-noticed it yet?");
+MsgDisp("Honda","Yepyep, I also bought her a gift to
+celebrate. I left it on her bed, so I wonder
+if she noticed it yet?");
 MsgDisp("主人公","A surprise, huh?
 What did you get her?");
 ChEye(3,3);

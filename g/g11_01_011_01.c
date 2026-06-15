@@ -2,9 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to head home now, huh.)");
-MsgDisp("主人公","(...Huh?
-Isn't that ｛Kazama＊＊｝ over there. I might
-as well chat a bit before heading home.)");
+MsgDisp("主人公","(...Huh? Isn't that ｛Kazama＊＊｝ over there.
+I might as well chat a bit before
+heading home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -30,10 +30,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G110101101_01_010");
-MsgDisp("Kazama","Yeah.
-So you can finally have a junior.");
-MsgDisp("主人公","I see.
-Until now, I was the newest member...");
+MsgDisp("Kazama","Yeah. So you can finally have a junior.");
+MsgDisp("主人公","I see. Until now, I was the newest member...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

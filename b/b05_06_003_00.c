@@ -13,8 +13,7 @@ ChMotion(6,0);
 VoicePlay("B050600300_06_010");
 MsgDisp("Himuro","The look in your eyes changed.
 Do you maybe...want one?");
-MsgDisp("主人公","Yeah!
-But I can't get it—");
+MsgDisp("主人公","Yeah! But I can't get it—");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -47,8 +46,7 @@ StlMouth(6,0);
 VoicePlay("B050600300_06_050");
 MsgDisp("Himuro","Don't bounce around.
 The vibrations will make it fall.");
-MsgDisp("主人公","Ah...
-Sorry?");
+MsgDisp("主人公","Ah... Sorry?");
 StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
@@ -104,6 +102,5 @@ MsgDisp("主人公","Eh, where are you going?");
 VoicePlay("B050600300_06_120");
 MsgDisp("Himuro","Wait there.
 I'm going to exchange more money.");
-MsgDisp("主人公","(Ehh!
-｛Himuro＊＊｝ wants to get revenge?)");
+MsgDisp("主人公","(Ehh! ｛Himuro＊＊｝ wants to get revenge?)");
 ChPrmTblAdd(6,0);

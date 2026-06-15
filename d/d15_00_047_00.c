@@ -10,8 +10,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D150004700_07_000");
-MsgDisp("Mikage","Ahh, that makes me want to take some home for
-dinner.");
+MsgDisp("Mikage","Ahh, that makes me want to take some home
+for dinner.");
 MsgDisp("主人公","That's a good idea!
 I wish my mom could try it too.");
 ChEye(4,0);
@@ -49,8 +49,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("D150004700_04_030");
-MsgDisp("Nanatsumori","Ah...
-I was just trolling.");
+MsgDisp("Nanatsumori","Ah... I was just trolling.");
 ChEye(7,1);
 ChMouth(7,3);
 ChMotion(7,2);

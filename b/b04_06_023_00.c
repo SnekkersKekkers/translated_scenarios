@@ -1,8 +1,7 @@
 MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("B040602300_06_000");
-MsgDisp("Himuro","So.
-What are we going to do?");
+MsgDisp("Himuro","So. What are we going to do?");
 MsgSel("Look at the sea!","Let's talk about society.","Let's stare into each other's eyes");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040602300_06_020");
     MsgDisp("Himuro","I think that's a bit too abstract.
-Then, let's first decide on a theme to talk
-about!");
+Then, let's first decide on a theme to
+talk about!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

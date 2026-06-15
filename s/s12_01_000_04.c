@@ -65,8 +65,7 @@ know when it's this crowded.");
     VoicePlay("S120100004_01_040");
     MsgDisp("Kazama","I think I recognised a few?
 You just didn't notice them.");
-    MsgDisp("主人公","Eeh∋
-No one came to say hi to me?");
+    MsgDisp("主人公","Eeh∋ No one came to say hi to me?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -103,9 +102,9 @@ Do you have any regrets?");
     ChMouth(1,4);
     ChMotion(1,0);
     VoicePlay("S120100004_01_080");
-    MsgDisp("Kazama","When I was overseas, I imagined what it would
-be like to visit the shrine with you every
-year.");
+    MsgDisp("Kazama","When I was overseas, I imagined what it
+would be like to visit the shrine with you
+every year.");
     MsgDisp("主人公","Yeah, I hope we can keep going together.");
     ChEye(1,0);
     ChMouth(1,3);

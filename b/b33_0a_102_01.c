@@ -12,8 +12,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChPosition(6,2);
 ScrFadeIn(0);
-MsgDisp("主人公","...Huh?
-Where's ｛Kazama＊＊｝?");
+MsgDisp("主人公","...Huh? Where's ｛Kazama＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -23,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10201_06_000");
-MsgDisp("Himuro","Despite how he looks, he's surprisingly
-caring.");
+MsgDisp("Himuro","Despite how he looks, he's
+surprisingly caring.");
 MsgDisp("主人公","Hehe, that's right.");
 VoicePlay("B330A10201_01_000");
 MsgDisp("Kazama","Here, your tickets.");
@@ -56,8 +55,8 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10201_01_010");
 MsgDisp("Kazama","What's that supposed to mean?
-I'm the one standing across from her, aren't
-I?");
+I'm the one standing across from her,
+aren't I?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -81,8 +80,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10201_01_030");
-MsgDisp("Kazama","How's that supposed to be praise?
-...Geez.");
+MsgDisp("Kazama","How's that supposed to be praise? ...Geez.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

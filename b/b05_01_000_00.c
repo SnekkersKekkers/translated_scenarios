@@ -100,8 +100,8 @@ ScrQuake(2);
 VoicePlay("B050100000_01_020");
 MsgDisp("Kazama","Ah, sorry...");
 MsgDisp("主人公","That gave me a fright...
-It's dangerous to get up so suddenly you
-know?");
+It's dangerous to get up so suddenly
+you know?");
 StlEye(1,0);
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
@@ -131,8 +131,7 @@ StlMouth(1,1);
 VoicePlay("B050100000_01_060");
 MsgDisp("Kazama","Hey, look.
 It's beautiful.");
-MsgDisp("主人公","Yeah.
-Hanegasaki sea is sparkling...");
+MsgDisp("主人公","Yeah. Hanegasaki sea is sparkling...");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

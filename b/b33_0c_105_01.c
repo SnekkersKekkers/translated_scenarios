@@ -21,8 +21,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10501_05_010");
-MsgDisp("Hiiragi","Yes.
-You roll it around to pick up debris.
+MsgDisp("Hiiragi","Yes. You roll it around to pick up debris.
 The name is good too.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -35,8 +34,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10501_05_020");
-MsgDisp("Hiiragi","Lately I've really come to favour the washable
-type.");
+MsgDisp("Hiiragi","Lately I've really come to favour the
+washable type.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -44,8 +43,7 @@ VoicePlay("B330C10501_07_010");
 MsgDisp("Mikage","Oh, me too.
 There are ones that can be washed tens of
 thousands of times.");
-MsgDisp("主人公","Hehe.
-You both seem to be very knowledgeable.");
+MsgDisp("主人公","Hehe. You both seem to be very knowledgeable.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

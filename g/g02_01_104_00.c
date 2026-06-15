@@ -29,9 +29,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110400_01_040");
-MsgDisp("Kazama","So, actually, white clothes.
-Since your own colours are enough. Yeah,
-something colourless and transparent's fine...");
+MsgDisp("Kazama","So, actually, white clothes. Since your own
+colours are enough. Yeah, something
+colourless and transparent's fine...");
 MsgDisp("主人公","I can't go around wearing transparent clothes
 though...");
 ChEye(1,3);
@@ -48,9 +48,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("G020110400_01_060");
-MsgDisp("Kazama","Mm?
-Wait, hold on. I'm not talking about dressing
-lightly or dressing revealingly here.");
+MsgDisp("Kazama","Mm? Wait, hold on.
+I'm not talking about dressing lightly or
+dressing revealingly here.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

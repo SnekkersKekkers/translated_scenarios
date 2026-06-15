@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040208202_02_000");
-MsgDisp("Sassa","The fireflies' home, isn't in a pond, but a
-spring.");
+MsgDisp("Sassa","The fireflies' home, isn't in a pond, but
+a spring.");
 MsgSel("It's because the spring water is abundant.","Then it's the firefly's spring.","It seems like fairies could be there.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +32,8 @@ in terms of information.");
         ChMouth(2,0);
         ChMotion(2,0,1);
         VoicePlay("B040208202_02_020");
-        MsgDisp("Sassa","I tried to act like I knew a bit, but I
-failed.");
+        MsgDisp("Sassa","I tried to act like I knew a bit, but
+I failed.");
         MsgDisp("主人公","Huh?");
         ChEye(2,0);
         ChMouth(2,0);

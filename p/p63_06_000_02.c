@@ -8,8 +8,8 @@ switch (ChPrmGet(6,6)){
     BGOpen("sc724",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This is my last cultural festival.
-We finally tried to make an organic cafe
-but...)");
+We finally tried to make an organic
+cafe but...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600002_06_000");
@@ -49,8 +49,8 @@ your efforts with my own eyes.");
     BGOpen("sc724",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(This is my last cultural festival.
-We finally tried to make an organic cafe
-but...)");
+We finally tried to make an organic
+cafe but...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(6);

@@ -72,16 +72,15 @@ Did you come to support me?");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P730700002_07_060");
-    MsgDisp("Mikage","I'll be cheering you on from the closest
-spot.");
+    MsgDisp("Mikage","I'll be cheering you on from the
+closest spot.");
     MsgDisp("主人公","Eh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P730700002_07_070");
     MsgDisp("Mikage","Is the spot next to the adorable bride empty?");
-    MsgDisp("主人公","Hehe!
-For the show I walk by myself though?");
+    MsgDisp("主人公","Hehe! For the show I walk by myself though?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);

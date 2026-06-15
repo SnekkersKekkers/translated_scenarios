@@ -31,8 +31,8 @@ ChEye(5,4);
 ChMotion(5,3);
 VoicePlay("G020530001_05_040");
 MsgDisp("Hiiragi","Thank you, always.
-I can manage school life thanks to everyone's
-help.");
+I can manage school life thanks to
+everyone's help.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,3);
 ChMotion(5,4);

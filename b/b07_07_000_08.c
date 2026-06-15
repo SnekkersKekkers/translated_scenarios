@@ -25,17 +25,15 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700000_07_460");
 MsgDisp("Mikage","Then, most importantly, what do you think?");
-MsgDisp("主人公","I'm also glad to be in ｛Mikage＊＊｝'s
-class.");
+MsgDisp("主人公","I'm also glad to be in
+｛Mikage＊＊｝'s class.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_470");
 MsgDisp("Mikage","Yeah, me too.
-A positive Miss Diligent like you is my
-type.");
-MsgDisp("主人公","Me?
-Diligent?");
+A positive Miss Diligent like you is my type.");
+MsgDisp("主人公","Me? Diligent?");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,5);

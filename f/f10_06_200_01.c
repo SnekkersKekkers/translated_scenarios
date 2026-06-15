@@ -27,8 +27,7 @@ MsgDisp("主人公","Eh, why is he hiding?");
 VoiceEVSPlay(6);
 VoicePlay("F100620001_06_000");
 MsgDisp("Himuro?","｛主人公｝.");
-MsgDisp("主人公","Ah!
-｛Himuro＊＊｝...");
+MsgDisp("主人公","Ah! ｛Himuro＊＊｝...");
 MsgClose();
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("F100620001_06_010");

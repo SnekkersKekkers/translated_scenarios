@@ -9,8 +9,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200013_22_000");
-MsgDisp("Hikaru","This is a huge romantic event in high school
-life▼");
+MsgDisp("Hikaru","This is a huge romantic event in high
+school life▼");
 MsgDisp("主人公","Eh?");
 ChMotion(22,0,1);
 VoicePlay("F022200013_22_010");

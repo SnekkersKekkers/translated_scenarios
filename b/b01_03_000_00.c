@@ -2,8 +2,7 @@ BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(I'm running late...
-｛Honda＊＊｝ is...
-Oh!)");
+｛Honda＊＊｝ is... Oh!)");
 BGMPlay("BGM_C03_HONDA_A",0.01);
 MsgClose();
 ChOpen(3,253,0,0,0,#1,#1,0,0);
@@ -34,8 +33,7 @@ I wasn't worried about it at all.");
     VoicePlay("B010300000_03_020");
     MsgDisp("Honda","It's o-kay!
 But was I waiting that long?");
-    MsgDisp("主人公","Yeah...
-I'll be more careful from now on.");
+    MsgDisp("主人公","Yeah... I'll be more careful from now on.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,4);
@@ -74,8 +72,7 @@ Right?");
     ChEyeOpenLevel(3,0);
     MsgDispSksp(1,0);
     VoicePlay("B010300000_03_070");
-    MsgDisp("Honda","I see.
-Then, let's go!");
+    MsgDisp("Honda","I see. Then, let's go!");
     MsgDispSksp(0);
     break ;
     default :

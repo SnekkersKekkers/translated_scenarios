@@ -25,8 +25,7 @@ ChEye(4,1);
 ChMouth(4,4);
 ChEyeOpenLevel(4,0);
 VoicePlay("G020420301_04_030");
-MsgDisp("Nanatsumori","I can't.
-There's no way I can...");
+MsgDisp("Nanatsumori","I can't. There's no way I can...");
 MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChEye(4,4);
 ChMouth(4,4);

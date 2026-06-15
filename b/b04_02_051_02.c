@@ -88,8 +88,7 @@ overhaul of the planetarium.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040205102_02_090");
-        MsgDisp("Sassa","No...
-A movie about stars or something.");
+        MsgDisp("Sassa","No... A movie about stars or something.");
         break ;
         default :
         DbgAssert(1);

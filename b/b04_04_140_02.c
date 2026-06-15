@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040414002_04_010");
-    MsgDisp("Nanatsumori","Ha?
-What are you misunderstanding?");
+    MsgDisp("Nanatsumori","Ha? What are you misunderstanding?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -40,16 +39,16 @@ What are you misunderstanding?");
         ChMotion(4,2,1);
         VoicePlay("B040414002_04_030");
         MsgDisp("Nanatsumori","It's impossible.
-I don't have any confidence in my sense of
-style.");
+I don't have any confidence in my sense
+of style.");
         MsgDisp("主人公","Really?
 I think it's cool though.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040414002_04_040");
-        MsgDisp("Nanatsumori","You can't start a band just because you're
-cool.");
+        MsgDisp("Nanatsumori","You can't start a band just because
+you're cool.");
         ChMouth(4,4);
         VoicePlay("B040414002_04_050");
         MsgDisp("Nanatsumori","Well, I'm trying to do something similar in
@@ -64,15 +63,14 @@ terms of outfits.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040414002_04_070");
-        MsgDisp("Nanatsumori","...Pfft!
-Even you're considering it.");
+        MsgDisp("Nanatsumori","...Pfft! Even you're considering it.");
         MsgDisp("主人公","It's making me imagine all sorts of things.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040414002_04_080");
-        MsgDisp("Nanatsumori","Then, how about the two of us form an amateur
-band?");
+        MsgDisp("Nanatsumori","Then, how about the two of us form an
+amateur band?");
         MsgDisp("主人公","Ehh∋");
         ChEye(4,4);
         ChMouth(4,4);

@@ -28,8 +28,8 @@ ScrFadeIn(0);
 ChMouthOpenLevel(4,0);
 VoicePlay("G110400702_04_010");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","(｛Nanatsumori＊｝ is intensely looking at his
-phone.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ is intensely looking at
+his phone.)");
 MsgDisp("主人公","(I wonder what he's looking at...)");
 while (1){
     RunEverydaySksp(4,0,1,1,0,0);
@@ -47,8 +47,7 @@ MsgDisp("Nanatsumori","...I can feel you staring intensely.");
 VoicePlay("G110400702_04_040");
 ChMotion(4,1);
 MsgDisp("Nanatsumori","...Hm?");
-MsgDisp("主人公","Ah.
-I'm sorry, I didn't mean to stare.");
+MsgDisp("主人公","Ah. I'm sorry, I didn't mean to stare.");
 VoicePlay("G110400702_04_050");
 ChEye(4,0);
 ChMouth(4,0);

@@ -3,15 +3,15 @@ ChLayout(1);
 BGMPlay("BGM_SPORTS_DAY",0.01);
 ScrFadeIn(0);
 VoicePlay("D010600200_47_000");
-MsgDisp("Broadcast","Next up: Team Tug of War from the 2nd year
-boys.");
+MsgDisp("Broadcast","Next up: Team Tug of War from the 2nd
+year boys.");
 MsgClose();
 SEPlay("EV_SE_628");
 Wait(30,0);
 ChOpen(6,30,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
-You're participating in the Tug Of War,
-right?");
+You're participating in the Tug Of
+War, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -88,15 +88,13 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("D010600200_06_030");
 MsgDisp("Himuro","Of course he's on the enemy team...");
-MsgDisp("主人公","Uhm...
-｛Himuro＊＊｝, good luck, okay?");
+MsgDisp("主人公","Uhm... ｛Himuro＊＊｝, good luck, okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D010600200_06_040");
-MsgDisp("Himuro","Sigh...
-I guess I have no choice.");
+MsgDisp("Himuro","Sigh... I guess I have no choice.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
@@ -130,8 +128,7 @@ SEStop("EV_SE_GAYA_003",2);
 SEStop("EV_SE_792",2);
 SEStop("EV_SE_847",2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ahhh∈
-They're neck and neck...
+MsgDisp("主人公","(Ahhh∈ They're neck and neck...
 It's like the two of them are fighting??)");
 StlEye(32,0);
 StlMouth(32,0);
@@ -145,8 +142,7 @@ VoicePlay("D010600200_06_050");
 MsgDisp("Himuro","That's it! Keep pulling like this!
 We can't lose as long as we keep it up!
 This is Tug of War!");
-MsgDisp("主人公","(Ehh∋
-Are they having a conversation??)");
+MsgDisp("主人公","(Ehh∋ Are they having a conversation??)");
 StlEye(6,0,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,5,1);

@@ -36,8 +36,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D130B00100_01_010");
 MsgDisp("Kazama","Wait.
 At times like this, it's ladies first right?");
-MsgDisp("主人公","Hehe.
-Hmm, then which one should I choose?");
+MsgDisp("主人公","Hehe. Hmm, then which one should I choose?");
 ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -61,11 +60,9 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130B00100_01_030");
-MsgDisp("Kazama","A-Ah.
-Sorry.
+MsgDisp("Kazama","A-Ah. Sorry.
 Choose the one you like.");
-MsgDisp("主人公","Then...
-I'll pick this one!");
+MsgDisp("主人公","Then... I'll pick this one!");
 ChEye(4,2);
 ChMouth(4,3);
 ChEye(1,0);

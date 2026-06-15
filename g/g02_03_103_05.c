@@ -40,8 +40,7 @@ VoicePlay("G020310305_03_050");
 MsgDisp("Honda","Oh, it's not just living things.
 This town is full of fascinating things to
 observe.");
-MsgDisp("主人公","Hehe!
-Then ｛Honda＊＊｝ is busy everyday, huh?");
+MsgDisp("主人公","Hehe! Then ｛Honda＊＊｝ is busy everyday, huh?");
 ChSet(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310305_03_060");

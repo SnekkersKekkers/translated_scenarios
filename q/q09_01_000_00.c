@@ -12,8 +12,7 @@ Ah, there!)");
     VoicePlay("Q090100000_01_000");
     MsgDisp("Kazama","Good morning.
 You're looking good today.");
-    MsgDisp("主人公","Yeah.
-It's our last free period.");
+    MsgDisp("主人公","Yeah. It's our last free period.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -36,8 +35,7 @@ You're in high spirits today.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q090100000_01_030");
-    MsgDisp("Kazama","OK!
-Let's go then.");
+    MsgDisp("Kazama","OK! Let's go then.");
     break ;
     case 4:
     case 5:

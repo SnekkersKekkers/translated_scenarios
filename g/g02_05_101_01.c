@@ -15,8 +15,7 @@ MsgDisp("主人公","Eh?");
 ChEye(5,3);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020510101_05_020");
-MsgDisp("Hiiragi","Haha.
-I like that expression of yours.");
+MsgDisp("Hiiragi","Haha. I like that expression of yours.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020510101_05_030");

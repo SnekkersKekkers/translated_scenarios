@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040802201_08_010");
-    MsgDisp("Shirahane","Hm?
-I wonder.");
+    MsgDisp("Shirahane","Hm? I wonder.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

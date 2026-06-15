@@ -18,8 +18,7 @@ Well then, let's go!");
     VoicePlay("Q040500001_05_010");
     MsgDisp("Hiiragi","I sure would like to.
 I even wanted to ask you.");
-    MsgDisp("主人公","Yeah!
-Well then, let's go.");
+    MsgDisp("主人公","Yeah! Well then, let's go.");
     break ;
     case 4:
     case 5:
@@ -29,8 +28,7 @@ Well then, let's go.");
     VoicePlay("Q040500001_05_020");
     MsgDisp("Hiiragi","Of course.
 I was already planning to do so.");
-    MsgDisp("主人公","Yeah!
-Well then, where shall we start?");
+    MsgDisp("主人公","Yeah! Well then, where shall we start?");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("Q040500001_05_030");

@@ -28,8 +28,8 @@ you. What about you? Would you be mistaken?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040623302_06_020");
-    MsgDisp("Himuro","It's not really something to dig further
-into.");
+    MsgDisp("Himuro","It's not really something to dig
+further into.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -102,8 +102,7 @@ for the suspension bridge effect.");
         ChCheek(6,10);
         VoicePlay("B040623302_06_100");
         MsgDisp("Himuro","...Well, it's a bit late for that anyways.");
-        MsgDisp("主人公","Eh?
-Did you say something?");
+        MsgDisp("主人公","Eh? Did you say something?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

@@ -12,8 +12,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("W040100000_01_010");
-MsgDisp("Kazama","I did.
-Well, shall we have some fun?");
+MsgDisp("Kazama","I did. Well, shall we have some fun?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

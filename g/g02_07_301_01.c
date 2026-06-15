@@ -47,8 +47,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 ChEyeOpenLevel(7,8);
 VoicePlay("G020730101_07_070");
-MsgDisp("Mikage","Really, that's what this situation is, isn't
-it??");
+MsgDisp("Mikage","Really, that's what this situation is,
+isn't it??");
 MsgDisp("主人公","(Being together with ｛Mikage＊＊｝ and
 everyone is really fun though...)");
 BGMStop();

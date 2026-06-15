@@ -9,19 +9,17 @@ edition of Habatcher.");
 MsgDisp("主人公","(I still can't believe I know such a famous
 person...)");
 VoicePlay("D010400400_04_000");
-MsgDisp("Nanatsumori?","Ah...
-You're still here?");
+MsgDisp("Nanatsumori?","Ah... You're still here?");
 MsgClose();
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
-I was reading Habatcher and lost track of
-time.");
+I was reading Habatcher and lost track
+of time.");
 VoicePlay("D010400400_04_010");
 MsgDisp("Nanatsumori","Habatcher?");
-MsgDisp("主人公","Yeah.
-This month is a NANA edition▼");
+MsgDisp("主人公","Yeah. This month is a NANA edition▼");
 ChMotion(4,0,1);
 VoicePlay("D010400400_04_020");
 MsgDisp("Nanatsumori","I see...");
@@ -38,8 +36,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D010400400_04_040");
-MsgDisp("Nanatsumori","Ok.
-Since there's no one around...
+MsgDisp("Nanatsumori","Ok. Since there's no one around...
 Let's hang out a bit.");
 MsgDisp("主人公","?");
 MsgClose();
@@ -63,8 +60,7 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400400_04_060");
-MsgDisp("Nanatsumori","Well...
-I'm also good at this sort of thing.");
+MsgDisp("Nanatsumori","Well... I'm also good at this sort of thing.");
 StlEye(4,1,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
@@ -77,8 +73,7 @@ VoicePlay("D010400400_04_080");
 MsgDisp("Nanatsumori","Really.
 Come on, let's take a photo together.");
 MsgDisp("主人公","S-Sure.");
-MsgDisp("主人公","(Woah...
-I look so different∋)");
+MsgDisp("主人公","(Woah... I look so different∋)");
 VoicePlay("D010400400_04_090");
 MsgDisp("Nanatsumori","It's good, right?
 Okay, I'll take the picture.
@@ -103,8 +98,7 @@ ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ahh...
-That was really fun!");
+MsgDisp("主人公","Ahh... That was really fun!");
 VoicePlay("D010400400_04_110");
 MsgDisp("Nanatsumori","That's the most important part.");
 MsgDisp("主人公","You not only carry makeup with you, but you
@@ -112,8 +106,7 @@ also carry wigs, huh?");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("D010400400_04_120");
-MsgDisp("Nanatsumori","Hm?
-I just happened to have them today.");
+MsgDisp("Nanatsumori","Hm? I just happened to have them today.");
 MsgDisp("主人公","Just happened to?");
 ChEye(4,2);
 ChMouth(4,3);

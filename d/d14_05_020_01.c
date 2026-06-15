@@ -11,8 +11,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140502000_05_010");
-MsgDisp("Hiiragi","Ehhh...
-Then, what is the matter?");
+MsgDisp("Hiiragi","Ehhh... Then, what is the matter?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

@@ -33,8 +33,8 @@ I don't think I'll forget today.");
     ChMotion(4,1,1);
     VoicePlay("B040423602_04_020");
     MsgDisp("Nanatsumori","Yeah.
-But it'll become a good memory of this
-summer.");
+But it'll become a good memory of
+this summer.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -114,8 +114,7 @@ your notes.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040423602_04_130");
-        MsgDisp("Nanatsumori","...Stop.
-Sorry, it was a joke.");
+        MsgDisp("Nanatsumori","...Stop. Sorry, it was a joke.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,2,1);

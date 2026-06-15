@@ -3,12 +3,10 @@ ScrFadeIn(0);
 MsgDisp("主人公","(It's gotten late.\nTime to go back home.)");
 VoicePlay("A020600100_32_000");
 MsgDisp("VP Himuro?","Alright, finally.");
-MsgDisp("主人公","(Hmm?
-That voice...
+MsgDisp("主人公","(Hmm? That voice...
 Vice Principal Himuro?)");
 VoicePlay("A020600100_06_000");
-MsgDisp("Himuro?","Yes.
-I'll be counting on you from next month.");
+MsgDisp("Himuro?","Yes. I'll be counting on you from next month.");
 VoicePlay("A020600100_32_010");
 MsgDisp("VP Himuro","Although let me tell you, you are not getting
 any special treatment.");
@@ -16,8 +14,7 @@ VoicePlay("A020600100_06_010");
 MsgDisp("Himuro?","Of course.
 I'm not expecting any.");
 VoicePlay("A020600100_32_020");
-MsgDisp("VP Himuro","Hmm...
-I like this mindset.
+MsgDisp("VP Himuro","Hmm... I like this mindset.
 Looking forward to it.");
 VoicePlay("A020600100_06_020");
 MsgDisp("Himuro?","Thank you.
@@ -47,8 +44,7 @@ ChOpen(32,254,0,0,0,#1,#1,0,0);
 VoicePlay("A020600100_32_040");
 MsgDisp("VP Himuro","...Your ribbon is crooked.
 Fix it.");
-MsgDisp("主人公","What?
-Ah, alright...");
+MsgDisp("主人公","What? Ah, alright...");
 SEPlay("EV_SE_623",0,0.4);
 SEWait();
 ChEye(32,0);
@@ -62,8 +58,7 @@ BGMStop();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(32);
 Wait(30);
-MsgDisp("主人公","(Phew...
-I thought I was gonna get scolded!)");
+MsgDisp("主人公","(Phew... I thought I was gonna get scolded!)");
 MsgDisp("主人公","(But still, who was that boy just now...?)");
 MsgClose();
 ScrFadeOut(0);

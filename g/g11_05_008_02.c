@@ -8,8 +8,7 @@ The amount of money doesn't add up.");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ChOpen(5,254,4,4,0,#1,#1,0,0);
-MsgDisp("主人公","Eh?
-That's troubling.
+MsgDisp("主人公","Eh? That's troubling.
 I'll also try to search around the room too.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -103,8 +102,8 @@ VoicePlay("G110500802_05_080");
 MsgDisp("Hiiragi","No, that's no good at all.
 I couldn't even do this job by myself...");
 MsgDisp("主人公","That's not true at all.
-After all, your calculations were right,
-right?");
+After all, your calculations were
+right, right?");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -117,8 +116,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G110500802_05_100");
-MsgDisp("Hiiragi","You...
-It's moving me to tears...");
+MsgDisp("Hiiragi","You... It's moving me to tears...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

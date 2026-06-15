@@ -28,8 +28,7 @@ more fascinating stories keep coming out—");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040310100_03_020");
-    MsgDisp("Honda","Who's that someone?
-...you?");
+    MsgDisp("Honda","Who's that someone? ...you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

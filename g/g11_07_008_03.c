@@ -57,8 +57,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 MsgDisp("Mikage","But, I would rather use these gloves than get
 your handkerchief dirty.");
-MsgDisp("主人公","(Eh?
-But it's really okay...)");
+MsgDisp("主人公","(Eh? But it's really okay...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

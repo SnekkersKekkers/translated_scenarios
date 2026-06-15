@@ -77,8 +77,7 @@ cute you are.");
         ChMotion(3,4);
         ChCheek(3,5);
         VoicePlay("B040323502_03_070");
-        MsgDisp("Honda","Huh?
-Huh?
+        MsgDisp("Honda","Huh? Huh?
 Something's tightening up here in my chest.");
         MsgDisp("主人公","Eh, are you alright?");
         ChEye(3,5);

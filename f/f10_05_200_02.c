@@ -51,14 +51,13 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100520002_05_040");
 MsgDisp("Hiiragi","That's true, but they were carefully
-distributed among siblings, I'm sure
-there's a story behind them.");
+distributed among siblings, I'm sure there's
+a story behind them.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("F100520002_01_030");
-MsgDisp("Kazama","I see.
-As expected of the chairman.
+MsgDisp("Kazama","I see. As expected of the chairman.
 It's interesting to dig deeper..");
 ChEye(5,4);
 ChMouth(5,4);

@@ -23,13 +23,12 @@ VoicePlay("F110210002_02_010");
 MsgDisp("Sassa","Really?
 I'm going to teach that kid to get first
 place in sports day.");
-MsgDisp("主人公","Haha.
-Good luck!");
+MsgDisp("主人公","Haha. Good luck!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(｛Sassa＊＊｝ does tough training every day so
-I'm glad he got to have fun running with the
-kids!)");
+MsgDisp("主人公","(｛Sassa＊＊｝ does tough training every day
+so I'm glad he got to have fun running with
+the kids!)");
 MsgClose();
 ScrFadeOut(0);

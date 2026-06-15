@@ -14,5 +14,4 @@ VoicePlay("B020400010_04_010");
 MsgDisp("Nanatsumori","Right. Seeing trendy stuff actually suit you
 is way more satisfying than seeing it online
 or in magazines.");
-MsgDisp("主人公","(Yay!
-｛Nanatsumori＊｝ praised me▼)");
+MsgDisp("主人公","(Yay! ｛Nanatsumori＊｝ praised me▼)");

@@ -11,8 +11,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChCheek(7,0);
 VoicePlay("D140C03300_07_000");
-MsgDisp("Mikage","Both Yanosuke and Inori surprisingly eat a
-lot.");
+MsgDisp("Mikage","Both Yanosuke and Inori surprisingly eat
+a lot.");
 ChMotion(5,4);
 ChEye(6,0);
 ChMouth(6,0);
@@ -20,8 +20,7 @@ ChMotion(6,0);
 VoicePlay("D140C03300_06_000");
 MsgDisp("Himuro","When will I eat, if not now?
 We're in our growth period.");
-MsgDisp("主人公","Hehe.
-Does ｛Himuro＊＊｝ want to grow bigger?");
+MsgDisp("主人公","Hehe. Does ｛Himuro＊＊｝ want to grow bigger?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

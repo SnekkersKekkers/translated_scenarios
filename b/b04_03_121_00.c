@@ -10,9 +10,9 @@ ChMouth(3,3);
 ChMotion(3,3);
 ScrFadeIn(0);
 VoicePlay("B040312100_03_000");
-MsgDisp("Honda","From household goods to antique-ish stuff,
-it's fun how there's a bit of everything
-here.");
+MsgDisp("Honda","From household goods to antique-ish
+stuff, it's fun how there's a bit of
+everything here.");
 MsgSel("Let's find some bargains!","Setting up your own stall would be fun.","It's an environmentally-friendly event, too.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +32,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040312100_03_020");
-    MsgDisp("Honda","Nice.
-It might be more fun like that!");
+    MsgDisp("Honda","Nice. It might be more fun like that!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

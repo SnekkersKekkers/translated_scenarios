@@ -6,8 +6,8 @@ ChMotion(1,0);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040116001_01_000");
-MsgDisp("Kazama","There are quite a lot of older folks here,
-huh?
+MsgDisp("Kazama","There are quite a lot of older folks
+here, huh?
 Maybe around my Grandpa's age.");
 MsgSel("Looks like there are games here that are popular with the elderly.","Maybe it's because they have stuff like Go and Shogi","Maybe your Grandpa is here too, ｛Kazama＊＊｝?");
 switch (MsgSelRsltGet()){

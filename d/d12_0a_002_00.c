@@ -71,8 +71,7 @@ StlMouth(1,0);
 StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Eh!
-I can't believe it...
+MsgDisp("主人公","(Eh! I can't believe it...
 They're in the same race∋)");
 StlEye(2,0,0);
 StlMouth(2,0);
@@ -134,8 +133,8 @@ MsgDisp("Sassa","Thank you!
 It's been a while since I raced with Ryota,
 so it was fun.");
 VoicePlay("D120A00200_42_050");
-MsgDisp("School Boy","As expected of the Track and Field Club's
-Ace!");
+MsgDisp("School Boy","As expected of the Track and Field
+Club's Ace!");
 VoicePlay("D120A00200_44_010");
 MsgDisp("School Girl","Yeah, Sassa-kun was amazing!");
 ChEye(2,0);
@@ -178,8 +177,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120A00200_01_070");
-MsgDisp("Kazama","I see.
-So you're doing the loser interview?");
+MsgDisp("Kazama","I see. So you're doing the loser interview?");
 MsgDisp("主人公","How's it feel taking the silver medal?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -191,8 +189,7 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120A00200_01_090");
-MsgDisp("Kazama","But...
-Thank you.
+MsgDisp("Kazama","But... Thank you.
 This feeling...it's the same as back then.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);

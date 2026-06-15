@@ -47,8 +47,8 @@ VoicePlay("D010400300_04_040");
 MsgDisp("Nanatsumori","......");
 VoicePlay("D010400300_41_010");
 MsgDisp("Staff A","Great～!
-Stay just like that, let me take a few
-shots～");
+Stay just like that, let me take a
+few shots～");
 SEPlay("EV_SE_041");
 Wait(35,0);
 SEPlay("EV_SE_041");

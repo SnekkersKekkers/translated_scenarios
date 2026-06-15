@@ -1,5 +1,4 @@
-MsgDisp("主人公","(Huh?
-What's up with me?
+MsgDisp("主人公","(Huh? What's up with me?
 My heart is racing super fast...)");
 ChEye(2,0);
 ChMouth(2,2);
@@ -52,8 +51,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B070200001_02_470");
 MsgDisp("Sassa","That's strange...
-My heart rate doesn't usually spike like
-this...");
+My heart rate doesn't usually spike
+like this...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);

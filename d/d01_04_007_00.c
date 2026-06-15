@@ -1,9 +1,9 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ugh...
-I feel a bit tired? I guess I'll get some
-fresh air on the rooftop.)");
+MsgDisp("主人公","(Ugh... I feel a bit tired?
+I guess I'll get some fresh air on the
+rooftop.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -17,8 +17,7 @@ SEPlay("EV_SE_DOOR_011",0,1);
 Wait(80,0);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","(Ugh...
-I guess I'm a bit burnt out...)");
+MsgDisp("主人公","(Ugh... I guess I'm a bit burnt out...)");
 VoicePlay("D010400700_04_000");
 MsgDisp("Nanatsumori?","Hey.");
 MsgDisp("主人公","...Eh?");
@@ -27,8 +26,7 @@ SEWait();
 MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-MsgDisp("主人公","Ah...
-｛Nanatsumori＊｝.");
+MsgDisp("主人公","Ah... ｛Nanatsumori＊｝.");
 VoicePlay("D010400700_04_010");
 MsgDisp("Nanatsumori","Your face is really pale.");
 MsgClose();
@@ -121,8 +119,7 @@ BGMStop();
 ChClose(4,0,30);
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","Ahh～!
-｛Nanatsumori＊｝ ～∋");
+MsgDisp("主人公","Ahh～! ｛Nanatsumori＊｝ ～∋");
 SEWait();
 MsgClose();
 PlPrmTblAdd(70);

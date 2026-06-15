@@ -92,8 +92,7 @@ StlEye(8,2);
 StlMouth(8,0);
 VoicePlay("B050800300_08_100");
 MsgDisp("Shirahane","As I thought, it's different for a model.
-That's how it is.
-Haha!");
+That's how it is. Haha!");
 MsgDisp("主人公","(Hehe!
 ...But how do you look cool wearing that hat
 and doll?)");

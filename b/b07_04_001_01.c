@@ -26,8 +26,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_050");
-MsgDisp("Nanatsumori","...No.
-Even though he looks like that he's a
+MsgDisp("Nanatsumori","...No. Even though he looks like that he's a
 surprisingly nice guy.");
 ChEye(4,0);
 ChMouth(4,4);

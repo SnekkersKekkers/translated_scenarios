@@ -118,11 +118,10 @@ me there...");
         ChMotion(3,5);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308102_03_120");
-        MsgDisp("Honda","Haha!
-You really are interesting!");
+        MsgDisp("Honda","Haha! You really are interesting!");
         MsgDisp("主人公","(｛Honda＊＊｝ called me interesting...
-I'm happy, but I have mixed feelings about
-it?)");
+I'm happy, but I have mixed feelings
+about it?)");
         break ;
         default :
         DbgAssert(1);

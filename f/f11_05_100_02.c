@@ -12,8 +12,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F110510002_05_010");
-MsgDisp("Hiiragi","Yes, because there is a lot of data this
-year.
+MsgDisp("Hiiragi","Yes, because there is a lot of data
+this year.
 Give me your request, please.");
 SEPlay("EV_SE_FOOT_WALK_COME_TWO",0,0.6);
 SEWait();

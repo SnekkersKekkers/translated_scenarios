@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040118800_01_000");
     MsgDisp("Kazama","Yeah, well you laughed a lot.
-That was more interesting to me than the
-movie.");
+That was more interesting to me than
+the movie.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

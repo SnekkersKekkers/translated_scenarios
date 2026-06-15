@@ -3,8 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-I failed...)");
+MsgDisp("主人公","(Sigh... I failed...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,0,0,#1,#1,0,0);

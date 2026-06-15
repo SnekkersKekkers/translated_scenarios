@@ -15,8 +15,8 @@ Thursday?");
 MsgDisp("主人公","I understand.
 I'm looking forward to working with you.");
 VoicePlay("I120000000_45_020");
-MsgDisp("Manager","I look forward to working with you from now
-on.");
+MsgDisp("Manager","I look forward to working with you from
+now on.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","I'll be working part-time every Tuesday and

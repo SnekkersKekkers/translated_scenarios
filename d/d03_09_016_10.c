@@ -45,8 +45,7 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901610_09_020");
 MsgDisp("Kuya","I'm your customer, aren't I?");
-MsgDisp("主人公","Ah...
-True.");
+MsgDisp("主人公","Ah... True.");
 ChEye(9,3);
 ChMotion(9,4,1);
 VoicePlay("D030901610_09_030");
@@ -89,8 +88,7 @@ ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030901610_09_070");
-MsgDisp("Kuya","...Hehe.
-Jealousy, huh.");
+MsgDisp("Kuya","...Hehe. Jealousy, huh.");
 ChMotion(9,2,1);
 VoicePlay("D030901610_09_080");
 MsgDisp("Kuya","If I was a student at Haba High, maybe I

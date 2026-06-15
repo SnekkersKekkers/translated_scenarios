@@ -1,12 +1,12 @@
 MsgDisp("主人公","Hey...
-｛Daichi＊＊｝, do you have a type of girl you
-like?");
+｛Daichi＊＊｝, do you have a type of girl
+you like?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B070800000_08_400");
-MsgDisp("Shirahane","Rather than a type, I think all girls are
-cute.");
+MsgDisp("Shirahane","Rather than a type, I think all girls
+are cute.");
 MsgDisp("主人公","Ah, you're dodging the question.");
 ChEye(8,2);
 ChMouth(8,5);
@@ -27,8 +27,8 @@ ChMotion(8,4,1);
 ChEyeOpenLevel(8,8);
 VoicePlay("B070800000_08_430");
 MsgDisp("Shirahane","After all...
-You'd be taken aback if I said I liked you
-right?");
+You'd be taken aback if I said I liked
+you right?");
 ChEyeOpenLevel(8,0);
 MsgDisp("主人公","T-That's not true but...");
 ChEye(8,4);
@@ -48,8 +48,7 @@ ChMouth(8,0);
 ChMotion(8,4,1);
 ChCheek(8,10);
 VoicePlay("B070800000_08_460");
-MsgDisp("Shirahane","Ah～....
-That was embarrassin'...");
+MsgDisp("Shirahane","Ah～.... That was embarrassin'...");
 MsgDisp("主人公","(My heart is also racing...)");
 BGMStop();
 MsgClose();

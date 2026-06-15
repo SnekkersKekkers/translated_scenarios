@@ -11,8 +11,7 @@ VoicePlay("F020500014_05_000");
 MsgDisp("Hiiragi","Yes, that is right.
 I truly have so many thoughts, yet no easy
 way to say them.");
-MsgDisp("主人公","Mhm.
-｛Hiiragi＊＊＊｝, you really worked so hard.");
+MsgDisp("主人公","Mhm. ｛Hiiragi＊＊＊｝, you really worked so hard.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500014_05_010");
@@ -35,8 +34,7 @@ VoicePlay("F020500014_05_040");
 MsgDisp("Hiiragi","...But still. Being able to go from
 enrollment to graduation all at one
 school...it truly is like a dream.");
-MsgDisp("主人公","I see...
-I'm glad...");
+MsgDisp("主人公","I see... I'm glad...");
 ChMotion(5,4);
 VoicePlay("F020500014_05_050");
 MsgDisp("Hiiragi","You are making that face again.");

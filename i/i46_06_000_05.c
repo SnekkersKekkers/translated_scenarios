@@ -69,8 +69,7 @@ lost their vigour can still be enjoyed.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600005_06_040");
-    MsgDisp("Himuro","Hm.
-You really are swee-");
+    MsgDisp("Himuro","Hm. You really are swee-");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -85,8 +84,7 @@ You really are swee-");
     VoicePlay("I460600005_06_060");
     MsgDisp("Himuro","Well, this talent for business will surely
 come in handy later, right?");
-    MsgDisp("主人公","(Um...
-I guess he's complimenting me?)");
+    MsgDisp("主人公","(Um... I guess he's complimenting me?)");
     break ;
     default :
     DbgAssert(1);

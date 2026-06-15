@@ -23,8 +23,7 @@ together right now?");
 I'll pick you up ASAP so wait at home.");
         MsgDisp("主人公","Wait, right now?");
         VoicePlay("S040300000_03_030");
-        MsgDisp("Honda","Yep!
-See you soon!");
+        MsgDisp("Honda","Yep! See you soon!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(｛Honda＊＊｝ will be here soon...
@@ -36,8 +35,7 @@ What should I wear?)");
         case 1:
         VoicePlay("S040300000_03_040");
         MsgDisp("Honda","Dang, no way.");
-        MsgDisp("主人公","Uhm...
-Sorry.");
+        MsgDisp("主人公","Uhm... Sorry.");
         VoicePlay("S040300000_03_050");
         MsgDisp("Honda","It's fine, I guess it was too sudden.
 See you later!");
@@ -97,8 +95,7 @@ Well then, what should I wear?)");
         case 1:
         VoicePlay("S040300000_03_140");
         MsgDisp("Honda","No way......");
-        MsgDisp("主人公","Uhm...
-｛Honda＊＊｝?");
+        MsgDisp("主人公","Uhm... ｛Honda＊＊｝?");
         VoicePlay("S040300000_03_150");
         MsgDisp("Honda","Ah, yeah.
 It's okay, I just froze for a second.");

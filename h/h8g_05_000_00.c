@@ -8,8 +8,7 @@ VoicePlay("H8G0500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.
 ...No, perhaps I should address you as model
 student?");
-MsgDisp("主人公","Um...
-That makes me feel a little shy.");
+MsgDisp("主人公","Um... That makes me feel a little shy.");
 ChEye(5,0);
 VoicePlay("H8G0500000_05_010");
 MsgDisp("Hiiragi","Not at all.

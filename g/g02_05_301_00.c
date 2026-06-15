@@ -14,8 +14,8 @@ VoicePlay("G020530100_05_020");
 MsgDisp("Hiiragi","In terms of friends.
 Have you made more?
 Well, I'm one of them, of course.");
-MsgDisp("主人公","Yeah, I think maybe I talk to more people
-now.");
+MsgDisp("主人公","Yeah, I think maybe I talk to more
+people now.");
 ChEye(5,3);
 VoicePlay("G020530100_05_030");
 MsgDisp("Hiiragi","Yes, thanks to you, I've made more
@@ -36,8 +36,8 @@ decide to run, I'll support you on behalf of
 the student council executive committee.");
 ChEye(5,3);
 VoicePlay("G020530100_05_060");
-MsgDisp("Hiiragi","Although you might not need such support,
-right?");
+MsgDisp("Hiiragi","Although you might not need such
+support, right?");
 MsgDisp("主人公","It's not that though...
 If the student council committee were to show
 support, wouldn't that be breaking the rules?");
@@ -54,8 +54,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020530100_05_080");
-MsgDisp("Hiiragi","It's regrettable, although I cannot support
-you.");
+MsgDisp("Hiiragi","It's regrettable, although I cannot
+support you.");
 MsgDisp("主人公","(...Hm?
 When did it become a given that I was even
 running for student council president?)");

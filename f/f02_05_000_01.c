@@ -33,6 +33,6 @@ VoicePlay("F020500001_05_040");
 MsgDisp("Hiiragi","Even just from what I've heard, there are
 quite a few. If you hear any interesting ones
 among the girls, please do tell me.");
-MsgDisp("主人公","(...Well, I can only hope one of them will be
-interesting enough to make for a decent
-play.)");
+MsgDisp("主人公","(...Well, I can only hope one of them
+will be interesting enough to make for a
+decent play.)");

@@ -13,8 +13,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("F010200001_02_010");
-    MsgDisp("Sassa","Hm...
-I guess it's too early to say.");
+    MsgDisp("Sassa","Hm... I guess it's too early to say.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -28,8 +27,7 @@ I guess it's too early to say.");
     ChOpen(2,254,5,0,0,#1,#1,0,0);
     VoicePlay("F010200001_02_020");
     MsgDisp("Sassa","Did you mean me?");
-    MsgDisp("主人公","Yeah.
-Was it bad?");
+    MsgDisp("主人公","Yeah. Was it bad?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,2);
@@ -49,8 +47,7 @@ Seems like I shouldn't call him that.)");
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,254,4,0,0,#1,#1,0,0);
     VoicePlay("F010200001_02_040");
-    MsgDisp("Sassa","Huh?
-Just now, were you calling me?");
+    MsgDisp("Sassa","Huh? Just now, were you calling me?");
     MsgDisp("主人公","Uhm, yeah.");
     ChEye(2,0);
     ChMouth(2,0);

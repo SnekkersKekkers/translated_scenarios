@@ -11,8 +11,8 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("I420000000_49_010");
 MsgDisp("Manager","Then, could you take shifts every Wednesday
 and Friday?");
-MsgDisp("主人公","Yes, it's a pleasure to start working with
-you.");
+MsgDisp("主人公","Yes, it's a pleasure to start working
+with you.");
 VoicePlay("I420000000_49_020");
 MsgDisp("Manager","You too.
 I'll see you then.");

@@ -32,8 +32,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P540100005_01_030");
-MsgDisp("Kazama","Whether it's the last one depends on you,
-though?");
+MsgDisp("Kazama","Whether it's the last one depends on
+you, though?");
 MsgDisp("主人公","Eh?");
 ChEye(1,4);
 ChMouth(1,3);

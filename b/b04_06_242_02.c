@@ -46,8 +46,8 @@ I'll cook another batch.");
         ChMotion(6,0);
         VoicePlay("B040624202_06_040");
         MsgDisp("Himuro","That's true but...
-Then, you should eat only the nicely cooked
-parts.");
+Then, you should eat only the nicely
+cooked parts.");
         MsgDisp("主人公","Thanks.
 But, let's eat the burnt parts together?");
         ChEye(6,0);
@@ -69,8 +69,7 @@ Then, do as you'd like.");
         ChCheek(6,10);
         VoicePlay("B040624202_06_070");
         MsgDisp("Himuro","......");
-        MsgDisp("主人公","Huh?
-Your face is red.");
+        MsgDisp("主人公","Huh? Your face is red.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,1);
 ChEyeOpenLevel(4,8);
 VoicePlay("B020402126_04_000");
-MsgDisp("Nanatsumori","The more I see of it, the more addicted I
-get...");
+MsgDisp("Nanatsumori","The more I see of it, the more addicted
+I get...");
 MsgDisp("主人公","Umm, you mean what I'm wearing?");
 ChEye(4,0);
 ChMouth(4,0);

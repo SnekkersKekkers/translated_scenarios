@@ -1,16 +1,14 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, I guess it's time to go home.
-...Huh?)");
+MsgDisp("主人公","(Well, I guess it's time to go home. ...Huh?)");
 VoiceEVSPlay(6);
 VoicePlay("E010630100_06_000");
 MsgDisp("Himuro?","｛主人公｝, what a coincidence.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah...
-｛Himuro＊＊｝!
+MsgDisp("主人公","Ah... ｛Himuro＊＊｝!
 Were you out shopping?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -26,8 +24,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 Wait(30,0);
 ChOpen(7,255,0,0,0,#1,#1,0,2);
 VoicePlay("E010630100_07_000");
-MsgDisp("Mikage","Yo!
-Are you ready?");
+MsgDisp("Mikage","Yo! Are you ready?");
 MsgDisp("主人公","Ah, ｛Mikage＊＊｝!");
 ChEye(6,0);
 ChMouth(6,0);

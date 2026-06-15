@@ -157,8 +157,7 @@ I'll come again～");
     VoicePlay("I650200000_02_130");
     MsgDisp("Sassa","Thanks.
 Thanks to you, I'm completely refreshed.");
-    MsgDisp("主人公","Hm?
-I didn't do anything.");
+    MsgDisp("主人公","Hm? I didn't do anything.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);

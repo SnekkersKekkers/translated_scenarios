@@ -6,8 +6,8 @@ SEWait();
 MsgDisp("主人公","(Ah, a message from ｛Mikage＊＊｝.
 It says... \"The cherry blossoms are
 beautiful, won't you come see them—\")");
-MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is at the forest
-park?
+MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is at the
+forest park?
 Alright, it's good weather, let's head out!)");
 MsgClose();
 ScrFadeOut(0);
@@ -75,8 +75,7 @@ StlMouth(7,1);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("B050700000_07_060");
 MsgDisp("Mikage","She's a real beauty, huh?");
-MsgDisp("主人公","Yes!
-It's almost a pity I have to eat it.");
+MsgDisp("主人公","Yes! It's almost a pity I have to eat it.");
 StlEye(7,0,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,0,1);

@@ -4,8 +4,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_010");
-MsgDisp("Mikage","Yeah, it feels like he's finally acknowledged
-me.");
+MsgDisp("Mikage","Yeah, it feels like he's finally
+acknowledged me.");
 MsgDisp("主人公","Huh?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -18,8 +18,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_030");
-MsgDisp("Mikage","But, you know, he's the diligent type I
-like. He told me he can't stand that part of
+MsgDisp("Mikage","But, you know, he's the diligent type I like.
+He told me he can't stand that part of
 himself.");
 MsgDisp("主人公","So that's how it is.");
 ChEye(7,4);
@@ -46,10 +46,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700001_07_070");
-MsgDisp("Mikage","Crap.
-My Miss Diligent side came out today.");
-MsgDisp("主人公","(｛Mikage＊＊｝ is always worrying about us,
-huh...)");
+MsgDisp("Mikage","Crap. My Miss Diligent side came out today.");
+MsgDisp("主人公","(｛Mikage＊＊｝ is always worrying about
+us, huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

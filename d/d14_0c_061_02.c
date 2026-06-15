@@ -40,8 +40,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C06102_06_020");
-MsgDisp("Himuro","I see.
-He's in charge of you.");
+MsgDisp("Himuro","I see. He's in charge of you.");
 MsgDisp("主人公","Eh, me?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -68,8 +67,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C06102_05_040");
 MsgDisp("Hiiragi","We are your friends after all.");
-MsgDisp("主人公","Hehe.
-Yeah, thank you.");
+MsgDisp("主人公","Hehe. Yeah, thank you.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ are worried
 about me and ｛Mikage＊＊｝.)");
 BGMStop();

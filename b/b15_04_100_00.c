@@ -5,10 +5,8 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150410000_04_000");
-MsgDisp("Nanatsumori","You're waiting for payback huh?
-OK?");
-MsgDisp("主人公","Umm...
-Sorry?");
+MsgDisp("Nanatsumori","You're waiting for payback huh? OK?");
+MsgDisp("主人公","Umm... Sorry?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);

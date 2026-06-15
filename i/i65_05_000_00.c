@@ -49,8 +49,8 @@ travel far even at this hour...)");
     MsgDisp("Hiiragi","｛主人公｝.
 So you're working again today.
 Good work.");
-    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, are you still working as
-well?");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, are you still working
+as well?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,1);

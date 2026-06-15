@@ -12,8 +12,7 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("I340000000_43_010");
 MsgDisp("Manager","...It's too bad, but there's no helping it.
 Thanks for everything until now.");
-MsgDisp("主人公","Thank you for looking after me.
-Bye...");
+MsgDisp("主人公","Thank you for looking after me. Bye...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("","(I quit my part-time job at Cafe Alucard.)");

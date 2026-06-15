@@ -31,8 +31,7 @@ VoicePlay("B030614000_06_020");
 MsgDisp("Himuro","...I take it back.
 I hope it starts soon.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Hehe.
-...Ah, it's starting!");
+MsgDisp("主人公","Hehe. ...Ah, it's starting!");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0,0);

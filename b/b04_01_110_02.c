@@ -64,8 +64,7 @@ build up speed, right?");
         VoicePlay("B040111002_01_040");
         MsgDisp("Kazama","Even though fate ties us together, seems we
 still have our differences.");
-        MsgDisp("主人公","Huh?
-You don't like the big kersplash?");
+        MsgDisp("主人公","Huh? You don't like the big kersplash?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,1);
@@ -94,8 +93,8 @@ care, right?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040111002_01_080");
         MsgDisp("Kazama","Well, whatever you say.
-I like what I like, and I don't like what I
-don't.");
+I like what I like, and I don't like what
+I don't.");
         MsgDisp("主人公","I see...
 Doesn't going down on a two-seater float
 sound like fun?");
@@ -103,8 +102,7 @@ sound like fun?");
         ChMouth(1,1);
         ChMotion(1,3);
         VoicePlay("B040111002_01_090");
-        MsgDisp("Kazama","Hey!
-You should have mentioned that sooner.");
+        MsgDisp("Kazama","Hey! You should have mentioned that sooner.");
         ChEye(1,1);
         ChMouth(1,2);
         ChMotion(1,2);

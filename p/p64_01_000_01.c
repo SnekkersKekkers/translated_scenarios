@@ -12,8 +12,7 @@ ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("P640100001_01_010");
 MsgDisp("Kazama","Yeah, I thought it was a punishment game.");
-MsgDisp("主人公","Umm...
-The herbs are good for the body...");
+MsgDisp("主人公","Umm... The herbs are good for the body...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

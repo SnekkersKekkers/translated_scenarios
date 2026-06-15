@@ -16,8 +16,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020130101_01_020");
-MsgDisp("Kazama","...It's been like that around you recently
-too.");
+MsgDisp("Kazama","...It's been like that around you
+recently too.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
 ChMouth(1,0);
@@ -47,8 +47,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020130101_01_060");
-MsgDisp("Kazama","Urk...
-Yeah, that I am.
+MsgDisp("Kazama","Urk... Yeah, that I am.
 ...Okay, fine, I'll accept it.");
 MsgDisp("主人公","Is something wrong?");
 ChEye(1,0);

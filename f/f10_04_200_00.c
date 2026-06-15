@@ -1,8 +1,7 @@
 BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah.
-Over there is—");
+MsgDisp("主人公","Ah. Over there is—");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -26,8 +25,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100420000_04_030");
-MsgDisp("Nanatsumori","Hm.
-I thought he had potential.");
+MsgDisp("Nanatsumori","Hm. I thought he had potential.");
 MsgDisp("主人公","Potential?");
 ChPosition(4,1);
 MsgClose();
@@ -36,8 +34,7 @@ SEWait();
 ChOpen(6,254,2,1,0,0,#1,0,2,0,60);
 VoicePlay("F100420000_06_000");
 MsgDisp("Himuro","What was up with you just now?");
-MsgDisp("主人公","Ah...
-｛Himuro＊＊｝.");
+MsgDisp("主人公","Ah... ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

@@ -35,8 +35,7 @@ But I agree with you.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040618500_06_020");
-    MsgDisp("Himuro","...Hmm?
-It didn't resonate with you huh?");
+    MsgDisp("Himuro","...Hmm? It didn't resonate with you huh?");
     MsgDateResultDisp();
     break ;
     default :

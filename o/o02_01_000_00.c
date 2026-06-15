@@ -17,8 +17,7 @@ You looked really into it.");
     MsgClose();
     ChOpen(1,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝! I won!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -26,8 +25,7 @@ I won!");
     VoicePlay("O020100000_01_010");
     MsgDisp("Kazama","I know, I was watching.
 You had a lot of fun, huh?");
-    MsgDisp("主人公","What?
-I was trying my hardest.");
+    MsgDisp("主人公","What? I was trying my hardest.");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -44,8 +42,7 @@ praising me at all...)");
     MsgClose();
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝! I won!");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -61,8 +58,7 @@ You know, I got really into it, too.");
     ChOpen(1,30,0,2,2,#1,#1,0,0,0,30);
     SEWait();
     VoicePlay("O020100000_01_040");
-    MsgDisp("Kazama","Huh?
-Here, let me see.");
+    MsgDisp("Kazama","Huh? Here, let me see.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);

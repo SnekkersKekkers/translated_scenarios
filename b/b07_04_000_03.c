@@ -29,8 +29,8 @@ ChMotion(4,0,1);
 VoicePlay("B070400000_04_170");
 MsgDisp("Nanatsumori","Kid huh.
 Well, I'd like to think so.");
-MsgDisp("主人公","Then, maybe you'd be amazing if you really
-tried!");
+MsgDisp("主人公","Then, maybe you'd be amazing if you
+really tried!");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B070400000_04_180");

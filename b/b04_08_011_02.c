@@ -7,8 +7,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,2,1);
 VoicePlay("B040801102_08_000");
-MsgDisp("Shirahane","A cool guy would suit a stylish place like
-this...");
+MsgDisp("Shirahane","A cool guy would suit a stylish place
+like this...");
 MsgSel("Like a model?","That sort of thing doesn't matter!","Right!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -55,8 +55,7 @@ enjoy it earnestly!");
         ChMouth(8,4);
         ChMotion(8,4,1);
         VoicePlay("B040801102_08_040");
-        MsgDisp("Shirahane","Sigh...
-So it's like that after all.");
+        MsgDisp("Shirahane","Sigh... So it's like that after all.");
         MsgDisp("主人公","Why are you so down?");
         ChEye(8,2);
         ChMouth(8,4);

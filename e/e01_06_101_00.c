@@ -43,8 +43,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610100_06_050");
-MsgDisp("Himuro","Sigh...
-What am I doing?
+MsgDisp("Himuro","Sigh... What am I doing?
 I've failed as an older brother...");
 SEPlay("EV_SE_579");
 ChEye(6,0);
@@ -60,8 +59,7 @@ MsgClose();
 ChClose(6);
 Wait(30,0);
 VoicePlay("E010610100_06_070");
-MsgDisp("Himuro","...Huh?
-He's back home?");
+MsgDisp("Himuro","...Huh? He's back home?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

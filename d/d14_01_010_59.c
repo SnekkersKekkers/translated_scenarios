@@ -3,8 +3,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140101059_01_000");
 MsgDisp("Kazama","...I realised it as soon as I chose it.
-Doesn't this amount of pancakes seem a bit
-insane?");
+Doesn't this amount of pancakes seem a
+bit insane?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

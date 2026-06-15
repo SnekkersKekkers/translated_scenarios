@@ -19,15 +19,13 @@ ChMotion(3,1);
 VoiceEVSPlay(3);
 VoicePlay("D150003600_03_010");
 MsgDisp("Honda","｛主人公｝, compare us.");
-MsgDisp("主人公","Uhm...
-Yeah.
+MsgDisp("主人公","Uhm... Yeah.
 ｛Honda＊＊｝ is a bit taller.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("D150003600_03_020");
-MsgDisp("Honda","Oh.
-Maybe I was just imagining things.");
+MsgDisp("Honda","Oh. Maybe I was just imagining things.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -64,8 +62,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("D150003600_06_030");
-MsgDisp("Himuro","What.
-Why? Iku-senpai already explained himself.
+MsgDisp("Himuro","What. Why?
+Iku-senpai already explained himself.
 What's your reasoning?");
 MsgDisp("主人公","(I might get in trouble if I tell ｛Himuro＊＊｝
 that his height suits him.)");

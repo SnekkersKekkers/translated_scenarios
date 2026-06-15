@@ -20,8 +20,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","I'm sure everyone is already happy enough
 that we came this close to winning the
 championships, right?");
-    MsgDisp("主人公","Yeah.
-A lot of them set new personal bests.");
+    MsgDisp("主人公","Yeah. A lot of them set new personal bests.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -61,8 +60,7 @@ But the members were doing their best, right?");
     VoicePlay("H2A0100001_01_060");
     MsgDisp("Kazama","I think everyone's grateful for you.
 If they weren't, I wouldn't forgive them.");
-    MsgDisp("主人公","Hehe.
-...Yeah, thanks.");
+    MsgDisp("主人公","Hehe. ...Yeah, thanks.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

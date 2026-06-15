@@ -18,9 +18,9 @@ switch (ChPrmGet(5,6)){
 What are you doing later?");
     ChMotion(5,4);
     VoicePlay("S120500000_05_060");
-    MsgDisp("Hiiragi","We will have a New Year's show soon, so maybe
-some rehearsals and meetings, among other
-things?");
+    MsgDisp("Hiiragi","We will have a New Year's show soon, so
+maybe some rehearsals and meetings, among
+other things?");
     MsgDisp("主人公","Eh, no way∋
 I guess maybe today wasn't the best time to
 visit the shrine...?");
@@ -54,8 +54,7 @@ It was fun to pray with you.");
     MsgDisp("Hiiragi","There will be a New Year's show soon, so
 there is a lot for us to do.
 Rehearsals, meetings, etcetera.");
-    MsgDisp("主人公","I see...
-That's rough.");
+    MsgDisp("主人公","I see... That's rough.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

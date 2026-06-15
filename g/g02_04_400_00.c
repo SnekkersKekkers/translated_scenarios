@@ -53,8 +53,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020440000_04_080");
 MsgDisp("Nanatsumori","...But.
-That all changed when I met you at Habataki
-High.");
+That all changed when I met you at
+Habataki High.");
 MsgDisp("主人公","Huh, me?");
 ChEye(4,4);
 ChMouth(4,0);
@@ -72,8 +72,8 @@ happy and alone.");
 ChMotion(4,0,1);
 VoicePlay("G020440000_04_110");
 MsgDisp("Nanatsumori","Now I have real...time, places, and people.
-Convos, interactions, and I appreciate all of
-it.");
+Convos, interactions, and I appreciate all
+of it.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3,1);

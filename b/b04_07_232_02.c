@@ -48,15 +48,13 @@ Especially when I'm with ｛Mikage＊＊｝.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040723202_07_040");
-        MsgDisp("Mikage","Uugh...
-I-I see.");
+        MsgDisp("Mikage","Uugh... I-I see.");
         ChEye(7,1);
         ChMouth(7,0);
         ChMotion(7,1);
         VoicePlay("B040723202_07_050");
         MsgDisp("Mikage","Got it, let's go on again.");
-        MsgDisp("主人公","Eh?
-Is that okay?!");
+        MsgDisp("主人公","Eh? Is that okay?!");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,5);
@@ -80,8 +78,7 @@ Is that okay?!");
         VoicePlay("B040723202_07_070");
         MsgDisp("Mikage","Have we reached the top?");
         SEStop("EV_SE_084",0.5);
-        MsgDisp("主人公","Yes.
-Now!");
+        MsgDisp("主人公","Yes. Now!");
         ChEye(7,2);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -89,21 +86,18 @@ Now!");
         MsgDisp("Mikage","Oh, we did it.
 How was it?
 Were you satisfied?");
-        MsgDisp("主人公","Yes!
-Ah, I saw Habataki Castle!");
+        MsgDisp("主人公","Yes! Ah, I saw Habataki Castle!");
         ChEye(7,2);
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040723202_07_090");
-        MsgDisp("Mikage","O-Oh.
-Don't stand up～");
+        MsgDisp("Mikage","O-Oh. Don't stand up～");
         MsgDisp("主人公","｛Mikage＊＊｝ and Hanegasaki beach too!");
         ChEye(7,1);
         ChMouth(7,3);
         ChMotion(7,5);
         VoicePlay("B040723202_07_100");
-        MsgDisp("Mikage","O-Oh.
-Don't stand up～");
+        MsgDisp("Mikage","O-Oh. Don't stand up～");
         MsgClose();
         ScrFadeOut(0);
         MsgDisp("","　　　　　　　　　　 ・
@@ -131,8 +125,7 @@ twice, ｛Mikage＊＊｝, thank you.)");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("B040723202_07_120");
-    MsgDisp("Mikage","...I see.
-After that, it depends on me.");
+    MsgDisp("Mikage","...I see. After that, it depends on me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

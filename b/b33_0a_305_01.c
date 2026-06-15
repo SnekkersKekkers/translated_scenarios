@@ -69,8 +69,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B330A30501_06_020");
-MsgDisp("Himuro","Nah, it's Ryota-senpai's fault for showing
-off.");
+MsgDisp("Himuro","Nah, it's Ryota-senpai's fault for
+showing off.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

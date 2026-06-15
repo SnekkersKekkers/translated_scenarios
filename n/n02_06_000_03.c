@@ -17,8 +17,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("Himuro","Unbelievable.
 The lack of effort.
 That's all.");
-    MsgDisp("主人公","(Oof...
-I have to study harder...)");
+    MsgDisp("主人公","(Oof... I have to study harder...)");
     break ;
     case 3:
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
@@ -33,8 +32,7 @@ I have to study harder...)");
     ChEyeOpenLevel(6,0);
     VoicePlay("N020600003_06_030");
     MsgDisp("Himuro","Then...did you put them in the wrong column?");
-    MsgDisp("主人公","(Oof...
-I have to study harder...)");
+    MsgDisp("主人公","(Oof... I have to study harder...)");
     break ;
     case 4:
     case 5:
@@ -72,8 +70,7 @@ it's upperclassman material.");
     MsgDisp("Himuro","If you really want it, you'll be at the top
 of the list in no time.
 I'm rooting for you.");
-    MsgDisp("主人公","(Oof...
-I have to study harder...)");
+    MsgDisp("主人公","(Oof... I have to study harder...)");
     break ;
     default :
     DbgAssert(1);

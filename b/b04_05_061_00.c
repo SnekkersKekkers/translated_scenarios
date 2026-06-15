@@ -6,8 +6,7 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040506100_05_000");
-MsgDisp("Hiiragi","Sigh...
-It's very hot.");
+MsgDisp("Hiiragi","Sigh... It's very hot.");
 MsgSel("Should we race out into the sea?","Let's eat at the beach house!","Let's look for pretty seashells.");
 switch (MsgSelRsltGet()){
     case 0:

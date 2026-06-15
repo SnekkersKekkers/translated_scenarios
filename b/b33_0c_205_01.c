@@ -57,8 +57,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C20501_06_010");
-MsgDisp("Himuro","I wonder if he let us win...what do you
-think?");
+MsgDisp("Himuro","I wonder if he let us win...what do
+you think?");
 MsgDisp("主人公","I think ｛Mikage＊＊｝ was serious...");
 ChEye(5,4);
 ChMouth(5,4);
@@ -104,8 +104,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("B330C20501_07_030");
-MsgDisp("Mikage","Huh?!
-I wouldn't do something so boring.");
+MsgDisp("Mikage","Huh?! I wouldn't do something so boring.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);

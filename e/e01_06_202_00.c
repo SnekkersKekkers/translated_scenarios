@@ -1,13 +1,11 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, I think I'll go home now.
-...Huh?)");
+MsgDisp("主人公","(Well, I think I'll go home now. ...Huh?)");
 VoicePlay("E010620200_04_000");
 MsgDisp("Nanatsumori?","That guy is crazy.");
 VoicePlay("E010620200_06_000");
-MsgDisp("Himuro?","Yeah.
-He rubbed on me quite a bit...");
+MsgDisp("Himuro?","Yeah. He rubbed on me quite a bit...");
 MsgDisp("主人公","(Those voices...)");
 MsgDisp("主人公","｛Nanatsumori＊｝, ｛Himuro＊＊｝!");
 MsgClose();
@@ -36,8 +34,7 @@ ChMotion(6,0);
 VoicePlay("E010620200_06_020");
 MsgDisp("Himuro","That's true...
 It wasn't exactly mere chance.");
-MsgDisp("主人公","?
-What does that mean?");
+MsgDisp("主人公","? What does that mean?");
 ChEye(4,0);
 ChMotion(4,0);
 ChEye(6,0);
@@ -45,8 +42,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("E010620200_06_030");
 MsgDisp("Himuro","Just now I saw Minoru-senpai frantically
-taking a picture of something in front of the
-store.");
+taking a picture of something in front of
+the store.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -76,8 +73,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("E010620200_04_050");
-MsgDisp("Nanatsumori","He was rubbing all over Himuro-kun's feet
-too.
+MsgDisp("Nanatsumori","He was rubbing all over Himuro-kun's
+feet too.
 ...Right?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -92,15 +89,14 @@ ChMotion(4,0);
 ChCheek(4,0);
 VoicePlay("E010620200_04_060");
 MsgDisp("Nanatsumori","Hahaha!
-Himuro-kun, you've been drawn to the cat too,
-huh?");
+Himuro-kun, you've been drawn to the cat
+too, huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("E010620200_06_070");
-MsgDisp("Himuro","Sigh...
-I have to admit it.");
+MsgDisp("Himuro","Sigh... I have to admit it.");
 MsgDisp("主人公","(Hehe, they both like cats.
 It's a bit of a surprise.)");
 BGMStop();

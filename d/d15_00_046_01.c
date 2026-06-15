@@ -30,8 +30,7 @@ ChMotion(4,2);
 VoicePlay("D150004601_04_020");
 MsgDisp("Nanatsumori","Right.
 Plus there's Gym class this afternoon.");
-MsgDisp("主人公","Hehe.
-I'm sure that will wake you up.");
+MsgDisp("主人公","Hehe. I'm sure that will wake you up.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

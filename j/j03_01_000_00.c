@@ -23,8 +23,7 @@ I can't wait for ｛日付｝ to come!)");
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!
-I hope ｛日付｝ comes fast!)");
+    MsgDisp("主人公","(Yay! I hope ｛日付｝ comes fast!)");
     break ;
     case 4:
     case 5:

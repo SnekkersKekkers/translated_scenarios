@@ -35,8 +35,7 @@ VoicePlay("P540300002_03_030");
 MsgDisp("Honda","Yep yep.
 More than anything, seeing your face of
 satisfaction, I'm also satisfied!");
-MsgDisp("主人公","(Yay!
-My performance was a huge success!)");
+MsgDisp("主人公","(Yay! My performance was a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

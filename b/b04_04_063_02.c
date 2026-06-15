@@ -109,8 +109,8 @@ I think?");
         ChEye(4,2);
         ChMouth(4,3);
         VoicePlay("B040406302_04_130");
-        MsgDisp("Nanatsumori","Eh, do you need that question mark at the
-end?
+        MsgDisp("Nanatsumori","Eh, do you need that question mark at
+the end?
 If it's not enough, then here's more.");
         SEPlay("EV_SE_551");
         SEWait();

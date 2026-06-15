@@ -90,8 +90,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130004_01_110");
 MsgDisp("Kazama","Does it?
-If you're happy, then that's good enough for
-me.");
+If you're happy, then that's good enough
+for me.");
 MsgDisp("主人公","(｛Kazama＊＊｝ really understands ｛Honda＊＊｝
 and ｛Nanatsumori＊｝...)");
 BGMStop();

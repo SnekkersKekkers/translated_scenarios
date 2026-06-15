@@ -9,8 +9,7 @@ It'll definitely go well.");
 MsgDisp("主人公","I, I see...");
 VoicePlay("Z422200200_22_020");
 MsgDisp("Hikaru","Mari, good luck!
-It'll definitely be fine.
-Okay?");
+It'll definitely be fine. Okay?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(I should call them...)");

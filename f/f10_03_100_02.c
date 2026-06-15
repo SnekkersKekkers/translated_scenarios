@@ -40,8 +40,8 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("F100310002_03_040");
 MsgDisp("Honda","We don't know the truth.
-But there's no need to prove this hypothesis,
-right?");
+But there's no need to prove this
+hypothesis, right?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);

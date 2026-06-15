@@ -102,8 +102,7 @@ Still, I'm glad you asked me!)");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("Q020200000_02_090");
-        MsgDisp("Sassa","I see...
-I'll ask someone else.");
+        MsgDisp("Sassa","I see... I'll ask someone else.");
         MsgDisp("主人公","Yeah, I'm sorry.");
         ChEye(2,0);
         ChMouth(2,4);

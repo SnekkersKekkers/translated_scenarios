@@ -23,8 +23,8 @@ ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610305_06_020");
 MsgDisp("Himuro","My entrance ceremony day.
-You must have had a bad impression of me,
-right?");
+You must have had a bad impression of
+me, right?");
 MsgDisp("主人公","Ah, uhm...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -47,8 +47,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610305_06_050");
 MsgDisp("Himuro","But, since we only meet once, if you carry
-that first impression forever, for your whole
-life...");
+that first impression forever, for your
+whole life...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -61,8 +61,8 @@ ChMouth(6,2);
 ChMotion(6,2);
 VoicePlay("G020610305_06_070");
 MsgDisp("Himuro","...Sigh.
-If I could turn back time, I'd want to do it
-over...");
+If I could turn back time, I'd want to do
+it over...");
 MsgDisp("主人公","(｛Himuro＊＊｝...
 So that's how you felt...)");
 BGMStop();

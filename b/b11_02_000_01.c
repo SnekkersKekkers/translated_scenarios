@@ -2,8 +2,7 @@ MsgClose();
 ChClose(2,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-｛Sassa＊＊｝ still isn't here yet..");
+MsgDisp("主人公","Huh? ｛Sassa＊＊｝ still isn't here yet..");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -34,15 +33,14 @@ MsgDisp("Sassa","Sorry I was late.");
 ChEye(34,2);
 ChMouth(34,2);
 VoicePlay("B110200001_34_020");
-MsgDisp("Guy","You can't.
-Can't have the same name in the party.");
+MsgDisp("Guy","You can't. Can't have the same name in
+the party.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("B110200001_02_020");
-MsgDisp("Sassa","Hm?
-What are you saying?");
+MsgDisp("Sassa","Hm? What are you saying?");
 MsgDisp("主人公","I don't get it...");
 MsgDispSksp(1,5);
 ChEye(2,0);

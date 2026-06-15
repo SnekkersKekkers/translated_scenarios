@@ -17,8 +17,7 @@ switch (ChPrmGet(21,6)){
     ChMouth(21,3);
     ChMotion(21,0);
     VoicePlay("F012100007_21_010");
-    MsgDisp("Michiru","Hehe.
-Shall we go home together?");
+    MsgDisp("Michiru","Hehe. Shall we go home together?");
     break ;
     case 4:
     case 5:
@@ -53,8 +52,7 @@ switch (MsgSelRsltGet()){
         ChMouth(21,3);
         ChMotion(21,3);
         VoicePlay("F012100007_21_040");
-        MsgDisp("Michiru","Good.
-Let's go.");
+        MsgDisp("Michiru","Good. Let's go.");
         break ;
         case 4:
         case 5:

@@ -41,8 +41,8 @@ Let's spend our time without regrets!)");
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("S120400004_04_020");
-    MsgDisp("Nanatsumori","Our last New Year's visit of our high school
-days...");
+    MsgDisp("Nanatsumori","Our last New Year's visit of our high
+school days...");
     MsgDisp("主人公","You're right...");
     ChMotion(4,1,1);
     VoicePlay("S120400004_04_030");
@@ -74,15 +74,15 @@ ourselves sad.");
     ChMotion(4,1);
     VoicePlay("S120400004_04_060");
     MsgDisp("Nanatsumori","Sigh...");
-    MsgDisp("主人公","｛Nanatsumori＊｝, already sighing in the New
-Year?");
+    MsgDisp("主人公","｛Nanatsumori＊｝, already sighing in the
+New Year?");
     ChEye(4,4);
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("S120400004_04_070");
     MsgDisp("Nanatsumori","That's not it.
-I guess I can feel the...weight of the three
-years.");
+I guess I can feel the...weight of the
+three years.");
     MsgDisp("主人公","???");
     VoicePlay("S120400004_04_080");
     MsgDisp("Nanatsumori","We'll be graduating in two months.");
@@ -98,8 +98,7 @@ The memories are suddenly all coming back.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400004_04_100");
-    MsgDisp("Nanatsumori","Aah.
-We can reminisce as I walk you home.");
+    MsgDisp("Nanatsumori","Aah. We can reminisce as I walk you home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();

@@ -73,8 +73,8 @@ MsgDisp("Kazama","But after experimenting with different
 things, it would be good if you could come
 back. A return to where you started?");
 MsgDisp("主人公","(Return to where I started?
-｛Kazama＊＊｝, you are talking about fashion,
-right?)");
+｛Kazama＊＊｝, you are talking about
+fashion, right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

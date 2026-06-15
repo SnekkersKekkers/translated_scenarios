@@ -1,8 +1,7 @@
 BGOpen("sc211",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time for the entrance ceremony...)");
-MsgDisp("主人公","(...Huh?
-This boy right here...)");
+MsgDisp("主人公","(...Huh? This boy right here...)");
 BGMPlay("BGM_C06_INORI_I",0.01);
 MsgClose();
 ChOpen(6,254,0,1,1,0,#1,0,0);
@@ -29,8 +28,7 @@ VoicePlay("A020601100_06_030");
 MsgDisp("Himuro?","Or should I answer first?
 I know exactly what Habataki High students
 want to ask me.");
-MsgDisp("主人公","?
-Err...");
+MsgDisp("主人公","? Err...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -43,8 +41,7 @@ ChMotion(6,0);
 VoicePlay("A020601100_06_050");
 MsgDisp("Himuro","And as you may have guessed, a relative of
 Reiichi-sa... of Vice Principal Himuro.");
-MsgDisp("主人公","Oh...
-I see!");
+MsgDisp("主人公","Oh... I see!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -69,8 +66,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("A020601100_06_090");
-MsgDisp("Himuro","But don't bring up the Himuro thing too much
-please.
+MsgDisp("Himuro","But don't bring up the Himuro thing too
+much please.
 ...'cause I'll get angry.");
 MsgDisp("主人公","A-Alright.");
 ChEye(6,0);

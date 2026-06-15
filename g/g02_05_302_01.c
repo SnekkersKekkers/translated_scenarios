@@ -18,9 +18,9 @@ ChMotion(5,4);
 VoicePlay("G020530201_05_020");
 MsgDisp("Hiiragi","I see...hmm.");
 VoicePlay("G020530201_05_030");
-MsgDisp("Hiiragi","I wouldn't worry about anything if it were
-with you, but I'm going out with a guy
-friend.");
+MsgDisp("Hiiragi","I wouldn't worry about anything if it
+were with you, but I'm going out with a
+guy friend.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020530201_05_040");

@@ -28,8 +28,7 @@ ChEye(5,4);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("P850500006_05_030");
-MsgDisp("Hiiragi","No.
-It's not even enough.");
+MsgDisp("Hiiragi","No. It's not even enough.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","(Yay, I'm happy!
 I was able to make a good memory of my last

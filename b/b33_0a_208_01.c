@@ -29,8 +29,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A20801_02_010");
-MsgDisp("Sassa","Haha.
-You were really tense.
+MsgDisp("Sassa","Haha. You were really tense.
 All hunched up.");
 MsgDisp("主人公","Hey, haven't you laughed enough?");
 ChEye(6,0);
@@ -89,8 +88,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A20801_06_020");
-MsgDisp("Himuro","Ryota-senpai, I feel like you've already
-lost.");
+MsgDisp("Himuro","Ryota-senpai, I feel like you've
+already lost.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
@@ -160,8 +159,7 @@ MsgClose();
 SEPlay("EV_SE_856");
 ChClose(1,0,30);
 ChClose(6,0,30);
-MsgDisp("主人公","(???
-Everyone is having fun...right?)");
+MsgDisp("主人公","(??? Everyone is having fun...right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -56,8 +56,7 @@ fuss or anythin'.");
         ChMouth(8,4);
         ChMotion(8,2,1);
         VoicePlay("B040824202_08_040");
-        MsgDisp("Shirahane","No.
-I wasn't plannin' on foolin' around.");
+        MsgDisp("Shirahane","No. I wasn't plannin' on foolin' around.");
         ChEye(8,3);
         ChMouth(8,3);
         ChMotion(8,0,1);
@@ -70,8 +69,7 @@ Relaxin' round a campfire?");
         ChCheek(8,4);
         VoicePlay("B040824202_08_060");
         MsgDisp("Shirahane","It's just the two of us, right?");
-        MsgDisp("主人公","Ah...
-I see.");
+        MsgDisp("主人公","Ah... I see.");
         ChEye(8,3);
         ChMouth(8,3);
         ChMotion(8,0,1);

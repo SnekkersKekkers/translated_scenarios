@@ -20,8 +20,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("O040100001_01_010");
     MsgDisp("Kazama","We lost even though we're together?
 They must've counted wrong.");
-    MsgDisp("主人公","(Hm...
-Even though I did my best...)");
+    MsgDisp("主人公","(Hm... Even though I did my best...)");
     break ;
     case 4:
     case 5:
@@ -31,10 +30,9 @@ Even though I did my best...)");
     ChMouth(1,3);
     ChEyeOpenLevel(1,#1);
     VoicePlay("O040100001_01_020");
-    MsgDisp("Kazama","If this was a pair competition, we would've
-won.");
-    MsgDisp("主人公","(Hm.
-It's frustrating...)");
+    MsgDisp("Kazama","If this was a pair competition, we
+would've won.");
+    MsgDisp("主人公","(Hm. It's frustrating...)");
     break ;
     default :
     DbgAssert(1);

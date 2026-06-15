@@ -31,14 +31,13 @@ Let's go.");
     ChMouth(8,0);
     ChMotion(8,0);
     VoicePlay("B060800013_08_020");
-    MsgDisp("Shirahane","I see...
-Well, I'll see ya.
+    MsgDisp("Shirahane","I see... Well, I'll see ya.
 Be careful on your way home, 'kay?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
-    MsgDisp("主人公","(I wonder if it was bad for me to turn him
-down?)");
+    MsgDisp("主人公","(I wonder if it was bad for me to turn
+him down?)");
     MsgClose();
     ScrFadeOut(0);
     break ;

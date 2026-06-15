@@ -14,8 +14,7 @@ Well then, let's go.");
     ChOpen(5,255,0,0,4,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500000_05_010");
-    MsgDisp("Hiiragi","With Hanatsubaki-san, huh.
-Sure.");
+    MsgDisp("Hiiragi","With Hanatsubaki-san, huh. Sure.");
     break ;
     case 4:
     case 5:

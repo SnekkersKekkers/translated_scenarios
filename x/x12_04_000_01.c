@@ -13,8 +13,8 @@ switch (ChPrmGet(4,6)){
     case 3:
     VoicePlay("X120400001_04_000");
     MsgDisp("Nanatsumori","Is that an edible flower?
-No, I just thought it looked tasty, that's
-all.");
+No, I just thought it looked tasty,
+that's all.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:
@@ -23,10 +23,9 @@ all.");
     ChMouth(4,3);
     VoicePlay("X120400001_04_010");
     MsgDisp("Nanatsumori","It's super pretty.
-Maybe you'll discover a new species of
-flower?");
-    MsgDisp("主人公","(Yay!
-I was praised!)");
+Maybe you'll discover a new species
+of flower?");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

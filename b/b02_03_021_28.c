@@ -5,8 +5,7 @@ VoicePlay("B020302128_03_000");
 MsgDisp("Honda","...Weird.
 I didn't really get outfits like this
 before...");
-MsgDisp("主人公","Eh∋
-Do you dislike it?");
+MsgDisp("主人公","Eh∋ Do you dislike it?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

@@ -12,8 +12,7 @@ MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 SEPlay("EV_SE_664");
 SEWait();
 VoicePlay("L060400000_04_010");
-MsgDisp("Nanatsumori","In return for Valentine's.
-It was good.");
+MsgDisp("Nanatsumori","In return for Valentine's. It was good.");
 MsgDisp("主人公","Thanks to you too.");
 ChMotion(4,1);
 VoicePlay("L060400000_04_020");
@@ -24,7 +23,6 @@ BGMStop();
 MsgClose();
 ChClose(4,0,30);
 Wait(60);
-MsgDisp("主人公","(Hm...
-This is obligatory.)");
+MsgDisp("主人公","(Hm... This is obligatory.)");
 MsgClose();
 ScrFadeOut(0,0);

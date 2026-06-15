@@ -57,18 +57,15 @@ But maybe he will keep scolding me?)");
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("S120100001_01_030");
-    MsgDisp("Kazama","Huh?
-What kind of question is that?");
-    MsgDisp("主人公","Eh?
-I just wanted to know your plans...
+    MsgDisp("Kazama","Huh? What kind of question is that?");
+    MsgDisp("主人公","Eh? I just wanted to know your plans...
 Oh, are you going in?");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("S120100001_01_040");
-    MsgDisp("Kazama","...Sigh.
-No, I'll pass.");
+    MsgDisp("Kazama","...Sigh. No, I'll pass.");
     MsgDisp("主人公","Do you have something you need to do?");
     ChEye(1,0);
     ChMouth(1,2);

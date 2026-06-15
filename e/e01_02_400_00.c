@@ -49,8 +49,7 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("E010240000_21_030");
-MsgDisp("Michiru","Huh...
-Why?");
+MsgDisp("Michiru","Huh... Why?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -82,8 +81,7 @@ VoicePlay("E010240000_21_040");
 MsgDisp("Michiru","You can leave it to me.
 But, Mari is coming too.
 Right?");
-MsgDisp("主人公","Huh?
-I was just about to...");
+MsgDisp("主人公","Huh? I was just about to...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

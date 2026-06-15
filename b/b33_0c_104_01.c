@@ -94,8 +94,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C10401_06_040");
-MsgDisp("Himuro","Ha?
-What are you saying?
+MsgDisp("Himuro","Ha? What are you saying?
 Let's go to the gazebo.");
 MsgClose();
 SEPlay("EV_SE_626");
@@ -116,8 +115,7 @@ ChMotion(7,2);
 VoicePlay("B330C10401_07_050");
 MsgDisp("Mikage","Wouldn't it be nice if he sympathised with me
 a bit more?");
-MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝, are you feeling down?");
+MsgDisp("主人公","Hehe. ｛Mikage＊＊｝, are you feeling down?");
 ChMouth(7,4);
 ChEye(5,4);
 ChMouth(5,4);

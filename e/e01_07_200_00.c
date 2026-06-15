@@ -1,8 +1,7 @@
 ChLayout(1);
 BGOpen("fp100",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Hm?
-In front of the store window is...)");
+MsgDisp("主人公","(...Hm? In front of the store window is...)");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,255,3,1,4,#1,#1,0,0);
@@ -12,8 +11,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010720000_07_000");
-MsgDisp("Mikage","Oh.
-I'm embarrassed to be seen.");
+MsgDisp("Mikage","Oh. I'm embarrassed to be seen.");
 ChPosition(7,1);
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -59,8 +57,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010720000_07_040");
-MsgDisp("Mikage","Ah, no.
-That's not it.");
+MsgDisp("Mikage","Ah, no. That's not it.");
 ChEye(7,2);
 ChMouth(7,0);
 VoicePlay("E010720000_07_050");
@@ -78,9 +75,9 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010720000_04_030");
-MsgDisp("Nanatsumori","Ah—...
-I totally get it. I'm also nervous about
-having my hair done by someone I never met.");
+MsgDisp("Nanatsumori","Ah—... I totally get it.
+I'm also nervous about having my hair done by
+someone I never met.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);

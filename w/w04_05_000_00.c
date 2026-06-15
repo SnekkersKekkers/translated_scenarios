@@ -5,12 +5,11 @@ VoiceEVSPlay(5);
 VoicePlay("W040500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝!
-Oh okay, ｛Hiiragi＊＊＊｝ was also invited then,
-huh.");
+Oh okay, ｛Hiiragi＊＊＊｝ was also invited
+then, huh.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("W040500000_05_010");
-MsgDisp("Hiiragi","Yes.
-I think so too.");
+MsgDisp("Hiiragi","Yes. I think so too.");
 ChMotion(5,0);

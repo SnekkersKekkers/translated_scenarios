@@ -69,11 +69,11 @@ Maybe just a bit cute.");
         ChMotion(5,4);
         VoicePlay("B040508402_05_070");
         MsgDisp("Hiiragi","Huh, did I use it wrong?
-It was because it was a beautiful and cute
-smile.");
+It was because it was a beautiful and
+cute smile.");
         MsgDisp("主人公","(Umm, I'm happy but...
-I wonder if that's the right way to use
-it...)");
+I wonder if that's the right way to
+use it...)");
         break ;
         default :
         DbgAssert(1);

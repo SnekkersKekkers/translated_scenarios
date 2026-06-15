@@ -9,7 +9,6 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202123_02_010");
-MsgDisp("Sassa","Yeah.
-It looks good.
+MsgDisp("Sassa","Yeah. It looks good.
 You can pull off those clothes too.");
 MsgDisp("主人公","(Alright, I made a good impression.)");

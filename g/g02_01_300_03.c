@@ -4,8 +4,7 @@ ChMotion(1,1);
 VoicePlay("G020130003_01_000");
 MsgDisp("Kazama","When you actually see them up close, they're
 amazing...");
-MsgDisp("主人公","Yeah.
-They're beautiful.");
+MsgDisp("主人公","Yeah. They're beautiful.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);

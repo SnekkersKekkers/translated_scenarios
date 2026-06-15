@@ -46,8 +46,7 @@ really is an amazing person.)");
     MsgDisp("Hiiragi","Hm?
 Even if I cannot study, I can still read
 books, no?");
-    MsgDisp("主人公","Um...
-I didn't mean...");
+    MsgDisp("主人公","Um... I didn't mean...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("I250500000_05_050");
@@ -67,8 +66,7 @@ to understand, I will return.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(...Hm?
-What did ｛Hiiragi＊＊＊｝ come for?
+    MsgDisp("主人公","(...Hm? What did ｛Hiiragi＊＊＊｝ come for?
 Could it be that he came to check on me?)");
     break ;
     case 4:
@@ -84,8 +82,8 @@ Could it be that he came to check on me?)");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("I250500000_05_090");
-    MsgDisp("Hiiragi","I came in order to buy a reference book
-today.
+    MsgDisp("Hiiragi","I came in order to buy a reference
+book today.
 Ah, I see it is over there.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -106,8 +104,7 @@ Ah, I see it is over there.");
 Let me take that for you.");
     SEPlay("EV_SE_043");
     SEWait();
-    MsgDisp("主人公","...Hm? 
-\"Habataki City Dating Guidebook\"?");
+    MsgDisp("主人公","...Hm? \"Habataki City Dating Guidebook\"?");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("I250500000_05_110");
@@ -123,8 +120,8 @@ I will leave it to you to grade me.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(He said a reference book...
-Could it be that he's going to ask me on a
-date?)");
+Could it be that he's going to ask me on
+a date?)");
     break ;
     default :
     DbgAssert(1);

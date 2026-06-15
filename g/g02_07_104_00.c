@@ -11,22 +11,21 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710400_07_010");
 MsgDisp("Mikage","I see, maybe I should try reading them too...");
-MsgDisp("主人公","Eh?
-｛Mikage＊＊｝, are you interested?");
+MsgDisp("主人公","Eh? ｛Mikage＊＊｝, are you interested?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710400_07_020");
-MsgDisp("Mikage","It's like the Bible of student romance,
-right?
+MsgDisp("Mikage","It's like the Bible of student
+romance, right?
 It might be educational.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710400_07_030");
-MsgDisp("Mikage","Besides, some girls in class said there's a
-character in a shoujo manga that looks like
-me.");
+MsgDisp("Mikage","Besides, some girls in class said there's
+a character in a shoujo manga that looks
+like me.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -40,15 +39,13 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710400_07_050");
-MsgDisp("Mikage","What?
-Why are you laughing?");
+MsgDisp("Mikage","What? Why are you laughing?");
 MsgDisp("主人公","It might be a female character, you know?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710400_07_060");
-MsgDisp("Mikage","What?
-So that's why they were laughing too.");
+MsgDisp("Mikage","What? So that's why they were laughing too.");
 MsgDisp("主人公","(A shoujo manga character that resembles
 ｛Mikage＊＊｝...
 Maybe a glamorous young lady?)");

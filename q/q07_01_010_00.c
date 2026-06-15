@@ -25,8 +25,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q070101000_21_010");
-MsgDisp("Michiru","Hehe.
-Looks like you're having fun huh, Mari?");
+MsgDisp("Michiru","Hehe. Looks like you're having fun huh, Mari?");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,5,1);
@@ -36,9 +35,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("Q070101000_21_020");
-MsgDisp("Michiru","Hikaru, no.
-Meddling in someone else's love life is a
-surefire way to get burned.");
+MsgDisp("Michiru","Hikaru, no. Meddling in someone else's love
+life is a surefire way to get burned.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -75,8 +73,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q070101000_01_010");
 MsgDisp("Kazama","You can only see the night view at night.
-People say Nagasaki is top three in night
-views.");
+People say Nagasaki is top three in
+night views.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -177,11 +175,9 @@ MsgDisp("主人公","Eh?
 Wait, you mean like, for the 12th floor...");
 StlEye(1,0);
 VoicePlay("Q070101000_01_080");
-MsgDisp("Kazama","Yeah.
-I mean, we're together all the time.
+MsgDisp("Kazama","Yeah. I mean, we're together all the time.
 You, me, and him.");
-MsgDisp("主人公","Yeah.
-But I need to thank you, ｛Kazama＊＊｝.
+MsgDisp("主人公","Yeah. But I need to thank you, ｛Kazama＊＊｝.
 You're the one who took me here.");
 StlEyeOpenLevel(1,5);
 VoicePlay("Q070101000_01_090");
@@ -201,8 +197,7 @@ SEPlay("EV_SE_505");
 MsgDisp("","*Smooch*");
 MsgClose();
 ScrFadeIn(4,30);
-MsgDisp("主人公","Eh∈
-｛Kazama＊＊｝?");
+MsgDisp("主人公","Eh∈ ｛Kazama＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("Q070101000_01_110");

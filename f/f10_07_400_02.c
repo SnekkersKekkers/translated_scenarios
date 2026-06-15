@@ -120,8 +120,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F100740002_07_070");
-MsgDisp("Mikage","Sure.
-I'll treat each of you to lunch once.");
+MsgDisp("Mikage","Sure. I'll treat each of you to lunch once.");
 MsgDisp("主人公","(Himuro-sensei went out of his way to do that
 in front of everyone...
 ｛Mikage＊＊｝, I'm so happy for you!)");

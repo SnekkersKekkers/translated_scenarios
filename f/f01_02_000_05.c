@@ -6,8 +6,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("F010200005_02_000");
-    MsgDisp("Sassa","A cafe?
-Sure.");
+    MsgDisp("Sassa","A cafe? Sure.");
     MsgDisp("主人公","I'm glad.
 Alright, let's go.");
     break ;

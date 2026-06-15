@@ -1,8 +1,7 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I think I'll head home now.
-...Huh?)");
+MsgDisp("主人公","(I think I'll head home now. ...Huh?)");
 MsgDisp("主人公","｛Himuro＊＊｝!
 ｛Hiiragi＊＊＊｝!");
 MsgClose();

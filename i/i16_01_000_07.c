@@ -43,8 +43,7 @@ Motivated, and always smiling.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I160100007_01_030");
-    MsgDisp("Kazama","I see.
-Thanks to their mentor.");
+    MsgDisp("Kazama","I see. Thanks to their mentor.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -58,8 +57,8 @@ Hearing you say that makes me happy.");
     ChMotion(1,0);
     VoicePlay("I160100007_01_050");
     MsgDisp("Kazama","I'm counting on you.");
-    MsgDisp("主人公","(It makes me a little shy to be praised like
-this...
+    MsgDisp("主人公","(It makes me a little shy to be praised
+like this...
 Let's keep it up just like this!)");
     break ;
     default :

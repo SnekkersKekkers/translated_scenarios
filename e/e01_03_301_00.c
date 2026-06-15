@@ -1,8 +1,8 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Okay, I guess I should start heading home
-now?)");
+MsgDisp("主人公","(Okay, I guess I should start heading
+home now?)");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -70,8 +70,7 @@ ChMotion(3,1,1);
 VoicePlay("E010330100_03_030");
 MsgDisp("Honda","Okay, next up is you.
 How can we make your shopping more efficient?");
-MsgDisp("主人公","Eh?
-But I'm already done for today.");
+MsgDisp("主人公","Eh? But I'm already done for today.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -79,8 +78,7 @@ VoicePlay("E010330100_03_040");
 MsgDisp("Honda","Really?
 So I guess I should think about it for the
 next time?");
-MsgDisp("主人公","Ehh?
-I haven't decided anything yet.");
+MsgDisp("主人公","Ehh? I haven't decided anything yet.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -9,8 +9,7 @@ VoicePlay("D020800400_08_000");
 MsgDisp("Shirahane","｛主人公｝, it's already break time, yeah?
 I'll finish up here so you can go back to the
 office first.");
-MsgDisp("主人公","Okay.
-I'll make some tea then.
+MsgDisp("主人公","Okay. I'll make some tea then.
 Do you want the same as usual?");
 ChEye(8,3);
 ChMouth(8,3);

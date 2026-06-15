@@ -17,8 +17,8 @@ MsgDisp("Kazama","Really? These days I listen to my Grandpa's
 comedy shows and rakugo CDs.
 Not exactly music though.");
 MsgDisp("主人公","Ehhh, Rakugo huh?
-Come to think of it, I've never had the chance
-to listen to one properly before.");
+Come to think of it, I've never had the
+chance to listen to one properly before.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -33,10 +33,9 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_200");
 MsgDisp("Kazama","I already know what you're thinking.
-You're gonna ask me to perform a bit aren't
-you?");
-MsgDisp("主人公","Yeah.
-I'd like to try listening to it.");
+You're gonna ask me to perform a bit
+aren't you?");
+MsgDisp("主人公","Yeah. I'd like to try listening to it.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,2);

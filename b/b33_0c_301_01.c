@@ -12,8 +12,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C30101_07_000");
-MsgDisp("Mikage","It feels like you can get whatever you want
-here.");
+MsgDisp("Mikage","It feels like you can get whatever you
+want here.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -23,8 +23,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
 VoicePlay("B330C30101_07_010");
-MsgDisp("Mikage","Eh?
-That...");
+MsgDisp("Mikage","Eh? That...");
 MsgDisp("主人公","｛Himuro＊＊｝, is there something you want?");
 ChEye(5,0);
 ChMouth(5,4);

@@ -18,14 +18,13 @@ What's wrong?
 You don't look well...");
 StlEye(22,1);
 VoicePlay("D012200000_22_000");
-MsgDisp("Hikaru","Ah...
-It's Mari.");
+MsgDisp("Hikaru","Ah... It's Mari.");
 MsgDisp("主人公","You look kind of different from usual.");
 StlEye(22,0);
 VoicePlay("D012200000_22_010");
 MsgDisp("Hikaru","Sigh...
-Is Mari also going to tell Hikaru to cheer
-up?");
+Is Mari also going to tell Hikaru to
+cheer up?");
 MsgDisp("主人公","Eh?");
 StlEye(22,1);
 StlMouth(22,1);
@@ -68,15 +67,13 @@ StlMouth(22,1);
 VoicePlay("D012200000_22_090");
 MsgDisp("Hikaru","Don't give Hikaru that look.
 You might turn Hikaru's switch back on.");
-MsgDisp("主人公","Ah...
-Hehe!");
+MsgDisp("主人公","Ah... Hehe!");
 StlEye(22,0,0);
 StlEyeOpenLevel(22,0,1);
 StlMouth(22,1);
 VoicePlay("D012200000_22_100");
 MsgDisp("Hikaru","Just for a bit...let it stay off.
-Sorry...
-Mari.");
+Sorry... Mari.");
 MsgDisp("主人公","It's fine.
 Good night, ｛ひかる＊｝.");
 BGMStop();

@@ -21,8 +21,8 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("B060600000_06_010");
     MsgDisp("Himuro","It was more worthwhile than I expected.
-It would be nice to have another day like
-this.");
+It would be nice to have another day
+like this.");
     MsgDispSksp(0);
     break ;
     case 4:

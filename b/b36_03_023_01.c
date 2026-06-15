@@ -13,8 +13,8 @@ ScrFadeIn(0);
 VoicePlay("B360302301_03_000");
 MsgDisp("Honda","Achoo!");
 MsgDisp("主人公","Are you okay?
-The wind's really strong here, shall we go
-home?");
+The wind's really strong here, shall we
+go home?");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -70,9 +70,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B360302301_03_090");
-MsgDisp("Honda","Haha...
-You're right. If I got sick and couldn't see
-you, it would be even worse.");
+MsgDisp("Honda","Haha... You're right.
+If I got sick and couldn't see you, it would
+be even worse.");
 MsgDisp("主人公","(｛Honda＊＊｝...)");
 BGMStop();
 MsgClose();

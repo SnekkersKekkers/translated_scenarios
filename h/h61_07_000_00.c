@@ -8,8 +8,7 @@ ScrFadeIn(0);
 VoicePlay("H610700000_46_000");
 MsgDisp("Manager","Let's do our best to improve the activities
 of the club.");
-MsgDisp("主人公","Yes!
-I'm looking forward to it!");
+MsgDisp("主人公","Yes! I'm looking forward to it!");
 MsgDisp("主人公","(Alright, let's do our best!)");
 SEPlay("EV_SE_625");
 SEWait();
@@ -30,8 +29,7 @@ working with you∈");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("H610700000_07_010");
-    MsgDisp("Mikage","Ooh...
-I get it, but let's take it easy.");
+    MsgDisp("Mikage","Ooh... I get it, but let's take it easy.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

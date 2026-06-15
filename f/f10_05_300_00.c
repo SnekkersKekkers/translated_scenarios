@@ -55,8 +55,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100530000_05_040");
 MsgDisp("Hiiragi","Well, go ahead?");
-MsgDisp("主人公","Umm...
-B-Bonjour?");
+MsgDisp("主人公","Umm... B-Bonjour?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -82,8 +81,7 @@ ChOpen(21,254,3,0,0,#1,#1,0,2);
 ChMotion(5,4);
 VoicePlay("F100530000_05_050");
 MsgDisp("Hiiragi","Yes, good morning.");
-MsgDisp("主人公","Huh?
-｛みちる＊｝ didn't say it?");
+MsgDisp("主人公","Huh? ｛みちる＊｝ didn't say it?");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,2,1);
@@ -111,8 +109,7 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F100530000_21_020");
-MsgDisp("Michiru","Haha.
-So they made you say it, huh, Mari?
+MsgDisp("Michiru","Haha. So they made you say it, huh, Mari?
 These two are hopeless.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

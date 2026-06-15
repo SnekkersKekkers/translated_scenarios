@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602101_06_010");
-    MsgDisp("Himuro","Can't you come up with something better than
-that?");
+    MsgDisp("Himuro","Can't you come up with something better
+than that?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

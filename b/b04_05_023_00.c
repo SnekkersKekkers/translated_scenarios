@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(5,255,4,0,4,#1,#1,0,0);
 VoicePlay("B040502300_05_000");
-MsgDisp("Hiiragi","You can always feel the salty sea breeze
-here.
+MsgDisp("Hiiragi","You can always feel the salty sea
+breeze here.
 I like it.");
 MsgSel("It's a popular date spot.","Ah, a black-tailed gull!","I also like it.");
 switch (MsgSelRsltGet()){

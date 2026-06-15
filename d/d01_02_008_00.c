@@ -13,8 +13,7 @@ VoicePlay("D010200800_33_000");
 MsgDisp("Member","Last lap～!");
 VoicePlay("D010200800_38_000");
 MsgDisp("Members","Yeah!");
-MsgDisp("主人公","(Everyone's working hard...
-Huh?
+MsgDisp("主人公","(Everyone's working hard... Huh?
 Over there, is that ｛Sassa＊＊｝...?)");
 SEPlay("EV_SE_626");
 MsgClose();
@@ -30,8 +29,7 @@ MsgDisp("主人公","｛Sassa＊＊｝, what's up?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200800_02_000");
-MsgDisp("Sassa","Ah...
-I was just thinking about you.");
+MsgDisp("Sassa","Ah... I was just thinking about you.");
 MsgDisp("主人公","Huh?");
 StlEye(2,1);
 StlMouth(2,0);
@@ -133,8 +131,7 @@ ChMouth(2,0);
 ChMotion(2,5);
 ChEyeOpenLevel(2,0);
 VoicePlay("D010200800_02_150");
-MsgDisp("Sassa","Ugh...
-My head's a mess.
+MsgDisp("Sassa","Ugh... My head's a mess.
 I'm going to run until my legs fall off!");
 ChEyeOpenLevel(2,10);
 BGMStop();

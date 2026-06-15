@@ -8,8 +8,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D140A03000_01_010");
-MsgDisp("Kazama","Eh?
-Nothing in particular.");
+MsgDisp("Kazama","Eh? Nothing in particular.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -20,8 +19,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03000_06_000");
-MsgDisp("Himuro","Yeah.
-I saw and heard it perfectly clear.");
+MsgDisp("Himuro","Yeah. I saw and heard it perfectly clear.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -38,8 +36,7 @@ ChMouth(2,3);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("D140A03000_02_010");
-MsgDisp("Sassa","Haha!
-Ryota, you're messed up.
+MsgDisp("Sassa","Haha! Ryota, you're messed up.
 Just seeing her makes you smile?");
 ChEye(1,4);
 ChMouth(1,1);
@@ -48,8 +45,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,7);
 VoicePlay("D140A03000_01_030");
 MsgDisp("Kazama","Shut up.
-I don't even know what you guys are talking
-about.");
+I don't even know what you guys are
+talking about.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

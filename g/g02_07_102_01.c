@@ -2,8 +2,8 @@ MsgClose();
 ChLayout(1);
 ChOpen(7,255,1,0,4,#1,#1,0,0);
 VoicePlay("G020710201_07_000");
-MsgDisp("Mikage","Hey, you know the rumour about this place,
-right?");
+MsgDisp("Mikage","Hey, you know the rumour about this
+place, right?");
 MsgDisp("主人公","Yeah.
 You can hear the inner voices of people
 you're with...");
@@ -19,8 +19,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710201_07_020");
-MsgDisp("Mikage","You don't know what it'll say on its own,
-right?
+MsgDisp("Mikage","You don't know what it'll say on its
+own, right?
 That's terrifying.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -33,8 +33,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710201_07_040");
 MsgDisp("Mikage","Well, there's that saying, 'Without entering
-the tiger's den, one cannot catch the tiger's
-cub.'");
+the tiger's den, one cannot catch the
+tiger's cub.'");
 MsgDisp("主人公","(｛Mikage＊＊｝ wants to hear my inner
 voice...?)");
 BGMStop();

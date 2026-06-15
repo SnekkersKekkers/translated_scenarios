@@ -16,8 +16,8 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("P850500000_05_020");
 MsgDisp("Hiiragi","Yes, I think so.
-Above all, your smile right now is proof of
-that.");
+Above all, your smile right now is proof
+of that.");
 MsgDisp("主人公","(Yay, a huge success!
 It was worth giving it my best.)");
 MsgClose();

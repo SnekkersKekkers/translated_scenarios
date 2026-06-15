@@ -8,8 +8,7 @@ I have something on that day...");
     MsgDisp("主人公","Oh, I see, that's too bad...");
     VoicePlay("J030100001_01_010");
     MsgDisp("Kazama","Yeah, see you around, okay?");
-    MsgDisp("主人公","Yeah.
-See you.");
+    MsgDisp("主人公","Yeah. See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(I asked him out at a bad time...)");
@@ -21,12 +20,10 @@ See you.");
     VoicePlay("J030100001_01_030");
     MsgDisp("Kazama","It's the only day I can't go out!
 Sorry.");
-    MsgDisp("主人公","I see!
-I'll ask you out another time then.");
+    MsgDisp("主人公","I see! I'll ask you out another time then.");
     VoicePlay("J030100001_01_040");
     MsgDisp("Kazama","Sorry.
-Let's go out again?
-Bye.");
+Let's go out again? Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Can't be helped, I'll give up for today...)");
@@ -38,8 +35,7 @@ Bye.");
     MsgDisp("主人公","Eh, why?");
     VoicePlay("J030100001_01_060");
     MsgDisp("Kazama","If I could cancel, I'd do it.
-But I can't.
-Sorry.");
+But I can't. Sorry.");
     MsgDisp("主人公","No, that's my bad...
 Talk to you later?");
     VoicePlay("J030100001_01_070");

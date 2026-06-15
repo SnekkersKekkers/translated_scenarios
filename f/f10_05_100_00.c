@@ -14,8 +14,7 @@ MsgDisp("Girl A","He's been like that for a while now...");
 VoicePlay("F100510000_44_000");
 MsgDisp("Girl B","What's up with Yanosuke-kun, I wonder...?
 Is he feeling unwell?");
-MsgDisp("主人公","(Eh...
-｛Hiiragi＊＊＊｝?)");
+MsgDisp("主人公","(Eh... ｛Hiiragi＊＊＊｝?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -37,9 +36,9 @@ VoicePlay("F100510000_05_020");
 MsgDisp("Hiiragi","No, it's my own problem.
 I've wasted precious time on nothing again.");
 VoicePlay("F100510000_05_030");
-MsgDisp("Hiiragi","I thought I'd study, opened my notebook and
-textbook, but then I just sat there in a
-daze...");
+MsgDisp("Hiiragi","I thought I'd study, opened my notebook
+and textbook, but then I just sat there in
+a daze...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

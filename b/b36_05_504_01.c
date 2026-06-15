@@ -13,8 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B360550401_05_000");
 MsgDisp("Hiiragi","The town is usually nice, but it's nice to
 see a show like this once in a while.");
-MsgDisp("主人公","Yeah.
-Thank you for bringing me.");
+MsgDisp("主人公","Yeah. Thank you for bringing me.");
 ChEye(5,0);
 VoicePlay("B360550401_05_010");
 MsgDisp("Hiiragi","No problem.
@@ -57,8 +56,7 @@ ChCheek(5,0);
 VoicePlay("B360550401_05_070");
 MsgDisp("Hiiragi","I'm sorry to Inori-kun and Mikage-sensei.
 Will you forgive me?");
-MsgDisp("主人公","Yeah.
-Thank you, ｛Hiiragi＊＊＊｝.");
+MsgDisp("主人公","Yeah. Thank you, ｛Hiiragi＊＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -18,8 +18,7 @@ ChMouth(22,2);
 ChMotion(22,1,1);
 ChEyeOpenLevel(22,8);
 VoicePlay("S090D00000_22_010");
-MsgDisp("Hikaru","Tsk.
-Big Sis is being mean...");
+MsgDisp("Hikaru","Tsk. Big Sis is being mean...");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
@@ -55,8 +54,7 @@ Just have fun▼");
     ChMotion(22,5,1);
     ChEyeOpenLevel(22,10);
     VoicePlay("S090D00000_22_040");
-    MsgDisp("Hikaru","Eh—∋
-You don't want to get your fortune?");
+    MsgDisp("Hikaru","Eh—∋ You don't want to get your fortune?");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,0);

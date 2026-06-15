@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040111101_01_010");
-    MsgDisp("Kazama","OK!
-Give me your hands then.");
+    MsgDisp("Kazama","OK! Give me your hands then.");
     SEPlay("EV_SE_760");
     SEWait();
     MsgDispSksp(1,8);

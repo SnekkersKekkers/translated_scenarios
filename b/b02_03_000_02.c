@@ -2,8 +2,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B020300002_03_000");
-MsgDisp("Honda","Whoa!
-That colour is nice.");
+MsgDisp("Honda","Whoa! That colour is nice.");
 MsgDisp("主人公","Do you like it, too?");
 ChEye(3,0);
 ChMouth(3,3);

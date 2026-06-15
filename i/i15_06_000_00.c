@@ -44,16 +44,13 @@ Huh, ｛Himuro＊＊｝?");
     BGMPlay("BGM_C06_INORI_A",0.01);
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I150600000_06_030");
-    MsgDisp("Himuro","What?
-I can't come here?");
-    MsgDisp("主人公","No.
-Take your time, okay?");
+    MsgDisp("Himuro","What? I can't come here?");
+    MsgDisp("主人公","No. Take your time, okay?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I150600000_06_040");
-    MsgDisp("Himuro","Nah...
-I'm going home after buying stuff.");
+    MsgDisp("Himuro","Nah... I'm going home after buying stuff.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,5);
@@ -87,8 +84,7 @@ I'll come again some other time.");
     MsgClose();
     ChClose(6);
     SEWait();
-    MsgDisp("主人公","(?
-Did he really come here to shop?)");
+    MsgDisp("主人公","(? Did he really come here to shop?)");
     break ;
     case 4:
     case 5:
@@ -127,16 +123,14 @@ Did he really come here to shop?)");
     MsgDisp("Himuro","Yeah.
 ...By the way, do you have any
 recommendations?");
-    MsgDisp("主人公","Hm...
-I guess this bead accessory.
+    MsgDisp("主人公","Hm... I guess this bead accessory.
 You can use it as a keychain, too.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     ChCheek(6,0);
     VoicePlay("I150600000_06_140");
-    MsgDisp("Himuro","...Oh.
-I'll keep that in mind.");
+    MsgDisp("Himuro","...Oh. I'll keep that in mind.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

@@ -34,9 +34,9 @@ with the performers.");
     ChMouth(5,2);
     ChMotion(5,2);
     VoicePlay("B040504200_05_020");
-    MsgDisp("Hiiragi","Yes? Is that how you felt?
-Phew... I was once again reminded of the
-difficulties of running a show.");
+    MsgDisp("Hiiragi","Yes? Is that how you felt? Phew...
+I was once again reminded of the difficulties
+of running a show.");
     MsgDateResultDisp();
     break ;
     default :

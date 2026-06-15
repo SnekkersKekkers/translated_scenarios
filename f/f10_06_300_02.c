@@ -6,10 +6,8 @@ VoicePlay("F100630002_06_000");
 MsgDisp("Himuro?","Aah, geez I get it!
 I'll call you that, okay?");
 VoicePlay("F100630002_22_000");
-MsgDisp("Hikaru?","Ehh, is it okay∋
-Yay!");
-MsgDisp("主人公","(Hm?
-These voices...)");
+MsgDisp("Hikaru?","Ehh, is it okay∋ Yay!");
+MsgDisp("主人公","(Hm? These voices...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,254,2,1,1,0,#1,10,0,0,30);
@@ -57,16 +55,14 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100630002_22_020");
-MsgDisp("Hikaru","Yeah!
-Hikaru never goes back on her word.");
+MsgDisp("Hikaru","Yeah! Hikaru never goes back on her word.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("F100630002_06_040");
-MsgDisp("Himuro","Okay.
-Then.");
+MsgDisp("Himuro","Okay. Then.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -85,8 +81,7 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100630002_22_040");
-MsgDisp("Hikaru","Hmmm...
-\"Pikacchi\"?
+MsgDisp("Hikaru","Hmmm... \"Pikacchi\"?
 \"Pikatan\"?");
 ChEye(21,3);
 ChMouth(21,3);
@@ -107,17 +102,14 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChCheek(6,10);
 VoicePlay("F100630002_06_060");
-MsgDisp("Himuro","Hey...
-I won't go along with that!
+MsgDisp("Himuro","Hey... I won't go along with that!
 What's with \"Pikarinu\"?!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100630002_22_060");
-MsgDisp("Hikaru","Ah!
-You were quick to call Hikaru that!
-Yay♪");
+MsgDisp("Hikaru","Ah! You were quick to call Hikaru that! Yay♪");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);
@@ -129,15 +121,14 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F100630002_21_030");
-MsgDisp("Michiru","Then, you're going to say it properly this
-time?");
+MsgDisp("Michiru","Then, you're going to say it properly
+this time?");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("F100630002_06_080");
-MsgDisp("Himuro","Eh!
-No∋
+MsgDisp("Himuro","Eh! No∋
 That's not what I meant...!");
 MsgDisp("主人公","(Even ｛Himuro＊＊｝ is no match for
 ｛みちる＊｝ and ｛ひかる＊｝, huh?)");

@@ -25,8 +25,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B360750301_07_020");
-MsgDisp("Mikage","Eh...
-Even I don't think I can be that bold～");
+MsgDisp("Mikage","Eh... Even I don't think I can be that bold～");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

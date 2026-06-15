@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040206301_02_000");
-MsgDisp("Sassa","When you walk slowly, the waves sound so
-loud.");
+MsgDisp("Sassa","When you walk slowly, the waves sound
+so loud.");
 MsgSel("｛Sassa＊＊｝ is always running, huh?","The waves make a \"BANG!\" sound.","It's good to walk slowly.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,8 @@ breathing and movements and not much else.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040206301_02_020");
-    MsgDisp("Sassa","Hmm it's more of a \"SPLASH!\" kind of sound,
-though?");
+    MsgDisp("Sassa","Hmm it's more of a \"SPLASH!\" kind of
+sound, though?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

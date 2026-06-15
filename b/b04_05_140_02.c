@@ -31,8 +31,7 @@ I was listening intently, yes but...");
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040514002_05_020");
-        MsgDisp("Hiiragi","Cool?
-Wasn't it a performance?");
+        MsgDisp("Hiiragi","Cool? Wasn't it a performance?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -60,14 +59,14 @@ I won't lose to him.");
         ChMotion(5,1);
         VoicePlay("B040514002_05_060");
         MsgDisp("Hiiragi","Perhaps it's jealousy.
-I was envious that you had praised another
-person.");
+I was envious that you had praised
+another person.");
         MsgDisp("主人公","Ehhh∋");
         ChMouth(5,0);
         ChMotion(5,2);
         VoicePlay("B040514002_05_070");
-        MsgDisp("Hiiragi","I tried to hold back, but I couldn't.
-My feelings for you are too great to conceal.");
+        MsgDisp("Hiiragi","I tried to hold back, but I couldn't. My
+feelings for you are too great to conceal.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040514002_05_080");

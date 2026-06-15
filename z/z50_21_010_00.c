@@ -30,5 +30,4 @@ ChMotion(21,3);
 VoicePlay("Z502101000_21_030");
 MsgDisp("Michiru","Keep checking the column and raising your
 fashion level, okay?");
-MsgDisp("主人公","(Yay!
-｛みちる＊｝ praised me!)");
+MsgDisp("主人公","(Yay! ｛みちる＊｝ praised me!)");

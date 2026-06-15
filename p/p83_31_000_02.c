@@ -11,8 +11,8 @@ SEWait();
 ChOpen(31,254,0,0,0,#1,#1,0,0);
 VoicePlay("P833100002_31_000");
 MsgDisp("Goro","Hello—.
-The cultural festival is getting exciting,
-huh?");
+The cultural festival is getting
+exciting, huh?");
 MsgDisp("主人公","Goro-sensei!
 You came to see, it huh?");
 ChEye(31,2);

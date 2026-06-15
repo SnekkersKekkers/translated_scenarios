@@ -6,8 +6,7 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,1);
     VoicePlay("L040400005_04_000");
-    MsgDisp("Nanatsumori","Ah, this is handmade...
-Ugh!");
+    MsgDisp("Nanatsumori","Ah, this is handmade... Ugh!");
     MsgDisp("主人公","That's right, but...
 Did something happen?");
     ChEye(4,2);

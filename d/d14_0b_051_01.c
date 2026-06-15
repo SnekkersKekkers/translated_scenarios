@@ -109,8 +109,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D140B05101_03_060");
-MsgDisp("Honda","Haha!
-So are you both jelly?");
+MsgDisp("Honda","Haha! So are you both jelly?");
 MsgDisp("主人公","(｛Kazama＊＊｝ and ｛Nanatsumori＊｝ are worried
 about us...?)");
 BGMStop();

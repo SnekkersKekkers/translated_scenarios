@@ -3,8 +3,7 @@ MsgClose();
 ChOpen(3,255,0,0,3,#1,#1,0,0);
 VoicePlay("G020320201_03_000");
 MsgDisp("Honda","Hey, what do you like about Mi-kun?");
-MsgDisp("主人公","Ehh∋
-Why so suddenly?");
+MsgDisp("主人公","Ehh∋ Why so suddenly?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -47,15 +46,13 @@ ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,2);
 VoicePlay("G020320201_03_070");
-MsgDisp("Honda","Ugh...
-I'm feeling uneasy.");
+MsgDisp("Honda","Ugh... I'm feeling uneasy.");
 MsgDisp("主人公","Umm...are you alright?");
 ChEye(3,5);
 ChMouth(3,5);
 ChMotion(3,5);
 VoicePlay("G020320201_03_080");
-MsgDisp("Honda","Wah...
-Now my heart is racing!");
+MsgDisp("Honda","Wah... Now my heart is racing!");
 MsgDisp("主人公","Ehh?");
 ChEye(3,3);
 ChMouth(3,3);

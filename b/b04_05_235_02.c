@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040523501_05_010");
-    MsgDisp("Hiiragi","Haha....
-I'll let you experience real fear.");
+    MsgDisp("Hiiragi","Haha.... I'll let you experience real fear.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -64,8 +63,7 @@ But beauty and fear aren't that far apart.");
         VoicePlay("B040523501_05_050");
         MsgDisp("Hiiragi","That's why...
 A perfect beauty would be terrifying...");
-        MsgDisp("主人公","Umm...
-｛Hiiragi＊＊＊｝?");
+        MsgDisp("主人公","Umm... ｛Hiiragi＊＊＊｝?");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);

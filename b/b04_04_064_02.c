@@ -50,8 +50,7 @@ ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_070");
 MsgDisp("Nanatsumori","I'm the one who's worried about you here!");
-MsgDisp("主人公","Yeah.
-I'm sorry, okay?
+MsgDisp("主人公","Yeah. I'm sorry, okay?
 I'll be careful, so don't get angry.");
 ChEye(4,4);
 ChMouth(4,4);
@@ -59,8 +58,8 @@ ChMotion(4,2,1);
 ChCheek(4,8);
 VoicePlay("B040406402_04_080");
 MsgDisp("Nanatsumori","I'm not mad.
-I'm just getting carried away worrying on my
-own.");
+I'm just getting carried away worrying on
+my own.");
 MsgDisp("主人公","Thank you.");
 ChEye(4,0);
 ChMouth(4,4);
@@ -88,8 +87,8 @@ ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040406402_04_110");
 MsgDisp("Nanatsumori","Ahh, hey.
-You've got cotton candy stuck next to your
-mouth.");
+You've got cotton candy stuck next to
+your mouth.");
 MsgDisp("主人公","Eh, really?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -116,8 +115,8 @@ MsgClose();
 ChClose(4,0,30);
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 ScrQuake(1);
-MsgDisp("主人公","Wow, ｛Nanatsumori＊｝, you're running too
-fast～!
+MsgDisp("主人公","Wow, ｛Nanatsumori＊｝, you're running
+too fast～!
 You're letting go of my hand.");
 VoicePlay("B040406402_04_150");
 MsgDisp("Nanatsumori","I won't let go, so it's alright.");

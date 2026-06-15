@@ -36,8 +36,7 @@ ChMotion(3,1);
 VoicePlay("H3A0300001_03_040");
 MsgDisp("Honda","But you should give yourself some credit for
 working hard these past three years, okay?");
-MsgDisp("主人公","Yeah...
-｛Honda＊＊｝, thank you.");
+MsgDisp("主人公","Yeah... ｛Honda＊＊｝, thank you.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4);

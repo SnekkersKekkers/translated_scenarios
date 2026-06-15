@@ -54,8 +54,8 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("F100310000_03_060");
 MsgDisp("Honda","But it's still a no-go.
-I haven't observed enough to get to the
-truth.");
+I haven't observed enough to get to
+the truth.");
 SEPlay("EV_SE_SCHOOL_002");
 ChEye(3,0);
 ChMouth(3,0);

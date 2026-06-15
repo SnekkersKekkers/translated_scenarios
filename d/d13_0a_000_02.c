@@ -61,8 +61,7 @@ ChOpen(2,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(1,254,0,2,3,#1,#1,0,2,0,30);
 VoicePlay("D130A00002_01_010");
 MsgDisp("Kazama","Oi, you two; don't bully your juniors.");
-MsgDisp("主人公","Ehh?
-Me?");
+MsgDisp("主人公","Ehh? Me?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -70,8 +69,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D130A00002_01_020");
 MsgDisp("Kazama","Yeah, especially you.
 Did you know it was Valentine's day?");
-MsgDisp("主人公","Ah!
-I see...");
+MsgDisp("主人公","Ah! I see...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

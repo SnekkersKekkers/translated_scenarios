@@ -11,8 +11,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("P830300001_48_000");
     MsgDisp("School Girl","Excuse me—.
 I want two permanent marker pens.");
-    MsgDisp("主人公","Yes～.
-Is this okay?");
+    MsgDisp("主人公","Yes～. Is this okay?");
     VoicePlay("P830300001_48_010");
     MsgDisp("School Girl","Thank you very much～!");
     MsgDisp("主人公","(Phew...
@@ -59,16 +58,15 @@ returned....");
     MsgDisp("Honda","Ehhh, is that right?
 Even though it belongs to everyone.
 I'll go retrieve them.");
-    MsgDisp("主人公","Ehh?
-I'm sorry.
+    MsgDisp("主人公","Ehh? I'm sorry.
 Even though it's the cultural festival.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P830300001_03_040");
     MsgDisp("Honda","That goes for you too.
-You're missing out on the cultural festival
-too.");
+You're missing out on the cultural
+festival too.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);

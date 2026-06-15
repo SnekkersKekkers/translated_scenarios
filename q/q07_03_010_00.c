@@ -8,15 +8,13 @@ VoicePlay("Q070301000_46_000");
 MsgDisp("Woman A","Wait, huh?
 Isn't that person from the quiz show?");
 VoicePlay("Q070301000_47_000");
-MsgDisp("Woman B","Eh!
-Omg.
+MsgDisp("Woman B","Eh! Omg.
 Excuse me, may I take a picture?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("Q070301000_03_000");
-MsgDisp("Honda","With me?
-Sure...");
+MsgDisp("Honda","With me? Sure...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(3);
@@ -77,8 +75,7 @@ MsgDisp("Woman C","They said he was around here, right?");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("Q070301000_44_000");
-MsgDisp("Woman D","Yeah.
-I wonder where the quiz king is...");
+MsgDisp("Woman D","Yeah. I wonder where the quiz king is...");
 StlEye(3,1);
 StlMouth(3,1);
 MsgDisp("主人公","｛Honda＊＊｝?");
@@ -106,8 +103,8 @@ BGMVol(0.5,2);
 ChOpen(3,254,4,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("Q070301000_03_070");
-MsgDisp("Honda","Even though I had no choice, I felt a bit
-guilty.");
+MsgDisp("Honda","Even though I had no choice, I felt a
+bit guilty.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -116,8 +113,7 @@ VoicePlay("Q070301000_03_080");
 MsgDisp("Honda","For me, the most important thing is spending
 the free period with you.
 Come on, let's go!");
-MsgDisp("主人公","Yeah!
-Thanks, ｛Honda＊＊｝.");
+MsgDisp("主人公","Yeah! Thanks, ｛Honda＊＊｝.");
 MsgClose();
 BGMStop();
 MsgClose();

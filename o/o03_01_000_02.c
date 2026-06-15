@@ -11,8 +11,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("O030100002_01_000");
     MsgDisp("Kazama","Seriously.
 Being this far out of sync is actually funny.");
-    MsgDisp("主人公","(Hm.
-The three-legged race is hard...)");
+    MsgDisp("主人公","(Hm. The three-legged race is hard...)");
     break ;
     case 3:
     MsgClose();
@@ -43,23 +42,22 @@ Looks like something weird started in
     ChMotion(1,3);
     VoicePlay("O030100002_01_030");
     MsgDisp("Kazama","Amazing, last.");
-    MsgDisp("主人公","Um...
-Sorry.
+    MsgDisp("主人公","Um... Sorry.
 It's probably my fault.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O030100002_01_040");
     MsgDisp("Kazama","Why apologise?
-It's fine, we stand out more than first
-place.");
+It's fine, we stand out more than
+first place.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("O030100002_01_050");
     MsgDisp("Kazama","The whole school is seeing us as a pair.
-The broadcast called our names out a lot,
-too.");
+The broadcast called our names out a
+lot, too.");
     MsgDisp("主人公","Huh!?");
     ChEye(1,0);
     ChMouth(1,3);

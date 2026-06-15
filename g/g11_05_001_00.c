@@ -33,8 +33,8 @@ ChMotion(5,0);
 ScrFadeIn(0);
 VoicePlay("G110500100_05_010");
 MsgDisp("Hiiragi","Thank you.
-Thanks to you, I didn't have to make another
-trip.");
+Thanks to you, I didn't have to make
+another trip.");
 MsgDisp("主人公","Hehe, you're welcome.");
 MsgClose();
 MsgClose();
@@ -67,8 +67,8 @@ MsgDisp("Hiiragi","I'm not good with computers, and after school
 I still have to do work with the theatre
 company too, right?");
 MsgDisp("主人公","I see.
-｛Hiiragi＊＊＊｝, don't push yourself too hard,
-okay?");
+｛Hiiragi＊＊＊｝, don't push yourself too
+hard, okay?");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

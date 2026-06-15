@@ -13,8 +13,7 @@ switch (ChPrmGet(4,6)){
     ChMouthOpenLevel(4,0);
     VoicePlay("K010400100_04_000");
     MsgDisp("Nanatsumori","...");
-    MsgDisp("主人公","Um...
-Today's your birthday, right?
+    MsgDisp("主人公","Um... Today's your birthday, right?
 Here's a birthday present.");
     SEPlay("EV_SE_664");
     SEWait();
@@ -42,8 +41,7 @@ Here's a birthday present.");
     VoicePlay("K010400100_04_030");
     MsgDisp("Nanatsumori","Thanks for this.
 I'm surprised you remembered.");
-    MsgDisp("主人公","Hehe.
-Hey, try opening it.");
+    MsgDisp("主人公","Hehe. Hey, try opening it.");
     break ;
     case 4:
     case 5:

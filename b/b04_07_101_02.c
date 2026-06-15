@@ -35,8 +35,7 @@ switch (MsgSelRsltGet()){
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040710102_07_030");
-        MsgDisp("Mikage","Hey.
-You're screwing with me aren't you?");
+        MsgDisp("Mikage","Hey. You're screwing with me aren't you?");
         MsgDisp("主人公","I'm sorry...");
         ChEye(7,0);
         ChMouth(7,0);
@@ -64,8 +63,8 @@ I'm going to look around once more!");
     ChMotion(7,2);
     VoicePlay("B040710102_07_060");
     MsgDisp("Mikage","Yeah, you sit too.
-You need to take a break every once in a
-while.");
+You need to take a break every once in
+a while.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

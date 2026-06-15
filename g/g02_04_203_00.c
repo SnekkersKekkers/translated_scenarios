@@ -52,8 +52,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("G020420300_04_090");
 MsgDisp("Nanatsumori","I...
-I'm really falling for the magic of this
-place.");
+I'm really falling for the magic of
+this place.");
 MsgDisp("主人公","(The magic of the fireflies habitat?)");
 BGMStop();
 MsgClose();

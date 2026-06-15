@@ -45,8 +45,7 @@ watching you work!");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_560");
     MsgDisp("Honda","If I'm not careful, you'll surpass me.");
-    MsgDisp("主人公","(Hehe!
-I still have a long way to go...
+    MsgDisp("主人公","(Hehe! I still have a long way to go...
 But I'm happy ｛Honda＊＊｝ praised me!)");
     break ;
     case 4:
@@ -55,8 +54,7 @@ But I'm happy ｛Honda＊＊｝ praised me!)");
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,4,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_570");
-    MsgDisp("Honda","...Hm?
-Isn't the store sparkling?");
+    MsgDisp("Honda","...Hm? Isn't the store sparkling?");
     MsgDisp("主人公","Huh?");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_580");
@@ -76,9 +74,9 @@ But, I'm surprised you noticed, ｛Honda＊＊｝.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_600");
-    MsgDisp("Honda","The big tasks are important, too, but little
-things like that will be recognised later,
-too.");
+    MsgDisp("Honda","The big tasks are important, too, but
+little things like that will be recognised
+later, too.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

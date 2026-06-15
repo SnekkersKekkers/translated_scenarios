@@ -35,8 +35,7 @@ What to wear...)");
         break ;
         case 1:
         VoicePlay("S040200000_02_050");
-        MsgDisp("Sassa","I see.
-That's unfortunate.");
+        MsgDisp("Sassa","I see. That's unfortunate.");
         MsgDisp("主人公","Sorry.");
         VoicePlay("S040200000_02_060");
         MsgDisp("Sassa","Don't be.
@@ -44,8 +43,7 @@ It can't be helped.
 Well, I guess I'll go for a run.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Eh?
-Running?
+        MsgDisp("主人公","(Eh? Running?
 To the shrine?)");
         break ;
         default :

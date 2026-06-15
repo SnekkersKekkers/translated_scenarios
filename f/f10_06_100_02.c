@@ -23,8 +23,7 @@ ChEyeOpenLevel(6,7);
 VoicePlay("F100610002_06_010");
 MsgDisp("Himuro","Sigh...
 There was another curious person here.");
-MsgDisp("主人公","Ehh?
-I don't really care...");
+MsgDisp("主人公","Ehh? I don't really care...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -49,8 +48,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100610002_06_050");
-MsgDisp("Himuro","\"There's this rumour going around, do you know
-anything about it?\"
+MsgDisp("Himuro","\"There's this rumour going around, do you
+know anything about it?\"
 And then—");
 BGMStop(0.6);
 Wait(30,0);

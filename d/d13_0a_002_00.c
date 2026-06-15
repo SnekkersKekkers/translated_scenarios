@@ -26,8 +26,8 @@ VoicePlay("D130A00200_06_010");
 MsgDisp("Himuro","Oh.
 I thought for sure you were thinking of
 Ryota-senpai.");
-MsgDisp("主人公","I wonder what ｛Kazama＊＊｝ is doing at this
-moment?");
+MsgDisp("主人公","I wonder what ｛Kazama＊＊｝ is doing at
+this moment?");
 VoicePlay("D130A00200_02_000");
 MsgDisp("Sassa?","Oh, you guys were here huh?
 What are you two up to?");
@@ -41,8 +41,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D130A00200_02_010");
-MsgDisp("Sassa","Eh?
-Ah, you're talking about Ryota.");
+MsgDisp("Sassa","Eh? Ah, you're talking about Ryota.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -87,8 +86,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D130A00200_06_060");
 MsgDisp("Himuro","Nozomu-senpai...
-What are you going to achieve by making us
-worry?");
+What are you going to achieve by making
+us worry?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -108,8 +107,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("D130A00200_02_060");
-MsgDisp("Sassa","Okay.
-Let's head home without Ryota, then?");
+MsgDisp("Sassa","Okay. Let's head home without Ryota, then?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();

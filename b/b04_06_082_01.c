@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,4,1);
 ScrFadeIn(0);
 VoicePlay("B040608201_06_000");
-MsgDisp("Himuro","You can even see fireflies here in the
-summer.");
+MsgDisp("Himuro","You can even see fireflies here in
+the summer.");
 MsgSel("Even if you bring up summer...","I want to see it together.","The water's pretty, huh.");
 switch (MsgSelRsltGet()){
     case 0:

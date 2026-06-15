@@ -38,16 +38,16 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("P840300005_03_030");
-MsgDisp("Honda","Ehh?
-The lost-and-found notebook going missing is
-like the hunter becoming the hunted. It's funny.");
+MsgDisp("Honda","Ehh? The lost-and-found notebook going
+missing is like the hunter becoming the
+hunted. It's funny.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("P840300005_03_040");
 MsgDisp("Honda","Sigh, I can't laugh.
-Let's both be careful with looking after our
-things.");
+Let's both be careful with looking after
+our things.");
 MsgDisp("主人公","(Ahh...even though it was my last cultural
 festival, and I need to calm down and get to
 work...)");

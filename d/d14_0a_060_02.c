@@ -23,8 +23,8 @@ ChMotion(2,4);
 VoicePlay("D140A06002_02_010");
 MsgDisp("Sassa","Do you think he's worried about what we say
 about him when he's not around?");
-MsgDisp("主人公","Hehe, I wonder if he worries about stuff like
-that?");
+MsgDisp("主人公","Hehe, I wonder if he worries about stuff
+like that?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -89,8 +89,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D140A06002_01_060");
 MsgDisp("Kazama","Shut up.
 So, how about it?");
-MsgDisp("主人公","Ehhh?
-Hmm...");
+MsgDisp("主人公","Ehhh? Hmm...");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -103,8 +102,7 @@ ChMotion(2,4,1);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A06002_02_070");
 MsgDisp("Sassa","What is?");
-MsgDisp("主人公","(?
-I wonder what's up with ｛Kazama＊＊｝?)");
+MsgDisp("主人公","(? I wonder what's up with ｛Kazama＊＊｝?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

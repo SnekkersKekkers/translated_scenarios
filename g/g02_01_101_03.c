@@ -40,8 +40,8 @@ ChMouth(1,3);
 VoicePlay("G020110103_01_050");
 MsgDisp("Kazama","And I don't really get Honda, but he helps me
 out based on how he sees the world.");
-MsgDisp("主人公","So that special kind of friendship between
-boys.
+MsgDisp("主人公","So that special kind of friendship
+between boys.
 That's good to hear.");
 ChEye(1,4);
 ChMouth(1,3);

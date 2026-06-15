@@ -84,8 +84,8 @@ StlMouth(1,0);
 ScrFadeIn(0);
 Wait(30,0);
 MsgDisp("主人公","(Wow...
-｛Kazama＊＊｝ really looks like a prince,
-huh?)");
+｛Kazama＊＊｝ really looks like a
+prince, huh?)");
 StlEye(1,0,0);
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,1);
@@ -114,8 +114,8 @@ StlCheek(1,0);
 VoicePlay("P240100000_01_080");
 MsgDisp("Kazama","I've found you at last, Cinderella.");
 VoicePlay("P240100000_01_090");
-MsgDisp("Kazama","On the night of the ball, you stole my heart
-away.
+MsgDisp("Kazama","On the night of the ball, you stole my
+heart away.
 And as the clock struck 12, you disappeared.");
 MsgDisp("主人公","Prince...");
 SEPlay("EV_SE_676");

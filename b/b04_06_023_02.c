@@ -82,8 +82,8 @@ That's how it is even for you right?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602302_06_090");
-        MsgDisp("Himuro","Still, you shouldn't overuse a joke like
-that.
+        MsgDisp("Himuro","Still, you shouldn't overuse a joke
+like that.
 Someone might get the wrong idea.");
         MsgDisp("主人公","Yeah, understood.");
         ChEye(6,0);
@@ -91,8 +91,7 @@ Someone might get the wrong idea.");
         ChMotion(6,2);
         VoicePlay("B040602302_06_100");
         MsgDisp("Himuro","...So it was a joke after all.");
-        MsgDisp("主人公","Hm?
-What was that just now?");
+        MsgDisp("主人公","Hm? What was that just now?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

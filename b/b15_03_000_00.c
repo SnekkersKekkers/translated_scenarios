@@ -3,8 +3,7 @@ ChOpen(3,255,5,5,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300000_03_000");
 MsgDisp("Honda","Whoa, that really surprised me.");
-MsgDisp("主人公","Huh?
-What do you mean?");
+MsgDisp("主人公","Huh? What do you mean?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -42,8 +41,7 @@ VoicePlay("B150300000_03_050");
 MsgDisp("Honda","So based on those definitions, we're at
 'intimate distance' right now. A space
 usually reserved for very close people.");
-MsgDisp("主人公","Oh...
-Sorry, that was a bother, wasn't it?");
+MsgDisp("主人公","Oh... Sorry, that was a bother, wasn't it?");
 ChEye(3,0);
 ChMotion(3,0,1);
 VoicePlay("B150300000_03_060");

@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040108401_01_010");
-    MsgDisp("Kazama","Yeah, I guess that is when fireflies live
-here.");
+    MsgDisp("Kazama","Yeah, I guess that is when fireflies
+live here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

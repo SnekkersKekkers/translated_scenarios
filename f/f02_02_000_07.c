@@ -30,8 +30,7 @@ VoicePlay("F020200007_02_020");
 MsgDisp("Sassa","Yeah. Walking the dogs is tough, but not
 seeing you for a while is kinda lonely.
 How about you walk with me?");
-MsgDisp("主人公","Huh∋
-As a dog substitute?");
+MsgDisp("主人公","Huh∋ As a dog substitute?");
 ChEye(2,5);
 ChMouth(2,0);
 ChMotion(2,5);

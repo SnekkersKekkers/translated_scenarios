@@ -15,8 +15,8 @@ MsgClose();
 SEWait();
 BGOpen("ho000",2);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Mikage＊＊｝, thank you for walking me
-home.");
+MsgDisp("主人公","｛Mikage＊＊｝, thank you for walking
+me home.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -61,8 +61,8 @@ StlEye(7,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5);
 VoicePlay("B050700100_07_060");
-MsgDisp("Mikage","This is the most I can do to return the
-favour.");
+MsgDisp("Mikage","This is the most I can do to return
+the favour.");
 MsgDisp("主人公","...｛Mikage＊＊｝?");
 StlEye(7,0,0);
 StlMouth(7,1);
@@ -122,8 +122,7 @@ MsgClose();
 ChOpen(7,255,2,0,0,#1,#1,0,0);
 SEWait();
 VoicePlay("B050700100_07_140");
-MsgDisp("Mikage","Phew...
-Back to normal tomorrow, okay?
+MsgDisp("Mikage","Phew... Back to normal tomorrow, okay?
 See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

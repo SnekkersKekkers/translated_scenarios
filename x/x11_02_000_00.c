@@ -29,16 +29,14 @@ I'm glad I've been working hard at club!)");
     MsgDisp("Sassa","Good for you.
 The baseball team won the practice match the
 other day, right?");
-    MsgDisp("主人公","Yeah!
-Everyone worked really hard!");
+    MsgDisp("主人公","Yeah! Everyone worked really hard!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("X110200000_02_030");
     MsgDisp("Sassa","With a manager like you, the players can do
 their best.");
-    MsgDisp("主人公","(Yay!
-｛Sassa＊＊｝ complimented me!)");
+    MsgDisp("主人公","(Yay! ｛Sassa＊＊｝ complimented me!)");
     break ;
     default :
     DbgAssert(1);

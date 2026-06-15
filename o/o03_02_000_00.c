@@ -43,8 +43,7 @@ I'm glad I did my best!)");
     ChOpen(2,30,3,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030200000_02_040");
-    MsgDisp("Sassa","Yay!
-We got the gold medal!");
+    MsgDisp("Sassa","Yay! We got the gold medal!");
     MsgDisp("主人公","Yeah, we did it!");
     ChEye(2,3);
     ChMouth(2,3);

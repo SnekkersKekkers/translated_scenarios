@@ -11,8 +11,7 @@ switch (ChPrmGet(1,6)){
     MsgClose();
     ChOpen(1,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010100002_01_000");
-    MsgDisp("Kazama","Hmm?
-You're early.");
+    MsgDisp("Kazama","Hmm? You're early.");
     MsgDisp("主人公","So are you, ｛Kazama＊＊｝.");
     MsgDispSksp(1,0);
     ChEye(1,0);
@@ -41,8 +40,7 @@ it so much you couldn't wait?");
     ChMotion(1,1);
     ChCheek(1,5);
     VoicePlay("B010100002_01_040");
-    MsgDisp("Kazama","Wh—
-I—");
+    MsgDisp("Kazama","Wh— I—");
     MsgDispSksp(1,0);
     ChEye(1,0);
     ChMouth(1,2);
@@ -62,8 +60,7 @@ I—");
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("B010100002_01_060");
-    MsgDisp("Kazama","Yep.
-But so are you.");
+    MsgDisp("Kazama","Yep. But so are you.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);

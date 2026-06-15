@@ -6,8 +6,8 @@ ChMotion(3,0,1);
 VoicePlay("G020340002_03_000");
 MsgDisp("Honda","Lately, I've been thinking about getting
 another piercing.");
-MsgDisp("主人公","You've only had your ears pierced before
-right?");
+MsgDisp("主人公","You've only had your ears pierced
+before right?");
 ChSet(3,3);
 VoicePlay("G020340002_03_010");
 MsgDisp("Honda","Ding ding!

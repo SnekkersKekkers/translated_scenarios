@@ -78,15 +78,14 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B330B20800_01_020");
-MsgDisp("Kazama","Wait.
-Then we should all do that.");
+MsgDisp("Kazama","Wait. Then we should all do that.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B330B20800_04_030");
 MsgDisp("Nanatsumori","Oi.
-Someone's going to be left out, isn't that
-sad?");
+Someone's going to be left out, isn't
+that sad?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);

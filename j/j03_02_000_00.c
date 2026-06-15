@@ -19,8 +19,7 @@ I can't wait for ｛日付｝ to come!)");
     MsgDisp("主人公","Great, then I'll be waiting at the
 ｛待ち合わせ場所｝ on ｛日付｝.");
     VoicePlay("J030200000_02_030");
-    MsgDisp("Sassa","Yeah, it'll be fun.
-Bye.");
+    MsgDisp("Sassa","Yeah, it'll be fun. Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yes!
@@ -38,12 +37,10 @@ I'm getting really excited right now.");
 ｛待ち合わせ場所｝ on ｛日付｝.");
     VoicePlay("J030200000_02_060");
     MsgDisp("Sassa","Got it.
-I'll run.
-Bye.");
+I'll run. Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!
-I hope ｛日付｝ comes fast!)");
+    MsgDisp("主人公","(Yay! I hope ｛日付｝ comes fast!)");
     break ;
     default :
     DbgAssert(1);

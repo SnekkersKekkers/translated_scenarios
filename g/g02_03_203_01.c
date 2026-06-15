@@ -43,8 +43,8 @@ ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("G020320301_03_060");
 MsgDisp("Honda","Ehh∋
-Then what kind of things did they want to
-hear?");
+Then what kind of things did they want
+to hear?");
 MsgDisp("主人公","Umm, for example...things like holding hands
 or having a good time together...");
 ChEye(3,4);
@@ -55,8 +55,8 @@ MsgDisp("Honda","Other people like hearing about that?
 I see, so that's how it is.");
 ChMotion(3,2);
 VoicePlay("G020320301_03_080");
-MsgDisp("Honda","But is that really a thing you need to tell
-others?");
+MsgDisp("Honda","But is that really a thing you need to
+tell others?");
 MsgDisp("主人公","(Ugh...that's a good point.)");
 BGMStop();
 MsgClose();

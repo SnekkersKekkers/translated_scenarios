@@ -30,8 +30,7 @@ for reference in my work.");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040421101_04_020");
-    MsgDisp("Nanatsumori","Hmm.
-What do you like about them?");
+    MsgDisp("Nanatsumori","Hmm. What do you like about them?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

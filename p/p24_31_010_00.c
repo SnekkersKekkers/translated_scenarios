@@ -14,8 +14,8 @@ VoicePlay("P243101000_31_000");
 MsgDisp("Goro","Hmmm....
 It seems to be a hit with the audience.");
 MsgDisp("主人公","Yes, so far so good.
-Now we're going to change the stage, off we
-go!");
+Now we're going to change the stage, off
+we go!");
 ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,4);

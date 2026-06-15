@@ -25,8 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("B040323500_03_020");
-    MsgDisp("Honda","Ehhh∋
-Are you alright?
+    MsgDisp("Honda","Ehhh∋ Are you alright?
 Was it that scary?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("B040423601_04_010");
-    MsgDisp("Nanatsumori","If I had to sum it up in a word, it would be
-that.");
+    MsgDisp("Nanatsumori","If I had to sum it up in a word, it would
+be that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -34,8 +34,7 @@ that.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423601_04_020");
-    MsgDisp("Nanatsumori","...Pfft!
-You put it well.
+    MsgDisp("Nanatsumori","...Pfft! You put it well.
 The sweetness and spice are just right.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

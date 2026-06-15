@@ -8,8 +8,7 @@ I seriously respect that...");
 VoicePlay("F100430000_21_000");
 MsgDisp("Michiru?","Right.
 I also did the costumes.");
-MsgDisp("主人公","(Hm?
-These voices...)");
+MsgDisp("主人公","(Hm? These voices...)");
 VoicePlay("F100430000_04_010");
 MsgDisp("Nanatsumori?","Nice.
 If I could design and make my own clothes,
@@ -23,8 +22,8 @@ ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,1);
 ChOpen(21,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","｛Nanatsumori＊｝, ｛みちる＊｝!
-I also want to hear what you're talking
-about.");
+I also want to hear what you're
+talking about.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.3,0.5);
 SEPlay("EV_SE_544",0);
 ChEye(4,5);
@@ -34,8 +33,7 @@ ChEye(21,5);
 ChMouth(21,5);
 ChMotion(21,3);
 VoicePlay("F100430000_21_020");
-MsgDisp("Michiru","Mari!
-Haa...that startled me.");
+MsgDisp("Michiru","Mari! Haa...that startled me.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);

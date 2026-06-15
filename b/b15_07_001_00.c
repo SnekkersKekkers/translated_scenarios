@@ -6,8 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B150700100_07_000");
 MsgDisp("Mikage","...You're still hesitant.
 I can see the doubt.");
-MsgDisp("主人公","Eh?
-Are you...talking about skinship?");
+MsgDisp("主人公","Eh? Are you...talking about skinship?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

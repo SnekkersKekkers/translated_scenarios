@@ -45,8 +45,8 @@ It's the result of their effort.");
         ChMouth(3,2);
         ChMotion(3,2);
         VoicePlay("B040306102_03_030");
-        MsgDisp("Honda","Sunbathing is nice, but do we have to do it
-here?");
+        MsgDisp("Honda","Sunbathing is nice, but do we have to do
+it here?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -65,8 +65,8 @@ together?");
         MsgDisp("Honda","If that's so, I feel like there are better
 places for that.
 Like a grassy field.");
-        MsgDisp("主人公","But it's fun to be on the beach in swimsuits,
-no?");
+        MsgDisp("主人公","But it's fun to be on the beach in
+swimsuits, no?");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,0);

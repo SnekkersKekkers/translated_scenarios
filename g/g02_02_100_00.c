@@ -15,8 +15,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210000_02_020");
-MsgDisp("Sassa","...Mm?
-What're you talking about?");
+MsgDisp("Sassa","...Mm? What're you talking about?");
 MsgDisp("主人公","Umm...track and field.
 Weren't you?");
 ChEye(2,0);

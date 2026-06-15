@@ -12,15 +12,14 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("X210100000_01_010");
-MsgDisp("Kazama","...No.
-It could only be you.");
+MsgDisp("Kazama","...No. It could only be you.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("X210100000_01_020");
-MsgDisp("Kazama","Everyone's finally getting with the times,
-huh?");
+MsgDisp("Kazama","Everyone's finally getting with the
+times, huh?");
 MsgDisp("主人公","Ehh?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -56,8 +55,8 @@ VoicePlay("X210100000_01_060");
 MsgDisp("Kazama","That's why, it is only right that you became
 Rose Queen.");
 MsgDisp("主人公","Thank you.
-I'm happy to hear ｛Kazama＊＊｝ say it like
-that.");
+I'm happy to hear ｛Kazama＊＊｝ say it
+like that.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

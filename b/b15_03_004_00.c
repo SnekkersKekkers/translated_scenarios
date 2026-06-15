@@ -3,8 +3,7 @@ ChOpen(3,255,5,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300400_03_000");
 MsgDisp("Honda","Man, finally made it...");
-MsgDisp("主人公","Huh?
-What's up?");
+MsgDisp("主人公","Huh? What's up?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -17,10 +16,9 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B150300400_03_020");
 MsgDisp("Honda","If your house was just 100 metres further,
-something might have happened before we got
-there.");
-MsgDisp("主人公","Huh∋
-Like what!?");
+something might have happened before we
+got there.");
+MsgDisp("主人公","Huh∋ Like what!?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

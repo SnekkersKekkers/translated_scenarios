@@ -18,8 +18,8 @@ ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020110201_01_020");
 MsgDisp("Kazama","But the same goes for us, you know?
-It took a whole bunch of miracles to get us
-here.");
+It took a whole bunch of miracles to get
+us here.");
 MsgDisp("主人公","Haha, yeah.");
 ChEye(1,2);
 ChMouth(1,3);

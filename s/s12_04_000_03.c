@@ -35,8 +35,7 @@ the end.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("S120400003_04_030");
-    MsgDisp("Nanatsumori","Yeah.
-Seeya.");
+    MsgDisp("Nanatsumori","Yeah. Seeya.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -64,8 +63,7 @@ You're such a sweet girl.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("S120400003_04_060");
-    MsgDisp("Nanatsumori","Okay.
-See you later.");
+    MsgDisp("Nanatsumori","Okay. See you later.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

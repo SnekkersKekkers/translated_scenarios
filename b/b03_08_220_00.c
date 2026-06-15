@@ -6,8 +6,7 @@ ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B030822000_08_000");
 MsgDisp("Shirahane","Such a big and regal castle...");
-MsgDisp("主人公","Yeah.
-It's our city's pride and joy.");
+MsgDisp("主人公","Yeah. It's our city's pride and joy.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,2,1);
@@ -40,8 +39,8 @@ Let's go!");
     ChMotion(8,0,1);
     VoicePlay("B030822000_08_040");
     MsgDisp("Shirahane","Sounds good.
-Let's study the history of Habataki City real
-good.");
+Let's study the history of Habataki City
+real good.");
     MsgDispSksp(0);
     break ;
     default :

@@ -21,9 +21,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("H8G2100000_21_020");
-MsgDisp("Michiru","Hehe.
-A model student, and cute, too. You're the
-best high school student in the world.");
+MsgDisp("Michiru","Hehe. A model student, and cute, too.
+You're the best high school student in
+the world.");
 MsgDisp("主人公","(Getting praised this much...
 I'm really glad I stayed in the student
 council!)");

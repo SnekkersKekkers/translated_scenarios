@@ -5,8 +5,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040308400_03_000");
-MsgDisp("Honda","I wonder if the firefly larvae are doing
-well?");
+MsgDisp("Honda","I wonder if the firefly larvae are
+doing well?");
 MsgSel("Larvae are a bit...","We can't see them at all, huh?","Do you want to try catching them?");
 switch (MsgSelRsltGet()){
     case 0:

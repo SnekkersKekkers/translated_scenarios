@@ -21,8 +21,8 @@ You came.");
     ChMotion(5,4);
     VoicePlay("P630500000_05_010");
     MsgDisp("Hiiragi","Yes.
-I heard I could partake in some delicious
-tea.");
+I heard I could partake in some
+delicious tea.");
     MsgDisp("主人公","Yeah.
 Using the herbs the Horticulture club grew,
 we made some herbal tea and cookies.");
@@ -60,8 +60,7 @@ There must be some amazing effects.");
     ChMotion(5,0);
     VoicePlay("P630500000_05_050");
     MsgDisp("Hiiragi","Then, please let me relax.");
-    MsgDisp("主人公","Yes.
-One customer, this way please!");
+    MsgDisp("主人公","Yes. One customer, this way please!");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

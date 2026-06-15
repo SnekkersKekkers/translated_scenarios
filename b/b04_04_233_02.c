@@ -7,8 +7,7 @@ ChOpen(4,255,0,1,1,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B040423302_04_000");
-MsgDisp("Nanatsumori","Ah—...
-My hair and clothes are a mess.");
+MsgDisp("Nanatsumori","Ah—... My hair and clothes are a mess.");
 MsgSel("That dishevelled look gets my heart racing...","I'm probably a mess too...","That's how amusement parks are!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -35,8 +34,8 @@ Please don't look at me?");
         VoicePlay("B040423302_04_020");
         MsgDisp("Nanatsumori","Is that so?");
         MsgDisp("主人公","Yeah.
-There's a sort of grown-up, sexy look to
-it...");
+There's a sort of grown-up, sexy look
+to it...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,1,1);
@@ -47,8 +46,7 @@ it...");
         ChMouth(4,1);
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_040");
-        MsgDisp("Nanatsumori","Eh?
-...What did you think I was?");
+        MsgDisp("Nanatsumori","Eh? ...What did you think I was?");
         MsgDisp("主人公","I thought you were a model who could fit into
 any situation.");
         ChEye(4,0);
@@ -56,8 +54,7 @@ any situation.");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040423302_04_050");
-        MsgDisp("Nanatsumori","...Wow.
-That's kind of surprising.");
+        MsgDisp("Nanatsumori","...Wow. That's kind of surprising.");
         ChEyeOpenLevel(4,#1);
         MsgDisp("主人公","Really?
 Your work photos always show a whole
@@ -92,8 +89,8 @@ My message, I mean.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423302_04_100");
-        MsgDisp("Nanatsumori","I'm mixing work with my private affairs,
-right?
+        MsgDisp("Nanatsumori","I'm mixing work with my private
+affairs, right?
 But, with this, I'm suddenly motivated again!");
         MsgDisp("主人公","(???)");
         break ;
@@ -120,8 +117,8 @@ Shall we go fix it?");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423302_04_120");
-    MsgDisp("Nanatsumori","...Pfft!
-I agree. It's probably weird to be acting all
+    MsgDisp("Nanatsumori","...Pfft! I agree.
+It's probably weird to be acting all
 pretentious here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

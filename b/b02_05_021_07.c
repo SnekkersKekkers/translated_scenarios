@@ -8,5 +8,4 @@ VoicePlay("B020502107_05_010");
 MsgDisp("Hiiragi","Yes.
 Your purity and innocence have overlapped in
 perfection here.");
-MsgDisp("主人公","(Yay!
-｛Hiiragi＊＊＊｝ seems to be really happy!)");
+MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ seems to be really happy!)");

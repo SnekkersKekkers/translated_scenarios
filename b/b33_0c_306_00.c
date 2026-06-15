@@ -26,8 +26,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("B330C30600_07_000");
-MsgDisp("Mikage","That calico cat's performance brought me to
-tears～");
+MsgDisp("Mikage","That calico cat's performance brought me
+to tears～");
 MsgDisp("主人公","Yes it was so cute.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -39,8 +39,7 @@ ChMouth(5,0);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C30600_05_000");
-MsgDisp("Hiiragi","Hmmm...
-A cat as a leading part...");
+MsgDisp("Hiiragi","Hmmm... A cat as a leading part...");
 MsgDisp("主人公","Was it not interesting for you, ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -61,8 +60,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C30600_06_010");
 MsgDisp("Himuro","Animals on stage?
-Seems interesting...but it's impossible
-right?");
+Seems interesting...but it's
+impossible right?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

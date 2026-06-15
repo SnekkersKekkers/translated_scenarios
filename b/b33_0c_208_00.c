@@ -49,8 +49,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20800_05_000");
 MsgDisp("Hiiragi","Absolutely.
-You do it by rubbing some wood together
-right?");
+You do it by rubbing some wood
+together right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -85,8 +85,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B330C20800_07_050");
-MsgDisp("Mikage","Yay!
-This is the true joy of camping.");
+MsgDisp("Mikage","Yay! This is the true joy of camping.");
 MsgDisp("主人公","(Hehe, everyone seems to be having fun!
 Camping with four people is this much fun!)");
 MsgClose();

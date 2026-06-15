@@ -76,8 +76,7 @@ hang out during the free period?");
     ChMotion(3,5,1);
     VoicePlay("Q040300000_03_070");
     MsgDisp("Honda","Aww, that's what I was going to say!");
-    MsgDisp("主人公","Eh?
-So that means...");
+    MsgDisp("主人公","Eh? So that means...");
     break ;
     default :
     DbgAssert(1);

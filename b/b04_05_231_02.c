@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(5,255,4,3,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040523102_05_000");
-MsgDisp("Hiiragi","Seeing it from down here, it really is that
-high...
+MsgDisp("Hiiragi","Seeing it from down here, it really is
+that high...
 It's like you'd fly right off into the sky.");
 MsgSel("That's terrifying.","If it were at night, it'd be a Milky Way railroad.","Do you like roller coasters a lot?");
 switch (MsgSelRsltGet()){
@@ -56,8 +56,7 @@ There are lots of other things too.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040523102_05_040");
         MsgDisp("Hiiragi","Pfft.");
-        MsgDisp("主人公","Huh?
-What's wrong?");
+        MsgDisp("主人公","Huh? What's wrong?");
         ChEye(5,0);
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
@@ -83,8 +82,7 @@ I was like a normal kid again.");
 rollercoaster for ages.");
         MsgDisp("主人公","Hehe, you've liked it for ages huh?");
         VoicePlay("B040523102_05_090");
-        MsgDisp("Hiiragi","Yes.
-I wonder why?");
+        MsgDisp("Hiiragi","Yes. I wonder why?");
         ChEye(5,2);
         ChMouth(5,4);
         ChMotion(5,2);

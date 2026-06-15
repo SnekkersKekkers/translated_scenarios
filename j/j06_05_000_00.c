@@ -57,8 +57,7 @@ Is this a date?)");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("J060500000_05_030");
-        MsgDisp("Hiiragi","I see.
-I understand.");
+        MsgDisp("Hiiragi","I see. I understand.");
         MsgDisp("主人公","I'm sorry about that...
 I'm just...");
         ChEye(5,4);

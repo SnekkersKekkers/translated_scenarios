@@ -44,7 +44,6 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F020300008_03_050");
-MsgDisp("Honda","Oh?
-I guess so?");
+MsgDisp("Honda","Oh? I guess so?");
 MsgDisp("主人公","(｛Honda＊＊｝ really seems to have no clue how
 smart he is...)");

@@ -18,8 +18,8 @@ I'm impressed.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("J060700001_07_010");
-    MsgDisp("Mikage","Alright, those of you who're joining, see you
-Sunday.");
+    MsgDisp("Mikage","Alright, those of you who're joining, see
+you Sunday.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

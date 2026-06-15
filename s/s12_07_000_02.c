@@ -24,8 +24,7 @@ Thank you so much.");
     VoicePlay("S120700002_07_010");
     MsgDisp("Mikage","See you later then.
 Good luck this year.");
-    MsgDisp("主人公","Yeah!
-Happy New Years.");
+    MsgDisp("主人公","Yeah! Happy New Years.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
@@ -77,8 +76,8 @@ on the way there.");
     VoicePlay("S120700002_07_050");
     MsgDisp("Mikage","Ahh, I feel refreshed.
 That was a good shrine visit.");
-    MsgDisp("主人公","Yep, it looks like it's going to be a good
-year.");
+    MsgDisp("主人公","Yep, it looks like it's going to be a
+good year.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);

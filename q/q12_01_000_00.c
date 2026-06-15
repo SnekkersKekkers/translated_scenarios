@@ -15,8 +15,8 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","That was quick.
 Any regrets?");
     MsgDisp("主人公","Nope.
-Thanks to you, ｛Kazama＊＊｝, it became a good
-memory.");
+Thanks to you, ｛Kazama＊＊｝, it became a
+good memory.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0,1);
@@ -43,8 +43,7 @@ Time flew by so quickly.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("Q120100000_01_030");
-    MsgDisp("Kazama","Yeah.
-But it was fun thanks to you.");
+    MsgDisp("Kazama","Yeah. But it was fun thanks to you.");
     MsgDisp("主人公","Yeah, me too!");
     ChEye(1,0);
     ChMouth(1,3);
@@ -120,8 +119,7 @@ It's a fun school trip, isn't it?");
     VoicePlay("Q120100000_01_120");
     MsgDisp("Kazama","Yes.
 We're still together under the same roof.");
-    MsgDisp("主人公","Hehe.
-But everyone else is here too?");
+    MsgDisp("主人公","Hehe. But everyone else is here too?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

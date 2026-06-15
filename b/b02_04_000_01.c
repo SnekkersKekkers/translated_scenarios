@@ -5,11 +5,9 @@ ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,3);
 VoicePlay("B020400001_04_000");
-MsgDisp("Nanatsumori","Hm...～
-I see, I see.
+MsgDisp("Nanatsumori","Hm...～ I see, I see.
 So that's your move today.");
-MsgDisp("主人公","Huh?
-Are my clothes weird?");
+MsgDisp("主人公","Huh? Are my clothes weird?");
 ChMotion(4,0);
 VoicePlay("B020400001_04_010");
 MsgDisp("Nanatsumori","Not weird.

@@ -5,10 +5,8 @@ MsgClose();
 ChOpen(8,254,2,4,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D020801000_08_000");
-MsgDisp("Shirahane","Phew...
-Exams are finally over.");
-MsgDisp("主人公","Yep.
-How'd you do?");
+MsgDisp("Shirahane","Phew... Exams are finally over.");
+MsgDisp("主人公","Yep. How'd you do?");
 ChEye(8,1);
 ChMouth(8,4);
 ChMotion(8,0,1);
@@ -37,9 +35,9 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("D020801000_08_050");
-MsgDisp("Shirahane","If I could be your number one it would be the
-first time I've gotten first place in my
-life.");
+MsgDisp("Shirahane","If I could be your number one it would be
+the first time I've gotten first place in
+my life.");
 MsgDisp("主人公","｛Daichi＊＊｝...");
 ChEye(8,4);
 ChMouth(8,5);

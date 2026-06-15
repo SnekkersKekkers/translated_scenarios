@@ -64,8 +64,8 @@ MsgDisp("Hiiragi","I see... I finally understand the meaning of
 the \"past progressive tense\" we learned about
 in English class this morning.");
 MsgDisp("主人公","Hehe, I'm glad.
-I'm sure you'll gradually understand more and
-more.");
+I'm sure you'll gradually understand more
+and more.");
 SEStop("EV_SE_SCHOOL_002",2);
 ChMotion(5,3);
 Wait(22,1);
@@ -74,8 +74,7 @@ ChMouth(5,4);
 VoicePlay("F100510002_05_060");
 MsgDisp("Hiiragi","Thank you.
 You are my teacher.");
-MsgDisp("主人公","No.
-I'm also learning a lot too.
+MsgDisp("主人公","No. I'm also learning a lot too.
 Thank you.");
 ChEye(5,2);
 ChMouth(5,4);

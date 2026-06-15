@@ -59,8 +59,8 @@ Ah, ｛Kazama＊＊｝, what's up?");
     ChOpen(1,35,0,0,3,#1,#1,0,0);
     VoicePlay("I350100000_01_030");
     MsgDisp("Kazama","What, am I not allowed here?
-I was just thinking of having a cup of
-coffee.");
+I was just thinking of having a cup
+of coffee.");
     MsgDisp("主人公","Hehe, I see.
 Then, please have a seat here.");
     MsgClose();
@@ -83,8 +83,7 @@ Then, please have a seat here.");
     VoicePlay("I350100000_01_050");
     MsgDisp("Kazama","It's too bad, but time's up.
 It's time for me to go.");
-    MsgDisp("主人公","Huh∈
-Already∋");
+    MsgDisp("主人公","Huh∈ Already∋");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,4);
@@ -103,8 +102,8 @@ It was worth the trip coming here.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I350100000_01_080");
-    MsgDisp("Kazama","Next time, I'll take my time sipping the
-coffee.
+    MsgDisp("Kazama","Next time, I'll take my time sipping
+the coffee.
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -112,8 +111,8 @@ See you.");
     ChClose(1,0,30);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","(｛Kazama＊＊｝ came all this way to check on
-me.
+    MsgDisp("主人公","(｛Kazama＊＊｝ came all this way to check
+on me.
 I'm so happy!)");
     break ;
     case 4:
@@ -126,14 +125,12 @@ I'm so happy!)");
     MsgDisp("主人公","Yes, this is Cafe Alucard.");
     VoicePlay("I350100000_01_090");
     MsgDisp("Kazama?","Hello.");
-    MsgDisp("主人公","Hm?
-Is that you, ｛Kazama＊＊｝?");
+    MsgDisp("主人公","Hm? Is that you, ｛Kazama＊＊｝?");
     VoicePlay("I350100000_01_100");
     MsgDisp("Kazama","Correct.
 There would've been a penalty for getting it
 wrong, you know.");
-    MsgDisp("主人公","Hehe.
-What is it all of a sudden?");
+    MsgDisp("主人公","Hehe. What is it all of a sudden?");
     VoicePlay("I350100000_01_110");
     MsgDisp("Kazama","I'd like some cake for takeout.
 Someone will come pick it up later.");
@@ -162,15 +159,13 @@ You said someone else would...");
     VoicePlay("I350100000_01_120");
     MsgDisp("Kazama","Yeah, I just became free at a good time.
 I came myself.");
-    MsgDisp("主人公","I see.
-Then would you like some coffee?");
+    MsgDisp("主人公","I see. Then would you like some coffee?");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("I350100000_01_130");
-    MsgDisp("Kazama","Uh...
-If it's just a little...no, I can't.");
+    MsgDisp("Kazama","Uh... If it's just a little...no, I can't.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);

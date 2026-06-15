@@ -26,8 +26,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C05001_06_000");
-MsgDisp("Himuro","?
-What do you mean?");
+MsgDisp("Himuro","? What do you mean?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -69,8 +68,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C05001_06_010");
-MsgDisp("Himuro","Kojiro-sensei, you're the most childish one
-here.");
+MsgDisp("Himuro","Kojiro-sensei, you're the most childish
+one here.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -78,8 +77,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05001_06_020");
-MsgDisp("Himuro","If you're going to move, please move further
-away.");
+MsgDisp("Himuro","If you're going to move, please move
+further away.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -110,8 +109,7 @@ ChMotion(6,1);
 VoiceEVSPlay(6);
 VoicePlay("D140C05001_06_040");
 MsgDisp("Himuro","｛主人公｝, let's go.");
-MsgDisp("主人公","(Ehhh!
-H-How did it come to this...∋)");
+MsgDisp("主人公","(Ehhh! H-How did it come to this...∋)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

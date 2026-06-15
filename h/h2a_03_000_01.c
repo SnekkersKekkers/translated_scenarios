@@ -41,8 +41,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("H2A0300001_03_040");
 MsgDisp("Honda","Ah, but it doesn't have to be ramen, okay?");
-MsgDisp("主人公","Hehe.
-｛Honda＊＊｝, thanks!");
+MsgDisp("主人公","Hehe. ｛Honda＊＊｝, thanks!");
 MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the track and field club
 manager...)");

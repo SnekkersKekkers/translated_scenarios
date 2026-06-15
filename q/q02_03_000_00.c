@@ -34,8 +34,7 @@ today's free period!");
         ChMouth(3,3);
         ChMotion(3,3,1);
         VoicePlay("Q020300000_03_020");
-        MsgDisp("Honda","Yay!
-Let's make the most out of today!");
+        MsgDisp("Honda","Yay! Let's make the most out of today!");
         MsgDisp("主人公","Thanks for inviting me.");
         ChEye(3,4);
         ChMouth(3,3);
@@ -121,8 +120,8 @@ going around together");
         ChMouth(3,3);
         ChMotion(3,0,1);
         VoicePlay("Q020300000_03_110");
-        MsgDisp("Honda","I guess I'll switch to Plan B.
-Have fun on your end, too.");
+        MsgDisp("Honda","I guess I'll switch to Plan B. Have fun on
+your end, too.");
         MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :

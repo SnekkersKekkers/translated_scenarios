@@ -37,8 +37,8 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("E010220200_02_020");
 MsgDisp("Sassa","Surprised me too.
-I didn't think Nanatsumori wore sports
-brands.");
+I didn't think Nanatsumori wore
+sports brands.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -87,8 +87,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("E010220200_04_040");
-MsgDisp("Nanatsumori","Uh...
-I'll pass.
+MsgDisp("Nanatsumori","Uh... I'll pass.
 See ya.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

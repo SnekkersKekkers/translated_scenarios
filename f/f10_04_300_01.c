@@ -2,13 +2,10 @@ BGOpen("sc230",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100430001_22_000");
-MsgDisp("Hikaru?","Eh～∋
-Minoru-kun, you're quitting?");
+MsgDisp("Hikaru?","Eh～∋ Minoru-kun, you're quitting?");
 VoicePlay("F100430001_04_000");
-MsgDisp("Nanatsumori?","No...
-I haven't decided yet.");
-MsgDisp("主人公","(Hm?
-This voice...)");
+MsgDisp("Nanatsumori?","No... I haven't decided yet.");
+MsgDisp("主人公","(Hm? This voice...)");
 VoicePlay("F100430001_22_010");
 MsgDisp("Hikaru?","Then what are you going to do with that wig
 and outfit?

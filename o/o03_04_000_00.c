@@ -28,12 +28,10 @@ I'm glad I did my best!)");
     ScrFadeIn(0);
     VoicePlay("O030400000_04_010");
     MsgDisp("Nanatsumori","Ooh, winning first at the sports festival...");
-    MsgDisp("主人公","Yeah.
-We were perfectly in sync!");
+    MsgDisp("主人公","Yeah. We were perfectly in sync!");
     ChEye(4,0);
     VoicePlay("O030400000_04_020");
-    MsgDisp("Nanatsumori","I see.
-Guess we're compatible?");
+    MsgDisp("Nanatsumori","I see. Guess we're compatible?");
     MsgDisp("主人公","I guess so?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -53,8 +51,7 @@ I got first place with ｛Nanatsumori＊｝!)");
     VoicePlay("O030400000_04_040");
     MsgDisp("Nanatsumori","Seriously, first place at the sports
 festival?");
-    MsgDisp("主人公","We were perfectly in sync, right?
-Yay!");
+    MsgDisp("主人公","We were perfectly in sync, right? Yay!");
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("O030400000_04_050");

@@ -20,8 +20,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040102202_01_010");
     MsgDisp("Kazama","Alright, anchors aweigh!
-...Wait, the hell are you
-making me say.");
+...Wait, the hell are you making me say.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -94,8 +93,8 @@ Here, come inside.");
         SEPlay("EV_SE_544");
         ChOpen(1,255,0,0,3,#1,#1,0,0,0,30);
         MsgDisp("主人公","I'm sorry.
-This is going to get you soaked, so let's go
-inside.");
+This is going to get you soaked, so let's
+go inside.");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);

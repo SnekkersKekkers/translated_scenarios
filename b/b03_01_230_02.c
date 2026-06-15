@@ -11,8 +11,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B030123002_01_000");
-MsgDisp("Kazama","What do you think of going to the Night
-Parade?");
+MsgDisp("Kazama","What do you think of going to the
+Night Parade?");
 MsgSel("I'd love to watch.","Sorry, not today...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,8 +33,7 @@ Let's find a good spot to watch from.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B030123002_01_020");
-    MsgDisp("Kazama","Okay.
-Being out too late isn't safe.
+    MsgDisp("Kazama","Okay. Being out too late isn't safe.
 Let's head back.");
     MsgDispSksp(0);
     break ;

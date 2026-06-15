@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,8);
     ChCheek(1,0);
     VoicePlay("B040123202_01_010");
-    MsgDisp("Kazama","Oh.
-A staple of the mystery genre?
+    MsgDisp("Kazama","Oh. A staple of the mystery genre?
 Am I gonna be done in here by you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -37,8 +37,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330B10800_01_010");
 MsgDisp("Kazama","Wa∈");
-MsgDisp("主人公","Kyaa!
-...Hey, ｛Kazama＊＊｝!");
+MsgDisp("主人公","Kyaa! ...Hey, ｛Kazama＊＊｝!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

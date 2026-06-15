@@ -10,8 +10,7 @@ ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,2);
 VoicePlay("P643100002_31_010");
-MsgDisp("Goro","Yes.
-I'm going to relax here for a while▼");
+MsgDisp("Goro","Yes. I'm going to relax here for a while▼");
 MsgDisp("主人公","(I was praised by Goro-sensei!
 Yay, it was a huge success!)");
 MsgClose();

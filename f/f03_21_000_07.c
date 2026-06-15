@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛みちる＊｝, what is your dream for the
-future?");
+MsgDisp("主人公","｛みちる＊｝, what is your dream for
+the future?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
@@ -23,8 +23,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F032100000_21_360");
-MsgDisp("Michiru","Hey.
-Mari.
+MsgDisp("Michiru","Hey. Mari.
 Thanks to you, I can see reality now.");
 MsgDisp("主人公","Thanks to me?");
 ChEye(21,0);
@@ -51,8 +50,8 @@ MsgDisp("Michiru","That's why, I've started thinking seriously
 about my own future... I'm still in the
 middle of thinking about it though?");
 MsgDisp("主人公","(Hehe!
-I'm also looking forward to ｛みちる＊｝'s
-dream!)");
+I'm also looking forward to
+｛みちる＊｝'s dream!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

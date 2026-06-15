@@ -33,8 +33,7 @@ empty when I was alone.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040430002_04_020");
-    MsgDisp("Nanatsumori","Hm...
-Well, don't worry about it.");
+    MsgDisp("Nanatsumori","Hm... Well, don't worry about it.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -81,8 +80,7 @@ of feeling is that?");
         ChMotion(4,0,1);
         ChCheek(4,8);
         VoicePlay("B040430002_04_070");
-        MsgDisp("Nanatsumori","...No!
-Please wait a second.
+        MsgDisp("Nanatsumori","...No! Please wait a second.
 I was too direct just now.");
         ChEye(4,2);
         ChMouth(4,4);
@@ -91,8 +89,7 @@ I was too direct just now.");
         VoicePlay("B040430002_04_080");
         MsgDisp("Nanatsumori","Sorry.
 Don't let it put you on edge, okay?");
-        MsgDisp("主人公","Yeah.
-Because I believe in ｛Nanatsumori＊｝.");
+        MsgDisp("主人公","Yeah. Because I believe in ｛Nanatsumori＊｝.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -113,9 +110,9 @@ things that are important to me.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040430002_04_120");
-        MsgDisp("Nanatsumori","Among it all, there's been another
-important thing added. It might just be the
-most important thing of all.");
+        MsgDisp("Nanatsumori","Among it all, there's been another important
+thing added. It might just be the most
+important thing of all.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0);

@@ -14,8 +14,7 @@ MsgDisp("Honda","She's here!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
-MsgDisp("主人公","Huh?
-What's everyone doing?");
+MsgDisp("主人公","Huh? What's everyone doing?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -27,8 +26,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D120B00200_04_000");
-MsgDisp("Nanatsumori","Kazama's going to buy us something cold to
-drink.");
+MsgDisp("Nanatsumori","Kazama's going to buy us something cold
+to drink.");
 MsgDisp("主人公","Eh, really?");
 ChEye(1,0);
 ChMouth(1,1);
@@ -62,8 +61,7 @@ StlMouth(4,0);
 Wait(6,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew...
-It's nice and cold inside the store!");
+MsgDisp("主人公","Phew... It's nice and cold inside the store!");
 StlMouthOpenLevel(1,0);
 VoicePlay("D120B00200_01_030");
 MsgDisp("Kazama","......");
@@ -80,14 +78,13 @@ Everyone has a scary look on their face...∋)");
 StlEyeOpenLevel(4,0,1);
 StlMouth(4,0);
 VoicePlay("D120B00200_04_020");
-MsgDisp("Nanatsumori","...So.
-Why don't you explain it.");
+MsgDisp("Nanatsumori","...So. Why don't you explain it.");
 StlEyeOpenLevel(3,#1);
 StlMouth(3,0);
 VoicePlay("D120B00200_03_020");
 MsgDisp("Honda","Right.
-I want an explanation from Ryo-kun that makes
-sense.");
+I want an explanation from Ryo-kun that
+makes sense.");
 StlEyeOpenLevel(1,0,1);
 StlMouth(1,1);
 VoicePlay("D120B00200_01_040");
@@ -103,8 +100,7 @@ StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("D120B00200_01_050");
 MsgDisp("Kazama","Shut up.");
-MsgDisp("主人公","H-Hey.
-What's with you all?
+MsgDisp("主人公","H-Hey. What's with you all?
 Everyone looks so scary...");
 StlEye(4,1);
 StlMouth(4,1);

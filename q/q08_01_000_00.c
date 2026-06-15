@@ -14,8 +14,8 @@ Thank you, ｛Kazama＊＊｝.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("Q080100000_01_000");
-    MsgDisp("Kazama","You look totally fine after everything we
-did.");
+    MsgDisp("Kazama","You look totally fine after everything
+we did.");
     MsgDisp("主人公","Yeah, I still have energy.");
     ChEye(1,0);
     ChMouth(1,4);

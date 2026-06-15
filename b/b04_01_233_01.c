@@ -24,8 +24,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,1);
     ChMotion(1,3);
     VoicePlay("B040123301_01_020");
-    MsgDisp("Kazama","Fun?
-This is one of those punishment games...");
+    MsgDisp("Kazama","Fun? This is one of those punishment games...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

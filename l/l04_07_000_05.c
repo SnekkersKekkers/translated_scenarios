@@ -40,8 +40,8 @@ Is something wrong?");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700005_07_040");
-    MsgDisp("Mikage","You thought hard to choose this topping,
-right?");
+    MsgDisp("Mikage","You thought hard to choose this
+topping, right?");
     MsgDisp("主人公","Yes.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -66,8 +66,7 @@ like...?)");
     VoicePlay("L040700005_07_060");
     MsgDisp("Mikage","It's handmade, amazing.
 You added a lot～");
-    MsgDisp("主人公","Yes.
-How is it?");
+    MsgDisp("主人公","Yes. How is it?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -88,9 +87,9 @@ me with this, though.");
     MsgDisp("Mikage","Like adding salt to a watermelon to make it
 sweeter?
 Or maybe you're just having fun with me.");
-    MsgDisp("主人公","(Salt?
-Having fun? ...Ah! Could it be that I added
-something he doesn't like?)");
+    MsgDisp("主人公","(Salt? Having fun? ...Ah!
+Could it be that I added something he
+doesn't like?)");
     MsgClose();
     BGMStop();
     MsgClose();

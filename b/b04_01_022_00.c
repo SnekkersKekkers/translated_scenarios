@@ -29,8 +29,8 @@ But what's wrong?");
     ChMotion(1,3);
     VoicePlay("B040102200_01_020");
     MsgDisp("Kazama","That sounds nice to me.
-But I think we'd really shock everyone with
-that.");
+But I think we'd really shock everyone
+with that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

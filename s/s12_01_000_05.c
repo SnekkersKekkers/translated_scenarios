@@ -17,15 +17,14 @@ switch (ChPrmGet(1,6)){
     VoicePlay("S120100005_01_000");
     MsgDisp("Kazama","We saw some of our classmates on the way
 home, right?");
-    MsgDisp("主人公","Yeah.
-Everyone was with friends and family.");
+    MsgDisp("主人公","Yeah. Everyone was with friends and family.");
     ChEye(1,4);
     ChMouth(1,0);
     ChMotion(1,4);
     VoicePlay("S120100005_01_010");
-    MsgDisp("Kazama","They weren't paying attention to the things
-around them, so I guess they didn't notice
-us.");
+    MsgDisp("Kazama","They weren't paying attention to the
+things around them, so I guess they didn't
+notice us.");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,0);
@@ -88,9 +87,9 @@ So being together like this feels weird.");
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("S120100005_01_080");
-    MsgDisp("Kazama","Since I entered high school, I started to pay
-attention a lot more to the person next to
-me...");
+    MsgDisp("Kazama","Since I entered high school, I started to
+pay attention a lot more to the person next
+to me...");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -104,8 +103,7 @@ Now I'm walking without a care in the world.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("S120100005_01_100");
-    MsgDisp("Kazama","I see...
-Now we're onto the next issue.");
+    MsgDisp("Kazama","I see... Now we're onto the next issue.");
     MsgDisp("主人公","What's next...?");
     ChEye(1,0);
     ChMouth(1,3);

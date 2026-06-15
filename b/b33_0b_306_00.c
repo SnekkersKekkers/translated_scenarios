@@ -48,8 +48,7 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30600_04_010");
-MsgDisp("Nanatsumori","Huh?
-Who was it that laughed the most?");
+MsgDisp("Nanatsumori","Huh? Who was it that laughed the most?");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,3);

@@ -27,10 +27,9 @@ people should gather by word of mouth.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P630700000_07_020");
-    MsgDisp("Mikage","Firstly could I indulge in a little breather
-first?");
-    MsgDisp("主人公","Yes.
-A herbal tea set coming up～!");
+    MsgDisp("Mikage","Firstly could I indulge in a little
+breather first?");
+    MsgDisp("主人公","Yes. A herbal tea set coming up～!");
     break ;
     case 4:
     case 5:
@@ -43,8 +42,8 @@ delicious but...)");
     MsgDisp("Mikage","How is it, how is it?
 It's deserted huh?");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
-There were people who took a quick peek
-but....");
+There were people who took a quick
+peek but....");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -60,8 +59,7 @@ customers.");
     MsgDisp("Mikage","Although I have more responsibilities than
 attracting customers.
 First, let's taste them.");
-    MsgDisp("主人公","Yes.
-A herbal tea set coming up～!");
+    MsgDisp("主人公","Yes. A herbal tea set coming up～!");
     break ;
     default :
     DbgAssert(1);

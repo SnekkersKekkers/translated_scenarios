@@ -123,8 +123,7 @@ ChOpen(8,255,0,3,0,0,#1,4,0);
 ScrFadeIn(0);
 VoicePlay("B050800100_08_150");
 MsgDisp("Shirahane","Hehe...!");
-MsgDisp("主人公","Hehe!
-Do you think your dream will come true?");
+MsgDisp("主人公","Hehe! Do you think your dream will come true?");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);

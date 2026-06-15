@@ -11,5 +11,4 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_000");
-MsgDisp("Mikage","Hm?
-What's wrong?");
+MsgDisp("Mikage","Hm? What's wrong?");

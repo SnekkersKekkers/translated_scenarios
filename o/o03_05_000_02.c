@@ -29,8 +29,9 @@ What about you, ｛Hiiragi＊＊＊｝?");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("O030500002_05_020");
-    MsgDisp("Hiiragi","Yes, I'm fine. Let's just say we both came out
-unhurt, and a sound horse beats a fast one.");
+    MsgDisp("Hiiragi","Yes, I'm fine.
+Let's just say we both came out unhurt, and a
+sound horse beats a fast one.");
     MsgDisp("主人公","(Sigh...last...
 I wish I had tried a little harder...)");
     break ;

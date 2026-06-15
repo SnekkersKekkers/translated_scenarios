@@ -2,8 +2,8 @@ BGOpen("sc606",0);
 ScrFadeIn(0);
 VoicePlay("P610700000_46_000");
 MsgDisp("Manager","For this year's cultural festival club
-programme, we, the Gardening Club have decided
-to serve herbal tea.");
+programme, we, the Gardening Club have
+decided to serve herbal tea.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();

@@ -17,15 +17,15 @@ switch (ChPrmGet(22,6)){
     VoicePlay("H2A2200000_22_000");
     MsgDisp("Hikaru","You did it!
 It's Haba High's grand victory♪");
-    MsgDisp("主人公","｛ひかる＊｝, thank you for cheering us
-on!");
+    MsgDisp("主人公","｛ひかる＊｝, thank you for cheering
+us on!");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("H2A2200000_22_010");
-    MsgDisp("Hikaru","Ehe▼
-Good work supporting. Mari's hard work also
-contributed to this win♪");
+    MsgDisp("Hikaru","Ehe▼ Good work supporting.
+Mari's hard work also contributed to
+this win♪");
     MsgDisp("主人公","(I'm glad that I stayed as the track and
 field club manager!)");
     BGMStop();
@@ -63,8 +63,7 @@ the track team did their best.");
     ChEyeOpenLevel(22,0);
     VoicePlay("H2A2200000_22_040");
     MsgDisp("Hikaru","There!
-Mari's smile gives everyone strength♪
-Aha▼");
+Mari's smile gives everyone strength♪ Aha▼");
     MsgDisp("主人公","(I'm glad that I stayed as the track and
 field club manager!)");
     BGMStop();

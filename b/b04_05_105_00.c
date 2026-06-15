@@ -29,8 +29,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040510500_05_020");
     MsgDisp("Hiiragi","Indeed.
-Your stance is the correct way to go about
-it.");
+Your stance is the correct way to go
+about it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

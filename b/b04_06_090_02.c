@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040609002_06_010");
-    MsgDisp("Himuro","I guess it's just one of my interests out of
-many.");
+    MsgDisp("Himuro","I guess it's just one of my interests out
+of many.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +42,8 @@ many.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040609002_06_030");
-        MsgDisp("Himuro","Did you find out I wasn't interested in
-plants?");
+        MsgDisp("Himuro","Did you find out I wasn't interested
+in plants?");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
@@ -55,16 +55,15 @@ spark your interest. That's exactly it.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040609002_06_050");
-        MsgDisp("Himuro","Well, it's not to the point it'll affect my
-future.");
+        MsgDisp("Himuro","Well, it's not to the point it'll affect
+my future.");
         MsgDisp("主人公","Then, why don't you try growing a cactus or
 something?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040609002_06_060");
-        MsgDisp("Himuro","Cactus?
-Why?");
+        MsgDisp("Himuro","Cactus? Why?");
         MsgDisp("主人公","It's kind of like ｛Himuro＊＊｝.");
         ChEye(6,0);
         ChMouth(6,0);

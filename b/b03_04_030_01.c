@@ -4,16 +4,14 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B030403001_04_000");
-MsgDisp("Nanatsumori","Phone's all charged up, OK.
-So.
+MsgDisp("Nanatsumori","Phone's all charged up, OK. So.
 Which one do you want to go to?");
 MsgSel("Let's go to the Aquarium.","The Water Garden sounds nice.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);
     VoicePlay("B030403001_04_010");
-    MsgDisp("Nanatsumori","OK.
-Hopefully there's a new section to see.");
+    MsgDisp("Nanatsumori","OK. Hopefully there's a new section to see.");
     MsgDispSksp(0);
     break ;
     case 1:

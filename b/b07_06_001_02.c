@@ -5,8 +5,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_090");
-MsgDisp("Himuro","Rather than talking, he's the one approaching
-me.");
+MsgDisp("Himuro","Rather than talking, he's the one
+approaching me.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -52,8 +52,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_160");
-MsgDisp("Himuro","But him pushing the decathlon on me of all
-people?
+MsgDisp("Himuro","But him pushing the decathlon on me of
+all people?
 Total nonsense.");
 MsgDisp("主人公","(｛Himuro＊＊｝ recognises ｛Sassa＊＊｝ in his own
 way, doesn't he?)");

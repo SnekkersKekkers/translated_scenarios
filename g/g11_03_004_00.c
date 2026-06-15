@@ -23,8 +23,8 @@ MsgDisp("Honda","I wonder what I would've thought of it if I
 had seen the movie before reading the
 original work?");
 MsgDisp("主人公","Hehe.
-But you can't forget it now, so you can't
-know.");
+But you can't forget it now, so you
+can't know.");
 ChEye(3,0);
 ChMouth(3,2);
 ChMotion(3,1);

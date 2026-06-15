@@ -21,8 +21,7 @@ ChMotion(21,3);
 VoicePlay("D140D07001_21_010");
 MsgDisp("Michiru","If Mari joined, we would be a trio.
 How about we do it together?");
-MsgDisp("主人公","Ehhh∋
-That's impossible!");
+MsgDisp("主人公","Ehhh∋ That's impossible!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -33,8 +32,7 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("D140D07001_21_020");
-MsgDisp("Michiru","Yeah.
-Mari is the world's number one cutest.");
+MsgDisp("Michiru","Yeah. Mari is the world's number one cutest.");
 MsgDisp("主人公","I'm a little embarrassed...");
 ChEye(21,0);
 ChMouth(21,3);
@@ -47,8 +45,7 @@ ChMotion(22,1,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D140D07001_22_030");
 MsgDisp("Hikaru","Yeah, it makes Hikaru overwhelmed with love▼");
-MsgDisp("主人公","(...Huh?
-What question was I asking again?)");
+MsgDisp("主人公","(...Huh? What question was I asking again?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

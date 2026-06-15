@@ -45,8 +45,8 @@ MsgDisp("Nanatsumori","I think it's this.
 You came to check the new items in this
 month's Habatcher.");
 VoicePlay("G110400201_04_040");
-MsgDisp("Nanatsumori","...I'm guessing you looked and it's all sold
-out.
+MsgDisp("Nanatsumori","...I'm guessing you looked and it's all
+sold out.
 Bingo?");
 MsgDisp("主人公","...Bingo.
 How did you know?");
@@ -68,8 +68,7 @@ Now you have one more chance.");
 MsgDisp("主人公","Really?");
 ChMotion(4,2);
 VoicePlay("G110400201_04_090");
-MsgDisp("Nanatsumori","Yeah.
-You should give it a try.");
+MsgDisp("Nanatsumori","Yeah. You should give it a try.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ sure has all the info!)");
 BGMStop();
 MsgClose();

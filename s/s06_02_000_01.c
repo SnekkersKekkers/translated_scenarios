@@ -29,8 +29,7 @@ this outfit?");
     ChMotion(2,3);
     VoicePlay("S060200001_02_030");
     MsgDisp("Sassa","I have no words.");
-    MsgDisp("主人公","(Yes!
-｛Sassa＊＊｝ seems to like it.)");
+    MsgDisp("主人公","(Yes! ｛Sassa＊＊｝ seems to like it.)");
     break ;
     case 3:
     ChEye(2,0);
@@ -48,8 +47,8 @@ Did I live up to your expectations?");
     ChEyeOpenLevel(2,0);
     VoicePlay("S060200001_02_050");
     MsgDisp("Sassa","Yeah, it looks amazing on you.
-I wish I could see you in kimono all the
-time.");
+I wish I could see you in kimono all
+the time.");
     MsgDisp("主人公","Hehe!
 I'm happy- but that sounds like it would be
 difficult?");
@@ -92,10 +91,8 @@ expecting!");
     ChMotion(2,3);
     ChCheek(2,10);
     VoicePlay("S060200001_02_100");
-    MsgDisp("Sassa","Yeah...
-Wow, so beautiful...");
-    MsgDisp("主人公","(Yes!
-I'm happy that ｛Sassa＊＊｝ likes it!)");
+    MsgDisp("Sassa","Yeah... Wow, so beautiful...");
+    MsgDisp("主人公","(Yes! I'm happy that ｛Sassa＊＊｝ likes it!)");
     break ;
     default :
     DbgAssert(1);

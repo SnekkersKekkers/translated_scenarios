@@ -8,7 +8,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛Nanatsumori＊｝'s modelling agency!)");
+snacks to ｛Nanatsumori＊｝'s modelling
+agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -39,8 +40,7 @@ Yeah, it's my first delivery job.
     MsgDisp("Nanatsumori","Yeah.
 I think it's fine if you just leave that on
 the table.");
-    MsgDisp("主人公","Okay.
-I'll do that.");
+    MsgDisp("主人公","Okay. I'll do that.");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);
@@ -53,14 +53,14 @@ I'll do that.");
     MsgDisp("Nanatsumori","Nah, I just felt the power of the service
 industry.
 Impressive.");
-    MsgDisp("主人公","(Hehe!
-｛Nanatsumori＊｝ praised me.
+    MsgDisp("主人公","(Hehe! ｛Nanatsumori＊｝ praised me.
 I did it!)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(Today's my first delivery of coffee and
-snacks to ｛Nanatsumori＊｝'s modelling agency!)");
+snacks to ｛Nanatsumori＊｝'s modelling
+agency!)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -84,8 +84,7 @@ I'm delivering from Cafe Alucard.");
     MsgDisp("Nanatsumori","｛主人公｝.");
     MsgDisp("主人公","｛Nanatsumori＊｝.
 I came to deliver this!");
-    MsgDisp("主人公","...Hm?
-There aren't many people around.
+    MsgDisp("主人公","...Hm? There aren't many people around.
 Did you just get on break?");
     ChEye(4,4);
     ChMouth(4,0);
@@ -99,14 +98,12 @@ Until then...");
     ChMotion(4,1,1);
     VoicePlay("I360400005_04_060");
     MsgDisp("Nanatsumori","Wai...you're going already.");
-    MsgDisp("主人公","Hm?
-Yes, I'm working right now...");
+    MsgDisp("主人公","Hm? Yes, I'm working right now...");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("I360400005_04_070");
-    MsgDisp("Nanatsumori","Aah...
-I see.
+    MsgDisp("Nanatsumori","Aah... I see.
 That's true.");
     ChEye(4,0);
     ChMouth(4,0);

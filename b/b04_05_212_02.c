@@ -66,8 +66,8 @@ country...we did sell that.");
 clothes?\"...");
         ChMotion(5,4);
         VoicePlay("B040521202_05_060");
-        MsgDisp("Hiiragi","It was tough for me around elementary school
-age.");
+        MsgDisp("Hiiragi","It was tough for me around elementary
+school age.");
         MsgDisp("主人公","Is that so?
 I'm sorry.
 I had no idea...");
@@ -88,14 +88,13 @@ face on it, right?");
         VoicePlay("B040521202_05_090");
         MsgDisp("Hiiragi","Were you imagining it just now?
 A Yanosuke T-shirt.");
-        MsgDisp("主人公","Ah, I was just thinking what it would be
-like...");
+        MsgDisp("主人公","Ah, I was just thinking what it would
+be like...");
         ChMotion(5,4);
         VoicePlay("B040521202_05_100");
         MsgDisp("Hiiragi","You really are...
 That's fine, I shall show you.");
-        MsgDisp("主人公","Eh?
-There really is?");
+        MsgDisp("主人公","Eh? There really is?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040521202_05_110");

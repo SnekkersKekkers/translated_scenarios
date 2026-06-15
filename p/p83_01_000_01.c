@@ -9,8 +9,8 @@ switch (ChPrmGet(1,6)){
     case 3:
     ScrFadeIn(0);
     VoicePlay("P830100001_48_000");
-    MsgDisp("School Girl","Excuse me, I'd like to borrow a trolley
-please.");
+    MsgDisp("School Girl","Excuse me, I'd like to borrow a
+trolley please.");
     MsgDisp("主人公","Yes～");
         MsgDisp("主人公","(Phew, this year I'm in charge of supplies.
 I'm super busy, huh...)");
@@ -84,8 +84,8 @@ You seem busy, so I can just do it later.");
     ChMotion(1,1);
     VoicePlay("P830100001_01_060");
     MsgDisp("Kazama","Phew...
-It's a tough job being the management staff,
-huh?");
+It's a tough job being the management
+staff, huh?");
     MsgDisp("主人公","｛Kazama＊＊｝, thank you for helping me.");
     ChEye(1,2);
     ChMouth(1,3);

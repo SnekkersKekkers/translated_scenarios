@@ -9,6 +9,5 @@ VoicePlay("B060600005_06_000");
 MsgDisp("Himuro","Bit late to mention it, but we came here last
 time too.");
 MsgDispSksp(1,#1);
-MsgDisp("主人公","(Ah!
-I invited him here last time too!)");
+MsgDisp("主人公","(Ah! I invited him here last time too!)");
 MsgDispSksp(0);

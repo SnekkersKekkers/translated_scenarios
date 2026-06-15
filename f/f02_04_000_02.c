@@ -17,8 +17,7 @@ VoicePlay("F020400002_04_010");
 MsgDisp("Nanatsumori","There are two main stories: the scary one,
 and the super funny one.
 Which one do you want to hear?");
-MsgDisp("主人公","Eh∋
-Whichever one you want...");
+MsgDisp("主人公","Eh∋ Whichever one you want...");
 ChMotion(4,0,1);
 VoicePlay("F020400002_04_020");
 MsgDisp("Nanatsumori","Now, now.
@@ -43,8 +42,7 @@ VoicePlay("F020400002_04_050");
 MsgDisp("Nanatsumori","No-good guys become good girls!
 Ugly girls become handsome men! They call it
 the 'Double Extreme Remodelling Project'.");
-MsgDisp("主人公","...Ha!
-That's not scary at all.");
+MsgDisp("主人公","...Ha! That's not scary at all.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);

@@ -26,8 +26,8 @@ ChMotion(2,0);
 VoicePlay("B360203100_02_020");
 MsgDisp("Sassa","I feel bad for Ryota and Inori, but I prefer
 it like this.");
-MsgDisp("主人公","They'll be angry when they hear that you
-know?");
+MsgDisp("主人公","They'll be angry when they hear that
+you know?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);

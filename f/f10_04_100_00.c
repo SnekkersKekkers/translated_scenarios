@@ -15,8 +15,7 @@ MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Are you changing classrooms for next class?");
 ChMotion(4,1,1);
 VoicePlay("F100410000_04_010");
-MsgDisp("Nanatsumori","Yeah.
-See ya then.");
+MsgDisp("Nanatsumori","Yeah. See ya then.");
 MsgClose();
 BGMVol(0.5,2);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -24,8 +23,7 @@ ChClose(4,0,30);
 Wait(20,1);
 SEPlay("EV_SE_642",0,0.6);
 MsgDisp("","(*Plop*)");
-MsgDisp("主人公","Hm?
-His bus pass...");
+MsgDisp("主人公","Hm? His bus pass...");
 MsgDisp("主人公","｛Nanatsumori＊｝!
 Did you drop this just now?");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE",0,0.8);

@@ -13,9 +13,9 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
 VoicePlay("D150002700_07_000");
-MsgDisp("Mikage","Hm?
-That can't be......
-Wait, you're right. No one else is here.");
+MsgDisp("Mikage","Hm? That can't be......
+Wait, you're right.
+No one else is here.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -25,9 +25,9 @@ ChEye(7,2);
 ChMouth(7,2);
 ChMotion(7,0);
 VoicePlay("D150002700_07_010");
-MsgDisp("Mikage","You know, I don't think that's the case but
-maybe teachers aren't allowed to use this
-place?");
+MsgDisp("Mikage","You know, I don't think that's the case
+but maybe teachers aren't allowed to use
+this place?");
 ChEye(2,0);
 ChMouth(2,5);
 ChMotion(2,0);
@@ -61,8 +61,7 @@ ChOpen(7,254,0,2,0,#1,#1,0,3);
 VoicePlay("D150002700_07_040");
 MsgDisp("Mikage","What the...
 Don't scare me like that.");
-MsgDisp("主人公","(Hehe.
-｛Mikage＊＊｝ hid so quickly.)");
+MsgDisp("主人公","(Hehe. ｛Mikage＊＊｝ hid so quickly.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,2);
     ChMotion(2,4,1);
     VoicePlay("B040202400_02_010");
-    MsgDisp("Sassa","Eh?
-Did something tire you out?");
+    MsgDisp("Sassa","Eh? Did something tire you out?");
     MsgDateResultDisp();
     break ;
     case 1:

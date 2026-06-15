@@ -34,8 +34,7 @@ accomplished my goal for today.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040218400_02_020");
-    MsgDisp("Sassa","Yeah.
-Maybe we were a bit out of place?");
+    MsgDisp("Sassa","Yeah. Maybe we were a bit out of place?");
     MsgDateResultDisp();
     break ;
     default :

@@ -56,8 +56,8 @@ reassuring, I guess?");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040206202_02_050");
-        MsgDisp("Sassa","I could do anything as long as you were by my
-side.");
+        MsgDisp("Sassa","I could do anything as long as you were by
+my side.");
         MsgDisp("主人公","Hehe, that's reassuring.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -71,8 +71,8 @@ And you would cook.");
         ChMotion(2,2);
         VoicePlay("B040206202_02_070");
         MsgDisp("Sassa","Having your home-cooked meals everyday...
-Yeah, survival like that wouldn't be half
-bad.");
+Yeah, survival like that wouldn't be
+half bad.");
         MsgDisp("主人公","｛Sassa＊＊｝?
 What's wrong?");
         ChEye(2,0);

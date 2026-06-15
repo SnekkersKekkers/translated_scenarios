@@ -13,8 +13,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B030608000_06_010");
 MsgDisp("Himuro","...Huh?
-If you say stupid things, I'll leave you
-here.");
+If you say stupid things, I'll leave
+you here.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

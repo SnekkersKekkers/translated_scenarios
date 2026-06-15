@@ -109,8 +109,7 @@ VoicePlay("D010200700_02_050");
 MsgDisp("Sassa","In the end I ran out of steam and couldn't
 get first place, but at least I made it back
 without collapsing.");
-MsgDisp("主人公","Hehe!
-Yeah, welcome back.");
+MsgDisp("主人公","Hehe! Yeah, welcome back.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(2,0,30);
@@ -144,8 +143,7 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("D010200700_02_090");
 MsgDisp("Sassa","That's all you.");
-MsgDisp("主人公","Eh...
-That's not true.");
+MsgDisp("主人公","Eh... That's not true.");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D010200700_02_100");

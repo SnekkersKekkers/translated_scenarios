@@ -69,8 +69,7 @@ That I can do it.");
         ChMouth(3,3);
         ChMotion(3,3);
         VoicePlay("B040315102_03_070");
-        MsgDisp("Honda","Yup.
-If you say that, I can do it!");
+        MsgDisp("Honda","Yup. If you say that, I can do it!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(3);
@@ -92,9 +91,9 @@ are astronomical!");
         ChMotion(3,4);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040315102_03_090");
-        MsgDisp("Honda","...If I could spend my life with you like
-this, I could become one of the world's
-greats.");
+        MsgDisp("Honda","...If I could spend my life with you
+like this, I could become one of the
+world's greats.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,5);

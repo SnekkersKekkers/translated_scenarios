@@ -45,8 +45,7 @@ I can't refute a single word.");
         MsgDisp("Mikage","When you're in trouble, close your eyes and
 count to ten. You'll get used to it.
 That's adapting to the dark.");
-        MsgDisp("主人公","Yes.
-Are there any other adaptations?");
+        MsgDisp("主人公","Yes. Are there any other adaptations?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,2);

@@ -51,8 +51,7 @@ to lose.");
     MsgDisp("Himuro","It's not all about the results.
 You enjoyed your youth.
 Isn't that enough?");
-    MsgDisp("主人公","Yeah.
-Thank you, ｛Himuro＊＊｝...");
+    MsgDisp("主人公","Yeah. Thank you, ｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

@@ -10,8 +10,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("D140D07071_22_010");
-MsgDisp("Hikaru","Huh?
-Mari doesn't feel that way?");
+MsgDisp("Hikaru","Huh? Mari doesn't feel that way?");
 MsgDisp("主人公","It's not that...");
 ChEye(21,0);
 ChMouth(21,4);

@@ -10,8 +10,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410304_04_010");
-MsgDisp("Nanatsumori","Yeah.
-I'm mainly talking about you.");
+MsgDisp("Nanatsumori","Yeah. I'm mainly talking about you.");
 MsgDisp("主人公","｛Nanatsumori＊｝, I liked the birthday gift
 you gave me a lot.");
 ChMotion(4,0,1);

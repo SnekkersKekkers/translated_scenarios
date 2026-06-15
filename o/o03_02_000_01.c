@@ -68,8 +68,7 @@ alone, ｛Sassa＊＊｝...");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("O030200001_02_070");
-    MsgDisp("Sassa","Hey.
-There's no point if I'm not with you.");
+    MsgDisp("Sassa","Hey. There's no point if I'm not with you.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -84,8 +83,8 @@ were together.");
     VoicePlay("O030200001_02_090");
     MsgDisp("Sassa","Maybe it's not that bad to be tied together
 like this? -Wait, what am I saying?");
-    MsgDisp("主人公","(I can't tell if ｛Sassa＊＊｝ is frustrated or
-not...)");
+    MsgDisp("主人公","(I can't tell if ｛Sassa＊＊｝ is frustrated
+or not...)");
     break ;
     default :
     DbgAssert(1);

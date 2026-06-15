@@ -6,8 +6,7 @@ switch (ChPrmGet(3,6)){
     ChOpen(3,255,4,0,3,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080300007_03_000");
-    MsgDisp("Honda","I'm going with Pika-chan?
-Okay.");
+    MsgDisp("Honda","I'm going with Pika-chan? Okay.");
     break ;
     case 3:
     MsgClose();

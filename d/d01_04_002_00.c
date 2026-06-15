@@ -24,8 +24,7 @@ SEPlay("EV_SE_DOOR_013");
 BGOpen("sc340",0);
 ScrFadeIn(0);
 MsgDisp("主人公","...｛Nanatsumori＊｝?");
-MsgDisp("主人公","(Huh?
-I guess he isn't here...)");
+MsgDisp("主人公","(Huh? I guess he isn't here...)");
 VoicePlay("D010400200_04_000");
 MsgDisp("Nanatsumori?","Zzz......");
 MsgDisp("主人公","Ah...");
@@ -46,10 +45,9 @@ MsgDisp("Nanatsumori","Mnn...");
 MsgDisp("主人公","(He's still fast asleep...)");
 VoicePlay("D010400200_04_030");
 MsgDisp("Nanatsumori","Mnnn...");
-MsgDisp("主人公","Hehe!
-Your glasses are falling off.");
-MsgDisp("主人公","People will find out you're NANA-kun like
-this!");
+MsgDisp("主人公","Hehe! Your glasses are falling off.");
+MsgDisp("主人公","People will find out you're NANA-kun
+like this!");
 VoicePlay("D010400200_04_040");
 MsgDisp("Nanatsumori","Na...na...");
 MsgDisp("主人公","Hehe!");
@@ -90,8 +88,7 @@ VoicePlay("D010400200_04_090");
 MsgDisp("Nanatsumori","Eh...
 I just woke up and it's so bright up there...
 I'll burn...");
-MsgDisp("主人公","Geez.
-You're not a vampire.");
+MsgDisp("主人公","Geez. You're not a vampire.");
 ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,0,1);

@@ -36,8 +36,7 @@ Hurry now.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B030723002_07_020");
-    MsgDisp("Mikage","I see.
-Alright, then let's hurry home.");
+    MsgDisp("Mikage","I see. Alright, then let's hurry home.");
     MsgDispSksp(0);
     break ;
     default :

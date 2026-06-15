@@ -37,7 +37,8 @@ Don't say it's the last.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700002_07_030");
-    MsgDisp("Mikage","Ah, but... It might be Vice Principal Himuro's last time conducting?
+    MsgDisp("Mikage","Ah, but... It might be Vice Principal
+Himuro's last time conducting?
 So repay him with a good performance.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alright! I'll have to let both Himuro-sensei
@@ -65,8 +66,8 @@ last three years?)");
     MsgDisp("Mikage","I thought you'd be a bit more nervous, but
 it's impressive.");
     MsgDisp("主人公","Yes.
-I did everything I could for the last three
-years.");
+I did everything I could for the last
+three years.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -84,13 +85,13 @@ years.");
     VoicePlay("P530700002_07_080");
     MsgDisp("Mikage","Then I guess I won't have a chance to
 encourage you or relieve your stress.");
-    MsgDisp("主人公","Ummm...
-Then, please encourage me.");
+    MsgDisp("主人公","Ummm... Then, please encourage me.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P530700002_07_090");
-    MsgDisp("Mikage","...Sigh. Then, instead of encouraging you, I'll
+    MsgDisp("Mikage","...Sigh.
+Then, instead of encouraging you, I'll
 thank you.");
     ChEye(7,0);
     ChMouth(7,0);

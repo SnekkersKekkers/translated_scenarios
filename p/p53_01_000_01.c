@@ -47,16 +47,14 @@ you make a small mistake.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("P530100001_01_040");
-    MsgDisp("Kazama","Uhm.
-Hey.");
+    MsgDisp("Kazama","Uhm. Hey.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100001_01_050");
     MsgDisp("Kazama","Everyone, just think of these as vegetables
 grown by Mikage-sensei, okay?");
-    MsgDisp("主人公","Huh?
-Hehe, then ｛Kazama＊＊｝ too?");
+    MsgDisp("主人公","Huh? Hehe, then ｛Kazama＊＊｝ too?");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,3);
@@ -123,11 +121,11 @@ Everyone has been practising, haven't they?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("P530100001_01_130");
-    MsgDisp("Kazama","Well, I guess I'd prefer your solo concert
-though.");
+    MsgDisp("Kazama","Well, I guess I'd prefer your solo
+concert though.");
     MsgDisp("主人公","Hehe, thank you, ｛Kazama＊＊｝.
-Thanks to you, I think I will be able to play
-well!");
+Thanks to you, I think I will be able to
+play well!");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(1,0);
@@ -137,8 +135,7 @@ well!");
     MsgDisp("Kazama","I will be right here with you, watching.
 Go on.");
     MsgDisp("主人公","I'm going!");
-    MsgDisp("主人公","(Okay.
-Let's try our best!)");
+    MsgDisp("主人公","(Okay. Let's try our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

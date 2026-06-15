@@ -71,12 +71,11 @@ Did you want something?");
     VoicePlay("P830700001_07_040");
     MsgDisp("Mikage","I'm visiting you on the battlefield.
 I came to talk to Miss Diligent.");
-    MsgDisp("主人公","Hehe.
-But I'm a bit busy right no—");
+    MsgDisp("主人公","Hehe. But I'm a bit busy right no—");
     VoicePlay("P830700001_46_010");
     MsgDisp("Girl A","Um, excuse me.
-There's not enough blackout curtains in our
-class.");
+There's not enough blackout curtains in
+our class.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -95,8 +94,7 @@ I'll cheer you on from behind the scenes.");
     VoicePlay("P830700001_48_010");
     MsgDisp("Girl B","Excuuuse me.
 Could I get two rolls of packing tape?");
-    MsgDisp("主人公","Yes～!
-Please wait a moment.");
+    MsgDisp("主人公","Yes～! Please wait a moment.");
     break ;
     default :
     DbgAssert(1);

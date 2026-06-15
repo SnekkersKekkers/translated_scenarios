@@ -23,8 +23,8 @@ Welcome!");
     VoicePlay("P630100002_01_010");
     MsgDisp("Kazama","So we can eat here this year.");
     MsgDisp("主人公","Yes. We're serving dishes made using the
-vegetables organically grown by the Gardening
-Club.");
+vegetables organically grown by the
+Gardening Club.");
     ChMouth(1,3);
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);

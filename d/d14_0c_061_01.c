@@ -51,8 +51,7 @@ VoicePlay("D140C06101_05_030");
 MsgDisp("Hiiragi","There's a saying: \"Search for an older wife
 even in golden sandals.\"
 That's what you are to Inori-kun.");
-MsgDisp("主人公","Eh?
-Wife?");
+MsgDisp("主人公","Eh? Wife?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

@@ -22,9 +22,9 @@ What are you doing here...");
 ChEye(8,4);
 ChMouth(8,3);
 VoicePlay("R080800000_08_010");
-MsgDisp("Shirahane","Hehe.
-I'm glad I made it just in time.");
-MsgDisp("主人公","Wait, isn't Hanegasaki on its ski trip right now—");
+MsgDisp("Shirahane","Hehe. I'm glad I made it just in time.");
+MsgDisp("主人公","Wait, isn't Hanegasaki on its ski trip
+right now—");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -68,8 +68,7 @@ BGOpen("ex001",2);
 ScrFadeIn(0);
 VoicePlay("R080800000_08_060");
 MsgDisp("Shirahane","So did ya have fun at the Christmas party?");
-MsgDisp("主人公","Yeah.
-How about you, ｛Daichi＊＊｝?
+MsgDisp("主人公","Yeah. How about you, ｛Daichi＊＊｝?
 Did you enjoy the ski trip?");
 ChEye(8,0);
 ChMouth(8,3);
@@ -109,8 +108,7 @@ StlEyeOpenLevel(8,5);
 VoicePlay("R080800000_08_100");
 MsgDisp("Shirahane","Ah...it's warm.
 Your hand.");
-MsgDisp("主人公","Hehe.
-｛Daichi＊＊｝, your hands are cold...");
+MsgDisp("主人公","Hehe. ｛Daichi＊＊｝, your hands are cold...");
 StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,0,1);
@@ -147,8 +145,7 @@ StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("R080800000_08_150");
-MsgDisp("Shirahane","...Pfft!
-You are so nice and honest.");
+MsgDisp("Shirahane","...Pfft! You are so nice and honest.");
 StlEye(8,0,0);
 StlMouth(8,1);
 StlEyeOpenLevel(8,5,1);
@@ -156,8 +153,8 @@ VoicePlay("R080800000_08_160");
 MsgDisp("Shirahane","Oh man...
 I wish I could just skip skiing and just stay
 with you.");
-MsgDisp("主人公","Huh...but everyone would be worried about
-you.");
+MsgDisp("主人公","Huh...but everyone would be worried
+about you.");
 StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
@@ -193,9 +190,9 @@ MsgClose();
 ChOpen(8,255,0,0,0,#1,#1,8,0);
 ScrFadeIn(0);
 VoicePlay("R080800000_08_200");
-MsgDisp("Shirahane","Well then...this is where we part ways for today.");
-MsgDisp("主人公","...Okay.
-Thank you for coming, ｛Daichi＊＊｝.");
+MsgDisp("Shirahane","Well then...this is where we part ways
+for today.");
+MsgDisp("主人公","...Okay. Thank you for coming, ｛Daichi＊＊｝.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

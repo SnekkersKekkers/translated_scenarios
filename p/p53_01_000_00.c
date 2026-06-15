@@ -30,8 +30,8 @@ But your nervousness is shown in your face.");
     MsgDisp("Kazama","Well, the pouting face you have right now
 sounds more like you than your previous
 expression.");
-    MsgDisp("主人公","Ah, perhaps ｛Kazama＊＊｝...helped me to
-relax?");
+    MsgDisp("主人公","Ah, perhaps ｛Kazama＊＊｝...helped me
+to relax?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -103,8 +103,8 @@ I said it so you can trust me.");
     MsgDisp("Kazama","Well then, I'm looking forward seeing you
 perform in your own style.");
     MsgDisp("主人公","(Let's do the best we can!
-｛Kazama＊＊｝ Because they are supporting me
-too.)");
+｛Kazama＊＊｝ Because they are supporting
+me too.)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);

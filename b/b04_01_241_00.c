@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040124100_01_010");
-    MsgDisp("Kazama","Well, we're definitely in the middle of
-nature.
+    MsgDisp("Kazama","Well, we're definitely in the middle
+of nature.
 So, what should we do?");
     MsgDateResultDisp();
     break ;

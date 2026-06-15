@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_010");
         MsgDisp("Nanatsumori","Me?
-I'll just be looking for vintage stuff
-though.");
+I'll just be looking for vintage
+stuff though.");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -63,8 +63,7 @@ salesperson?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040412102_04_050");
-        MsgDisp("Nanatsumori","Right.
-...Huh?
+        MsgDisp("Nanatsumori","Right. ...Huh?
 Didn't you notice?");
         MsgDisp("主人公","Notice?");
         ChEye(4,0);
@@ -79,15 +78,14 @@ warmth to them.");
         VoicePlay("B040412102_04_070");
         MsgDisp("Nanatsumori","It feels like they put their feelings into
 each one of them.");
-        MsgDisp("主人公","Hmm.
-It's strange isn't it?");
+        MsgDisp("主人公","Hmm. It's strange isn't it?");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040412102_04_080");
-        MsgDisp("Nanatsumori","Rumour has it that the rings they make will
-bring happiness to each couple that wears
-them.");
+        MsgDisp("Nanatsumori","Rumour has it that the rings they make
+will bring happiness to each couple that
+wears them.");
         MsgDisp("主人公","Wow, how wonderful...!");
         ChEye(4,4);
         ChMouth(4,4);

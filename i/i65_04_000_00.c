@@ -86,8 +86,7 @@ What's up?");
     MsgDisp("Nanatsumori","Super nice-smelling hand cream.
 You must always be washing oil and dirt off
 your hands. Care for them with this.");
-    MsgDisp("主人公","Yeah.
-Waah, it really does smell good...!
+    MsgDisp("主人公","Yeah. Waah, it really does smell good...!
 Thanks!");
     ChEye(4,3);
     ChMouth(4,3);
@@ -95,8 +94,7 @@ Thanks!");
     VoicePlay("I650400000_04_090");
     MsgDisp("Nanatsumori","You're welcome.
 You don't get off until...how long?");
-    MsgDisp("主人公","Hm?
-Um, not for another hour...");
+    MsgDisp("主人公","Hm? Um, not for another hour...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);

@@ -38,15 +38,13 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B10501_04_010");
-MsgDisp("Nanatsumori","Yeah.
-...How should we do this?
+MsgDisp("Nanatsumori","Yeah. ...How should we do this?
 Rock-paper-scissors?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B10501_03_010");
-MsgDisp("Honda","Why?
-Let's all sing!");
+MsgDisp("Honda","Why? Let's all sing!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);
@@ -60,8 +58,8 @@ MsgDisp("Nanatsumori","Yeah.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","T-Then why don't we all take turns singing
-it?");
+MsgDisp("主人公","T-Then why don't we all take turns
+singing it?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

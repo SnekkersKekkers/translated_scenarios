@@ -2,14 +2,13 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("U032200001_22_000");
-MsgDisp("Hikaru","Hehe▼
-Here, this is for you.");
+MsgDisp("Hikaru","Hehe▼ Here, this is for you.");
 MsgDisp("主人公","A coffee cup?");
 ChMotion(22,3,1);
 VoicePlay("U032200001_22_010");
 MsgDisp("Hikaru","Yup.
-It's cute so Hikaru just had to buy it for
-you♪");
+It's cute so Hikaru just had to buy it
+for you♪");
 MsgSel("Accept animal print coffee cup","Decline it");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,8 +32,7 @@ stronger...)");
     VoicePlay("U032200001_22_030");
     MsgDisp("Hikaru","Let's play again soon!
 A bientot～!");
-    MsgDisp("主人公","Okay.
-See you later, ｛ひかる＊｝!");
+    MsgDisp("主人公","Okay. See you later, ｛ひかる＊｝!");
     break ;
     case 1:
     MsgDisp("主人公","I'm sorry but no thanks.");
@@ -42,8 +40,7 @@ See you later, ｛ひかる＊｝!");
     ChMouth(22,2);
     ChMotion(22,0,1);
     VoicePlay("U032200001_22_040");
-    MsgDisp("Hikaru","Oh?
-Did you not like it...");
+    MsgDisp("Hikaru","Oh? Did you not like it...");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);

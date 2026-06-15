@@ -37,8 +37,7 @@ I can even stand on my tippy toes.");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B040202201_02_030");
-    MsgDisp("Sassa","Eh?
-Does it seem that way?");
+    MsgDisp("Sassa","Eh? Does it seem that way?");
     MsgDateResultDisp();
     break ;
     default :

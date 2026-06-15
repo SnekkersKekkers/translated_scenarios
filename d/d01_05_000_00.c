@@ -47,12 +47,10 @@ VoiceEVSPlay(5);
 VoicePlay("D010500000_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
 What are you doing here?");
-MsgDisp("主人公","Eh...
-｛Hiiragi＊＊＊｝, is that you?");
+MsgDisp("主人公","Eh... ｛Hiiragi＊＊＊｝, is that you?");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500000_05_020");
-MsgDisp("Hiiragi","Yes.
-The show just ended.");
+MsgDisp("Hiiragi","Yes. The show just ended.");
 StlMouth(5,1);
 VoicePlay("D010500000_05_030");
 MsgDisp("Hiiragi","And you?");
@@ -92,14 +90,12 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
-MsgDisp("主人公","(Ah...
-He's back to normal.)");
+MsgDisp("主人公","(Ah... He's back to normal.)");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("D010500000_05_070");
-MsgDisp("Hiiragi","Hm?
-You look a bit disappointed now.");
+MsgDisp("Hiiragi","Hm? You look a bit disappointed now.");
 MsgDisp("主人公","Ah, it's not like that!
 ...Alright, I'm sorry.");
 ChEye(5,4);

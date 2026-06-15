@@ -64,14 +64,13 @@ EnvPlay("SE_ENV_BG_SC771_CO2",3,0.6);
 ScrFadeIn(4,120);
 Wait(40,0);
 MsgDisp("主人公","Woah...!
-Incredible, all the decorations are so
-pretty!");
+Incredible, all the decorations are
+so pretty!");
 StlEye(3,3);
 StlMouth(3,1);
 VoicePlay("R080300000_03_050");
 MsgDisp("Honda","Surprised?");
-MsgDisp("主人公","Yeah!
-But, where are we...?");
+MsgDisp("主人公","Yeah! But, where are we...?");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("R080300000_03_060");
@@ -149,8 +148,8 @@ ScrFadeOut(0);
 StlClose();
 MsgClose();
 MsgDisp("主人公","(｛Honda＊＊｝, thank you.
-For sharing your precious memories with
-me...)");
+For sharing your precious memories
+with me...)");
 MsgClose();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

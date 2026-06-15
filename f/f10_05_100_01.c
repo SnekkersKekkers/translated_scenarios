@@ -27,9 +27,8 @@ ChMotion(5,4);
 VoicePlay("F100510001_05_010");
 MsgDisp("Hiiragi","Do you have matters to discuss with me?
 What is it?");
-MsgDisp("主人公","No.
-I was just wondering if I could study with
-you.");
+MsgDisp("主人公","No. I was just wondering if I could study
+with you.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

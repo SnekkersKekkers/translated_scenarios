@@ -2,8 +2,8 @@ BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Huh?
-It looks like lunchtime is already halfway
-over.");
+It looks like lunchtime is already
+halfway over.");
 VoicePlay("G110500803_48_000");
 MsgDisp("School Girl","That's right, let's hurry to the Cafeteria!
 Let's go before the seats are all taken.");
@@ -23,8 +23,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500803_05_000");
-MsgDisp("Hiiragi","...Y-Yes.
-Ah, I'm sorry.
+MsgDisp("Hiiragi","...Y-Yes. Ah, I'm sorry.
 I ate here first.");
 MsgDisp("主人公","Ah, is that right.
 While working?");
@@ -39,8 +38,8 @@ VoicePlay("G110500803_05_010");
 MsgDisp("Hiiragi","Yes, I have to be efficient.");
 ChMouth(5,0);
 MsgDisp("主人公","(Huh?
-On ｛Hiiragi＊＊＊｝'s lips, is that...red bean
-paste?)");
+On ｛Hiiragi＊＊＊｝'s lips, is that...red
+bean paste?)");
 while (1){
     RunEverydaySksp(5,0,0,1,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -105,8 +104,8 @@ MsgDisp("Hiiragi","Phew... Yes, this is what they would call
 'grasping at straws' It doesn't have to be a
 full-score anpan though.");
 MsgDisp("主人公","Hehe.
-This makes me want to eat a full-score anpan
-too.");
+This makes me want to eat a full-score
+anpan too.");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);

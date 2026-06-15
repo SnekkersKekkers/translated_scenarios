@@ -15,8 +15,7 @@ Later.");
     case 3:
     VoicePlay("J030600001_06_020");
     MsgDisp("Himuro","I can't because I have plans that day.");
-    MsgDisp("主人公","I see.
-Too bad...");
+    MsgDisp("主人公","I see. Too bad...");
     VoicePlay("J030600001_06_030");
     MsgDisp("Himuro","Well, invite me again when you feel like it.
 See you later.");
@@ -31,8 +30,7 @@ See you later.");
     MsgDisp("主人公","Maybe you already have a plan?");
     VoicePlay("J030600001_06_050");
     MsgDisp("Himuro","Yeah...");
-    MsgDisp("主人公","I see.
-Well, I don't have a choice.
+    MsgDisp("主人公","I see. Well, I don't have a choice.
 I'll invite you next time, okay?");
     VoicePlay("J030600001_06_060");
     MsgDisp("Himuro","...Alright.

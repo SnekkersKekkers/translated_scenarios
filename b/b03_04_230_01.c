@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B030423001_04_010");
-    MsgDisp("Nanatsumori","Aah...
-Alright.
+    MsgDisp("Nanatsumori","Aah... Alright.
 Sure thing.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -38,8 +37,7 @@ Alright, I'm ready.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("B030423001_04_030");
-    MsgDisp("Nanatsumori","OK.
-We can take it easy.");
+    MsgDisp("Nanatsumori","OK. We can take it easy.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

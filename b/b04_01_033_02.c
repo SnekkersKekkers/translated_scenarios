@@ -27,8 +27,8 @@ I guess whatever you like, I like too.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040103302_01_020");
-    MsgDisp("Kazama","Your reflection in the tank is interesting
-too.");
+    MsgDisp("Kazama","Your reflection in the tank is
+interesting too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -72,8 +72,8 @@ too.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,7);
         VoicePlay("B040103302_01_050");
-        MsgDisp("Kazama","It's not really weird, or embarrassing at
-all.");
+        MsgDisp("Kazama","It's not really weird, or embarrassing
+at all.");
         SEPlay("EV_SE_064");
         SEWait();
         ChEye(1,4);
@@ -89,16 +89,15 @@ all.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,0);
         VoicePlay("B040103302_01_070");
-        MsgDisp("Kazama","If anyone wants to laugh, go ahead and let
-them.");
+        MsgDisp("Kazama","If anyone wants to laugh, go ahead and
+let them.");
         MsgDisp("主人公","Oh, yeah...");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0,1);
         VoicePlay("B040103302_01_080");
         MsgDisp("Kazama","You should just always be your natural self.");
-        MsgDisp("主人公","Yeah.
-Thank you, ｛Kazama＊＊｝.");
+        MsgDisp("主人公","Yeah. Thank you, ｛Kazama＊＊｝.");
         MsgDisp("主人公","(Is ｛Kazama＊＊｝ able to make his stomach
 growl any time...?)");
         break ;

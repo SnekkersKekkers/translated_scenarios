@@ -13,8 +13,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H1A0100000_01_000");
     MsgDisp("Kazama","Wow, you really did it.
 I feel kind of impressed.");
-    MsgDisp("主人公","Yeah.
-It's because everyone did their best!");
+    MsgDisp("主人公","Yeah. It's because everyone did their best!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -46,8 +45,7 @@ Thank you!");
     ChMotion(1,0);
     VoicePlay("H1A0100000_01_040");
     MsgDisp("Kazama","A smile befitting a winner.");
-    MsgDisp("主人公","Yeah...!
-What should I do, I'm so happy...");
+    MsgDisp("主人公","Yeah...! What should I do, I'm so happy...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.9);
     ChClose(1,0,30);
@@ -89,8 +87,7 @@ I'll forgive them.");
     VoicePlay("H1A0100000_01_090");
     MsgDisp("Kazama","Come on, go over to them.
 See you.");
-    MsgDisp("主人公","(Ooh...
-I'm so happy.
+    MsgDisp("主人公","(Ooh... I'm so happy.
 I'll always remember today!)");
     break ;
     default :

@@ -1,11 +1,10 @@
 MsgClose();
 ChOpen(2,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020210101_02_000");
-MsgDisp("Sassa","Remember when we went out with Ryota and
-Inori?
+MsgDisp("Sassa","Remember when we went out with Ryota
+and Inori?
 The four of us.");
-MsgDisp("主人公","Yeah.
-It was fun.");
+MsgDisp("主人公","Yeah. It was fun.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -39,8 +38,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020210101_02_050");
-MsgDisp("Sassa","...Hm?
-That's the same as usual then...");
+MsgDisp("Sassa","...Hm? That's the same as usual then...");
 MsgDisp("主人公","Hehe, if ｛Himuro＊＊｝ heard that, he'd be mad,
 you know?");
 ChEye(2,0);
@@ -53,15 +51,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210101_02_070");
-MsgDisp("Sassa","Ryota's inner thoughts...usually show on his
-face?");
+MsgDisp("Sassa","Ryota's inner thoughts...usually show on
+his face?");
 MsgDisp("主人公","Then what about ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020210101_02_080");
-MsgDisp("Sassa","Me...
-I would be quiet.");
+MsgDisp("Sassa","Me... I would be quiet.");
 MsgDisp("主人公","Ehh?");
 ChEye(2,0);
 ChMouth(2,4);

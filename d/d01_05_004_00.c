@@ -28,8 +28,8 @@ MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 He turned down the lead role offer...)");
 VoicePlay("D010500400_41_020");
 MsgDisp("Student B","Why though∋
-Everyone wants to see your professional
-acting.");
+Everyone wants to see your
+professional acting.");
 StlEye(5,0,1);
 VoicePlay("D010500400_05_010");
 MsgDisp("Hiiragi","...No, I have been put in charge of making
@@ -39,8 +39,8 @@ MsgDisp("Student A","I can do that!");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500400_05_020");
 MsgDisp("Hiiragi","...That is not possible.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, everyone is looking forward to
-it.
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, everyone is looking forward
+to it.
 Me too... I want to put on a show with you.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -59,8 +59,7 @@ MsgDisp("Student A","That's right.
 Everyone wants to see it.");
 ChEyeOpenLevel(5,7);
 VoicePlay("D010500400_44_010");
-MsgDisp("School Girl","Yeah!
-I want to see Hiiragi's acting.");
+MsgDisp("School Girl","Yeah! I want to see Hiiragi's acting.");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
@@ -83,8 +82,7 @@ SEStop("EV_SE_724",1);
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500400_05_050");
-MsgDisp("Hiiragi","...Phew.
-I am done with the backdrop.
+MsgDisp("Hiiragi","...Phew. I am done with the backdrop.
 Now I can do it without fear.");
 MsgDisp("主人公","...Eh?");
 BGMStop(2);
@@ -103,8 +101,7 @@ MsgDisp("主人公","∈");
 BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 SEPlay("EV_SE_GAYA_025",0,0.6);
 VoicePlay("D010500400_42_070");
-MsgDisp("Student A","Yes!
-Thanks a lot, Hiiragi!");
+MsgDisp("Student A","Yes! Thanks a lot, Hiiragi!");
 ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -115,8 +112,7 @@ VoicePlay("D010500400_44_020");
 MsgDisp("School Girl","Awesome!
 We'll get to see a real Theatre Company
 performance at our school! That's amazing!");
-MsgDisp("主人公","Yeah...!
-｛Hiiragi＊＊＊｝, thank you!");
+MsgDisp("主人公","Yeah...! ｛Hiiragi＊＊＊｝, thank you!");
 SEStop("EV_SE_GAYA_025",1.5);
 MsgClose();
 ScrFadeOut(0,0);
@@ -136,8 +132,7 @@ ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("D010500400_05_070");
 MsgDisp("Hiiragi","Yeah.
 There is no point in continuing alone, right?");
-MsgDisp("主人公","Yup.
-Everyone was really happy, though.");
+MsgDisp("主人公","Yup. Everyone was really happy, though.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,2);

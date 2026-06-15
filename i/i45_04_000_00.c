@@ -35,8 +35,8 @@ Well, work hard.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(Um...
-｛Nanatsumori＊｝, did you come to check on
-me?)");
+｛Nanatsumori＊｝, did you come to check
+on me?)");
     break ;
     case 3:
     MsgClose();
@@ -108,8 +108,7 @@ Maybe that's why?");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("I450400000_04_110");
-    MsgDisp("Nanatsumori","Hm.
-But, maybe there's something else...");
+    MsgDisp("Nanatsumori","Hm. But, maybe there's something else...");
     MsgClose();
     SEPlay("EV_SE_FOOT_039");
     ChClose(4,0,30);

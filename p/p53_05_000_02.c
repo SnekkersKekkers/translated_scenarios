@@ -28,8 +28,7 @@ my three years of hard work.");
     VoicePlay("P530500002_05_010");
     MsgDisp("Hiiragi","Yes.
 I'll close my eyes and search for your sound.");
-    MsgDisp("主人公","Eh?
-I want you to look carefully.");
+    MsgDisp("主人公","Eh? I want you to look carefully.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -90,15 +89,14 @@ performing on stage.");
     VoicePlay("P530500002_05_070");
     MsgDisp("Hiiragi","I wanted to relieve your stress, but it
 appears there's no need for that.");
-    MsgDisp("主人公","No.
-I calmed down seeing ｛Hiiragi＊＊＊｝'s face.");
+    MsgDisp("主人公","No. I calmed down seeing ｛Hiiragi＊＊＊｝'s face.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P530500002_05_080");
     MsgDisp("Hiiragi","Is that so.
-Then, I'll enjoy your performance without
-haste.");
+Then, I'll enjoy your performance
+without haste.");
     MsgDisp("主人公","So that I can satisfy ｛Hiiragi＊＊＊｝, I'll do
 my best.");
     ChEye(5,3);

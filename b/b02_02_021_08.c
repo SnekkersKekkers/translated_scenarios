@@ -2,8 +2,8 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0,1);
 VoicePlay("B020202108_02_000");
-MsgDisp("Sassa","Huh, don't you look a little different from
-usual?");
+MsgDisp("Sassa","Huh, don't you look a little different
+from usual?");
 MsgDisp("主人公","Ah, my clothes?
 Is it weird?");
 ChEye(2,0);

@@ -19,8 +19,7 @@ ChMotion(3,4,1);
 VoicePlay("P840300003_03_010");
 MsgDisp("Honda","Maybe, it never existed from the first
 place—?");
-MsgDisp("主人公","Eh?
-｛Honda＊＊｝.");
+MsgDisp("主人公","Eh? ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -32,8 +31,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P840300003_03_030");
-MsgDisp("Honda","Maybe it would be better if you took a little
-break?");
+MsgDisp("Honda","Maybe it would be better if you took a
+little break?");
 MsgDisp("主人公","(Sigh, it wasn't there in the first place.
 I'm sorry, I failed tremendously.)");
 MsgClose();

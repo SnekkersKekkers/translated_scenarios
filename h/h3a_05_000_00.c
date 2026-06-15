@@ -38,8 +38,7 @@ It was beautiful.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("H3A0500000_05_040");
-    MsgDisp("Hiiragi","Hm?
-No, perhaps it was you?");
+    MsgDisp("Hiiragi","Hm? No, perhaps it was you?");
     MsgDisp("主人公","(Yay!
 ｛Hiiragi＊＊＊｝ seems pleased, and I'm really
 glad I did my best in judo!)");

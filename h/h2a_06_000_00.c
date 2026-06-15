@@ -55,16 +55,15 @@ result wouldn't have happened.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("H2A0600000_06_060");
-    MsgDisp("Himuro","...It kinda feels like you've gotten further
-away.
+    MsgDisp("Himuro","...It kinda feels like you've gotten
+further away.
 It's a little frustrating.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600000_06_070");
-    MsgDisp("Himuro","Nah...
-Good work these past three years.");
+    MsgDisp("Himuro","Nah... Good work these past three years.");
     MsgDisp("主人公","(I'm glad that I stayed as the track and
 field club manager...!)");
     break ;

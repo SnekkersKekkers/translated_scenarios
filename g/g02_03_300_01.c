@@ -44,8 +44,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020330001_03_060");
 MsgDisp("Honda","Yeah.
-It's a different kind of fun from being with
-you.");
+It's a different kind of fun from being
+with you.");
 ChMotion(3,0);
 VoicePlay("G020330001_03_070");
 MsgDisp("Honda","Watching their reactions, those two are

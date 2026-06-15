@@ -23,8 +23,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310201_03_040");
-MsgDisp("Honda","This relationship feels really comfortable to
-me.
+MsgDisp("Honda","This relationship feels really comfortable
+to me.
 Honestly, I hope it continues forever.");
 ChEye(3,2);
 ChMouth(3,0);

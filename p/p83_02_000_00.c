@@ -33,8 +33,7 @@ for extinguishing fires.");
     VoicePlay("P830200000_02_020");
     MsgDisp("Sassa","If it's that much physical work, tell me.
 Hey, which classroom too next?");
-    MsgDisp("主人公","Ah...
-｛Sassa＊＊｝, thank you!");
+    MsgDisp("主人公","Ah... ｛Sassa＊＊｝, thank you!");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);
@@ -54,8 +53,7 @@ be placed in front of each classroom.)");
     VoicePlay("P830200000_02_030");
     MsgDisp("Sassa","｛主人公｝.
 I was waiting for you.");
-    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
-But...");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝. But...");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,3);

@@ -48,8 +48,8 @@ anyone there?");
         ChMotion(2,4);
         VoicePlay("B040208402_02_040");
         MsgDisp("Sassa","Ah, is that right?");
-        MsgDisp("主人公","Hehe, are you thinking back to the horror
-movie?");
+        MsgDisp("主人公","Hehe, are you thinking back to the
+horror movie?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

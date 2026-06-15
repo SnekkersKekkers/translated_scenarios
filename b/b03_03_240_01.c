@@ -27,8 +27,8 @@ Let's go and see what we can find!");
     ChMotion(3,1);
     VoicePlay("B030324001_03_020");
     MsgDisp("Honda","Yep yep, good idea.
-Let's pretend we're surviving on a desert
-island!");
+Let's pretend we're surviving on a
+desert island!");
     MsgDispSksp(0);
     break ;
     default :

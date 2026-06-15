@@ -48,8 +48,7 @@ sometimes...)");
     ScrFadeIn(0);
     VoicePlay("S120100002_01_030");
     MsgDisp("Kazama","Our New Year's visit is over.");
-    MsgDisp("主人公","Yeah.
-I think this year will be a good one.");
+    MsgDisp("主人公","Yeah. I think this year will be a good one.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -83,8 +82,7 @@ Come, let's get you home.");
     VoicePlay("S120100002_01_070");
     MsgDisp("Kazama","I still like the atmosphere here.
 It feels special, somehow.");
-    MsgDisp("主人公","Yep.
-Let's do our best this year again.");
+    MsgDisp("主人公","Yep. Let's do our best this year again.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

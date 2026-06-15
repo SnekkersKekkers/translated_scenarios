@@ -25,8 +25,7 @@ VoicePlay("H6G0200000_02_020");
 MsgDisp("Sassa","Of course.
 The grand prize is for first place, right?
 I'm here to lift you into the air.");
-MsgDisp("主人公","Huh∋
-We can't do something like that here.");
+MsgDisp("主人公","Huh∋ We can't do something like that here.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -56,7 +55,7 @@ ChClose(2);
 SEWait();
 MsgDisp("主人公","Thank you, ｛Sassa＊＊｝.");
 MsgDisp("主人公","(I'm so happy!
-I'm glad I worked so hard for the gardening
-club.)");
+I'm glad I worked so hard for the
+gardening club.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -23,8 +23,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040414001_04_020");
-    MsgDisp("Nanatsumori","Haha!
-That's fine too.
+    MsgDisp("Nanatsumori","Haha! That's fine too.
 It gets pretty exciting during the show.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -36,8 +35,7 @@ It gets pretty exciting during the show.");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("B040414001_04_030");
-    MsgDisp("Nanatsumori","Yeah.
-No problem.");
+    MsgDisp("Nanatsumori","Yeah. No problem.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -37,8 +37,7 @@ VoiceEVSPlay(7);
 VoicePlay("D140C06100_07_010");
 MsgDisp("Mikage","｛主人公｝ and Inori.
 Both of you, eat up and cheer up.");
-MsgDisp("主人公","Yes.
-...｛Himuro＊＊｝ as well?");
+MsgDisp("主人公","Yes. ...｛Himuro＊＊｝ as well?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -51,8 +50,9 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C06100_06_030");
-MsgDisp("Himuro","What's with that? Acting like you're the only
-one who's spectating.");
+MsgDisp("Himuro","What's with that?
+Acting like you're the only one who's
+spectating.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -83,8 +83,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("D140C06100_06_060");
-MsgDisp("Himuro","Ehhh....
-Then, let's leave it here for today.");
+MsgDisp("Himuro","Ehhh.... Then, let's leave it here for today.");
 MsgDisp("主人公","(Both of them are worried about my
 relationship with ｛Hiiragi＊＊＊｝...
 I'm thankful.)");

@@ -16,8 +16,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G110200802_02_010");
 MsgDisp("Sassa","Yeah, with you.
-When the weather's nice I feel like moving
-about.");
+When the weather's nice I feel like
+moving about.");
 MsgDisp("主人公","Hehe, maybe.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -40,8 +40,7 @@ ChOpen(2,100,0,1,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200802_02_030");
 MsgDisp("Sassa","Hey, remember when we went to the ranch?");
-MsgDisp("主人公","Yeah.
-We milked cows, right?");
+MsgDisp("主人公","Yeah. We milked cows, right?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -59,8 +58,7 @@ ChMotion(2,1);
 VoicePlay("G110200802_02_060");
 MsgDisp("Sassa","But recently, I've suddenly had a vision of
 you milking a cow...");
-MsgDisp("主人公","Ehhh-∋
-W-What is that?");
+MsgDisp("主人公","Ehhh-∋ W-What is that?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -78,8 +76,8 @@ MsgClose();
 ChOpen(2,41,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200802_02_080");
-MsgDisp("Sassa","I wonder if there's anything I can do about
-this?");
+MsgDisp("Sassa","I wonder if there's anything I can do
+about this?");
 MsgDisp("主人公","I'm troubled now that you've told me that...");
 ChEye(2,2);
 ChMouth(2,4);

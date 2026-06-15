@@ -8,8 +8,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,254,0,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H2A0400001_04_000");
-    MsgDisp("Nanatsumori","Yo.
-Good work.");
+    MsgDisp("Nanatsumori","Yo. Good work.");
     MsgDisp("主人公","｛Nanatsumori＊｝...");
     ChEye(4,2);
     ChMouth(4,3);
@@ -40,14 +39,12 @@ manager...)");
     VoicePlay("H2A0400001_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.
 Good work.");
-    MsgDisp("主人公","｛Nanatsumori＊｝...
-Ugh...");
+    MsgDisp("主人公","｛Nanatsumori＊｝... Ugh...");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("H2A0400001_04_050");
-    MsgDisp("Nanatsumori","Wait.
-Don't start crying right here.");
+    MsgDisp("Nanatsumori","Wait. Don't start crying right here.");
     MsgDisp("主人公","Huh...");
     ChEye(4,2);
     ChMouth(4,2);
@@ -60,8 +57,7 @@ I think I really will.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("H2A0400001_04_070");
-    MsgDisp("Nanatsumori","Yeah.
-That's good.
+    MsgDisp("Nanatsumori","Yeah. That's good.
 Your smiling face.");
     ChEye(4,4);
     ChMouth(4,3);

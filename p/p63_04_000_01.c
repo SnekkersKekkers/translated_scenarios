@@ -26,9 +26,9 @@ Welcome～!");
     MsgDisp("Nanatsumori","Do you eat the herbal tea and vegetables
 together?
 Here.");
-    MsgDisp("主人公","Nope. You drink the herbal tea here though, but
-the Gardening Club's organic vegetables are
-sold directly.");
+    MsgDisp("主人公","Nope. You drink the herbal tea here though,
+but the Gardening Club's organic vegetables
+are sold directly.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -38,8 +38,7 @@ sold directly.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("P630400001_04_030");
-    MsgDisp("Nanatsumori","Hmm.
-Then first I'll go for some tea.");
+    MsgDisp("Nanatsumori","Hmm. Then first I'll go for some tea.");
     MsgDisp("主人公","Then, please come in!");
     break ;
     case 4:

@@ -1,8 +1,7 @@
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("Z813200061_32_000");
-MsgDisp("VP Himuro","...Hm.
-Very well.");
+MsgDisp("VP Himuro","...Hm. Very well.");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("Z813200061_32_010");

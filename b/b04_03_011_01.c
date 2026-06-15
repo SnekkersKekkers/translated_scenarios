@@ -27,8 +27,7 @@ growing out of the earth!");
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("B040301101_03_020");
-    MsgDisp("Honda","Eh, me?
-Why?
+    MsgDisp("Honda","Eh, me? Why?
 You should look at the scenery.");
     MsgDateResultDisp();
     break ;
@@ -38,8 +37,8 @@ You should look at the scenery.");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("B040301101_03_030");
-    MsgDisp("Honda","Yepyep, looking at it again this way, I think so
-too.");
+    MsgDisp("Honda","Yepyep, looking at it again this way, I think
+so too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

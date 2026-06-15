@@ -9,12 +9,10 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("S110500000_05_000");
 MsgDisp("Hiiragi","It was Very Bad Luck.");
-MsgDisp("主人公","Uhm...
-Are you okay?");
+MsgDisp("主人公","Uhm... Are you okay?");
 ChMotion(5,4);
 VoicePlay("S110500000_05_010");
-MsgDisp("Hiiragi","Yeah.
-I actually get this one a lot.
+MsgDisp("Hiiragi","Yeah. I actually get this one a lot.
 Very Bad Luck.");
 MsgDisp("主人公","Really?
 That's worrying.");

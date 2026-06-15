@@ -26,8 +26,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("F020600001_06_020");
-MsgDisp("Himuro","Overall, it's just not a very realistic
-story.");
+MsgDisp("Himuro","Overall, it's just not a very
+realistic story.");
 MsgDisp("主人公","...so you know the story well?");
 ChEye(6,0);
 ChMouth(6,0);

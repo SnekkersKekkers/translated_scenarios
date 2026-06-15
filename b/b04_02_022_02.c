@@ -66,8 +66,7 @@ want to go.");
         MsgDisp("Sassa","Whether I like the place or not, I want to go
 everywhere with you.
 ...That's the truth.");
-        MsgDisp("主人公","I see.
-That makes me happy.");
+        MsgDisp("主人公","I see. That makes me happy.");
         ChEye(2,4);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -91,8 +90,7 @@ to many different places in the future.)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040202202_02_080");
-    MsgDisp("Sassa","I see.
-That's a good way to enjoy yourself.
+    MsgDisp("Sassa","I see. That's a good way to enjoy yourself.
 Next time, I'll try that too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

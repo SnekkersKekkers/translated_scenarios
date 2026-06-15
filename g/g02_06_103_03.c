@@ -46,8 +46,7 @@ ChEyeOpenLevel(6,0);
 VoicePlay("G020610303_06_060");
 MsgDisp("Himuro","It's not something you can just handle by
 being careful.");
-MsgDisp("主人公","Ehh?
-Then, what should I do...");
+MsgDisp("主人公","Ehh? Then, what should I do...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -60,8 +59,7 @@ ChCheek(6,10);
 VoicePlay("G020610303_06_080");
 MsgDisp("Himuro","If there's already a guy next to you, no one
 would dare approach.");
-MsgDisp("主人公","I see.
-But, who...?");
+MsgDisp("主人公","I see. But, who...?");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);

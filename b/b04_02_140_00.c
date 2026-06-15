@@ -27,8 +27,7 @@ It was seriously the best!");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040214000_02_020");
-    MsgDisp("Sassa","Huh?
-That's no good.");
+    MsgDisp("Sassa","Huh? That's no good.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -37,8 +36,7 @@ That's no good.");
     ChMouth(2,0);
     ChMotion(2,5);
     VoicePlay("B040214000_02_030");
-    MsgDisp("Sassa","Ehh?
-This is what a band is like live.");
+    MsgDisp("Sassa","Ehh? This is what a band is like live.");
     MsgDateResultDisp();
     break ;
     default :

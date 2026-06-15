@@ -28,8 +28,8 @@ I wonder why?");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040223302_02_020");
-    MsgDisp("Sassa","Yeah, next time I want to jump at the same
-time");
+    MsgDisp("Sassa","Yeah, next time I want to jump at the
+same time");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -105,17 +105,17 @@ I'm aware I can be a bit off.");
         MsgDisp("Sassa","So, if I'm acting weird, let me know.
 As long as you're watching, I don't think
 I'll chase anyone until they cry.");
-        MsgDisp("主人公","Hehe.
-But you already don't play tag anymore? If
-you did, you'd catch everyone in an instant.");
+        MsgDisp("主人公","Hehe. But you already don't play tag anymore?
+If you did, you'd catch everyone in an
+instant.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223302_02_120");
         MsgDisp("Sassa","Then, just so I won't be mean to you, I'll be
 careful.");
-        MsgDisp("主人公","(Maybe this is a worry only ｛Sassa＊＊｝
-has...)");
+        MsgDisp("主人公","(Maybe this is a worry only
+｛Sassa＊＊｝ has...)");
         break ;
         default :
         DbgAssert(1);

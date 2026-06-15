@@ -12,5 +12,5 @@ MsgDisp("Honda","Exactly, you struck the perfect balance!
 Even if I tried, I could never pull it off
 the way you do.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like this,
-too.)");
+｛Honda＊＊｝ seems to like clothes like
+this, too.)");

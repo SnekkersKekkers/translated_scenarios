@@ -19,11 +19,10 @@ Welcome!");
     ChMouth(4,1);
     ChMotion(4,4,1);
     VoicePlay("I350400000_04_010");
-    MsgDisp("Nanatsumori","Aah...
-Shh∈
-You're. Too. Loud.");
-    MsgDisp("主人公","Ah...
-I'm sorry.");
+    MsgDisp("Nanatsumori","Aah... Shh∈
+You're.
+Too. Loud.");
+    MsgDisp("主人公","Ah... I'm sorry.");
     ChEye(4,2);
     ChMouth(4,0);
     ChMotion(4,0,1);
@@ -55,8 +54,7 @@ Then, could I get a menu?");
 Thank you for coming!");
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_050");
-    MsgDisp("Nanatsumori","Yeah.
-But, I gotta go soon.
+    MsgDisp("Nanatsumori","Yeah. But, I gotta go soon.
 I just came to say hi.");
     MsgDisp("主人公","Oh, is that so?");
     ChMotion(4,0,1);
@@ -91,8 +89,7 @@ Well, see you later.");
     ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I350400000_04_080");
     MsgDisp("Nanatsumori","Yo, hello.");
-    MsgDisp("主人公","Ah...
-Welcome!");
+    MsgDisp("主人公","Ah... Welcome!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

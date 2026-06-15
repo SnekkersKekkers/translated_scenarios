@@ -21,8 +21,8 @@ to the party!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("R060100003_01_020");
-    MsgDisp("Kazama","It would have been quicker if we just traded
-then.
+    MsgDisp("Kazama","It would have been quicker if we just
+traded then.
 Alright, let's open them.");
     MsgDisp("主人公","Yeah, I'm excited too!");
     break ;
@@ -34,9 +34,9 @@ Alright, let's open them.");
     VoicePlay("R060100003_01_030");
     MsgDisp("Kazama","Woah.
 I can't believe that you got my present.");
-    MsgDisp("主人公","Huh∋
-This is yours? ｛Kazama＊＊｝, you got the
-present that I brought!");
+    MsgDisp("主人公","Huh∋ This is yours?
+｛Kazama＊＊｝, you got the present that I
+brought!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -50,8 +50,7 @@ present that I brought!");
     ChEyeOpenLevel(1,8);
     VoicePlay("R060100003_01_050");
     MsgDisp("Kazama","...Speaking of, do you believe in fate?");
-    MsgDisp("主人公","Yeah!
-Well then, shall we open our gifts?");
+    MsgDisp("主人公","Yeah! Well then, shall we open our gifts?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -67,8 +66,7 @@ Well then, shall we open our gifts?");
     ChMotion(1,0);
     VoicePlay("R060100003_01_070");
     MsgDisp("Kazama","You really got my present...");
-    MsgDisp("主人公","Huh...
-This is your present, ｛Kazama＊＊｝?");
+    MsgDisp("主人公","Huh... This is your present, ｛Kazama＊＊｝?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

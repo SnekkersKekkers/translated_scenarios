@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040101102_01_010");
-    MsgDisp("Kazama","OK!
-Then we'll start back-to-back!");
+    MsgDisp("Kazama","OK! Then we'll start back-to-back!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -60,8 +59,8 @@ like it's going to collapse.");
         ChMouth(1,3);
         VoicePlay("B040101102_01_050");
         MsgDisp("Kazama","Ooh.
-It's precious that you're that worried for
-me.");
+It's precious that you're that worried
+for me.");
         ChClose(1,0,30);
         ChLayout(2);
         SEPlay("EV_SE_544");

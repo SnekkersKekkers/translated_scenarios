@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040422202_04_010");
     MsgDisp("Nanatsumori","Got it.
-I feel like I'm getting somewhat interested
-too.");
+I feel like I'm getting somewhat
+interested too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -31,8 +31,7 @@ too.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,10);
     VoicePlay("B040422202_04_020");
-    MsgDisp("Nanatsumori","Eh? 
-Then, why did we come here?");
+    MsgDisp("Nanatsumori","Eh? Then, why did we come here?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -47,8 +46,7 @@ Then, why did we come here?");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040422202_04_030");
-        MsgDisp("Nanatsumori","Uh...
-There's no need for stuff like that.");
+        MsgDisp("Nanatsumori","Uh... There's no need for stuff like that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -64,15 +62,13 @@ There's no need for stuff like that.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040422202_04_050");
-        MsgDisp("Nanatsumori","Hmm.
-I don't think it's suited for a date.");
+        MsgDisp("Nanatsumori","Hmm. I don't think it's suited for a date.");
         MsgDisp("主人公","I see.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,1,1);
         VoicePlay("B040422202_04_060");
-        MsgDisp("Nanatsumori","So?
-Why is coming here with me fun for you?");
+        MsgDisp("Nanatsumori","So? Why is coming here with me fun for you?");
         MsgDisp("主人公","That's because...
 It feels like we're going back in time, the
 two of us.");

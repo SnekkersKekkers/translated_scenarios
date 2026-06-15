@@ -28,8 +28,7 @@ ChEyeOpenLevel(5,8);
 ChCheek(5,5);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500700_05_020");
-MsgDisp("Hiiragi","Yes.
-I got too excited and fell over.");
+MsgDisp("Hiiragi","Yes. I got too excited and fell over.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
@@ -52,8 +51,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500700_05_040");
-MsgDisp("Hiiragi","Well, it was a rare defining moment, wasn't
-it?");
+MsgDisp("Hiiragi","Well, it was a rare defining moment,
+wasn't it?");
 MsgDisp("主人公","Hehe, yes.
 I'm glad I didn't miss it.");
 ChEye(5,1);

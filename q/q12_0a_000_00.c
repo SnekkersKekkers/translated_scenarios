@@ -14,8 +14,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q120A00000_01_000");
-MsgDisp("Kazama","Ah.
-Nagasaki was a nice city.");
+MsgDisp("Kazama","Ah. Nagasaki was a nice city.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -34,8 +33,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q120A00000_01_020");
-MsgDisp("Kazama","This school trip made me really glad I came
-back.");
+MsgDisp("Kazama","This school trip made me really glad I
+came back.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
@@ -71,8 +70,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q120A00000_02_030");
 MsgDisp("Sassa","......");
-MsgDisp("主人公","...Hmmm?
-What's up with the two of you?");
+MsgDisp("主人公","...Hmmm? What's up with the two of you?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -97,8 +95,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q120A00000_01_070");
-MsgDisp("Kazama","Yeah.
-I'm sure he's watching from somewhere.");
+MsgDisp("Kazama","Yeah. I'm sure he's watching from somewhere.");
 MsgDisp("主人公","(Hehe, it was a really fun school trip.
 Thanks to you two.
 Thanks.)");

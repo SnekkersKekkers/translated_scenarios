@@ -18,8 +18,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 ChMotion(4,0,1);
 VoicePlay("D140400000_04_020");
-MsgDisp("Nanatsumori","OK.
-Let's go.");
+MsgDisp("Nanatsumori","OK. Let's go.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

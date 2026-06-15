@@ -5,8 +5,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("P640600003_06_000");
 MsgDisp("Himuro","Ugh...
-This is going to make me hate vegetables even
-more.");
+This is going to make me hate vegetables
+even more.");
 MsgDisp("主人公","Ehhh!");
 ChEye(6,1);
 ChMouth(6,0);

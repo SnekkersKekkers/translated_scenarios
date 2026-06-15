@@ -49,8 +49,8 @@ above-ground tanks is already pretty absurd.");
         MsgDisp("Honda","Yeah! So with more research, deep-sea fish
 'swimming' in the sky might be possible,
 right? I'm getting really excited∈");
-        MsgDisp("主人公","Hehe, ｛Honda＊＊｝ looks like you're having
-fun.");
+        MsgDisp("主人公","Hehe, ｛Honda＊＊｝ looks like you're
+having fun.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -65,9 +65,9 @@ You're exaggerating.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040303202_03_060");
-        MsgDisp("Honda","But, if you weren't with me, my deep-sea fish
-would have never been able to fly through the
-sky.");
+        MsgDisp("Honda","But, if you weren't with me, my deep-sea
+fish would have never been able to fly
+through the sky.");
         MsgDisp("主人公","(I'd be very happy if I was able to inspire
 ｛Honda＊＊｝)");
         break ;

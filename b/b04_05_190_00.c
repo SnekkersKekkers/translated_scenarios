@@ -22,8 +22,8 @@ looked it was perfect.");
     ChEye(5,2);
     ChMotion(5,4);
     VoicePlay("B040519000_05_010");
-    MsgDisp("Hiiragi","I agree that the second half felt a bit
-rushed.
+    MsgDisp("Hiiragi","I agree that the second half felt a
+bit rushed.
 But even so, it was still great.");
     MsgDateResultDisp();
     break ;

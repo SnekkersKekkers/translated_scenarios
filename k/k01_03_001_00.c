@@ -16,8 +16,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("K010300100_03_000");
-    MsgDisp("Honda","Hm?
-What's up?");
+    MsgDisp("Honda","Hm? What's up?");
     MsgDisp("主人公","Today's your birthday, right?
 Here, a present.");
     SEPlay("EV_SE_664");
@@ -49,8 +48,7 @@ Your present.");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("K010300100_03_040");
-    MsgDisp("Honda","Wah!
-You remembered!?");
+    MsgDisp("Honda","Wah! You remembered!?");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,0);
@@ -85,8 +83,7 @@ This is your present.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("K010300100_03_080");
-    MsgDisp("Honda","Yay!
-Hey, can I open it right now?");
+    MsgDisp("Honda","Yay! Hey, can I open it right now?");
     MsgDisp("主人公","Yeah, of course!");
     break ;
     default :

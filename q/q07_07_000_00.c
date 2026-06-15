@@ -4,8 +4,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...the windmills and flowers are so
-pretty!");
+MsgDisp("主人公","Wow...the windmills and flowers are
+so pretty!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -73,8 +73,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_060");
 MsgDisp("Mikage","That type is the most terrifying.
-Not the modern skyscrapers, but the old
-stuff.");
+Not the modern skyscrapers, but the
+old stuff.");
 VoicePlay("Q070700000_46_000");
 MsgDisp("Girl A","Let's go to the observation room next!");
 VoicePlay("Q070700000_47_000");
@@ -83,8 +83,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("Q070700000_07_070");
-MsgDisp("Mikage","Phew...
-Maybe I can get there today.");
+MsgDisp("Mikage","Phew... Maybe I can get there today.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -118,8 +117,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_090");
 MsgDisp("Mikage","Yes.
-Maybe the owner of this place liked flowers a
-lot.");
+Maybe the owner of this place liked flowers
+a lot.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -132,8 +131,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_110");
-MsgDisp("Mikage","I guess I'd plant pretty flowers from that
-land?");
+MsgDisp("Mikage","I guess I'd plant pretty flowers from
+that land?");
 MsgDisp("主人公","Pretty flowers from that land...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -157,8 +156,7 @@ ChMotion(7,1);
 VoicePlay("Q070700000_07_140");
 MsgDisp("Mikage","Yeah.
 Healthy and beautiful flowers like you all.");
-MsgDisp("主人公","Hehe!
-I'm happy.");
+MsgDisp("主人公","Hehe! I'm happy.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -176,8 +174,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("Q070700000_07_170");
-MsgDisp("Mikage","That makes me think of merchants from the
-west.
+MsgDisp("Mikage","That makes me think of merchants from
+the west.
 That'd make a good extracurricular lesson.");
 MsgDisp("主人公","(｛Mikage＊＊｝...?
 He's acting a bit strange...)");

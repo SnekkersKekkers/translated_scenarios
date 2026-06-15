@@ -23,8 +23,8 @@ VoicePlay("B330B30700_03_000");
 MsgDisp("Honda","Hmm, an interesting comment!
 What do you find strange about it?");
 MsgDisp("主人公","Hmmm...
-Maybe it's the cute colours or how fluffy it
-feels?");
+Maybe it's the cute colours or how fluffy
+it feels?");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,5,1);
@@ -52,8 +52,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B30700_03_020");
-MsgDisp("Honda","Bzzt!
-This is a—");
+MsgDisp("Honda","Bzzt! This is a—");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,2,1);

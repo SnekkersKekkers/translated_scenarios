@@ -26,14 +26,13 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("D150001600_01_010");
-MsgDisp("Kazama","Heh, you can't see what's right under your
-nose.");
+MsgDisp("Kazama","Heh, you can't see what's right under
+your nose.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("D150001600_06_020");
-MsgDisp("Himuro","Huh?
-What do you mean?");
+MsgDisp("Himuro","Huh? What do you mean?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -66,8 +65,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,3);
 VoicePlay("D150001600_01_040");
-MsgDisp("Kazama","Just so you know, we're mostly talking about
-you.");
+MsgDisp("Kazama","Just so you know, we're mostly talking
+about you.");
 MsgDisp("主人公","Ehh∋");
 BGMStop();
 MsgClose();

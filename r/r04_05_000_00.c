@@ -10,8 +10,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("R040500000_05_000");
     MsgDisp("Hiiragi","Good evening.
 Glad you're here.");
-    MsgDisp("主人公","Yeah.
-Merry Christmas, ｛Hiiragi＊＊＊｝.");
+    MsgDisp("主人公","Yeah. Merry Christmas, ｛Hiiragi＊＊＊｝.");
     break ;
     case 3:
     MsgClose();

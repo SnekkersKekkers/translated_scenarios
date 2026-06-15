@@ -34,7 +34,7 @@ VoicePlay("H7G0400000_04_040");
 MsgDisp("Nanatsumori","Congrats.
 I really respect you.");
 MsgDisp("主人公","(That makes me so happy...
-I'm really glad I stayed in the handicrafts
-club!)");
+I'm really glad I stayed in the
+handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

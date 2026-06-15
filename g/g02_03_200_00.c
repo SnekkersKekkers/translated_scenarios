@@ -27,8 +27,8 @@ ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020320000_03_040");
 MsgDisp("Honda","But what about you?
-If you're forcing yourself, that's not what I
-want.");
+If you're forcing yourself, that's not what
+I want.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,0);

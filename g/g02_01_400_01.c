@@ -10,9 +10,9 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020140001_01_010");
-MsgDisp("Kazama","Like your little red backpack or the green
-and yellow traffic safety ribbons on your
-hat.");
+MsgDisp("Kazama","Like your little red backpack or the
+green and yellow traffic safety ribbons
+on your hat.");
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,#1);

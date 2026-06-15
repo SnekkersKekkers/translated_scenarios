@@ -46,9 +46,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020730001_07_060");
-MsgDisp("Mikage","Thank you.
-Sigh... I've said too much. Let's take our
-time and burn it into our memory.");
+MsgDisp("Mikage","Thank you. Sigh...
+I've said too much. Let's take our time and
+burn it into our memory.");
 MsgDisp("主人公","(｛Mikage＊＊｝ is always thinking of us...
 that makes me happy.)");
 BGMStop();

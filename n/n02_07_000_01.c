@@ -7,8 +7,7 @@ switch (ChPrmGet(7,6)){
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("N020700001_07_000");
-    MsgDisp("Mikage","Yo.
-You're working hard.
+    MsgDisp("Mikage","Yo. You're working hard.
 These are great results.");
     MsgDisp("主人公","Yes, I did do my best!");
     ChEye(7,0);
@@ -49,8 +48,7 @@ Then you can accomplish anything.");
     VoiceEVSPlay(7);
     VoicePlay("N020700001_07_040");
     MsgDisp("Mikage","｛主人公｝, those are good results.");
-    MsgDisp("主人公","｛Mikage＊＊｝, thank you very much.
-But...
+    MsgDisp("主人公","｛Mikage＊＊｝, thank you very much. But...
 I think I could have tried a little harder.");
     ChEye(7,0);
     ChMouth(7,3);

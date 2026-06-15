@@ -16,8 +16,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("P540600002_06_010");
-MsgDisp("Himuro","Even if I don't give my opinion, you know it
-right?");
+MsgDisp("Himuro","Even if I don't give my opinion, you know
+it right?");
 MsgDisp("主人公","That's certainly feedback, though...");
 ChEye(6,3);
 ChMouth(6,3);
@@ -39,8 +39,7 @@ ChMotion(6,0);
 VoicePlay("P540600002_06_040");
 MsgDisp("Himuro","I should be saying thanks, thank you.
 For a good time.");
-MsgDisp("主人公","(Yay!
-I was praised by ｛Himuro＊＊｝!)");
+MsgDisp("主人公","(Yay! I was praised by ｛Himuro＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

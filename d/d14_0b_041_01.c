@@ -14,8 +14,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140B04101_01_000");
-MsgDisp("Kazama","Haba High's school cafeteria is so high
-level.");
+MsgDisp("Kazama","Haba High's school cafeteria is so
+high level.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -41,8 +41,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D140B04101_01_020");
 MsgDisp("Kazama","He was probably on a work call.
-He was taking notes while he was on the
-phone.");
+He was taking notes while he was on
+the phone.");
 MsgDisp("主人公","So that's how it is.");
 ChEye(1,4);
 ChMouth(1,2);
@@ -67,8 +67,8 @@ ChMotion(3,3,1);
 VoicePlay("D140B04101_03_040");
 MsgDisp("Honda","Ryo-kun, nice idea!");
 MsgDisp("主人公","(Hehe!
-Both of these two have a gentle side to
-them.)");
+Both of these two have a gentle side
+to them.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

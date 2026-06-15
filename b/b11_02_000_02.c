@@ -21,8 +21,7 @@ I have nothing to talk about.");
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110200002_35_010");
-MsgDisp("Guy","Ah, you don't?
-I do.
+MsgDisp("Guy","Ah, you don't? I do.
 Alright let's go.");
 VoicePlay("B110200002_02_000");
 MsgDisp("Sassa?","What business do you have with her?");

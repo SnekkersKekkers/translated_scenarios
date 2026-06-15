@@ -12,8 +12,7 @@ Welcome!");
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450700000_07_000");
     MsgDisp("Mikage","Yo, working energetically?");
-    MsgDisp("主人公","Yes.
-Working at the flower shop is fun.");
+    MsgDisp("主人公","Yes. Working at the flower shop is fun.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0,1);
@@ -26,8 +25,8 @@ I like being surrounded by flowers, too.");
     ChMotion(7,1);
     VoicePlay("I450700000_07_020");
     MsgDisp("Mikage","Our tastes match.
-Now, I'll ask you to show me around the
-store.");
+Now, I'll ask you to show me around
+the store.");
     MsgDisp("主人公","Hehe, please take your time choosing.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -92,9 +91,9 @@ Thanks.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I450700000_07_090");
-    MsgDisp("Mikage","There's a baby boom over at my family's place.
-I was going to take a picture of the bouquet
-and send that.");
+    MsgDisp("Mikage","There's a baby boom over at my family's
+place. I was going to take a picture of the
+bouquet and send that.");
     MsgDisp("主人公","Congratulations!");
     ChEye(7,2);
     ChMouth(7,3);
@@ -158,8 +157,7 @@ room even a little more comfortable for you,
     ChMotion(7,0);
     ChEyeOpenLevel(7,8);
     VoicePlay("I450700000_07_160");
-    MsgDisp("Mikage","What?
-You say the nicest things.");
+    MsgDisp("Mikage","What? You say the nicest things.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,4);

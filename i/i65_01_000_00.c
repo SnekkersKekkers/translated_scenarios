@@ -82,8 +82,8 @@ But, are you refuelling something?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_080");
-    MsgDisp("Kazama","...Sigh, thanks for the full tank of high
-octane.");
+    MsgDisp("Kazama","...Sigh, thanks for the full tank of
+high octane.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -131,16 +131,15 @@ What's up?");
     ChMotion(1,0);
     VoicePlay("I650100000_01_120");
     MsgDisp("Kazama","Hey, get a different part-time job.");
-    MsgDisp("主人公","Huh∋
-Why?");
+    MsgDisp("主人公","Huh∋ Why?");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("I650100000_01_130");
     MsgDisp("Kazama","What are you going to do if you get caught\nup in something like that when I'm not\nhere?");
     MsgDisp("主人公","Um, I'll be fine?
-Their cars are crazy, but they're nice
-people.");
+Their cars are crazy, but they're
+nice people.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -159,11 +158,10 @@ They're fashionable and fun old-timers.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("I650100000_01_160");
-    MsgDisp("Kazama","Ah, I see.
-...Geez.
+    MsgDisp("Kazama","Ah, I see. ...Geez.
 Don't make me worry.");
-    MsgDisp("主人公","They jokingly ask me if I want a ride pretty
-often.");
+    MsgDisp("主人公","They jokingly ask me if I want a ride
+pretty often.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -176,8 +174,7 @@ often.");
     ChEyeOpenLevel(1,8);
     VoicePlay("I650100000_01_180");
     MsgDisp("Kazama","Listen to me.\nYour powers of attraction work\non all ages. Keep your smiles at just 20%.");
-    MsgDisp("主人公","Geez!
-What are you talking about?");
+    MsgDisp("主人公","Geez! What are you talking about?");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,3);

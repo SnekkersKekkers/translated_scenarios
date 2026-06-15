@@ -36,8 +36,8 @@ Welcome back!");
     ChMotion(5,0);
     VoicePlay("P830500002_05_020");
     MsgDisp("Hiiragi","This is the last time we'll get to manage the
-school festival.
-I want to see a smile that's befitting of you.");
+school festival. I want to see a smile that's
+befitting of you.");
     MsgDisp("主人公","(I see, that's right...
 I have to leave room to enjoy myself too!)");
     MsgClose();
@@ -69,8 +69,7 @@ I'm off!");
     VoicePlay("P830500002_05_030");
     MsgDisp("Hiiragi","Yeah, it really feels like the cultural
 festival is in full swing.");
-    MsgDisp("主人公","｛Hiiragi＊＊＊｝, welcome back.
-...phew.");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, welcome back. ...phew.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);

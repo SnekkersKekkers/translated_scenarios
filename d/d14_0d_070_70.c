@@ -39,8 +39,7 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D140D07070_22_020");
-MsgDisp("Hikaru","Aha!
-Mari is so cute～▼");
+MsgDisp("Hikaru","Aha! Mari is so cute～▼");
 MsgDisp("主人公","(Ugh...
 Now everytime I see ｛Mikage＊＊｝, I'll
 think about croissants...)");

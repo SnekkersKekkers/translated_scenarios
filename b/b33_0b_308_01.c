@@ -24,8 +24,7 @@ MsgDisp("Nanatsumori","Ehhh, is that so?");
 ChEye(1,0);
 ChMotion(1,1);
 VoicePlay("B330B30801_01_010");
-MsgDisp("Kazama","It is.
-Look, it's a closed room.");
+MsgDisp("Kazama","It is. Look, it's a closed room.");
 MsgDisp("主人公","Hehe!");
 ChEye(3,0);
 ChMouth(3,4);

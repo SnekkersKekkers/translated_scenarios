@@ -45,8 +45,8 @@ Huh? That's your specialty.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040308202_03_030");
-        MsgDisp("Honda","When I'm with you, I'm always discovering new
-things.");
+        MsgDisp("Honda","When I'm with you, I'm always discovering
+new things.");
         MsgDisp("主人公","You're exaggerating there.");
         ChEye(3,4);
         ChMouth(3,0);
@@ -81,8 +81,8 @@ feelings.");
         ChSet(3,5);
         VoicePlay("B040308202_03_080");
         MsgDisp("Honda","Ehh!
-Could it be that it doesn't click for you
-too?");
+Could it be that it doesn't click for
+you too?");
         MsgDisp("主人公","No, ｛Honda＊＊｝'s conversations are super
 interesting.");
         ChEye(3,3);
@@ -91,8 +91,8 @@ interesting.");
         VoicePlay("B040308202_03_090");
         MsgDisp("Honda","I'm glad.
 Then, let's go another round!");
-        MsgDisp("主人公","(Hehe, must've been tough on his sister,
-huh?)");
+        MsgDisp("主人公","(Hehe, must've been tough on his
+sister, huh?)");
         break ;
         default :
         DbgAssert(1);

@@ -15,8 +15,7 @@ MsgDisp("主人公","That voice, Kuya-san!
 I was a little hesitant to answer because of
 the private number.");
 VoicePlay("D030901200_09_010");
-MsgDisp("Kuya","Ah...
-I'm calling from my home phone.
+MsgDisp("Kuya","Ah... I'm calling from my home phone.
 Maybe sis made it that way.");
 MsgDisp("主人公","What about your cellphone?");
 VoicePlay("D030901200_09_020");
@@ -25,16 +24,15 @@ really have that kind of luxury...
 Sorry for it being so one-sided.");
 MsgDisp("主人公","It's fine, it doesn't matter.");
 VoicePlay("D030901200_09_030");
-MsgDisp("Kuya","Yeah.
-How are things lately?
+MsgDisp("Kuya","Yeah. How are things lately?
 Keeping busy?");
 MsgDisp("主人公","Let's see... Between studying for exams and
 doing school stuff, I guess I'm more busy
 than I was in 2nd year?");
 VoicePlay("D030901200_09_040");
 MsgDisp("Kuya","Haha, I get that.
-But unlike you, I wasn't studying much back
-then.");
+But unlike you, I wasn't studying much
+back then.");
 MsgDisp("主人公","Hehe.
 What about Kuya-san, how's studying for
 entrance exams going?");

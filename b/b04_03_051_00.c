@@ -6,8 +6,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040305100_03_000");
-MsgDisp("Honda","The myths surrounding constellations were
-fun!!");
+MsgDisp("Honda","The myths surrounding constellations
+were fun!!");
 MsgSel("The starry sky was romantic.","｛Honda＊＊｝, did you fall asleep?","The seats were so soft, I fell asleep...");
 switch (MsgSelRsltGet()){
     case 0:

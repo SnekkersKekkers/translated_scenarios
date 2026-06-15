@@ -31,8 +31,7 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040621102_06_020");
-        MsgDisp("Himuro","Why?
-Is there a need to?");
+        MsgDisp("Himuro","Why? Is there a need to?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -69,8 +68,7 @@ I thought we were brother and sister.");
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040621102_06_070");
-        MsgDisp("Himuro","Sigh...
-I see.
+        MsgDisp("Himuro","Sigh... I see.
 At any rate, I'm the younger brother right?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -87,8 +85,7 @@ Come on, let's go then big sister.");
         ChOpen(6,253,4,0,0,#1,#1,0,0);
         VoicePlay("B040621102_06_090");
         MsgDisp("Himuro","Is something wrong?");
-        MsgDisp("主人公","Wow!
-Y-You're so close, ｛Himuro＊＊｝!");
+        MsgDisp("主人公","Wow! Y-You're so close, ｛Himuro＊＊｝!");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

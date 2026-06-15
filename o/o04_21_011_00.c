@@ -25,8 +25,7 @@ Then, maybe I'll have to get serious?");
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("O042101100_21_020");
-    MsgDisp("Michiru","Hehe.
-No matter who wins, let's have fun!");
+    MsgDisp("Michiru","Hehe. No matter who wins, let's have fun!");
     break ;
     default :
     DbgAssert(1);

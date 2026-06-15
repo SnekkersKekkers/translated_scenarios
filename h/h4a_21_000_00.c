@@ -24,9 +24,9 @@ switch (ChPrmGet(21,6)){
     MsgDisp("Michiru","I can't believe you even beat Hikaru.
 Hehe, today's victory party is going to be
 complicated.");
-    MsgDisp("主人公","(Ah...
-I see. But I'm glad I worked so hard at the
-rhythmic gymnastics club...!)");
+    MsgDisp("主人公","(Ah... I see.
+But I'm glad I worked so hard at the rhythmic
+gymnastics club...!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -59,11 +59,10 @@ It was truly beautiful.");
     ChEyeOpenLevel(21,0);
     VoicePlay("H4A2100000_21_040");
     MsgDisp("Michiru","Bonus points for that smile.
-No one can beat you now.
-Hehe!");
+No one can beat you now. Hehe!");
     MsgDisp("主人公","(Hehe!
-I'm glad I stayed in the rhythmic gymnastics
-club!)");
+I'm glad I stayed in the rhythmic
+gymnastics club!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

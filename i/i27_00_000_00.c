@@ -7,8 +7,8 @@ MsgDisp("Manager","Good work.");
 MsgDisp("主人公","Ah, manager.
 Good work today.");
 VoicePlay("I270000000_42_010");
-MsgDisp("Manager","Your hard work has really helped us out a
-lot.
+MsgDisp("Manager","Your hard work has really helped us out
+a lot.
 So, I wanted to ask...");
 VoicePlay("I270000000_42_020");
 MsgDisp("Manager","After you graduate, would you like to come

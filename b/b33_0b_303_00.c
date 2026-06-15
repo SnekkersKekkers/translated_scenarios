@@ -14,8 +14,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B330B30300_04_000");
-MsgDisp("Nanatsumori","Ah...
-The top in that window.
+MsgDisp("Nanatsumori","Ah... The top in that window.
 It looks like it would suit you.");
 MsgDisp("主人公","Waa, it's so stylish!
 ...it costs a lot though.");
@@ -60,8 +59,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30300_04_020");
-MsgDisp("Nanatsumori","Yeah, the price goes up because there's a
-demand.
+MsgDisp("Nanatsumori","Yeah, the price goes up because there's
+a demand.
 That's just how it goes.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -74,8 +73,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Yeah!");
-MsgDisp("主人公","(Is it okay for me to be the only one having
-fun?)");
+MsgDisp("主人公","(Is it okay for me to be the only one
+having fun?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

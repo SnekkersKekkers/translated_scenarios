@@ -2,9 +2,9 @@ MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020120301_01_000");
-MsgDisp("Kazama","Do you think popular fireflies are surrounded
-by a bunch of other fireflies, just like with
-people?");
+MsgDisp("Kazama","Do you think popular fireflies are
+surrounded by a bunch of other fireflies,
+just like with people?");
 MsgDisp("主人公","Yeah, maybe they are.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -35,8 +35,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020120301_01_040");
-MsgDisp("Kazama","Oh?
-So that's how you see it.
+MsgDisp("Kazama","Oh? So that's how you see it.
 That's a bit reassuring.");
 MsgDisp("主人公","C'mon, knock it off.");
 ChEye(1,0);
@@ -76,8 +75,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120301_01_090");
-MsgDisp("Kazama","Sigh... It doesn't look like my worries are
-gonna end any time soon.");
+MsgDisp("Kazama","Sigh...
+It doesn't look like my worries are gonna end
+any time soon.");
 MsgDisp("主人公","You're liked by both boys and girls, and
 you're popular with the elderly too,
 ｛Kazama＊＊｝, so you're really amazing.");
@@ -87,8 +87,8 @@ ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("G020120301_01_100");
 MsgDisp("Kazama","You've totally missed my point, but thanks.");
-MsgDisp("主人公","(Does ｛Kazama＊＊｝ not realise how popular he
-is...?)");
+MsgDisp("主人公","(Does ｛Kazama＊＊｝ not realise how popular
+he is...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

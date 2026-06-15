@@ -2,8 +2,7 @@ BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc820",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow!
-The field is filled with golden flowers!
+MsgDisp("主人公","Wow! The field is filled with golden flowers!
 So pretty...");
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,30);
@@ -14,8 +13,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070B00100_03_000");
-MsgDisp("Honda","Mmhm.
-They're called Marigolds.
+MsgDisp("Honda","Mmhm. They're called Marigolds.
 They all have different shades of yellow.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -46,8 +44,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("Q070B00100_01_010");
-MsgDisp("Kazama","You.
-Next to me.");
+MsgDisp("Kazama","You. Next to me.");
 ChMouth(1,0);
 MsgDisp("主人公","Eh?");
 ChEye(3,3);
@@ -92,16 +89,15 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q070B00100_04_030");
-MsgDisp("Nanatsumori","Ikr.
-Another shoot.");
+MsgDisp("Nanatsumori","Ikr. Another shoot.");
 SEPlay("EV_SE_041");
 SEWait();
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q070B00100_01_030");
-MsgDisp("Kazama","Nanatsumori, you really like taking photos,
-huh.
+MsgDisp("Kazama","Nanatsumori, you really like taking
+photos, huh.
 What are you gonna do with all of those?");
 ChEye(4,0);
 ChMouth(4,3);

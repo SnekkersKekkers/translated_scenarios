@@ -47,9 +47,8 @@ I do it myself.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040530002_05_030");
-        MsgDisp("Hiiragi","No no.
-It would be a waste for someone to do the
-cleaning.");
+        MsgDisp("Hiiragi","No no. It would be a waste for someone to do
+the cleaning.");
         MsgDisp("主人公","A waste?");
         ChEye(5,4);
         VoicePlay("B040530002_05_040");
@@ -82,8 +81,8 @@ can't just tidy away...");
         VoicePlay("B040530002_05_090");
         MsgDisp("Hiiragi","The more you clean, the tidier it becomes.
 It feels really good.");
-        MsgDisp("主人公","Umm, are you talking about the theatre
-troupe?");
+        MsgDisp("主人公","Umm, are you talking about the
+theatre troupe?");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040530002_05_100");
@@ -94,8 +93,7 @@ to handle.");
         ChMotion(5,0);
         VoicePlay("B040530002_05_110");
         MsgDisp("Hiiragi","...It's you.");
-        MsgDisp("主人公","Eh, me?
-Getting tidied away?");
+        MsgDisp("主人公","Eh, me? Getting tidied away?");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040530002_05_120");

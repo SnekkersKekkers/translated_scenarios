@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1,1);
     VoicePlay("B040304500_03_000");
     MsgDisp("Honda","Yeah, it went by so fast.
-The stage direction was impressive, wasn't
-it?");
+The stage direction was impressive,
+wasn't it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

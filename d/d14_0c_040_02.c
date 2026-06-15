@@ -13,8 +13,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140C04002_06_000");
 MsgDisp("Himuro","Have I or Yanosuke-senpai ever been noisy?");
-MsgDisp("主人公","...Ah, it's cause ｛Mikage＊＊｝ isn't here
-today.");
+MsgDisp("主人公","...Ah, it's cause ｛Mikage＊＊｝ isn't
+here today.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -26,8 +26,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C04002_05_000");
-MsgDisp("Hiiragi","Inori-kun, you sure are in a bad mood, aren't
-you?");
+MsgDisp("Hiiragi","Inori-kun, you sure are in a bad mood,
+aren't you?");
 MsgDisp("主人公","Isn't he more irritable than usual?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -39,12 +39,11 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C04002_06_020");
-MsgDisp("Himuro","Sigh...there was something I wanted to talk to
-Kojiro sensei about too today.");
+MsgDisp("Himuro","Sigh...there was something I wanted to talk
+to Kojiro sensei about too today.");
 ChEye(5,0);
 ChMotion(5,4);
-MsgDisp("主人公","I see.
-What was it?");
+MsgDisp("主人公","I see. What was it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -88,9 +87,9 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 ChCheek(6,5);
 VoicePlay("D140C04002_06_060");
-MsgDisp("Himuro","He'll probably say something like, \"Oh, you
-missed me Inori?\", that's why, I'm good for
-today.");
+MsgDisp("Himuro","He'll probably say something like, \"Oh,
+you missed me Inori?\", that's why, I'm
+good for today.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

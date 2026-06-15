@@ -11,9 +11,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("D150003700_03_010");
-MsgDisp("Honda","Tea ceremonies...?
-Huh.
-That sounds cool too. But I meant tea blends.");
+MsgDisp("Honda","Tea ceremonies...? Huh.
+That sounds cool too.
+But I meant tea blends.");
 MsgDisp("主人公","That sounds fun and delicious.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -54,8 +54,7 @@ ChEye(3,5);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("D150003700_03_040");
-MsgDisp("Honda","Eh?
-It even increases your appeal with women!
+MsgDisp("Honda","Eh? It even increases your appeal with women!
 Herbs are really amazing!!");
 MsgDisp("主人公","(Hehe.
 ｛Honda＊＊｝ is getting crazy about herbs.)");

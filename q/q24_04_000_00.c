@@ -9,8 +9,7 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,5,1);
 VoicePlay("Q240400000_04_010");
-MsgDisp("Nanatsumori","Oh no!
-Watch out∈");
+MsgDisp("Nanatsumori","Oh no! Watch out∈");
 SEPlay("EV_SE_054",0,0.8);
 ScrQuake(2);
 MsgDisp("主人公","Kya!");

@@ -10,5 +10,4 @@ ChMotion(1,1);
 VoicePlay("B020100003_01_010");
 MsgDisp("Kazama","I bet there are outfits out there that'd suit
 you even better.");
-MsgDisp("主人公","(Hmm...
-I wish I had worn something else.)");
+MsgDisp("主人公","(Hmm... I wish I had worn something else.)");

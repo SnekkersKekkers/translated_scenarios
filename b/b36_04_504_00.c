@@ -57,8 +57,7 @@ ChMotion(4,1,1);
 VoicePlay("B360450400_04_070");
 MsgDisp("Nanatsumori","I was being selfish.
 I'm really sorry.");
-MsgDisp("主人公","No.
-Thank you for inviting me.
+MsgDisp("主人公","No. Thank you for inviting me.
 Aren't the lights so beautiful?");
 ChEye(4,4);
 ChMouth(4,4);

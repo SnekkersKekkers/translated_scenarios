@@ -35,8 +35,7 @@ ChMotion(2,3);
 VoicePlay("Q110200000_02_040");
 MsgDisp("Sassa","Haha, so you couldn't decide, after all.
 Actually, same.");
-MsgDisp("主人公","Eeh∋
-Matcha and black tea?
+MsgDisp("主人公","Eeh∋ Matcha and black tea?
 Wow, we got the exact same ones!");
 ChEye(2,0);
 ChMouth(2,4);

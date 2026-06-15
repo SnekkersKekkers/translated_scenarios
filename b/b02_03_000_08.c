@@ -14,5 +14,4 @@ ChEyeOpenLevel(3,0);
 VoicePlay("B020300008_03_010");
 MsgDisp("Honda","Exactamundo!
 You wore it right away, amazing!");
-MsgDisp("主人公","(Yay!
-I'm glad I checked out the trends!)");
+MsgDisp("主人公","(Yay! I'm glad I checked out the trends!)");

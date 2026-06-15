@@ -13,14 +13,12 @@ ChMouth(8,4);
 ChMotion(8,0);
 VoicePlay("F020800004_08_000");
 MsgDisp("Shirahane","Eh?");
-MsgDisp("主人公","Huh?
-...Am I wrong?");
+MsgDisp("主人公","Huh? ...Am I wrong?");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("F020800004_08_010");
-MsgDisp("Shirahane","No, yer right.
-But...");
+MsgDisp("Shirahane","No, yer right. But...");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,4,1);

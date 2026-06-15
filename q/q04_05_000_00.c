@@ -10,8 +10,8 @@ switch (ChPrmGet(5,6)){
     VoicePlay("Q040500000_05_000");
     MsgDisp("Hiiragi","Good morning.");
     MsgDisp("主人公","Good morning!
-Hey, can we go together for today's free
-period?");
+Hey, can we go together for today's
+free period?");
     break ;
     case 3:
     MsgDisp("主人公","(Hmmm, ｛Hiiragi＊＊＊｝ is...there!)");

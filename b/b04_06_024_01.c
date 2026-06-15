@@ -13,8 +13,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040602401_06_010");
-    MsgDisp("Himuro","Yeah.
-It was a weird sound.");
+    MsgDisp("Himuro","Yeah. It was a weird sound.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -25,8 +24,8 @@ It was a weird sound.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B040602401_06_020");
-    MsgDisp("Himuro","Maybe an ordinary sense of taste can't grasp
-it.
+    MsgDisp("Himuro","Maybe an ordinary sense of taste can't
+grasp it.
 Art really is hard to understand.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

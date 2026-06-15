@@ -17,8 +17,8 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B020202103_02_020");
-MsgDisp("Sassa","Then again, I can't take my eyes off you
-either.
+MsgDisp("Sassa","Then again, I can't take my eyes off
+you either.
 Augh, I'm in trouble.");
 MsgDisp("主人公","(He's pleased, but also troubled?
 But he seems to like this fashion!)");

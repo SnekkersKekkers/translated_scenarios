@@ -23,8 +23,7 @@ I felt a sense of familiarity from you...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(Is my ranking this sense of familiarity?
-Oof...
-I have to study harder!)");
+Oof... I have to study harder!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -54,8 +53,7 @@ It's okay.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Oof...
-It's not okay.
+    MsgDisp("主人公","(Oof... It's not okay.
 I have to study harder!)");
     MsgClose();
     ScrFadeOut(0,0);

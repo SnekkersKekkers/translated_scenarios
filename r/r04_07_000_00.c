@@ -33,8 +33,8 @@ Merry Christmas!");
     ChMotion(7,4);
     VoicePlay("R040700000_07_030");
     MsgDisp("Mikage","Habataki High's Christmas Party is nice, huh?
-It's hard to find anything as authentic as
-this.");
+It's hard to find anything as authentic
+as this.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -65,8 +65,8 @@ brighter.");
     ChMotion(7,0);
     VoicePlay("R040700000_07_070");
     MsgDisp("Mikage","Not flashy in that way.
-It just means you look more beautiful than
-usual.");
+It just means you look more beautiful
+than usual.");
     MsgDisp("主人公","Hehe, thank you very much.");
     break ;
     default :

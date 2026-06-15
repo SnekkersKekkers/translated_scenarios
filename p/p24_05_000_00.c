@@ -20,8 +20,8 @@ ChEye(5,2);
 ChMouth(5,0);
 ChMotion(5,2);
 VoicePlay("P240500000_05_000");
-MsgDisp("Hiiragi","Tonight is the last time I will meet you like
-this.");
+MsgDisp("Hiiragi","Tonight is the last time I will meet you
+like this.");
 MsgDisp("主人公","...Why is that?");
 ChEye(5,2);
 ChMouth(5,0);
@@ -45,8 +45,8 @@ ChMouth(5,0);
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("P240500000_05_030");
-MsgDisp("Hiiragi","However, my governance is the flames of my
-ideals.
+MsgDisp("Hiiragi","However, my governance is the flames of
+my ideals.
 I cannot let it be extinguished.");
 SEPlay("EV_SE_736",0.2,0.7);
 VoicePlay("P240500000_40_010");

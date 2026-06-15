@@ -12,8 +12,7 @@ ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
 VoicePlay("F100130000_22_010");
-MsgDisp("Hikaru","...Huh?
-You're not with Kazama-kun today?");
+MsgDisp("Hikaru","...Huh? You're not with Kazama-kun today?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
@@ -56,8 +55,8 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100130000_21_020");
 MsgDisp("Michiru","I heard that if you try to meet Mari during
-break, there's a high chance Kazama-kun will
-appear.");
+break, there's a high chance Kazama-kun
+will appear.");
 ChEye(1,0);
 ChEye(22,0);
 ChMouth(22,3);

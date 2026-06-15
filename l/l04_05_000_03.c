@@ -46,10 +46,9 @@ choosing and making it.");
     ChMotion(5,0);
     VoicePlay("L040500003_05_050");
     MsgDisp("Hiiragi","Yes, it's quite the masterpiece.
-I almost want to decorate the theatre with
-it.");
-    MsgDisp("主人公","What!?
-That's no good.
+I almost want to decorate the theatre
+with it.");
+    MsgDisp("主人公","What!? That's no good.
 Make sure to eat it.");
     ChEye(5,3);
     ChMotion(5,4);

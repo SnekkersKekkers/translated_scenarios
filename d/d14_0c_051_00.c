@@ -36,8 +36,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05100_06_010");
-MsgDisp("Himuro","Phew...
-I completely forgot.
+MsgDisp("Himuro","Phew... I completely forgot.
 What were we talking about until now?");
 MsgDisp("主人公","Until now?");
 ChEye(6,0);
@@ -99,8 +98,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C05100_07_040");
 MsgDisp("Mikage","Ehhh—, as expected of Yanosuke.
-I can picture the scene.
-Nice.");
+I can picture the scene. Nice.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -121,8 +119,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C05100_07_050");
-MsgDisp("Mikage","Then, shall we continue this when you're not
-here?");
+MsgDisp("Mikage","Then, shall we continue this when you're
+not here?");
 MsgDisp("主人公","You can't do that either!");
 ChEye(5,2);
 ChMouth(5,4);

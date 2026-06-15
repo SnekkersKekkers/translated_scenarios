@@ -30,8 +30,8 @@ after their own child.");
     ChMouth(1,2);
     ChMotion(1,1);
     VoicePlay("P230100001_47_000");
-    MsgDisp("Broadcast","We will now begin Habataki High School's
-play.");
+    MsgDisp("Broadcast","We will now begin Habataki High
+School's play.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(1,0);

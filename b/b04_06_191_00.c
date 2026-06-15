@@ -38,8 +38,8 @@ Next time I'll take that into consideration.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040619100_06_020");
-    MsgDisp("Himuro","It was a miss because it didn't suit your
-tastes?
+    MsgDisp("Himuro","It was a miss because it didn't suit
+your tastes?
 It's not just nonsense, it makes no sense.");
     MsgDateResultDisp();
     break ;

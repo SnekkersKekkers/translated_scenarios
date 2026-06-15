@@ -11,8 +11,7 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","Ah!
-Oh no...");
+    MsgDisp("主人公","Ah! Oh no...");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -41,8 +40,7 @@ it together...!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Ah!
-Oh no...");
+    MsgDisp("主人公","Ah! Oh no...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

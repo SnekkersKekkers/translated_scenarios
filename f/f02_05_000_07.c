@@ -11,8 +11,8 @@ ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500007_05_000");
 MsgDisp("Hiiragi","I have a special summer performance planned,
-but nothing as a regular high school student,
-no.");
+but nothing as a regular high school
+student, no.");
 MsgDisp("主人公","I see...");
 ChEye(5,0);
 ChMouth(5,4);
@@ -32,20 +32,19 @@ ChMotion(5,0);
 VoicePlay("F020500007_05_030");
 MsgDisp("Hiiragi","I would rather buy it myself and eat it
 outside than have someone else buy it for me.");
-MsgDisp("主人公","Hehe.
-Somehow, I think I get you on that.");
+MsgDisp("主人公","Hehe. Somehow, I think I get you on that.");
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500007_05_040");
 MsgDisp("Hiiragi","Right?
 Especially with things like grilled corn and
 grilled squid.");
-MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, you really like street food, huh?");
+MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, you really like street
+food, huh?");
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F020500007_05_050");
 MsgDisp("Hiiragi","You could say that.
 And the scent of burnt soy sauce......huh?
 Can you smell that?");
-MsgDisp("主人公","Hehe.
-Now I'm hungry, too.");
+MsgDisp("主人公","Hehe. Now I'm hungry, too.");

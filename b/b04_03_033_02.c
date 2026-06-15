@@ -61,8 +61,8 @@ I said something strange...");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040303302_03_050");
-        MsgDisp("Honda","If you can't see, why not try closing your
-eyes?");
+        MsgDisp("Honda","If you can't see, why not try closing
+your eyes?");
         MsgDisp("主人公","Huh?");
         ChEye(3,3);
         ChMouth(3,3);

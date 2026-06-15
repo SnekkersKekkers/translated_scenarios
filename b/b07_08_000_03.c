@@ -24,8 +24,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_140");
-MsgDisp("Shirahane","Hmmm...
-I like all of them but...");
+MsgDisp("Shirahane","Hmmm... I like all of them but...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

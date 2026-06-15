@@ -5,8 +5,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("P640700002_07_000");
-MsgDisp("Mikage","Ahh...
-I feel so calm.");
+MsgDisp("Mikage","Ahh... I feel so calm.");
 MsgDisp("主人公","｛Mikage＊＊｝, how is it?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -20,8 +19,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P640700002_07_020");
-MsgDisp("Mikage","Yeah.
-It allowed to me take a breather?");
+MsgDisp("Mikage","Yeah. It allowed to me take a breather?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

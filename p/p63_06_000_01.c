@@ -23,13 +23,13 @@ Welcome.");
     MsgDisp("Himuro","What are those vegetables?
 Are you selling them?");
     MsgDisp("主人公","Yeah, the Gardening Club grew them.
-We also prepared herbal tea and herb cookies.▼");
+We also prepared herbal tea and herb
+cookies.▼");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P630600001_06_020");
-    MsgDisp("Himuro","Hmm.
-Then, I'll have some.");
+    MsgDisp("Himuro","Hmm. Then, I'll have some.");
     MsgDisp("主人公","Thank you very much!");
     MsgClose();
     ScrFadeOut(0,0);
@@ -69,8 +69,7 @@ tea and cookies.");
     VoicePlay("P630600001_06_060");
     MsgDisp("Himuro","Ah, I see.
 Then prepare a portion for me.");
-    MsgDisp("主人公","Yes.
-Then please wait a bit!");
+    MsgDisp("主人公","Yes. Then please wait a bit!");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(6,#1);

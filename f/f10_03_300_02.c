@@ -8,8 +8,8 @@ MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("F100330002_03_000");
-MsgDisp("Honda","｛主人公｝, are you going to the cafeteria
-today?");
+MsgDisp("Honda","｛主人公｝, are you going to the
+cafeteria today?");
 MsgDisp("主人公","Ah, you too, ｛Honda＊＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -19,8 +19,7 @@ MsgDisp("Honda","Yup, I'm meeting up with Chiru-chan and
 Pika-chan");
 MsgDisp("主人公","Eh?");
 VoicePlay("F100330002_22_000");
-MsgDisp("Hikaru?","Honda-kun!
-Mari!");
+MsgDisp("Hikaru?","Honda-kun! Mari!");
 ChPosition(3,1);
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 MsgClose();

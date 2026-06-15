@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("G020230201_02_000");
-MsgDisp("Sassa","The fireflies' light sure is beautiful like
-this.");
+MsgDisp("Sassa","The fireflies' light sure is beautiful
+like this.");
 MsgDisp("主人公","Yeah...");
 ChEye(2,4);
 ChMouth(2,4);
@@ -59,8 +59,8 @@ ChMotion(2,0);
 VoicePlay("G020230201_02_080");
 MsgDisp("Sassa","Actually, I've been practising what to say to
 you here since yesterday.");
-MsgDisp("主人公","Hehe, training just like you do for track,
-huh?");
+MsgDisp("主人公","Hehe, training just like you do for
+track, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

@@ -6,8 +6,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("G020720300_07_000");
 MsgDisp("Mikage","Hey, can I consult you about my problems?");
-MsgDisp("主人公","Eh?
-Yes, it's fine with me.");
+MsgDisp("主人公","Eh? Yes, it's fine with me.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -68,14 +67,12 @@ VoicePlay("G020720300_07_090");
 MsgDisp("Mikage","I'm not sure how well my opinion will be
 accepted since I've left home, but I'll try
 to talk to my parents.");
-MsgDisp("主人公","Yes.
-Um, are you worried about Molly?");
+MsgDisp("主人公","Yes. Um, are you worried about Molly?");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("G020720300_07_100");
-MsgDisp("Mikage","Yeah.
-Thanks to you, I feel better now.
+MsgDisp("Mikage","Yeah. Thanks to you, I feel better now.
 As expected of the Molly of Haba High.");
 MsgDisp("主人公","(Ehh?)");
 BGMStop();

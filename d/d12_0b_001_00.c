@@ -19,8 +19,7 @@ StlMouth(4,0);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
 VoicePlay("D120B00100_03_000");
-MsgDisp("Honda","Yes!
-I'm number one∈");
+MsgDisp("Honda","Yes! I'm number one∈");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D120B00100_01_000");
 MsgDisp("Kazama","No way.
@@ -63,9 +62,9 @@ I felt like someone was watching me but I
 couldn't tell who it was!");
 StlEyeOpenLevel(3,#1);
 VoicePlay("D120B00100_03_050");
-MsgDisp("Honda","I see.
-Thanks for your help anyway.
-∈ Be careful on the way home!");
+MsgDisp("Honda","I see. Thanks for your help anyway.
+∈
+Be careful on the way home!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -58,18 +58,17 @@ It's an honour just to make it on that stage.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H3A0600001_06_060");
-    MsgDisp("Himuro","Your serious expression too, it was pretty
-cool...");
+    MsgDisp("Himuro","Your serious expression too, it was
+pretty cool...");
     MsgDisp("主人公","Hehe, thanks.");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("H3A0600001_06_070");
-    MsgDisp("Himuro","...Yeah.
-Rest up for today.");
-    MsgDisp("主人公","(I lost, but I'm glad I stayed in the judo
-club.)");
+    MsgDisp("Himuro","...Yeah. Rest up for today.");
+    MsgDisp("主人公","(I lost, but I'm glad I stayed in the
+judo club.)");
     break ;
     default :
     DbgAssert(1);

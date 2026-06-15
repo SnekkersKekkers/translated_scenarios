@@ -38,8 +38,8 @@ You're amazing, huh?");
     VoicePlay("P730200000_02_030");
     MsgDisp("Sassa","...How should I cheer you on? 
 \"Do your best!\" is a bit weird...");
-    MsgDisp("主人公","Hehe, it's not a sport, so just clapping is
-fine?");
+    MsgDisp("主人公","Hehe, it's not a sport, so just clapping
+is fine?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -56,8 +56,8 @@ fine?");
 No, I should be giving you a round of
 applause.");
     MsgDisp("主人公","(Hehe!
-For the sake of ｛Sassa＊＊｝ too, let's do our
-best!)");
+For the sake of ｛Sassa＊＊｝ too, let's do
+our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(2,0,0);

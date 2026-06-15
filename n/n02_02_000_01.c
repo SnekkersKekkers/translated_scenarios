@@ -78,8 +78,7 @@ gonna be the same.");
     ChMotion(2,3);
     VoicePlay("N020200001_02_080");
     MsgDisp("Sassa","But at this rate, you'll be at the top.");
-    MsgDisp("主人公","Huh?
-The top is a bit of a stretch...");
+    MsgDisp("主人公","Huh? The top is a bit of a stretch...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

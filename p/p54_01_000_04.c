@@ -35,8 +35,7 @@ VoicePlay("P540100004_01_030");
 MsgDisp("Kazama","Although that was a good performance, when I
 think about how you gave it your all these
 last three years, I could somewhat cry.");
-MsgDisp("主人公","Hey...
-Aren't you talking like a parent?");
+MsgDisp("主人公","Hey... Aren't you talking like a parent?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

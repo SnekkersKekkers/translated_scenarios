@@ -3,8 +3,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("R032100001_21_000");
-MsgDisp("Michiru","Mari must be the star of today's party,
-right?
+MsgDisp("Michiru","Mari must be the star of today's
+party, right?
 Amazing dress and make-up.");
 MsgDisp("主人公","Really?");
 ChEye(21,4);

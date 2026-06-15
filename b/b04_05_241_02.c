@@ -33,8 +33,7 @@ Why not have it in ice cream?");
         VoicePlay("B040524102_05_020");
         MsgDisp("Hiiragi","I personally do not like warm milk, so you'll
 be the one drinking it.");
-        MsgDisp("主人公","Ehh?
-It's troubling to be in charge of that.
+        MsgDisp("主人公","Ehh? It's troubling to be in charge of that.
 Then, shall we do something else?");
         ChEye(5,4);
         ChMotion(5,0);
@@ -102,8 +101,7 @@ would be surprised...");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040524102_05_120");
-        MsgDisp("Hiiragi","...Hm?
-Actually, I won't tell him after all.
+        MsgDisp("Hiiragi","...Hm? Actually, I won't tell him after all.
 It would be a shame to tell others.");
         MsgDisp("主人公","Hehe, that's right.");
         ChEye(5,4);
@@ -118,8 +116,7 @@ I understood that well today.");
         MsgDisp("Hiiragi","And you change me so easily.
 You're fun, you're lovely, and a bit of a
 scary person.");
-        MsgDisp("主人公","Ehh?
-Scary?");
+        MsgDisp("主人公","Ehh? Scary?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

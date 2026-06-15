@@ -10,8 +10,7 @@ I'll wait for you at the ｛待ち合わせ場所｝.");
     MsgDisp("Honda","You got it～!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!
-I hope ｛日付｝ arrives fast!)");
+    MsgDisp("主人公","(Yay! I hope ｛日付｝ arrives fast!)");
     break ;
     case 3:
     VoicePlay("J030300000_03_020");
@@ -19,19 +18,17 @@ I hope ｛日付｝ arrives fast!)");
     MsgDisp("主人公","Alright, then let's meet on ｛日付｝.
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_030");
-    MsgDisp("Honda","Okay～!
-I'm excited!");
+    MsgDisp("Honda","Okay～! I'm excited!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!
-I hope ｛日付｝ arrives fast!)");
+    MsgDisp("主人公","(Yay! I hope ｛日付｝ arrives fast!)");
     break ;
     case 4:
     case 5:
     VoicePlay("J030300000_03_040");
     MsgDisp("Honda","Of course!
-I'd even be okay with going right now, you
-know?");
+I'd even be okay with going right now,
+you know?");
     MsgDisp("主人公","Eh!!");
     VoicePlay("J030300000_03_050");
     MsgDisp("Honda","Ahh, that would be a bit much, huh?
@@ -55,8 +52,7 @@ There's a lot I want to talk about.
 Don't be late, okay?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!!
-I can't wait for ｛日付｝!)");
+    MsgDisp("主人公","(Yay!! I can't wait for ｛日付｝!)");
     break ;
     default :
     DbgAssert(1);

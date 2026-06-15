@@ -39,8 +39,7 @@ VoicePlay("B330B20700_04_010");
 MsgDisp("Nanatsumori","...Not here.");
 ChEye(1,0);
 ChMouth(1,2);
-MsgDisp("主人公","Eh?
-Maybe you've dropped it somewhere?");
+MsgDisp("主人公","Eh? Maybe you've dropped it somewhere?");
 ChEye(4,2);
 ChMotion(4,2,1);
 ChEye(1,2);
@@ -52,8 +51,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B330B20700_03_010");
-MsgDisp("Honda","Nope.
-Mi-kun's ticket is already gone.");
+MsgDisp("Honda","Nope. Mi-kun's ticket is already gone.");
 ChEye(1,0);
 ChEye(4,2);
 ChMouth(4,2);
@@ -104,8 +102,7 @@ VoicePlay("B330B20700_03_040");
 MsgDisp("Honda","But the way he stuck his nose into Mi-kun's
 pocket while eating was so cute!");
 ChMotion(4,2,1);
-MsgDisp("主人公","(Hehe!
-I wish I saw it too.)");
+MsgDisp("主人公","(Hehe! I wish I saw it too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

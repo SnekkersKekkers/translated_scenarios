@@ -29,8 +29,7 @@ and lively on New years, huh.");
         ChMotion(7,3);
         VoicePlay("S090700000_07_030");
         MsgDisp("Mikage","I wonder what our fortunes will be this year?");
-        MsgDisp("主人公","Yeah!
-I hope we get good ones.");
+        MsgDisp("主人公","Yeah! I hope we get good ones.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -75,8 +74,7 @@ That's where they do fortunes, right?");
         MsgDisp("Mikage","Right?
 We've come all this way, it would be a waste
 not to go.");
-        MsgDisp("主人公","Hehe.
-Let's go.");
+        MsgDisp("主人公","Hehe. Let's go.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
@@ -86,8 +84,7 @@ Let's go.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("S090700000_07_080");
-        MsgDisp("Mikage","I see.
-Are you getting tired?");
+        MsgDisp("Mikage","I see. Are you getting tired?");
         MsgDisp("主人公","Yeah, a little...");
         ChEye(7,2);
         ChMouth(7,0);

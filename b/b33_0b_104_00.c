@@ -56,8 +56,8 @@ ChEyeOpenLevel(1,0);
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("B330B10400_04_020");
-MsgDisp("Nanatsumori","No, I just don't want to come across any
-bugs.");
+MsgDisp("Nanatsumori","No, I just don't want to come across
+any bugs.");
 ChMouth(1,0);
 ChEyeOpenLevel(1,#1);
 ChEye(3,0);
@@ -127,8 +127,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B10400_01_040");
 MsgDisp("Kazama","Ehhh.
-It's been a long time since I've seen a rice
-fish.");
+It's been a long time since I've seen a
+rice fish.");
 ChEye(4,2);
 ChMouth(4,3);
 MsgDisp("主人公","(Hehe!

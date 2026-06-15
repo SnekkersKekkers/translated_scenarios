@@ -47,8 +47,7 @@ they're not going out...");
         VoicePlay("B040402302_04_050");
         MsgDisp("Nanatsumori","No, no, how'd we even get here∋
 Doesn't that...bother you?");
-        MsgDisp("主人公","Eh.
-I...");
+        MsgDisp("主人公","Eh. I...");
         ChEye(4,0);
         ChMouth(4,2);
         ChMotion(4,0,1);
@@ -61,8 +60,7 @@ I...");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040402302_04_070");
-        MsgDisp("Nanatsumori","Ha∋
-You're responding with a question∈");
+        MsgDisp("Nanatsumori","Ha∋ You're responding with a question∈");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);

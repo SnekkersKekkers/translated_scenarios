@@ -11,8 +11,7 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     VoicePlay("F010700007_07_000");
-    MsgDisp("Mikage","Oh.
-Are you going home right now?");
+    MsgDisp("Mikage","Oh. Are you going home right now?");
     MsgDisp("主人公","Yes.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -88,8 +87,7 @@ Then, shall we go?");
         ChMouth(7,3);
         ChMotion(7,2);
         VoicePlay("F010700007_07_070");
-        MsgDisp("Mikage","Oh.
-Well, take it easy.");
+        MsgDisp("Mikage","Oh. Well, take it easy.");
         break ;
         default :
         DbgAssert(1);

@@ -29,10 +29,9 @@ VoicePlay("G110400602_04_030");
 MsgDisp("Nanatsumori","There's something wrong with your eyes.");
 ChEye(4,0);
 VoicePlay("G110400602_04_040");
-MsgDisp("Nanatsumori","Don't tell me, do I have something on my
-face∋");
-MsgDisp("主人公","No.
-Not at all.");
+MsgDisp("Nanatsumori","Don't tell me, do I have something on
+my face∋");
+MsgDisp("主人公","No. Not at all.");
 MsgDisp("主人公","I can't forget how you dressed as a girl the
 other day after school, ｛Nanatsumori＊｝...");
 ChEye(4,0);
@@ -43,8 +42,8 @@ ChMotion(4,0);
 VoicePlay("G110400602_04_060");
 MsgDisp("Nanatsumori","Did you want to see the photos?");
 MsgDisp("主人公","No, I'm okay!
-I think you already shared the pictures with
-me...");
+I think you already shared the pictures
+with me...");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,1);

@@ -10,16 +10,14 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B150100400_01_000");
 MsgDisp("Kazama","That's enough.
 Do it until you're satisfied.");
-MsgDisp("主人公","Eh?
-Ah, sorry.");
+MsgDisp("主人公","Eh? Ah, sorry.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("B150100400_01_010");
-MsgDisp("Kazama","I see.
-Just as I thought.
+MsgDisp("Kazama","I see. Just as I thought.
 You stop as soon as I tell you to continue.");
 MsgDisp("主人公","That's not what I intended...");
 ChEye(1,0);
@@ -36,8 +34,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B150100400_01_030");
-MsgDisp("Kazama","Eh...
-N-No, don't make that face.
+MsgDisp("Kazama","Eh... N-No, don't make that face.
 This doesn't mean I'm mad.");
 MsgDisp("主人公","But, I made you uncomfortable didn't I?");
 ChEye(1,0);
@@ -63,8 +60,8 @@ That's why you shouldn't hold back either.
 See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(｛Kazama＊＊｝ was acting somewhat weird
-right?
+MsgDisp("主人公","(｛Kazama＊＊｝ was acting somewhat
+weird right?
 I wonder if I made him feel bad...)");
 MsgClose();
 ScrFadeOut(0,0);

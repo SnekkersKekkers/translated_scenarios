@@ -46,15 +46,13 @@ MsgDisp("主人公","You're going to eat one...?");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("B050300101_03_030");
-MsgDisp("Honda","Huh?
-Do you not like crabs?");
+MsgDisp("Honda","Huh? Do you not like crabs?");
 MsgDisp("主人公","It's not that...
 There are just so many of them...");
 StlEye(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("B050300101_03_040");
-MsgDisp("Honda","That sort of thing?
-Why?
+MsgDisp("Honda","That sort of thing? Why?
 Even though it's so yummy?");
 StlEye(3,0);
 VoicePlay("B050300101_45_020");
@@ -72,16 +70,15 @@ ChOpen(3,253,0,0,0,#1,#1,0,0);
 BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("B050300101_44_030");
-MsgDisp("Boy","By the way, Quiz King, are you and Onee-chan
-dating?");
+MsgDisp("Boy","By the way, Quiz King, are you and
+Onee-chan dating?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B050300101_03_050");
 MsgDisp("Honda","Eh, that...
 Hmm, what do you think?");
-MsgDisp("主人公","Ehhh∋
-Asking me is sort of...");
+MsgDisp("主人公","Ehhh∋ Asking me is sort of...");
 VoicePlay("B050300101_45_030");
 MsgDisp("Girl","Wait a minute, Quiz King!
 You can't ask a girl that sort of thing.
@@ -92,8 +89,7 @@ ChMotion(3,0,1);
 VoicePlay("B050300101_03_060");
 MsgDisp("Honda","Eh, is that so?
 Sorry...");
-MsgDisp("主人公","(Hehe!
-｛Honda＊＊｝ seems stumped.
+MsgDisp("主人公","(Hehe! ｛Honda＊＊｝ seems stumped.
 I guess that's pretty rare...?)");
 BGMStop();
 MsgClose();

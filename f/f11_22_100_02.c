@@ -11,8 +11,7 @@ Here to be my cupid this year?");
 ChMotion(22,0,1);
 VoicePlay("F112210002_22_010");
 MsgDisp("Hikaru","No, Hikaru can't.");
-MsgDisp("主人公","Huh?
-Why not?");
+MsgDisp("主人公","Huh? Why not?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
@@ -45,7 +44,6 @@ See you later♪");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(22);
-MsgDisp("主人公","(Haha.
-In the end, cupid's leaving me!)");
+MsgDisp("主人公","(Haha. In the end, cupid's leaving me!)");
 MsgClose();
 ScrFadeOut(0,0);

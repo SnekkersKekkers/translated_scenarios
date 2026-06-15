@@ -35,8 +35,8 @@ But the action was awesome, right?");
     DateRateSet(2);
     ChMotion(4,2,1);
     VoicePlay("B040418600_04_020");
-    MsgDisp("Nanatsumori","Well, I guess it's not really suited for
-girls.");
+    MsgDisp("Nanatsumori","Well, I guess it's not really suited
+for girls.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

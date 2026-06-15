@@ -28,8 +28,7 @@ them as a souvenir for Mikage-sensei.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040209001_02_020");
-    MsgDisp("Sassa","Hmm—
-Girls really do like flowers.");
+    MsgDisp("Sassa","Hmm— Girls really do like flowers.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +39,7 @@ Girls really do like flowers.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040209001_02_030");
-    MsgDisp("Sassa","Ehh?
-There's not really an age target right?");
+    MsgDisp("Sassa","Ehh? There's not really an age target right?");
     MsgDateResultDisp();
     break ;
     default :

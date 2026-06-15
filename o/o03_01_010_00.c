@@ -24,8 +24,7 @@ Hurry, let's tie our legs together.");
     ChMotion(1,0);
     VoicePlay("O030101000_01_010");
     MsgDisp("Kazama","What?");
-    MsgDisp("主人公","Um...
-Isn't it too early to tie our legs?");
+    MsgDisp("主人公","Um... Isn't it too early to tie our legs?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -57,8 +56,7 @@ partner, ｛Kazama＊＊｝.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("O030101000_01_040");
-    MsgDisp("Kazama","Huh?
-I'd only partner with you.
+    MsgDisp("Kazama","Huh? I'd only partner with you.
 Don't tell me you have someone else?");
     MsgDisp("主人公","No, I don't have a partner yet.");
     ChEyeOpenLevel(1,0);
@@ -69,8 +67,7 @@ Don't tell me you have someone else?");
     VoicePlay("O030101000_01_050");
     MsgDisp("Kazama","Then take me.
 Come on, let's tie our legs together.");
-    MsgDisp("主人公","Huh?
-Already?");
+    MsgDisp("主人公","Huh? Already?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -84,8 +81,8 @@ that way, right?");
     MsgDisp("主人公","(What should I do about my partner...)");
     VoicePlay("O030101000_44_020");
     MsgDisp("Girl A","Ah, Kazama-kun.
-Do you want to do the three-legged race with
-me?");
+Do you want to do the three-legged race
+with me?");
     VoicePlay("O030101000_01_070");
     MsgDisp("Kazama?","Sorry, I already have a partner.");
     VoicePlay("O030101000_44_030");
@@ -125,11 +122,10 @@ Looking forward to it!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O030101000_01_110");
-    MsgDisp("Kazama","Let's show them the difference experience
-makes.
+    MsgDisp("Kazama","Let's show them the difference
+experience makes.
 As a veteran team.");
-    MsgDisp("主人公","Yeah.
-Let's do our best to aim for first!");
+    MsgDisp("主人公","Yeah. Let's do our best to aim for first!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

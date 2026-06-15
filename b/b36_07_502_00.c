@@ -11,8 +11,8 @@ ScrFadeIn(0);
 VoicePlay("B360750200_07_000");
 MsgDisp("Mikage","The sunset is so beautiful～");
 MsgDisp("主人公","That's true.
-But isn't it dangerous to walk while looking
-up?");
+But isn't it dangerous to walk while
+looking up?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -24,8 +24,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360750200_07_020");
-MsgDisp("Mikage","Hmm...
-I feel kinda bad for those two—
+MsgDisp("Mikage","Hmm... I feel kinda bad for those two—
 Let's stay just for a little bit.");
 MsgDisp("主人公","Hehe, okay.");
 MsgClose();

@@ -12,8 +12,7 @@ switch (ChPrmGet(7,6)){
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350700000_07_000");
-    MsgDisp("Mikage","Ooh, part-time job, huh.
-Nice.");
+    MsgDisp("Mikage","Ooh, part-time job, huh. Nice.");
     MsgDisp("主人公","Yes, I had a shift today.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -97,8 +96,8 @@ slow today.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I350700000_07_090");
-    MsgDisp("Mikage","Hm, if I had to say, I guess I'm nowhere near
-it?");
+    MsgDisp("Mikage","Hm, if I had to say, I guess I'm nowhere
+near it?");
     MsgDisp("主人公","(I wonder if he's slacking off...)");
     MsgClose();
     BGMStop();
@@ -144,8 +143,7 @@ Would you like to have a cake with it?");
     ChMotion(7,3);
     VoicePlay("I350700000_07_140");
     MsgDisp("Mikage","I get it, I'll have a cake set, then.");
-    MsgDisp("主人公","Yes!
-Thank you for your continued patronage.");
+    MsgDisp("主人公","Yes! Thank you for your continued patronage.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -155,8 +153,8 @@ Thank you for your continued patronage.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Alright!
-｛Mikage＊＊｝ ate a lot of delicious
-cakes.)");
+｛Mikage＊＊｝ ate a lot of
+delicious cakes.)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

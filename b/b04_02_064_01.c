@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040206401_02_000");
-MsgDisp("Sassa","There are a lot of food stalls again this
-year.");
+MsgDisp("Sassa","There are a lot of food stalls again
+this year.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

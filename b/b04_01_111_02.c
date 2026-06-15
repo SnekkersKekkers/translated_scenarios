@@ -6,8 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040111102_01_000");
-MsgDisp("Kazama","Somehow, winter sports always get me pumped
-up.");
+MsgDisp("Kazama","Somehow, winter sports always get me
+pumped up.");
 MsgSel("Yeah, me too.","Between skiing and skating, which is your favourite?","I'm glad you're good at it, ｛Kazama＊＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +30,8 @@ Despite the cold, I'm all heated up.");
     ChEyeOpenLevel(1,0);
     VoicePlay("B040111102_01_020");
     MsgDisp("Kazama","Definitely skating.
-Skiing's a hassle with those poles in the
-way.");
+Skiing's a hassle with those poles in
+the way.");
     MsgDispSksp(1,8);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
@@ -103,8 +103,7 @@ Then I feel like I'm being relied on...");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040111102_01_090");
-        MsgDisp("Kazama","OK!
-I'm prepared now.
+        MsgDisp("Kazama","OK! I'm prepared now.
 Here, give me your hand.");
         SEPlay("EV_SE_760");
         SEWait();

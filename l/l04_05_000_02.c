@@ -13,9 +13,9 @@ I've received it once before from a patron.
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("L040500002_05_010");
-    MsgDisp("Hiiragi","I see...
-I suppose it suits me.
-Well, thank you. Farewell.");
+    MsgDisp("Hiiragi","I see... I suppose it suits me.
+Well, thank you.
+Farewell.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -53,8 +53,8 @@ Like a director who makes actors shed tears.");
     ChMouth(5,4);
     VoicePlay("L040500002_05_060");
     MsgDisp("Hiiragi","Thank you.
-I will do my best to ensure that I savour the
-taste.");
+I will do my best to ensure that I savour
+the taste.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -81,8 +81,8 @@ For working part-time or saving up for this.");
     ChMotion(5,3);
     ChCheek(5,5);
     VoicePlay("L040500002_05_090");
-    MsgDisp("Hiiragi","This chocolate is the fruit of your time and
-effort.
+    MsgDisp("Hiiragi","This chocolate is the fruit of your time
+and effort.
 That makes me very happy.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're exaggerating a bit.");
     ChEye(5,4);

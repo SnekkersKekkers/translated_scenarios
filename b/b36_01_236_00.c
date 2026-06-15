@@ -16,8 +16,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360123600_01_010");
-MsgDisp("Kazama","Yeah.
-It was worth rushing here.");
+MsgDisp("Kazama","Yeah. It was worth rushing here.");
 MsgDisp("主人公","Hehe, right.");
 ChEye(1,2);
 ChMouth(1,3);

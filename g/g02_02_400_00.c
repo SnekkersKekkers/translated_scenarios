@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020240000_02_000");
-MsgDisp("Sassa","When I was a kid, I went camping with my
-family.
+MsgDisp("Sassa","When I was a kid, I went camping with
+my family.
 We saw fireflies just like this.");
 MsgDisp("主人公","That seems like a wonderful memory.");
 ChEye(2,0);
@@ -45,14 +45,14 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240000_02_060");
-MsgDisp("Sassa","That's right, watching with you now is the
-best.");
+MsgDisp("Sassa","That's right, watching with you now is
+the best.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020240000_02_070");
-MsgDisp("Sassa","I hope I can update it every time I come
-here.
+MsgDisp("Sassa","I hope I can update it every time I
+come here.
 Firefly record.");
 MsgDisp("主人公","(Hehe, I'd be happy if ｛Sassa＊＊｝ could gain
 another wonderful memory.)");

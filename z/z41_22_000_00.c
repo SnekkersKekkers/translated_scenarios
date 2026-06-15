@@ -17,8 +17,7 @@ MsgDisp("Hikaru","You should check on them before they're hurt
 even more.
 Do you know who it could be?");
 VoicePlay("Z412200000_22_020");
-MsgDisp("Hikaru","If you really don't know, ask Hikaru.
-Okay?");
+MsgDisp("Hikaru","If you really don't know, ask Hikaru. Okay?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(I wonder if I've hurt someone...)");

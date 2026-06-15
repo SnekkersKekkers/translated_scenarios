@@ -18,8 +18,7 @@ switch (ChPrmGet(22,6)){
     VoicePlay("H4A2200000_22_000");
     MsgDisp("Hikaru","We did it!
 Hikaru and everyone else's victory～!");
-    MsgDisp("主人公","Yeah!
-We did it perfectly!");
+    MsgDisp("主人公","Yeah! We did it perfectly!");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,3,1);
@@ -32,8 +31,7 @@ The judges all fell for you▼");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("H4A2200000_22_020");
-    MsgDisp("Hikaru","Really▼
-Ahh～
+    MsgDisp("Hikaru","Really▼ Ahh～
 Hikaru's so happy♪");
     MsgDisp("主人公","(I'm really glad I stayed in the rhythmic
 gymnastics club!)");
@@ -70,8 +68,7 @@ strength.");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("H4A2200000_22_050");
-    MsgDisp("Hikaru","Yeah.
-Hardworking, beautiful, and cute.
+    MsgDisp("Hikaru","Yeah. Hardworking, beautiful, and cute.
 Everyone wants to be like Mari.");
     ChEye(22,3);
     ChMouth(22,3);

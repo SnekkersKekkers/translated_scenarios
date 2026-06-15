@@ -2,8 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-I fell...)");
+MsgDisp("主人公","(Sigh... I fell...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -11,8 +10,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P740700001_07_000");
 MsgDisp("Mikage","I'm glad.
 It doesn't seem like you're injured.");
-MsgDisp("主人公","Yes.
-But it was a huge fail...");
+MsgDisp("主人公","Yes. But it was a huge fail...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

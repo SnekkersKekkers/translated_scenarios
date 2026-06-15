@@ -39,8 +39,7 @@ I lost...");
     ChMouth(22,0);
     ChMotion(22,0,1);
     VoicePlay("H3A2200001_22_030");
-    MsgDisp("Hikaru","Yeah.
-But it was really cool.
+    MsgDisp("Hikaru","Yeah. But it was really cool.
 Hikaru almost started crying.");
     MsgDisp("主人公","Thank you.");
     ChEye(22,4);
@@ -48,9 +47,9 @@ Hikaru almost started crying.");
     ChMotion(22,2,1);
     ChEyeOpenLevel(22,0);
     VoicePlay("H3A2200001_22_040");
-    MsgDisp("Hikaru","You might've lost the match, but Hikaru still
-has the strong and cool Mari burned in her
-mind.");
+    MsgDisp("Hikaru","You might've lost the match, but Hikaru
+still has the strong and cool Mari burned in
+her mind.");
     ChEye(22,4);
     ChMouth(22,0);
     ChMotion(22,0,1);
@@ -58,8 +57,8 @@ mind.");
     MsgDisp("Hikaru","Hikaru won't ever forget, okay?
 Mari's bravery.");
     MsgDisp("主人公","(｛ひかる＊｝...
-Yeah, I'm glad I worked so hard at judo
-club.)");
+Yeah, I'm glad I worked so hard at
+judo club.)");
     break ;
     default :
     DbgAssert(1);

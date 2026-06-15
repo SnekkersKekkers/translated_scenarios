@@ -43,8 +43,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("G020210201_02_060");
-MsgDisp("Sassa","Crap...
-I think my inner voice came out...");
+MsgDisp("Sassa","Crap... I think my inner voice came out...");
 MsgDisp("主人公","(My heart is racing, somehow...)");
 BGMStop();
 MsgClose();

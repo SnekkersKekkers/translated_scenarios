@@ -26,8 +26,7 @@ VoiceEVSPlay(1);
 VoicePlay("G110100200_01_000");
 MsgDisp("Kazama","｛主人公｝.
 Have you been busy recently?");
-MsgDisp("主人公","Eh?
-That's not been the case.");
+MsgDisp("主人公","Eh? That's not been the case.");
 ChEye(1,1);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -49,10 +48,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100200_01_030");
-MsgDisp("Kazama","...Geez.
-Aren't you just frantic by birth?");
-MsgDisp("主人公","Hey.
-I was just really busy that day.");
+MsgDisp("Kazama","...Geez. Aren't you just frantic by birth?");
+MsgDisp("主人公","Hey. I was just really busy that day.");
 ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);

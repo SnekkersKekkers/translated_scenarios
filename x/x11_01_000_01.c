@@ -21,8 +21,8 @@ Field club manager!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110100001_01_010");
-    MsgDisp("Kazama","The Track and Field club seems to be doing
-well.");
+    MsgDisp("Kazama","The Track and Field club seems to be
+doing well.");
     MsgDisp("主人公","Yeah!
 We set a lot of new records at the
 competition.");

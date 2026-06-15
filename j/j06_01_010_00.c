@@ -29,12 +29,11 @@ Where do you want me to meet you?");
         MsgDisp("Kazama","OK.
 Well, knowing us, we'd find each other no
 matter where we are, right?");
-        MsgDisp("主人公","Hehe.
-You have to be at the meeting point.
+        MsgDisp("主人公","Hehe. You have to be at the meeting point.
 Get it?");
         VoicePlay("J060101000_01_040");
-        MsgDisp("Kazama","Yes, it's better to see each other right
-away.
+        MsgDisp("Kazama","Yes, it's better to see each other
+right away.
 It's a date, after all.");
         VoicePlay("J060101000_01_050");
         MsgDisp("Kazama","Then I'll look forward to it.");
@@ -57,12 +56,10 @@ I'm a little nervous.)");
         break ;
         case 4:
         VoicePlay("J060101000_01_060");
-        MsgDisp("Kazama","U...
-Oh, yeah.
+        MsgDisp("Kazama","U... Oh, yeah.
 No good?");
         MsgDisp("主人公","Yeah, sorry.
-Just a little bit.
-...");
+Just a little bit. ...");
         VoicePlay("J060101000_01_070");
         MsgDisp("Kazama","What do you mean \"a little bit\"?");
         MsgDisp("主人公","You don't talk like that anymore...");

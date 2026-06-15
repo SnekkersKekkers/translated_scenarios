@@ -30,8 +30,7 @@ ChMotion(22,5,1);
 VoicePlay("F022200002_22_030");
 MsgDisp("Hikaru","And guess what!
 It's run by some uncle!");
-MsgDisp("主人公","Uncle...
-Eh∋
+MsgDisp("主人公","Uncle... Eh∋
 Do you mean Goro-sensei?");
 ChEye(22,3);
 ChMouth(22,3);

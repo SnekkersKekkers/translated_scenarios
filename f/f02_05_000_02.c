@@ -36,7 +36,7 @@ ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("F020500002_05_050");
 MsgDisp("Hiiragi","Next time, I will check with the person
-himself to see just how true those rumours
-are.");
+himself to see just how true those
+rumours are.");
 MsgDisp("主人公","(It's different from the rumours I know, but
 this one might be more interesting.)");

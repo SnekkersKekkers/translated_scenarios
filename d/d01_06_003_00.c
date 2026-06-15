@@ -18,8 +18,7 @@ MsgDisp("Himuro","...Were you sleeping?");
 MsgDisp("主人公","Y-Yeah.
 It's still so early...");
 VoicePlay("D010600300_06_010");
-MsgDisp("Himuro","So...
-Can you come out?
+MsgDisp("Himuro","So... Can you come out?
 I'll be waiting at the beach.");
 MsgDisp("主人公","Eh, right now?");
 MsgClose();
@@ -36,16 +35,15 @@ W-Wait up!");
 VoicePlay("D010600300_06_020");
 MsgDisp("Himuro","It's okay to take it slow.
 Watch your step.");
-MsgDisp("主人公","Okay...
-Ah!");
+MsgDisp("主人公","Okay... Ah!");
 SEPlay("EV_SE_631");
 SEStop("EV_SE_630");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("主人公","...Pwah!");
 VoicePlay("D010600300_06_030");
-MsgDisp("Himuro","...Geez, that's exactly what I was talking
-about.
+MsgDisp("Himuro","...Geez, that's exactly what I was
+talking about.
 Here, give me your hand.");
 MsgClose();
 BGMPlay("BGM_C06_INORI_B",0.01);

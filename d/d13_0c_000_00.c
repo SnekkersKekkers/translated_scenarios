@@ -16,8 +16,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("D130C00000_07_010");
-MsgDisp("Mikage","Hm?
-That opener is a little unsettling...");
+MsgDisp("Mikage","Hm? That opener is a little unsettling...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

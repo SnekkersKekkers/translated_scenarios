@@ -21,8 +21,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040204600_02_010");
-    MsgDisp("Sassa","It's difficult for me to rate classical
-music.");
+    MsgDisp("Sassa","It's difficult for me to rate
+classical music.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

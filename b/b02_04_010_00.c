@@ -8,17 +8,14 @@ ChMotion(4,5,1);
 ChCheek(4,5);
 ScrFadeIn(0);
 VoicePlay("B020401000_04_000");
-MsgDisp("Nanatsumori","Ah...
-That swimsuit...");
-MsgDisp("主人公","Eh∋
-Is it weird?");
+MsgDisp("Nanatsumori","Ah... That swimsuit...");
+MsgDisp("主人公","Eh∋ Is it weird?");
 ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,3);
 ChCheek(4,10);
 VoicePlay("B020401000_04_010");
-MsgDisp("Nanatsumori","What?
-Don't be stupid!
+MsgDisp("Nanatsumori","What? Don't be stupid!
 It's not weird!");
 ChEye(4,2);
 ChMouth(4,4);

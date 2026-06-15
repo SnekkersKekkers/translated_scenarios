@@ -7,12 +7,11 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B030710000_07_000");
-MsgDisp("Mikage","Well then, today's extracurricular lesson is the
-regular exhibit.
+MsgDisp("Mikage","Well then, today's extracurricular lesson is
+the regular exhibit.
 Take it all in.");
 VoicePlay("B030710000_42_000");
-MsgDisp("School Boy","Sigh...
-So boring...");
+MsgDisp("School Boy","Sigh... So boring...");
 VoicePlay("B030710000_44_000");
 MsgDisp("School Girl","I've already been here before.");
 ChEye(7,2);

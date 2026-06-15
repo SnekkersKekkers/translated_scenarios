@@ -40,8 +40,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 VoicePlay("B360316001_03_030");
-MsgDisp("Honda","Ugh...
-I can't keep up at all...");
+MsgDisp("Honda","Ugh... I can't keep up at all...");
 MsgDisp("主人公","｛Honda＊＊｝ you picked a really
 high-difficulty stage right off the bat.");
 ChEye(3,2);

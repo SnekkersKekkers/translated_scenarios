@@ -31,8 +31,7 @@ here to watch.");
     ChEye(5,4);
     ChMouth(5,3);
     VoicePlay("H180500000_05_030");
-    MsgDisp("Hiiragi","Now, it's your time.
-Go on.");
+    MsgDisp("Hiiragi","Now, it's your time. Go on.");
     MsgDisp("主人公","Yes!");
     break ;
     default :

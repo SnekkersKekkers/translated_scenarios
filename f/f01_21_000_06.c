@@ -56,8 +56,7 @@ Next time, we'll definitely go.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(21);
-    MsgDisp("主人公","(I see...
-So the timing was bad...)");
+    MsgDisp("主人公","(I see... So the timing was bad...)");
     break ;
     default :
     DbgAssert(1);

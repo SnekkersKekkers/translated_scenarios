@@ -7,8 +7,7 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,3,1);
     VoicePlay("F010800005_08_000");
     MsgDisp("Shirahane","Yeah, let's do it!");
-    MsgDisp("主人公","Good.
-Then, let's go.");
+    MsgDisp("主人公","Good. Then, let's go.");
     break ;
     case 3:
     ChEye(8,3);
@@ -16,10 +15,8 @@ Then, let's go.");
     ChMotion(8,3,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("F010800005_08_010");
-    MsgDisp("Shirahane","Yeah!
-I wanna talk to ya the whole time.");
-    MsgDisp("主人公","Hehe.
-Then, let's go!");
+    MsgDisp("Shirahane","Yeah! I wanna talk to ya the whole time.");
+    MsgDisp("主人公","Hehe. Then, let's go!");
     break ;
     case 4:
     case 5:
@@ -27,8 +24,7 @@ Then, let's go!");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("F010800005_08_020");
-    MsgDisp("Shirahane","Yeah.
-Let's go and take our time.");
+    MsgDisp("Shirahane","Yeah. Let's go and take our time.");
     MsgDisp("主人公","Okay.");
     ChEye(8,4);
     ChMouth(8,3);
@@ -38,8 +34,7 @@ Let's go and take our time.");
     MsgDisp("Shirahane","Yeah...
 This really feels like that 'springtime of
 youth' thing.");
-    MsgDisp("主人公","Hehe.
-Well, shall we go?");
+    MsgDisp("主人公","Hehe. Well, shall we go?");
     break ;
     default :
     DbgAssert(1);

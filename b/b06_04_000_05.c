@@ -13,6 +13,6 @@ MsgDisp("Nanatsumori","...By the way.
 Is this place your current top pick? 'Cause
 I'm already bored of it.");
 MsgDisp("主人公","(Oh no!
-I should have remembered where we went last
-time!)");
+I should have remembered where we went
+last time!)");
 MsgDispSksp(0);

@@ -1,8 +1,7 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Well, I think it's time to go home.
-...Huh?");
+MsgDisp("主人公","Well, I think it's time to go home. ...Huh?");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝!");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_A");
@@ -39,8 +38,8 @@ ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("E010510000_05_040");
 MsgDisp("Hiiragi","No, there isn't any...
-It seems things don't always go the way we
-wish.");
+It seems things don't always go the way
+we wish.");
 ChEye(5,2);
 ChMotion(5,0);
 VoicePlay("E010510000_05_050");
@@ -63,8 +62,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 VoicePlay("E010510000_47_000");
-MsgDisp("Woman","Oh my!
-The chairman really was here!
+MsgDisp("Woman","Oh my! The chairman really was here!
 Ah! Here, these are for you!");
 VoicePlay("E010510000_05_080");
 MsgDisp("Hiiragi","Ah, I'm honoured.

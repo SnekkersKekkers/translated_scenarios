@@ -25,8 +25,8 @@ I'll watch.");
     ChMotion(4,2,1);
     VoicePlay("B040424102_04_020");
     MsgDisp("Nanatsumori","You go enjoy it yourself.
-I can't let sheep or cows lick me, no matter
-what.");
+I can't let sheep or cows lick me, no
+matter what.");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -52,8 +52,7 @@ Wanna go home?");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040424102_04_040");
-        MsgDisp("Nanatsumori","Ha?
-Me?");
+        MsgDisp("Nanatsumori","Ha? Me?");
         MsgDisp("主人公","Yeah.");
         ChEye(4,0);
         ChMouth(4,0);
@@ -71,16 +70,13 @@ stare off into space...");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040424102_04_070");
-        MsgDisp("Nanatsumori","...Hm.
-Well, more or less.");
-        MsgDisp("主人公","I see.
-Then, shall we go somewhere else?");
+        MsgDisp("Nanatsumori","...Hm. Well, more or less.");
+        MsgDisp("主人公","I see. Then, shall we go somewhere else?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040424102_04_080");
-        MsgDisp("Nanatsumori","No, no!
-Let's not do that.
+        MsgDisp("Nanatsumori","No, no! Let's not do that.
 We came all the way here...");
         MsgDisp("主人公","But...");
         ChEye(4,4);

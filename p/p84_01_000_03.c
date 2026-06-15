@@ -25,8 +25,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("P840100003_01_020");
 MsgDisp("Kazama","You're shaking aren't you?
-You're pushing yourself too hard. Think
-of your own stamina, and move accordingly.");
+You're pushing yourself too hard. Think of
+your own stamina, and move accordingly.");
 MsgDisp("主人公","That's right huh...");
 ChEye(1,2);
 ChMouth(1,2);
@@ -34,8 +34,7 @@ ChMotion(1,0);
 VoicePlay("P840100003_01_030");
 MsgDisp("Kazama","It's good that you give it your all, but
 don't worry me so much.");
-MsgDisp("主人公","Yeah.
-Got it.");
+MsgDisp("主人公","Yeah. Got it.");
 MsgDisp("主人公","(Uuugh...
 I worried ｛Kazama＊＊｝ even at the end...
 A huge failure...)");

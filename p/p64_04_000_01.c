@@ -12,14 +12,12 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("P640400001_04_010");
-MsgDisp("Nanatsumori","No...
-I'm just a bit surprised.");
+MsgDisp("Nanatsumori","No... I'm just a bit surprised.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P640400001_04_020");
-MsgDisp("Nanatsumori","Hey.
-What's this deeply astringent herb?");
+MsgDisp("Nanatsumori","Hey. What's this deeply astringent herb?");
 MsgDisp("主人公","(Darn it!
 Seems like I failed mixing the herbs...)");
 MsgClose();

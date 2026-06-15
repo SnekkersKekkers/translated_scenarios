@@ -12,8 +12,7 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("O030700000_07_000");
-    MsgDisp("Mikage","Hmhm.
-We synced pretty well.");
+    MsgDisp("Mikage","Hmhm. We synced pretty well.");
     MsgDisp("主人公","(We did it, first place!)");
     break ;
     case 3:
@@ -27,8 +26,8 @@ We synced pretty well.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("O030700000_07_020");
-    MsgDisp("Mikage","Oh no, the stares from the other staff
-hurt...");
+    MsgDisp("Mikage","Oh no, the stares from the other
+staff hurt...");
     MsgDisp("主人公","(We did it, first place!)");
     break ;
     case 4:

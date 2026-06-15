@@ -5,10 +5,8 @@ ChOpen(22,255,0,3,3,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("H5G2200000_22_000");
-MsgDisp("Hikaru","Hey there～
-Mari♪");
-MsgDisp("主人公","Hm?
-What's up ｛ひかる＊｝?");
+MsgDisp("Hikaru","Hey there～ Mari♪");
+MsgDisp("主人公","Hm? What's up ｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -24,8 +22,7 @@ ChMotion(22,0,1);
 VoicePlay("H5G2200000_22_020");
 MsgDisp("Hikaru","Hikaru considered just calling, but decided
 to say it directly to your face, Mari.");
-MsgDisp("主人公","Hehe!
-That makes me happy.");
+MsgDisp("主人公","Hehe! That makes me happy.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

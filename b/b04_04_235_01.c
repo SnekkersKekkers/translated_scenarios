@@ -28,8 +28,7 @@ confidence...");
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("B040423501_04_020");
-    MsgDisp("Nanatsumori","Hmm.
-I'd like to try being both.");
+    MsgDisp("Nanatsumori","Hmm. I'd like to try being both.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

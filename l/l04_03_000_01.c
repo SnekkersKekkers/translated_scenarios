@@ -8,8 +8,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("L040300001_03_000");
     MsgDisp("Honda","Ah, perfect for replenishing my sugar levels.
 Thanks!");
-    MsgDisp("主人公","(Yeah...
-That's how it is.)");
+    MsgDisp("主人公","(Yeah... That's how it is.)");
     break ;
     case 3:
     ChEye(3,3);

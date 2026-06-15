@@ -60,8 +60,7 @@ Thank goodness!)");
     ChMouth(4,4);
     ChMotion(4,0);
     VoicePlay("L040400002_04_050");
-    MsgDisp("Nanatsumori","!
-This was hard to get, right?
+    MsgDisp("Nanatsumori","! This was hard to get, right?
 It's a pretty popular store, now.");
     MsgDisp("主人公","If it's for you, ｛Nanatsumori＊｝, then I
 don't mind a bit of challenge.");

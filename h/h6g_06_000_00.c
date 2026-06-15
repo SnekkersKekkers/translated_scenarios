@@ -38,7 +38,7 @@ VoicePlay("H5G0600000_06_040");
 MsgDisp("Himuro","It's pretty hard to do something like that.
 Really, congrats.");
 MsgDisp("主人公","(I did it!
-I'm really glad I stayed in the gardening
-club!)");
+I'm really glad I stayed in the
+gardening club!)");
 MsgClose();
 ScrFadeOut(0,0);

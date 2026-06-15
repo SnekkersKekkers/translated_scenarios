@@ -19,9 +19,8 @@ switch (MsgSelRsltGet()){
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040524201_05_010");
-        MsgDisp("Hiiragi","No.
-I just think a hammock out in nature would
-feel nice.");
+        MsgDisp("Hiiragi","No. I just think a hammock out in nature
+would feel nice.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -35,8 +34,7 @@ feel nice.");
         ChMotion(5,4);
         VoicePlay("B040524201_05_030");
         MsgDisp("Hiiragi","Honestly, I'm a bit sleep deprived.");
-        MsgDisp("主人公","Eh?
-Are you alright?");
+        MsgDisp("主人公","Eh? Are you alright?");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);

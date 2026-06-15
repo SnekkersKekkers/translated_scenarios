@@ -15,8 +15,8 @@ ChOpen(1,255,0,0,3,#1,#1,0,1,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,2,0,30);
 VoiceEVSPlay(1);
 VoicePlay("B330A20700_01_000");
-MsgDisp("Kazama","｛主人公｝, you're the type animals are drawn
-to.");
+MsgDisp("Kazama","｛主人公｝, you're the type animals are
+drawn to.");
 MsgDisp("主人公","Is that so?
 They're cute, so I'm happy.");
 ChEye(6,0);
@@ -31,8 +31,8 @@ MsgDisp("Sassa","Whoa, what's up?
 Why are you clinging onto me like that?");
 MsgDisp("主人公","｛Sassa＊＊｝?");
 VoicePlay("B330A20700_02_010");
-MsgDisp("Sassa","It's dangerous, I'll accidentally step on
-you.
+MsgDisp("Sassa","It's dangerous, I'll accidentally step
+on you.
 Shoo, get away...");
 VoicePlay("B330A20700_48_000");
 MsgDisp("Staff","Alright, it's feeding time.");
@@ -58,8 +58,8 @@ ScrFadeIn(0);
 VoicePlay("B330A20700_02_020");
 MsgDisp("Sassa","Phew...that saved me.");
 MsgDisp("主人公","Hehe.
-｛Sassa＊＊｝ sure is liked by animals isn't
-he?");
+｛Sassa＊＊｝ sure is liked by animals
+isn't he?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -76,8 +76,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20700_01_010");
-MsgDisp("Kazama","Then, maybe it's cause he smells of protein
-powder?");
+MsgDisp("Kazama","Then, maybe it's cause he smells of
+protein powder?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

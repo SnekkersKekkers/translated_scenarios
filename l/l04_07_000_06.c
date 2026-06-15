@@ -22,8 +22,7 @@ But, food is valuable, too.");
     VoicePlay("L040700006_07_020");
     MsgDisp("Mikage","Having said that, thanks.
 I'm happy about your feelings.");
-    MsgDisp("主人公","(Ugh...
-I wish it came out better...)");
+    MsgDisp("主人公","(Ugh... I wish it came out better...)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -53,8 +52,7 @@ Like lava that's beginning to harden, right?");
     MsgDisp("Mikage","Sorry, sorry.
 You did make it just for me.
 That's good enough, thanks.");
-    MsgDisp("主人公","(Ugh...
-I wish it came out better...)");
+    MsgDisp("主人公","(Ugh... I wish it came out better...)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -81,8 +79,8 @@ half-hearted.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("L040700006_07_080");
-    MsgDisp("Mikage","I'll make sure to prepare myself, and eat
-this.
+    MsgDisp("Mikage","I'll make sure to prepare myself, and
+eat this.
 Thanks.");
     MsgDisp("主人公","｛Mikage＊＊｝, you don't have to force
 yourself to eat it...");

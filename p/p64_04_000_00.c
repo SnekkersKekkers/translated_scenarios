@@ -22,8 +22,7 @@ VoicePlay("P640400000_04_020");
 MsgDisp("Nanatsumori","Actually?
 The slight sweetness is seriously good.
 You did a good job, huh?");
-MsgDisp("主人公","(Yay!
-I was praised by ｛Nanatsumori＊｝!)");
+MsgDisp("主人公","(Yay! I was praised by ｛Nanatsumori＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

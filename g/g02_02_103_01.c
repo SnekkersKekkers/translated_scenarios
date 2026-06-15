@@ -13,23 +13,21 @@ VoicePlay("G020210301_02_010");
 MsgDisp("Sassa","Now that I think of it, you came to my house
 the other day, right?
 It was a tough time after that.");
-MsgDisp("主人公","Eh?
-Did I do something rude...?");
+MsgDisp("主人公","Eh? Did I do something rude...?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210301_02_020");
-MsgDisp("Sassa","No, no.
-My mom and even my dad bombarded me with
-questions.");
+MsgDisp("Sassa","No, no. My mom and even my dad bombarded me
+with questions.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020210301_02_030");
 MsgDisp("Sassa","Starting with your name, then your hobbies
-and favourite foods. I was like, what are they
-going to do with all that?");
+and favourite foods. I was like, what are
+they going to do with all that?");
 MsgDisp("主人公","I'm a little embarrassed...
 ｛Sassa＊＊｝, it must have been tough, huh?");
 ChEye(2,0);
@@ -44,9 +42,9 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("G020210301_02_050");
-MsgDisp("Sassa","Thinking that you were just there made me
-restless in my own room, and I couldn't
-sleep.");
+MsgDisp("Sassa","Thinking that you were just there made
+me restless in my own room, and I
+couldn't sleep.");
 MsgDisp("主人公","Hehe, why?
 You're funny, ｛Sassa＊＊｝.");
 ChEye(2,0);
@@ -64,8 +62,7 @@ ChCheek(2,0);
 VoicePlay("G020210301_02_070");
 MsgDisp("Sassa","Thanks to that, I was sleepy during my
 morning training—.");
-MsgDisp("主人公","(Umm...
-I didn't cause any trouble, did I?)");
+MsgDisp("主人公","(Umm... I didn't cause any trouble, did I?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

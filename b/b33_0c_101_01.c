@@ -45,8 +45,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C10101_07_010");
 MsgDisp("Mikage","Sure.");
-MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝, what are you doing?");
+MsgDisp("主人公","Hehe. ｛Mikage＊＊｝, what are you doing?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -89,8 +88,8 @@ ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(6,255,0,0,0,#1,#1,0,3,0,30);
 ChEye(5,4);
 VoicePlay("B330C10101_05_030");
-MsgDisp("Hiiragi","Mikage-sensei really likes animals doesn't
-he?");
+MsgDisp("Hiiragi","Mikage-sensei really likes animals
+doesn't he?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

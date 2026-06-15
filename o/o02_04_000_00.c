@@ -41,8 +41,7 @@ I'm glad I did my best.)");
     ScrFadeIn(0);
     VoicePlay("O020400000_04_030");
     MsgDisp("Nanatsumori","Wow...");
-    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝! I won!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -55,8 +54,7 @@ you pull that rope...");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("O020400000_04_050");
-    MsgDisp("Nanatsumori","Haha!
-Congrats.
+    MsgDisp("Nanatsumori","Haha! Congrats.
 Make sure to care for your hands, alright?");
     MsgDisp("主人公","(I did it!
 I'm glad I did my best.)");

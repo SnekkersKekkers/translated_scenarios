@@ -72,8 +72,8 @@ ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("B330A10100_06_010");
 MsgDisp("Himuro","Pfft.
-Hey, this is because you're telling weird
-lies.");
+Hey, this is because you're telling
+weird lies.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -92,8 +92,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A10100_02_030");
-MsgDisp("Sassa","Haha!
-You're really possessive.");
+MsgDisp("Sassa","Haha! You're really possessive.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

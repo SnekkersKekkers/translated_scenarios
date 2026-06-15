@@ -49,8 +49,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D130B00001_03_020");
-MsgDisp("Honda","Why?
-Is even asking a no-go?");
+MsgDisp("Honda","Why? Is even asking a no-go?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

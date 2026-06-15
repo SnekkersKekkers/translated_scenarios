@@ -54,14 +54,12 @@ I'm so glad I wore my kimono.)");
     VoicePlay("S060600001_06_060");
     MsgDisp("Himuro","When you dress up like that, it almost feels
 like you're a completely different person.");
-    MsgDisp("主人公","Hehe.
-Is that so?");
+    MsgDisp("主人公","Hehe. Is that so?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S060600001_06_070");
-    MsgDisp("Himuro","Yeah...
-That's how well it suits you.");
+    MsgDisp("Himuro","Yeah... That's how well it suits you.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0,1);

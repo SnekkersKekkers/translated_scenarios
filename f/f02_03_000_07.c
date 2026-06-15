@@ -32,8 +32,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("F020300007_03_030");
-MsgDisp("Honda","Although, it'd be different if I could go
-abroad.");
+MsgDisp("Honda","Although, it'd be different if I could
+go abroad.");
 MsgDisp("主人公","To see foreign bugs?");
 ChSet(3,3);
 VoicePlay("F020300007_03_040");

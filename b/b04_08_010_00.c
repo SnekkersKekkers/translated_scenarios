@@ -5,8 +5,7 @@ ChMouth(8,3);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040801000_08_000");
-MsgDisp("Shirahane","Ah!
-How 'bout this?
+MsgDisp("Shirahane","Ah! How 'bout this?
 I think it suits ya a lot.");
 MsgSel("You're right, I think I should buy it!","I wonder about that...","It doesn't suit me!");
 switch (MsgSelRsltGet()){

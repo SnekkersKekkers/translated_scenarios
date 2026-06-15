@@ -6,8 +6,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("F010300004_03_000");
-    MsgDisp("Honda","Oh, can't.
-I have plans today.");
+    MsgDisp("Honda","Oh, can't. I have plans today.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -35,15 +34,13 @@ I'll go home alone.)");
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("F010300004_03_020");
-    MsgDisp("Honda","Dah—
-I already made other plans!");
+    MsgDisp("Honda","Dah— I already made other plans!");
     MsgDisp("主人公","Oh, you already made plans?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("F010300004_03_030");
-    MsgDisp("Honda","Yeah...
-Hey, make sure to invite me again?
+    MsgDisp("Honda","Yeah... Hey, make sure to invite me again?
 I'll definitely invite you too!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

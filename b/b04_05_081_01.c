@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("B040508101_05_010");
-    MsgDisp("Hiiragi","Yes, that's a perfectly-suited expression for
-you.");
+    MsgDisp("Hiiragi","Yes, that's a perfectly-suited expression
+for you.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -37,8 +37,8 @@ you.");
     ChMotion(5,3);
     VoicePlay("B040508101_05_030");
     MsgDisp("Hiiragi","That's right.
-It's as if I can hear their happy sounding
-voices.");
+It's as if I can hear their happy
+sounding voices.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

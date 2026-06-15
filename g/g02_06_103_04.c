@@ -47,8 +47,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G020610304_06_070");
 MsgDisp("Himuro","I was so indecisive when choosing it.
-The other final contenders weren't bad
-either.");
+The other final contenders weren't
+bad either.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -82,8 +82,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610304_06_120");
-MsgDisp("Himuro","Ugh...
-I really hate this.
+MsgDisp("Himuro","Ugh... I really hate this.
 This isn't like me at all.");
 MsgDisp("主人公","(｛Himuro＊＊｝...
 Gave his utmost effort in choosing a present

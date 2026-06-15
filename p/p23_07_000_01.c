@@ -17,8 +17,8 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","｛主人公｝.
 How is the Leifeng Pagoda set?");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
-It's a bit slanted, but we somehow made it in
-time.");
+It's a bit slanted, but we somehow made it
+in time.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -37,10 +37,9 @@ shortly.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("P230700001_07_020");
-    MsgDisp("Mikage","Alright, let's straighten it up during scene
-change.");
-    MsgDisp("主人公","Yes!
-I hope it holds up until then...!");
+    MsgDisp("Mikage","Alright, let's straighten it up during
+scene change.");
+    MsgDisp("主人公","Yes! I hope it holds up until then...!");
     break ;
     default :
     DbgAssert(1);

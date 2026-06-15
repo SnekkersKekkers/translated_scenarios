@@ -22,8 +22,8 @@ ChEyeOpenLevel(1,0);
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("B330B10801_04_000");
-MsgDisp("Nanatsumori","In other words, there's been a version
-update.");
+MsgDisp("Nanatsumori","In other words, there's been a
+version update.");
 MsgDisp("主人公","∋");
 ChEye(3,3);
 ChMouth(3,3);
@@ -31,8 +31,7 @@ ChMotion(3,3,1);
 VoicePlay("B330B10801_03_000");
 MsgDisp("Honda","How super fun!
 Let's all search for what's changed.");
-MsgDisp("主人公","H-Hey.
-Isn't everyone scared?");
+MsgDisp("主人公","H-Hey. Isn't everyone scared?");
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
@@ -40,8 +39,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B10801_03_010");
-MsgDisp("Honda","My eyes are drawn to the tricks before I feel
-scared.
+MsgDisp("Honda","My eyes are drawn to the tricks before I
+feel scared.
 I don't often notice the ghosts.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -87,8 +86,7 @@ ChClose(3,0,30);
 ChClose(4,0,30);
 ScrQuake(0);
 SEWait();
-MsgDisp("主人公","(Waa～!
-｛Kazama＊＊｝ is so mean∈)");
+MsgDisp("主人公","(Waa～! ｛Kazama＊＊｝ is so mean∈)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

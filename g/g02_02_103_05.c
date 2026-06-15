@@ -15,8 +15,7 @@ ChMotion(2,4);
 VoicePlay("G020210305_02_020");
 MsgDisp("Sassa","Lately, I've been associating things with
 milk and cows, and you keep popping up...");
-MsgDisp("主人公","Ehh∋
-W-Why?");
+MsgDisp("主人公","Ehh∋ W-Why?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

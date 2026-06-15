@@ -34,8 +34,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010320100_04_010");
-MsgDisp("Nanatsumori","Yo.
-Are you also shopping at the flea market?");
+MsgDisp("Nanatsumori","Yo. Are you also shopping at the flea market?");
 MsgDisp("主人公","Yeah, I'm shopping.
 ｛Nanatsumori＊｝ did you decide on any
 accessories yet?");
@@ -70,9 +69,9 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("E010320100_03_040");
-MsgDisp("Honda","Ehh∋
-Why? I wanted the three of us to choose
-something together!");
+MsgDisp("Honda","Ehh∋ Why?
+I wanted the three of us to choose something
+together!");
 MsgDisp("主人公","Hehe, yeah.
 Maybe that would've been nice.");
 ChEye(3,0);
@@ -80,8 +79,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("E010320100_03_050");
 MsgDisp("Honda","See?
-Mi-kun, why don't you search for something
-again?");
+Mi-kun, why don't you search for
+something again?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);

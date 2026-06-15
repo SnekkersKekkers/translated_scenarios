@@ -1,5 +1,4 @@
-MsgDisp("主人公","(Huh?
-What's up with me?
+MsgDisp("主人公","(Huh? What's up with me?
 My heart is racing super fast...)");
 ChEye(3,4);
 ChMouth(3,4);

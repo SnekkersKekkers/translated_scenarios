@@ -14,8 +14,7 @@ VoicePlay("G110700400_07_010");
 MsgDisp("Mikage","｛主人公｝.
 Please stop by the gardening club for a bit
 on your way home.");
-MsgDisp("主人公","Eh...
-Ah, okay!");
+MsgDisp("主人公","Eh... Ah, okay!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7);

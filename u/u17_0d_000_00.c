@@ -16,8 +16,7 @@ StlEye(22,1,0);
 StlEyeOpenLevel(22,0,1);
 StlMouth(22,2);
 VoicePlay("U170D00000_22_000");
-MsgDisp("Hikaru","Huh～∋
-We haven't chatted enough yet～!");
+MsgDisp("Hikaru","Huh～∋ We haven't chatted enough yet～!");
 StlEyeOpenLevel(22,#1);
 StlEyeOpenLevel(21,5,1);
 StlMouth(21,1);
@@ -42,8 +41,8 @@ VoicePlay("U170D00000_22_020");
 MsgDisp("Hikaru","......");
 MsgDisp("主人公","...?");
 VoicePlay("U170D00000_21_030");
-MsgDisp("Michiru","...Doesn't it feel like we're already in a
-dream?");
+MsgDisp("Michiru","...Doesn't it feel like we're already in
+a dream?");
 MsgDisp("主人公","(Hehe!
 The three of us had a lot of fun talking
 about all sorts of things...)");

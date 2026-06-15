@@ -17,8 +17,8 @@ ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P513200000_32_010");
 MsgDisp("VP Himuro","What's wrong?
-Your strange behaviour makes people around you
-uneasy.");
+Your strange behaviour makes people around
+you uneasy.");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P513200000_32_020");

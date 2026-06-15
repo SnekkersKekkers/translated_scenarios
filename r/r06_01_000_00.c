@@ -10,5 +10,4 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Introduction to Fly-Fishing\")");
-MsgDisp("主人公","(Fly-Fishing from scratch...
-Huh.)");
+MsgDisp("主人公","(Fly-Fishing from scratch... Huh.)");

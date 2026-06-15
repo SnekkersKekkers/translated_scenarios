@@ -22,8 +22,7 @@ MsgDisp("Staff","Excuse me, Sir.
 Please remove your glasses.");
 StlEyeOpenLevel(4,0);
 VoicePlay("B050400200_04_020");
-MsgDisp("Nanatsumori","Got it.
-...Sigh.");
+MsgDisp("Nanatsumori","Got it. ...Sigh.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -36,8 +35,7 @@ ScrFadeIn(0);
 VoicePlay("B050400200_48_010");
 MsgDisp("Staff","Thank you for your cooperation!
 Now, have a good dive!");
-MsgDisp("主人公","(Ugh...
-It's about time to jump.
+MsgDisp("主人公","(Ugh... It's about time to jump.
 ｛Nanatsumori＊｝ is...)");
 MsgDisp("主人公","Ah.");
 StlEyeOpenLevel(4,5,1);
@@ -49,14 +47,12 @@ StlEyeOpenLevel(4,0,1);
 VoicePlay("B050400200_04_040");
 MsgDisp("Nanatsumori","That's right.
 I'd never take them off at school.");
-MsgDisp("主人公","Yeah.
-｛Nanatsumori＊｝ is super cool even now.");
+MsgDisp("主人公","Yeah. ｛Nanatsumori＊｝ is super cool even now.");
 StlEye(4,1);
 VoicePlay("B050400200_04_050");
 MsgDisp("Nanatsumori","Thanks.
 Then, let's fly.");
-MsgDisp("主人公","Eh∋
-I haven't braced myself yet—");
+MsgDisp("主人公","Eh∋ I haven't braced myself yet—");
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400200_04_060");
 MsgDisp("Nanatsumori","Too late.");

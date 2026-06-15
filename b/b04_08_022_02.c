@@ -58,8 +58,7 @@ I'll end up being good at it?");
         ChMotion(8,4,1);
         ChCheek(8,7);
         VoicePlay("B040802202_08_050");
-        MsgDisp("Shirahane","Hehe.
-It's nothin', forget it.");
+        MsgDisp("Shirahane","Hehe. It's nothin', forget it.");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,0,1);
@@ -72,8 +71,7 @@ Just now.");
         ChMotion(8,5,1);
         ChCheek(8,10);
         VoicePlay("B040802202_08_070");
-        MsgDisp("Shirahane","Wow!
-That's enough, don't say it!");
+        MsgDisp("Shirahane","Wow! That's enough, don't say it!");
         MsgDisp("主人公","(｛Daichi＊＊｝'s face is all red!)");
         break ;
         default :

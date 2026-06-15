@@ -17,8 +17,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30401_06_000");
-MsgDisp("Himuro","It was Kojiro-sensei who decided on this
-place.
+MsgDisp("Himuro","It was Kojiro-sensei who decided on
+this place.
 You must've had some intention in mind right?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -60,8 +60,7 @@ ChMouth(6,0);
 ChMotion(6,7);
 ScrFadeIn(0);
 VoicePlay("B330C30401_07_030");
-MsgDisp("Mikage","Phew...
-It's like I was guided here.");
+MsgDisp("Mikage","Phew... It's like I was guided here.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
@@ -120,8 +119,8 @@ ChMotion(6,3);
 VoicePlay("B330C30401_06_040");
 MsgDisp("Himuro","But, he does look more energised?");
 MsgDisp("主人公","(Are these two actually worried about
-｛Mikage＊＊｝ or are they just teasing
-him...)");
+｛Mikage＊＊｝ or are they just
+teasing him...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

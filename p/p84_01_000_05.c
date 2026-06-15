@@ -2,16 +2,15 @@ MsgClose();
 ChClose(1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew.
-Somehow it didn't become a huge problem
-but...");
+Somehow it didn't become a huge
+problem but...");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(1,254,0,4,2,#1,#1,0,0);
 ChMotion(1,3);
 VoicePlay("P840100005_01_000");
 MsgDisp("Kazama","You were just lucky.");
-MsgDisp("主人公","Ah, ｛Kazama＊＊｝...
-Yes.");
+MsgDisp("主人公","Ah, ｛Kazama＊＊｝... Yes.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

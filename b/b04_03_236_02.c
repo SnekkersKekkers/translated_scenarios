@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChMouth(3,4);
         ChMotion(3,2);
         VoicePlay("B040323602_03_010");
-        MsgDisp("Honda","Eh, I don't have any business with him
-though?");
+        MsgDisp("Honda","Eh, I don't have any business with
+him though?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -34,8 +34,7 @@ though?");
         ChMotion(3,5);
         VoicePlay("B040323602_03_020");
         MsgDisp("Honda","Ah, it might be that time I saved a tuna.");
-        MsgDisp("主人公","Eh?
-Is the tuna repaying your kindness?");
+        MsgDisp("主人公","Eh? Is the tuna repaying your kindness?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -64,9 +63,9 @@ that time must be you.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040323602_03_060");
-        MsgDisp("Honda","After all, the crane becomes a beautiful
-woman and appears before her benefactor
-right?");
+        MsgDisp("Honda","After all, the crane becomes a
+beautiful woman and appears before her
+benefactor right?");
         ChMouth(3,3);
         ChCheek(3,8);
         VoicePlay("B040323602_03_070");
@@ -79,9 +78,9 @@ life is you.");
         ChEyeOpenLevel(3,0);
         ChCheek(3,0);
         VoicePlay("B040323602_03_080");
-        MsgDisp("Honda","Well instead of weaving, can you cook me
-something that's full of docosahexaenoic
-acid?");
+        MsgDisp("Honda","Well instead of weaving, can you cook
+me something that's full of
+docosahexaenoic acid?");
         MsgDisp("主人公","(Let's take on the challenge...)");
         break ;
         default :

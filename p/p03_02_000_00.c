@@ -34,8 +34,8 @@ cooking team is also wearing yukata.");
     ChEyeOpenLevel(2,0);
     VoicePlay("P030200000_02_020");
     MsgDisp("Sassa","You guys were pretty thorough.
-Looks like I can look forward to the food,
-too.");
+Looks like I can look forward to the
+food, too.");
     MsgDisp("主人公","Hehe, go ahead and savour it.
 Allow me to show you to your seat, sir!");
     break ;
@@ -72,17 +72,15 @@ I'm glad that smell brought me here.");
 judge them, but I have nothing bad to say
 about that yukata.");
     MsgDisp("主人公","I'm glad.
-Then, do you want to try the dango and
-matcha?");
+Then, do you want to try the dango
+and matcha?");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("P030200000_02_060");
-    MsgDisp("Sassa","Okay.
-Then I'll take the set you recommend!");
-    MsgDisp("主人公","Yes.
-I've received your order!");
+    MsgDisp("Sassa","Okay. Then I'll take the set you recommend!");
+    MsgDisp("主人公","Yes. I've received your order!");
     break ;
     default :
     DbgAssert(1);

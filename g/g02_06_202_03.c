@@ -68,8 +68,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("G020620203_06_100");
-MsgDisp("Himuro","So expect to see a more grown-up version of
-me.");
+MsgDisp("Himuro","So expect to see a more grown-up version
+of me.");
 MsgDisp("主人公","Y-Yeah.
 I got it.");
 ChEye(6,0);

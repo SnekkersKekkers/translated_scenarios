@@ -44,8 +44,7 @@ This is going to be fun!)");
         ChMotion(1,0);
         VoicePlay("Q020100000_01_040");
         MsgDisp("Kazama","Ah, is that so.
-Don't wander off and get lost.
-...Bye.");
+Don't wander off and get lost. ...Bye.");
         MsgDisp("主人公","(He even invited me, I feel bad...)");
         break ;
         default :
@@ -70,8 +69,7 @@ Don't wander off and get lost.
     MsgDisp("Kazama","Good morning.
 Have you decided who you're going with for
 the free period?");
-    MsgDisp("主人公","No.
-｛Kazama＊＊｝, have you?");
+    MsgDisp("主人公","No. ｛Kazama＊＊｝, have you?");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,0);
@@ -86,8 +84,7 @@ the free period?");
         ChMotion(1,3);
         ChCheek(1,0);
         VoicePlay("Q020100000_01_080");
-        MsgDisp("Kazama","Phew.
-You worried me for a second there.
+        MsgDisp("Kazama","Phew. You worried me for a second there.
 Don't suddenly go quiet on me.");
         MsgDisp("主人公","Sorry.
 I was thinking of where I want to go.");

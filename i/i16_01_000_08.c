@@ -84,8 +84,8 @@ Then I'll go lock up and turn off the lights.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("I160100008_01_060");
-    MsgDisp("Kazama","I'll close the register and write the daily
-report.");
+    MsgDisp("Kazama","I'll close the register and write the
+daily report.");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);
@@ -110,8 +110,7 @@ We have such a charismatic shopkeeper.");
     VoicePlay("I160100008_01_080");
     MsgDisp("Kazama","It's not like I only work with you.
 I have shifts with other people, too.");
-    MsgDisp("主人公","Hm?
-That means...");
+    MsgDisp("主人公","Hm? That means...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -132,8 +131,8 @@ a store with me?");
     VoicePlay("I160100008_01_110");
     MsgDisp("Kazama","If you think that way, I'll definitely make
 it happen.");
-    MsgDisp("主人公","(｛Kazama＊＊｝ is saying he approves of me,
-right?
+    MsgDisp("主人公","(｛Kazama＊＊｝ is saying he approves of
+me, right?
 I'm glad I worked hard!)");
     break ;
     default :

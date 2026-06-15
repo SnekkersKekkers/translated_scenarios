@@ -42,8 +42,8 @@ with you than I would have alone.");
     ChMotion(3,3,1);
     VoicePlay("Q080300000_03_030");
     MsgDisp("Honda","Yay!
-How about we spend tomorrow together too,
-then?");
+How about we spend tomorrow together
+too, then?");
     MsgDisp("主人公","Yeah, of course!");
     break ;
     default :

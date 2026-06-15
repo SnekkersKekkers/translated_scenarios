@@ -70,8 +70,7 @@ image of a ranch.");
     VoicePlay("P130200000_02_050");
     MsgDisp("Sassa","Then, you're also wearing a cow-print shirt
 because...?");
-    MsgDisp("主人公","Yeah.
-Isn't it cute?");
+    MsgDisp("主人公","Yeah. Isn't it cute?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

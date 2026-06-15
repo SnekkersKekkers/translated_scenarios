@@ -30,8 +30,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330A30500_06_010");
-MsgDisp("Himuro","Yes.
-Then, next it's my turn.");
+MsgDisp("Himuro","Yes. Then, next it's my turn.");
 MsgDisp("主人公","Do your best too, ｛Himuro＊＊｝.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

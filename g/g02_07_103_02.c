@@ -42,8 +42,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710302_07_050");
 MsgDisp("Mikage","That's it.
-Intentionally matching outfits would be
-boring.");
+Intentionally matching outfits would
+be boring.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

@@ -17,8 +17,8 @@ ChOpen(36,254,0,0,1,#1,#1,0,0);
 VoicePlay("D020100200_36_000");
 MsgDisp("Grandpa","Welcome.
 ...Oh, you're the reporter.");
-MsgDisp("主人公","I wanted to thank you for all your help last
-time.
+MsgDisp("主人公","I wanted to thank you for all your help
+last time.
 Ah, I didn't come to interview you today...");
 ChEye(36,0);
 ChMouth(36,0);
@@ -33,13 +33,12 @@ MsgDisp("主人公","Eh, ｛Kazama＊＊｝ is here?");
 ChEye(36,1);
 ChMouth(36,0);
 VoicePlay("D020100200_36_030");
-MsgDisp("Grandpa","Yes...
-You're not here to see Ryota either?
+MsgDisp("Grandpa","Yes... You're not here to see Ryota either?
 That makes me even happier.");
 ChEye(36,0);
-MsgDisp("主人公","Hehe!
-Uhm... What's that thing you were talking
-about, \"bug drying\"?");
+MsgDisp("主人公","Hehe! Uhm...
+What's that thing you were talking about,
+\"bug drying\"?");
 ChEye(36,0);
 ChMouth(36,2);
 VoicePlay("D020100200_36_040");

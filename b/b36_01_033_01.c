@@ -22,32 +22,31 @@ VoicePlay("B360103301_01_010");
 MsgDisp("Kazama","That's right.
 I'm not restlessly looking around like you
 are, I'm always concentrated.");
-MsgDisp("主人公","But there are so many interesting fish here,
-right?");
+MsgDisp("主人公","But there are so many interesting fish
+here, right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360103301_01_020");
 MsgDisp("Kazama","Right.
 Well, to me you're much more interesting.");
-MsgDisp("主人公","Ehh?
-That's cruel.");
+MsgDisp("主人公","Ehh? That's cruel.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360103301_01_030");
-MsgDisp("Kazama","I'm not calling you weird, I'm calling you
-cute.");
+MsgDisp("Kazama","I'm not calling you weird, I'm calling
+you cute.");
 MsgDisp("主人公","Hmmph.
-But, are you saying the fish here aren't
-cute?");
+But, are you saying the fish here
+aren't cute?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360103301_01_040");
 MsgDisp("Kazama","Don't be so huffy.
-Come on, let's take our time in looking
-around.");
+Come on, let's take our time in
+looking around.");
 SEPlay("EV_SE_544");
 MsgClose();
 ChClose(1,0,30);
@@ -60,10 +59,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360103301_01_050");
 MsgDisp("Kazama","It's finally just the two of us.
-I also want you to let me take a thorough
-look.");
-MsgDisp("主人公","Hey...
-I'm not a deep-sea fish!");
+I also want you to let me take a
+thorough look.");
+MsgDisp("主人公","Hey... I'm not a deep-sea fish!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -42,8 +42,8 @@ So there are gigs that are just solo
 singer-songwriters?");
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Both the male and female singer had wonderful
-voices!");
+MsgDisp("主人公","Both the male and female singer had
+wonderful voices!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -54,8 +54,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B30501_01_020");
-MsgDisp("Kazama","Yeah, it's enjoyable and also moves you to
-tears.");
+MsgDisp("Kazama","Yeah, it's enjoyable and also moves you
+to tears.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -85,8 +85,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B30501_01_030");
-MsgDisp("Kazama","If it's like this, I wouldn't mind coming
-again.");
+MsgDisp("Kazama","If it's like this, I wouldn't mind
+coming again.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);

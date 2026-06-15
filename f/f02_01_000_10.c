@@ -5,8 +5,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","I wonder if the culture festival play will go
-well?");
+MsgDisp("主人公","I wonder if the culture festival play will
+go well?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

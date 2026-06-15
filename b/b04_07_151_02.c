@@ -43,8 +43,7 @@ switch (MsgSelRsltGet()){
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040715102_07_030");
-        MsgDisp("Mikage","O-Oh.
-Isn't that overkill?");
+        MsgDisp("Mikage","O-Oh. Isn't that overkill?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -66,8 +65,7 @@ Isn't that overkill?");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040715102_07_060");
-        MsgDisp("Mikage","I see.
-Then...next time?");
+        MsgDisp("Mikage","I see. Then...next time?");
         MsgDisp("主人公","Ah...okay.");
         ChEye(7,2);
         ChMouth(7,0);

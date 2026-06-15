@@ -53,8 +53,7 @@ I was actually hoping to go sightseeing with
     VoicePlay("Q040700001_07_050");
     MsgDisp("Mikage","It isn't really popular, so you're the only
 participant.");
-    MsgDisp("主人公","Yay!
-Well then, let's go!");
+    MsgDisp("主人公","Yay! Well then, let's go!");
     break ;
     default :
     DbgAssert(1);

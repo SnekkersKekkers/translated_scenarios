@@ -5,8 +5,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020400003_04_000");
-MsgDisp("Nanatsumori","Hm...
-That, huh.");
+MsgDisp("Nanatsumori","Hm... That, huh.");
 MsgDisp("主人公","Um, are these clothes weird?");
 ChEye(4,2);
 ChMouth(4,2);

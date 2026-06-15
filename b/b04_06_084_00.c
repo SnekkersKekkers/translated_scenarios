@@ -29,8 +29,7 @@ important.");
     ChMouth(6,3);
     ChMotion(6,5);
     VoicePlay("B040608400_06_020");
-    MsgDisp("Himuro","Pfft...
-You said that so assertively.
+    MsgDisp("Himuro","Pfft... You said that so assertively.
 It made me laugh a bit.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -42,8 +41,7 @@ It made me laugh a bit.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040608400_06_030");
-    MsgDisp("Himuro","Ha?
-I don't get what you mean.");
+    MsgDisp("Himuro","Ha? I don't get what you mean.");
     MsgDateResultDisp();
     break ;
     default :

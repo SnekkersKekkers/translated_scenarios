@@ -15,8 +15,8 @@ It's embarrassing when you call me that...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(21);
     MsgDisp("主人公","(She left...
-She doesn't seem to like it when I call her
-that.)");
+She doesn't seem to like it when I call
+her that.)");
     break ;
     case 3:
     MsgDisp("主人公","｛みちる＊｝.");
@@ -24,8 +24,7 @@ that.)");
     BGMPlay("BGM_C21_MICHIRU_A",0.01);
     ChOpen(21,254,0,5,4,#1,#1,0,0);
     VoicePlay("F012100001_21_010");
-    MsgDisp("Michiru","...Huh?
-Are you talking to me?");
+    MsgDisp("Michiru","...Huh? Are you talking to me?");
     MsgDisp("主人公","Yes.");
     ChEye(21,2);
     ChMouth(21,2);
@@ -38,8 +37,8 @@ I just don't think I can accept it.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(21);
     MsgDisp("主人公","(She left...
-She doesn't seem to like it when I call her
-that.)");
+She doesn't seem to like it when I call
+her that.)");
     break ;
     case 4:
     case 5:
@@ -63,8 +62,8 @@ get angry, okay?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(21);
     MsgDisp("主人公","(She left...
-She doesn't seem to like it when I call her
-that.)");
+She doesn't seem to like it when I call
+her that.)");
     break ;
     default :
     DbgAssert(1);

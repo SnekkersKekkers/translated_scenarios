@@ -18,8 +18,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("B360507000_05_010");
-MsgDisp("Hiiragi","Yeah.
-But I already have it.");
+MsgDisp("Hiiragi","Yeah. But I already have it.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360507000_05_020");
@@ -42,8 +41,8 @@ Wait(8,0);
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360507000_05_050");
-MsgDisp("Hiiragi","Shall we buy something together to remember
-today?");
+MsgDisp("Hiiragi","Shall we buy something together to
+remember today?");
 ChEye(5,3);
 VoicePlay("B360507000_05_060");
 MsgDisp("Hiiragi","That way, the impression of this moment will
@@ -54,8 +53,7 @@ Wait(12,0);
 ChEye(5,0);
 ChMouth(5,3);
 VoicePlay("B360507000_05_070");
-MsgDisp("Hiiragi","Haha.
-I'm actually quite the strategist.");
+MsgDisp("Hiiragi","Haha. I'm actually quite the strategist.");
 MsgDisp("主人公","(Something about ｛Hiiragi＊＊＊｝ seems a little
 different from usual...)");
 BGMStop();

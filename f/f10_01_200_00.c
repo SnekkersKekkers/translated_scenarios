@@ -3,8 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100120000_01_000");
 MsgDisp("Kazama?","That's convenient.");
-MsgDisp("主人公","(Huh?
-That voice just now...)");
+MsgDisp("主人公","(Huh? That voice just now...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,1);
@@ -54,8 +53,7 @@ MsgClose();
 SEPlay("EV_SE_856");
 ChClose(1,0,30);
 ChClose(7,0,30);
-MsgDisp("主人公","(Haha.
-｛Kazama＊＊｝ sounds so earnest.
+MsgDisp("主人公","(Haha. ｛Kazama＊＊｝ sounds so earnest.
 Living alone sounds like tough work...)");
 VoicePlay("F100120000_07_030");
 MsgDisp("Mikage","First of all, wash your clothes as

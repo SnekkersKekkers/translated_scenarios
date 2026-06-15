@@ -13,8 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B360250400_02_000");
 MsgDisp("Sassa","The scenery looks completely different from
 just a moment ago.");
-MsgDisp("主人公","Yeah.
-Because the lights are pretty.");
+MsgDisp("主人公","Yeah. Because the lights are pretty.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -25,8 +24,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360250400_02_020");
-MsgDisp("Sassa","Just now, we were with Ryota and Inori,
-right?
+MsgDisp("Sassa","Just now, we were with Ryota and
+Inori, right?
 The scenery is different when I'm with you.");
 ChEye(2,0);
 ChMouth(2,0);

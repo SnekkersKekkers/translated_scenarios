@@ -37,8 +37,7 @@ further?");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,7);
         VoicePlay("B040401102_04_020");
-        MsgDisp("Nanatsumori","Why?
-I don't get what you mean at all.");
+        MsgDisp("Nanatsumori","Why? I don't get what you mean at all.");
         MsgDateResultDisp();
         ChEyeOpenLevel(4,#1);
         break ;
@@ -96,15 +95,13 @@ Believe in yourself.");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("B040401102_04_080");
-        MsgDisp("Nanatsumori","Crap.
-This is quite embarrassing.");
+        MsgDisp("Nanatsumori","Crap. This is quite embarrassing.");
         MsgDisp("主人公","Y-Yeah.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040401102_04_090");
-        MsgDisp("Nanatsumori","Guess I'm still just a kid.
-Man...");
+        MsgDisp("Nanatsumori","Guess I'm still just a kid. Man...");
         MsgDisp("主人公","(My heart is racing a bit...)");
         break ;
         default :

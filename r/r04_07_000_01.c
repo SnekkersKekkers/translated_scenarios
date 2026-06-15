@@ -28,8 +28,7 @@ are nervous, right?");
     ChMotion(7,0,1);
     VoicePlay("R040700001_07_030");
     MsgDisp("Mikage","That's how well it suits you.");
-    MsgDisp("主人公","Yay!
-Thank you very much.");
+    MsgDisp("主人公","Yay! Thank you very much.");
     break ;
     case 3:
     ChEye(7,0);
@@ -71,8 +70,7 @@ don't sound serious.");
     VoicePlay("R040700001_07_080");
     MsgDisp("Mikage","That's a beautiful dress.
 It looks good on you.");
-    MsgDisp("主人公","Yay!
-Do you really like it?");
+    MsgDisp("主人公","Yay! Do you really like it?");
     ChEye(7,2);
     ChMouth(7,3);
     ChMotion(7,0);

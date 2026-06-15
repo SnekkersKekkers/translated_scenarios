@@ -8,8 +8,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year the Gardening Club is running a
-cafe.
+    MsgDisp("主人公","(This year the Gardening Club is running
+a cafe.
 We prepared herbal tea and cookies, but...)");
     MsgClose();
     ChLayout(1);
@@ -41,9 +41,9 @@ One customer, please follow me—!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year the Gardening Club's programme is a
-cafe. I have to prepare herbal tea and cookies
-though...)");
+    MsgDisp("主人公","(This year the Gardening Club's programme is
+a cafe. I have to prepare herbal tea and
+cookies though...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
@@ -61,8 +61,7 @@ I came to see how you're doing—");
     ChMouth(4,3);
     ChMotion(4,2,1);
     VoicePlay("P630400000_04_060");
-    MsgDisp("Nanatsumori","No...
-It's herbal tea and cookies right?
+    MsgDisp("Nanatsumori","No... It's herbal tea and cookies right?
 The Gardening Club's store.");
     MsgDisp("主人公","Yeah it is.
 I have confidence it's delicious!");
@@ -70,10 +69,8 @@ I have confidence it's delicious!");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400000_04_070");
-    MsgDisp("Nanatsumori","Oh.
-Then I have to try it.");
-    MsgDisp("主人公","Hehe!
-Then one customer, please follow me!");
+    MsgDisp("Nanatsumori","Oh. Then I have to try it.");
+    MsgDisp("主人公","Hehe! Then one customer, please follow me!");
     break ;
     default :
     DbgAssert(1);

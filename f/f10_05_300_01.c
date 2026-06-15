@@ -88,10 +88,8 @@ ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);
 VoicePlay("F100530001_05_050");
-MsgDisp("Hiiragi","Eh∋
-Are you feeling troubled?");
-MsgDisp("主人公","Eh, um no.
-I'm not troubled but...");
+MsgDisp("Hiiragi","Eh∋ Are you feeling troubled?");
+MsgDisp("主人公","Eh, um no. I'm not troubled but...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -99,8 +97,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F100530001_22_030");
-MsgDisp("Hikaru","See?
-You were mistaken big sis.");
+MsgDisp("Hikaru","See? You were mistaken big sis.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

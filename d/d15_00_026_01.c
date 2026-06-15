@@ -23,8 +23,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChCheek(2,5);
 VoicePlay("D150002601_02_010");
-MsgDisp("Sassa","R...
-Really.");
+MsgDisp("Sassa","R... Really.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -44,8 +43,7 @@ ChMouth(6,1);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D150002601_06_020");
-MsgDisp("Himuro","Huh?
-What are you talking about.
+MsgDisp("Himuro","Huh? What are you talking about.
 That wouldn't make any sense.");
 MsgDisp("主人公","Right.
 ｛Himuro＊＊｝ isn't really a doggy, he's more of

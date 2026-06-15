@@ -11,8 +11,8 @@ MsgDisp("Nanatsumori","Yo.");
 MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChEye(4,2);
 VoicePlay("F100410002_04_010");
-MsgDisp("Nanatsumori","You're making such a scary face, what's
-wrong?");
+MsgDisp("Nanatsumori","You're making such a scary face,
+what's wrong?");
 MsgDisp("主人公","Yeah.
 I feel like...something is calling out to me.");
 ChEye(4,2);
@@ -21,8 +21,7 @@ ChMotion(4,0,1);
 VoicePlay("F100410002_04_020");
 MsgDisp("Nanatsumori","Scary.
 Did you awaken your occult powers?");
-MsgDisp("主人公","Hey...
-Hey, ｛Nanatsumori＊｝.
+MsgDisp("主人公","Hey... Hey, ｛Nanatsumori＊｝.
 You still have your commuter pass, right?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -42,8 +41,7 @@ MsgDisp("Nanatsumori","...What?");
 ChMotion(4,0,1);
 VoicePlay("F100410002_04_060");
 MsgDisp("Nanatsumori","Look, it's there.");
-MsgDisp("主人公","Hey...
-But, I'm glad.");
+MsgDisp("主人公","Hey... But, I'm glad.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

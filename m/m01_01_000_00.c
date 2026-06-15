@@ -4,8 +4,7 @@ MsgDisp("主人公","Yes.");
 VoicePlay("M010100000_01_000");
 MsgDisp("Kazama?","It's me.
 I came to see how you were doing.");
-MsgDisp("主人公","Eehh∈
-｛Kazama＊＊｝∋
+MsgDisp("主人公","Eehh∈ ｛Kazama＊＊｝∋
 P-Please come in...");
 SEPlay("EV_SE_DOOR_007");
 Wait(18);
@@ -55,8 +54,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("M010100000_01_060");
 MsgDisp("Kazama","The sugar'd just go flying.");
-MsgDisp("主人公","Huu...
-It really did.");
+MsgDisp("主人公","Huu... It really did.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -16,8 +16,7 @@ ChMotion(7,2);
 ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("D140500000_05_040");
-MsgDisp("Hiiragi","I see.
-See you later, then.");
+MsgDisp("Hiiragi","I see. See you later, then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.7);
 BGMStop();
 ChClose(5,0,30);

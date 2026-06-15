@@ -40,8 +40,8 @@ part-time job.)");
     StlMouth(22,0);
     VoicePlay("U130D00007_22_020");
     MsgDisp("Hikaru","Yupyup.
-You're on good terms with the Hanegasaki
-boy♪");
+You're on good terms with the
+Hanegasaki boy♪");
     StlEye(21,0);
     VoicePlay("U130D00007_21_010");
     MsgDisp("Michiru","He has a competitive spirit and takes a lot
@@ -75,12 +75,12 @@ He's worried about conflict between you two.");
     StlEyeOpenLevel(22,0,1);
     StlMouth(22,1);
     VoicePlay("U130D00007_22_040");
-    MsgDisp("Hikaru","Right now Mari is the number one thing on his
-mind.");
+    MsgDisp("Hikaru","Right now Mari is the number one thing on
+his mind.");
     StlEye(21,2);
     VoicePlay("U130D00007_21_040");
-    MsgDisp("Michiru","It's a new challenge that's different from
-before.
+    MsgDisp("Michiru","It's a new challenge that's different
+from before.
 He's setting his sights on it...");
     MsgDisp("主人公","?");
     StlEye(21,0);

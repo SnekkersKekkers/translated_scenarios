@@ -18,8 +18,8 @@ ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("H5G0500000_05_020");
-MsgDisp("Hiiragi","Though, it's a shame that I couldn't be
-there.");
+MsgDisp("Hiiragi","Though, it's a shame that I couldn't
+be there.");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("H5G0500000_05_030");

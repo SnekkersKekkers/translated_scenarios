@@ -12,8 +12,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(2,254,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("F100320001_02_010");
-MsgDisp("Sassa","Thank goodness, please say something to him
-too.");
+MsgDisp("Sassa","Thank goodness, please say something to
+him too.");
 MsgDisp("主人公","What's wrong?");
 ChEye(3,0);
 ChMouth(3,3);

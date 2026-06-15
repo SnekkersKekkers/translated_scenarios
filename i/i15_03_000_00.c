@@ -106,10 +106,9 @@ adjust the layout?");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I150300000_03_130");
-    MsgDisp("Honda","I think it'll appeal to more customers that
-way.");
-    MsgDisp("主人公","I see.
-I'll talk to my manager about it.
+    MsgDisp("Honda","I think it'll appeal to more customers
+that way.");
+    MsgDisp("主人公","I see. I'll talk to my manager about it.
 Thanks!");
     ChEye(3,3);
     ChMouth(3,3);

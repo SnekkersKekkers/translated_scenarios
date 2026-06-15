@@ -1,5 +1,4 @@
-MsgDisp("主人公","(Huh?
-What's up with me?
+MsgDisp("主人公","(Huh? What's up with me?
 My heart is racing super fast...)");
 ChEye(1,0);
 ChMouth(1,2);
@@ -12,8 +11,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B070100001_01_350");
-MsgDisp("Kazama","O-Oi.
-Are you feeling unwell?
+MsgDisp("Kazama","O-Oi. Are you feeling unwell?
 Are you alright∋");
 MsgDisp("主人公","Ah...");
 ChEye(1,4);
@@ -28,8 +26,7 @@ ChMouth(1,1);
 ChMotion(1,5);
 ChCheek(1,10);
 VoicePlay("B070100001_01_370");
-MsgDisp("Kazama","Ehh∋
-This development is too sudden—
+MsgDisp("Kazama","Ehh∋ This development is too sudden—
 Hang on a second.");
 ChEye(1,4);
 ChMouth(1,2);
@@ -40,8 +37,8 @@ VoicePlay("B070100001_01_380");
 MsgDisp("Kazama","......Alright, I'm OK.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","...Phew.
-Maybe I feel calmer now that I've said it out
-loud.");
+Maybe I feel calmer now that I've said it
+out loud.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -54,8 +51,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_400");
 MsgDisp("Kazama","...It'll take a while for me.");
-MsgDisp("主人公","Ehh∋
-｛Kazama＊＊｝, your timing is a bit off.");
+MsgDisp("主人公","Ehh∋ ｛Kazama＊＊｝, your timing is a bit off.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

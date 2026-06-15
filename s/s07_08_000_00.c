@@ -17,8 +17,8 @@ Everybody's lookin' so lively.");
     ChMotion(8,3,1);
     VoicePlay("S070800000_08_010");
     MsgDisp("Shirahane","Alright, let's go say hi to the gods.
-I'm gonna put my whole heart into standin' in
-line!");
+I'm gonna put my whole heart into standin'
+in line!");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
@@ -35,8 +35,7 @@ Just what I'd expect from New Year's.");
     VoicePlay("S070800000_08_030");
     MsgDisp("Shirahane","Visit the temple, draw fortunes...
 What should we do?");
-    MsgDisp("主人公","Hehe!
-Here, let's keep moving, shall we?");
+    MsgDisp("主人公","Hehe! Here, let's keep moving, shall we?");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -53,17 +52,16 @@ We can think about it while we're walkin'!");
     ScrFadeIn(0);
     VoicePlay("S070800000_08_050");
     MsgDisp("Shirahane","Now this is New Year's!");
-    MsgDisp("主人公","Does ｛Daichi＊＊｝ visit the shrine every
-year?");
+    MsgDisp("主人公","Does ｛Daichi＊＊｝ visit the shrine
+every year?");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,3,1);
     VoicePlay("S070800000_08_060");
-    MsgDisp("Shirahane","Yeah.
-With my big bro and sis. And on the way home,
-we drink nice warm sweet sake.");
-    MsgDisp("主人公","Ooh...
-That sounds nice!");
+    MsgDisp("Shirahane","Yeah. With my big bro and sis.
+And on the way home, we drink nice warm
+sweet sake.");
+    MsgDisp("主人公","Ooh... That sounds nice!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
@@ -83,8 +81,7 @@ Ah.");
     ChEyeOpenLevel(8,0);
     ChCheek(8,5);
     VoicePlay("S070800000_08_090");
-    MsgDisp("Shirahane","Haha.
-It's warm like this, right?");
+    MsgDisp("Shirahane","Haha. It's warm like this, right?");
     MsgDisp("主人公","Hehe, yeah!");
     break ;
     default :

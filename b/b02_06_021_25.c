@@ -3,8 +3,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B020602125_06_000");
 MsgDisp("Himuro","I don't like those kinds of clothes much.");
-MsgDisp("主人公","Ah...
-I'm sorry.");
+MsgDisp("主人公","Ah... I'm sorry.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

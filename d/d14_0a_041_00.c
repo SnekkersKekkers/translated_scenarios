@@ -11,8 +11,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A04100_06_000");
-MsgDisp("Himuro","Yeah.
-I got nagged by him already earlier.");
+MsgDisp("Himuro","Yeah. I got nagged by him already earlier.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -33,7 +32,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D140A04100_06_020");
 MsgDisp("Himuro","That's difficult to explain.
-He should've told me more specifically what to keep quiet about.");
+He should've told me more specifically what
+to keep quiet about.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -104,8 +104,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("D140A04100_06_070");
-MsgDisp("Himuro","Huh?
-What are you talking about?");
+MsgDisp("Himuro","Huh? What are you talking about?");
 MsgDisp("主人公","｛Himuro＊＊｝'s weird things...?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -129,8 +128,7 @@ ChMotion(2,4,1);
 VoicePlay("D140A04100_02_090");
 MsgDisp("Sassa","Information is key when it comes to keeping
 Inori in check.");
-MsgDisp("主人公","(Uhm...
-｛Himuro＊＊｝ is staring at me.
+MsgDisp("主人公","(Uhm... ｛Himuro＊＊｝ is staring at me.
 I wonder what they're talking about...?)");
 BGMStop();
 MsgClose();

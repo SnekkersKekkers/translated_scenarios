@@ -44,24 +44,23 @@ while (1){
     ChMouth(2,1);
     ChMotion(2,1);
     ChEyeOpenLevel(2,7);
-    MsgDisp("Sassa","What?
-What's wrong all of a sudden?");
+    MsgDisp("Sassa","What? What's wrong all of a sudden?");
     }
 VoicePlay("G110200900_02_020");
 ChEye(2,1);
 ChMouth(2,1);
 ChMotion(2,2);
 MsgDisp("Sassa","My arm?
-Ah, maybe I put in a bit more force than
-usual.");
+Ah, maybe I put in a bit more force
+than usual.");
 VoicePlay("G110200900_02_040");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
 MsgDisp("Sassa","Yes, thank you.
 I didn't even notice my muscles were tense.");
-MsgDisp("主人公","No, no.
-It just looked a little different than usual.");
+MsgDisp("主人公","No, no. It just looked a little different
+than usual.");
 VoicePlay("G110200900_02_050");
 ChEye(2,0);
 ChMouth(2,0);

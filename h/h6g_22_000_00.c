@@ -6,8 +6,7 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("H6G2200000_22_000");
 MsgDisp("Hikaru","Mari, congrats～♪");
-MsgDisp("主人公","Huh?
-What's up, ｛ひかる＊｝?");
+MsgDisp("主人公","Huh? What's up, ｛ひかる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -21,8 +20,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("H6G2200000_22_020");
-MsgDisp("Hikaru","Mari's really good at growing flowers.
-Aha▼");
+MsgDisp("Hikaru","Mari's really good at growing flowers. Aha▼");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -30,7 +28,7 @@ VoicePlay("H6G2200000_22_030");
 MsgDisp("Hikaru","Hikaru wants to see it too～♪
 The gold award flowers grown by Mari.");
 MsgDisp("主人公","(Hehe!
-I'm glad I worked so hard for the gardening
-club!)");
+I'm glad I worked so hard for the
+gardening club!)");
 MsgClose();
 ScrFadeOut(0,0);

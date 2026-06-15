@@ -27,8 +27,7 @@ ChMotion(6,4);
 VoiceEVSPlay(6);
 VoicePlay("B330C30800_06_010");
 MsgDisp("Himuro","｛主人公｝, what do you think?");
-MsgDisp("主人公","Hmm...
-Maybe not fluffy, but soft?");
+MsgDisp("主人公","Hmm... Maybe not fluffy, but soft?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -78,8 +77,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30800_07_020");
-MsgDisp("Mikage","Yeah.
-The baby sheep is just about the same.");
+MsgDisp("Mikage","Yeah. The baby sheep is just about the same.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -95,8 +93,7 @@ ChMotion(6,0);
 VoicePlay("B330C30800_06_050");
 MsgDisp("Himuro","Kojiro-sensei, should you have worn your
 usual overalls today?");
-MsgDisp("主人公","(Hehe!
-Maybe it's just as ｛Himuro＊＊｝ says?)");
+MsgDisp("主人公","(Hehe! Maybe it's just as ｛Himuro＊＊｝ says?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

@@ -73,8 +73,8 @@ much, ｛Kazama＊＊｝.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("H4A0100000_01_070");
-    MsgDisp("Kazama","You were shining even more brightly than
-usual.
+    MsgDisp("Kazama","You were shining even more brightly
+than usual.
 Congratulations on winning.");
     MsgDisp("主人公","(I did it, I won!
 ｛Kazama＊＊｝ praised me too. I'm glad I

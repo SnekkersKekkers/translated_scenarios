@@ -8,8 +8,8 @@ VoicePlay("D010500300_45_000");
 MsgDisp("Girl B","Really∋
 Let's go there then!");
 MsgDisp("主人公","(A sale at the shopping mall, huh?
-That sounds good, I guess I should check it
-out.)");
+That sounds good, I guess I should check
+it out.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0,0);
@@ -50,8 +50,7 @@ ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,5);
 VoicePlay("D010500300_05_030");
-MsgDisp("Hiiragi","!
-Why...");
+MsgDisp("Hiiragi","! Why...");
 ChMouth(5,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -124,8 +123,7 @@ StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_130");
 MsgDisp("Hiiragi","For everyone's sake...
 Yes, that was always my intention.");
-MsgDisp("主人公","Yes.
-We all appreciate you, okay?");
+MsgDisp("主人公","Yes. We all appreciate you, okay?");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("D010500300_05_140");
 MsgDisp("Hiiragi","...Thank you.");

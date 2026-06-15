@@ -34,8 +34,7 @@ tech can do.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B030323002_03_020");
-    MsgDisp("Honda","I see.
-Well, maybe next time.");
+    MsgDisp("Honda","I see. Well, maybe next time.");
     MsgDispSksp(0);
     break ;
     default :

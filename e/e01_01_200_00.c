@@ -47,8 +47,7 @@ ChMotion(6,0);
 VoicePlay("E010120000_06_030");
 MsgDisp("Himuro","Right back at you, Ryota-senpai.
 Oh, so that's how it is?");
-MsgDisp("主人公","Hum...
-What are you guys doing here?");
+MsgDisp("主人公","Hum... What are you guys doing here?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -68,22 +67,20 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("E010120000_01_050");
-MsgDisp("Kazama","Uhh...
-Got it.");
+MsgDisp("Kazama","Uhh... Got it.");
 ChEyeOpenLevel(1,0);
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("E010120000_06_050");
-MsgDisp("Himuro","Oh, by the way, you coming to get a hamburger
-too?
+MsgDisp("Himuro","Oh, by the way, you coming to get a
+hamburger too?
 Ryota-senpai's treat.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("E010120000_01_060");
-MsgDisp("Kazama","Hey.
-Inori, confidentiality.");
+MsgDisp("Kazama","Hey. Inori, confidentiality.");
 MsgDisp("主人公","Err...
 It looks like you guys have stuff to talk
 about, so I'll pass.");
@@ -107,16 +104,15 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("E010120000_06_060");
-MsgDisp("Himuro","Ryota-senpai asked me to teach him how to
-swim.
+MsgDisp("Himuro","Ryota-senpai asked me to teach him how
+to swim.
 His request.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("E010120000_06_070");
 MsgDisp("Himuro","Take care then!");
-MsgDisp("主人公","Y-You too.
-Bye.");
+MsgDisp("主人公","Y-You too. Bye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

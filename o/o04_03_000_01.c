@@ -14,8 +14,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("O040300001_03_000");
-    MsgDisp("Honda","Hm?
-I thought we were going pretty well.");
+    MsgDisp("Honda","Hm? I thought we were going pretty well.");
     MsgDisp("主人公","(Sigh...we lost.
 I should've tried harder.)");
     break ;

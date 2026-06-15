@@ -4,13 +4,12 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Yeah, I think it's time to go home now.
 Wait, over there, is that...)");
 VoicePlay("E010320200_06_000");
-MsgDisp("Himuro?","Ohhh.
-So Iku-senpai is good at Shogi too.");
+MsgDisp("Himuro?","Ohhh. So Iku-senpai is good at Shogi too.");
 VoicePlay("E010320200_03_000");
 MsgDisp("Honda?","Back when I was in elementary school I would
 play against my Dad on Sundays.");
-MsgDisp("主人公","｛Honda＊＊｝, ｛Himuro＊＊｝, what are you guys up
-to?");
+MsgDisp("主人公","｛Honda＊＊｝, ｛Himuro＊＊｝, what are you guys
+up to?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(3,255,0,0,0,#1,#1,0,1,0,30);
@@ -38,8 +37,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010320200_06_030");
 MsgDisp("Himuro","I've only played against the computer.
-I have no experience playing against other
-people.");
+I have no experience playing against
+other people.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -66,8 +65,7 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 ChPosition(3,0);
 VoicePlay("E010320200_03_030");
-MsgDisp("Honda","Ehh∋
-Why?
+MsgDisp("Honda","Ehh∋ Why?
 Let's play at school next time!");
 VoicePlay("E010320200_06_060");
 MsgDisp("Himuro","If we make it a rule to not talk during the

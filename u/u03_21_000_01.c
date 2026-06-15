@@ -3,16 +3,15 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("U032100001_21_000");
-MsgDisp("Michiru","Ah...
-Mari, this one.");
+MsgDisp("Michiru","Ah... Mari, this one.");
 MsgDisp("主人公","This is...a zodiac sign?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U032100001_21_010");
 MsgDisp("Michiru","Yeah, it's a constellation charm.
-Would you like to have it as thanks for
-today?");
+Would you like to have it as thanks
+for today?");
 MsgSel("Accept constellation charm","Don't accept it");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,14 +21,14 @@ I'll take good care of it!");
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("U032100001_21_020");
-    MsgDisp("Michiru","Hehe.
-I bought a matching one. I hope Mari can be
-touched by the power of the stars.");
+    MsgDisp("Michiru","Hehe. I bought a matching one.
+I hope Mari can be touched by the power of
+the stars.");
     SEPlay("EV_SE_083");
     MsgDisp("主人公","(I got a constellation charm!)");
     SEPlay("EV_SE_080");
-    MsgDisp("主人公","(Somehow I feel I'm better at studying
-now...)");
+    MsgDisp("主人公","(Somehow I feel I'm better at
+studying now...)");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,0);

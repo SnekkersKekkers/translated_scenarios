@@ -18,8 +18,8 @@ MsgDisp("主人公","There's some near the entrance of the gym's
 storage room. Please write your name and the
 number you need here before taking them.");
 VoicePlay("P840D00002_39_010");
-MsgDisp("School Boy","Excuse me, I want some cardboard, do you have
-any?");
+MsgDisp("School Boy","Excuse me, I want some cardboard, do you
+have any?");
 MsgDisp("主人公","How many do you need?
 Please give me a moment to prepare them.");
 ChEye(22,3);
@@ -37,8 +37,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P840D00002_22_010");
-MsgDisp("Hikaru","The presence expected of an experienced
-person.
+MsgDisp("Hikaru","The presence expected of an
+experienced person.
 Hikaru has a better opinion of Mari!");
 MsgDisp("主人公","(Yeah, managing the materials was a huge
 success!)");

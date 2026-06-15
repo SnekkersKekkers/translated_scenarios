@@ -18,8 +18,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140C04001_07_010");
-MsgDisp("Mikage","I see.
-I wonder if he's doing well?");
+MsgDisp("Mikage","I see. I wonder if he's doing well?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -33,16 +32,15 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("D140C04001_05_020");
 MsgDisp("Hiiragi","Hm?
-I cannot let Inori-kun hear what you just
-said.");
+I cannot let Inori-kun hear what you
+just said.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("D140C04001_07_020");
-MsgDisp("Mikage","Yeah, you said it like you don't care either
-way.");
-MsgDisp("主人公","Eh?
-That's not the case though.");
+MsgDisp("Mikage","Yeah, you said it like you don't care
+either way.");
+MsgDisp("主人公","Eh? That's not the case though.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -59,12 +57,12 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C04001_05_040");
-MsgDisp("Hiiragi","Do you like him, think he's cute, despise
-him?
+MsgDisp("Hiiragi","Do you like him, think he's cute,
+despise him?
 Stuff like that.");
-MsgDisp("主人公","Hmm...he has a cute side for sure, but there
-are probably also times where I detest him a
-bit.");
+MsgDisp("主人公","Hmm...he has a cute side for sure, but
+there are probably also times where I
+detest him a bit.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -76,8 +74,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D140C04001_05_060");
-MsgDisp("Hiiragi","...I see.
-I too like Inori-kun.");
+MsgDisp("Hiiragi","...I see. I too like Inori-kun.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -90,16 +87,14 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C04001_07_050");
 MsgDisp("Mikage","｛主人公｝, Yanosuke, Inori...
-I think you're all diligent and
-interesting.");
+I think you're all diligent and interesting.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C04001_05_070");
 MsgDisp("Hiiragi","I aim to be diligent but...funny?
 I don't understand.");
-MsgDisp("主人公","Yeah.
-I also don't get it.");
+MsgDisp("主人公","Yeah. I also don't get it.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

@@ -12,8 +12,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("H6G0100000_01_010");
-MsgDisp("Kazama","I heard you won an award for the gardening
-club.");
+MsgDisp("Kazama","I heard you won an award for the
+gardening club.");
 MsgDisp("主人公","Ah, yes.
 The roses I grew were rated highly.");
 ChEye(1,4);
@@ -29,8 +29,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("H6G0100000_01_030");
 MsgDisp("Kazama","Just, I don't feel too good about you getting
 too into this.");
-MsgDisp("主人公","Huh?
-They're just plants, you know?");
+MsgDisp("主人公","Huh? They're just plants, you know?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -42,8 +41,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("H6G0100000_01_050");
-MsgDisp("Kazama","Don't forget!
-...Geez.");
+MsgDisp("Kazama","Don't forget! ...Geez.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);

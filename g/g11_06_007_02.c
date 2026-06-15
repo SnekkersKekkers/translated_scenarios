@@ -9,8 +9,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_000");
-MsgDisp("Himuro","Yeah, but I'm going to stop by the beach
-first.");
+MsgDisp("Himuro","Yeah, but I'm going to stop by the
+beach first.");
 MsgDisp("主人公","Ah, are you maybe going surfing?
 Can I come to watch?");
 ChEye(6,0);
@@ -29,15 +29,14 @@ MsgClose();
 BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","(｛Himuro＊＊｝ is really good at surfing isn't
-he...)");
+MsgDisp("主人公","(｛Himuro＊＊｝ is really good at surfing
+isn't he...)");
 MsgClose();
 SEPlay("EV_SE_542",0,0.4);
 SEWait();
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 VoicePlay("G110600702_06_020");
-MsgDisp("Himuro","...? 
-What?");
+MsgDisp("Himuro","...? What?");
 MsgDisp("主人公","(Come to think of it, he used to play bass
 too. He's not only athletic, but good with
 his hands...?)");
@@ -50,16 +49,15 @@ while (1){
     ChMouth(6,0);
     ChMotion(6,2);
     VoicePlay("G110600702_06_030");
-    MsgDisp("Himuro","Wait∋
-What's this all of a sudden!");
+    MsgDisp("Himuro","Wait∋ What's this all of a sudden!");
     }
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_040");
 MsgDisp("Himuro","Huh...?
-Why are you staring at my arm all of a
-sudden?");
+Why are you staring at my arm all of
+a sudden?");
 MsgDisp("主人公","Ah, sorry.
 I'm just thinking about before, that time we
 went to the livehouse.");
@@ -81,8 +79,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_070");
-MsgDisp("Himuro","Good with my hands, 'too'...what does that
-mean?");
+MsgDisp("Himuro","Good with my hands, 'too'...what does
+that mean?");
 MsgDisp("主人公","You can surf, you can play the bass, you get
 good grades.
 It seems like there's nothing you're bad at.");
@@ -100,8 +98,7 @@ ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600702_06_090");
 MsgDisp("Himuro","I won't tell you.");
-MsgDisp("主人公","Eh?
-Just a hint—");
+MsgDisp("主人公","Eh? Just a hint—");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);

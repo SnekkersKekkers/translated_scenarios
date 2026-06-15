@@ -29,9 +29,9 @@ It's a bit sad.");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("B040822101_08_020");
-    MsgDisp("Shirahane","I see.
-The terrain might not have changed. Maybe
-I'll be able to see it if I look closely?");
+    MsgDisp("Shirahane","I see. The terrain might not have changed.
+Maybe I'll be able to see it if I look
+closely?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

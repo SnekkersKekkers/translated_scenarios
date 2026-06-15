@@ -1,5 +1,4 @@
-MsgDisp("主人公","Hey?
-Do you have a type of girl you like?");
+MsgDisp("主人公","Hey? Do you have a type of girl you like?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

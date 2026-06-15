@@ -15,8 +15,8 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,0);
     ScrFadeIn(0);
     VoicePlay("S120800003_08_000");
-    MsgDisp("Shirahane","So this year I'm givin' Sis some New Year's money—
-oh, we're already here.");
+    MsgDisp("Shirahane","So this year I'm givin' Sis some New Year's
+money— oh, we're already here.");
     MsgDisp("主人公","That's right.
 Thank you for taking me.");
     ChEye(8,3);

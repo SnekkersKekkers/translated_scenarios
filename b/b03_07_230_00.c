@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030723000_07_010");
-    MsgDisp("Mikage","Oh...
-Well, if you want to ride it, I'll go.");
+    MsgDisp("Mikage","Oh... Well, if you want to ride it, I'll go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -58,8 +57,7 @@ That's fine.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B030723000_07_040");
-    MsgDisp("Mikage","Whoa∋
-They made it huge...");
+    MsgDisp("Mikage","Whoa∋ They made it huge...");
     break ;
     case 2:
     MsgDispSksp(1,0);
@@ -67,8 +65,7 @@ They made it huge...");
     ChMouth(7,4);
     ChMotion(7,3);
     VoicePlay("B030723000_07_050");
-    MsgDisp("Mikage","Oh...
-...You've got some guts, you know.");
+    MsgDisp("Mikage","Oh... ...You've got some guts, you know.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

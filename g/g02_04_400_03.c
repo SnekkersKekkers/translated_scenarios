@@ -13,8 +13,7 @@ really beautiful.");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020440003_04_020");
-MsgDisp("Nanatsumori","Ah...
-Kind of like a model on stage.");
+MsgDisp("Nanatsumori","Ah... Kind of like a model on stage.");
 MsgDisp("主人公","What do you mean?");
 ChEye(4,0);
 ChMouth(4,0);

@@ -97,8 +97,8 @@ Time to face nature alone might be precious.");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040324202_03_090");
-    MsgDisp("Honda","Yeah yeah, when you go camping, I'll be with
-you.
+    MsgDisp("Honda","Yeah yeah, when you go camping, I'll be
+with you.
 See, now you won't feel lonely at all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

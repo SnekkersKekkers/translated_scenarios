@@ -34,19 +34,18 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("D140B04100_04_030");
-MsgDisp("Nanatsumori","It's lunch break now, so he went home to get
-it.
+MsgDisp("Nanatsumori","It's lunch break now, so he went home to
+get it.
 His house is quite close right?");
-MsgDisp("主人公","Eh?
-Ah, yeah.
+MsgDisp("主人公","Eh? Ah, yeah.
 That's right but...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B04100_04_040");
 MsgDisp("Nanatsumori","That's gotta be it.
-No wonder he's nowhere to be found and out
-of contact.");
+No wonder he's nowhere to be found and out of
+contact.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);

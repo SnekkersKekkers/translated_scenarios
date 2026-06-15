@@ -10,8 +10,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Sassa＊＊｝, did you want to watch a movie
-today?");
+MsgDisp("主人公","｛Sassa＊＊｝, did you want to watch a
+movie today?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -27,14 +27,13 @@ ChMotion(2,2);
 VoicePlay("B360218001_02_010");
 MsgDisp("Sassa","...Is that a sign that the screening is about
 to start?");
-MsgDisp("主人公","Ehh?
-It's a sign you're hungry?");
+MsgDisp("主人公","Ehh? It's a sign you're hungry?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B360218001_02_020");
-MsgDisp("Sassa","The smell of popcorn is irresistible after
-all.");
+MsgDisp("Sassa","The smell of popcorn is irresistible
+after all.");
 MsgDisp("主人公","Hehe, shall we eat some?");
 ChEye(2,0);
 ChMouth(2,3);

@@ -13,8 +13,7 @@ MsgDisp("VP Himuro","Mikage-sensei, you underestimate yourself.");
 VoicePlay("F100740000_07_010");
 MsgDisp("Mikage","Really?");
 VoicePlay("F100740000_32_010");
-MsgDisp("VP Himuro","Hm?
-There's still someone here.");
+MsgDisp("VP Himuro","Hm? There's still someone here.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,37,0,0,4,#1,#1,0,1,0,30);
@@ -24,8 +23,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100740000_07_020");
-MsgDisp("Mikage","Oh, thank you for your efforts with class
-duty.");
+MsgDisp("Mikage","Oh, thank you for your efforts with
+class duty.");
 MsgDisp("主人公","Yes...");
 ChEye(32,2);
 ChMouth(32,0);
@@ -51,8 +50,8 @@ ChClose(7);
 MsgClose();
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 MsgDisp("主人公","I'm sorry.
-You were waiting for me to finish with class
-duties.");
+You were waiting for me to finish with
+class duties.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

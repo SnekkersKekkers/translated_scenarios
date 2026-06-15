@@ -15,8 +15,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("B070100000_01_310");
-MsgDisp("Kazama","Sigh—...
-Yeah, sure...");
+MsgDisp("Kazama","Sigh—... Yeah, sure...");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -25,8 +24,7 @@ VoicePlay("B070100000_01_320");
 MsgDisp("Kazama","Homesick as I was, I still enjoyed life at an
 international school.");
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Hmmm.
-I can't really imagine it.");
+MsgDisp("主人公","Hmmm. I can't really imagine it.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

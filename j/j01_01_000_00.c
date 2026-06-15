@@ -23,8 +23,7 @@ Are you busy right now?");
     VoicePlay("J010100000_01_030");
     MsgDisp("Kazama","Yeah, I'm free.
 We don't have to keep it short, you know.");
-    MsgDisp("主人公","Hehe, okay.
-Well...");
+    MsgDisp("主人公","Hehe, okay. Well...");
     break ;
     case 4:
     case 5:
@@ -35,8 +34,7 @@ Do you have time?");
     VoicePlay("J010100000_01_050");
     MsgDisp("Kazama","Always for you.
 What's up?");
-    MsgDisp("主人公","Thanks.
-Well...");
+    MsgDisp("主人公","Thanks. Well...");
     break ;
     default :
     DbgAssert(1);

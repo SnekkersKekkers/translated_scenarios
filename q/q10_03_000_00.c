@@ -47,8 +47,7 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q100300000_03_050");
-MsgDisp("Honda","Huh?
-You got it?");
+MsgDisp("Honda","Huh? You got it?");
 MsgDisp("主人公","Eeeh?");
 ChEye(3,0);
 ChMouth(3,0);

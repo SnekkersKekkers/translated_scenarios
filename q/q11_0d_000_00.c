@@ -14,8 +14,7 @@ ChMotion(21,4);
 VoicePlay("Q110D00000_21_010");
 MsgDisp("Michiru","Yeah, I guess?
 Though I shipped everything.");
-MsgDisp("主人公","I see.
-When is ｛ひかる＊｝ done?");
+MsgDisp("主人公","I see. When is ｛ひかる＊｝ done?");
 ChPosition(21,1);
 MsgClose();
 SEPlay("EV_SE_544");
@@ -58,24 +57,23 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("Q110D00000_22_030");
-MsgDisp("Hikaru","They're all different coloured glass beads...?
+MsgDisp("Hikaru","They're all different coloured glass
+beads...?
 We all thought of the same thing∋");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("Q110D00000_22_040");
-MsgDisp("Hikaru","Aha▼
-We made a perfect memory!");
+MsgDisp("Hikaru","Aha▼ We made a perfect memory!");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q110D00000_21_050");
 MsgDisp("Michiru","Yeah, really.
-How could you forget such an interesting
-event?");
-MsgDisp("主人公","Hehe!
-Yeah, I'll never forget...!");
+How could you forget such an
+interesting event?");
+MsgDisp("主人公","Hehe! Yeah, I'll never forget...!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

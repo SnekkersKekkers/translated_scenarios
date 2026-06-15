@@ -5,8 +5,7 @@ MsgDisp("主人公","(Amazing...
 VoicePlay("G110200700_34_000");
 MsgDisp("Member A","Sassa, let me have the credit for once～");
 VoicePlay("G110200700_02_000");
-MsgDisp("Sassa","Eh?
-Ah, sorry.
+MsgDisp("Sassa","Eh? Ah, sorry.
 I can't coordinate it like that.");
 MsgClose();
 SEPlay("EV_SE_628");
@@ -16,8 +15,7 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200700_02_010");
 MsgDisp("Sassa","｛主人公｝, good work.");
-MsgDisp("主人公","Yeah.
-Aaah, ｛Sassa＊＊｝'s time is...");
+MsgDisp("主人公","Yeah. Aaah, ｛Sassa＊＊｝'s time is...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -53,10 +51,9 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200700_02_040");
 MsgDisp("Sassa","I see.
-Tell me if there's anything you're worried
-about!");
-MsgDisp("主人公","Yes.
-I'll tell you if I notice anything.");
+Tell me if there's anything you're
+worried about!");
+MsgDisp("主人公","Yes. I'll tell you if I notice anything.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

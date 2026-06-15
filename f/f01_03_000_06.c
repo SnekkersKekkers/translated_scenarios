@@ -36,8 +36,7 @@ I'll go straight home today...)");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("F010300006_03_020");
-    MsgDisp("Honda","Huh?
-Of course I want to go, but...");
+    MsgDisp("Honda","Huh? Of course I want to go, but...");
     MsgDisp("主人公","Oh...do you have errands?");
     ChEye(3,4);
     ChMouth(3,4);

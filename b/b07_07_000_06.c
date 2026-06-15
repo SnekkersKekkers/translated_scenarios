@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Mikage＊＊｝, what were you like in middle
-school?");
+MsgDisp("主人公","｛Mikage＊＊｝, what were you like in
+middle school?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
@@ -12,15 +12,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700000_07_310");
-MsgDisp("Mikage","Hey.
-Did you really say that～?");
+MsgDisp("Mikage","Hey. Did you really say that～?");
 MsgDisp("主人公","Hehe, sorry.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_320");
-MsgDisp("Mikage","For sure though, I've definitely not grown
-up.");
+MsgDisp("Mikage","For sure though, I've definitely not
+grown up.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

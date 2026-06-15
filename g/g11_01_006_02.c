@@ -67,8 +67,7 @@ VoicePlay("G110100602_01_050");
 MsgDisp("Kazama","Hm?
 Doesn't that sunset cloud somewhat look like
 Honda's face?");
-MsgDisp("主人公","Eh?
-Which one?");
+MsgDisp("主人公","Eh? Which one?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
@@ -82,8 +81,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100602_01_070");
-MsgDisp("Kazama","No, that cloud over there also looks like
-him.");
+MsgDisp("Kazama","No, that cloud over there also looks
+like him.");
 MsgDisp("主人公","Ehh—?");
 BGMStop();
 MsgClose();

@@ -16,8 +16,7 @@ switch (ChPrmGet(6,6)){
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("J060600000_06_000");
-        MsgDisp("Himuro","...Ah, so.
-Where should we meet?");
+        MsgDisp("Himuro","...Ah, so. Where should we meet?");
         MsgDisp("主人公","How about at the ｛待ち合わせ場所｝?");
         ChEye(6,0);
         ChMouth(6,4);

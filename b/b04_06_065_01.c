@@ -90,8 +90,7 @@ for a whole year later so casually.");
         ChMotion(6,3);
         VoicePlay("B040606501_06_090");
         MsgDisp("Himuro","But, I don't think my feelings will change.");
-        MsgDisp("主人公","Yeah!
-Thank you.");
+        MsgDisp("主人公","Yeah! Thank you.");
         break ;
         default :
         DbgAssert(1);

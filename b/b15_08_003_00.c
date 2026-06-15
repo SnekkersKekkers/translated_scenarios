@@ -47,8 +47,7 @@ ChMouth(8,3);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B150800300_08_080");
-MsgDisp("Shirahane","Hehe!
-Well then, goodnight!");
+MsgDisp("Shirahane","Hehe! Well then, goodnight!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);

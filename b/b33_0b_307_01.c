@@ -22,8 +22,8 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B30701_01_000");
-MsgDisp("Kazama","Definitely seems like something Honda would
-like.");
+MsgDisp("Kazama","Definitely seems like something Honda
+would like.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -75,16 +75,15 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30701_04_040");
 MsgDisp("Nanatsumori","It's not about the model.
-This guy's whole way of life is full of
-charm.");
+This guy's whole way of life is full
+of charm.");
 ChEyeOpenLevel(1,#1);
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B30701_03_020");
 MsgDisp("Honda","Right right!
-This thing hardly moves.
-So—");
+This thing hardly moves. So—");
 ChEye(1,2);
 ChEye(4,2);
 ChMouth(4,4);

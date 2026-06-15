@@ -23,8 +23,8 @@ sooner...");
 you'll be trusted with more responsibilities
 going forward.");
     MsgDisp("主人公","(I did it!
-I hope I can help out around the shop even
-more.)");
+I hope I can help out around the shop
+even more.)");
     break ;
     case 4:
     case 5:
@@ -37,8 +37,8 @@ delivery items!");
     MsgDisp("Kazama","Good work.
 Yeah, you were pretty fast.");
     MsgDisp("主人公","Really?
-I'm worried I made a mistake somewhere
-though.");
+I'm worried I made a mistake
+somewhere though.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -57,8 +57,8 @@ roots while steadily learning the ropes.");
     ChMotion(1,3);
     VoicePlay("I160100004_01_050");
     MsgDisp("Kazama","Hey.
-It's good that you're smiling, but watch the
-volume.");
+It's good that you're smiling, but watch
+the volume.");
     MsgDisp("主人公","(Alright, let's continue to work hard without
 forgetting why we started∈)");
     break ;

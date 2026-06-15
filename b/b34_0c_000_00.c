@@ -37,7 +37,6 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B340C00000_05_010");
-MsgDisp("Hiiragi","Yes.
-Then, I'll see you all at school.");
+MsgDisp("Hiiragi","Yes. Then, I'll see you all at school.");
 MsgClose();
 SEPlay("EV_SE_856",0,0.6);

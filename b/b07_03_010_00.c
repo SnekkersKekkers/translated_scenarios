@@ -34,8 +34,8 @@ In fact, it's really fascinating.");
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070301000_03_040");
-MsgDisp("Honda","Being with you brings out so many firsts for
-me.
+MsgDisp("Honda","Being with you brings out so many firsts
+for me.
 Thanks to you every day is incredibly fun.");
 ChMotion(3,3);
 ChMotion(3,3);
@@ -57,8 +57,7 @@ ChMouth(3,1);
 ChMotion(3,5);
 ChCheek(3,10);
 VoicePlay("B070301000_03_080");
-MsgDisp("Honda","Ahh!
-What am I saying?!");
+MsgDisp("Honda","Ahh! What am I saying?!");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,3);
@@ -96,8 +95,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B070301000_03_120");
-MsgDisp("Honda","My head's still spinning a bit.
-I... I'll head home before I say anything
+MsgDisp("Honda","My head's still spinning a bit. I...
+I'll head home before I say anything
 else stupid.");
 ChMotion(3,0);
 VoicePlay("B070301000_03_130");

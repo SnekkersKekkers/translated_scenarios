@@ -20,8 +20,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A10500_02_000");
-MsgDisp("Sassa","The one who came up with karaoke was Ryota,
-right?");
+MsgDisp("Sassa","The one who came up with karaoke was
+Ryota, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -54,8 +54,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10500_06_020");
-MsgDisp("Himuro","Ha?
-I can sing.
+MsgDisp("Himuro","Ha? I can sing.
 Come on, pick a song.");
 ChEye(1,0);
 ChEyeOpenLevel(1,8);
@@ -90,8 +89,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("B330A10500_02_030");
-MsgDisp("Sassa","I see.
-Then, let's sing anime songs!");
+MsgDisp("Sassa","I see. Then, let's sing anime songs!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -105,8 +103,7 @@ VoicePlay("B330A10500_01_040");
 MsgDisp("Kazama","｛主人公｝, choose already.
 If we keep up like this, we'll have run out
 of time without having sung a single song.");
-MsgDisp("主人公","Umm...
-Then how about Haba High's anthem?");
+MsgDisp("主人公","Umm... Then how about Haba High's anthem?");
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);

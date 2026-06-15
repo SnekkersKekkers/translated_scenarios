@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,1);
     ChMotion(6,0);
     VoicePlay("B040605102_06_010");
-    MsgDisp("Himuro","Ha...?
-What does that even mean?");
+    MsgDisp("Himuro","Ha...? What does that even mean?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -105,15 +104,14 @@ wasn't interested.");
         ChMotion(6,1);
         ChCheek(6,10);
         VoicePlay("B040605102_06_120");
-        MsgDisp("Himuro","There's no point in going into that much
-detail.
+        MsgDisp("Himuro","There's no point in going into that
+much detail.
 That's a violation of privacy.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(6);
         SEWait();
-        MsgDisp("主人公","(?
-｛Himuro＊＊｝'s face is red?)");
+        MsgDisp("主人公","(? ｛Himuro＊＊｝'s face is red?)");
         MsgClose();
         ScrFadeOut(0);
         MsgClose();

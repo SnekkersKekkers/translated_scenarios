@@ -30,8 +30,7 @@ It suits, it suits.
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040401000_04_020");
-    MsgDisp("Nanatsumori","...Huh?
-Is there something bothering you?");
+    MsgDisp("Nanatsumori","...Huh? Is there something bothering you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

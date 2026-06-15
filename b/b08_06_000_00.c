@@ -12,8 +12,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B080600000_06_000");
-MsgDisp("Himuro","Yeah.
-See you later.");
+MsgDisp("Himuro","Yeah. See you later.");
 MsgDispSksp(0);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

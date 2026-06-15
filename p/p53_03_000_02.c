@@ -59,16 +59,14 @@ Thank you!");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("P530300002_03_040");
-    MsgDisp("Honda","...Huh?
-You're the same as usual.");
+    MsgDisp("Honda","...Huh? You're the same as usual.");
     MsgDisp("主人公","Hehe, is that right?
 Maybe because it's already my third year.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("P530300002_03_050");
-    MsgDisp("Honda","I see.
-This is the final year, huh...
+    MsgDisp("Honda","I see. This is the final year, huh...
 It's somewhat lonely.");
     MsgDisp("主人公","Hey, ｛Honda＊＊｝ are you getting sentimental?");
     ChEye(3,2);

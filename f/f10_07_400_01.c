@@ -9,14 +9,12 @@ MsgDisp("主人公","(Eh?
 That voice just now, was ｛Mikage＊＊｝,
 right? What's wrong...?)");
 VoicePlay("F100740001_32_000");
-MsgDisp("VP Himuro?","......!
-Are you really that worried?");
+MsgDisp("VP Himuro?","......! Are you really that worried?");
 VoicePlay("F100740001_07_010");
 MsgDisp("Mikage","Eh?");
 VoicePlay("F100740001_32_010");
 MsgDisp("VP Himuro?","Come out, please.");
-MsgDisp("主人公","...Y-Yes.
-I'm sorry.");
+MsgDisp("主人公","...Y-Yes. I'm sorry.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -55,8 +53,7 @@ ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("F100740001_32_030");
-MsgDisp("VP Himuro","Sigh...
-I was definitely praising you.");
+MsgDisp("VP Himuro","Sigh... I was definitely praising you.");
 MsgDisp("主人公","Eh∋");
 ChEye(7,2);
 ChMouth(7,0);

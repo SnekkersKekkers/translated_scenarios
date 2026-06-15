@@ -13,8 +13,7 @@ switch (MsgSelRsltGet()){
         ChEye(8,3);
         ChMouth(8,3);
         VoicePlay("F010800002_08_000");
-        MsgDisp("Shirahane","Ah...
-I really met ya.");
+        MsgDisp("Shirahane","Ah... I really met ya.");
         MsgDisp("主人公","What are you doing here?
 And...how about we walk home together?");
         break ;

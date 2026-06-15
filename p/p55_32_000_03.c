@@ -29,8 +29,7 @@ VoicePlay("P553200003_32_030");
 MsgDisp("VP Himuro","This might be an opportunity for you to start
 anew. To continue with music, or start a new
 challenge. Only you can decide...that is all.");
-MsgDisp("主人公","Yes!
-Thank you very much Himuro Sensei!");
+MsgDisp("主人公","Yes! Thank you very much Himuro Sensei!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(32,0,0);

@@ -41,11 +41,10 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100540002_05_030");
-MsgDisp("Hiiragi","I may also be dining together with everyone
-tonight, so I shall go for the vinegar soy
-sauce.");
-MsgDisp("主人公","Ehh?
-You're having a group meal...
+MsgDisp("Hiiragi","I may also be dining together with
+everyone tonight, so I shall go for the
+vinegar soy sauce.");
+MsgDisp("主人公","Ehh? You're having a group meal...
 Will that be alright?");
 ChEye(7,0);
 ChMouth(7,0);

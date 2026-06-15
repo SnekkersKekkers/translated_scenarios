@@ -59,9 +59,9 @@ ChMouth(3,3);
 ChMotion(3,4);
 ChCheek(3,8);
 VoicePlay("G020310401_03_090");
-MsgDisp("Honda","...Huh?
-What's this? As I try to hold your hand, my
-throat feels tight...");
+MsgDisp("Honda","...Huh? What's this?
+As I try to hold your hand, my throat feels
+tight...");
 MsgDisp("主人公","Ehh?");
 ChEye(3,5);
 ChMouth(3,3);

@@ -7,14 +7,12 @@ ChMotion(3,0);
 VoicePlay("D150003601_03_000");
 MsgDisp("Honda","The amount of food the cafeteria gives was
 surprising at first.");
-MsgDisp("主人公","Yeah.
-Even the normal size is impressive.");
+MsgDisp("主人公","Yeah. Even the normal size is impressive.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D150003601_06_000");
-MsgDisp("Himuro","True.
-It goes down easy, though.");
+MsgDisp("Himuro","True. It goes down easy, though.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

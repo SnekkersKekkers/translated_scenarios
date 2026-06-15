@@ -8,23 +8,20 @@ ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("D100410000_04_000");
 MsgDisp("Nanatsumori","I'm a bit peckish...");
-MsgDisp("主人公","Eh?
-But lunch only started an hour ago.");
+MsgDisp("主人公","Eh? But lunch only started an hour ago.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D100410000_04_010");
 MsgDisp("Nanatsumori","It's just a small craving.
 I want something sweet...");
-MsgDisp("主人公","Hehe.
-I have some sweets in my bag.
+MsgDisp("主人公","Hehe. I have some sweets in my bag.
 Want them?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D100410000_04_020");
-MsgDisp("Nanatsumori","I'd like to say yes but—it's okay.
-Look.");
+MsgDisp("Nanatsumori","I'd like to say yes but—it's okay. Look.");
 MsgDisp("主人公","That's...
 That new chocolate with fruit jelly!");
 ChEye(4,3);
@@ -40,8 +37,7 @@ ChLayout(0);
 ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0);
 SEPlay("EV_SE_544");
-MsgDisp("主人公","This is sort of embarrassing...
-Ahhh...");
+MsgDisp("主人公","This is sort of embarrassing... Ahhh...");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("D100410000_04_040");
@@ -51,8 +47,7 @@ ChEye(4,0);
 ChMouth(4,5);
 ChMotion(4,5);
 ChCheek(4,5);
-MsgDisp("主人公","Geez!
-｛Nanatsumori＊｝, you're teasing me!");
+MsgDisp("主人公","Geez! ｛Nanatsumori＊｝, you're teasing me!");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3);

@@ -17,8 +17,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020620201_06_020");
 MsgDisp("Himuro","Don't you get it?
-He's obsessively fixated on you in a scary
-way.");
+He's obsessively fixated on you in a
+scary way.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

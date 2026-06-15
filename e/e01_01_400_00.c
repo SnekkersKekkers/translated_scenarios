@@ -58,8 +58,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Hehe.
-Feeling better, ｛Kazama＊＊｝?");
+MsgDisp("主人公","Hehe. Feeling better, ｛Kazama＊＊｝?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);

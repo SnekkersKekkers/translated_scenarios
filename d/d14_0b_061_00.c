@@ -36,8 +36,7 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D140B06100_04_010");
 MsgDisp("Nanatsumori","That's...");
-MsgDisp("主人公","No.
-I won't say it.");
+MsgDisp("主人公","No. I won't say it.");
 ChEye(4,2);
 ChMouth(4,0);
 ChEye(3,2);
@@ -51,8 +50,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("D140B06100_04_020");
-MsgDisp("Nanatsumori","Ah.
-That does sound like Dahon after all.");
+MsgDisp("Nanatsumori","Ah. That does sound like Dahon after all.");
 MsgDisp("主人公","Hehe.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -65,8 +63,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("D140B06100_03_050");
-MsgDisp("Honda","Of course asking the person themselves is
-best.
+MsgDisp("Honda","Of course asking the person themselves
+is best.
 Then, I'll do my best—.");
 ChEye(4,1);
 ChMouth(4,3);

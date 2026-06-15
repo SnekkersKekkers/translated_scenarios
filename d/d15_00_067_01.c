@@ -6,8 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D150006701_06_000");
 MsgDisp("Himuro","What factors help you choose a menu?");
-MsgDisp("主人公","Uhm.
-I guess I just ask my stomach.");
+MsgDisp("主人公","Uhm. I guess I just ask my stomach.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -19,8 +18,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("D150006701_06_010");
-MsgDisp("Himuro","So you factor in your cravings and your
-budget.");
+MsgDisp("Himuro","So you factor in your cravings and
+your budget.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

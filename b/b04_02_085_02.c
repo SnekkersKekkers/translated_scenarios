@@ -46,8 +46,8 @@ feeling.");
         ChMotion(2,4);
         VoicePlay("B040208502_02_030");
         MsgDisp("Sassa","Are you saying that seriously?
-Sounds good, but I'll take it seriously you
-know?");
+Sounds good, but I'll take it seriously
+you know?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -70,8 +70,7 @@ Even more so if you're watching.");
         ChMotion(2,4);
         VoicePlay("B040208502_02_060");
         MsgDisp("Sassa","But if I go all out here, I'll hurt my ankle.");
-        MsgDisp("主人公","I see.
-I'm sorry for saying something weird.");
+        MsgDisp("主人公","I see. I'm sorry for saying something weird.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -95,15 +94,13 @@ a higher gear without even trying.");
         ChMotion(2,4);
         VoicePlay("B040208502_02_100");
         MsgDisp("Sassa","Try cheering me on a bit as a test.");
-        MsgDisp("主人公","Ehhh?
-Here?");
+        MsgDisp("主人公","Ehhh? Here?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3,1);
         VoicePlay("B040208502_02_110");
         MsgDisp("Sassa","Yes, please!");
-        MsgDisp("主人公","Ummm...
-｛Sassa＊＊｝, do your best!");
+        MsgDisp("主人公","Ummm... ｛Sassa＊＊｝, do your best!");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

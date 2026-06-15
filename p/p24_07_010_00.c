@@ -16,8 +16,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P240701000_07_010");
 MsgDisp("Mikage","Alright, this is the last scene.");
-MsgDisp("主人公","Yes.
-Everyone, give it your best...!");
+MsgDisp("主人公","Yes. Everyone, give it your best...!");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -47,8 +46,7 @@ MsgDisp("Xu Xian","What meaning is there in meekly allowing time
 to pass when you aren't there?");
 VoicePlay("P240701000_07_030");
 MsgDisp("Mikage","...That hurts to hear.");
-MsgDisp("主人公","?
-It's almost time for the sound effects.");
+MsgDisp("主人公","? It's almost time for the sound effects.");
 VoicePlay("P240701000_33_050");
 MsgDisp("Fahai","Don't mingle with humans, you demon!");
 VoicePlay("P240701000_41_060");
@@ -69,8 +67,8 @@ MsgDisp("Narrator","The lightning arrows sent by the pursuers
 pierced through Bai Niang's back.");
 VoicePlay("P240701000_46_020");
 MsgDisp("White Girl","This is...fine.
-I can finally experience the same time you
-do.");
+I can finally experience the same time
+you do.");
 VoicePlay("P240701000_41_100");
 MsgDisp("Xu Xian","Don't go...!
 Don't leave me behind.");

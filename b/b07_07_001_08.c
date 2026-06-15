@@ -3,8 +3,7 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,5);
 VoicePlay("B070700001_07_620");
-MsgDisp("Mikage","Hm?
-What's up?");
+MsgDisp("Mikage","Hm? What's up?");
 MsgDisp("主人公","Ah, I'm sorry.
 I ended up staring at you.");
 ChEye(7,0);
@@ -43,8 +42,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B070700001_07_660");
-MsgDisp("Mikage","Crap...
-I upped the magnification too high.");
+MsgDisp("Mikage","Crap... I upped the magnification too high.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

@@ -7,8 +7,8 @@ ScrFadeIn(0);
 VoicePlay("B020301000_03_000");
 MsgDisp("Honda","......");
 MsgDisp("主人公","Umm, ｛Honda＊＊｝?
-It's a little embarrassing if you stare too
-much.");
+It's a little embarrassing if you stare
+too much.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);

@@ -17,29 +17,26 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","This is terrible.
 No, isn't it impressive to be there?
 Please say something.");
-    MsgDisp("主人公","(Oof...
-I really have to study harder...)");
+    MsgDisp("主人公","(Oof... I really have to study harder...)");
     break ;
     case 3:
     VoicePlay("N020400003_04_020");
-    MsgDisp("Nanatsumori","Huh?
-Your name...where is it on the list?");
+    MsgDisp("Nanatsumori","Huh? Your name...where is it on the list?");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝...");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("N020400003_04_030");
-    MsgDisp("Nanatsumori","Hm?
-Huh, for real∋
-This is not good. Not good at all.");
+    MsgDisp("Nanatsumori","Hm? Huh, for real∋
+This is not good.
+Not good at all.");
     ChEye(4,2);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("N020400003_04_040");
     MsgDisp("Nanatsumori","Sigh...do you need some cheering up?
 I'll buy you a juice later.");
-    MsgDisp("主人公","(Oof...
-I really have to study harder...)");
+    MsgDisp("主人公","(Oof... I really have to study harder...)");
     break ;
     case 4:
     case 5:
@@ -66,8 +63,7 @@ concerning...");
     MsgDisp("Nanatsumori","Maybe I shouldn't say this but, if you need
 anything I'm here.
 I'll help you as much as I can.");
-    MsgDisp("主人公","(Oof...
-I really have to study harder...)");
+    MsgDisp("主人公","(Oof... I really have to study harder...)");
     break ;
     default :
     DbgAssert(1);

@@ -13,12 +13,10 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 ChCheek(4,10);
 VoicePlay("B020402100_04_010");
-MsgDisp("Nanatsumori","Yeah.
-I'm in love with it.");
+MsgDisp("Nanatsumori","Yeah. I'm in love with it.");
 VoicePlay("B020402100_04_020");
 MsgDisp("Nanatsumori","I could look at this forever.
-Ohh...
-It's seriously nice.");
+Ohh... It's seriously nice.");
 MsgDisp("主人公","(That's embarrassing...
 ｛Nanatsumori＊｝ seems to like this
 coordination a lot, though!)");

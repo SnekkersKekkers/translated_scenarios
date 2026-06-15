@@ -28,8 +28,8 @@ MsgDisp("Hiiragi","What about with you?");
 MsgDisp("主人公","Me?");
 ChEye(5,4);
 VoicePlay("B070500001_05_150");
-MsgDisp("Hiiragi","He won't talk to me, but I thought maybe with
-you...");
+MsgDisp("Hiiragi","He won't talk to me, but I thought maybe
+with you...");
 MsgDisp("主人公","Umm...");
 ChEye(5,4);
 ChMotion(5,4);

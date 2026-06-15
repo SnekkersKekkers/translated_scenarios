@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040204200_02_000");
     MsgDisp("Sassa","The trapeze was awesome.
-That part where they almost fell was staged,
-right∋");
+That part where they almost fell was
+staged, right∋");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +37,8 @@ Well, it was still a good experience.");
     ChMotion(2,2);
     VoicePlay("B040204200_02_020");
     MsgDisp("Sassa","Seriously?
-I guess I was the only one having a lot of
-fun...");
+I guess I was the only one having a lot
+of fun...");
     MsgDateResultDisp();
     break ;
     default :

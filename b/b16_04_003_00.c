@@ -19,8 +19,8 @@ know how to respond.");
     NSSEye(4,2);
     NSSMouth(4,3);
     VoicePlay("B160400300_04_020");
-    MsgDisp("Nanatsumori","It's not at teasing level.
-Well... I don't hate it, so I'll allow it.
+    MsgDisp("Nanatsumori","It's not at teasing level. Well...
+I don't hate it, so I'll allow it.
 Feel free to continue.");
     break ;
     default :

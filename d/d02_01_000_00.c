@@ -4,8 +4,7 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh?
-｛Kazama＊＊｝, good morning!
+MsgDisp("主人公","Oh? ｛Kazama＊＊｝, good morning!
 Were you maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -87,8 +86,8 @@ NSSMouth(1,0);
 VoicePlay("D020100000_01_070");
 MsgDisp("Kazama","Isn't the fact that we both have the same\nmemory proof enough?");
 MsgDisp("主人公","That's true.
-The two of us wouldn't have the same dream, I
-guess?");
+The two of us wouldn't have the same dream,
+I guess?");
 NSSEye(1,3);
 NSSMouth(1,3);
 VoicePlay("D020100000_01_080");
@@ -98,8 +97,8 @@ NSSEye(1,6);
 NSSMouth(1,0);
 VoicePlay("D020100000_01_090");
 MsgDisp("Kazama","So, you know...
-That thing that happened after the bell
-rang—");
+That thing that happened after the
+bell rang—");
 MsgClose();
 ScrFadeOut(0,0,30);
 NSSClose();
@@ -125,8 +124,7 @@ ChOpen(1,254,7,2,3,#1,#1,0,0,0,30);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100000_01_110");
-MsgDisp("Kazama","That's good.
-Phew...
+MsgDisp("Kazama","That's good. Phew...
 I'm glad the splash wasn't a big deal.");
 MsgDisp("主人公","I never trip.");
 ChMotion(1,0);
@@ -137,8 +135,7 @@ VoicePlay("D020100000_01_120");
 MsgDisp("Kazama","You didn't just now, but I remember the times
 you did. Back in first grade you were a
 handful to take care of.");
-MsgDisp("主人公","(Ugh...
-I don't have a comeback for that.)");
+MsgDisp("主人公","(Ugh... I don't have a comeback for that.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEyeOpenLevel(1,#1);

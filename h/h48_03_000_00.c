@@ -46,11 +46,10 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChCheek(3,0);
 VoicePlay("H480300000_03_050");
-MsgDisp("Honda","I see!
-It's because of what you're wearing. It's so
-beautiful that it makes my heart pound!");
-MsgDisp("主人公","Huh∋
-Wait, you're being too loud...!");
+MsgDisp("Honda","I see! It's because of what you're wearing.
+It's so beautiful that it makes my
+heart pound!");
+MsgDisp("主人公","Huh∋ Wait, you're being too loud...!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

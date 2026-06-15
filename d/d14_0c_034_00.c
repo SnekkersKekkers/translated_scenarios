@@ -19,8 +19,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140C03400_07_000");
-MsgDisp("Mikage","Yeah.
-What's this all of a sudden, Yanosuke?");
+MsgDisp("Mikage","Yeah. What's this all of a sudden, Yanosuke?");
 VoicePlay("D140C03400_05_010");
 MsgDisp("Hiiragi","You don't have any pets, right?");
 ChEye(6,0);
@@ -29,8 +28,8 @@ ChMotion(6,0);
 VoicePlay("D140C03400_06_000");
 MsgDisp("Himuro","Now that you mention it, I don't think I've
 heard anything on that.");
-MsgDisp("主人公","Molly-chan lives at your parent's house,
-right?");
+MsgDisp("主人公","Molly-chan lives at your parent's
+house, right?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -46,8 +45,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C03400_07_020");
-MsgDisp("Mikage","Isn't it kind of sad for them to be alone all
-day?");
+MsgDisp("Mikage","Isn't it kind of sad for them to be alone
+all day?");
 ChMouth(5,4);
 MsgDisp("主人公","That's for sure...");
 ChEye(7,0);
@@ -55,8 +54,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,8);
 VoicePlay("D140C03400_07_030");
-MsgDisp("Mikage","And there's lots of them at school anyways,
-right?");
+MsgDisp("Mikage","And there's lots of them at school
+anyways, right?");
 ChEye(5,3);
 ChMouth(5,2);
 MsgDisp("主人公","Eh?");
@@ -74,8 +73,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C03400_05_030");
-MsgDisp("Hiiragi","Haha.
-You mean us, right?");
+MsgDisp("Hiiragi","Haha. You mean us, right?");
 MsgDisp("主人公","Eh∋");
 ChEye(6,1);
 ChMouth(6,0);

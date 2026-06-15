@@ -16,8 +16,7 @@ MsgDisp("Nanatsumori","Hey.");
 MsgDisp("主人公","Welcome!");
 VoicePlay("G110400700_04_010");
 MsgDisp("Nanatsumori","Can I take any empty table in the back?");
-MsgDisp("主人公","Yeah!
-This way, please.");
+MsgDisp("主人公","Yeah! This way, please.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(4);
@@ -57,12 +56,10 @@ VoicePlay("G110400700_04_040");
 MsgDisp("Nanatsumori","No...
 It just hit me that both orders start with
 \"hot\"—hot coffee, hotcakes.");
-MsgDisp("主人公","Oh, really?
-Hehe!");
+MsgDisp("主人公","Oh, really? Hehe!");
 ChMotion(4,2);
 VoicePlay("G110400700_04_050");
-MsgDisp("Nanatsumori","Haha!
-Really?
+MsgDisp("Nanatsumori","Haha! Really?
 You think I'm funny?");
 MsgDisp("主人公","(｛Nanatsumori＊｝ makes me laugh more here \nthan when we're at school, huh?)");
 BGMStop();

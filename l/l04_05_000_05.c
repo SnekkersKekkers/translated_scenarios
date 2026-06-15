@@ -7,15 +7,14 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,3,1);
     VoicePlay("L040500005_05_000");
     MsgDisp("Hiiragi","Thank you very much.
-It's handmade...
-Ah.");
+It's handmade... Ah.");
     MsgDisp("主人公","Hm?");
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("L040500005_05_010");
-    MsgDisp("Hiiragi","Ah, no.
-Pay me no mind.
-I will have this later. Farewell.");
+    MsgDisp("Hiiragi","Ah, no. Pay me no mind.
+I will have this later.
+Farewell.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -30,15 +29,13 @@ like...)");
     VoicePlay("L040500005_05_020");
     MsgDisp("Hiiragi","Ah, it's handmade.
 Thank you.");
-    MsgDisp("主人公","Yes!
-I hope it suits your tastes.");
+    MsgDisp("主人公","Yes! I hope it suits your tastes.");
     ChEye(5,2);
     ChMouth(5,0);
     ChMotion(5,4);
     VoicePlay("L040500005_05_030");
     MsgDisp("Hiiragi","This...is for me, correct?");
-    MsgDisp("主人公","Hm?
-What's wrong?");
+    MsgDisp("主人公","Hm? What's wrong?");
     ChEye(5,0);
     ChMouth(5,3);
     ChMotion(5,3);
@@ -70,8 +67,7 @@ Did I add something he doesn't like...?)");
     VoicePlay("L040500005_05_070");
     MsgDisp("Hiiragi","...This is surely due to a miscommunication.
 The fault is on me.");
-    MsgDisp("主人公","Hm?
-What's wrong?");
+    MsgDisp("主人公","Hm? What's wrong?");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,0);

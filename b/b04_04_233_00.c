@@ -7,8 +7,7 @@ ChOpen(4,255,0,2,1,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040423300_04_000");
-MsgDisp("Nanatsumori","Crap...
-This is dangerous.");
+MsgDisp("Nanatsumori","Crap... This is dangerous.");
 MsgSel("I could get used to this thrill!","Hey, that's enough...","That was a very interesting experience...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +27,7 @@ What's so addictive about that?");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040423300_04_020");
-    MsgDisp("Nanatsumori","Hey.
-But now you've got a nice hairdo.
+    MsgDisp("Nanatsumori","Hey. But now you've got a nice hairdo.
 What style surpasses Visual Kei?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

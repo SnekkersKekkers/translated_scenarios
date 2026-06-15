@@ -9,8 +9,7 @@ Ah, it's ｛Himuro＊＊｝!");
     SEWait();
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     VoicePlay("O040601000_06_000");
-    MsgDisp("Himuro","What.
-I'm with you?");
+    MsgDisp("Himuro","What. I'm with you?");
     MsgDisp("主人公","Yeah, let's do our best!");
     ChEye(6,0);
     ChMouth(6,0);

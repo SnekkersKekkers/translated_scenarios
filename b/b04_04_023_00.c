@@ -34,8 +34,7 @@ Let's relax and enjoy it.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040402300_04_030");
-    MsgDisp("Nanatsumori","...I see.
-I've not thought of that before.
+    MsgDisp("Nanatsumori","...I see. I've not thought of that before.
 Let's think about why.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

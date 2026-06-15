@@ -41,8 +41,7 @@ towards kitties. I like their cool side.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040421301_04_030");
-    MsgDisp("Nanatsumori","Hmm.
-Well, it might be hard to choose.");
+    MsgDisp("Nanatsumori","Hmm. Well, it might be hard to choose.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

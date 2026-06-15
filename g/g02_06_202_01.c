@@ -10,8 +10,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_010");
 MsgDisp("Himuro","I've been trying not to think about it all
-day, but even now, I can't get it out of my
-head.");
+day, but even now, I can't get it out of
+my head.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -23,8 +23,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_030");
 MsgDisp("Himuro","It's about Nozomu-senpai.
-You're getting...along with him now, aren't
-you?");
+You're getting...along with him now,
+aren't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

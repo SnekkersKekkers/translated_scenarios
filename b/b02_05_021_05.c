@@ -10,5 +10,4 @@ VoicePlay("B020502105_05_010");
 MsgDisp("Hiiragi","Yes.
 This outfit suits you well without anything
 extra. It's cute.");
-MsgDisp("主人公","(Yay!
-｛Hiiragi＊＊＊｝ seems to be really happy!)");
+MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ seems to be really happy!)");

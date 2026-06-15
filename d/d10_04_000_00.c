@@ -14,8 +14,7 @@ ChMotion(4,1,1);
 VoicePlay("D100400000_04_010");
 MsgDisp("Nanatsumori","Do you have your Japanese Lit textbook?
 I forgot mine...");
-MsgDisp("主人公","I do.
-Here, take it.");
+MsgDisp("主人公","I do. Here, take it.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

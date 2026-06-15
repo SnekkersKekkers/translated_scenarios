@@ -19,8 +19,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440001_04_020");
-MsgDisp("Nanatsumori","Y-Yeah...like cosplay, not crossdressing,
-okay?");
+MsgDisp("Nanatsumori","Y-Yeah...like cosplay, not
+crossdressing, okay?");
 MsgDisp("主人公","Hehe.");
 ChEye(4,4);
 ChMouth(4,2);

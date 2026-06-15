@@ -8,10 +8,8 @@ BGMPlay("BGM_PLACE_CASTLE",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360222100_02_000");
-MsgDisp("Sassa","Phew—...
-The castle at sunset is nice, huh.");
-MsgDisp("主人公","Yeah.
-The town is dyed red, it's beautiful.");
+MsgDisp("Sassa","Phew—... The castle at sunset is nice, huh.");
+MsgDisp("主人公","Yeah. The town is dyed red, it's beautiful.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,255,3,0,4,#1,#1,0,0);

@@ -7,10 +7,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("S060300001_03_000");
-    MsgDisp("Honda","Yes...!
-A kimono.");
-    MsgDisp("主人公","Yeah.
-What do you think?");
+    MsgDisp("Honda","Yes...! A kimono.");
+    MsgDisp("主人公","Yeah. What do you think?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
@@ -33,8 +31,7 @@ perfect score.");
     ChMotion(3,3,1);
     VoicePlay("S060300001_03_030");
     MsgDisp("Honda","A kimono, kimono.");
-    MsgDisp("主人公","Yeah.
-What do you think?");
+    MsgDisp("主人公","Yeah. What do you think?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -58,8 +55,7 @@ the lottery!");
     ChMotion(3,4,1);
     VoicePlay("S060300001_03_060");
     MsgDisp("Honda","So, the first outfit of the year is a kimono.");
-    MsgDisp("主人公","Yeah...
-What do you think?");
+    MsgDisp("主人公","Yeah... What do you think?");
     ChFace(3,3);
     ChMotion(3,5,1);
     VoicePlay("S060300001_03_070");
@@ -68,8 +64,7 @@ What do you think?");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("S060300001_03_080");
-    MsgDisp("Honda","No!
-I can't even think of what to say!");
+    MsgDisp("Honda","No! I can't even think of what to say!");
     MsgDisp("主人公","Uh, ｛Honda＊＊｝?");
     ChEye(3,4);
     ChMouth(3,0);

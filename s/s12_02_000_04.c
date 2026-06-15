@@ -107,8 +107,8 @@ prayer, didn't you?");
     ChMotion(2,4);
     VoicePlay("S120200004_02_100");
     MsgDisp("Sassa","Yeah.
-I guess it was more of a thank you than a
-wish.");
+I guess it was more of a thank you than
+a wish.");
     MsgDisp("主人公","A thank you?");
     ChEye(2,0);
     ChMouth(2,0);
@@ -142,8 +142,7 @@ I was shocked when I looked at you.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("S120200004_02_150");
-    MsgDisp("Sassa","Yeah.
-You were there.");
+    MsgDisp("Sassa","Yeah. You were there.");
     MsgDisp("主人公","I was right next to you?");
     ChEye(2,3);
     ChMouth(2,3);
@@ -154,8 +153,7 @@ You were there.");
 hands together like that.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
-    MsgDisp("主人公","Huh.
-Why are you laughing?");
+    MsgDisp("主人公","Huh. Why are you laughing?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

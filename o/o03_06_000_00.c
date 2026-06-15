@@ -26,8 +26,7 @@ I was kinda surprised.");
     VoicePlay("O030600000_06_020");
     MsgDisp("Himuro","I didn't expect it, but maybe we're a little
 compatible.");
-    MsgDisp("主人公","(Yay!
-I got first place with ｛Himuro＊＊｝!)");
+    MsgDisp("主人公","(Yay! I got first place with ｛Himuro＊＊｝!)");
     break ;
     case 4:
     case 5:

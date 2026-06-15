@@ -14,5 +14,4 @@ ChMouth(5,4);
 VoicePlay("B020500010_05_010");
 MsgDisp("Hiiragi","It is very fitting on you.
 More so than anyone else.");
-MsgDisp("主人公","(Yay!
-｛Hiiragi＊＊＊｝ praised me!)");
+MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ praised me!)");

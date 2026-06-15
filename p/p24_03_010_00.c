@@ -17,8 +17,7 @@ the final scene, right?");
 MsgDisp("主人公","Yes, this scene is great♪");
 ChMouth(3,4);
 VoicePlay("P240301000_34_000");
-MsgDisp("Kanbei","Ah...
-I've finally returned...");
+MsgDisp("Kanbei","Ah... I've finally returned...");
 VoicePlay("P240301000_44_000");
 MsgDisp("Mitsuki","After being imprisoned for so long, to see
 you in this state...
@@ -75,8 +74,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P240301000_03_050");
-MsgDisp("Honda","Yay!
-It was a great success!");
+MsgDisp("Honda","Yay! It was a great success!");
 MsgDisp("主人公","Ah, yeah.
 That's right...");
 SEStop("EV_SE_GAYA_021",3);

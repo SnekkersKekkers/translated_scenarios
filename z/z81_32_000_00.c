@@ -39,8 +39,7 @@ MsgDisp("主人公","Um, there was dust on your necktie, so...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("Z813200000_32_030");
-MsgDisp("VP Himuro","I see.
-My apologies.
+MsgDisp("VP Himuro","I see. My apologies.
 I mistook your actions for skinship.");
 SEStop("EV_SE_063");
 MsgDisp("主人公","Huh, skinship?");

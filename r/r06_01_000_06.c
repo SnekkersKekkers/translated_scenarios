@@ -21,8 +21,8 @@ I think?)");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("R060100006_01_010");
-    MsgDisp("Kazama","This must have been quite the adventure to
-get.
+    MsgDisp("Kazama","This must have been quite the adventure
+to get.
 I'm shocked.");
     ChEye(1,0);
     MsgDisp("主人公","(Hmm, he seemed to like my gift...

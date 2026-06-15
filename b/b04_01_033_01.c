@@ -41,8 +41,7 @@ Deep sea creatures all seem to move slowly.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040103301_01_030");
-    MsgDisp("Kazama","Hey!
-You aren't a kid!
+    MsgDisp("Kazama","Hey! You aren't a kid!
 Wake up!");
     MsgDateResultDisp();
     break ;

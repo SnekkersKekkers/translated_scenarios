@@ -12,8 +12,8 @@ switch (ChPrmGet(3,6)){
     MsgDisp("Honda","Nice job on your final exams.
 Isn't that your name among the top?");
     MsgDisp("主人公","Thank you very much.
-But, ｛Honda＊＊｝, aren't you the first in our
-grade?");
+But, ｛Honda＊＊｝, aren't you the first in
+our grade?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5);
@@ -47,8 +47,8 @@ but...yeah, I'll take the compliment!)");
     ChMotion(3,3,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("N020300001_03_040");
-    MsgDisp("Honda","Well done on your performance in the final
-exams!
+    MsgDisp("Honda","Well done on your performance in the
+final exams!
 Are you glad you worked so hard?");
     MsgDisp("主人公","Yeah, thank you ｛Honda＊＊｝!");
     ChEye(3,0);
@@ -57,13 +57,13 @@ Are you glad you worked so hard?");
     VoicePlay("N020300001_03_050");
     MsgDisp("Honda","Maybe you could be the first among all the
 students in our grade.");
-    MsgDisp("主人公","Eh, but you're the one who's first in our grade, ｛Honda＊＊｝...");
+    MsgDisp("主人公","Eh, but you're the one who's first in our
+grade, ｛Honda＊＊｝...");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("N020300001_03_060");
-    MsgDisp("Honda","Huh?
-Ah, I didn't know!");
+    MsgDisp("Honda","Huh? Ah, I didn't know!");
     ChEye(3,1);
     ChMouth(3,3);
     ChMotion(3,3);

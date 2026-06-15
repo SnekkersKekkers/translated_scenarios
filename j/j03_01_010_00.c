@@ -19,8 +19,7 @@ I'll wait for you at the ｛待ち合わせ場所｝.");
     MsgDisp("Kazama","Can't wait〜 See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yes!
-I can't wait for ｛日付｝.)");
+    MsgDisp("主人公","(Yes! I can't wait for ｛日付｝.)");
     break ;
     case 3:
     MsgDisp("主人公","(Ah, a phone call from ｛Kazama＊＊｝!)");
@@ -41,8 +40,7 @@ I'm looking forward to a lot of things.
 See you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!
-I hope ｛日付｝ arrives fast!)");
+    MsgDisp("主人公","(Yay! I hope ｛日付｝ arrives fast!)");
     break ;
     case 4:
     case 5:
@@ -63,12 +61,10 @@ Then, let's meet on ｛日付｝.
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030101000_01_070");
     MsgDisp("Kazama","Understood.
-No rush, just get there in one piece.
-Okay?");
+No rush, just get there in one piece. Okay?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!!
-I can't wait for ｛日付｝!)");
+    MsgDisp("主人公","(Yay!! I can't wait for ｛日付｝!)");
     break ;
     default :
     DbgAssert(1);

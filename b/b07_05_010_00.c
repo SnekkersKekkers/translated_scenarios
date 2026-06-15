@@ -33,8 +33,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B070501000_05_030");
 MsgDisp("Hiiragi","Even before I understood what was going on
-around me, I spoke of love and romance on the
-stage.");
+around me, I spoke of love and romance on
+the stage.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -92,8 +92,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 ChCheek(5,7);
 VoicePlay("B070501000_05_110");
-MsgDisp("Hiiragi","I-Is that so?
-...I see. It appears I still don't fully
+MsgDisp("Hiiragi","I-Is that so? ...I see.
+It appears I still don't fully
 understand you.");
 ChEye(5,2);
 ChMouth(5,4);
@@ -101,8 +101,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("B070501000_05_120");
-MsgDisp("Hiiragi","Fuu...
-I nearly said something outrageous.");
+MsgDisp("Hiiragi","Fuu... I nearly said something outrageous.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝...? It seems like he really
 thought hard about love. But what kind of
 outrageous thing was he talking about?)");

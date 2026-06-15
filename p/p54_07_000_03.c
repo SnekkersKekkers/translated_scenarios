@@ -3,8 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-I didn't practise enough.
+MsgDisp("主人公","(Sigh... I didn't practise enough.
 I wasn't able to perform well...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -33,8 +32,7 @@ ChMotion(7,2);
 VoicePlay("P540700003_07_030");
 MsgDisp("Mikage","To properly understand the cause, you need to
 try talking to everyone.");
-MsgDisp("主人公","...Yes.
-That's right, huh!");
+MsgDisp("主人公","...Yes. That's right, huh!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

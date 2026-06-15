@@ -34,8 +34,8 @@ relieved. Thank you, ｛Kazama＊＊｝.");
     ChMotion(1,0);
     VoicePlay("P830100000_01_020");
     MsgDisp("Kazama","That's good.
-You look as happy as if it was yours being
-found.");
+You look as happy as if it was yours
+being found.");
     MsgDisp("主人公","Yeah, I was super worried.
 I'll hand it over to them.");
     ChEye(1,2);
@@ -82,8 +82,7 @@ things as I please.");
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("P830100000_01_070");
-    MsgDisp("Kazama","I see.
-Hey, what do you mean by \"hehe\"?");
+    MsgDisp("Kazama","I see. Hey, what do you mean by \"hehe\"?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);

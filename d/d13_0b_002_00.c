@@ -5,8 +5,7 @@ MsgClose();
 BGOpen("sc300",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-It's already graduation soon huh?)");
+MsgDisp("主人公","(Sigh... It's already graduation soon huh?)");
 MsgDisp("主人公","(For three years, I got to be in the same
 class as ｛Kazama＊＊｝)");
 MsgDisp("主人公","(...｛Kazama＊＊｝, I wonder what you're doing
@@ -36,8 +35,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2);
 VoicePlay("D130B00200_04_000");
-MsgDisp("Nanatsumori","Huh.
-You're still here.");
+MsgDisp("Nanatsumori","Huh. You're still here.");
 MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -76,8 +74,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D130B00200_04_040");
-MsgDisp("Nanatsumori","Ah—...
-I see. That guy's warning us all the way from
+MsgDisp("Nanatsumori","Ah—... I see.
+That guy's warning us all the way from
 England.");
 ChEye(3,4);
 ChMouth(3,4);

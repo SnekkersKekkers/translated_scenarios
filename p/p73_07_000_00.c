@@ -42,30 +42,28 @@ worked hard on this.");
     MsgDisp("Mikage","Just the fact that you were able to feel
 nervous means that no matter the result, it
 will remain a memory.");
-    MsgDisp("主人公","Yes.
-Even if you say that...");
+    MsgDisp("主人公","Yes. Even if you say that...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("P730700000_07_050");
     MsgDisp("Mikage","Haha, well.
-You just have to overcome it yourself, won't
-you?");
+You just have to overcome it yourself,
+won't you?");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("P730700000_07_060");
-    MsgDisp("Mikage","Well, it's your turn.
-Go.");
+    MsgDisp("Mikage","Well, it's your turn. Go.");
     MsgDisp("主人公","Yes, I'm off!");
     MsgDisp("主人公","(Yes, I have to prepare myself...!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(I finished just in time but, it's finally the
-runway...
+    MsgDisp("主人公","(I finished just in time but, it's finally
+the runway...
 I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -82,8 +80,7 @@ Is it really...?");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("P730700000_07_080");
-    MsgDisp("Mikage","Yeah.
-Of course, the model too?");
+    MsgDisp("Mikage","Yeah. Of course, the model too?");
     MsgDisp("主人公","Thank you very much.");
     ChEye(7,0);
     ChMouth(7,0);

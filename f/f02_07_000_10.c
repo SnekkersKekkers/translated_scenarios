@@ -6,8 +6,8 @@ ChMotion(7,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","It's the cultural festival soon.
-I wonder if I'll be alright for the school
-play...");
+I wonder if I'll be alright for the
+school play...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

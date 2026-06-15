@@ -14,7 +14,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,3);
     VoicePlay("N020600000_06_010");
     MsgDisp("Himuro","You're surprisingly good.
-W-Well, keep it up so no one calls it a fluke.");
+W-Well, keep it up so no one calls it
+a fluke.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);

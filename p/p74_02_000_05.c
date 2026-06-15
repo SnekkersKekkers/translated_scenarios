@@ -30,11 +30,11 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P740200005_02_030");
-MsgDisp("Sassa","Then, you can try again someday with that
-dress!");
+MsgDisp("Sassa","Then, you can try again someday with
+that dress!");
 MsgDisp("主人公","Someday...huh?
-Will a day come where I'll wear that dress
-again?");
+Will a day come where I'll wear that
+dress again?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

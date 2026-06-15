@@ -1,11 +1,9 @@
 BGOpen("ex000",1);
 ChClose(8,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-Why did I say such a thing...)");
+MsgDisp("主人公","(Sigh... Why did I say such a thing...)");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","(Ah...
-It's from ｛Daichi＊＊｝!)");
+MsgDisp("主人公","(Ah... It's from ｛Daichi＊＊｝!)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Yes, hello.");
@@ -24,12 +22,10 @@ MsgDisp("Shirahane","That's the worst thing a man could do.
 MsgDisp("主人公","No, I'm the one who said something weird.
 I'm sorry.");
 VoicePlay("B100800000_08_040");
-MsgDisp("Shirahane","No.
-You didn't do anything wrong.");
+MsgDisp("Shirahane","No. You didn't do anything wrong.");
 MsgDisp("主人公","Yeah...thank you.");
 VoicePlay("B100800000_08_050");
-MsgDisp("Shirahane","Hehe.
-Let's go on a date again, okay?");
+MsgDisp("Shirahane","Hehe. Let's go on a date again, okay?");
 VoicePlay("B100800000_08_060");
 MsgDisp("Shirahane","All right, see you.
 Goodnight.");

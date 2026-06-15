@@ -11,8 +11,7 @@ VoicePlay("G110300601_03_010");
 MsgDisp("Honda","This is a message from the manager.
 They're entrusting the monthly staff book
 recommendation to you.");
-MsgDisp("主人公","Ehh∋
-Me?");
+MsgDisp("主人公","Ehh∋ Me?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

@@ -34,8 +34,8 @@ VoicePlay("G110700900_07_030");
 MsgDisp("Mikage","We can try to assist them, but the plants are
 the ones who have to do all the hard work.");
 MsgDisp("主人公","Got it...
-I'll do my best so the plants can grow
-strong.");
+I'll do my best so the plants can
+grow strong.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

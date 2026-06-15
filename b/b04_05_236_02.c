@@ -69,14 +69,14 @@ And, I'm sorry.");
         MsgDisp("主人公","Huh?");
         ChMotion(5,2);
         VoicePlay("B040523602_05_050");
-        MsgDisp("Hiiragi","You're kind, so you put up with my strange
-moods.");
+        MsgDisp("Hiiragi","You're kind, so you put up with my
+strange moods.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040523602_05_060");
         MsgDisp("Hiiragi","But I don't want you staying out all night.");
         MsgDisp("主人公","Ah, umm...
-I'm the one who's sorry for getting carried
-away.");
+I'm the one who's sorry for getting
+carried away.");
         BGMVol(1,0.2);
         ChEye(5,4);
         ChEyeOpenLevel(5,#1);
@@ -97,8 +97,7 @@ this situation.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523602_05_090");
-        MsgDisp("Hiiragi","Look.
-Even that tuna over there is smiling.");
+        MsgDisp("Hiiragi","Look. Even that tuna over there is smiling.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040523602_05_100");

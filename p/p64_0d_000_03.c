@@ -9,8 +9,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("P640D00003_21_000");
 MsgDisp("Michiru","This is a small burdock...isn't it?");
-MsgDisp("主人公","Ummm...
-But that's a sweet potato...");
+MsgDisp("主人公","Ummm... But that's a sweet potato...");
 ChEye(22,0);
 ChMouth(22,5);
 ChMotion(22,5,1);

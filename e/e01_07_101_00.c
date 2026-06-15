@@ -4,8 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I think it's time to go home...)");
 VoicePlay("E010710100_47_000");
 MsgDisp("Clerk","Sensei, here's a bonus.");
-MsgDisp("主人公","(...Hm?
-Sensei?)");
+MsgDisp("主人公","(...Hm? Sensei?)");
 VoicePlay("E010710100_07_000");
 MsgDisp("Mikage","Thank you as always.
 In return, here are some vegetables.");
@@ -23,8 +22,7 @@ MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,255,0,0,0,10,#1,0,0);
 VoicePlay("E010710100_07_020");
-MsgDisp("Mikage","Oh.
-There's a beauty over here too.");
+MsgDisp("Mikage","Oh. There's a beauty over here too.");
 MsgDisp("主人公","Hello, ｛Mikage＊＊｝.
 Are you a regular at that store?");
 ChEye(7,0);
@@ -42,8 +40,8 @@ VoicePlay("E010710100_07_040");
 MsgDisp("Mikage","There are a lot of beauties waiting for me
 back at home.");
 MsgDisp("主人公","I see.
-I do remember you saying you have a lot of
-plants.");
+I do remember you saying you have a lot
+of plants.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

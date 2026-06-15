@@ -37,8 +37,8 @@ ChMotion(7,0);
 VoicePlay("G020710303_07_040");
 MsgDisp("Mikage","Ah, sorry about that.");
 MsgDisp("主人公","Ah...
-I said that even though you helped me, I'm
-sorry.");
+I said that even though you helped me,
+I'm sorry.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

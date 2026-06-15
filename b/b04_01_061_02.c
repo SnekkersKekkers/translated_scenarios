@@ -45,8 +45,7 @@ You're a total curiosity monster.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040106102_01_030");
-        MsgDisp("Kazama","Phew...
-I'm being serious here.
+        MsgDisp("Kazama","Phew... I'm being serious here.
 Jeez, you never think about how I feel.");
         MsgDateResultDisp();
         break ;

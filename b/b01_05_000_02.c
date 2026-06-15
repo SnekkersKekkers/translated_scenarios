@@ -13,8 +13,8 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_000");
-    MsgDisp("Hiiragi","Yes, I finished my previous errand with
-haste.
+    MsgDisp("Hiiragi","Yes, I finished my previous errand
+with haste.
 Waiting a little is no problem as well.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Hehe, I see.");
@@ -43,8 +43,7 @@ enjoyable.");
     MsgClose();
     ChOpen(5,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010500002_05_030");
-    MsgDisp("Hiiragi","Yes.
-I wanted to see your surprised face.");
+    MsgDisp("Hiiragi","Yes. I wanted to see your surprised face.");
     MsgDisp("主人公","Hey, that's mean.");
     ChMouth(5,4);
     ChMotion(5,4);

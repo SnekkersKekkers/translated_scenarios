@@ -27,8 +27,8 @@ ChCheek(21,5);
 VoicePlay("F112110001_21_030");
 MsgDisp("Michiru","Oh no...
 I don't know why I care about this stuff.");
-MsgDisp("主人公","...｛みちる＊｝, do you want to fall in
-love?");
+MsgDisp("主人公","...｛みちる＊｝, do you want to fall
+in love?");
 ChEye(21,5);
 ChMouth(21,4);
 ChMotion(21,0);

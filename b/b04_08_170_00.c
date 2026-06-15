@@ -5,8 +5,7 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040817000_08_000");
-MsgDisp("Shirahane","Umm...
-What should we start with?");
+MsgDisp("Shirahane","Umm... What should we start with?");
 MsgSel("I want to hear ｛Daichi＊＊｝'s beautiful voice.","Let's sing a duet together.","Please listen to my song!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,4,1);
     VoicePlay("B040817000_08_010");
-    MsgDisp("Shirahane","Eh?
-You can go first.
+    MsgDisp("Shirahane","Eh? You can go first.
 I'm still preparing my heart.");
     MsgDateResultDisp();
     break ;

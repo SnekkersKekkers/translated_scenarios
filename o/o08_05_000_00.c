@@ -41,8 +41,7 @@ Now, your hand?");
     ChMotion(5,4);
     VoicePlay("O080500000_05_040");
     MsgDisp("Hiiragi","Oh, are you not feeling it today?");
-    MsgDisp("主人公","Hehe.
-Be at ease.");
+    MsgDisp("主人公","Hehe. Be at ease.");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("O080500000_05_050");

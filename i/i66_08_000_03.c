@@ -8,8 +8,7 @@ switch (ChPrmGet(8,6)){
     case 3:
     SEPlay("EV_SE_660");
     Wait(50,0);
-    MsgDisp("主人公","...Hm?
-The gas flap isn't opening...");
+    MsgDisp("主人公","...Hm? The gas flap isn't opening...");
     VoicePlay("I660800003_45_000");
     MsgDisp("Customer","Are you good?
 Don't scratch it, okay?");
@@ -38,15 +37,13 @@ Right away...");
     MsgDisp("Shirahane","I've broken puzzle rings before by rushing
 through them...
 It ain't good to rush things. 'Kay?");
-    MsgDisp("主人公","(Sigh...
-I messed up...)");
+    MsgDisp("主人公","(Sigh... I messed up...)");
     break ;
     case 4:
     case 5:
     SEPlay("EV_SE_660");
     SEWait();
-    MsgDisp("主人公","...Hm?
-The gas flap isn't opening...");
+    MsgDisp("主人公","...Hm? The gas flap isn't opening...");
     VoicePlay("I660800003_45_010");
     MsgDisp("Customer","...Hey, are you okay?
 Don't force it open, okay?");

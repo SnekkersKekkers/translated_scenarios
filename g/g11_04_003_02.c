@@ -42,8 +42,8 @@ ChMouth(4,0);
 VoicePlay("G110400302_04_030");
 MsgDisp("Nanatsumori","...Are you doing coverage for today?");
 MsgDisp("主人公","Yeah.
-I went for a walk around the waterfront area
-today.");
+I went for a walk around the waterfront
+area today.");
 VoicePlay("G110400302_04_040");
 MsgDisp("Nanatsumori","Ooh, there's a lot of fashionable spots there
 so maybe you got a lot of notes?");

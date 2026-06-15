@@ -11,8 +11,8 @@ switch (ChPrmGet(5,6)){
     BGOpen("sc740",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(It's almost time to perform. Sigh, I'm so
-anxious...)");
+    MsgDisp("主人公","(It's almost time to perform.
+Sigh, I'm so anxious...)");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,38,0,0,4,#1,#1,0,0);
@@ -63,8 +63,8 @@ stage outweighs that.");
     ChMotion(5,4);
     VoicePlay("P230500000_05_060");
     MsgDisp("Hiiragi","Of course the script is of importance.
-But, the ones who are performing are you, and
-me.");
+But, the ones who are performing are you,
+and me.");
     MsgDisp("主人公","Y-Yeah.");
     ChEye(5,3);
     ChMouth(5,4);

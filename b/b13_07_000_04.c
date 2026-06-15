@@ -10,6 +10,6 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B130700004_07_010");
-MsgDisp("Mikage","...I'm getting the itch, as a shearing
-expert.");
+MsgDisp("Mikage","...I'm getting the itch, as a
+shearing expert.");
 MsgDisp("主人公","(Ehh∋)");

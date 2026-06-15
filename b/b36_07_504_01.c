@@ -32,8 +32,7 @@ ChMotion(7,2);
 ScrFadeIn(0);
 VoicePlay("B360750401_07_020");
 MsgDisp("Mikage","......");
-MsgDisp("主人公","Wow—...
-It's beautiful!");
+MsgDisp("主人公","Wow—... It's beautiful!");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

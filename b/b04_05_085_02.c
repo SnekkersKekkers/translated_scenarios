@@ -7,8 +7,7 @@ ScrFadeIn(0);
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B040508502_05_000");
-MsgDisp("Hiiragi","Sigh—.
-We came on such a cold day didn't we?");
+MsgDisp("Hiiragi","Sigh—. We came on such a cold day didn't we?");
 MsgSel("It's cold because you think it's cold!","Haa—, haa—, my breath is totally white!","Shall we hold hands?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -32,8 +31,8 @@ The cold has gotten you strangely tense.");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040508502_05_020");
-        MsgDisp("Hiiragi","Hey hey, if you do that you'll run out of
-breath.");
+        MsgDisp("Hiiragi","Hey hey, if you do that you'll run out
+of breath.");
         MsgDateResultDisp();
         break ;
         case 4:

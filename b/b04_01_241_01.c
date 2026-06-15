@@ -28,8 +28,7 @@ animal stink.");
     ChMotion(1,3);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040124101_01_020");
-    MsgDisp("Kazama","Nice!
-Are you the one doing it?
+    MsgDisp("Kazama","Nice! Are you the one doing it?
 Just imagining it is fun.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

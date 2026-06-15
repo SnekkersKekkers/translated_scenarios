@@ -32,8 +32,7 @@ switch (MsgSelRsltGet()){
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040411002_04_020");
-        MsgDisp("Nanatsumori","I see...
-So you like swimming?");
+        MsgDisp("Nanatsumori","I see... So you like swimming?");
         MsgDisp("主人公","Yeah, I like it.");
         ChEye(4,2);
         ChMouth(4,2);
@@ -69,8 +68,8 @@ pool, it's no problem if you float around.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040411002_04_070");
-        MsgDisp("Nanatsumori","Then, let's play in the pool you like so
-much.");
+        MsgDisp("Nanatsumori","Then, let's play in the pool you like
+so much.");
         MsgDisp("主人公","Yay!
 Then, do you want to go down the water slide
 together?");
@@ -113,8 +112,7 @@ Shall we go then...");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040411002_04_120");
-    MsgDisp("Nanatsumori","I see..
-But, don't stare too much.");
+    MsgDisp("Nanatsumori","I see.. But, don't stare too much.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -23,8 +23,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("I562100005_21_020");
-MsgDisp("Michiru","Having such a good sense for the display is
-cool.");
+MsgDisp("Michiru","Having such a good sense for the display
+is cool.");
 MsgDisp("主人公","(Hehe, I was complimented!)");
 BGMStop();
 MsgClose();

@@ -27,8 +27,7 @@ I never go to the arcade by myself after all.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040416002_04_020");
-    MsgDisp("Nanatsumori","Huh, are you turning red?
-Cute.");
+    MsgDisp("Nanatsumori","Huh, are you turning red? Cute.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -71,8 +70,8 @@ You really are a worrywart, aren't you?");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040416002_04_060");
-        MsgDisp("Nanatsumori","It won't.
-If you'd like, I could even post it here?");
+        MsgDisp("Nanatsumori","It won't. If you'd like, I could even post
+it here?");
         MsgDisp("主人公","Ehhh∋");
         ChEye(4,3);
         ChMouth(4,3);
@@ -83,14 +82,12 @@ If you'd like, I could even post it here?");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040416002_04_080");
-        MsgDisp("Nanatsumori","Ah...actually, I can't.
-I can't post it.");
+        MsgDisp("Nanatsumori","Ah...actually, I can't. I can't post it.");
         MsgDisp("主人公","?");
         VoicePlay("B040416002_04_090");
         MsgDisp("Nanatsumori","You'll become a target.
 Of guys.");
-        MsgDisp("主人公","Eh?
-There's no way that's true.");
+        MsgDisp("主人公","Eh? There's no way that's true.");
         ChEye(4,0);
         ChMouth(4,2);
         ChMotion(4,0,1);

@@ -17,8 +17,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("G020710200_07_020");
-MsgDisp("Mikage","Don't give me that obvious 'I don't like it'
-face.");
+MsgDisp("Mikage","Don't give me that obvious 'I don't like
+it' face.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, I want to ask you a serious question,
-okay?");
+MsgDisp("主人公","Hey, I want to ask you a serious
+question, okay?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -37,8 +37,7 @@ ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("B070300000_03_540");
 MsgDisp("Honda","Uuu...");
-MsgDisp("主人公","Eh!
-What's wrong?");
+MsgDisp("主人公","Eh! What's wrong?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);

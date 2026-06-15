@@ -4,8 +4,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_480");
 MsgDisp("Himuro","What?");
-MsgDisp("主人公","I just wanted to look at ｛Himuro＊＊｝ for some
-reason.");
+MsgDisp("主人公","I just wanted to look at ｛Himuro＊＊｝ for
+some reason.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -17,8 +17,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B070600002_06_500");
-MsgDisp("Himuro","Oh.
-This is nerve-wracking for me.");
+MsgDisp("Himuro","Oh. This is nerve-wracking for me.");
 MsgDisp("主人公","Ah, that's right.
 I'm sorry—");
 ChEye(6,0);

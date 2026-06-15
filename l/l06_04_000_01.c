@@ -25,12 +25,10 @@ VoicePlay("L060400001_04_030");
 MsgDisp("Nanatsumori","Here, in return.");
 SEPlay("EV_SE_664");
 SEWait();
-MsgDisp("主人公","Hm?
-A present...?");
+MsgDisp("主人公","Hm? A present...?");
 ChMotion(4,1);
 VoicePlay("L060400001_04_040");
-MsgDisp("Nanatsumori","Yeah.
-This is triple the return.");
+MsgDisp("Nanatsumori","Yeah. This is triple the return.");
 MsgDisp("主人公","Thanks so much!");
 ChMotion(4,0);
 VoicePlay("L060400001_04_050");

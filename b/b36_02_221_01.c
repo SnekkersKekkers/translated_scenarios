@@ -9,8 +9,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360222101_02_000");
 MsgDisp("Sassa","Phew—...
-Somehow we managed to make it in time for the
-sunset.");
+Somehow we managed to make it in time for
+the sunset.");
 MsgDisp("主人公","Sigh...yeah.");
 MsgClose();
 SEPlay("EV_SE_544");
@@ -25,17 +25,15 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360222101_02_020");
 MsgDisp("Sassa","I thank you too.
-I was able to see you dyed in the red of the
-sunset.");
-MsgDisp("主人公","Ehh?
-I was red?
+I was able to see you dyed in the red of
+the sunset.");
+MsgDisp("主人公","Ehh? I was red?
 It's somewhat embarrassing...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360222101_02_030");
-MsgDisp("Sassa","Why?
-I thought it was cute.");
+MsgDisp("Sassa","Why? I thought it was cute.");
 ChClose(2,0,30);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChLayout(0);

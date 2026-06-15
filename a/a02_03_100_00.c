@@ -5,8 +5,7 @@ see time go by.
 I should hurry back home...)");
 VoicePlay("A020310000_03_000");
 MsgDisp("Honda?","Investigation complete～!");
-MsgDisp("主人公","(Huh?
-Looks like someone's still here.)");
+MsgDisp("主人公","(Huh? Looks like someone's still here.)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C03_HONDA_I");
@@ -18,9 +17,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("A020310000_03_020");
-MsgDisp("Honda?","—Oops!
-Sorry sorry!
-I scared you, right? Are you alright?");
+MsgDisp("Honda?","—Oops! Sorry sorry!
+I scared you, right?
+Are you alright?");
 MsgDisp("主人公","Oh, I'm fine.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -38,8 +37,7 @@ VoicePlay("A020310000_03_040");
 MsgDisp("Honda","Yepyep, you wanna know?
 Alright, I'll let you in on it.
 Close your eyes for a sec.");
-MsgDisp("主人公","What...?
-Eh, okay.");
+MsgDisp("主人公","What...? Eh, okay.");
 ScrFadeOut(3,30);
 VoicePlay("A020310000_03_050");
 MsgDisp("Honda","You are now in your classroom, sitting in
@@ -50,8 +48,7 @@ VoicePlay("A020310000_03_060");
 MsgDisp("Honda","Yes, correct!
 Now think back to your middle school
 classrooms. Do you remember?");
-MsgDisp("主人公","Hmm...
-Oh!
+MsgDisp("主人公","Hmm... Oh!
 It's always been on the left!");
 ScrFadeIn(4,30);
 ChEye(3,3);
@@ -64,9 +61,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,2);
 VoicePlay("A020310000_03_080");
-MsgDisp("Honda","...well, I can't say for sure, but classroom
-windows are actually designed to be on the
-left.");
+MsgDisp("Honda","...well, I can't say for sure, but
+classroom windows are actually designed to
+be on the left.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);

@@ -10,8 +10,7 @@ MsgDisp("Guy","What's wrong, are you waiting?");
 MsgClose();
 SEPlay("EV_SE_557",0.2);
 ChOpen(34,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Eh?
-Ah, yeah.
+MsgDisp("主人公","Eh? Ah, yeah.
 I'm supposed to be meeting with someone...");
 ChEye(34,0);
 ChMouth(34,0);
@@ -44,8 +43,7 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B110600001_06_010");
-MsgDisp("Himuro","?
-What's with this guy?");
+MsgDisp("Himuro","? What's with this guy?");
 MsgDispSksp(0);
 MsgDisp("主人公","Umm...maybe he's lost?");
 ChEye(34,0);
@@ -108,8 +106,7 @@ ChMotion(6,0);
 VoicePlay("B110600001_06_060");
 MsgDisp("Himuro","No, sorry.
 It was my fault for being late.");
-MsgDisp("主人公","No.
-Next time I'll be more careful.");
+MsgDisp("主人公","No. Next time I'll be more careful.");
 ChEye(6,3);
 ChMouth(6,4);
 ChMotion(6,0);

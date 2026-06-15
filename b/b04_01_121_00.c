@@ -48,8 +48,8 @@ around you wherever you are, anyway.");
     ChMotion(1,3);
     VoicePlay("B040112100_01_030");
     MsgDisp("Kazama","That's true.
-One man's trash is another man's treasure,
-right?");
+One man's trash is another man's
+treasure, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

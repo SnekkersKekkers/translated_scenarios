@@ -8,14 +8,12 @@ switch (ChPrmGet(3,6)){
     ChOpen(3,254,0,4,4,#1,#1,0,0);
     VoicePlay("F010300001_03_000");
     MsgDisp("Honda","...");
-    MsgDisp("主人公","Huh?
-Um, ｛Honda＊＊｝?");
+    MsgDisp("主人公","Huh? Um, ｛Honda＊＊｝?");
     ChEye(3,5);
     ChMouth(3,5);
     ChMotion(3,5);
     VoicePlay("F010300001_03_010");
-    MsgDisp("Honda","Dah—
-I forgot to return the book!");
+    MsgDisp("Honda","Dah— I forgot to return the book!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -30,8 +28,7 @@ I don't think he'll ever respond...)");
     ChOpen(3,254,5,5,4,#1,#1,0,0);
     VoicePlay("F010300001_03_020");
     MsgDisp("Honda","Uh, me?");
-    MsgDisp("主人公","Yes.
-Should I not call you that?");
+    MsgDisp("主人公","Yes. Should I not call you that?");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4);
@@ -44,8 +41,8 @@ Sorry.");
     BGMStop();
     ChClose(3);
     MsgDisp("主人公","(Okay...
-Seems like he doesn't like it when I call him
-that.)");
+Seems like he doesn't like it when I call
+him that.)");
     break ;
     case 4:
     case 5:

@@ -26,8 +26,8 @@ MsgDisp("Kazama","They say the odds of a spare are less than 1
 percent.");
 VoicePlay("B330A20501_02_010");
 MsgDisp("Sassa","My 3rd throw in the 10th frame.
-If I get a spare, I'll turn the tables on
-Ryota!");
+If I get a spare, I'll turn the tables
+on Ryota!");
 MsgDisp("主人公","｛Sassa＊＊｝, do your best!");
 ChEye(1,0);
 ChMouth(1,2);

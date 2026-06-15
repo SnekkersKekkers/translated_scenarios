@@ -11,8 +11,7 @@ SEWait();
 MsgClose();
 ChOpen(6,32,0,2,1,0,#1,0,0);
 VoicePlay("B040620002_06_000");
-MsgDisp("Himuro","Whoa∋
-...ow.");
+MsgDisp("Himuro","Whoa∋ ...ow.");
 MsgSel("A-Are you alright?","It's difficult isn't it?","You're so clumsy!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +29,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040620002_06_020");
-    MsgDisp("Himuro","Yeah.
-I'm still not used to it.");
+    MsgDisp("Himuro","Yeah. I'm still not used to it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -76,14 +74,13 @@ I'm still not used to it.");
         ScrQuake(1);
         Wait(80,0);
         MsgDisp("主人公","Hey, that was mean!
-You tugged on me on purpose just now didn't
-you?");
+You tugged on me on purpose just now
+didn't you?");
         MsgClose();
         ChLayout(0);
         ChOpen(6,32,1,3,3,#1,#1,0,0);
         VoicePlay("B040620002_06_060");
-        MsgDisp("Himuro","Haha!
-This is payback for laughing at me.");
+        MsgDisp("Himuro","Haha! This is payback for laughing at me.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -123,8 +120,7 @@ didn't you?");
         ChEyeOpenLevel(6,0);
         VoicePlay("B040620002_06_110");
         MsgDisp("Himuro","I don't know anymore, I'm leaving you here.");
-        MsgDisp("主人公","Ehhh∋
-How cruel!");
+        MsgDisp("主人公","Ehhh∋ How cruel!");
         break ;
         default :
         DbgAssert(1);

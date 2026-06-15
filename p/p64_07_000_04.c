@@ -20,8 +20,7 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("P640700004_07_020");
 MsgDisp("Mikage","As expected of our gardening club.");
-MsgDisp("主人公","Yay!
-How about the herbal tea?");
+MsgDisp("主人公","Yay! How about the herbal tea?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

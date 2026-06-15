@@ -7,8 +7,7 @@ VoicePlay("G110500801_40_000");
 MsgDisp("School Boy","Good work today—.
 Please lock up.");
 MsgDisp("主人公","Yeees.");
-MsgDisp("主人公","(Huh?
-｛Hiiragi＊＊＊｝...)");
+MsgDisp("主人公","(Huh? ｛Hiiragi＊＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0,30);
 BGOpen("ev005",0);
@@ -51,8 +50,7 @@ SEPlay("EV_SE_712");
 Wait(30,0);
 VoicePlay("G110500801_05_040");
 MsgDisp("Hiiragi","You were laughing just now, right?");
-MsgDisp("主人公","Eh.
-You could hear that?");
+MsgDisp("主人公","Eh. You could hear that?");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
@@ -64,8 +62,7 @@ VoicePlay("G110500801_05_050");
 MsgDisp("Hiiragi","Yes, of course.
 I told you I like this time, didn't I?
 I won't fall asleep.");
-MsgDisp("主人公","Yes.
-But, don't push yourself too hard.");
+MsgDisp("主人公","Yes. But, don't push yourself too hard.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

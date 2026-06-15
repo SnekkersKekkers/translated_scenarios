@@ -11,8 +11,7 @@ MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Are you working?");
 ChMotion(4,1,1);
 VoicePlay("E010430200_04_010");
-MsgDisp("Nanatsumori","Yeah.
-I'm just about done for today.");
+MsgDisp("Nanatsumori","Yeah. I'm just about done for today.");
 MsgDisp("主人公","Good work today!");
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -69,8 +68,7 @@ This guy is-");
 ChEye(4,2);
 ChMouth(4,1);
 VoicePlay("E010430200_04_050");
-MsgDisp("Nanatsumori","Wait.
-What are you planning to say?");
+MsgDisp("Nanatsumori","Wait. What are you planning to say?");
 MsgDisp("主人公","Ah...");
 ChEye(7,0);
 ChMouth(7,0);

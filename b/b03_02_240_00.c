@@ -5,8 +5,7 @@ ChMotion(2,3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030224000_02_000");
-MsgDisp("Sassa","Ahh...～
-This is a great place.
+MsgDisp("Sassa","Ahh...～ This is a great place.
 The air is so crisp, too.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

@@ -46,8 +46,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200701_02_030");
-MsgDisp("Sassa","Until then, I'm doing this to keep my body
-warm.
+MsgDisp("Sassa","Until then, I'm doing this to keep my
+body warm.
 My bad, can we run together once more?");
 MsgDisp("主人公","Yes, of course.
 If you're okay with me.");

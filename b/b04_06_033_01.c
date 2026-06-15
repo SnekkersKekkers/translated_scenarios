@@ -6,8 +6,8 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603301_06_000");
-MsgDisp("Himuro","Deep sea creatures have such weird shapes
-huh?");
+MsgDisp("Himuro","Deep sea creatures have such weird
+shapes huh?");
 MsgSel("It's a bit scary...","Huh, doesn't it look like you, ｛Himuro＊＊｝?","Maybe it's due to the water pressure?");
 switch (MsgSelRsltGet()){
     case 0:

@@ -52,8 +52,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020120300_01_060");
-MsgDisp("Kazama","Yes!
-That answer gets a perfect 100!");
+MsgDisp("Kazama","Yes! That answer gets a perfect 100!");
 MsgDisp("主人公","Hahah, you look really good in an apron after
 all, ｛Kazama＊＊｝.");
 ChEye(1,2);

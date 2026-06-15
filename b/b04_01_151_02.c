@@ -63,19 +63,18 @@ together after this?");
         ChCheek(1,5);
         VoicePlay("B040115102_01_050");
         MsgDisp("Kazama","A fancy dinner in the waterfront area...");
-        MsgDisp("主人公","Hehe, ｛Kazama＊＊｝ is also a gourmand, isn't
-he?");
+        MsgDisp("主人公","Hehe, ｛Kazama＊＊｝ is also a gourmand,
+isn't he?");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040115102_01_060");
-        MsgDisp("Kazama","Ha?
-Don't lump me in with you. When it's about
-food, anything is fine for me.");
-        MsgDisp("主人公","Eh?
-Then what?");
+        MsgDisp("Kazama","Ha? Don't lump me in with you.
+When it's about food, anything is fine
+for me.");
+        MsgDisp("主人公","Eh? Then what?");
         ChEye(1,2);
         ChMouth(1,2);
         ChMotion(1,0);

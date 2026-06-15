@@ -11,8 +11,7 @@ ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360450401_04_000");
 MsgDisp("Nanatsumori","It's really beautiful.");
-MsgDisp("主人公","Yeah.
-It's amazing...!");
+MsgDisp("主人公","Yeah. It's amazing...!");
 VoicePlay("B360450401_04_010");
 MsgDisp("Nanatsumori","I've known about the lights in Habataki City
 since I lived in the neighbouring town.

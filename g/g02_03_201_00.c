@@ -33,8 +33,8 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020320100_03_050");
-MsgDisp("Honda","It seems like it wasn't just a baseless fear
-huh?");
+MsgDisp("Honda","It seems like it wasn't just a baseless
+fear huh?");
 MsgDisp("主人公","Umm, well...");
 ChEye(3,0);
 ChMouth(3,3);

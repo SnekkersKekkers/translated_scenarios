@@ -26,8 +26,7 @@ VoicePlay("B150700200_07_030");
 MsgDisp("Mikage","Crap...
 If I'm not careful, my feelings will get the
 best of me.");
-MsgDisp("主人公","Umm...
-I'm sorry.");
+MsgDisp("主人公","Umm... I'm sorry.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -39,8 +38,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B150700200_07_050");
 MsgDisp("Mikage","Listen up, I'm not some nervous little foal.
-I'm calm even if you don't pet me over and
-over.");
+I'm calm even if you don't pet me over
+and over.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(7,0);
 ChMouth(7,0);

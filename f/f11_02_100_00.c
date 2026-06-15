@@ -6,16 +6,14 @@ ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("F110210000_02_000");
 MsgDisp("Sassa","｛主人公｝, are you having fun?");
-MsgDisp("主人公","Yep!
-What about you, ｛Sassa＊＊｝?");
+MsgDisp("主人公","Yep! What about you, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("F110210000_02_010");
 MsgDisp("Sassa","I'm taking it easy this festival.
 There's no winning, losing, or time pressure.");
-MsgDisp("主人公","Haha.
-Is it not enough for ｛Sassa＊＊｝?");
+MsgDisp("主人公","Haha. Is it not enough for ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -28,8 +26,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("F110210000_02_030");
-MsgDisp("Sassa","Huh?
-Uh, yeah.");
+MsgDisp("Sassa","Huh? Uh, yeah.");
 VoicePlay("F110210000_42_010");
 MsgDisp("Customer","I'm in track and field, too.
 How'd you do it?
@@ -50,7 +47,7 @@ Afterwards, should we go try the food?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(Hehe, guess ｛Sassa＊＊｝ really will teach
-him.)");
+MsgDisp("主人公","(Hehe, guess ｛Sassa＊＊｝ really will
+teach him.)");
 MsgClose();
 ScrFadeOut(0);

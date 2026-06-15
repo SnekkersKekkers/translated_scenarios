@@ -2,10 +2,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("D140D07061_21_000");
-MsgDisp("Michiru","Mari is interested in a boy the year below
-us?");
-MsgDisp("主人公","Eh∋
-What's this, all of a sudden...?");
+MsgDisp("Michiru","Mari is interested in a boy the year
+below us?");
+MsgDisp("主人公","Eh∋ What's this, all of a sudden...?");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
@@ -38,8 +37,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("D140D07061_22_020");
-MsgDisp("Hikaru","Hikaru can tell you about his feelings at any
-time▼");
+MsgDisp("Hikaru","Hikaru can tell you about his feelings at
+any time▼");
 MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝.
 Thank you but...
 You're thinking about this too much!)");

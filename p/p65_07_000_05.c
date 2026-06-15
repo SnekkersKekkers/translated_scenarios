@@ -19,8 +19,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P650700005_07_020");
 MsgDisp("Mikage","Well, don't make that face.
-Both the vegetables and herbs were grown
-well.");
+Both the vegetables and herbs were
+grown well.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

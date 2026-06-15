@@ -44,8 +44,7 @@ This lighting is there to protect them.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040403300_04_030");
-    MsgDisp("Nanatsumori","Ha?
-Did you mistake this for a haunted house?");
+    MsgDisp("Nanatsumori","Ha? Did you mistake this for a haunted house?");
     MsgDateResultDisp();
     break ;
     default :

@@ -26,10 +26,8 @@ Welcome!");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("I150400000_04_020");
-    MsgDisp("Nanatsumori","Sure.
-But did you need to call my name, too?");
-    MsgDisp("主人公","Ah...
-I see, sorry.");
+    MsgDisp("Nanatsumori","Sure. But did you need to call my name, too?");
+    MsgDisp("主人公","Ah... I see, sorry.");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);
@@ -42,8 +40,8 @@ See you.");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(I get it.
-｛Nanatsumori＊｝ is a popular model, after
-all.)");
+｛Nanatsumori＊｝ is a popular model,
+after all.)");
     break ;
     case 3:
     MsgClose();
@@ -55,14 +53,12 @@ all.)");
     ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I150400000_04_040");
     MsgDisp("Nanatsumori","Yo.");
-    MsgDisp("主人公","Ah.
-Welcome!");
+    MsgDisp("主人公","Ah. Welcome!");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I150400000_04_050");
-    MsgDisp("Nanatsumori","Yeah.
-You're doing good.
+    MsgDisp("Nanatsumori","Yeah. You're doing good.
 How's it going?");
     MsgDisp("主人公","There were a lot of customers today, so it
 might be busy.");
@@ -77,8 +73,8 @@ teacher, you know?");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("I150400000_04_070");
-    MsgDisp("Nanatsumori","I have more work experience than you, you
-know.
+    MsgDisp("Nanatsumori","I have more work experience than you,
+you know.
 Well, do your best until you're off.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -108,8 +104,7 @@ go to work?");
     VoicePlay("I150400000_04_090");
     MsgDisp("Nanatsumori","Yeah.
 I just came to check on you on my way there.");
-    MsgDisp("主人公","Hehe.
-Thanks.");
+    MsgDisp("主人公","Hehe. Thanks.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);

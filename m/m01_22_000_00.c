@@ -13,16 +13,13 @@ ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,4,1);
 VoicePlay("M012200000_22_010");
-MsgDisp("Hikaru","So...
-Are you doing okay?");
-MsgDisp("主人公","Mm.
-I'm mostly better now.");
+MsgDisp("Hikaru","So... Are you doing okay?");
+MsgDisp("主人公","Mm. I'm mostly better now.");
 ChMotion(22,0,1);
 VoicePlay("M012200000_22_020");
 MsgDisp("Hikaru","...Really?
 You're not just saying that for Hikaru?");
-MsgDisp("主人公","Hehe!
-I wouldn't lie to you.");
+MsgDisp("主人公","Hehe! I wouldn't lie to you.");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -68,8 +65,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("M012200000_22_090");
-MsgDisp("Hikaru","...Eheh.
-Then, Hikaru's going to go, kay?
+MsgDisp("Hikaru","...Eheh. Then, Hikaru's going to go, kay?
 Mari, take care.");
 MsgClose();
 SEPlay("EV_SE_690",0.1,0.2);

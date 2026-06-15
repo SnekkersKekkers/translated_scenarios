@@ -56,8 +56,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B040306402_03_080");
-MsgDisp("Honda","Hey, let's get grilled squid from over there
-next!
+MsgDisp("Honda","Hey, let's get grilled squid from over
+there next!
 Let's go!");
 MsgClose();
 SEPlay("EV_SE_672");

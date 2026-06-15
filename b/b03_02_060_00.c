@@ -17,8 +17,7 @@ MsgDispSksp(1,0);
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
-MsgDisp("主人公","Okay.
-Then see you soon!");
+MsgDisp("主人公","Okay. Then see you soon!");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0);

@@ -10,8 +10,8 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("G020410401_04_010");
-MsgDisp("Nanatsumori","See, my family is surprisingly dry about that
-stuff.");
+MsgDisp("Nanatsumori","See, my family is surprisingly dry about
+that stuff.");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);

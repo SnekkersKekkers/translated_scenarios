@@ -31,8 +31,7 @@ StlOpen("ev_04_01");
 StlEye(4,0);
 StlMouth(4,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah!!
-It's my poster!
+MsgDisp("主人公","Ah!! It's my poster!
 I dropped it in the hall...");
 StlEye(4,0);
 StlMouth(4,0);
@@ -49,8 +48,7 @@ StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("A020410000_04_040");
 MsgDisp("Nanatsumori?","......");
-MsgDisp("主人公","Huh?
-You're also reading Habataki Watcher?");
+MsgDisp("主人公","Huh? You're also reading Habataki Watcher?");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("A020410000_04_050");
@@ -88,16 +86,14 @@ ChMotion(4,0,1);
 VoicePlay("A020410000_04_080");
 MsgDisp("Nanatsumori?","...So what if it is?");
 MsgDisp("主人公","I thought maybe you were a fan!
-NANA-kun has a lot of male fans too, you
-know.");
+NANA-kun has a lot of male fans too,
+you know.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("A020410000_04_090");
-MsgDisp("Nanatsumori?","Ah...
-Yeah yeah, I'm a fan.");
-MsgDisp("主人公","I see!
-NANA-kun is so cool, right!");
+MsgDisp("Nanatsumori?","Ah... Yeah yeah, I'm a fan.");
+MsgDisp("主人公","I see! NANA-kun is so cool, right!");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -127,16 +123,14 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,4,1);
 VoicePlay("A020410000_04_140");
-MsgDisp("Nanatsumori","Shh∈
-So loud!");
+MsgDisp("Nanatsumori","Shh∈ So loud!");
 MsgDisp("主人公","∋
 Sorry.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("A020410000_04_150");
-MsgDisp("Nanatsumori","Sorr-...
-My bad.
+MsgDisp("Nanatsumori","Sorr-... My bad.
 I've been yelling too.");
 ChEye(4,2);
 ChMouth(4,0);
@@ -153,24 +147,20 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("A020410000_04_180");
-MsgDisp("Nanatsumori","So right now, I'm \"Nanatsumori Minoru\". 
-Just a normal Habataki High student.
-OK?");
+MsgDisp("Nanatsumori","So right now, I'm \"Nanatsumori Minoru\".
+Just a normal Habataki High student. OK?");
 MsgDisp("主人公","Yeah, ok!");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("A020410000_04_190");
-MsgDisp("Nanatsumori","Nice.
-I'm counting on you.");
-MsgDisp("主人公","Hehe.
-See you later, N—");
+MsgDisp("Nanatsumori","Nice. I'm counting on you.");
+MsgDisp("主人公","Hehe. See you later, N—");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("A020410000_04_200");
-MsgDisp("Nanatsumori","Wait...
-You haven't told me your name∋");
+MsgDisp("Nanatsumori","Wait... You haven't told me your name∋");
 MsgDisp("主人公","Oh that's right!
 I'm ｛主人公姓名｝.
 See you later, NAN—");
@@ -178,8 +168,7 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,4,1);
 VoicePlay("A020410000_04_210");
-MsgDisp("Nanatsumori","Shhh!!
-Not here∋");
+MsgDisp("Nanatsumori","Shhh!! Not here∋");
 MsgDisp("主人公","Sorry!!
 I just...
 See you later then, ｛Nanatsumori＊｝.");

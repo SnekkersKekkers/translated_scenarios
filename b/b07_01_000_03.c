@@ -29,8 +29,7 @@ ChMotion(1,3);
 VoicePlay("B070100000_01_140");
 MsgDisp("Kazama","Ah, there is one thing.
 I like sumo, it's interesting.");
-MsgDisp("主人公","Eh...
-｛Kazama＊＊｝ does sumo?");
+MsgDisp("主人公","Eh... ｛Kazama＊＊｝ does sumo?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -38,8 +37,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_150");
 MsgDisp("Kazama","...I'm the spectator.
 I'm watching it.");
-MsgDisp("主人公","Ah!
-Is that right?");
+MsgDisp("主人公","Ah! Is that right?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);

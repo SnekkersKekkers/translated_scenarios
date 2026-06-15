@@ -10,8 +10,7 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,4,4,3,#1,#1,0,0);
 VoicePlay("P540300004_03_000");
 MsgDisp("Honda","Ah—,I've been defeated—...");
-MsgDisp("主人公","Eh?
-｛Honda＊＊｝, what's wrong?");
+MsgDisp("主人公","Eh? ｛Honda＊＊｝, what's wrong?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -24,14 +23,14 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P540300004_03_020");
 MsgDisp("Honda","Because your solo part was unfair.
-The tears just came out of my eyes at that
-point.");
+The tears just came out of my eyes at
+that point.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P540300004_03_030");
-MsgDisp("Honda","I know you've been practising with the utmost
-effort.");
+MsgDisp("Honda","I know you've been practising with the
+utmost effort.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,2);
 ChMouth(3,4);

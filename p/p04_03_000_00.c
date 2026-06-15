@@ -16,8 +16,7 @@ MsgDisp("Honda","I'm sad that I finished it all.");
 MsgDisp("主人公","Hehe, will you get seconds?");
 ChSet(3,3,1);
 VoicePlay("P040300000_03_020");
-MsgDisp("Honda","Can I?
-Then, another three sets, please.");
+MsgDisp("Honda","Can I? Then, another three sets, please.");
 MsgDisp("主人公","Three sets∋
 Can you eat that much?");
 ChEye(3,0);

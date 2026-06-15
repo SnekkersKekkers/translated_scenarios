@@ -4,15 +4,14 @@ ChMouth(1,2);
 ChMotion(1,3,1);
 VoicePlay("B020102136_01_000");
 MsgDisp("Kazama","Amazing.
-Your clothes, colours, and accessories are all
-perfect.");
+Your clothes, colours, and accessories are
+all perfect.");
 MsgDisp("主人公","If you're going to do it, do it right!");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102136_01_010");
-MsgDisp("Kazama","Yeah.
-I guarantee it.
+MsgDisp("Kazama","Yeah. I guarantee it.
 It suits you better than anyone else.");
 MsgDisp("主人公","(Awesome!
 I'm glad that I studied the trends!)");

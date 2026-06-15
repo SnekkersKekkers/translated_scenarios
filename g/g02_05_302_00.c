@@ -32,8 +32,8 @@ cafeteria.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020530200_05_050");
-MsgDisp("Hiiragi","It's my favourite time when we discuss various
-things related to what we've chosen.");
+MsgDisp("Hiiragi","It's my favourite time when we discuss
+various things related to what we've chosen.");
 MsgDisp("主人公","I also like the school cafeteria.");
 ChEye(5,3);
 ChMouth(5,4);
@@ -43,8 +43,8 @@ MsgDisp("Hiiragi","That's good to hear. Well, I'm looking
 forward to the next time we can go together.
 Let's eat the same thing at that time.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ seems to be enjoying his
-student life at Haba High for the first
-time.)");
+student life at Haba High for the
+first time.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

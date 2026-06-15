@@ -69,13 +69,12 @@ Eating for 60 minutes straight...
 ｛Nanatsumori＊｝, will you be okay∋)");
 VoicePlay("B050400100_04_050");
 MsgDisp("Nanatsumori","Thanks for the meal.
-Then, let's start with the \"Heaven Berry\"
-first.");
+Then, let's start with the \"Heaven
+Berry\" first.");
 StlEye(4,1);
 StlMouth(4,0);
 VoicePlay("B050400100_04_060");
-MsgDisp("Nanatsumori","...Damn!
-What's this berry sauce?
+MsgDisp("Nanatsumori","...Damn! What's this berry sauce?
 The mix balance is too perfect.");
 StlEye(4,1);
 StlMouth(4,0);
@@ -86,8 +85,7 @@ MsgDisp("Nanatsumori","I'll try a bit of this one.
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("B050400100_04_080");
-MsgDisp("Nanatsumori","Yum!
-The cocoa powder is really rich!
+MsgDisp("Nanatsumori","Yum! The cocoa powder is really rich!
 The hidden milk pie is too awesome...");
 MsgDisp("主人公","(Hehe.
 ｛Nanatsumori＊｝'s food commentary is funny.)");
@@ -108,8 +106,7 @@ we are terribly sorry to say...");
 StlEye(4,0);
 StlMouth(4,0);
 VoicePlay("B050400100_04_090");
-MsgDisp("Nanatsumori","Yeah?
-What is it?");
+MsgDisp("Nanatsumori","Yeah? What is it?");
 VoicePlay("B050400100_46_020");
 MsgDisp("Clerk","It's the Shaved Ice sauce, we only have
 matcha left...");

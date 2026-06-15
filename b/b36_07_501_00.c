@@ -35,8 +35,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360750100_07_030");
-MsgDisp("Mikage","...Hm?
-Why is your face red?");
+MsgDisp("Mikage","...Hm? Why is your face red?");
 MsgDisp("主人公","Umm, ｛Mikage＊＊｝ is on a date...");
 ChEye(7,0);
 ChMouth(7,3);

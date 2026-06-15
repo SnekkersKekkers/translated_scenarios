@@ -75,8 +75,8 @@ stayed next to you.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("R040600001_06_090");
-    MsgDisp("Himuro","I don't want to look like I'm out of your
-league.");
+    MsgDisp("Himuro","I don't want to look like I'm out of
+your league.");
     MsgDisp("主人公","(｛Himuro＊＊｝...)");
     break ;
     default :

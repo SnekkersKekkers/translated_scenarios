@@ -1,7 +1,6 @@
 ScrFadeIn(0);
 BGMStop();
-MsgDisp("主人公","Phew...
-Do you think it's tidy enough?");
+MsgDisp("主人公","Phew... Do you think it's tidy enough?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -21,8 +20,7 @@ MsgDisp("主人公","Ah, I just tidied it up!");
 VoicePlay("P840D00001_48_010");
 MsgDisp("School Girl","Ehh, I needed it right away though∋
 Where is it?");
-MsgDisp("主人公","Ummm...
-Where is it I wonder....");
+MsgDisp("主人公","Ummm... Where is it I wonder....");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,1,1);

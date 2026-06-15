@@ -22,14 +22,13 @@ ChMotion(2,0);
 VoicePlay("G020210303_02_030");
 MsgDisp("Sassa","I can chase them away if I'm around, but I
 hate thinking about when I'm not there.");
-MsgDisp("主人公","Hey.
-I'm not a kid.");
+MsgDisp("主人公","Hey. I'm not a kid.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G020210303_02_040");
-MsgDisp("Sassa","It doesn't matter if you're a kid or an
-adult.
+MsgDisp("Sassa","It doesn't matter if you're a kid or
+an adult.
 I worry because it's you.");
 ChEye(2,4);
 ChMouth(2,2);
@@ -37,8 +36,7 @@ ChMotion(2,2);
 VoicePlay("G020210303_02_050");
 MsgDisp("Sassa","After all, you're pretty and cute, so of
 course, you'll attract attention～");
-MsgDisp("主人公","Eh?
-That's not true...");
+MsgDisp("主人公","Eh? That's not true...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

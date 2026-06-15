@@ -27,8 +27,8 @@ ChMotion(6,0);
 VoicePlay("F020600007_06_020");
 MsgDisp("Himuro","I'll probably use that free time to surf.");
 MsgDisp("主人公","I see.
-It's a good season for catching the waves,
-right?");
+It's a good season for catching the
+waves, right?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);

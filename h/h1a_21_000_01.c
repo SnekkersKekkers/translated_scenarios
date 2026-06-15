@@ -33,8 +33,7 @@ stayed as the baseball club manager...)");
     ChMouth(21,0);
     ChMotion(21,3);
     VoicePlay("H1A2100001_21_030");
-    MsgDisp("Michiru","I see.
-But it was a wonderful match.");
+    MsgDisp("Michiru","I see. But it was a wonderful match.");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,4);

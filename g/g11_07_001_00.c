@@ -3,8 +3,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Um, well the afternoon classes...");
 VoicePlay("G110700100_07_000");
 MsgDisp("Mikage?","Hey, over here～");
-MsgDisp("主人公","Hm?
-This voice...");
+MsgDisp("主人公","Hm? This voice...");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);
@@ -18,8 +17,7 @@ ChMotion(7,1);
 VoicePlay("G110700100_07_010");
 MsgDisp("Mikage","Oh, you came.
 How about some muddy vegetables?");
-MsgDisp("主人公","Eh.
-But, lunchtime is almost over...");
+MsgDisp("主人公","Eh. But, lunchtime is almost over...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

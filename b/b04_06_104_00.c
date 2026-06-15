@@ -6,8 +6,8 @@ ChMouth(6,0);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040610400_06_000");
-MsgDisp("Himuro","This exhibition sure is an acquired taste
-huh?");
+MsgDisp("Himuro","This exhibition sure is an acquired
+taste huh?");
 MsgSel("I like it","It's kind of gross","Do you dislike bugs?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ I see, I'll keep that in mind.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040610400_06_020");
-    MsgDisp("Himuro","You came just to look at something you find
-gross?
+    MsgDisp("Himuro","You came just to look at something you
+find gross?
 That's rude.");
     MsgDateResultDisp();
     break ;

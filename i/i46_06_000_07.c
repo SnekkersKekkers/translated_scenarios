@@ -15,8 +15,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("I460600007_06_000");
     MsgDisp("Himuro","Did you change the temperature?");
-    MsgDisp("主人公","Yeah.
-We have orchids now, right?");
+    MsgDisp("主人公","Yeah. We have orchids now, right?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,3);
@@ -24,8 +23,8 @@ We have orchids now, right?");
     MsgDisp("Himuro","Ah, that explains the high temperature.
 The high humidity too, I'm guessing?");
     MsgDisp("主人公","There's nothing set aside to be dried, so I
-was thinking of caring for our more sensitive
-plants.");
+was thinking of caring for our more
+sensitive plants.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

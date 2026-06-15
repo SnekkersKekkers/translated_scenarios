@@ -40,8 +40,8 @@ VoicePlay("B070400001_04_150");
 MsgDisp("Nanatsumori","Well, something like that. Even though we're
 polar opposites, it seems like we get along
 and can learn from each other.");
-MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ seems to be having
-fun!)");
+MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ seems to be
+having fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

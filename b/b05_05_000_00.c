@@ -14,8 +14,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500000_05_000");
-MsgDisp("Hiiragi","Yeah.
-And it's so calming...");
+MsgDisp("Hiiragi","Yeah. And it's so calming...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -46,14 +45,13 @@ ChMouth(5,2);
 ChMotion(5,0,1);
 VoicePlay("B050500000_05_040");
 MsgDisp("Hiiragi","Why so suddenly, I wonder?");
-MsgDisp("主人公","I wonder if they think we're going to feed
-them?");
+MsgDisp("主人公","I wonder if they think we're going to
+feed them?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B050500000_05_050");
-MsgDisp("Hiiragi","I see...
-Wait here a minute.
+MsgDisp("Hiiragi","I see... Wait here a minute.
 I'll go buy some from the shop.");
 MsgClose();
 SEStop("EV_SE_729",1);

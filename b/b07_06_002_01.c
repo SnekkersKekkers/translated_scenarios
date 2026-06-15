@@ -1,5 +1,5 @@
-MsgDisp("主人公","Recently you've been talking to ｛Hiiragi＊＊＊｝,
-huh?");
+MsgDisp("主人公","Recently you've been talking to
+｛Hiiragi＊＊＊｝, huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

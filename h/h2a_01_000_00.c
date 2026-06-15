@@ -13,8 +13,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("H2A0100000_01_000");
     MsgDisp("Kazama","First place overall, huh.
 Our track and field club is amazing.");
-    MsgDisp("主人公","Yeah!
-Looks like everyone did their best!");
+    MsgDisp("主人公","Yeah! Looks like everyone did their best!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

@@ -20,8 +20,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("U100D00000_21_010");
-MsgDisp("Michiru","Yes.
-A girl's only sleepover.");
+MsgDisp("Michiru","Yes. A girl's only sleepover.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -35,15 +34,13 @@ switch (MsgSelRsltGet()){
     ChMotion(22,5,1);
     ChEyeOpenLevel(22,0);
     VoicePlay("U100D00000_22_020");
-    MsgDisp("Hikaru","Yay!
-This will be so fun.
+    MsgDisp("Hikaru","Yay! This will be so fun.
 Hikaru wants to go home already♪");
     ChEye(21,4);
     ChMouth(21,3);
     ChMotion(21,0);
     VoicePlay("U100D00000_21_020");
-    MsgDisp("Michiru","Hehe.
-Me too.
+    MsgDisp("Michiru","Hehe. Me too.
 Well then, see you after school.");
     MsgDisp("主人公","Yeah!");
     ChEye(22,3);
@@ -62,14 +59,13 @@ This will be fun!)");
     ChMouth(22,1);
     ChMotion(22,5,1);
     VoicePlay("U100D00000_22_040");
-    MsgDisp("Hikaru","Ehhh～∋
-No way...");
+    MsgDisp("Hikaru","Ehhh～∋ No way...");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,0);
     VoicePlay("U100D00000_21_030");
-    MsgDisp("Michiru","It's no problem if you have something else to
-do.");
+    MsgDisp("Michiru","It's no problem if you have something else
+to do.");
     MsgDisp("主人公","Yeah, sorry.");
     VoicePlay("U100D00000_21_040");
     MsgDisp("Michiru","Don't worry.

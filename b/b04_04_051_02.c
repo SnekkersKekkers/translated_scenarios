@@ -28,8 +28,7 @@ constellations to cover up his tracks.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("B040405102_04_020");
-    MsgDisp("Nanatsumori","Hmm...
-Are you the type to find it romantic?");
+    MsgDisp("Nanatsumori","Hmm... Are you the type to find it romantic?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -55,8 +54,8 @@ Are you the type to find it romantic?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040405102_04_040");
-        MsgDisp("Nanatsumori","I don't sleep every time I come here, after
-all.");
+        MsgDisp("Nanatsumori","I don't sleep every time I come here,
+after all.");
         MsgDisp("主人公","Ah, sorry...");
         ChEye(4,4);
         ChMouth(4,4);
@@ -92,10 +91,9 @@ coincides with our own.");
         MsgDisp("主人公","Yeah...");
         ChEye(4,0);
         VoicePlay("B040405102_04_100");
-        MsgDisp("Nanatsumori","In that dream-like state, I look over next to
-me...");
-        MsgDisp("主人公","Yeah...
-Hm?");
+        MsgDisp("Nanatsumori","In that dream-like state, I look over next
+to me...");
+        MsgDisp("主人公","Yeah... Hm?");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);

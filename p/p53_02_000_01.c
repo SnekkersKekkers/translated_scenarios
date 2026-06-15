@@ -28,8 +28,7 @@ You came?");
     ChMouth(2,3);
     ChMotion(2,0);
     VoicePlay("P530200001_02_020");
-    MsgDisp("Sassa","Huh?
-You have to enjoy playing it, no?");
+    MsgDisp("Sassa","Huh? You have to enjoy playing it, no?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -43,8 +42,7 @@ doesn't seem like a fun game, does it?");
     VoicePlay("P530200001_02_040");
     MsgDisp("Sassa","What was it called again?
 A boring game...a shit game...");
-    MsgDisp("主人公","Eh?
-Hey, you can't say that kind of stuff!");
+    MsgDisp("主人公","Eh? Hey, you can't say that kind of stuff!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -56,8 +54,8 @@ Hey, you can't say that kind of stuff!");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("P530200001_02_060");
-    MsgDisp("Sassa","Then, please play as if you're playing a fun
-game!");
+    MsgDisp("Sassa","Then, please play as if you're playing a
+fun game!");
     MsgDisp("主人公","Hehe, I got it!");
     MsgDisp("主人公","(Yeah, it's just as ｛Sassa＊＊｝ says.
 Games have to be fun!)");
@@ -73,8 +71,8 @@ There's a huge audience...)");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P530200001_02_070");
-    MsgDisp("Sassa","｛主人公｝, I came to listen to some gaming
-music.");
+    MsgDisp("Sassa","｛主人公｝, I came to listen to some
+gaming music.");
     MsgDisp("主人公","｛Sassa＊＊｝.
 Thank you.");
     ChEye(2,0);
@@ -83,8 +81,7 @@ Thank you.");
     VoicePlay("P530200001_02_080");
     MsgDisp("Sassa","Guess it's a popular game?
 Even I know it.");
-    MsgDisp("主人公","Yeah.
-That's why the audience is filled up.
+    MsgDisp("主人公","Yeah. That's why the audience is filled up.
 I can't be nervous...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -97,9 +94,9 @@ It's definitely better that people are here.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P530200001_02_100");
-    MsgDisp("Sassa","In order for these people to listen and enjoy
-your music, you've been giving it your all,
-right?");
+    MsgDisp("Sassa","In order for these people to listen and
+enjoy your music, you've been giving it your
+all, right?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

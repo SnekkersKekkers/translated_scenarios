@@ -6,8 +6,8 @@ ChMouth(2,3);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040206102_02_000");
-MsgDisp("Sassa","Those watermelon beach balls always get me
-pumped.");
+MsgDisp("Sassa","Those watermelon beach balls always get
+me pumped.");
 MsgSel("It's perfect for the beach","Makes me want to eat watermelon","The orca floaty would be good");
 switch (MsgSelRsltGet()){
     case 0:
@@ -59,22 +59,20 @@ a killer whale?");
         ChMotion(2,4);
         VoicePlay("B040206102_02_040");
         MsgDisp("Sassa","Are you really going to ride that...");
-        MsgDisp("主人公","Eh?
-N-No?");
+        MsgDisp("主人公","Eh? N-No?");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040206102_02_050");
-        MsgDisp("Sassa","I'm not saying no.
-But you know, me floating in the ocean all by
-myself, straddling that thing...");
+        MsgDisp("Sassa","I'm not saying no. But you know, me floating
+in the ocean all by myself, straddling that
+thing...");
         MsgDisp("主人公","Hehe, that would be cute, though?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206102_02_060");
-        MsgDisp("Sassa","Cute?
-What's with that?");
+        MsgDisp("Sassa","Cute? What's with that?");
         MsgDisp("主人公","I think it would be fun if we rode one
 together.");
         ChEye(2,0);
@@ -84,8 +82,8 @@ together.");
         VoicePlay("B040206102_02_070");
         MsgDisp("Sassa","Me...with you?");
         MsgDisp("主人公","Yeah.
-It's hard to stay afloat with two people on
-top.");
+It's hard to stay afloat with two people
+on top.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,2);
@@ -93,8 +91,7 @@ top.");
         MsgDisp("Sassa","...Woah, the orca actually has hidden
 potential.
 I didn't think of that...");
-        MsgDisp("主人公","Uhm...?
-If ｛Sassa＊＊｝ doesn't want to...");
+        MsgDisp("主人公","Uhm...? If ｛Sassa＊＊｝ doesn't want to...");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,5);
@@ -106,8 +103,7 @@ Before they run out of rentals.");
         SEPlay("EV_SE_580");
         ChClose(2);
         SEWait();
-        MsgDisp("主人公","(Huh?
-What's up with ｛Sassa＊＊｝?)");
+        MsgDisp("主人公","(Huh? What's up with ｛Sassa＊＊｝?)");
         break ;
         default :
         DbgAssert(1);

@@ -5,8 +5,7 @@ VoicePlay("B020302117_03_000");
 MsgDisp("Honda","Ah, there's products like that, huh.
 It's like bringing the flavour out of raw
 ingredients.");
-MsgDisp("主人公","Um...
-You mean these clothes?");
+MsgDisp("主人公","Um... You mean these clothes?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -15,5 +14,5 @@ MsgDisp("Honda","Righty-o!
 Because you aren't too dressed up, your
 natural self can come through.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like this,
-too.)");
+｛Honda＊＊｝ seems to like clothes like
+this, too.)");

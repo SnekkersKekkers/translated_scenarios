@@ -45,8 +45,7 @@ newspaper club from another school, right?");
     VoicePlay("X110300003_03_040");
     MsgDisp("Honda","I know there will be a lot of pressure, good
 luck for the next match!");
-    MsgDisp("主人公","(Yay!
-Let's keep up the good work!)");
+    MsgDisp("主人公","(Yay! Let's keep up the good work!)");
     break ;
     default :
     DbgAssert(1);

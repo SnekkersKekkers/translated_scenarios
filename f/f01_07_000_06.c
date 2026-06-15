@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,2);
     VoicePlay("F010700006_07_000");
     MsgDisp("Mikage","I can't today.
-I've got a lot of work to do once I get
-home...");
+I've got a lot of work to do once I
+get home...");
     MsgDisp("主人公","Oh, I see...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -41,8 +41,7 @@ I'll go home alone...)");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("F010700006_07_020");
-    MsgDisp("Mikage","I can't.
-I already made plans today.");
+    MsgDisp("Mikage","I can't. I already made plans today.");
     MsgDisp("主人公","I see...");
     ChEye(7,2);
     ChMouth(7,3);

@@ -10,8 +10,7 @@ MsgDisp("主人公","Thanks for walking me home.");
 ChMotion(5,2);
 VoicePlay("B080500002_05_000");
 MsgDisp("Hiiragi","Not at all.
-Well, I'll be—
-...huh?");
+Well, I'll be— ...huh?");
 Wait(30,0);
 ChEye(5,0);
 ChMouth(5,0);

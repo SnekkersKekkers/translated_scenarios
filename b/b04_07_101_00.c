@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040710100_07_010");
-    MsgDisp("Mikage","It definitely looks like my old man back
-home.");
+    MsgDisp("Mikage","It definitely looks like my old man
+back home.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -28,8 +28,7 @@ StlMouth(5,0);
 Wait(145,0);
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah...
-I'm so sorry!");
+MsgDisp("主人公","Ah... I'm so sorry!");
 StlEye(5,1);
 VoicePlay("A020510000_05_000");
 MsgDisp("Hiiragi?","Excuse me.
@@ -51,8 +50,7 @@ MsgDisp("主人公","No no, it's me wh—");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("A020510000_05_030");
-MsgDisp("Hiiragi?","Hehe.
-You're kind, and strong-willed.");
+MsgDisp("Hiiragi?","Hehe. You're kind, and strong-willed.");
 MsgDisp("主人公","I am...?");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("A020510000_05_040");
@@ -87,8 +85,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Okay, here we are.
 This is the event hall, and—");
 VoicePlay("A020510000_43_000");
-MsgDisp("Troupe","Ahh!
-You're here, Chairman!");
+MsgDisp("Troupe","Ahh! You're here, Chairman!");
 MsgDisp("主人公","(Chairman...?)");
 VoicePlay("A020510000_05_080");
 MsgDisp("Hiiragi","Excuse me, I'll be right back.");
@@ -138,8 +135,7 @@ ChClose(5);
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 Being the troupe chairman while still in high
 school is incredible...)");
-MsgDisp("主人公","(Oh, there's the poster for his play!
-...Hmm?
+MsgDisp("主人公","(Oh, there's the poster for his play! ...Hmm?
 \"Starring actor: Hiiragi Yanosuke\"∋)");
 MsgClose();
 ScrFadeOut(0,0);

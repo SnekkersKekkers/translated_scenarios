@@ -18,8 +18,7 @@ Here's a present!");
     SEWait();
     ChMouth(5,4);
     VoicePlay("K010500100_05_010");
-    MsgDisp("Hiiragi","Hm...?
-Ah, sorry for the trouble.");
+    MsgDisp("Hiiragi","Hm...? Ah, sorry for the trouble.");
     MsgDisp("主人公","Hey, try opening it?");
     break ;
     case 3:

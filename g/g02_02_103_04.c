@@ -21,8 +21,8 @@ VoicePlay("G020210304_02_020");
 MsgDisp("Sassa","They were nice about it and all, but I wanted
 to choose it myself.");
 MsgDisp("主人公","Hehe.
-It was ｛Sassa＊＊｝ who picked it for me,
-right?");
+It was ｛Sassa＊＊｝ who picked it for
+me, right?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

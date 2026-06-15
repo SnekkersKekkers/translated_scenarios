@@ -1,12 +1,10 @@
-MsgDisp("主人公","(Huh?
-What's up with me?
+MsgDisp("主人公","(Huh? What's up with me?
 My heart is racing super fast...)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_470");
-MsgDisp("Himuro","What?
-Your face is red.");
+MsgDisp("Himuro","What? Your face is red.");
 MsgDisp("主人公","...My heart is racing a bit.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -25,8 +23,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_500");
-MsgDisp("Himuro","So?
-What'll make it go away?");
+MsgDisp("Himuro","So? What'll make it go away?");
 MsgDisp("主人公","Ummm, if we stay like this for a while, I
 think I'll calm down.");
 ChEye(6,0);

@@ -23,8 +23,8 @@ You get it.
 OK, I'll give you a discount, only 10 RICH!");
 StlEye(1,1);
 VoicePlay("D010100200_01_010");
-MsgDisp("Kazama","Even though it was in the box of 1 rich
-items?");
+MsgDisp("Kazama","Even though it was in the box of 1
+rich items?");
 VoicePlay("D010100200_34_020");
 MsgDisp("Clerk","Uhm, that was a mistake.
 So it's actually 10 RICH!");
@@ -33,14 +33,12 @@ VoicePlay("D010100200_01_020");
 MsgDisp("Kazama","I understand that.
 So please sell it to me at a fair price.");
 VoicePlay("D010100200_34_030");
-MsgDisp("Clerk","Eh?
-Bro, are you not going to buy it?");
+MsgDisp("Clerk","Eh? Bro, are you not going to buy it?");
 StlEye(1,0);
 VoicePlay("D010100200_01_030");
 MsgDisp("Kazama","Maybe if it was 5 Rich.");
 VoicePlay("D010100200_34_040");
-MsgDisp("Clerk","OK!
-Thanks for the sale～!");
+MsgDisp("Clerk","OK! Thanks for the sale～!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
@@ -89,8 +87,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010100200_01_080");
-MsgDisp("Kazama","At Grandpa's place, we'll sell it for a fair
-price.");
+MsgDisp("Kazama","At Grandpa's place, we'll sell it for a
+fair price.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

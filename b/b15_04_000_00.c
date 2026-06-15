@@ -44,8 +44,7 @@ MsgDisp("主人公","Yeah.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("B150400000_04_060");
-MsgDisp("Nanatsumori","Yeah.
-If you understand, alright.
+MsgDisp("Nanatsumori","Yeah. If you understand, alright.
 See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

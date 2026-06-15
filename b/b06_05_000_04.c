@@ -10,8 +10,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0,1);
     ScrFadeIn(0);
     VoicePlay("B060500004_05_000");
-    MsgDisp("Hiiragi","On a day like this, we should just go home
-early.
+    MsgDisp("Hiiragi","On a day like this, we should just go
+home early.
 Thank you for coming.");
     MsgDispSksp(0);
     break ;

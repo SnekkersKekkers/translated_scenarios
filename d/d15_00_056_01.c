@@ -12,14 +12,13 @@ ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D150005601_06_000");
 MsgDisp("Himuro","I get what you mean.
-Even when I'm quiet, there's some background
-music.");
+Even when I'm quiet, there's some
+background music.");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,5);
 VoicePlay("D150005601_05_010");
-MsgDisp("Hiiragi","Ahh.
-As expected of Inori-kun.
+MsgDisp("Hiiragi","Ahh. As expected of Inori-kun.
 That's exactly it.");
 MsgDisp("主人公","Background music?");
 ChEye(6,0);
@@ -46,8 +45,7 @@ ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("D150005601_06_020");
 MsgDisp("Himuro","Sometimes more like an early spring breeze.");
-MsgDisp("主人公","Ehh?
-What do you mean?");
+MsgDisp("主人公","Ehh? What do you mean?");
 ChEye(5,2);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -59,8 +57,7 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D150005601_06_030");
-MsgDisp("Himuro","Yeah.
-That's exactly what I mean.");
+MsgDisp("Himuro","Yeah. That's exactly what I mean.");
 MsgDisp("主人公","(He smoothed it over, somehow.)");
 BGMStop();
 MsgClose();

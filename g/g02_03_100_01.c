@@ -9,9 +9,9 @@ ChEye(3,4);
 ChMouth(3,2);
 ChMotion(3,2);
 VoicePlay("G020310001_03_010");
-MsgDisp("Honda","Sometimes when I'm with my family, I end up
-talking too much and it gets annoying for
-them.");
+MsgDisp("Honda","Sometimes when I'm with my family, I end
+up talking too much and it gets annoying
+for them.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -57,15 +57,13 @@ VoicePlay("G020310001_03_080");
 MsgDisp("Honda","Wanna try it?
 Look at me with a straight face and stay
 silent for five seconds.");
-MsgDisp("主人公","O-Okay.
-......");
+MsgDisp("主人公","O-Okay. ......");
 ChEye(3,5);
 ChMouth(3,3);
 ChMotion(3,4);
 ChCheek(3,5);
 VoicePlay("G020310001_03_090");
-MsgDisp("Honda","H...
-Huh?");
+MsgDisp("Honda","H... Huh?");
 MsgDisp("主人公","Eh, did something happen?");
 ChEye(3,4);
 ChMouth(3,0);

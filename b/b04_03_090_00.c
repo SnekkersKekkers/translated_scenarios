@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChSet(3,5);
     VoicePlay("B040309000_03_010");
     MsgDisp("Honda","Ah, be careful!
-It's quite difficult to get rid of lily
-pollen.");
+It's quite difficult to get rid of
+lily pollen.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

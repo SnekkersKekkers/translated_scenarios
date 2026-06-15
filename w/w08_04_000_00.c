@@ -28,8 +28,7 @@ Michiru-san, huh...");
     ChEye(4,2);
     ChMouth(4,2);
     VoicePlay("W080400000_04_020");
-    MsgDisp("Nanatsumori","...With Michiru-san?
-I see.");
+    MsgDisp("Nanatsumori","...With Michiru-san? I see.");
     break ;
     default :
     DbgAssert(1);

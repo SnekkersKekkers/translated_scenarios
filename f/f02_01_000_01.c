@@ -8,8 +8,8 @@ ScrFadeIn(0);
 VoicePlay("F020100001_01_000");
 MsgDisp("Kazama","Hey, did you hear the legend about the church
 on school grounds?");
-MsgDisp("主人公","The story about the prince and the princess,
-right?");
+MsgDisp("主人公","The story about the prince and the
+princess, right?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040610500_06_000");
 MsgDisp("Himuro","There are a lot of avant garde works.
-I guess art goes in and out of fashion as
-well.");
+I guess art goes in and out of fashion
+as well.");
 MsgSel("It's amazing that such things can be made.","I don't get it at all.","Is there a point to that aerodynamic shape?");
 switch (MsgSelRsltGet()){
     case 0:

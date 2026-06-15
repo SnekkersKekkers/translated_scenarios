@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(1,255,1,0,0,#1,#1,0,0);
 VoicePlay("G020130100_01_000");
-MsgDisp("Kazama","There's a crazy number of fireflies flying
-here.");
+MsgDisp("Kazama","There's a crazy number of fireflies
+flying here.");
 MsgDisp("主人公","Yeah.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -54,8 +54,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020130100_01_080");
-MsgDisp("Kazama","That's the one thing I won't let anyone else
-have.");
+MsgDisp("Kazama","That's the one thing I won't let anyone
+else have.");
 MsgDisp("主人公","(｛Kazama＊＊｝'s expression is really
 serious...)");
 BGMStop();

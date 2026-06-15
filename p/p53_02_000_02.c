@@ -29,8 +29,8 @@ I often heard you practising.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","Yeah, I also like it.
-Maybe that's why I gave it my best practising
-it.");
+Maybe that's why I gave it my best
+practising it.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -45,8 +45,7 @@ while listening to your performance.");
     ChMotion(2,1);
     VoicePlay("P530200002_02_030");
     MsgDisp("Sassa","Then, have fun.");
-    MsgDisp("主人公","Yes!
-I'm off.");
+    MsgDisp("主人公","Yes! I'm off.");
     MsgDisp("主人公","(I'll also play carefully, remembering all
 the practice I've done over the past year!)");
     break ;
@@ -71,8 +70,8 @@ play... It's somewhat lonely.");
     VoicePlay("P530200002_02_050");
     MsgDisp("Sassa","You've practised this song often after
 school, right?");
-    MsgDisp("主人公","Eh...maybe you heard it all the way from the
-ground?");
+    MsgDisp("主人公","Eh...maybe you heard it all the way from
+the ground?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
@@ -87,8 +86,8 @@ That makes me happy.");
     ChMotion(2,3);
     VoicePlay("P530200002_02_070");
     MsgDisp("Sassa","Yeah, you always give me strength.
-And I'm sure it's not just me, everyone else
-too.");
+And I'm sure it's not just me, everyone
+else too.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(2,0);

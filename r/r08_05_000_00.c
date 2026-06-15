@@ -36,8 +36,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,8);
 VoicePlay("R080500000_05_040");
-MsgDisp("Hiiragi","I only thought about how guests would see
-it...");
+MsgDisp("Hiiragi","I only thought about how guests would
+see it...");
 MsgDisp("主人公","Because you're an actor, ｛Hiiragi＊＊＊｝.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -76,12 +76,11 @@ StlOpen("ev_05_16");
 StlEye(5,0);
 StlMouth(5,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh...
-｛Hiiragi＊＊＊｝?");
+MsgDisp("主人公","Huh... ｛Hiiragi＊＊＊｝?");
 StlEyeOpenLevel(5,5,1);
 VoicePlay("R080500000_05_080");
-MsgDisp("Hiiragi","It's a tree ornament that I couldn't decorate
-yet.");
+MsgDisp("Hiiragi","It's a tree ornament that I couldn't
+decorate yet.");
 StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("R080500000_05_090");
@@ -91,11 +90,9 @@ StlEye(5,1);
 VoicePlay("R080500000_05_100");
 MsgDisp("Hiiragi","See, pretty just as I thought.");
 VoicePlay("R080500000_39_000");
-MsgDisp("Student A","Hm?
-Is that Hiiragi up on stage?");
+MsgDisp("Student A","Hm? Is that Hiiragi up on stage?");
 VoicePlay("R080500000_41_010");
-MsgDisp("Student B","It is!
-Is this a surprise play∋");
+MsgDisp("Student B","It is! Is this a surprise play∋");
 StlEye(5,2);
 StlMouth(5,2);
 VoicePlay("R080500000_05_110");
@@ -112,8 +109,7 @@ VoicePlay("R080500000_05_120");
 MsgDisp("Hiiragi","Shall we act for a bit?");
 SEStop("EV_SE_741",2);
 SEStop("EV_SE_841",2);
-MsgDisp("主人公","Huh...
-Huuuh∋");
+MsgDisp("主人公","Huh... Huuuh∋");
 StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("R080500000_05_130");
@@ -122,8 +118,8 @@ since I was a child is my other half.");
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,2);
 VoicePlay("R080500000_05_140");
-MsgDisp("Hiiragi","I am the light that guards and guides you;
-my soul is yours for all eternity.");
+MsgDisp("Hiiragi","I am the light that guards and guides you; my
+soul is yours for all eternity.");
 SEPlay("EV_SE_741",0.5,0.7);
 SEPlay("EV_SE_842",0,0.3);
 VoicePlay("R080500000_39_030");

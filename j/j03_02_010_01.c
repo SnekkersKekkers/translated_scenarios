@@ -19,9 +19,7 @@ Are you able to go?");
     MsgDisp("Sassa","Sorry, I have plans on that day...");
     MsgDisp("主人公","I see, that's too bad.");
     VoicePlay("J030201001_02_020");
-    MsgDisp("Sassa","Yeah.
-Call me again.
-Bye.");
+    MsgDisp("Sassa","Yeah. Call me again. Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(At least he called to say he can't go...)");
@@ -33,18 +31,16 @@ Bye.");
     SEWait();
     MsgDisp("主人公","Hello, ｛Sassa＊＊｝?");
     VoicePlay("J030201001_02_030");
-    MsgDisp("Sassa","Hi.
-I got your message earlier.");
+    MsgDisp("Sassa","Hi. I got your message earlier.");
     MsgDisp("主人公","So, what do you say?");
     VoicePlay("J030201001_02_040");
     MsgDisp("Sassa","I can't go on that day.
 You went through the trouble of calling...
 Sorry.");
-    MsgDisp("主人公","Nah, thanks for taking the time to contact
-me.");
+    MsgDisp("主人公","Nah, thanks for taking the time to
+contact me.");
     VoicePlay("J030201001_02_050");
-    MsgDisp("Sassa","We'll definitely go next time, okay?
-Bye.");
+    MsgDisp("Sassa","We'll definitely go next time, okay? Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Did I ask him to go out at a bad time?

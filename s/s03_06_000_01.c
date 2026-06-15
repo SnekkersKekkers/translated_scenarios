@@ -3,15 +3,13 @@ switch (ChPrmGet(6,6)){
     case 1:
     case 2:
     VoicePlay("S030600001_06_000");
-    MsgDisp("Himuro","Okay.
-I don't have any plans.");
+    MsgDisp("Himuro","Okay. I don't have any plans.");
     MsgDisp("主人公","I'm glad.
 So, where should we meet up?");
     VoicePlay("S030600001_06_010");
     MsgDisp("Himuro","I'll pick you up.
 Get ready or something like that.");
-    MsgDisp("主人公","Okay.
-See you soon then.");
+    MsgDisp("主人公","Okay. See you soon then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay!
@@ -21,8 +19,7 @@ together! ...What should I wear?)");
     case 3:
     VoicePlay("S030600001_06_020");
     MsgDisp("Himuro","Sure.");
-    MsgDisp("主人公","Yay!
-Then let's meet up at—");
+    MsgDisp("主人公","Yay! Then let's meet up at—");
     VoicePlay("S030600001_06_030");
     MsgDisp("Himuro","I'll pick you up.
 You should get ready.");
@@ -37,8 +34,7 @@ Now, what to wear?)");
     case 5:
     VoicePlay("S030600001_06_040");
     MsgDisp("Himuro","Of course I'll go.");
-    MsgDisp("主人公","Really?
-Yay!");
+    MsgDisp("主人公","Really? Yay!");
     VoicePlay("S030600001_06_050");
     MsgDisp("Himuro","I'm going to pick you up, so take your time
 and get ready.");

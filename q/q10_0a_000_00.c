@@ -14,11 +14,10 @@ VoicePlay("Q100A00000_01_000");
 MsgDisp("Kazama","Meticulously crafted.
 The skill of the masonry craftsmen back then
 was amazing.");
-MsgDisp("主人公","Yeah, it doesn't look like such an old
-bridge.");
+MsgDisp("主人公","Yeah, it doesn't look like such an
+old bridge.");
 VoicePlay("Q100A00000_46_000");
-MsgDisp("School Girl","Yay!
-I found the heart stone.");
+MsgDisp("School Girl","Yay! I found the heart stone.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -132,8 +131,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4,1);
 VoicePlay("Q100A00000_02_090");
-MsgDisp("Sassa","Yeah.
-He's nice to his senpai.");
+MsgDisp("Sassa","Yeah. He's nice to his senpai.");
 ChEye(1,0);
 ChEye(2,0);
 ChMouth(2,4);

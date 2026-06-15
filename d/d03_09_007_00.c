@@ -10,8 +10,7 @@ VoicePlay("D030900700_45_000");
 MsgDisp("Woman A","I want one too!");
 VoicePlay("D030900700_09_000");
 MsgDisp("Kuya?","Sure, here you go.");
-MsgDisp("主人公","(Huh?
-That voice is...)");
+MsgDisp("主人公","(Huh? That voice is...)");
 BGMPlay("BGM_C09_KUYA_A",0.01);
 MsgClose();
 ChOpen(9,35,0,0,0,#1,#1,0,0);
@@ -66,8 +65,7 @@ MsgDisp("Kuya","I'm helping this guy hand out flyers.");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("D030900700_35_040");
-MsgDisp("Guy","Oh?
-Your girlfriend is nice too～!");
+MsgDisp("Guy","Oh? Your girlfriend is nice too～!");
 ChEye(9,3);
 ChMouth(9,4);
 ChEyeOpenLevel(9,10);
@@ -87,8 +85,7 @@ MsgDisp("主人公","You won't!");
 ChEye(35,2);
 ChMouth(35,1);
 VoicePlay("D030900700_35_050");
-MsgDisp("Guy","Ehh∋
-Don't do that～!");
+MsgDisp("Guy","Ehh∋ Don't do that～!");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -102,8 +99,7 @@ ChMouth(9,1);
 ChMotion(9,0,1);
 ChPosition(9,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew...
-Are you okay now?");
+MsgDisp("主人公","Phew... Are you okay now?");
 ChMotion(9,1,1);
 VoicePlay("D030900700_09_060");
 MsgDisp("Kuya","How terrible.
@@ -120,24 +116,21 @@ MsgDisp("主人公","...Like I thought.
 Here, take a look.");
 MsgDisp("主人公","\"Local Idols Wanted!
 Let's see the world together▼\"");
-MsgDisp("主人公","...See?
-Isn't that strange?");
+MsgDisp("主人公","...See? Isn't that strange?");
 VoicePlay("D030900700_09_090");
 ChEye(9,2);
 ChMouth(9,4);
 ChMotion(9,4,1);
 MsgDisp("Kuya","How so?");
-MsgDisp("主人公","Why would local idols be travelling around the
-world?");
+MsgDisp("主人公","Why would local idols be travelling around
+the world?");
 VoicePlay("D030900700_09_100");
 ChEye(9,3);
 ChMouth(9,1);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
-MsgDisp("Kuya","...Huh?
-That is kind of weird, yeah.");
-MsgDisp("主人公","Geez...
-That guy is famous around here.
+MsgDisp("Kuya","...Huh? That is kind of weird, yeah.");
+MsgDisp("主人公","Geez... That guy is famous around here.
 He's known to be a shady talent scout.");
 VoicePlay("D030900700_09_110");
 ChEye(9,2);
@@ -177,8 +170,7 @@ ChEye(9,3);
 ChMouth(9,3);
 ChMotion(9,3,1);
 ChEyeOpenLevel(9,0);
-MsgDisp("Kuya","Haha!
-Right!");
+MsgDisp("Kuya","Haha! Right!");
 MsgDisp("主人公","(Phew... What a relief.
 Kuya-san is too naive... Or I guess he's just
 too used to others relying on him.)");

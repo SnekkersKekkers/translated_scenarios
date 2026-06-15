@@ -3,8 +3,7 @@ ChMouth(8,4);
 ChMotion(8,0);
 VoicePlay("B020800003_08_000");
 MsgDisp("Shirahane","What's happenin' here...");
-MsgDisp("主人公","Huh?
-What's wrong?");
+MsgDisp("主人公","Huh? What's wrong?");
 ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,2);

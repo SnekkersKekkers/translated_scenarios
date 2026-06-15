@@ -76,14 +76,12 @@ ask that person to switch with me.");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("O030301000_03_080");
-    MsgDisp("Honda","...What!?
-Is that true!?");
+    MsgDisp("Honda","...What!? Is that true!?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("O030301000_03_090");
-    MsgDisp("Honda","Then...
-Can you team up with me?");
+    MsgDisp("Honda","Then... Can you team up with me?");
     MsgDisp("主人公","Hehe, of course.");
     ChEye(3,3);
     ChMouth(3,3);

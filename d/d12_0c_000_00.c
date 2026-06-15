@@ -55,22 +55,19 @@ You have a good nose, huh?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4,1);
-MsgDisp("主人公","Eh...
-｛Mikage＊＊｝?");
+MsgDisp("主人公","Eh... ｛Mikage＊＊｝?");
 VoicePlay("D120C00000_07_010");
 MsgDisp("Mikage","Come this way, over here.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D120C00000_06_020");
-MsgDisp("Himuro","Nose...?
-What's that mean?");
+MsgDisp("Himuro","Nose...? What's that mean?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D120C00000_05_020");
-MsgDisp("Hiiragi","I see...?
-Shall we go then?");
+MsgDisp("Hiiragi","I see...? Shall we go then?");
 MsgDisp("主人公","Okay...");
 MsgClose();
 ScrFadeOut(0,0);
@@ -98,8 +95,7 @@ SEVol(0.2,5);
 MsgDisp("主人公","Woah, it looks delicious...!");
 StlEyeOpenLevel(5,0);
 VoicePlay("D120C00000_05_030");
-MsgDisp("Hiiragi","Yes.
-It has a good aroma.");
+MsgDisp("Hiiragi","Yes. It has a good aroma.");
 StlEyeOpenLevel(5,#1);
 StlEye(7,2);
 VoicePlay("D120C00000_07_030");
@@ -118,10 +114,8 @@ StlEye(6,0,0);
 StlEyeOpenLevel(6,5,1);
 StlMouth(6,0);
 VoicePlay("D120C00000_06_030");
-MsgDisp("Himuro","...Yeah.
-Thanks for the food.");
-MsgDisp("主人公","Hehe.
-｛Himuro＊＊｝, it's yummy, right?");
+MsgDisp("Himuro","...Yeah. Thanks for the food.");
+MsgDisp("主人公","Hehe. ｛Himuro＊＊｝, it's yummy, right?");
 StlEye(6,2);
 StlMouth(6,1);
 VoicePlay("D120C00000_06_040");
@@ -179,12 +173,11 @@ MsgDisp("主人公","......");
 StlEye(5,2);
 StlMouth(5,1);
 VoicePlay("D120C00000_05_050");
-MsgDisp("Hiiragi","Ah, but the wind is blowing towards the
-school!");
+MsgDisp("Hiiragi","Ah, but the wind is blowing towards
+the school!");
 StlEye(7,1);
 VoicePlay("D120C00000_07_080");
-MsgDisp("Mikage","Huh?
-That's not good.
+MsgDisp("Mikage","Huh? That's not good.
 Let's get all the cooked food onto a plate.");
 StlMouth(6,1);
 StlEye(5,1);
@@ -224,8 +217,7 @@ ChMotion(6,3);
 VoicePlay("D120C00000_06_080");
 MsgDisp("Himuro","Beyond the bitterness was a little hint of
 sweetness.");
-MsgDisp("主人公","Hehe!
-That's good.");
+MsgDisp("主人公","Hehe! That's good.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

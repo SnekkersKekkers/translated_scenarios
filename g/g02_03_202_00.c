@@ -3,8 +3,7 @@ MsgClose();
 ChOpen(3,255,1,0,0,#1,#1,0,0);
 VoicePlay("G020320200_03_000");
 MsgDisp("Honda","Hey, do you like Ryo-kun?");
-MsgDisp("主人公","Eh∋
-W-Why do you want to hear that?");
+MsgDisp("主人公","Eh∋ W-Why do you want to hear that?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -30,8 +29,7 @@ ChMouth(3,3);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020320200_03_040");
-MsgDisp("Honda","Yeah.
-It like, really sparkles.");
+MsgDisp("Honda","Yeah. It like, really sparkles.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -68,8 +66,7 @@ VoicePlay("G020320200_03_100");
 MsgDisp("Honda","So I'm not so sure I can act the same way in
 front of you two.
 That's what I wanted to tell you today.");
-MsgDisp("主人公","Yeah...
-I see.");
+MsgDisp("主人公","Yeah... I see.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

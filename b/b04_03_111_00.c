@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040311100_03_010");
-        MsgDisp("Honda","Nice—!
-I wish I could skate like you—.
+        MsgDisp("Honda","Nice—! I wish I could skate like you—.
 I admire you.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
@@ -50,9 +49,9 @@ We can skate together.");
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("B040311100_03_040");
-    MsgDisp("Honda","Eh?
-Is that so. I was hoping that you could teach
-me though—.");
+    MsgDisp("Honda","Eh? Is that so.
+I was hoping that you could teach me
+though—.");
     MsgDateResultDisp();
     break ;
     default :

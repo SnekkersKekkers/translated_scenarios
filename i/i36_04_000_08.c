@@ -14,8 +14,7 @@ switch (ChPrmGet(4,6)){
     ChNanaType(1);
     ChOpen(4,35,0,0,4,#1,#1,0,0);
     VoicePlay("I360400008_04_000");
-    MsgDisp("Nanatsumori","Hm?
-This apple compote...");
+    MsgDisp("Nanatsumori","Hm? This apple compote...");
     MsgDisp("主人公","Huh?");
     ChMouth(4,3);
     VoicePlay("I360400008_04_010");
@@ -74,8 +73,7 @@ It's the best...");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("I360400008_04_080");
-    MsgDisp("Nanatsumori","Hm?
-Why are you the one who's glad?");
+    MsgDisp("Nanatsumori","Hm? Why are you the one who's glad?");
     MsgDisp("主人公","I came up with that ice cream dessert recipe
 with the manager.");
     ChMouth(4,3);

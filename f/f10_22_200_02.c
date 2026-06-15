@@ -1,8 +1,7 @@
 BGOpen("sc220",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah.
-Over there is...)");
+MsgDisp("主人公","(Ah. Over there is...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1,0,30);
@@ -17,8 +16,7 @@ ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,4);
 VoicePlay("F102220002_31_000");
-MsgDisp("Goro","Ah, Mari!
-Hehe!");
+MsgDisp("Goro","Ah, Mari! Hehe!");
 MsgDisp("主人公","Eh, even Goro-sensei is calling me that...");
 ChEye(31,2);
 ChMouth(31,2);

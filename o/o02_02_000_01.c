@@ -75,8 +75,7 @@ Just one more push...");
     VoicePlay("O020200001_02_080");
     MsgDisp("Sassa","Aah, not a push.
 You have to pull, right?");
-    MsgDisp("主人公","Huh?
-Hehe, yeah.
+    MsgDisp("主人公","Huh? Hehe, yeah.
 Since it's tug of war.");
     ChEye(2,3);
     ChMouth(2,3);
@@ -84,16 +83,15 @@ Since it's tug of war.");
     ChEyeOpenLevel(2,0);
     VoicePlay("O020200001_02_090");
     MsgDisp("Sassa","Right, I knew that I needed you to smile.
-Otherwise, the sports festival wouldn't be
-fun.");
+Otherwise, the sports festival wouldn't
+be fun.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("O020200001_02_100");
     MsgDisp("Sassa","There are still programmes left.
 Let's do our best for the rest of them.");
-    MsgDisp("主人公","Yeah.
-You're right.");
+    MsgDisp("主人公","Yeah. You're right.");
     MsgDisp("主人公","(｛Sassa＊＊｝, thank you.
 Yeah, let's enjoy the sports festival until
 the end!)");

@@ -14,8 +14,7 @@ myself...");
     ChMotion(2,0);
     VoicePlay("L040200006_02_010");
     MsgDisp("Sassa","Yeah, I can see that they're handmade.");
-    MsgDisp("主人公","Um...
-Don't worry, they're edible.");
+    MsgDisp("主人公","Um... Don't worry, they're edible.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -69,8 +68,7 @@ chocolate...)");
     ChMotion(2,0);
     VoicePlay("L040200006_02_060");
     MsgDisp("Sassa","This...is handmade, right?");
-    MsgDisp("主人公","Yeah...
-Sorry that they're not that good.");
+    MsgDisp("主人公","Yeah... Sorry that they're not that good.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -91,8 +89,8 @@ Thanks.");
     ChMotion(2,3);
     VoicePlay("L040200006_02_090");
     MsgDisp("Sassa","Even if it resulted in this.");
-    MsgDisp("主人公","You don't have to force yourself to eat it,
-okay?");
+    MsgDisp("主人公","You don't have to force yourself to eat
+it, okay?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

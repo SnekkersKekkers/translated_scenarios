@@ -59,24 +59,23 @@ Don't worry about it.");
         ChMotion(7,3);
         VoicePlay("B040722202_07_040");
         MsgDisp("Mikage","This is Sensei's treat.
-You guys just make sure you get your money's
-worth.");
+You guys just make sure you get your
+money's worth.");
         MsgDisp("主人公","But, this is a school expense isn't it?");
         ChEye(7,2);
         ChMouth(7,3);
         ChMotion(7,0);
         VoicePlay("B040722202_07_050");
         MsgDisp("Mikage","No?
-Don't think you've got the upper hand with
-that.");
+Don't think you've got the upper hand
+with that.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040722202_07_060");
         MsgDisp("Mikage","Until the advance payment is calculated, it's
 practically my treat.");
-        MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝, thank you very much.");
+        MsgDisp("主人公","Hehe. ｛Mikage＊＊｝, thank you very much.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,0);
@@ -90,8 +89,8 @@ Just be grateful for today.");
         VoicePlay("B040722202_07_080");
         MsgDisp("Mikage","This month is a tight one.
 ...What are you trying to say?");
-        MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝'s extracurricular lessons are
-fun.)");
+        MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝'s extracurricular
+lessons are fun.)");
         break ;
         default :
         DbgAssert(1);

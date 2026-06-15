@@ -57,14 +57,12 @@ you up?");
     VoicePlay("O020100001_01_050");
     MsgDisp("Kazama","Aah, I was nervous, too.
 More than if I was the one up there.");
-    MsgDisp("主人公","Hehe.
-｛Kazama＊＊｝, you're funny.");
+    MsgDisp("主人公","Hehe. ｛Kazama＊＊｝, you're funny.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O020100001_01_060");
-    MsgDisp("Kazama","...Yeah.
-After all, a smile suits you best.");
+    MsgDisp("Kazama","...Yeah. After all, a smile suits you best.");
     MsgDisp("主人公","｛Kazama＊＊｝...
 Thanks.");
     ChEye(1,0);

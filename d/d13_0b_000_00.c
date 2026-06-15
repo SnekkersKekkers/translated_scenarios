@@ -13,8 +13,7 @@ MsgDisp("Honda","She's coming, she's coming!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
-MsgDisp("主人公","Ah.
-Good morning you guys.");
+MsgDisp("主人公","Ah. Good morning you guys.");
 VoicePlay("D130B00000_04_000");
 MsgDisp("Nanatsumori","Morning.");
 ChEye(1,0);
@@ -23,14 +22,12 @@ ChMotion(1,1);
 VoicePlay("D130B00000_01_000");
 MsgDisp("Kazama","Oi, that's enough.
 Let's go?");
-MsgDisp("主人公","Eh.
-Did you have some business with me?");
+MsgDisp("主人公","Eh. Did you have some business with me?");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 ChMotion(4,1,1);
 VoicePlay("D130B00000_04_010");
-MsgDisp("Nanatsumori","Nah.
-Not us anyways.
+MsgDisp("Nanatsumori","Nah. Not us anyways.
 Right, Dahon?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -56,8 +53,8 @@ ChClose(1,0,30);
 ChLayout(1);
 MsgClose();
 ChOpen(1,254,0,0,2,#1,#1,0,0,0,30);
-MsgDisp("主人公","｛Kazama＊＊｝, what business did you have with
-me?");
+MsgDisp("主人公","｛Kazama＊＊｝, what business did you have
+with me?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

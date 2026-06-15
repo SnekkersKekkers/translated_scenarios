@@ -12,8 +12,8 @@ switch (ChPrmGet(3,6)){
     MsgClose();
     ChOpen(3,253,1,4,4,#1,#1,0,0);
     VoicePlay("B010300001_03_000");
-    MsgDisp("Honda","Sorry, I found an interesting road on the way
-here.");
+    MsgDisp("Honda","Sorry, I found an interesting road on the
+way here.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);

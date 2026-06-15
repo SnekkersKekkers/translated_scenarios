@@ -10,8 +10,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P040500001_05_010");
-MsgDisp("Hiiragi","Hm?
-I didn't expect that you'd ask that.");
+MsgDisp("Hiiragi","Hm? I didn't expect that you'd ask that.");
 MsgDisp("主人公","Huh...?");
 ChEye(5,4);
 ChMouth(5,4);

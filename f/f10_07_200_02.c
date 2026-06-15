@@ -39,8 +39,7 @@ ChEye(7,0);
 ChMouth(7,3);
 VoicePlay("F100720002_07_020");
 MsgDisp("Mikage","It's got the chairman's stamp of approval.");
-MsgDisp("主人公","Wow!
-I'm really looking forward to it.");
+MsgDisp("主人公","Wow! I'm really looking forward to it.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

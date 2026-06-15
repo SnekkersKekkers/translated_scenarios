@@ -21,9 +21,9 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310302_03_030");
-MsgDisp("Honda","Or maybe our sense of style was similar from
-the beginning, which is why we get along so
-well.");
+MsgDisp("Honda","Or maybe our sense of style was similar
+from the beginning, which is why we get
+along so well.");
 MsgDisp("主人公","Yeah, that might be right?");
 ChSet(3,3);
 VoicePlay("G020310302_03_040");
@@ -44,23 +44,22 @@ ChMotion(3,4);
 VoicePlay("G020310302_03_070");
 MsgDisp("Honda","Honestly, I even want to have the same
 hairstyle as you.");
-MsgDisp("主人公","Ehhh∋
-Hairstyle?");
+MsgDisp("主人公","Ehhh∋ Hairstyle?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310302_03_080");
 MsgDisp("Honda","Yeah!
-To understand someone, you need to become
-them!");
+To understand someone, you need to
+become them!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310302_03_090");
 MsgDisp("Honda","If I had your hairstyle, I'd know how much
-care it needs, how long it takes to set, and
-more.");
+care it needs, how long it takes to set,
+and more.");
 ChEye(3,0);
 ChMotion(3,4);
 VoicePlay("G020310302_03_100");
@@ -73,8 +72,8 @@ ChMotion(3,3);
 VoicePlay("G020310302_03_110");
 MsgDisp("Honda","Yeah, I'm getting excited!");
 MsgDisp("主人公","(Sharing the same hairstyle as ｛Honda＊＊｝...
-I want to see it...but I also want to stop
-him...)");
+I want to see it...but I also want to
+stop him...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

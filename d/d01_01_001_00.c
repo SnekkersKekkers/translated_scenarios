@@ -3,8 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 SEPlay("EV_SE_597",1,0.4);
 Wait(50,0);
-MsgDisp("主人公","(Ah...
-What a nice breeze.
+MsgDisp("主人公","(Ah... What a nice breeze.
 Having the window seat is a privilege♪)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.8);
@@ -41,8 +40,7 @@ ChClose(1);
 Wait(20,0);
 SEPlay("EV_SE_598",0,0.8);
 Wait(5,0);
-MsgDisp("主人公","Woah∈
-A huge breeze∈");
+MsgDisp("主人公","Woah∈ A huge breeze∈");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_08");

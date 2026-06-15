@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMotion(5,1);
     VoicePlay("B040502401_05_010");
-    MsgDisp("Hiiragi","Sigh...
-Let's both look after our health.");
+    MsgDisp("Hiiragi","Sigh... Let's both look after our health.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

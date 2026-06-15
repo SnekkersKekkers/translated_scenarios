@@ -7,8 +7,7 @@ BGMPlay("BGM_XMAS_TRHEE",0.01);
 MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow!
-The mix of colours is so beautiful!");
+MsgDisp("主人公","Wow! The mix of colours is so beautiful!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -20,8 +19,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B140300100_03_010");
-MsgDisp("Honda","So, are we like the characters from that
-book?");
+MsgDisp("Honda","So, are we like the characters from
+that book?");
 MsgDisp("主人公","Haha, that's a fun idea!");
 ChEye(3,0);
 ChMouth(3,4);

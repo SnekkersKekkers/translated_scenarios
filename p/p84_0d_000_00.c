@@ -26,8 +26,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P840D00000_21_010");
-MsgDisp("Michiru","A thoughtful, considerate and charming
-person.");
+MsgDisp("Michiru","A thoughtful, considerate and
+charming person.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,2,1);
@@ -35,8 +35,7 @@ ChEyeOpenLevel(22,0);
 VoicePlay("P840D00000_22_020");
 MsgDisp("Hikaru","Ah, Hikaru's tea has an upright tea stalk!
 Super happy～▼");
-MsgDisp("主人公","(Yay!
-Seems like preparations went well!)");
+MsgDisp("主人公","(Yay! Seems like preparations went well!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

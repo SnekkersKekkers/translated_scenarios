@@ -1,6 +1,5 @@
 ScrFadeIn(0);
-MsgDisp("主人公","(...Huh?
-Is ｛Honda＊＊｝ still in the shop?)");
+MsgDisp("主人公","(...Huh? Is ｛Honda＊＊｝ still in the shop?)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 VoiceEVSPlay(3);
@@ -25,8 +24,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q110300000_03_030");
 MsgDisp("Honda","Mmhm.
-I hope my sister also enjoys the present like
-you.");
+I hope my sister also enjoys the present
+like you.");
 MsgDisp("主人公","I'm sure it'll be fine.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -34,8 +33,7 @@ ChMotion(3,4,1);
 VoicePlay("Q110300000_03_040");
 MsgDisp("Honda","But if she says she doesn't need it...
 Poor you, Plainie.");
-MsgDisp("主人公","(Plainie...?
-Hehe.
+MsgDisp("主人公","(Plainie...? Hehe.
 So ｛Honda＊＊｝ already made a nickname?)");
 BGMStop();
 MsgClose();

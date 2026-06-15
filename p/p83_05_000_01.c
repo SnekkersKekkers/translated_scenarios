@@ -54,11 +54,9 @@ materials management record...");
     MsgDisp("School Boy","Excuse me—!
 I would like some masking tape and some
 garbage bags!");
-    MsgDisp("主人公","Yes～!
-Please take the ones on the shelf.");
+    MsgDisp("主人公","Yes～! Please take the ones on the shelf.");
     VoicePlay("P830500001_39_030");
-    MsgDisp("School Boy","Huh?
-But neither of them are there.");
+    MsgDisp("School Boy","Huh? But neither of them are there.");
     MsgDisp("主人公","Ehhh∋");
     SEPlay("EV_SE_DOOR_013");
     SEWait();
@@ -67,8 +65,8 @@ But neither of them are there.");
     SEWait();
     ChOpen(5,254,4,0,4,#1,#1,0,0);
     VoicePlay("P830500001_05_020");
-    MsgDisp("Hiiragi","Yes, here's the masking tape and garbage
-bags.");
+    MsgDisp("Hiiragi","Yes, here's the masking tape and
+garbage bags.");
     VoicePlay("P830500001_39_040");
     MsgDisp("School Boy","Hiiragi, thank you!
 I'm borrowing this!");

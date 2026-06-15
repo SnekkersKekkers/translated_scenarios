@@ -8,8 +8,7 @@ MsgDisp("主人公","(Will he show up again if there is someone in
 trouble like last time?)");
 MsgDisp("主人公","(But such a convenient thing like that
 definitely won't happen, huh...)");
-MsgDisp("主人公","Sigh...
-\"Kuya\"-san, I wonder where you are?");
+MsgDisp("主人公","Sigh... \"Kuya\"-san, I wonder where you are?");
 VoicePlay("D030900300_09_000");
 MsgDisp("Kuya?","You called?");
 MsgDisp("主人公","Eh?");
@@ -22,8 +21,7 @@ StlEye(9,0);
 StlMouth(9,0);
 BGMPlay("BGM_C09_KUYA_B",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah!
-You're...");
+MsgDisp("主人公","Ah! You're...");
 VoicePlay("D030900300_09_010");
 MsgDisp("Kuya?","You called?
 Maybe you're in some kind of trouble?");
@@ -50,8 +48,8 @@ StlEye(9,0);
 VoicePlay("D030900300_09_050");
 MsgDisp("Kuya?","Thank me?
 For what, I wonder...");
-MsgDisp("主人公","The day we first met, you helped me when I
-fell—");
+MsgDisp("主人公","The day we first met, you helped me when
+I fell—");
 StlEye(9,1);
 VoicePlay("D030900300_09_060");
 MsgDisp("Kuya?","Ah, the kiss.");
@@ -75,8 +73,7 @@ ChMotion(9,4,1);
 VoicePlay("D030900300_09_080");
 MsgDisp("Kuya?","Your face is red.
 Are you okay?");
-MsgDisp("主人公","(Woah...
-So close!)");
+MsgDisp("主人公","(Woah... So close!)");
 MsgDisp("主人公","Uhm, I'm fine!
 By the way, that uniform...");
 MsgClose();
@@ -89,8 +86,8 @@ ChMouth(9,0);
 ChMotion(9,3,1);
 VoicePlay("D030900300_09_090");
 MsgDisp("Kuya?","Oh, right.
-I wanted to come here and properly introduce
-myself.");
+I wanted to come here and properly
+introduce myself.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -139,9 +136,9 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_160");
-MsgDisp("Kuya","So you're working part-time as a journalist
-for the Habatcher editorial department,
-right?");
+MsgDisp("Kuya","So you're working part-time as a
+journalist for the Habatcher editorial
+department, right?");
 MsgDisp("主人公","Yep, that's right.
 So, you know...");
 ChEye(9,0);

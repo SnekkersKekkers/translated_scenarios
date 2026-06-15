@@ -37,8 +37,8 @@ I think it's about going along with the flow.");
     ChMotion(4,0);
     VoicePlay("B040418900_04_020");
     MsgDisp("Nanatsumori","I see.
-It might be a love-it-or-hate-it sort of
-genre.");
+It might be a love-it-or-hate-it sort
+of genre.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

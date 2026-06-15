@@ -65,8 +65,7 @@ energetic people, huh?)");
     VoicePlay("S070500000_05_060");
     MsgDisp("Hiiragi","Don't get separated from me.
 Let's hold hands.");
-    MsgDisp("主人公","Eh...
-Uhm...");
+    MsgDisp("主人公","Eh... Uhm...");
     ChMotion(5,4);
     VoicePlay("S070500000_05_070");
     MsgDisp("Hiiragi","Do you not want to hold hands?");

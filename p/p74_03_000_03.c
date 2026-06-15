@@ -18,8 +18,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("P740300003_03_010");
-MsgDisp("Honda","Eh?
-Your beautiful dress was well liked.
+MsgDisp("Honda","Eh? Your beautiful dress was well liked.
 To the point people were sighing in awe.");
 MsgDisp("主人公","Y-Yeah...
 But, I fell down...

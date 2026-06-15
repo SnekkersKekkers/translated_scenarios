@@ -48,8 +48,7 @@ ChMouth(1,2);
 ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("F110110001_01_040");
-MsgDisp("Kazama","Huh?
-The senior citizens' association?
+MsgDisp("Kazama","Huh? The senior citizens' association?
 ...Oh, my grandfather's behind this.");
 ChEye(1,2);
 ChMouth(1,3);
@@ -58,8 +57,7 @@ VoicePlay("F110110001_01_050");
 MsgDisp("Kazama","Sorry, everyone!
 I have to go...!");
 VoicePlay("F110110001_48_010");
-MsgDisp("Girl A","Huh?
-Kazama-senpai!");
+MsgDisp("Girl A","Huh? Kazama-senpai!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(16,0);

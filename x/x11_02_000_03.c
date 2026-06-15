@@ -9,12 +9,12 @@ switch (ChPrmGet(2,6)){
     ScrFadeIn(0);
     VoiceEVSPlay(2);
     VoicePlay("X110200003_02_000");
-    MsgDisp("Sassa","｛主人公｝, I heard that you got a perfect
-score.
+    MsgDisp("Sassa","｛主人公｝, I heard that you got a
+perfect score.
 At a rhythmic gymnastics practice match.");
     MsgDisp("主人公","Yeah, thanks.
-It's a joint practice with another school,
-though.");
+It's a joint practice with another
+school, though.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -34,8 +34,8 @@ I'll work harder!)");
     VoiceEVSPlay(2);
     VoicePlay("X110200003_02_020");
     MsgDisp("Sassa","｛主人公｝, congratulations!
-I heard that you've decided on a great new
-move.");
+I heard that you've decided on a great
+new move.");
     MsgDisp("主人公","Thank you ｛Sassa＊＊｝, though it's a joint
 practice.");
     ChEye(2,0);
@@ -46,8 +46,8 @@ practice.");
 new technique, but it's not safe if someone
 like me is peeking in...");
     MsgDisp("主人公","Huh, that's not true, though, ｛Sassa＊＊｝
-must be busy with track and field practice,
-right?");
+must be busy with track and field
+practice, right?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);

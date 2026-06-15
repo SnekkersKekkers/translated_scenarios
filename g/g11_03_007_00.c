@@ -24,8 +24,7 @@ ChOpen(3,100,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300700_03_010");
 MsgDisp("Honda","One, two, they're bookworms♪
-Three, four, they're stomach worms♪
-Rock!");
+Three, four, they're stomach worms♪ Rock!");
 MsgDisp("主人公","Hehe, that's a cute song!");
 MsgDisp("主人公","(｛Honda＊＊｝ looks like he's enjoying
 himself. ...Hehe, your hair is also bouncing
@@ -51,9 +50,9 @@ ChMouth(3,1);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G110300700_03_050");
-MsgDisp("Honda","Ah, this is, an original counting song that
-my Mother used to sing to me when I was
-little.");
+MsgDisp("Honda","Ah, this is, an original counting song
+that my Mother used to sing to me when I
+was little.");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,2);

@@ -81,8 +81,8 @@ Management will talk to them.");
 You seem like you're having a tough time.
 Are you alright?");
     MsgDisp("主人公","Y-Yeah.
-It's part of management, so it can't be
-helped.");
+It's part of management, so it can't
+be helped.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);

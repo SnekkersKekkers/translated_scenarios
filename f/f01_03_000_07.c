@@ -18,8 +18,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("F010300007_03_000");
     MsgDisp("Honda","｛主人公｝.
 Are you going home now?");
-    MsgDisp("主人公","Yes.
-You too, ｛Honda＊＊｝?");
+    MsgDisp("主人公","Yes. You too, ｛Honda＊＊｝?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);
@@ -115,8 +114,8 @@ Let's go, let's go!");
         ChMotion(3,1,1);
         ChEyeOpenLevel(3,0);
         VoicePlay("F010300007_03_090");
-        MsgDisp("Honda","Because you can't really talk while walking,
-right?
+        MsgDisp("Honda","Because you can't really talk while
+walking, right?
 Well, let's go!");
         break ;
         default :

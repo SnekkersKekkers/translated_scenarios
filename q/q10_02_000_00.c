@@ -28,8 +28,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100200000_02_030");
-MsgDisp("Sassa","Yeah.
-Sounds nice, shiny glasses.");
+MsgDisp("Sassa","Yeah. Sounds nice, shiny glasses.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
@@ -87,8 +86,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_100");
-MsgDisp("Sassa","How about we both buy one for each other
-then?");
+MsgDisp("Sassa","How about we both buy one for each
+other then?");
 MsgDisp("主人公","Yeah, great idea!");
 ChEye(2,0);
 ChMouth(2,4);

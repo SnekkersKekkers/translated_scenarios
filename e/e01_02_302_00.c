@@ -1,8 +1,7 @@
 BGOpen("fp100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yay!
-Let's head back home!)");
+MsgDisp("主人公","(Yay! Let's head back home!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -11,8 +10,8 @@ ChOpen(2,255,3,0,4,#1,#1,0,1);
 ChOpen(7,255,0,0,0,#1,#1,0,2);
 VoicePlay("E010230200_07_000");
 MsgDisp("Mikage","Ohh, it's you this time.
-Today's the day I run into all the funny
-ones.");
+Today's the day I run into all the
+funny ones.");
 MsgDisp("主人公","Ah, ｛Mikage＊＊｝, hello.
 Hum, what do you mean by \"funny ones\"...?");
 ChEye(2,0);
@@ -43,8 +42,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_020");
-MsgDisp("Mikage","I'm the track and field adviser too, though,
-right?");
+MsgDisp("Mikage","I'm the track and field adviser too,
+though, right?");
 MsgDisp("主人公","Really?");
 ChEye(2,5);
 ChMouth(2,4);
@@ -87,8 +86,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010230200_07_060");
 MsgDisp("Mikage","If I had to give you one piece of advice...
-\"It's not what you eat, but who you eat it
-with.\"");
+\"It's not what you eat, but who you eat
+it with.\"");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -126,8 +125,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010230200_02_060");
 MsgDisp("Sassa","...You hungry?");
-MsgDisp("主人公","(Eh...
-Right away?)");
+MsgDisp("主人公","(Eh... Right away?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

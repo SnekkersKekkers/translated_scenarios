@@ -18,8 +18,8 @@ MsgClose();
 BGOpen("tr520",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I believe the tournament area was this
-way...)");
+MsgDisp("主人公","(I believe the tournament area was
+this way...)");
 VoiceEVSPlay(1);
 VoicePlay("D010100700_01_000");
 MsgDisp("Kazama?","｛主人公｝.");
@@ -27,8 +27,7 @@ MsgClose();
 SEPlay("EV_SE_628");
 SEWait();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
-MsgDisp("主人公","Eh...
-｛Kazama＊＊｝∋
+MsgDisp("主人公","Eh... ｛Kazama＊＊｝∋
 What are you doing here?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -112,16 +111,16 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010100700_01_070");
-MsgDisp("Kazama","What a ditz.
-Ahem. Fly Fishing comes from England. It uses
-a lure resembling an insect called the \"Fly.\"");
+MsgDisp("Kazama","What a ditz. Ahem.
+Fly Fishing comes from England. It uses a
+lure resembling an insect called the \"Fly.\"");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D010100700_01_080");
-MsgDisp("Kazama","If the lure you use resembles the insect the
-fish eat, you can catch fish like I did
-today.");
+MsgDisp("Kazama","If the lure you use resembles the insect
+the fish eat, you can catch fish like I
+did today.");
 MsgDisp("主人公","I see, that's how you catch them.");
 ChEye(1,0);
 ChMouth(1,3);

@@ -60,8 +60,7 @@ Thank you though, sorry.");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("B010600000_06_060");
-    MsgDisp("Himuro","...Oh.
-I see.
+    MsgDisp("Himuro","...Oh. I see.
 Then it's fine.");
     MsgDispSksp(0);
     break ;

@@ -18,8 +18,8 @@ person to Mari.");
 StlEye(22,0);
 StlMouth(22,0);
 VoicePlay("U160D00005_22_010");
-MsgDisp("Hikaru","That's right, Mari should be a lady worthy of
-roses♪");
+MsgDisp("Hikaru","That's right, Mari should be a lady worthy
+of roses♪");
 StlEye(21,0);
 VoicePlay("U160D00005_21_010");
 MsgDisp("Michiru","I'm sure Mari will be fine.

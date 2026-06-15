@@ -5,16 +5,15 @@ switch (ChPrmGet(2,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","Welcome!
-...Hm?
+    MsgDisp("主人公","Welcome! ...Hm?
 ｛Sassa＊＊｝.");
     MsgClose();
     BGMPlay("BGM_C02_SASSA_A",0.01);
     ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("I450200000_02_000");
     MsgDisp("Sassa","Ah, it's you.
-Mom asked me to get some flowers for the
-table.");
+Mom asked me to get some flowers for
+the table.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -82,14 +81,13 @@ Welcome!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I450200000_02_070");
-    MsgDisp("Sassa","I see...
-Nice.");
+    MsgDisp("Sassa","I see... Nice.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I450200000_02_080");
-    MsgDisp("Sassa","But working with water must be hard on your
-hands.");
+    MsgDisp("Sassa","But working with water must be hard on
+your hands.");
     MsgDisp("主人公","Hm, it's tough in the winter.
 But it's worth it.");
     ChEye(2,0);
@@ -129,8 +127,8 @@ Welcome!");
     VoicePlay("I450200000_02_120");
     MsgDisp("Sassa","I was in the area, so I stopped by.");
     MsgDisp("主人公","We have a lot in stock, like potted plants
-and seeds, so please take your time looking
-around.");
+and seeds, so please take your time
+looking around.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

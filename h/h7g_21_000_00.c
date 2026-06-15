@@ -25,7 +25,7 @@ MsgDisp("Michiru","Right.
 He really admired your work, Mari.
 I wanted to see it too.");
 MsgDisp("主人公","(Hehe, that makes me happy.
-I'm really glad I stayed in the handicrafts
-club!)");
+I'm really glad I stayed in the
+handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

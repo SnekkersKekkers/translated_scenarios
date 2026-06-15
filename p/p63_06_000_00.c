@@ -53,8 +53,8 @@ Welcome.");
     ChMotion(6,0);
     VoicePlay("P630600000_06_040");
     MsgDisp("Himuro","The, what are you doing?");
-    MsgDisp("主人公","You can enjoy tea and cookies made with
-herbs.
+    MsgDisp("主人公","You can enjoy tea and cookies made
+with herbs.
 The herbs were grown by the Gardening Club.");
     ChEye(6,0);
     ChMouth(6,0);

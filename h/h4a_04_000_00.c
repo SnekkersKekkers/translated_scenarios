@@ -23,8 +23,8 @@ real life.");
     VoicePlay("H4A0400000_04_020");
     MsgDisp("Nanatsumori","You really let me see something good.
 Congrats on winning!");
-    MsgDisp("主人公","(I'm glad I stayed in the rhythmic gymnastics
-club...
+    MsgDisp("主人公","(I'm glad I stayed in the rhythmic
+gymnastics club...
 Today's the best day ever!)");
     break ;
     case 4:
@@ -37,8 +37,7 @@ Today's the best day ever!)");
     VoiceEVSPlay(4);
     VoicePlay("H4A0400000_04_030");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝! I won!");
     VoicePlay("H4A0400000_04_040");
     MsgDisp("Nanatsumori","Oh no...");
     MsgDisp("主人公","Hm?");
@@ -47,8 +46,8 @@ I won!");
     ChMotion(4,1,1);
     VoicePlay("H4A0400000_04_050");
     MsgDisp("Nanatsumori","Ever since the match ended, that sparkling
-thing you were doing has been burned into my
-eyes...");
+thing you were doing has been burned into
+my eyes...");
     ChEye(4,4);
     ChMouth(4,4);
     ChMotion(4,0,1);
@@ -62,8 +61,7 @@ Being blinded by someone really does happen.");
     ChEyeOpenLevel(4,0);
     ChCheek(4,5);
     VoicePlay("H4A0400000_04_070");
-    MsgDisp("Nanatsumori","Ugh...!
-If you look at me like that, I'll...");
+    MsgDisp("Nanatsumori","Ugh...! If you look at me like that, I'll...");
     MsgDisp("主人公","(｛Nanatsumori＊｝...
 I'm glad I stayed in the rhythmic gymnastics
 club... Today's the best day ever!)");

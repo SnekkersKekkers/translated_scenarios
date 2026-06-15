@@ -12,8 +12,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("L010D00100_21_000");
-MsgDisp("Michiru","Hehe.
-Almost as bright as Mari's heart.");
+MsgDisp("Michiru","Hehe. Almost as bright as Mari's heart.");
 MsgDisp("主人公","Yeah, they came out great!");
 MsgClose();
 ScrFadeOut(0,0);

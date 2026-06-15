@@ -4,8 +4,7 @@ ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600000_06_000");
 MsgDisp("Himuro","Wow, look at all these petals.");
-MsgDisp("主人公","Yeah.
-They're soft to step on.");
+MsgDisp("主人公","Yeah. They're soft to step on.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -16,8 +15,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B050600000_06_020");
-MsgDisp("Himuro","A cherry blossom futon, huh?
-I see.");
+MsgDisp("Himuro","A cherry blossom futon, huh? I see.");
 MsgDisp("主人公","Hmm?");
 MsgClose();
 ScrFadeOut(0);
@@ -35,8 +33,7 @@ MsgDisp("主人公","Eh, hold on...!
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600000_06_030");
-MsgDisp("Himuro","What?
-You called it a futon, didn't you?");
+MsgDisp("Himuro","What? You called it a futon, didn't you?");
 MsgDisp("主人公","That's true, but...");
 StlEye(6,1);
 StlMouth(6,0);
@@ -61,8 +58,8 @@ StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600000_06_070");
 MsgDisp("Himuro","Why wouldn't I?
-Everyone worries about a thing or two, don't
-they?");
+Everyone worries about a thing or two,
+don't they?");
 StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
@@ -90,8 +87,8 @@ Wait(20,0);
 MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
 MsgDisp("主人公","Phew...
-I was just shocked when you suddenly laid
-down.");
+I was just shocked when you suddenly
+laid down.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

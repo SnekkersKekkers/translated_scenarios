@@ -44,8 +44,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 ChCheek(5,5);
 VoicePlay("B330C20301_05_020");
-MsgDisp("Hiiragi","Ah, no...
-I was looking at the reflection.");
+MsgDisp("Hiiragi","Ah, no... I was looking at the reflection.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -59,8 +58,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("B330C20301_05_030");
-MsgDisp("Hiiragi","No.
-I was looking at my own figure walking
+MsgDisp("Hiiragi","No. I was looking at my own figure walking
 alongside you all.");
 MsgDisp("主人公","Huh?");
 ChEye(6,0);

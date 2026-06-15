@@ -26,9 +26,9 @@ that far.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_900");
-    MsgDisp("Honda","Besides, the manager's substitute is here, so
-we'll have no problems keeping the store
-open.");
+    MsgDisp("Honda","Besides, the manager's substitute is here,
+so we'll have no problems keeping the
+store open.");
     MsgDisp("主人公","The manager's substitute...?");
     ChEye(3,0);
     ChMouth(3,4);
@@ -94,8 +94,8 @@ assigned-");
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_990");
     MsgDisp("Honda","All the staff know how hard you've been
-working, and that's why you were chosen, you
-know?");
+working, and that's why you were chosen,
+you know?");
     MsgDisp("主人公","｛Honda＊＊｝...");
     ChEye(3,3);
     ChMouth(3,3);

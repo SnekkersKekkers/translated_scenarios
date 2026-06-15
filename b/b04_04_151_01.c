@@ -26,8 +26,7 @@ I'm going to take a bit of a break.");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040415101_04_020");
-    MsgDisp("Nanatsumori","Yeah.
-Even playing needs a break.");
+    MsgDisp("Nanatsumori","Yeah. Even playing needs a break.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

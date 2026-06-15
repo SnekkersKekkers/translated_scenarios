@@ -15,15 +15,14 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("E010210100_02_010");
 MsgDisp("Sassa","Yeah, I was at the hospital.");
-MsgDisp("主人公","Eh...
-Are you hurt?");
+MsgDisp("主人公","Eh... Are you hurt?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("E010210100_02_020");
 MsgDisp("Sassa","It's not for me.
-My dad was admitted so I went and gave him a
-visit.");
+My dad was admitted so I went and gave him
+a visit.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);

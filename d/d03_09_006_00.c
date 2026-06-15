@@ -35,8 +35,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900600_09_020");
 MsgDisp("Kuya","Understood.");
-MsgDisp("主人公","Uhm...
-What's with the basket and tongs?");
+MsgDisp("主人公","Uhm... What's with the basket and tongs?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -74,8 +73,7 @@ VoicePlay("D030900600_36_030");
 MsgDisp("Man","Hahaha!
 I guess so!
 I'm really grateful!");
-MsgDisp("主人公","Phew...
-Chestnut picking was fun, huh?");
+MsgDisp("主人公","Phew... Chestnut picking was fun, huh?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -83,8 +81,7 @@ ChEyeOpenLevel(9,7);
 VoicePlay("D030900600_09_050");
 MsgDisp("Kuya","It really was.
 I can't believe those were all fake.");
-MsgDisp("主人公","Eh?
-They were?");
+MsgDisp("主人公","Eh? They were?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

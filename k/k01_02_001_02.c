@@ -12,8 +12,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("K010200102_02_010");
-MsgDisp("Sassa","How?
-You chose it for me.
+MsgDisp("Sassa","How? You chose it for me.
 It's great.");
 MsgDisp("主人公","(Hm, seems like he liked it.)");
 MsgClose();

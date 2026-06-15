@@ -52,8 +52,7 @@ Is it really?");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("P630700002_07_040");
-    MsgDisp("Mikage","Yeah.
-And the store clerk is too.");
+    MsgDisp("Mikage","Yeah. And the store clerk is too.");
     MsgDisp("主人公","Hehe, thank you very much!");
     ChEye(7,0);
     ChMouth(7,3);
@@ -64,8 +63,8 @@ And the store clerk is too.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("P630700002_07_060");
-    MsgDisp("Mikage","I'm looking forwards to the food and herbal
-tea.");
+    MsgDisp("Mikage","I'm looking forwards to the food and
+herbal tea.");
     MsgDisp("主人公","Of course.
 What would you like?");
     ChEye(7,0);

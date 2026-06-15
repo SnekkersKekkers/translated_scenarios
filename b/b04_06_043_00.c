@@ -10,8 +10,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040604300_06_000");
-    MsgDisp("Himuro","You like that kind of thing?
-I see.");
+    MsgDisp("Himuro","You like that kind of thing? I see.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

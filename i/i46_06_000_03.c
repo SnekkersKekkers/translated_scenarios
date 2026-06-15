@@ -60,8 +60,7 @@ I'll have to get it together...)");
     case 5:
     SEPlay("EV_SE_655",0,0.8);
     Wait(60,0);
-    MsgDisp("主人公","Hm?
-Like this...no, if I do this...");
+    MsgDisp("主人公","Hm? Like this...no, if I do this...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);

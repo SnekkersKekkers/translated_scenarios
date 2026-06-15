@@ -34,8 +34,8 @@ He seemed really happy!)");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700003_07_030");
-    MsgDisp("Mikage","Wow, you're pretty good at making these,
-huh～?");
+    MsgDisp("Mikage","Wow, you're pretty good at making
+these, huh～?");
     MsgDisp("主人公","You knew it was handmade?");
     ChEye(7,0);
     ChMouth(7,3);

@@ -37,15 +37,13 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F110610000_06_050");
-MsgDisp("Himuro","Sigh...
-What a pain.
+MsgDisp("Himuro","Sigh... What a pain.
 But feeling guilty about it is pointless too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F110610000_06_060");
-MsgDisp("Himuro","I see.
-I'll do my job diligently.");
+MsgDisp("Himuro","I see. I'll do my job diligently.");
 MsgDisp("主人公","Right, I think that's the way to go!");
 ChEye(6,0);
 ChMouth(6,0);
@@ -56,7 +54,7 @@ See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","(I think I'll go check out ｛Himuro＊＊｝'s class
-later.)");
+MsgDisp("主人公","(I think I'll go check out ｛Himuro＊＊｝'s
+class later.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -32,8 +32,7 @@ Here, take this.");
     VoicePlay("K010700100_07_020");
     MsgDisp("Mikage","I'll take it!
 Thank you.");
-    MsgDisp("主人公","Yay!
-Please open it!");
+    MsgDisp("主人公","Yay! Please open it!");
     break ;
     case 3:
     MsgDisp("主人公","｛Mikage＊＊｝!");

@@ -12,15 +12,14 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020730200_07_010");
 MsgDisp("Mikage","Oh, I'm used to it, but I feel like Himuro
-can see right through me, and it's a little
-scary.");
+can see right through me, and it's a
+little scary.");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020730200_07_020");
-MsgDisp("Mikage","Sigh...
-The distance with the students...");
+MsgDisp("Mikage","Sigh... The distance with the students...");
 MsgDisp("主人公","Eh?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -59,8 +58,8 @@ VoicePlay("G020730200_07_070");
 MsgDisp("Mikage","Let's go home.
 I have a bad feeling about this.");
 MsgDisp("主人公","(The sense of distance with students...
-I wonder what Vice Principal Himuro said to
-him?)");
+I wonder what Vice Principal Himuro said
+to him?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

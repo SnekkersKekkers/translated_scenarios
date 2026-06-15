@@ -89,8 +89,7 @@ ChMotion(21,4);
 VoicePlay("P240D00000_21_040");
 MsgDisp("Michiru","We protected the lovers again.
 Thank goodness...");
-MsgDisp("主人公","Yeah...
-Hooray, it was a great success!");
+MsgDisp("主人公","Yeah... Hooray, it was a great success!");
 BGMStop(2);
 SEPlay("EV_SE_GAYA_021");
 Wait(160,0);

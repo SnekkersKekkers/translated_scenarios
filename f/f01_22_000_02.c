@@ -42,8 +42,7 @@ together?");
         ChMouth(22,3);
         ChMotion(22,3,1);
         VoicePlay("F012200002_22_020");
-        MsgDisp("Hikaru","Mari!
-What a coincidence～");
+        MsgDisp("Hikaru","Mari! What a coincidence～");
         MsgDisp("主人公","Hehe.
 If it's alright, why don't we go home
 together?");

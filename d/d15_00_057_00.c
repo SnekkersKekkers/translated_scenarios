@@ -30,8 +30,7 @@ ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,5);
 VoicePlay("D150005700_05_020");
-MsgDisp("Hiiragi","Eh?
-My apologies.
+MsgDisp("Hiiragi","Eh? My apologies.
 Is that against school policy?");
 ChEye(7,0);
 ChMouth(7,3);

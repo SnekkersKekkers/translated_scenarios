@@ -94,8 +94,7 @@ If you feel like coming.");
         ChMouth(7,0);
         ChMotion(7,2);
         VoicePlay("B040706102_07_090");
-        MsgDisp("Mikage","Wait.
-Do you have heat stroke?
+        MsgDisp("Mikage","Wait. Do you have heat stroke?
 Come on, let's go to the rest area.");
         MsgDisp("主人公","(I hope ｛Mikage＊＊｝ and I...can come here
 just the two of us one day.)");

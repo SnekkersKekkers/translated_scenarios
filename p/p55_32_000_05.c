@@ -1,8 +1,7 @@
 BGMStop();
 BGOpen("sc710",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Sigh...
-I missed a note.
+MsgDisp("主人公","Sigh... I missed a note.
 I inconvenienced everyone.");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);

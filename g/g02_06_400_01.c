@@ -34,8 +34,7 @@ VoicePlay("G020640001_06_040");
 MsgDisp("Himuro","Keeping a detailed record of things that
 happened each day is very \"Himuro-like\",
 isn't it?");
-MsgDisp("主人公","Is it?
-Then, how about taking it easy?");
+MsgDisp("主人公","Is it? Then, how about taking it easy?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -61,14 +60,14 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020640001_06_080");
 MsgDisp("Himuro","Yeah, I'll remember it.
-How beautiful it was, and how it made me
-feel.");
+How beautiful it was, and how it made
+me feel.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020640001_06_090");
-MsgDisp("Himuro","I don't intend to share it with anyone,
-though.");
+MsgDisp("Himuro","I don't intend to share it with
+anyone, though.");
 MsgDisp("主人公","I see...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -86,8 +85,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("G020640001_06_120");
-MsgDisp("Himuro","Yeah.
-So you should remember it too.");
+MsgDisp("Himuro","Yeah. So you should remember it too.");
 MsgDisp("主人公","Yes...!");
 MsgDisp("主人公","(I won't forget, ｛Himuro＊＊｝)");
 BGMStop();

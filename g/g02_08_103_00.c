@@ -43,8 +43,8 @@ ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("G020810300_08_060");
 MsgDisp("Shirahane","Yeah, no good.
-I'm the one gettin' the most flustered here, sayin' it myself.
-This is embarrassin'...");
+I'm the one gettin' the most flustered here,
+sayin' it myself. This is embarrassin'...");
 MsgDisp("主人公","Hehe.");
 ChEye(8,4);
 ChMouth(8,3);

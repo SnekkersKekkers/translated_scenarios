@@ -44,8 +44,8 @@ wedding dress.");
     ChMotion(5,3);
     Wait(20,1);
     VoicePlay("P730500002_05_040");
-    MsgDisp("Hiiragi","Yes, think of it as a reward to yourself, and
-enjoy.");
+    MsgDisp("Hiiragi","Yes, think of it as a reward to yourself,
+and enjoy.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","｛Hiiragi＊＊＊｝...

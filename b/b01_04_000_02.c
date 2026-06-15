@@ -1,8 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I'm here a little early...
-Hmm?)");
+MsgDisp("主人公","(I'm here a little early... Hmm?)");
 MsgDisp("主人公","｛Nanatsumori＊｝, you're early!");
 BGMPlay("BGM_C04_NANA_A",0.01);
 switch (ChPrmGet(4,6)){
@@ -32,8 +31,7 @@ We can make use of this extra time.");
     ChMotion(4,2);
     ChEyeOpenLevel(4,8);
     VoicePlay("B010400002_04_030");
-    MsgDisp("Nanatsumori","Well...
-I hardly slept at all.
+    MsgDisp("Nanatsumori","Well... I hardly slept at all.
 Don't even ask me why.");
     MsgDispSksp(0);
     break ;

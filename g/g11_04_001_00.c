@@ -2,8 +2,7 @@ BGOpen("sc000",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah, this month's feature of Habatcher is on
 limited time sweets.)");
-MsgDisp("主人公","Hehe!
-I'm gonna try to eat some by myself.");
+MsgDisp("主人公","Hehe! I'm gonna try to eat some by myself.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -15,8 +14,7 @@ SEWait();
 SEPlay("EV_SE_DOOR_014");
 BGOpen("ar100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","The only available seats are...
-Huh?");
+MsgDisp("主人公","The only available seats are... Huh?");
 SEStop("EV_SE_DOOR_014");
 MsgClose();
 ScrFadeOut(0);
@@ -31,8 +29,7 @@ MsgDisp("Nanatsumori","Ah...");
 MsgDisp("主人公","｛Nanatsumori＊｝.
 Are you working today?");
 VoicePlay("G110400100_04_010");
-MsgDisp("Nanatsumori","Yeah.
-I'm on break right now.
+MsgDisp("Nanatsumori","Yeah. I'm on break right now.
 What are you doing here?");
 MsgDisp("主人公","I'm looking for some limited time sweets that
 were on Habatcher this month▼");
@@ -55,8 +52,7 @@ ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("G110400100_04_060");
 MsgDisp("Nanatsumori","You're welcome to sit with me if you'd like.");
-MsgDisp("主人公","Sure!
-In that case...");
+MsgDisp("主人公","Sure! In that case...");
 MsgDisp("主人公","Excuse me!
 A \"Seasonal All Fruit Tart\" please!");
 ChEye(4,2);

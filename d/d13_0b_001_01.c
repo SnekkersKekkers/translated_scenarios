@@ -50,8 +50,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D130B00101_03_020");
-MsgDisp("Honda","Ehh∋
-The first time?");
+MsgDisp("Honda","Ehh∋ The first time?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,2,1);
@@ -88,8 +87,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D130B00101_04_020");
-MsgDisp("Nanatsumori","It's not like Dahon to say that kind of
-thing.
+MsgDisp("Nanatsumori","It's not like Dahon to say that kind
+of thing.
 But I agree with you.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -102,8 +101,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130B00101_01_050");
-MsgDisp("Kazama","Phew!
-I feel the same way then!");
+MsgDisp("Kazama","Phew! I feel the same way then!");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

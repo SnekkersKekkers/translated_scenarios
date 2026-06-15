@@ -22,15 +22,14 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310400_03_030");
 MsgDisp("Honda","Or is it just instinct?
-Do insects even have emotions similar to
-humans?");
+Do insects even have emotions similar
+to humans?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310400_03_040");
-MsgDisp("Honda","Haha...
-I guess I'm saying something weird.");
+MsgDisp("Honda","Haha... I guess I'm saying something weird.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

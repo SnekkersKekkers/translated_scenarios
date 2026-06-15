@@ -13,8 +13,7 @@ ChMotion(1,0,1);
 VoicePlay("B070100001_01_250");
 MsgDisp("Kazama","...What's up?
 Did someone say something weird to you?");
-MsgDisp("主人公","Eh?
-It's not like that.");
+MsgDisp("主人公","Eh? It's not like that.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,4);

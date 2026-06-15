@@ -13,8 +13,7 @@ MsgDisp("主人公","Wow, pretty...!");
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B140400100_04_000");
-MsgDisp("Nanatsumori","Yeah.
-It's particularly beautiful this year.");
+MsgDisp("Nanatsumori","Yeah. It's particularly beautiful this year.");
 MsgDisp("主人公","Particularly?");
 ChMotion(4,0,1);
 VoicePlay("B140400100_04_010");

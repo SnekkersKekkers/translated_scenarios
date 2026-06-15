@@ -18,15 +18,15 @@ free period.");
     VoicePlay("Q120300000_03_010");
     MsgDisp("Honda","I pulled you around, aren't you tired?");
     MsgDisp("主人公","Nope.
-Thanks to our fun guide, I'm not tired at
-all.");
+Thanks to our fun guide, I'm not tired
+at all.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("Q120300000_03_020");
     MsgDisp("Honda","Really?
-It's our last night, but let's enjoy the
-rest!");
+It's our last night, but let's enjoy
+the rest!");
     MsgDisp("主人公","Hehe, yeah.");
     break ;
     case 3:
@@ -76,8 +76,7 @@ I'm happy I was able to look around with
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","Sigh...
-So the school trip is over tomorrow.
+    MsgDisp("主人公","Sigh... So the school trip is over tomorrow.
 Early, isn't it?");
     ChEye(3,4);
     ChMouth(3,3);
@@ -120,9 +119,9 @@ Isn't today the end of the school trip?");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("Q120300000_03_130");
-    MsgDisp("Honda","Yes, but even if you go back to Habataki
-City, you can still do free activities,
-right?");
+    MsgDisp("Honda","Yes, but even if you go back to
+Habataki City, you can still do free
+activities, right?");
     MsgDisp("主人公","Hmm, I see.
 I guess so.");
     ChEye(3,4);

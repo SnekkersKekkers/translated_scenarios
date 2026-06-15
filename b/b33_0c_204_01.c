@@ -31,9 +31,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C20401_07_010");
-MsgDisp("Mikage","That's right.
-But... I still don't understand the rumours
-about being able to hear inner voices here...");
+MsgDisp("Mikage","That's right. But...
+I still don't understand the rumours about
+being able to hear inner voices here...");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -71,8 +71,8 @@ VoicePlay("B330C20401_07_040");
 MsgDisp("Mikage","Yes yes, I see how it is.
 I'm alone in any case.");
 MsgDisp("主人公","(Hehe.
-I wonder if ｛Mikage＊＊｝ is lonely living
-alone?)");
+I wonder if ｛Mikage＊＊｝ is lonely
+living alone?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(5,0);

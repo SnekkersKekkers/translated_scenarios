@@ -85,8 +85,8 @@ pretty happy, having such dedicated support.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("H280100000_01_090");
-    MsgDisp("Kazama","Just for today, I'll lend you to the track
-team.
+    MsgDisp("Kazama","Just for today, I'll lend you to the
+track team.
 Look, everyone's waiting for you.");
     MsgDisp("主人公","(｛Kazama＊＊｝, thank you.
 Alright, we'll all definitely win today!)");

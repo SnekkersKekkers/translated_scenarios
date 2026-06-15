@@ -16,8 +16,7 @@ ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,4);
 VoicePlay("P733100001_31_010");
-MsgDisp("Goro","Yes.
-I love party dresses.");
+MsgDisp("Goro","Yes. I love party dresses.");
 SEPlay("EV_SE_038");
 SEWait();
 ChEye(31,0);

@@ -1,7 +1,8 @@
 BGOpen("sc210",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ahh, such nice weather, it feels really good...)");
+MsgDisp("主人公","(Ahh, such nice weather, it feels really
+good...)");
 VoicePlay("D010300400_03_000");
 MsgDisp("Honda?","Yay, good job!");
 MsgDisp("主人公","Eh?");
@@ -35,8 +36,8 @@ MsgDisp("主人公","Hehe, yeah.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300400_03_050");
-MsgDisp("Honda","Come back here again when you're ready to lay
-eggs!");
+MsgDisp("Honda","Come back here again when you're ready to
+lay eggs!");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

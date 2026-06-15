@@ -41,8 +41,8 @@ Thank you.");
     ChMotion(4,0);
     VoicePlay("L040400001_04_030");
     MsgDisp("Nanatsumori","......?
-Are you sure you're giving this to the right
-person?");
+Are you sure you're giving this to the
+right person?");
     MsgDisp("主人公","You're ｛Nanatsumori＊｝, right?");
     ChEye(4,2);
     ChMouth(4,2);

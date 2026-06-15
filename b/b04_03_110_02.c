@@ -42,15 +42,14 @@ Yes, I'll learn how to swim first.");
         ChMouth(3,2);
         ChMotion(3,1);
         VoicePlay("B040311002_03_030");
-        MsgDisp("Honda","Eh—.
-You don't have to put it like that.
+        MsgDisp("Honda","Eh—. You don't have to put it like that.
 I'm starting to float a little you know?");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040311002_03_040");
-        MsgDisp("Honda","You're right, speed isn't the main issue
-here...
+        MsgDisp("Honda","You're right, speed isn't the main
+issue here...
 But floating is the first step, right?");
         MsgDisp("主人公","｛Honda＊＊｝, you always look so relaxed
 floating, don't you?");
@@ -62,8 +61,8 @@ floating, don't you?");
 There's kind of a bite to your words today.");
         MsgDisp("主人公","Eh, that's not what I meant!");
         MsgDisp("主人公","It's just that I think it's amazing that
-｛Honda＊＊｝ enjoys even the things he's bad
-at.");
+｛Honda＊＊｝ enjoys even the things he's
+bad at.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -83,8 +82,7 @@ about why I always look like I'm having fun.");
         VoicePlay("B040311002_03_080");
         MsgDisp("Honda","That's because of you.
 Because I'm together with you.");
-        MsgDisp("主人公","Hehe.
-Yeah, thank you!");
+        MsgDisp("主人公","Hehe. Yeah, thank you!");
         break ;
         default :
         DbgAssert(1);

@@ -7,8 +7,7 @@ MsgClose();
 BGOpen("wf200",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The sunset is so beautiful from here...
-...Hmm?
-Over there, is that—)");
+...Hmm? Over there, is that—)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ScrFadeOut(0,0);
@@ -46,8 +45,8 @@ StlEye(6,0,0);
 StlEyeOpenLevel(6,5,1);
 StlMouth(6,1);
 VoicePlay("D120C00100_06_000");
-MsgDisp("Himuro","Kojiro-sensei, I didn't tell you to stop, did
-I?");
+MsgDisp("Himuro","Kojiro-sensei, I didn't tell you to stop,
+did I?");
 StlEye(7,1,0);
 StlEyeOpenLevel(7,0,1);
 StlMouth(7,1);

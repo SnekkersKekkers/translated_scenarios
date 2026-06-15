@@ -10,8 +10,7 @@ ChOpen(2,254,3,2,0,#1,#1,0,0);
 VoicePlay("P740200001_02_000");
 MsgDisp("Sassa","Are you alright?
 You're not injured?");
-MsgDisp("主人公","Yeah.
-But, I failed...");
+MsgDisp("主人公","Yeah. But, I failed...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

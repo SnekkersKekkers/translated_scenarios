@@ -44,8 +44,7 @@ Feel free to go by yourself.");
         MsgDisp("主人公","I'm serious.");
         VoicePlay("B040408402_04_040");
         MsgDisp("Nanatsumori","What do you mean by exercise?");
-        MsgDisp("主人公","Umm....
-Some light jogging or stretching?");
+        MsgDisp("主人公","Umm.... Some light jogging or stretching?");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,2,1);
@@ -70,13 +69,12 @@ even in everyday life.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040408402_04_080");
-        MsgDisp("Nanatsumori","In a way, it was suited for a homebody like
-me.");
+        MsgDisp("Nanatsumori","In a way, it was suited for a homebody
+like me.");
         MsgDisp("主人公","Hehe!");
         ChMotion(4,0,1);
         VoicePlay("B040408402_04_090");
-        MsgDisp("Nanatsumori","So?
-What are you doing?");
+        MsgDisp("Nanatsumori","So? What are you doing?");
         MsgDisp("主人公","Huh?");
         ChEye(4,1);
         ChMouth(4,3);
@@ -88,8 +86,7 @@ bit. Dash!");
         MsgClose();
         ChClose(4,0,30);
         SEPlay("EV_SE_FOOT_005",1);
-        MsgDisp("主人公","Eh∋
-｛Nanatsumori＊｝, wait up～!");
+        MsgDisp("主人公","Eh∋ ｛Nanatsumori＊｝, wait up～!");
         SEPlay("EV_SE_FOOT_007",0.25);
         SEWait();
         VoicePlay("B040408402_04_110");

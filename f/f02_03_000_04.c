@@ -9,20 +9,17 @@ MsgDisp("主人公","｛Honda＊＊｝'s birthday is coming up, right?");
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300004_03_000");
-MsgDisp("Honda","Mhm.
-My sister told me yesterday.");
+MsgDisp("Honda","Mhm. My sister told me yesterday.");
 ChMotion(3,4);
 VoicePlay("F020300004_03_010");
 MsgDisp("Honda","Because in our family, we give each other
 gifts whenever it's someone's birthday.");
-MsgDisp("主人公","Huh?
-You must be close.");
+MsgDisp("主人公","Huh? You must be close.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300004_03_020");
-MsgDisp("Honda","Yep～
-And I've never missed a gift.");
+MsgDisp("Honda","Yep～ And I've never missed a gift.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -43,14 +40,12 @@ VoicePlay("F020300004_03_050");
 MsgDisp("Honda","I gave her the wrong product.
 There were way too many types, and back then,
 I had no clue how to tell them apart.");
-MsgDisp("主人公","Huh?
-Back then?");
+MsgDisp("主人公","Huh? Back then?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300004_03_060");
-MsgDisp("Honda","Mhm.
-I'm good at telling them apart now.
+MsgDisp("Honda","Mhm. I'm good at telling them apart now.
 The best way to learn is by doing!");
 MsgDisp("主人公","('Doing'...
 Maybe ｛Honda＊＊｝ put makeup on?)");

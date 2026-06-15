@@ -37,8 +37,7 @@ Good luck with work.");
     ChNanaType(0);
     ChOpen(4,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250400000_04_030");
-    MsgDisp("Nanatsumori","Yo.
-Good work.");
+    MsgDisp("Nanatsumori","Yo. Good work.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Welcome!");
     ChMotion(4,0,1);
@@ -67,21 +66,19 @@ They look delicious...)");
     ChOpen(4,255,1,4,4,#1,#1,0,0);
     VoicePlay("I250400000_04_060");
     MsgDisp("Nanatsumori","Come on.
-Escaping reality while at work isn't allowed,
-right?");
+Escaping reality while at work isn't
+allowed, right?");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("I250400000_04_070");
-    MsgDisp("Nanatsumori","Haha.
-Good work.");
+    MsgDisp("Nanatsumori","Haha. Good work.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,2);
     VoicePlay("I250400000_04_080");
-    MsgDisp("Nanatsumori","...Ah.
-Aah, this is poison to my eyes.
+    MsgDisp("Nanatsumori","...Ah. Aah, this is poison to my eyes.
 Hm, poison, or heaven?");
     MsgDisp("主人公","...Right?");
     ChEye(4,0);
@@ -89,8 +86,8 @@ Hm, poison, or heaven?");
     ChMotion(4,0);
     VoicePlay("I250400000_04_090");
     MsgDisp("Nanatsumori","Mm.
-I'll buy this as an apology for saying too
-much.");
+I'll buy this as an apology for saying
+too much.");
     MsgDisp("主人公","Hehe, thank you very much!");
     ChEye(4,0);
     ChMouth(4,4);

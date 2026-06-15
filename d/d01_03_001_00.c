@@ -80,8 +80,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D010300100_03_060");
-MsgDisp("Honda","Okay.
-I'll also give you a special poster.");
+MsgDisp("Honda","Okay. I'll also give you a special poster.");
 MsgDisp("主人公","You're not going to take this one off right?");
 ChEye(3,1);
 ChMouth(3,4);
@@ -100,8 +99,7 @@ ChMotion(3,1,1);
 VoicePlay("D010300100_03_080");
 MsgDisp("Honda","I put a poster up in my sister's room.
 What about putting it in your room?");
-MsgDisp("主人公","Um...
-I'll think about it?");
+MsgDisp("主人公","Um... I'll think about it?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

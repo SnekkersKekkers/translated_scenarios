@@ -24,8 +24,7 @@ Were you satisfied?");
     MsgDisp("主人公","No, I wanted to win...");
     ChEye(5,4);
     VoicePlay("H4A0500001_05_020");
-    MsgDisp("Hiiragi","I see.
-Well, to the next stage, then.");
+    MsgDisp("Hiiragi","I see. Well, to the next stage, then.");
     MsgDisp("主人公","Huh?");
     ChEye(5,3);
     ChMotion(5,4);

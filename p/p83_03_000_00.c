@@ -15,8 +15,7 @@ is...organising the documents.)");
     SEWait();
     ChOpen(3,254,0,0,4,#1,#1,0,0);
     VoicePlay("P830300000_03_000");
-    MsgDisp("Honda","Huh?
-What are you up to?");
+    MsgDisp("Honda","Huh? What are you up to?");
     MsgDisp("主人公","Ah, ｛Honda＊＊｝. The student council
 committee have been entrusted with managing
 the cultural festival.");

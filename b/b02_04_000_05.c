@@ -14,5 +14,4 @@ VoicePlay("B020400005_04_010");
 MsgDisp("Nanatsumori","It's way too early to be dressing ahead of
 the season...
 That's just being underdressed.");
-MsgDisp("主人公","(Ugh...
-I definitely dressed too lightly...)");
+MsgDisp("主人公","(Ugh... I definitely dressed too lightly...)");

@@ -28,8 +28,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B350700000_07_030");
-    MsgDisp("Mikage","Oh.
-I'm gonna scold them～");
+    MsgDisp("Mikage","Oh. I'm gonna scold them～");
     MsgClose();
     ScrFadeOut(0);
     break ;
@@ -38,9 +37,9 @@ I'm gonna scold them～");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B350700000_07_040");
-    MsgDisp("Mikage","Huh?
-Really? My bad, my bad, I'll have to
-apologise to those guys too.");
+    MsgDisp("Mikage","Huh? Really?
+My bad, my bad, I'll have to apologise to
+those guys too.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,5);

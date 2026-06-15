@@ -7,10 +7,8 @@ ChOpen(22,254,0,3,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("L020D00006_22_000");
-MsgDisp("Hikaru","Mari～♪
-Today's Valentine's.");
-MsgDisp("主人公","Yeah.
-But I didn't prepare any chocolate.");
+MsgDisp("Hikaru","Mari～♪ Today's Valentine's.");
+MsgDisp("主人公","Yeah. But I didn't prepare any chocolate.");
 ChEye(22,5);
 ChMouth(22,5);
 ChMotion(22,5,1);

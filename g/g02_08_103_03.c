@@ -18,8 +18,8 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("G020810303_08_020");
-MsgDisp("Shirahane","You were approached by a strange man, weren't
-you?");
+MsgDisp("Shirahane","You were approached by a strange man,
+weren't you?");
 MsgDisp("主人公","Now that I think about it...");
 ChEye(8,1);
 ChMouth(8,4);
@@ -37,8 +37,8 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("G020810303_08_050");
-MsgDisp("Shirahane","...Actually, it was my fault for being
-late...
+MsgDisp("Shirahane","...Actually, it was my fault for
+being late...
 I'm sorry!");
 MsgDisp("主人公","(Hehe, I'm counting on you, ｛Daichi＊＊｝!)");
 BGMStop();

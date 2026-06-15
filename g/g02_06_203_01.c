@@ -4,10 +4,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620301_06_000");
-MsgDisp("Himuro","Recently, I've been thinking about 'love' a
-bit.");
-MsgDisp("主人公","Eh-∋
-Why?");
+MsgDisp("Himuro","Recently, I've been thinking about 'love'
+a bit.");
+MsgDisp("主人公","Eh-∋ Why?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -19,8 +18,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620301_06_020");
 MsgDisp("Himuro","But I don't really get it.
-Everyone's idea of love is different, after
-all.");
+Everyone's idea of love is different,
+after all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

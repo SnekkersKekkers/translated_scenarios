@@ -2,11 +2,9 @@ BGOpen("ho210",0);
 SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("Z312200000_22_000");
-MsgDisp("Hikaru","Hi～!
-Thanks for calling, Mari.
+MsgDisp("Hikaru","Hi～! Thanks for calling, Mari.
 It's Hikaru♪");
-MsgDisp("主人公","Hehe!
-Could I ask you for some advice?");
+MsgDisp("主人公","Hehe! Could I ask you for some advice?");
 VoicePlay("Z312200000_22_010");
 MsgDisp("Hikaru","What, what?");
 MsgDisp("主人公","Um...

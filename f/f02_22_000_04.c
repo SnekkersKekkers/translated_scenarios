@@ -12,8 +12,7 @@ ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F022200004_22_000");
 MsgDisp("Hikaru","That's right～♪
-November 22nd, Twins Day! 
-Aha▼");
+November 22nd, Twins Day! Aha▼");
 MsgDisp("主人公","Hehe!");
 ChEye(22,2);
 ChMouth(22,0);

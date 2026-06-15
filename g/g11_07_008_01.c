@@ -16,8 +16,8 @@ BGMPlay("BGM_C07_MIKAGE_A");
 ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛Mikage＊＊｝.
-You've brought the gardening club activities
-record.");
+You've brought the gardening club
+activities record.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -30,10 +30,10 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700801_07_010");
 MsgDisp("Mikage","Teacher's privileges.
-Looking over at activity logs is fun, you
-know?");
-MsgDisp("主人公","Plant growth records are interesting, aren't
-they?");
+Looking over at activity logs is fun,
+you know?");
+MsgDisp("主人公","Plant growth records are interesting,
+aren't they?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -54,8 +54,8 @@ VoicePlay("G110700801_07_040");
 MsgDisp("Mikage","The girl who used to make a fuss every time
 she saw a bug now casually picks them up with
 her hands.");
-MsgDisp("主人公","But, touching them with my hands is still a
-bit...");
+MsgDisp("主人公","But, touching them with my hands is still
+a bit...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

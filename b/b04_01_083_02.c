@@ -90,17 +90,17 @@ I'm sure we could have a normal conversation.");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_080");
         MsgDisp("Kazama","Wait a second.
-Don't just suddenly put me on the spot like
-that...");
+Don't just suddenly put me on the spot
+like that...");
         ChEye(1,4);
         ChMouth(1,4);
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040108302_01_090");
-        MsgDisp("Kazama","...THIS.
-IS.
-MY. INNER. VOICE. BEEP.");
+        MsgDisp("Kazama","...THIS. IS. MY.
+INNER.
+VOICE. BEEP.");
         MsgDisp("主人公","Hehe, your inner voice did a self
 introduction too?");
         ChEye(1,2);

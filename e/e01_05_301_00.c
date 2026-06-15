@@ -19,8 +19,7 @@ ChMotion(4,1,1);
 VoicePlay("E010530100_04_010");
 MsgDisp("Nanatsumori","You just made a face that said 'again? '.
 ...Well, I guess 'again' is right.");
-MsgDisp("主人公","Hehe.
-Shall we look for it together?");
+MsgDisp("主人公","Hehe. Shall we look for it together?");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChPosition(4,2);
 Wait(40,0);
@@ -57,8 +56,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010530100_04_030");
 MsgDisp("Nanatsumori","Thanks so much.
-This one's the gold version so it's really
-rare.");
+This one's the gold version so it's
+really rare.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

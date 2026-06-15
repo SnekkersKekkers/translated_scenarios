@@ -63,8 +63,7 @@ You can relax.");
         ChMotion(6,3);
         ChCheek(6,0);
         VoicePlay("B040608202_06_060");
-        MsgDisp("Himuro","Yeah.
-I need to focus a bit more.");
+        MsgDisp("Himuro","Yeah. I need to focus a bit more.");
         MsgDisp("主人公","That's not necessary.");
         ChEye(6,0);
         ChMouth(6,0);

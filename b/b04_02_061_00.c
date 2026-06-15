@@ -6,8 +6,8 @@ ChMouth(2,3);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040206100_02_000");
-MsgDisp("Sassa","All the heat and sand, it really feels like
-summer.");
+MsgDisp("Sassa","All the heat and sand, it really feels
+like summer.");
 MsgSel("Should we race out into the sea?","Let's eat at the beach house!","Want to search for seashells?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040206100_02_010");
-    MsgDisp("Sassa","Sure, but how far out are you planning to
-swim?!");
+    MsgDisp("Sassa","Sure, but how far out are you planning
+to swim?!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

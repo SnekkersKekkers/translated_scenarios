@@ -2,14 +2,12 @@ BGOpen("sc812",0);
 ChLayout(1);
 SEPlay("EV_SE_867",1,0.8);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Hmm?
-The boy's room looks lively...)");
+MsgDisp("主人公","(...Hmm? The boy's room looks lively...)");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(21,30,7,0,0,#1,#1,0,0);
 VoicePlay("Q212100000_21_000");
-MsgDisp("Michiru","Hehe.
-Mari, are you curious?");
+MsgDisp("Michiru","Hehe. Mari, are you curious?");
 MsgDisp("主人公","Ah, ｛みちる＊｝.
 It's kind of loud, isn't it?
 I wonder what's happening.");
@@ -26,8 +24,7 @@ switch (MsgSelRsltGet()){
     ChMouth(21,3);
     ChMotion(21,4);
     VoicePlay("Q212100000_21_020");
-    MsgDisp("Michiru","Phew...
-I'm getting nervous.
+    MsgDisp("Michiru","Phew... I'm getting nervous.
 Let's go!");
     break ;
     case 1:

@@ -13,8 +13,8 @@ Thanks for coming with me.");
     ChMotion(2,0);
     VoicePlay("Q080200001_02_000");
     MsgDisp("Sassa","Yes, this time from me.
-Wanna spend the next free period together
-too?");
+Wanna spend the next free period
+together too?");
     MsgDisp("主人公","Sure!");
     ChEye(2,0);
     ChMouth(2,4);
@@ -23,8 +23,7 @@ too?");
     MsgDisp("Sassa","Okay, I'll see you here tomorrow morning!");
     break ;
     case 3:
-    MsgDisp("主人公","Ahh...
-It was so much fun!");
+    MsgDisp("主人公","Ahh... It was so much fun!");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -37,8 +36,7 @@ It was so much fun!");
     VoicePlay("Q080200001_02_030");
     MsgDisp("Sassa","Shall we spend tomorrow's free period
 together too?");
-    MsgDisp("主人公","Eh, really?
-Yay!");
+    MsgDisp("主人公","Eh, really? Yay!");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,1);
@@ -54,8 +52,8 @@ Meet me here next time.");
     ChMotion(2,4);
     VoicePlay("Q080200001_02_050");
     MsgDisp("Sassa","Me too.
-I wanna go back to this morning one more
-time.");
+I wanna go back to this morning one
+more time.");
     MsgDisp("主人公","Hehe, same!");
     ChEye(2,0);
     ChMouth(2,0);
@@ -70,8 +68,7 @@ together too!");
     ChMotion(2,0);
     ChCheek(2,0);
     VoicePlay("Q080200001_02_070");
-    MsgDisp("Sassa","Good.
-Meet you back here tomorrow.
+    MsgDisp("Sassa","Good. Meet you back here tomorrow.
 See you then.");
     break ;
     default :

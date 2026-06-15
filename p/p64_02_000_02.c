@@ -3,8 +3,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P640200002_02_000");
-MsgDisp("Sassa","Ehhh—.
-There's all kinds of herbal tea, huh?");
+MsgDisp("Sassa","Ehhh—. There's all kinds of herbal tea, huh?");
 MsgDisp("主人公","｛Sassa＊＊｝, do you like it?");
 ChEye(2,0);
 ChMouth(2,4);

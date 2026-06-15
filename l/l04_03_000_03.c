@@ -7,15 +7,14 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,5);
     VoicePlay("L040300003_03_000");
     MsgDisp("Honda","Wow, amazing!
-Which shop did you order these decorations
-from?");
+Which shop did you order these
+decorations from?");
     MsgDisp("主人公","It's handmade, you know?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300003_03_010");
-    MsgDisp("Honda","What!?
-You did, for me?
+    MsgDisp("Honda","What!? You did, for me?
 I feel a little bad.");
     ChEye(3,0);
     ChMouth(3,3);

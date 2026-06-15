@@ -13,5 +13,5 @@ VoicePlay("B020100012_01_010");
 MsgDisp("Kazama","You wore it the other day.
 ...Jeez, you must have forgotten.");
 MsgDisp("主人公","(Ugh, I really messed up...
-I need to keep better track of what I've 
-worn.)");
+I need to keep better track of what
+I've worn.)");

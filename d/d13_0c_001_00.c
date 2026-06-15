@@ -24,14 +24,13 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D130C00100_06_000");
-MsgDisp("Himuro","Yeah.
-Now, we're altogether.");
+MsgDisp("Himuro","Yeah. Now, we're altogether.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("D130C00100_07_010");
-MsgDisp("Mikage","Then, shall we say \"Merry Christmas\" one more
-time?");
+MsgDisp("Mikage","Then, shall we say \"Merry Christmas\" one
+more time?");
 MsgDisp("主人公","Hehe, yes.");
 ChEye(5,3);
 ChMouth(5,3);

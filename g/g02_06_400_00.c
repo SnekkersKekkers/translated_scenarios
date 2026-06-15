@@ -35,8 +35,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("G020640000_06_040");
-MsgDisp("Himuro","Yeah.
-The spirit horse.");
+MsgDisp("Himuro","Yeah. The spirit horse.");
 MsgDisp("主人公","Do you dislike it?");
 ChEye(6,1);
 ChMouth(6,0);

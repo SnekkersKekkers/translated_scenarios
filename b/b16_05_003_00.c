@@ -18,8 +18,8 @@ I have already been defeated.");
     NSSEye(5,4);
     NSSMouth(5,3);
     VoicePlay("B160500300_05_020");
-    MsgDisp("Hiiragi","Yes, please take your time in thinking about
-it.");
+    MsgDisp("Hiiragi","Yes, please take your time in thinking
+about it.");
     break ;
     default :
     DbgAssert(0);

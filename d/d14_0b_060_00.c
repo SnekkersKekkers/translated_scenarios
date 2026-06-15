@@ -11,8 +11,7 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("D140B06000_04_000");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","Huh?
-｛Nanatsumori＊｝, what's wrong?");
+MsgDisp("主人公","Huh? ｛Nanatsumori＊｝, what's wrong?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -46,8 +45,7 @@ MsgDisp("Honda","It's alright.
 You two are lovey dovey childhood friends
 after all!");
 ChMouth(4,3);
-MsgDisp("主人公","Hey...
-｛Honda＊＊｝!");
+MsgDisp("主人公","Hey... ｛Honda＊＊｝!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

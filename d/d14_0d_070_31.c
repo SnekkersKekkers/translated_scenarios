@@ -43,8 +43,8 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("D140D07031_22_030");
 MsgDisp("Hikaru","Hmm?");
-MsgDisp("主人公","(These two are opposites when it comes to
-love.)");
+MsgDisp("主人公","(These two are opposites when it comes
+to love.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

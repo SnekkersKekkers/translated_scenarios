@@ -8,8 +8,7 @@ ChEyeOpenLevel(8,10);
 ScrFadeIn(0);
 ChMotion(8,1,1);
 VoicePlay("B040811101_08_000");
-MsgDisp("Shirahane","Uh-oh!
-Damn, I got caught on the ice.");
+MsgDisp("Shirahane","Uh-oh! Damn, I got caught on the ice.");
 MsgSel("Are you alright?","You have an amazing sense of balance!","Even monkeys fall from trees, right?");
 switch (MsgSelRsltGet()){
     case 0:

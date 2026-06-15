@@ -64,8 +64,7 @@ guard once in a while.");
         ChMotion(6,0);
         VoicePlay("B040602102_06_060");
         MsgDisp("Himuro","...I also want to get some form of payback.");
-        MsgDisp("主人公","Ehh.
-Payback...");
+        MsgDisp("主人公","Ehh. Payback...");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);

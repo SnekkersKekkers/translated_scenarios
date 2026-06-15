@@ -22,14 +22,13 @@ MsgClose();
 ChOpen(1,255,0,0,1,#1,#1,0,2);
 ChMotion(1,1);
 VoicePlay("E010420000_01_010");
-MsgDisp("Kazama","Even though I was calling him, he wouldn't
-stop.");
+MsgDisp("Kazama","Even though I was calling him, he
+wouldn't stop.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("E010420000_04_020");
-MsgDisp("Nanatsumori","Ah...
-I was listening to music.
+MsgDisp("Nanatsumori","Ah... I was listening to music.
 My bad.");
 ChEye(1,2);
 ChMouth(1,2);
@@ -42,8 +41,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010420000_01_030");
 MsgDisp("Kazama","So, why did you suddenly appear?");
-MsgDisp("主人公","Me?
-I was out alone.
+MsgDisp("主人公","Me? I was out alone.
 Weren't you two together?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -53,8 +51,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("E010420000_04_030");
-MsgDisp("Nanatsumori","Nope.
-So, what do you need, Kazama?");
+MsgDisp("Nanatsumori","Nope. So, what do you need, Kazama?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -100,8 +97,8 @@ SEPlay("EV_SE_665",0.5,0.3);
 SEStop("EV_SE_717",1);
 Wait(20,0);
 MsgDisp("主人公","(｛Nanatsumori＊｝ is smiling.
-He must have heard ｛Kazama＊＊｝ calling
-him...)");
+He must have heard ｛Kazama＊＊｝
+calling him...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -12,5 +12,4 @@ VoicePlay("B020602108_06_010");
 MsgDisp("Himuro","N-Not really...
 But I'll expect a lot when you wear something
 like that.");
-MsgDisp("主人公","(Yay!
-｛Himuro＊＊｝ seems to be really happy!)");
+MsgDisp("主人公","(Yay! ｛Himuro＊＊｝ seems to be really happy!)");

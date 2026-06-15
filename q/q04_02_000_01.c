@@ -42,10 +42,9 @@ in Nagasaki sound so exciting?");
     ChMotion(2,3);
     VoicePlay("Q040200001_02_040");
     MsgDisp("Sassa","Yeah, this is my first time after all.
-And I'm even with you, so I'm sure it'll be a
-blast.");
-    MsgDisp("主人公","Hehe!
-Well then, let's go!");
+And I'm even with you, so I'm sure it'll be
+a blast.");
+    MsgDisp("主人公","Hehe! Well then, let's go!");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,1);

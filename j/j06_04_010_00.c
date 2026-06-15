@@ -15,8 +15,7 @@ Where should we meet on that day?");
         MsgDisp("主人公","Let's meet at the ｛待ち合わせ場所｝.
 Sound good?");
         VoicePlay("J060401000_04_010");
-        MsgDisp("Nanatsumori","OK.
-Don't oversleep on Sunday.");
+        MsgDisp("Nanatsumori","OK. Don't oversleep on Sunday.");
         MsgDisp("主人公","Worry about yourself, ｛Nanatsumori＊｝!");
         VoicePlay("J060401000_04_020");
         MsgDisp("Nanatsumori","Cheeky.
@@ -45,9 +44,7 @@ I'm looking forward to Sunday!)");
         MsgDisp("Nanatsumori","Ahh...not good then?");
         MsgDisp("主人公","Yeah...");
         VoicePlay("J060401000_04_040");
-        MsgDisp("Nanatsumori","Okay.
-I'll try again another time.
-Bye.");
+        MsgDisp("Nanatsumori","Okay. I'll try again another time. Bye.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(He went out of his way to invite me...

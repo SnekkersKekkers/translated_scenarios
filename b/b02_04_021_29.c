@@ -6,8 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020402129_04_000");
 MsgDisp("Nanatsumori","Ooh, that's nice.");
-MsgDisp("主人公","Eh?
-What I'm wearing today?");
+MsgDisp("主人公","Eh? What I'm wearing today?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

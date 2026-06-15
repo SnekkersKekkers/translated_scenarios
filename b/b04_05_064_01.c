@@ -14,8 +14,7 @@ full-fledged Habataki citizen?");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("B040506401_05_010");
-MsgDisp("Hiiragi","Yes.
-Whoever says it first wins, after all.");
+MsgDisp("Hiiragi","Yes. Whoever says it first wins, after all.");
 SEPlay("EV_SE_022",1);
 MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, we have to hurry and buy
 something and head to the fireworks grounds.");
@@ -25,8 +24,7 @@ VoicePlay("B040506401_05_020");
 MsgDisp("Hiiragi","Haha.
 This year, the theatre troupe staff are
 saving spaces for us.");
-MsgDisp("主人公","Ehh?
-Amazing, as expected of the chairman!");
+MsgDisp("主人公","Ehh? Amazing, as expected of the chairman!");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -37,8 +35,7 @@ ChEye(5,3);
 VoicePlay("B040506401_05_040");
 MsgDisp("Hiiragi","So with that being said, we can enjoy the
 festival until the last minute.");
-MsgDisp("主人公","Yay.
-Then, first how about some yakisoba?");
+MsgDisp("主人公","Yay. Then, first how about some yakisoba?");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,4);

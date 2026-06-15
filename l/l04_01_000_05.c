@@ -7,8 +7,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("L040100005_01_000");
     MsgDisp("Kazama","Wow, this is handmade, right?");
-    MsgDisp("主人公","Yeah.
-I did my best.");
+    MsgDisp("主人公","Yeah. I did my best.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -16,8 +15,7 @@ I did my best.");
     MsgDisp("Kazama","I see...
 Well, having a lot of different things is
 good too, right?");
-    MsgDisp("主人公","Yeah.
-I hope it suits your taste.");
+    MsgDisp("主人公","Yeah. I hope it suits your taste.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -25,8 +23,8 @@ I hope it suits your taste.");
     MsgDisp("Kazama","Thanks.
 I'll eat it later.");
     MsgDisp("主人公","(Did I add too much on it?
-Ah...maybe, did I add something he doesn't
-like?)");
+Ah...maybe, did I add something he
+doesn't like?)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -74,8 +72,7 @@ Well, that's just like you, though.");
     ChMouth(1,4);
     ChMotion(1,1);
     VoicePlay("L040100005_01_070");
-    MsgDisp("Kazama","Let's see...
-Hm?
+    MsgDisp("Kazama","Let's see... Hm?
 Well, I can see how serious you were.");
     MsgDisp("主人公","...Was it too much?");
     ChEye(1,2);

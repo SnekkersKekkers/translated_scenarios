@@ -23,8 +23,8 @@ MsgDisp("Honda","Hmm, I see.
 You're kind of like the hub in our group.");
 ChSet(3,0);
 VoicePlay("B070300001_03_320");
-MsgDisp("Honda","Like an airport hub, I mean —
-you know the kind?");
+MsgDisp("Honda","Like an airport hub, I mean — you know
+the kind?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

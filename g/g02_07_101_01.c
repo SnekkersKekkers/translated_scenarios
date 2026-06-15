@@ -18,8 +18,7 @@ ChMouth(7,5);
 ChMotion(7,5);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020710101_07_020");
-MsgDisp("Mikage","Uwah∋
-Don't startle me like that.");
+MsgDisp("Mikage","Uwah∋ Don't startle me like that.");
 MsgDisp("主人公","Phew, I was surprised.");
 ChEye(7,0);
 ChMouth(7,0);

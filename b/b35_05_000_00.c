@@ -35,8 +35,7 @@ Let's go.");
     ChMotion(5,2);
     ChEyeOpenLevel(5,9);
     VoicePlay("B350500000_05_040");
-    MsgDisp("Hiiragi","I see.
-Well, I shouldn't push my luck.");
+    MsgDisp("Hiiragi","I see. Well, I shouldn't push my luck.");
     MsgDisp("主人公","I'm sorry.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,0);

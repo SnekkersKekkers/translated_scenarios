@@ -30,8 +30,8 @@ It looks like it might burn, is that okay?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040121202_01_020");
-    MsgDisp("Kazama","Ahh.
-Nice. It does seem like it'll be useful.
+    MsgDisp("Kazama","Ahh. Nice.
+It does seem like it'll be useful.
 How much is it?");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

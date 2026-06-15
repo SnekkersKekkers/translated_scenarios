@@ -12,8 +12,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F100230000_22_000");
-MsgDisp("Hikaru","Mari!
-You came in at a good time～♪");
+MsgDisp("Hikaru","Mari! You came in at a good time～♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);

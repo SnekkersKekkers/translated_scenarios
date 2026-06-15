@@ -42,8 +42,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070201000_02_040");
 MsgDisp("Sassa","But you know, that's completely wrong.
-How can I put working out in the same slot as
-love?");
+How can I put working out in the same slot
+as love?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -68,8 +68,7 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ChCheek(2,10);
 VoicePlay("B070201000_02_080");
-MsgDisp("Sassa","Hm?
-Huh, why am I talking about you?
+MsgDisp("Sassa","Hm? Huh, why am I talking about you?
 I thought we were talking about love...");
 ChEye(2,0);
 ChMouth(2,0);
@@ -82,14 +81,12 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B070201000_02_100");
-MsgDisp("Sassa","Wait.
-Actually, forget it.");
+MsgDisp("Sassa","Wait. Actually, forget it.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("B070201000_02_110");
-MsgDisp("Sassa","I'm going to run a bit.
-Bye.");
+MsgDisp("Sassa","I'm going to run a bit. Bye.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

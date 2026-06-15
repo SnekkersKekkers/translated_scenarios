@@ -18,9 +18,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("X210700000_07_020");
-MsgDisp("Mikage","You were chosen by your fellow classmates who
-saw you in the closest proximity for three
-years.");
+MsgDisp("Mikage","You were chosen by your fellow classmates
+who saw you in the closest proximity for
+three years.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

@@ -13,8 +13,8 @@ switch (ChPrmGet(7,6)){
 I'm sorry I dragged you around.
 Do your legs hurt?");
     MsgDisp("主人公","I'm totally fine.
-I really enjoyed the Nagasaki extracurricular
-lesson.");
+I really enjoyed the Nagasaki
+extracurricular lesson.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
@@ -45,15 +45,14 @@ extracurricular lesson.");
     VoicePlay("Q120700000_07_040");
     MsgDisp("Mikage","Alright, there's no bell ringing but this is
 still the end.");
-    MsgDisp("主人公","Ok!
-Thank you very much for today!");
+    MsgDisp("主人公","Ok! Thank you very much for today!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("Q120700000_07_050");
     MsgDisp("Mikage","It's my pleasure.
-Oh, I'll spare you from submitting the
-report.");
+Oh, I'll spare you from submitting
+the report.");
     ChClose(7);
     MsgDisp("主人公","(Hehe! That was so much fun.
 I want to write about it.
@@ -90,8 +89,7 @@ Don't get soggy.");
     MsgDisp("Mikage","Ah yes, the MVP award.
 If you see the tulips every year, you get
 reminded of this school trip.");
-    MsgDisp("主人公","Yes.
-Will you also remember, ｛Mikage＊＊｝?");
+    MsgDisp("主人公","Yes. Will you also remember, ｛Mikage＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

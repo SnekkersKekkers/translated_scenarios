@@ -1,8 +1,7 @@
 BGOpen("sc132",1);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh...
-It's snowing, huh?
+MsgDisp("主人公","(Huh... It's snowing, huh?
 I need to watch my step on the way home.)");
 VoicePlay("D010600400_06_000");
 MsgDisp("Himuro?","You're slow.
@@ -52,19 +51,17 @@ StlMouth(6,1);
 VoicePlay("D010600400_06_030");
 MsgDisp("Himuro","But it's pointless.
 It won't work against me...");
-MsgDisp("主人公","(Woah...
-｛Himuro＊＊｝ caught the snowball!)");
+MsgDisp("主人公","(Woah... ｛Himuro＊＊｝ caught the snowball!)");
 VoicePlay("D010600400_40_020");
 MsgDisp("Student A","My bad, Himuro!
 My hand slipped!");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600400_06_040");
-MsgDisp("Himuro","...Hmph.
-This is nothing.");
+MsgDisp("Himuro","...Hmph. This is nothing.");
 VoicePlay("D010600400_41_030");
-MsgDisp("Student B","I guess that's exactly what you'd expect from
-Himuro?");
+MsgDisp("Student B","I guess that's exactly what you'd expect
+from Himuro?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
@@ -122,8 +119,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("D010600400_06_100");
-MsgDisp("Himuro","...Oh.
-That's fine then.");
+MsgDisp("Himuro","...Oh. That's fine then.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

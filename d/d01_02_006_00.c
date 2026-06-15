@@ -18,8 +18,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D010200600_02_010");
 MsgDisp("Sassa","I'm hoping for clean jumps.
-Let's see if those adjustments I made will
-help.");
+Let's see if those adjustments I made
+will help.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -91,8 +91,7 @@ VoicePlay("D010200600_02_060");
 MsgDisp("Sassa","Yeah. Just like my senpai told me during the
 second Inter-High.
 I need to do it my way until the end.");
-MsgDisp("主人公","Yeah.
-I'm sure you can do it and win it all!");
+MsgDisp("主人公","Yeah. I'm sure you can do it and win it all!");
 ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,1);

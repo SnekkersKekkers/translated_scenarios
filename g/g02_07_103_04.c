@@ -39,8 +39,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020710304_07_050");
 MsgDisp("Mikage","Alright, fine.
-I'll continue choosing gifts for you from now
-on.");
+I'll continue choosing gifts for you from
+now on.");
 MsgDisp("主人公","Hehe, that's what makes me happiest.");
 ChEye(7,0);
 ChMouth(7,0);

@@ -23,8 +23,8 @@ I wonder how they practise.");
     ChMotion(1,0);
     VoicePlay("B040104200_01_010");
     MsgDisp("Kazama","Guess so.
-It felt like things we had probably seen
-before.");
+It felt like things we had probably
+seen before.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

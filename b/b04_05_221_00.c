@@ -7,9 +7,9 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040522100_05_000");
-MsgDisp("Hiiragi","Generations of lords from Habataki Castle
-must have looked out at the scenery from
-here.");
+MsgDisp("Hiiragi","Generations of lords from Habataki
+Castle must have looked out at the
+scenery from here.");
 MsgSel("Do you think they were watching the castle town?","The mountains and the sea haven't changed since back then.","They would be surprised to see it now huh?");
 switch (MsgSelRsltGet()){
     case 0:

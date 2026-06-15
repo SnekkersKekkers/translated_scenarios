@@ -1,8 +1,7 @@
 BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah.
-Over there is...)");
+MsgDisp("主人公","(Ah. Over there is...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1);
@@ -15,14 +14,12 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("F102230000_21_000");
-MsgDisp("Michiru","...No.
-It's a polar bear.");
+MsgDisp("Michiru","...No. It's a polar bear.");
 ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,0,1);
 VoicePlay("F102230000_22_010");
-MsgDisp("Hikaru","Eh～∋
-But it has long ears and red eyes!");
+MsgDisp("Hikaru","Eh～∋ But it has long ears and red eyes!");
 MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝!");
 ChMouth(21,0);
 ChMotion(21,0);
@@ -42,8 +39,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("F102230000_21_010");
-MsgDisp("Michiru","Right now I'm totally into making character
-bento.");
+MsgDisp("Michiru","Right now I'm totally into making
+character bento.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

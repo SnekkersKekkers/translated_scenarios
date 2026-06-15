@@ -31,8 +31,7 @@ coming next.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040108100_01_020");
-    MsgDisp("Kazama","Huh?
-Is this where I'm supposed to laugh?");
+    MsgDisp("Kazama","Huh? Is this where I'm supposed to laugh?");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

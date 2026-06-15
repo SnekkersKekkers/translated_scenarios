@@ -71,8 +71,7 @@ today though.");
         ChMotion(5,0);
         MsgClose();
         ChClose(5,0,30);
-        MsgDisp("主人公","Uh...
-Hm?
+        MsgDisp("主人公","Uh... Hm?
 ｛Hiiragi＊＊＊｝?");
         VoicePlay("B040506202_05_070");
         MsgDisp("Hiiragi","Ahh—.");

@@ -45,22 +45,21 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,5);
 VoicePlay("G110601000_06_040");
-MsgDisp("Himuro","Well.
-It's none of my business.");
+MsgDisp("Himuro","Well. It's none of my business.");
 MsgDisp("主人公","?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601000_06_050");
 MsgDisp("Himuro","Well, why don't you do your job properly?
-That way, Ryota-senpai will feel more at
-ease.");
+That way, Ryota-senpai will feel more
+at ease.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601000_06_060");
-MsgDisp("Himuro","He won't have to come all the way to check on
-you.");
+MsgDisp("Himuro","He won't have to come all the way to check
+on you.");
 MsgDisp("主人公","He just happened to drop by though?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -81,8 +80,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110601000_06_090");
-MsgDisp("Himuro","...Geez.
-What am I so worried for?");
+MsgDisp("Himuro","...Geez. What am I so worried for?");
 MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);

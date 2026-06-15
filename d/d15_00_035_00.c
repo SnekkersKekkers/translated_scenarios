@@ -38,8 +38,8 @@ ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("D150003500_05_010");
-MsgDisp("Hiiragi","Unlike Honda, there are many things I don't
-know.
+MsgDisp("Hiiragi","Unlike Honda, there are many things I
+don't know.
 I won't get to try anything if I'm scared.");
 ChEye(3,3);
 ChMouth(3,3);

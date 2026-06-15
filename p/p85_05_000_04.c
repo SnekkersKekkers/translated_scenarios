@@ -20,8 +20,7 @@ VoicePlay("P850500004_05_010");
 MsgDisp("Hiiragi","Yes. It seems that both everyone in the
 student body, and the outside visitors were
 very satisfied.");
-MsgDisp("主人公","(Yay!
-It was worth giving it my best.)");
+MsgDisp("主人公","(Yay! It was worth giving it my best.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

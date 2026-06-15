@@ -35,15 +35,14 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010110000_01_040");
 MsgDisp("Kazama","But I couldn't find you anywhere.");
-MsgDisp("主人公","Ehh∋
-You've been looking for me?");
+MsgDisp("主人公","Ehh∋ You've been looking for me?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010110000_01_050");
-MsgDisp("Kazama","It's not like I'm your fan or anything, you
-know.
+MsgDisp("Kazama","It's not like I'm your fan or anything,
+you know.
 Don't get me wrong.");
 ChMouth(1,2);
 ChMotion(1,1);
@@ -52,8 +51,7 @@ VoicePlay("E010110000_01_060");
 MsgDisp("Kazama","When you spot someone in the wild, it makes
 you curious, right?
 Thinking about it all day made me tired.");
-MsgDisp("主人公","Errr...
-That's not my fault, is it?");
+MsgDisp("主人公","Errr... That's not my fault, is it?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);

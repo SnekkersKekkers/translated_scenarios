@@ -26,8 +26,7 @@ record times from this practice match.");
     MsgDisp("Hiiragi","You look content.
 It's all because of your support.
 The athletes are happy too.");
-    MsgDisp("主人公","(Yay!
-I was praised by ｛Hiiragi＊＊＊｝)");
+    MsgDisp("主人公","(Yay! I was praised by ｛Hiiragi＊＊＊｝)");
     break ;
     default :
     DbgAssert(1);

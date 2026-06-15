@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("B040323501_03_010");
-    MsgDisp("Honda","Ehhh!
-First of all, the route is different!");
+    MsgDisp("Honda","Ehhh! First of all, the route is different!");
     MsgDateResultDisp();
     break ;
     case 1:

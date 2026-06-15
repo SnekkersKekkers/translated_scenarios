@@ -34,15 +34,14 @@ been getting faster lately.");
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_780");
     MsgDisp("Honda","I think it's because of you.");
-    MsgDisp("主人公","Hm, me?
-I didn't do anything special, right?");
+    MsgDisp("主人公","Hm, me? I didn't do anything special, right?");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_790");
-    MsgDisp("Honda","If you're not doing anything special, it just
-means that you're working well on the daily
-tasks.");
+    MsgDisp("Honda","If you're not doing anything special, it
+just means that you're working well on the
+daily tasks.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

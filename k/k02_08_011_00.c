@@ -7,8 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("K020801100_08_000");
 MsgDisp("Shirahane","We're here, huh...");
-MsgDisp("主人公","Yeah.
-Thanks for walking me home.");
+MsgDisp("主人公","Yeah. Thanks for walking me home.");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,2,1);
@@ -27,8 +26,7 @@ MsgDisp("主人公","｛Daichi＊＊｝, you remembered?");
 ChEye(8,3);
 ChMouth(8,3);
 VoicePlay("K020801100_08_030");
-MsgDisp("Shirahane","Yeah.
-Heheh!");
+MsgDisp("Shirahane","Yeah. Heheh!");
 ChMotion(8,3,1);
 VoicePlay("K020801100_08_040");
 MsgDisp("Shirahane","Happy birthday.

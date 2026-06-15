@@ -24,8 +24,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600013_06_020");
 MsgDisp("Himuro","...I'm not asking for one.");
-MsgDisp("主人公","Wouldn't it be nice if ｛Himuro＊＊｝ could go
-too?");
+MsgDisp("主人公","Wouldn't it be nice if ｛Himuro＊＊｝ could
+go too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -46,8 +46,8 @@ ChMotion(6,0);
 VoicePlay("F020600013_06_050");
 MsgDisp("Himuro","Depends on the situation.
 ...But it probably wouldn't be bad.");
-MsgDisp("主人公","Then we could go on the school trip together,
-right?");
+MsgDisp("主人公","Then we could go on the school trip
+together, right?");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,2);

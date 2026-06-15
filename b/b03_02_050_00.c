@@ -5,8 +5,7 @@ ChMotion(2,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030205000_02_000");
-MsgDisp("Sassa","Umm...
-Is here alright?");
+MsgDisp("Sassa","Umm... Is here alright?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
 ScrFadeOut(0);

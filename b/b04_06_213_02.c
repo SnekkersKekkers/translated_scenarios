@@ -6,8 +6,8 @@ ChMouth(6,0);
 ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040621302_06_000");
-MsgDisp("Himuro","I wonder what cats and dogs think about in
-life.");
+MsgDisp("Himuro","I wonder what cats and dogs think about
+in life.");
 MsgSel("Maybe mealtimes?","Are you interested?","They don't look like they're thinking anything.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040621302_06_020");
     MsgDisp("Himuro","I was just curious, that's all.
-It made me wonder how intelligent they
-are.");
+It made me wonder how intelligent they are.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -83,8 +82,8 @@ want to become one.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040621302_06_080");
-        MsgDisp("Himuro","There are fewer things you can do as an
-animal.");
+        MsgDisp("Himuro","There are fewer things you can do as
+an animal.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -97,8 +96,8 @@ you on a date here with someone else.");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040621302_06_100");
-        MsgDisp("Himuro","I would rather be the one watching the fluffy
-lump.");
+        MsgDisp("Himuro","I would rather be the one watching the
+fluffy lump.");
         ChEye(6,3);
         ChMouth(6,4);
         ChMotion(6,0);

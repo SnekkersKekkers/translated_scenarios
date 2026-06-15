@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(2,0);
         VoicePlay("J060200000_02_010");
         MsgDisp("Sassa","Alright.
-I'll be looking forward to seeing you on the
-day.");
+I'll be looking forward to seeing you on
+the day.");
         MsgClose();
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -39,8 +39,7 @@ day.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("J060200000_02_020");
-        MsgDisp("Sassa","Really?
-Yes!
+        MsgDisp("Sassa","Really? Yes!
 Okay, let's decide where we're going to meet.");
         MsgDisp("主人公","Yeah.
 Okay, then, how about we meet at the
@@ -92,16 +91,14 @@ I'm looking forward to it!!)");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("J060200000_02_060");
-        MsgDisp("Sassa","I see.
-Well, it can't be helped then.
+        MsgDisp("Sassa","I see. Well, it can't be helped then.
 I'll ask you out again.");
         MsgDisp("主人公","Sorry, okay?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,4);
         VoicePlay("J060200000_02_070");
-        MsgDisp("Sassa","Don't apologise so much.
-Bye.");
+        MsgDisp("Sassa","Don't apologise so much. Bye.");
         MsgClose();
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

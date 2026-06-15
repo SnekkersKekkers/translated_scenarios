@@ -17,8 +17,7 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0);
     VoicePlay("I150700000_07_000");
     MsgDisp("Mikage","Oh, you work here?");
-    MsgDisp("主人公","Yes.
-Please take your time looking around.");
+    MsgDisp("主人公","Yes. Please take your time looking around.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -85,8 +84,8 @@ business...");
     ChMotion(7,2);
     VoicePlay("I150700000_07_080");
     MsgDisp("Mikage","Sigh...
-I'll have to cut back on the part-time job
-visits.");
+I'll have to cut back on the part-time
+job visits.");
     MsgDisp("主人公","(Part-time job visits...?
 But I managed to sell a lot!)");
     MsgClose();

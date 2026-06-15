@@ -1,8 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like I'm a little bit early...
-Huh?
+MsgDisp("主人公","(Looks like I'm a little bit early... Huh?
 ｛Daichi＊＊｝ is already here!)");
 MsgDisp("主人公","｛Daichi＊＊｝!
 You're really early.");
@@ -10,8 +9,7 @@ BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
 ChOpen(8,253,0,0,4,#1,#1,0,0);
 VoicePlay("B010800002_08_000");
-MsgDisp("Shirahane","Huh?
-Aren't ya pretty early too?");
+MsgDisp("Shirahane","Huh? Aren't ya pretty early too?");
 MsgDisp("主人公","Ah, yeah.
 We both are.");
 ChEye(8,4);

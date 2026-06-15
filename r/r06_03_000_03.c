@@ -45,8 +45,7 @@ Hey, is it okay if I open this?");
     case 4:
     case 5:
     VoicePlay("R060300003_03_050");
-    MsgDisp("Honda?","Huh∋
-Seriously∋");
+    MsgDisp("Honda?","Huh∋ Seriously∋");
     MsgClose();
     ChOpen(3,34,1,4,0,#1,#1,0,0);
     MsgDisp("主人公","Ah, ｛Honda＊＊｝.
@@ -76,8 +75,7 @@ got the present I brought?");
     VoicePlay("R060300003_03_090");
     MsgDisp("Honda","Huh, really∋
 I didn't expect this.");
-    MsgDisp("主人公","Hehe.
-You can open it if you want, okay?");
+    MsgDisp("主人公","Hehe. You can open it if you want, okay?");
     break ;
     default :
     DbgAssert(1);

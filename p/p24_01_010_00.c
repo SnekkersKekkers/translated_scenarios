@@ -66,8 +66,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("P240101000_01_060");
-MsgDisp("Kazama","See, there's another person who doesn't get
-it.");
+MsgDisp("Kazama","See, there's another person who doesn't
+get it.");
 MsgDisp("主人公","Ehh?
 The prince will fall in love with Cinderella
 when she returns to her original form, right?");

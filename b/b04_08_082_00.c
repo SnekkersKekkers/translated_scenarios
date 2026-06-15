@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("B040808200_08_010");
-    MsgDisp("Shirahane","Haha!
-It's not like that.");
+    MsgDisp("Shirahane","Haha! It's not like that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +28,7 @@ It's not like that.");
     ChEyeOpenLevel(8,0);
     ChCheek(8,5);
     VoicePlay("B040808200_08_020");
-    MsgDisp("Shirahane","Hehe!
-Being energetic is my strong point!");
+    MsgDisp("Shirahane","Hehe! Being energetic is my strong point!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

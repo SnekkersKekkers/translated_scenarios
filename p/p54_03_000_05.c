@@ -25,16 +25,16 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P540300005_03_020");
-MsgDisp("Honda","You were able to make a recovery, just as I'd
-expect.");
+MsgDisp("Honda","You were able to make a recovery, just as
+I'd expect.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("P540300005_03_030");
-MsgDisp("Honda","Thank you for your hard work these last three
-years.");
+MsgDisp("Honda","Thank you for your hard work these last
+three years.");
 MsgDisp("主人公","(Even if it was a fail in the end, I'm glad I
 continued with the wind instrument club.)");
 MsgClose();

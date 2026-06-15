@@ -7,8 +7,7 @@ MsgDisp("Michiru","Sigh...");
 MsgDisp("主人公","Oh, ｛みちる＊｝!");
 ChMotion(21,0);
 VoicePlay("F112110000_21_010");
-MsgDisp("Michiru","Mari.
-What do I do...");
+MsgDisp("Michiru","Mari. What do I do...");
 MsgDisp("主人公","Eh, what's wrong?");
 ChEye(21,4);
 ChMouth(21,4);

@@ -49,8 +49,7 @@ Sorry you came all this way.");
     ChMotion(6,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("H4A0600001_06_050");
-    MsgDisp("Himuro","Huh?
-Why are you apologising?");
+    MsgDisp("Himuro","Huh? Why are you apologising?");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,0);

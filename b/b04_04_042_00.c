@@ -24,9 +24,9 @@ like it was pretty stimulating.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040404200_04_010");
-    MsgDisp("Nanatsumori","Hey, don't you think that if they got the
-audience involved, that it would get more
-hype?");
+    MsgDisp("Nanatsumori","Hey, don't you think that if they got
+the audience involved, that it would get
+more hype?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

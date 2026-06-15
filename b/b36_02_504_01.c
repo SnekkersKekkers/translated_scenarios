@@ -17,21 +17,19 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B360250401_02_010");
-MsgDisp("Sassa","If it's this nice, I wish they'd do it every
-day.");
-MsgDisp("主人公","Isn't it special because it's for a limited
-time?");
+MsgDisp("Sassa","If it's this nice, I wish they'd do it
+every day.");
+MsgDisp("主人公","Isn't it special because it's for a
+limited time?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B360250401_02_020");
-MsgDisp("Sassa","Hm?
-What's with that calm take?
+MsgDisp("Sassa","Hm? What's with that calm take?
 Am I the only one excited here?");
-MsgDisp("主人公","No.
-I'm super happy that you invited me to this
-limited-time place.");
+MsgDisp("主人公","No. I'm super happy that you invited me to
+this limited-time place.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -45,8 +43,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360250401_02_040");
 MsgDisp("Sassa","I won't overdo it.
-But, I won't have the time to invite Ryota or
-Inori.");
+But, I won't have the time to invite Ryota
+or Inori.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

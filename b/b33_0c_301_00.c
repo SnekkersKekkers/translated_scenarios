@@ -19,8 +19,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30100_06_000");
 MsgDisp("Himuro","According to the guide, more than 100.");
-MsgDisp("主人公","This is Habataki City's largest shopping
-mall.");
+MsgDisp("主人公","This is Habataki City's largest
+shopping mall.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -54,8 +54,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30100_05_020");
-MsgDisp("Hiiragi","Yes.
-How should we line up?");
+MsgDisp("Hiiragi","Yes. How should we line up?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

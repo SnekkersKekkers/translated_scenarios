@@ -18,8 +18,7 @@ MsgDisp("主人公","Yeah, it's beautiful.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B360522100_05_010");
-MsgDisp("Hiiragi","Yeah.
-The sky and castle are dyed red...
+MsgDisp("Hiiragi","Yeah. The sky and castle are dyed red...
 It's like \"Habataki Castle Ablaze\".");
 MsgDisp("主人公","Eh?
 Is that a performance by the Habataki Theatre
@@ -47,14 +46,12 @@ ChMotion(5,3);
 Wait(22,0);
 ChEye(5,3);
 VoicePlay("B360522100_05_050");
-MsgDisp("Hiiragi","Yes.
-I wanted to see it with you once—");
+MsgDisp("Hiiragi","Yes. I wanted to see it with you once—");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522100_05_060");
 MsgDisp("Hiiragi","No, I wanted to see it with you alone.");
-MsgDisp("主人公","I see...
-Thank you, ｛Hiiragi＊＊＊｝.");
+MsgDisp("主人公","I see... Thank you, ｛Hiiragi＊＊＊｝.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

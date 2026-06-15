@@ -10,8 +10,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("Q090200000_02_000");
     MsgDisp("Sassa","｛主人公｝, morning.
 Thanks in advance for today!");
-    MsgDisp("主人公","Yeah!
-Well, let's go.");
+    MsgDisp("主人公","Yeah! Well, let's go.");
     break ;
     case 3:
     MsgDisp("主人公","...Ah, ｛Sassa＊＊｝!");

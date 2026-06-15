@@ -56,8 +56,8 @@ thinkin' about it...");
         ChMotion(8,2,1);
         VoicePlay("B040824102_08_040");
         MsgDisp("Shirahane","That's right...
-To be successful, ordinary efforts aren't
-enough.");
+To be successful, ordinary efforts
+aren't enough.");
         ChMotion(8,0,1);
         VoicePlay("B040824102_08_050");
         MsgDisp("Shirahane","That's why successful people aren't just good

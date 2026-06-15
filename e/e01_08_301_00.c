@@ -1,8 +1,7 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh?
-That person over there is...)");
+MsgDisp("主人公","(Huh? That person over there is...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(8,255,0,0,0,#1,#1,0,0);
@@ -13,16 +12,14 @@ VoiceEVSPlay(8);
 VoicePlay("E010830100_08_000");
 MsgDisp("Daichi","｛主人公｝.
 What a coincidence!");
-MsgDisp("主人公","Yeah.
-Are you meeting with someone?");
+MsgDisp("主人公","Yeah. Are you meeting with someone?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("E010830100_08_010");
 MsgDisp("Daichi","That's right.
 I'm waiting for big bro.");
-MsgDisp("主人公","I see.
-It's nice seeing you out together.");
+MsgDisp("主人公","I see. It's nice seeing you out together.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChPosition(8,1);
@@ -51,13 +48,11 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("E010830100_09_020");
-MsgDisp("Kuya","Yeah.
-I delivered it safely.");
+MsgDisp("Kuya","Yeah. I delivered it safely.");
 ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
-MsgDisp("主人公","Eh...
-Kuya-san did you perhaps...");
+MsgDisp("主人公","Eh... Kuya-san did you perhaps...");
 ChEyeOpenLevel(8,#1);
 ChEye(9,2);
 ChMouth(9,0);

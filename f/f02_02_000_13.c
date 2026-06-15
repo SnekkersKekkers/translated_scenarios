@@ -45,8 +45,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("F020200013_02_050");
-MsgDisp("Sassa","If I yelled, would you hear me on the girls'
-side?
+MsgDisp("Sassa","If I yelled, would you hear me on the
+girls' side?
 Can I call your name?");
 MsgDisp("主人公","...I'd prefer it if you didn't.");
 ChEye(2,2);
@@ -62,5 +62,5 @@ VoicePlay("F020200013_02_070");
 MsgDisp("Sassa","Woohoo!
 I'm excited for the trip!");
 MsgDisp("主人公","(｛Sassa＊＊｝...
-Are you excited for the trip, or just the
-bath?)");
+Are you excited for the trip, or just
+the bath?)");

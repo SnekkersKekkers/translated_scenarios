@@ -14,8 +14,7 @@ ChEye(5,3);
 VoicePlay("K020501000_05_000");
 MsgDisp("Hiiragi","No, thank you as well.
 And, here's to another year.");
-MsgDisp("主人公","Hm?
-Yes, Happy New Year...?");
+MsgDisp("主人公","Hm? Yes, Happy New Year...?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -45,7 +44,7 @@ MsgClose();
 ChClose(5);
 Wait(30);
 MsgDisp("主人公","(I'm so happy...
-This year looks like it's going to be a great
-one!)");
+This year looks like it's going to be a
+great one!)");
 MsgClose();
 ScrFadeOut(0,0);

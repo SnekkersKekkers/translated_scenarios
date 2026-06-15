@@ -32,8 +32,8 @@ together. No way it tastes bad.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("B040724200_07_020");
-    MsgDisp("Mikage","Those veggies are all prize beauties grown
-by the gardening club.
+    MsgDisp("Mikage","Those veggies are all prize beauties grown by
+the gardening club.
 Make somethin' tasty out of 'em, yeah?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

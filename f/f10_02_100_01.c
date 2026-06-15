@@ -36,10 +36,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("F100210001_02_020");
-MsgDisp("Sassa","Hm?
-It's not like that.");
-MsgDisp("主人公","Eh?
-But...");
+MsgDisp("Sassa","Hm? It's not like that.");
+MsgDisp("主人公","Eh? But...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

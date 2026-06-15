@@ -7,8 +7,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,4,1);
     VoicePlay("L040500006_05_000");
     MsgDisp("Hiiragi","Individualistic, wild, rough...
-In any case, I can see a hidden potential in
-this.");
+In any case, I can see a hidden potential
+in this.");
     MsgDisp("主人公","Um...");
     ChEye(5,4);
     ChMotion(5,0);
@@ -57,8 +57,7 @@ this chocolate.");
     BGMStop();
     ChClose(5);
     ChEyeOpenLevel(5,#1);
-    MsgDisp("主人公","(Ugh...
-I wish I had tried a little harder.
+    MsgDisp("主人公","(Ugh... I wish I had tried a little harder.
 I bothered ｛Hiiragi＊＊＊｝.)");
     break ;
     case 4:
@@ -75,8 +74,7 @@ I bothered ｛Hiiragi＊＊＊｝.)");
     ChMouthOpenLevel(5,#1);
     VoicePlay("L040500006_05_070");
     MsgDisp("Hiiragi","...Hehe.");
-    MsgDisp("主人公","Uh...
-Just, sorry...");
+    MsgDisp("主人公","Uh... Just, sorry...");
     ChMotion(5,0);
     VoicePlay("L040500006_05_080");
     MsgDisp("Hiiragi","Whatever for?

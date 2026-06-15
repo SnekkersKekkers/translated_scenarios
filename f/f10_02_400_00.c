@@ -8,8 +8,8 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(6,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","Good afternoon.
-What are you two in the middle of talking
-about?");
+What are you two in the middle of
+talking about?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -21,8 +21,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100240000_06_000");
 MsgDisp("Himuro","It seems that way.");
-MsgDisp("主人公","Eh?
-That's not it at all, but...");
+MsgDisp("主人公","Eh? That's not it at all, but...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -32,8 +31,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100240000_02_010");
-MsgDisp("Sassa","Haha.
-Inori, don't tease her.");
+MsgDisp("Sassa","Haha. Inori, don't tease her.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -50,8 +48,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100240000_02_030");
-MsgDisp("Sassa","Inori and I both like spending time on our
-own.");
+MsgDisp("Sassa","Inori and I both like spending time on
+our own.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -82,8 +80,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("F100240000_06_050");
-MsgDisp("Himuro","Mine doesn't come close to Nozomu-senpai's,
-though.");
+MsgDisp("Himuro","Mine doesn't come close to
+Nozomu-senpai's, though.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -102,8 +100,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("F100240000_06_060");
-MsgDisp("Himuro","Yes.
-Please tell me about it again.");
+MsgDisp("Himuro","Yes. Please tell me about it again.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
@@ -112,9 +109,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100240000_02_080");
-MsgDisp("Sassa","I'm stubborn when it comes to athletics, so I
-can accept the opinions of someone like
-Inori.");
+MsgDisp("Sassa","I'm stubborn when it comes to athletics,
+so I can accept the opinions of someone
+like Inori.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -32,8 +32,8 @@ a model, and your work also.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P730300000_03_020");
-    MsgDisp("Honda","I want to watch from a good seat, so I'll see
-you.∈");
+    MsgDisp("Honda","I want to watch from a good seat, so I'll
+see you.∈");
     MsgDisp("主人公","(Okay, I've got to look cool!)");
     MsgClose();
     ScrFadeOut(0,0);

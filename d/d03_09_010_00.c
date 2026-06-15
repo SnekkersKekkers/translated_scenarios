@@ -22,8 +22,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901000_09_010");
 MsgDisp("Kuya","It's been a while, huh?");
-MsgDisp("主人公","Yeah.
-It's been a while...but...");
+MsgDisp("主人公","Yeah. It's been a while...but...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -43,8 +42,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
 MsgDisp("主人公","(I can't believe I ran into him here...
 I wonder how his studies are going?)");
-MsgDisp("主人公","...!
-I need to focus on my work too!
+MsgDisp("主人公","...! I need to focus on my work too!
 Please check my work!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -67,8 +65,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_050");
-MsgDisp("Kuya","Yeah.
-Are you finished now too?
+MsgDisp("Kuya","Yeah. Are you finished now too?
 Do you have some time to spare?");
 MsgDisp("主人公","Yeah.");
 BGMStop();
@@ -84,8 +81,8 @@ ChMouth(9,0);
 ChMotion(9,0);
 ScrFadeIn(0);
 VoicePlay("D030901000_09_060");
-MsgDisp("Kuya","I really wanted to see you today no matter
-what.");
+MsgDisp("Kuya","I really wanted to see you today no
+matter what.");
 MsgDisp("主人公","Eh?");
 ChMotion(9,4,1);
 VoicePlay("D030901000_09_070");
@@ -109,8 +106,8 @@ VoicePlay("D030901000_09_090");
 MsgDisp("Kuya","It's fine.
 I wanted to give it to you.");
 MsgDisp("主人公","Thank you so much.
-But isn't it weird to get chocolate from a
-guy?");
+But isn't it weird to get chocolate from
+a guy?");
 ChMotion(9,0,1);
 ChCheek(9,4);
 VoicePlay("D030901000_09_100");
@@ -130,8 +127,7 @@ ChCheek(9,1);
 VoicePlay("D030901000_09_120");
 MsgDisp("Kuya","By the way, how is it?
 How are your studies going?");
-MsgDisp("主人公","Ah...
-Yeah, I'm managing.
+MsgDisp("主人公","Ah... Yeah, I'm managing.
 What about Kuya-san?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -146,8 +142,7 @@ VoicePlay("D030901000_09_140");
 MsgDisp("Kuya","Ah...
 But yesterday I spent the whole day making
 those chocolates.");
-MsgDisp("主人公","Hehe.
-It looks really yummy.
+MsgDisp("主人公","Hehe. It looks really yummy.
 I'm excited to eat it!");
 ChEye(9,3);
 ChMouth(9,0);
@@ -169,11 +164,9 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901000_09_170");
-MsgDisp("Kuya","Ah...
-Is it okay to say that?
+MsgDisp("Kuya","Ah... Is it okay to say that?
 But you know, I'm hopeful. Haha!");
-MsgDisp("主人公","(Hehe!
-Kuya-san seems to be \"studying\" hard!
+MsgDisp("主人公","(Hehe! Kuya-san seems to be \"studying\" hard!
 I need to work hard too!)");
 MsgClose();
 ScrFadeOut(0,0);

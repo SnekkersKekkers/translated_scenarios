@@ -39,8 +39,7 @@ It all comes from the sense of expectation.");
     VoicePlay("P530500001_05_030");
     MsgDisp("Hiiragi","I don't know what's going to happen, but it
 might be better than I assumed?");
-    MsgDisp("主人公","I see.
-Better than assumed...");
+    MsgDisp("主人公","I see. Better than assumed...");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -81,8 +80,7 @@ Thank you for coming.");
     VoicePlay("P530500001_05_070");
     MsgDisp("Hiiragi","I'm relieved.
 That's a nice expression.");
-    MsgDisp("主人公","Eh?
-Is that right...");
+    MsgDisp("主人公","Eh? Is that right...");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);

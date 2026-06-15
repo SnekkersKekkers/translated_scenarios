@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040614001_06_010");
-    MsgDisp("Himuro","That joke isn't just nonsense, there's no
-sense.");
+    MsgDisp("Himuro","That joke isn't just nonsense, there's
+no sense.");
     MsgDateResultDisp();
     break ;
     case 1:

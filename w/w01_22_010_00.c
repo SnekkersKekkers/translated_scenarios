@@ -31,8 +31,7 @@ I wonder who else is going.)");
     case 1:
     VoicePlay("W012201000_22_030");
     MsgDisp("Hikaru","Eh～ , sorry to hear you have...errands.
-Hikaru will invite you another time.
-Okay?");
+Hikaru will invite you another time. Okay?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(I feel a little bad saying that after she

@@ -17,16 +17,15 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("D150003501_05_000");
-MsgDisp("Hiiragi","Haha.
-Ah, excuse me. I just pictured a little bug
-in Honda's stomach.");
+MsgDisp("Hiiragi","Haha. Ah, excuse me.
+I just pictured a little bug in Honda's
+stomach.");
 MsgDisp("主人公","Hehe, how cute.");
 ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,4);
 VoicePlay("D150003501_05_010");
-MsgDisp("Hiiragi","Yes.
-It was a cute and lively bug.");
+MsgDisp("Hiiragi","Yes. It was a cute and lively bug.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,2);
@@ -38,8 +37,7 @@ ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("D150003501_05_020");
-MsgDisp("Hiiragi","Okay.
-Let's imagine it together then.
+MsgDisp("Hiiragi","Okay. Let's imagine it together then.
 Yes, you too.");
 MsgDisp("主人公","(Hehe, I can picture ｛Hiiragi＊＊＊｝'s stomach
 bug too.

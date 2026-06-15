@@ -11,8 +11,7 @@ ChOpen(1,34,0,0,0,#1,#1,0,0,0,30);
 ChOpen(2,34,0,0,4,#1,#1,0,1,0,30);
 ChOpen(6,34,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","We're all gathered here, huh?
-...Hehe!");
+MsgDisp("主人公","We're all gathered here, huh? ...Hehe!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -23,8 +22,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D130A00100_06_000");
-MsgDisp("Himuro","Yeah.
-Is there something funny about it?");
+MsgDisp("Himuro","Yeah. Is there something funny about it?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -60,8 +58,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D130A00100_06_020");
-MsgDisp("Himuro","Ryota-senpai's got that side to him, doesn't
-he?");
+MsgDisp("Himuro","Ryota-senpai's got that side to him,
+doesn't he?");
 ChEyeOpenLevel(1,0);
 ChCheek(1,5);
 ChEye(2,0);

@@ -83,8 +83,7 @@ Drink up and breathe a \"hot\" sigh of relief.");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040211102_02_070");
-        MsgDisp("Sassa","Huh...
-I thought that was funny though...");
+        MsgDisp("Sassa","Huh... I thought that was funny though...");
         MsgDisp("主人公","(｛Sassa＊＊｝...?
 Was that a pun?)");
         break ;

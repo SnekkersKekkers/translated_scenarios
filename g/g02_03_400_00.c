@@ -5,8 +5,8 @@ VoicePlay("G020340000_03_000");
 MsgDisp("Honda","I'm thinking of changing my hair colour soon.
 I've done thorough research on how hair
 texture changes after bleaching.");
-MsgDisp("主人公","You mean going back to your natural hair
-colour?");
+MsgDisp("主人公","You mean going back to your natural
+hair colour?");
 ChEye(3,0);
 ChMouth(3,4);
 VoicePlay("G020340000_03_010");

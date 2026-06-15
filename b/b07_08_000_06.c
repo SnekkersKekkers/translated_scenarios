@@ -8,8 +8,8 @@ MsgDisp("Shirahane","I haven't changed much.
 I've grown a bit taller though.");
 VoicePlay("B070800000_08_290");
 MsgDisp("Shirahane","I was decent at both studyin' and sports.
-Naturally, I didn't have a part time job
-though.");
+Naturally, I didn't have a part time
+job though.");
 MsgDisp("主人公","I see.");
 ChEye(8,0);
 ChMouth(8,4);

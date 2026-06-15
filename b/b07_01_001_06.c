@@ -26,8 +26,7 @@ ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("B070100001_01_320");
 MsgDisp("Kazama","That's up to you.");
-MsgDisp("主人公","Eh?
-What do you mean?");
+MsgDisp("主人公","Eh? What do you mean?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

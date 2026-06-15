@@ -58,8 +58,8 @@ like I get motivated, too.");
     ChMotion(2,4);
     VoicePlay("O020200000_02_060");
     MsgDisp("Sassa","This was just tug of war, right?
-If you were in a race, I might have lost my
-voice.");
+If you were in a race, I might have lost
+my voice.");
     MsgDisp("主人公","(｛Sassa＊＊｝ is happy like he just won
 himself.
 I'm so happy...)");

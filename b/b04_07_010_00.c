@@ -37,8 +37,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040701000_07_030");
-    MsgDisp("Mikage","Uh oh...
-Is it no good?");
+    MsgDisp("Mikage","Uh oh... Is it no good?");
     MsgDateResultDisp();
     break ;
     default :

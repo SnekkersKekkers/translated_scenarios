@@ -11,8 +11,7 @@ switch (ChPrmGet(7,6)){
 difficult move during the rhythmic gymnastics
 club's joint practice. Congrats.");
     MsgDisp("主人公","Yes, thank you very much!");
-    MsgDisp("主人公","(Yay!
-I was praised by ｛Mikage＊＊｝!)");
+    MsgDisp("主人公","(Yay! I was praised by ｛Mikage＊＊｝!)");
     break ;
     case 4:
     case 5:
@@ -20,8 +19,7 @@ I was praised by ｛Mikage＊＊｝!)");
     ChOpen(7,254,2,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700003_07_010");
-    MsgDisp("Mikage","Sigh...
-I wanted to see it too.");
+    MsgDisp("Mikage","Sigh... I wanted to see it too.");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 What's up?");
     ChEye(7,0);

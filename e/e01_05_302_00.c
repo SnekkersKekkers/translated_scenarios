@@ -7,8 +7,7 @@ VoicePlay("E010530200_01_000");
 MsgDisp("Kazama?","That's why I'm telling you I can't accept it.");
 VoicePlay("E010530200_05_000");
 MsgDisp("Hiiragi?","That would be problematic.");
-MsgDisp("主人公","(Huh?
-That voice...)");
+MsgDisp("主人公","(Huh? That voice...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,4,0,2,#1,#1,0,1);
@@ -27,8 +26,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010530200_01_010");
-MsgDisp("Kazama","You always seem to show up at the most random
-times.");
+MsgDisp("Kazama","You always seem to show up at the most
+random times.");
 MsgDisp("主人公","Anyway...
 What happened between you two?");
 ChEye(1,2);
@@ -56,8 +55,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010530200_05_030");
 MsgDisp("Hiiragi","I asked Kazama-kun to help repair our props.");
-MsgDisp("主人公","Wow, ｛Kazama＊＊｝, you're able to do that
-too?");
+MsgDisp("主人公","Wow, ｛Kazama＊＊｝, you're able to do
+that too?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -96,15 +95,14 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010530200_01_050");
-MsgDisp("Kazama","No, no.
-It's alright.");
+MsgDisp("Kazama","No, no. It's alright.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("E010530200_01_060");
 MsgDisp("Kazama","...Fine.
-How about you treat me to some Alucard
-coffee?");
+How about you treat me to some
+Alucard coffee?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -143,10 +141,8 @@ SEPlay("EV_SE_856");
 BGMStop();
 ChClose(1,0,30);
 ChClose(5,0,30);
-MsgDisp("主人公","Ehhh∋
-Wait a minute!");
-MsgDisp("主人公","(Geez...
-These two are both stubborn.
+MsgDisp("主人公","Ehhh∋ Wait a minute!");
+MsgDisp("主人公","(Geez... These two are both stubborn.
 Maybe they're actually quite similar?)");
 MsgClose();
 ScrFadeOut(0,0);

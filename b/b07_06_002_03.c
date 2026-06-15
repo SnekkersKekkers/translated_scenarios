@@ -37,8 +37,7 @@ VoicePlay("B070600002_06_200");
 MsgDisp("Himuro","They didn't barge in savagely with their
 shoes on...but it felt like they were
 relaxing in my room before I even noticed.");
-MsgDisp("主人公","Hehe!
-That's a funny image, isn't it?");
+MsgDisp("主人公","Hehe! That's a funny image, isn't it?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

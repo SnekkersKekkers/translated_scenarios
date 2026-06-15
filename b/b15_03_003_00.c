@@ -8,8 +8,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B150300300_03_010");
-MsgDisp("Honda","Yeah.
-Thanks to you, I'm sure of it now.
+MsgDisp("Honda","Yeah. Thanks to you, I'm sure of it now.
 I really like it when you touch me.");
 ChEye(3,4);
 ChMouth(3,3);
@@ -56,8 +55,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B150300300_03_080");
 MsgDisp("Honda","So, keep touching me, okay?
-And try to figure out your reasons for doing
-it.");
+And try to figure out your reasons for
+doing it.");
 MsgDisp("主人公","Hehe, sure.
 I got it.");
 ChEye(3,3);

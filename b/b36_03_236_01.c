@@ -59,8 +59,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360323601_03_080");
 MsgDisp("Honda","Ah, looks like the parade is starting!
-How about we jump together to get a better
-view?");
+How about we jump together to get a
+better view?");
 MsgDisp("主人公","Hehe, sure!");
 BGMStop();
 MsgClose();

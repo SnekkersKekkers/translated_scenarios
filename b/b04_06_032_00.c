@@ -6,8 +6,7 @@ ChMouth(6,2);
 ChMotion(6,4,1);
 ScrFadeIn(0);
 VoicePlay("B040603200_06_000");
-MsgDisp("Himuro","Whoa...
-It's filled with couples...");
+MsgDisp("Himuro","Whoa... It's filled with couples...");
 MsgSel("Let's get lovey-dovey too!","Shall we go somewhere else?","Let's just be ourselves.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040603200_06_010");
-    MsgDisp("Himuro","No.
-Have some autonomy, will you?");
+    MsgDisp("Himuro","No. Have some autonomy, will you?");
     MsgDateResultDisp();
     break ;
     case 1:

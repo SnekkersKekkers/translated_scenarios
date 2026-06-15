@@ -64,8 +64,8 @@ the way.");
     ChMotion(7,1);
     VoicePlay("P030700000_07_050");
     MsgDisp("Mikage","Alright...
-Then, miss, please bring me two or three
-dango.");
+Then, miss, please bring me two or
+three dango.");
     MsgDisp("主人公","Yes, gladly!");
     break ;
     default :

@@ -40,8 +40,7 @@ MsgDisp("主人公","(The field is full of people...
 Looks like there's another class out there
 playing soccer.)");
 VoicePlay("D010500200_39_020");
-MsgDisp("Student B","Hiiragi!
-Here!");
+MsgDisp("Student B","Hiiragi! Here!");
 MsgDisp("主人公","(Is that ｛Hiiragi＊＊＊｝'s class?)");
 VoicePlay("D010500200_40_030");
 MsgDisp("Student A","Ohh!");
@@ -60,8 +59,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_725",0.5);
 Wait(60,0);
 VoicePlay("D010500200_40_040");
-MsgDisp("Student A","O-Oy!
-Are you okay∋");
+MsgDisp("Student A","O-Oy! Are you okay∋");
 VoicePlay("D010500200_05_010");
 MsgDisp("Hiiragi","Yeah, but was that a goal just now∋");
 SEStop("EV_SE_725",1);
@@ -131,8 +129,7 @@ VoicePlay("D010500200_05_040");
 MsgDisp("Hiiragi","Thank you.
 But you shouldn't get distracted during
 class, okay?");
-MsgDisp("主人公","Ugh...
-Yes sir.");
+MsgDisp("主人公","Ugh... Yes sir.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -11,13 +11,11 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","Hello.
 It's ｛主人公苗字｝.");
     VoicePlay("J030601001_06_000");
-    MsgDisp("Himuro","Hey.
-You called me, right?");
+    MsgDisp("Himuro","Hey. You called me, right?");
     MsgDisp("主人公","Yeah, so?");
     VoicePlay("J030601001_06_010");
     MsgDisp("Himuro","I can't because I have plans.");
-    MsgDisp("主人公","I see.
-Too bad.");
+    MsgDisp("主人公","I see. Too bad.");
     VoicePlay("J030601001_06_020");
     MsgDisp("Himuro","That's all I had to say.
 Later.");
@@ -66,8 +64,7 @@ No other days available?");
     MsgDisp("主人公","I don't think so...
 Well, I'll see you another day.");
     VoicePlay("J030601001_06_080");
-    MsgDisp("Himuro","...Yeah.
-Definitely invite me back.
+    MsgDisp("Himuro","...Yeah. Definitely invite me back.
 See you then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

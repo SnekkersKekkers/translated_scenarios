@@ -24,14 +24,12 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 MsgDisp("Hikaru","Happy birthday, Mari▼
 Here's a present♪");
-MsgDisp("主人公","Wah...!
-Thank you both so much!");
+MsgDisp("主人公","Wah...! Thank you both so much!");
 VoicePlay("K020D00000_21_020");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
-MsgDisp("Michiru","Hehe.
-I'm glad I could see Mari's smile.");
+MsgDisp("Michiru","Hehe. I'm glad I could see Mari's smile.");
 VoicePlay("K020D00000_22_000");
 ChEye(22,3);
 ChMouth(22,3);

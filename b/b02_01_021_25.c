@@ -4,8 +4,7 @@ ChMotion(1,4,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020102125_01_000");
 MsgDisp("Kazama","I think I have to eat my words.");
-MsgDisp("主人公","Huh?
-What's wrong?");
+MsgDisp("主人公","Huh? What's wrong?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

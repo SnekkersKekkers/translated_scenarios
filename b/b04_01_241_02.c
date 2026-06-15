@@ -70,8 +70,8 @@ I thought that too.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040124102_01_060");
-        MsgDisp("Kazama","If we stayed here, the sunset might dye it
-orange.");
+        MsgDisp("Kazama","If we stayed here, the sunset might dye
+it orange.");
         MsgDisp("主人公","Hehe.
 Such a big pinwheel could probably grant a
 lot of wishes, right?");
@@ -95,8 +95,8 @@ lot of wishes, right?");
         VoicePlay("B040124102_01_090");
         MsgDisp("Kazama","Really?
 Well, that's good then.");
-        MsgDisp("主人公","(I'd like to hear ｛Kazama＊＊｝'s wish one
-day.)");
+        MsgDisp("主人公","(I'd like to hear ｛Kazama＊＊｝'s wish
+one day.)");
         break ;
         default :
         DbgAssert(1);

@@ -22,8 +22,7 @@ switch (ChPrmGet(3,6)){
     ScrFadeIn(0);
     VoicePlay("W080300000_03_020");
     MsgDisp("Honda","Ah, I'm going with Michiru-chan?
-I see.
-Hm, okaaay.");
+I see. Hm, okaaay.");
     break ;
     default :
     DbgAssert(1);

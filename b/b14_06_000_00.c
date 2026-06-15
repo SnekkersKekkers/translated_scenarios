@@ -52,8 +52,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600000_06_060");
-MsgDisp("Himuro","Having said all that, well, Merry Christmas
-right?");
+MsgDisp("Himuro","Having said all that, well, Merry
+Christmas right?");
 MsgDisp("主人公","Heheh, yeah!
 ｛Himuro＊＊｝, Merry Christmas.");
 MsgDisp("主人公","(I see, I've spent two days in a row with

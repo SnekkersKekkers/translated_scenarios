@@ -42,8 +42,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020720201_07_060");
-MsgDisp("Mikage","From now on, I ask that you take care of
-Inori.");
+MsgDisp("Mikage","From now on, I ask that you take care
+of Inori.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);

@@ -121,8 +121,7 @@ MsgDisp("Manager","That's enough.
 Sassa is just competing on a different level
 from us. Nothing we say will change his mind.");
 VoicePlay("D010200100_02_060");
-MsgDisp("Sassa","I...
-I just want to be the best.
+MsgDisp("Sassa","I... I just want to be the best.
 I'm a track and field idiot...");
 VoicePlay("D010200100_40_090");
 MsgDisp("Member","How is that fine?
@@ -164,8 +163,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(2);
-MsgDisp("主人公","(Even though he won, ｛Sassa＊＊｝ looks
-sad...)");
+MsgDisp("主人公","(Even though he won, ｛Sassa＊＊｝
+looks sad...)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(2,0);

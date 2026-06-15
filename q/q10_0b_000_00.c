@@ -26,8 +26,7 @@ ChMotion(1,0,1);
 VoicePlay("Q100B00000_01_000");
 MsgDisp("Kazama","Hey, look!
 There are koi fish.");
-MsgDisp("主人公","Hehe.
-How relaxing to watch, huh?");
+MsgDisp("主人公","Hehe. How relaxing to watch, huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -62,8 +61,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("Q100B00000_01_020");
-MsgDisp("Kazama","So...
-Where are we going?");
+MsgDisp("Kazama","So... Where are we going?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -91,8 +89,8 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("Q100B00000_04_040");
-MsgDisp("Nanatsumori","I keep saying it, but noodles are a NG for
-me.");
+MsgDisp("Nanatsumori","I keep saying it, but noodles are a NG
+for me.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,5,1);
@@ -139,9 +137,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q100B00000_03_050");
-MsgDisp("Honda","Meh...
-Well, fine! But if I get hungry, I'll go eat
-champon noodles on my own.");
+MsgDisp("Honda","Meh... Well, fine!
+But if I get hungry, I'll go eat champon
+noodles on my own.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -171,10 +169,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("Q100B00000_04_080");
-MsgDisp("Nanatsumori","Ok.
-Let's go check out my number one spot!");
-MsgDisp("主人公","(Hehe!
-It seems we've reached a decision!)");
+MsgDisp("Nanatsumori","Ok. Let's go check out my number one spot!");
+MsgDisp("主人公","(Hehe! It seems we've reached a decision!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・

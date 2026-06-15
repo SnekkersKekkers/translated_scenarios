@@ -73,8 +73,7 @@ couldn't see my surroundings...");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040506502_05_070");
-        MsgDisp("Hiiragi","Thank you.
-And...
+        MsgDisp("Hiiragi","Thank you. And...
 If, from now on too──");
         SEPlay("EV_SE_022",1);
         SEWait();

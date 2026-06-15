@@ -8,8 +8,7 @@ ScrFadeIn(0);
 VoicePlay("I562100007_21_000");
 MsgDisp("Michiru","Hm...?
 I've never seen this candy wrapping before.");
-MsgDisp("主人公","Ah.
-I tried wrapping that one myself...");
+MsgDisp("主人公","Ah. I tried wrapping that one myself...");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

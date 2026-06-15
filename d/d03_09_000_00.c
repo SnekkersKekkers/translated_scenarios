@@ -26,8 +26,7 @@ ScrFadeOut(0);
 StlClose();
 SEPlay("EV_SE_505");
 MsgDisp("","*Smooch*");
-MsgDisp("主人公","(∋
-Just now, my lips...)");
+MsgDisp("主人公","(∋ Just now, my lips...)");
 MsgClose();
 BGOpen("wf200",0);
 MsgClose();
@@ -41,8 +40,7 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030900000_09_030");
-MsgDisp("Kuya?","Hm?
-So are you okay?");
+MsgDisp("Kuya?","Hm? So are you okay?");
 MsgDisp("主人公","Ah, yes!
 I'm fine but...
 Just now, you and I—");
@@ -58,8 +56,7 @@ ChMouth(9,0);
 ChMotion(9,1,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030900000_09_050");
-MsgDisp("Kuya?","No, no.
-It doesn't bother me at all.");
+MsgDisp("Kuya?","No, no. It doesn't bother me at all.");
 MsgDisp("主人公","I see...");
 ChEye(9,2);
 ChMouth(9,0);
@@ -72,8 +69,7 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900000_09_070");
-MsgDisp("Kuya?","Yeah.
-That's from that new cafe, isn't it?");
+MsgDisp("Kuya?","Yeah. That's from that new cafe, isn't it?");
 MsgDisp("主人公","Yes!
 I'm a part-time journalist so I go around the
 city gathering information...");

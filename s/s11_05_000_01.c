@@ -9,15 +9,13 @@ ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("S110500001_05_000");
 MsgDisp("Hiiragi","I got Excellent Luck.");
-MsgDisp("主人公","Wow!
-I'm happy for you.");
+MsgDisp("主人公","Wow! I'm happy for you.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("S110500001_05_010");
 MsgDisp("Hiiragi","Yeah, thanks.");
-MsgDisp("主人公","Hmm?
-Are you not happy about it?");
+MsgDisp("主人公","Hmm? Are you not happy about it?");
 ChMotion(5,0);
 VoicePlay("S110500001_05_020");
 MsgDisp("Hiiragi","I'm happy, but I'm usually unlucky in

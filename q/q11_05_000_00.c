@@ -48,8 +48,8 @@ MsgDisp("Hiiragi","I found it near the Glasses Bridge and was
 interested in it.
 I rushed to it.");
 MsgDisp("主人公","Eeh∋
-You went all the way back and bought it for
-me?");
+You went all the way back and bought it
+for me?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("Q110500000_05_060");

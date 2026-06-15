@@ -66,8 +66,7 @@ VoicePlay("B330C30500_07_010");
 MsgDisp("Mikage","｛主人公｝, they're waiting on you.");
 ChEye(5,4);
 ChMouth(5,4);
-MsgDisp("主人公","Umm...
-｛Himuro＊＊｝, do your best?");
+MsgDisp("主人公","Umm... ｛Himuro＊＊｝, do your best?");
 SEPlay("EV_SE_086");
 Wait(15,1);
 SEPlay("EV_SE_087");
@@ -75,8 +74,7 @@ SEWait();
 VoicePlay("B330C30500_06_030");
 MsgDisp("Himuro","It's a bit off.
 Do it again.");
-MsgDisp("主人公","Ehh?
-｛Himuro＊＊｝, do your best?
+MsgDisp("主人公","Ehh? ｛Himuro＊＊｝, do your best?
 ...Is that okay?");
 SEPlay("EV_SE_086");
 Wait(15,1);

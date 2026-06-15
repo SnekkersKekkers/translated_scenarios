@@ -48,9 +48,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("G020630201_06_070");
-MsgDisp("Himuro","It's also important that the timing of what
-you want to do and what you can do together
-align.");
+MsgDisp("Himuro","It's also important that the timing of
+what you want to do and what you can do
+together align.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -62,8 +62,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630201_06_090");
-MsgDisp("Himuro","Well, it's not easy to meet someone like
-that.");
+MsgDisp("Himuro","Well, it's not easy to meet someone
+like that.");
 MsgDisp("主人公","That's why, if you meet someone like that,
 you should treasure them, right?");
 ChEye(6,0);

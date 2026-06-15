@@ -8,8 +8,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("F010500005_05_000");
     MsgDisp("Hiiragi","Ah, that is fine.
 I have a little spare time today.");
-    MsgDisp("主人公","Yay!
-Let's go.");
+    MsgDisp("主人公","Yay! Let's go.");
     break ;
     case 3:
     ChEye(5,0);
@@ -21,8 +20,8 @@ Let's go.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("F010500005_05_020");
-    MsgDisp("Hiiragi","Well then, let us settle this dispute at a
-cafe.");
+    MsgDisp("Hiiragi","Well then, let us settle this dispute at
+a cafe.");
     MsgDisp("主人公","Hehe, okay!");
     break ;
     case 4:
@@ -37,8 +36,7 @@ cafe.");
     ChMotion(5,3);
     VoicePlay("F010500005_05_040");
     MsgDisp("Hiiragi","Let us eat until our stomachs get bloated.");
-    MsgDisp("主人公","Hehe!
-Let's go.");
+    MsgDisp("主人公","Hehe! Let's go.");
     break ;
     default :
     DbgAssert(1);

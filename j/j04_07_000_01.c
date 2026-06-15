@@ -9,8 +9,7 @@ VoicePlay("J040700001_07_000");
 MsgDisp("Mikage","Hello.");
 MsgDisp("主人公","｛Mikage＊＊｝, you seem well.");
 VoicePlay("J040700001_07_010");
-MsgDisp("Mikage","So.
-You know...");
+MsgDisp("Mikage","So. You know...");
 MsgDisp("主人公","(Maybe there's a place he wants to go...
 What should I do?)");
 MsgSel("I'd like to go out this Sunday.", "I'm busy that day...");

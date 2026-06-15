@@ -20,8 +20,7 @@ It's right up my alley.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("L040800003_08_020");
-    MsgDisp("Shirahane","Yeah.
-I'm gonna savour this at home.
+    MsgDisp("Shirahane","Yeah. I'm gonna savour this at home.
 Thanks!");
     MsgDisp("主人公","(Thank goodness.
 He seemed to like it!)");
@@ -59,15 +58,13 @@ He seemed really happy!)");
     ChCheek(8,8);
     VoicePlay("L040800003_08_060");
     MsgDisp("Shirahane","Ah!");
-    MsgDisp("主人公","Huh?
-Wh, what's wrong?");
+    MsgDisp("主人公","Huh? Wh, what's wrong?");
     ChMouth(8,4);
     VoicePlay("L040800003_08_070");
     MsgDisp("Shirahane","A real handmade chocolate...
 You thought of me, huh?
 Your heart's in these.");
-    MsgDisp("主人公","Yeah.
-I made it just for you, ｛Daichi＊＊｝.");
+    MsgDisp("主人公","Yeah. I made it just for you, ｛Daichi＊＊｝.");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("L040800003_08_080");

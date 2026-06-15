@@ -40,8 +40,8 @@ MsgDisp("Mikage","Oh, wait, wait.
 You came all this way already.
 I'll serve you some tea.");
 MsgDisp("主人公","Hehe.
-This is kind of like ｛Mikage＊＊｝ 's
-house.");
+This is kind of like ｛Mikage＊＊｝
+'s house.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

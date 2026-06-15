@@ -13,8 +13,7 @@ You're sighing, is something the matter?");
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F102110000_21_010");
-MsgDisp("Michiru","Ah, Mari...
-Yeah...");
+MsgDisp("Michiru","Ah, Mari... Yeah...");
 MsgDisp("主人公","Is there something worrying you?");
 ChEye(21,4);
 ChMouth(21,4);
@@ -27,8 +26,7 @@ ChEye(21,2);
 ChMouth(21,2);
 ChMotion(21,2);
 VoicePlay("F102110000_21_030");
-MsgDisp("Michiru","But there's nothing I can do.
-Sigh...");
+MsgDisp("Michiru","But there's nothing I can do. Sigh...");
 MsgDisp("主人公","Um, if it's of any help, you can consult me
 about it?");
 ChEye(21,2);
@@ -42,8 +40,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);
 VoicePlay("F102110000_21_050");
-MsgDisp("Michiru","Sigh...
-What should I do...?");
+MsgDisp("Michiru","Sigh... What should I do...?");
 MsgDisp("主人公","(She seems super troubled.
 Will she be alright...?)");
 MsgClose();

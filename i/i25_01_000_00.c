@@ -96,8 +96,8 @@ subscription.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I250100000_01_090");
-    MsgDisp("Kazama","Then I wouldn't be able to see my bonus,
-right?
+    MsgDisp("Kazama","Then I wouldn't be able to see my
+bonus, right?
 So, I'll come again.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -135,8 +135,7 @@ It's for the hobby magazine corner.");
     ChOpen(1,255,0,0,2,#1,#1,0,0);
     VoicePlay("I250100000_01_120");
     MsgDisp("Kazama","Is here okay?");
-    MsgDisp("主人公","Yeah.
-Phew...thanks, ｛Kazama＊＊｝.
+    MsgDisp("主人公","Yeah. Phew...thanks, ｛Kazama＊＊｝.
 You saved me.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -156,8 +155,8 @@ You got it right as it was brought in.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I250100000_01_150");
-    MsgDisp("Kazama","I got to buy my magazine, and see you in your
-apron.
+    MsgDisp("Kazama","I got to buy my magazine, and see you in
+your apron.
 I'm glad I came today.");
     MsgDisp("主人公","Hehe, then I'll be counting on your help
 again next time.");

@@ -6,8 +6,8 @@ ChOpen(2,254,0,0,4,#1,#1,0,0,0,30);
 ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(6,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, what are you all gathered here talking
-about?");
+MsgDisp("主人公","Ah, what are you all gathered here
+talking about?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

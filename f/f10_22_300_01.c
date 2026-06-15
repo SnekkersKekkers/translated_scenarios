@@ -31,8 +31,7 @@ ChMouth(22,1);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F102230001_22_020");
-MsgDisp("Hikaru","Ehh∋
-But, it had a crest on its head!");
+MsgDisp("Hikaru","Ehh∋ But, it had a crest on its head!");
 MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝!
 Could it be you're talking about...");
 ChEye(21,4);
@@ -42,9 +41,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230001_22_030");
-MsgDisp("Hikaru","Hi～
-Mari♪ We're playing guess the character
-bento again today.");
+MsgDisp("Hikaru","Hi～ Mari♪
+We're playing guess the character bento
+again today.");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,0,1);
@@ -68,8 +67,7 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F102230001_22_050");
-MsgDisp("Hikaru","Ack～!
-That's not a part of swan lake.
+MsgDisp("Hikaru","Ack～! That's not a part of swan lake.
 Right?");
 MsgDisp("主人公","(I wonder what kind of swan it was.
 I really want to see it...)");

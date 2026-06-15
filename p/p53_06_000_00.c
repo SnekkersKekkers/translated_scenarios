@@ -91,8 +91,8 @@ take it easier?");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P530600000_06_090");
-    MsgDisp("Himuro","If you perform with that face, I'll also feel
-uneasy.");
+    MsgDisp("Himuro","If you perform with that face, I'll also
+feel uneasy.");
     MsgDisp("主人公","Yeah, that's right huh.
 Thank you.");
     ChEye(6,0);
@@ -109,8 +109,7 @@ Thank you.");
     ChMotion(6,3);
     ChCheek(6,0);
     VoicePlay("P530600000_06_110");
-    MsgDisp("Himuro","Yeah.
-I'll listen from here.
+    MsgDisp("Himuro","Yeah. I'll listen from here.
 ...Do your best.");
     MsgDisp("主人公","(｛Himuro＊＊｝...
 Alright, good luck!)");

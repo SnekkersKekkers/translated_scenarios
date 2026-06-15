@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("B040715100_07_010");
-    MsgDisp("Mikage","Course you won't.
-I'd be worried if you went down that easy.");
+    MsgDisp("Mikage","Course you won't. I'd be worried if you went
+down that easy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +40,8 @@ Adults win with their brains, see.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040715100_07_030");
-    MsgDisp("Mikage","What's that, you're quitting while you're
-ahead?");
+    MsgDisp("Mikage","What's that, you're quitting while
+you're ahead?");
     MsgDateResultDisp();
     break ;
     default :

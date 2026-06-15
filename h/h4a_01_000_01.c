@@ -34,8 +34,8 @@ Thanks.");
     ChMotion(1,0);
     VoicePlay("H4A0100001_01_030");
     MsgDisp("Kazama","Honestly, I was a little relieved.
-I'd be in trouble if you won and went out of
-reach.");
+I'd be in trouble if you won and went out
+of reach.");
     MsgDisp("主人公","(I'm disappointed that I lost, but I'm happy
 to hear how ｛Kazama＊＊｝ feels.)");
     break ;
@@ -79,16 +79,15 @@ But it's still frustrating...");
     ChOpen(1,254,0,0,3,#1,#1,0,0,0,30);
     VoicePlay("H4A0100001_01_080");
     MsgDisp("Kazama","It's proof that you tried your hardest.
-So stick out your chest proudly until the
-end.");
+So stick out your chest proudly until
+the end.");
     ChEye(1,0);
     ChMouth(1,4);
     ChMotion(1,0);
     VoicePlay("H4A0100001_01_090");
     MsgDisp("Kazama","I'll watch the closing ceremony with you, as
 your close associate.");
-    MsgDisp("主人公","Hehe.
-I'm glad you came, ｛Kazama＊＊｝.");
+    MsgDisp("主人公","Hehe. I'm glad you came, ｛Kazama＊＊｝.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);

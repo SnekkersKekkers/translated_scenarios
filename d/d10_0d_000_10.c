@@ -1,8 +1,7 @@
 BGOpen("ex000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew.
-Today was another productive day.)");
+MsgDisp("主人公","(Phew. Today was another productive day.)");
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -14,10 +13,9 @@ ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D100D00000_22_000");
 MsgDisp("Hikaru","Mari～▼
-A flower has bloomed in the garden of your
-heart♪");
-MsgDisp("主人公","Eh∋
-｛ひかる＊｝, ｛みちる＊｝!
+A flower has bloomed in the garden of
+your heart♪");
+MsgDisp("主人公","Eh∋ ｛ひかる＊｝, ｛みちる＊｝!
 My heart's...garden?");
 ChEye(21,4);
 ChMouth(21,0);

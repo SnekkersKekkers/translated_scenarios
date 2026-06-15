@@ -21,8 +21,8 @@ We look forward to your next visit!");
     MsgDisp("Shirahane","That's our poster girl for ya.");
     MsgDisp("主人公","Ah, ｛Daichi＊＊｝.");
     VoicePlay("I660800007_08_010");
-    MsgDisp("Shirahane","That regular only comes when you're on shift,
-y'know?");
+    MsgDisp("Shirahane","That regular only comes when you're on
+shift, y'know?");
     MsgDisp("主人公","Really?");
     ChEye(8,3);
     ChMouth(8,3);
@@ -37,8 +37,7 @@ manager happy, too.");
     ChMotion(8,3,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800007_08_030");
-    MsgDisp("Shirahane","Haha!
-Keep up the good work.");
+    MsgDisp("Shirahane","Haha! Keep up the good work.");
     MsgDisp("主人公","(It's a little embarrassing, but I'm happy to
 see that my hard work is being recognised.)");
     break ;

@@ -9,9 +9,9 @@ MsgDisp("主人公","Oh, really?");
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B020502125_05_010");
-MsgDisp("Hiiragi","Yes.
-But thanks to you, I have my answer.
-It's not bad at all. In fact, it's lovely.");
+MsgDisp("Hiiragi","Yes. But thanks to you, I have my answer.
+It's not bad at all.
+In fact, it's lovely.");
 MsgDisp("主人公","(Oh, good.
 Looks like it's fine to wear clothes like
 this now.)");

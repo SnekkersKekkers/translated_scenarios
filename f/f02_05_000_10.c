@@ -6,16 +6,16 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 ScrFadeIn(0);
 VoicePlay("F020500010_05_000");
-MsgDisp("Hiiragi","How are preparations for the school play
-going?");
+MsgDisp("Hiiragi","How are preparations for the school
+play going?");
 MsgDisp("主人公","Good.
-It's fun to have everyone working on one
-thing.");
+It's fun to have everyone working on
+one thing.");
 ChEye(5,4);
 VoicePlay("F020500010_05_010");
 MsgDisp("Hiiragi","Yes. That's something all of you taught me.
-It's the same as putting on a play with the
-troupe.");
+It's the same as putting on a play with
+the troupe.");
 MsgDisp("主人公","Is it really the same as a school play?");
 ChEye(5,0);
 ChMotion(5,4);

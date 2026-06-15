@@ -17,8 +17,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("R040300001_03_010");
-    MsgDisp("Honda","It suits the atmosphere of this castle very
-well.");
+    MsgDisp("Honda","It suits the atmosphere of this castle
+very well.");
     MsgDisp("主人公","No way...");
     ChEye(3,0);
     ChMouth(3,3);

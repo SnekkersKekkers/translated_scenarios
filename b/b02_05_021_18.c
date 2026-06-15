@@ -3,8 +3,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B020502118_05_000");
 MsgDisp("Hiiragi","Have you grown a little taller?");
-MsgDisp("主人公","Huh?
-I can't grow that fast.");
+MsgDisp("主人公","Huh? I can't grow that fast.");
 ChEye(5,4);
 VoicePlay("B020502118_05_010");
 MsgDisp("Hiiragi","I see, then it is the fashion you have on.

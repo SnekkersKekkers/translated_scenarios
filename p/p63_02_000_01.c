@@ -36,8 +36,7 @@ Mikage-sensei says that they're beauties.");
     VoicePlay("P630200001_02_020");
     MsgDisp("Sassa","Then, I'll have a beauty that you grew, and
 some herbal tea too, please.");
-    MsgDisp("主人公","Yes.
-One customer, this way～!");
+    MsgDisp("主人公","Yes. One customer, this way～!");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(2,#1);
@@ -74,15 +73,15 @@ care, huh?");
     VoicePlay("P630200001_02_050");
     MsgDisp("Sassa","Your own kid huh...
 I see, it'll be hard to eat in one go.");
-    MsgDisp("主人公","Ehh?
-Eat lots. They not only taste good, but look
+    MsgDisp("主人公","Ehh? Eat lots.
+They not only taste good, but look
 pretty too.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P630200001_02_060");
-    MsgDisp("Sassa","Then of course they take after their parent
-huh?");
+    MsgDisp("Sassa","Then of course they take after their
+parent huh?");
     MsgDisp("主人公","Eh...?");
     ChEye(2,0);
     ChMouth(2,0);

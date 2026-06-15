@@ -6,8 +6,7 @@ VoiceEVSPlay(3);
 VoicePlay("F100310001_03_000");
 MsgDisp("Honda?","｛主人公｝.
 This way, this way.");
-MsgDisp("主人公","Eh?
-｛Honda＊＊｝?");
+MsgDisp("主人公","Eh? ｛Honda＊＊｝?");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A",0.01);
 ChOpen(3,254,5,3,3,#1,#1,0,0);
@@ -24,8 +23,8 @@ And guess what, I saw it again the other day.");
 MsgDisp("主人公","Eh, the owner?");
 ChSet(3,3);
 VoicePlay("F100310001_03_030");
-MsgDisp("Honda","Right right, it seems like it's a girl in our
-year.");
+MsgDisp("Honda","Right right, it seems like it's a girl in
+our year.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -39,8 +38,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("F100310001_03_050");
-MsgDisp("Honda","Why?
-There are two umbrellas after all?");
+MsgDisp("Honda","Why? There are two umbrellas after all?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -52,8 +50,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Rule?
-Hypothesis?
+MsgDisp("主人公","(Rule? Hypothesis?
 ｛Honda＊＊｝ is having lots of fun.)");
 MsgClose();
 ScrFadeOut(0,0);

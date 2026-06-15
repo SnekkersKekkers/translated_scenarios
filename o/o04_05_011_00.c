@@ -15,8 +15,8 @@ Understood.");
     ChMotion(5,4);
     VoicePlay("O040501100_05_010");
     MsgDisp("Hiiragi","Hm.
-Even if you are my opponent, I shall not
-lose.");
+Even if you are my opponent, I shall
+not lose.");
     break ;
     case 4:
     case 5:

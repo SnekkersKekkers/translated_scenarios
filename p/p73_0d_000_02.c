@@ -36,8 +36,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("P730D00002_21_020");
-MsgDisp("Michiru","Yes.
-A wonderful smile.");
+MsgDisp("Michiru","Yes. A wonderful smile.");
 ChEye(22,3);
 ChEye(21,4);
 ChMouth(21,3);
@@ -51,11 +50,10 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P730D00002_22_020");
-MsgDisp("Hikaru","Imagine that Hikaru is your groom, next to
-you!
+MsgDisp("Hikaru","Imagine that Hikaru is your groom, next
+to you!
 You won't be nervous like that, right?");
-MsgDisp("主人公","Hehe.
-The, I'm off!");
+MsgDisp("主人公","Hehe. The, I'm off!");
 MsgDisp("主人公","(This is my last fashion show of high school!
 I absolutely have to make this a success!)");
 MsgClose();

@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     NSSEye(5,4);
     NSSMouth(5,4);
     VoicePlay("B160500200_05_010");
-    MsgDisp("Hiiragi","Yes.
-And so naturally, too.");
+    MsgDisp("Hiiragi","Yes. And so naturally, too.");
     break ;
     case 1:
     NSSEye(5,3);

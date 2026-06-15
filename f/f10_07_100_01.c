@@ -41,8 +41,8 @@ VoicePlay("F100710001_07_040");
 MsgDisp("Mikage","Ooh, I see.
 You prefer this one too?");
 MsgDisp("主人公","Umm, the coveralls are very
-｛Mikage＊＊｝-like too, so I think that's
-nice.");
+｛Mikage＊＊｝-like too, so I think
+that's nice.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -50,8 +50,8 @@ VoicePlay("F100710001_07_050");
 MsgDisp("Mikage","Ohh, you really get it.
 The contrast between suits and coveralls is
 what's great. You've got good taste.");
-MsgDisp("主人公","You bike to work in overalls in the morning,
-right?");
+MsgDisp("主人公","You bike to work in overalls in the
+morning, right?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -70,8 +70,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("F100710001_07_080");
-MsgDisp("Mikage","Alright, we can go to the classroom together
-today.");
+MsgDisp("Mikage","Alright, we can go to the classroom
+together today.");
 MsgDisp("主人公","Hehe, yes.");
 BGMStop();
 SEStop("EV_SE_SCHOOL_002");

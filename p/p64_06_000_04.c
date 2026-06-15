@@ -18,21 +18,20 @@ ChMotion(6,3);
 VoicePlay("P640600004_06_020");
 MsgDisp("Himuro","The appearance is also stylish, isn't this
 the skill of a pro?");
-MsgDisp("主人公","That was the result of giving it my best, I
-guess.");
+MsgDisp("主人公","That was the result of giving it my best,
+I guess.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("P640600004_06_030");
-MsgDisp("Himuro","Yes, I want to eat this everyday from now
-on...");
+MsgDisp("Himuro","Yes, I want to eat this everyday from
+now on...");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("P640600004_06_040");
-MsgDisp("Himuro","No!
-There's no deep meaning to that!");
+MsgDisp("Himuro","No! There's no deep meaning to that!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

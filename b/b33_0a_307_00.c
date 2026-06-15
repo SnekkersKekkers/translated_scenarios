@@ -32,8 +32,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30700_06_010");
-MsgDisp("Himuro","Ryota-senpai, you don't really like it do
-you?
+MsgDisp("Himuro","Ryota-senpai, you don't really like it
+do you?
 Rollercoasters that is.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -100,8 +100,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30700_01_060");
-MsgDisp("Kazama","Phew...
-I definitely won't lose.");
+MsgDisp("Kazama","Phew... I definitely won't lose.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -123,8 +122,7 @@ VoicePlay("B330A30700_01_080");
 VoicePlay("B330A30700_02_040");
 VoicePlay("B330A30700_06_060");
 MsgDisp("Everyone","It's a draw!");
-MsgDisp("主人公","(Umm...
-It's almost our turn.)");
+MsgDisp("主人公","(Umm... It's almost our turn.)");
 BGMStop();
 MsgClose();
 Wait(60,0);

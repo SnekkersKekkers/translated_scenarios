@@ -23,8 +23,7 @@ VoicePlay("B360401101_04_020");
 MsgDisp("Nanatsumori","After all the chaos from earlier, it's pretty
 relaxed now, right?
 I can breathe a sigh of relief.");
-MsgDisp("主人公","I see.
-Everyone was having so much fun!");
+MsgDisp("主人公","I see. Everyone was having so much fun!");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);

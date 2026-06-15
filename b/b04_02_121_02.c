@@ -61,8 +61,7 @@ Then, shall we take a short break?");
         MsgDisp("Sassa","This is hush money.");
         SEPlay("EV_SE_535");
         SEWait();
-        MsgDisp("主人公","Ehh?
-...peppers?");
+        MsgDisp("主人公","Ehh? ...peppers?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,2);
@@ -80,8 +79,7 @@ And he told us not to tell Himuro-sensei.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040212101_02_070");
-        MsgDisp("Sassa","Yeah.
-And he said he was also watching us.");
+        MsgDisp("Sassa","Yeah. And he said he was also watching us.");
         MsgDisp("主人公","Eh, what did he say?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -104,8 +102,8 @@ About being called a couple...");
         VoicePlay("B040212101_02_100");
         MsgDisp("Sassa","So let's take another lap.
 This time we'll really sell it.");
-        MsgDisp("主人公","(We look like lovers to the people around
-us...
+        MsgDisp("主人公","(We look like lovers to the people
+around us...
 That's somewhat embarrassing.)");
         break ;
         default :
@@ -131,8 +129,7 @@ so you feel like you're not tired right?");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040212101_02_120");
-    MsgDisp("Sassa","Eh?
-I'm also having fun though.");
+    MsgDisp("Sassa","Eh? I'm also having fun though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

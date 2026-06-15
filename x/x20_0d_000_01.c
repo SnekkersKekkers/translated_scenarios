@@ -25,5 +25,4 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("X200D00001_22_010");
 MsgDisp("Hikaru","Mari should enter too♪");
-MsgDisp("主人公","Me∋
-That's impossible...");
+MsgDisp("主人公","Me∋ That's impossible...");

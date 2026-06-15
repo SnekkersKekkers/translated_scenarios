@@ -12,8 +12,8 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D150001601_06_000");
 MsgDisp("Himuro","That's true.
-I have to agree with Ryota-senpai's opinion
-today.");
+I have to agree with Ryota-senpai's
+opinion today.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -55,8 +55,7 @@ ChMouth(1,0);
 ChMotion(1,3);
 VoicePlay("D150001601_01_040");
 MsgDisp("Kazama","That's exactly it.");
-MsgDisp("主人公","(Uhm...
-What are they talking about?)");
+MsgDisp("主人公","(Uhm... What are they talking about?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

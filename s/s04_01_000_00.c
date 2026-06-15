@@ -54,8 +54,7 @@ Did I do something wrong...)");
     case 4:
     case 5:
     SEPlay("EV_SE_579");
-    MsgDisp("主人公","Huh?
-It's ｛Kazama＊＊｝.");
+    MsgDisp("主人公","Huh? It's ｛Kazama＊＊｝.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_579",0);
     SEWait();
@@ -71,8 +70,7 @@ Let's go then and visit the shrine.");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040100000_01_080");
-        MsgDisp("Kazama","OK.
-I'm coming in a bit.");
+        MsgDisp("Kazama","OK. I'm coming in a bit.");
         MsgDisp("主人公","Thank you.
 You're coming to pick me up?");
         VoicePlay("S040100000_01_090");

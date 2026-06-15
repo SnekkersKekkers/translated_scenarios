@@ -8,8 +8,7 @@ switch (ChPrmGet(2,6)){
     MsgClose();
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoicePlay("S090200000_02_000");
-    MsgDisp("Sassa","Ooh.
-Over there, fortunes!");
+    MsgDisp("Sassa","Ooh. Over there, fortunes!");
     MsgDisp("主人公","Oh, you're right.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -23,8 +22,7 @@ Over there, fortunes!");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("S090200000_02_020");
-        MsgDisp("Sassa","Yes!
-This way, so we don't trip.");
+        MsgDisp("Sassa","Yes! This way, so we don't trip.");
         MsgDisp("主人公","Yeah, my heart is racing.");
         break ;
         case 1:
@@ -63,16 +61,14 @@ It's right in front of us.");
         VoicePlay("S090200000_02_060");
         MsgDisp("Sassa","That's the right answer.
 Alright then, ｌａｄｉｅｓ ｆｉｒｓｔ．");
-        MsgDisp("主人公","Ehh?
-I'm getting a bit nervous.");
+        MsgDisp("主人公","Ehh? I'm getting a bit nervous.");
         break ;
         case 1:
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("S090200000_02_070");
-        MsgDisp("Sassa","I see.
-You've had enough of the crowds, huh?
+        MsgDisp("Sassa","I see. You've had enough of the crowds, huh?
 Let's go.");
         MsgClose();
         ScrFadeOut(0,0);
@@ -88,8 +84,7 @@ Let's go.");
     ChOpen(2,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090200000_02_080");
     MsgDisp("Sassa","It's a mess with so many moving people.");
-    MsgDisp("主人公","Phew...
-｛Sassa＊＊｝, thanks for guarding me.");
+    MsgDisp("主人公","Phew... ｛Sassa＊＊｝, thanks for guarding me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -118,10 +113,9 @@ We've got just one shot for the year.");
         ChMotion(2,3);
         VoicePlay("S090200000_02_120");
         MsgDisp("Sassa","It's okay.
-Don't give up, even if you don't get a good
-one.");
-        MsgDisp("主人公","Eh?
-But it's just one try...");
+Don't give up, even if you don't get a
+good one.");
+        MsgDisp("主人公","Eh? But it's just one try...");
         break ;
         case 1:
         ChEye(2,0);

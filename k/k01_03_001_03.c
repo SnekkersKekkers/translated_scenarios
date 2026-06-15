@@ -6,8 +6,8 @@ ChMotion(3,4);
 ScrFadeIn(0);
 VoicePlay("K010300103_03_000");
 MsgDisp("Honda","Ahaha...
-Do you really see me as the type to like
-this?");
+Do you really see me as the type to
+like this?");
 MsgDisp("主人公","You didn't like it?");
 ChEye(3,4);
 ChMouth(3,0);
@@ -16,8 +16,7 @@ VoicePlay("K010300103_03_010");
 MsgDisp("Honda","It's not that I didn't like it, rather, I
 don't know how to react?
 Sorry I couldn't show you a reaction.");
-MsgDisp("主人公","(Ugh...
-It doesn't look like he liked it.)");
+MsgDisp("主人公","(Ugh... It doesn't look like he liked it.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -8,8 +8,7 @@ ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B030816000_08_000");
 MsgDisp("Shirahane","Feels like a mini amusement park, right?");
-MsgDisp("主人公","Haha!
-You think so?");
+MsgDisp("主人公","Haha! You think so?");
 MsgDispSksp(1,0);
 ChEye(8,3);
 ChMouth(8,3);

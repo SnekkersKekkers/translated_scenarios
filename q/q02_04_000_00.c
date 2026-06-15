@@ -40,8 +40,7 @@ I'm really excited!)");
         case 1:
         ChMotion(4,0,1);
         VoicePlay("Q020400000_04_040");
-        MsgDisp("Nanatsumori","I see...
-Oh well, I'll go on my own.");
+        MsgDisp("Nanatsumori","I see... Oh well, I'll go on my own.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(4,0,30);
@@ -66,8 +65,7 @@ Good morning.");
     ChEye(4,3);
     ChMouth(4,3);
     VoicePlay("Q020400000_04_060");
-    MsgDisp("Nanatsumori","Mhm.
-It's good that you're full of energy.");
+    MsgDisp("Nanatsumori","Mhm. It's good that you're full of energy.");
     ChMotion(4,1,1);
     VoicePlay("Q020400000_04_070");
     MsgDisp("Nanatsumori","Wanna hang out during the free period

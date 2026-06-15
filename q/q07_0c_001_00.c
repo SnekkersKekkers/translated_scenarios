@@ -24,8 +24,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("Q070C00100_07_010");
-MsgDisp("Mikage","The reaction of you two is great, it fits you
-guys.
+MsgDisp("Mikage","The reaction of you two is great, it fits
+you guys.
 So diligent and pure.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -40,21 +40,18 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_020");
-MsgDisp("Hiiragi","Um...
-Yes, it's from Inori. 
+MsgDisp("Hiiragi","Um... Yes, it's from Inori.
 \"Show me all the places\"?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","Hehe.
-Looks like ｛Himuro＊＊｝ is pouting, huh?");
+MsgDisp("主人公","Hehe. Looks like ｛Himuro＊＊｝ is pouting, huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q070C00100_07_030");
-MsgDisp("Mikage","Yeah.
-But maybe he's trying to entertain us?");
+MsgDisp("Mikage","Yeah. But maybe he's trying to entertain us?");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
@@ -150,8 +147,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q070C00100_05_090");
 MsgDisp("Hiiragi","Alright.
-Let's just sit over there and write something
-back.");
+Let's just sit over there and write
+something back.");
 MsgClose();
 SEPlay("EV_SE_856",0,0.6);
 ChClose(5,0,30);

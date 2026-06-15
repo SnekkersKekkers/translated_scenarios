@@ -28,8 +28,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("P540D00005_22_010");
-MsgDisp("Hikaru","Yeah.
-MAri is amazing!");
+MsgDisp("Hikaru","Yeah. MAri is amazing!");
 MsgDisp("主人公","Thanks...");
 ChEye(21,4);
 ChMouth(21,0);

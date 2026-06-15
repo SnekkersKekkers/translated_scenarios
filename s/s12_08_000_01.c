@@ -46,8 +46,7 @@ Let's have another great year!");
     ScrFadeIn(0);
     VoicePlay("S120800001_08_020");
     MsgDisp("Shirahane","...It's already time.");
-    MsgDisp("主人公","Yep.
-Thanks for taking me back.");
+    MsgDisp("主人公","Yep. Thanks for taking me back.");
     ChEye(8,4);
     ChMouth(8,4);
     ChMouthOpenLevel(8,0);
@@ -63,8 +62,7 @@ Thanks for taking me back.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("S120800001_08_050");
-    MsgDisp("Shirahane","Yes!
-If you're sure about that, see you soon!");
+    MsgDisp("Shirahane","Yes! If you're sure about that, see you soon!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);

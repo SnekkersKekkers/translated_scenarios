@@ -12,8 +12,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B080800000_08_000");
-MsgDisp("Shirahane","Yeah.
-Rest well today.
+MsgDisp("Shirahane","Yeah. Rest well today.
 Well then...goodnight.");
 MsgClose();
 MsgDispSksp(0);

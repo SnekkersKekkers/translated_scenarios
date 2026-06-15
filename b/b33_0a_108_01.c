@@ -68,8 +68,7 @@ You come too.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","Eh, me?
-...Y-Yeah.");
+MsgDisp("主人公","Eh, me? ...Y-Yeah.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0.3,0.6);
 BGMStop();
 MsgClose();
@@ -187,8 +186,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10801_01_070");
-MsgDisp("Kazama","And why is that?
-Hey?");
+MsgDisp("Kazama","And why is that? Hey?");
 MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of something
 like that...)");
 BGMStop();

@@ -19,8 +19,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q090D00000_22_000");
 MsgDisp("Hikaru","Yeah!
-Hikaru wants to visit souvenir shops and
-stuff!");
+Hikaru wants to visit souvenir shops
+and stuff!");
 MsgDisp("主人公","Right.
 Well, let's get going, shall we?");
 ChEye(22,3);

@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523401_05_010");
-    MsgDisp("Hiiragi","Yes, including you spinning the cup like
-crazy.");
+    MsgDisp("Hiiragi","Yes, including you spinning the cup
+like crazy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

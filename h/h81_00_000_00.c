@@ -6,8 +6,8 @@ ScrFadeOut(0);
 BGOpen("sc605",0);
 ScrFadeIn(0);
 VoicePlay("H810000000_39_000");
-MsgDisp("Teacher","It's quite a lot of work, but it's worth
-doing.
+MsgDisp("Teacher","It's quite a lot of work, but it's
+worth doing.
 Do your best.");
 MsgDisp("主人公","(It seems hard, but I'll do my best!)");
 switch (ChPrmGet(5,6)){
@@ -54,15 +54,13 @@ I look forward to working with you!");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoicePlay("I650500000_05_000");
     MsgDisp("Hiiragi","So it was you after all.");
-    MsgDisp("主人公","Ah!
-I joined the student council t-");
+    MsgDisp("主人公","Ah! I joined the student council t-");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("F020500006_05_000");
     MsgDisp("Hiiragi","Yes, I am looking forward to it.");
-    MsgDisp("主人公","Hehe!
-Let's work well together, ｛Hiiragi＊＊＊｝.");
+    MsgDisp("主人公","Hehe! Let's work well together, ｛Hiiragi＊＊＊｝.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);

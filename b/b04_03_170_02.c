@@ -91,14 +91,13 @@ Alright, next song.");
         ChMouth(3,4);
         ChMotion(3,1);
         VoicePlay("B040317002_03_070");
-        MsgDisp("Honda","No.
-I can't fail you.
+        MsgDisp("Honda","No. I can't fail you.
 That's the one thing I absolutely won't do.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040317002_03_080");
-        MsgDisp("Honda","Your wishes mean more to me than anything
-else.
+        MsgDisp("Honda","Your wishes mean more to me than
+anything else.
 I'm not gonna stop till I get that 100!");
         BGMPlay("BGM_KARAOKE_JPOP",0.01,0.8);
         Wait(30,1);

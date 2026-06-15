@@ -20,16 +20,15 @@ ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,0);
 VoicePlay("G110300503_03_000");
-MsgDisp("Honda","No, I thought if I organised the books, it
-would sort out my mind too...but it didn't
-help.");
+MsgDisp("Honda","No, I thought if I organised the books,
+it would sort out my mind too...but it
+didn't help.");
 MsgDisp("主人公","Eh...");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300503_03_010");
-MsgDisp("Honda","Phew...
-I've stopped organising it now.");
+MsgDisp("Honda","Phew... I've stopped organising it now.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(3,0,0);
@@ -48,15 +47,13 @@ ChMotion(3,0,1);
 VoicePlay("G110300503_03_030");
 MsgDisp("Honda","I was scolded by my little sister and my Mom
 at home too.");
-MsgDisp("主人公","Ehh∋
-You talked about it at home?
+MsgDisp("主人公","Ehh∋ You talked about it at home?
 That's embarrassing...");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,2,1);
 VoicePlay("G110300503_03_040");
-MsgDisp("Honda","Ehh.
-That's how it was huh...");
+MsgDisp("Honda","Ehh. That's how it was huh...");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);

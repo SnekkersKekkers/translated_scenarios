@@ -54,8 +54,7 @@ The rest is a matter of gettin' used to it.");
     ChMotion(8,2,1);
     ChCheek(8,5);
     VoicePlay("B040811100_08_040");
-    MsgDisp("Shirahane","Okay.
-Then...give me your hand?");
+    MsgDisp("Shirahane","Okay. Then...give me your hand?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

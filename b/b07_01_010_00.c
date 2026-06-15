@@ -13,8 +13,7 @@ VoiceEVSPlay(1);
 VoicePlay("B070101000_01_000");
 MsgDisp("Kazama","｛主人公｝.
 You asked me what I thought about love right?");
-MsgDisp("主人公","Eh...
-Ah, yeah.");
+MsgDisp("主人公","Eh... Ah, yeah.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -30,8 +29,7 @@ ChEyeOpenLevel(1,#1);
 VoicePlay("B070101000_01_020");
 MsgDisp("Kazama","Then, did you think about it?
 You said you'd think about it properly.");
-MsgDisp("主人公","Umm...
-I haven't really thought about it.");
+MsgDisp("主人公","Umm... I haven't really thought about it.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -90,7 +88,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_100");
 MsgDisp("Kazama","Sigh—, fine.
 Maybe I'm observing you too much.");
-MsgDisp("主人公","But maybe what ｛Kazama＊＊｝ thinks is actually right—");
+MsgDisp("主人公","But maybe what ｛Kazama＊＊｝ thinks is
+actually right—");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);

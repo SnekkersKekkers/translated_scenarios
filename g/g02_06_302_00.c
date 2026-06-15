@@ -19,9 +19,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630200_06_020");
-MsgDisp("Himuro","No.
-You don't make friends just because you want
-to.");
+MsgDisp("Himuro","No. You don't make friends just because you
+want to.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -54,8 +53,7 @@ ChMotion(6,0);
 VoicePlay("G020630200_06_070");
 MsgDisp("Himuro","You only need friends who you can cherish and
 who you know well.");
-MsgDisp("主人公","I see.
-So this is what ｛Himuro＊＊｝ thinks?");
+MsgDisp("主人公","I see. So this is what ｛Himuro＊＊｝ thinks?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

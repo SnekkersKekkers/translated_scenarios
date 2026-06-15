@@ -6,8 +6,8 @@ VoicePlay("P840700005_48_000");
 MsgDisp("School Girl","No that was because ours was put in that
 space too.");
 MsgDisp("主人公","I'm sorry.
-Seems like management's directions were
-wrong.");
+Seems like management's directions
+were wrong.");
 VoicePlay("P840700005_41_020");
 MsgDisp("School Boy","Ehh? is that right.
 Get your act together, student council.");
@@ -21,8 +21,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840700005_07_010");
-MsgDisp("Mikage","It seems like it was difficult to the end
-huh?");
+MsgDisp("Mikage","It seems like it was difficult to the
+end huh?");
 MsgDisp("主人公","Ah, ｛Mikage＊＊｝...
 Our instructions were wrong, so we caused
 some trouble.");
@@ -30,15 +30,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P840700005_07_020");
-MsgDisp("Mikage","I see.
-But it wasn't a great deal of trouble?
+MsgDisp("Mikage","I see. But it wasn't a great deal of trouble?
 Everyone thanks you guys.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P840700005_07_030");
-MsgDisp("Mikage","A little mistake will turn into a good
-memory.");
+MsgDisp("Mikage","A little mistake will turn into a
+good memory.");
 MsgDisp("主人公","Yes....");
 ChEye(7,2);
 ChMouth(7,0);

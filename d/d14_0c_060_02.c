@@ -43,8 +43,7 @@ ChMotion(6,3);
 VoicePlay("D140C06002_06_030");
 MsgDisp("Himuro","And, I'd like to see a troubled
 Mikage-sensei.");
-MsgDisp("主人公","Hey.
-We can't cause him trouble.");
+MsgDisp("主人公","Hey. We can't cause him trouble.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

@@ -38,8 +38,7 @@ I have to remember!)");
         case 4:
         case 5:
         VoicePlay("J060801000_08_020");
-        MsgDisp("Daichi","Ah...
-Not a fan of that place?");
+        MsgDisp("Daichi","Ah... Not a fan of that place?");
         MsgDisp("主人公","Yeah, sorry.");
         VoicePlay("J060801000_08_030");
         MsgDisp("Daichi","It's all good.

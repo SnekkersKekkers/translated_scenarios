@@ -21,8 +21,7 @@ What's wrong?");
     MsgDisp("Honda","I was trying to look for your name from the
 top, but my eyes got tired before I found
 it...Sorry.");
-    MsgDisp("主人公","(Oof...
-I've got to study harder...)");
+    MsgDisp("主人公","(Oof... I've got to study harder...)");
     break ;
     case 3:
     ChEye(3,0);
@@ -44,8 +43,7 @@ I do that a lot.");
     ChMouth(3,5);
     ChMotion(3,5);
     VoicePlay("N020300003_03_040");
-    MsgDisp("Honda","Huh∋
-Am I wrong∋");
+    MsgDisp("Honda","Huh∋ Am I wrong∋");
     MsgDisp("主人公","(｛Honda＊＊｝ believes that my results are
 unbelievable...
 I've got to study harder...)");

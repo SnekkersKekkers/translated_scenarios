@@ -38,8 +38,8 @@ you look at it.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040306500_03_030");
-    MsgDisp("Honda","Hey, focus with all your might while the fun
-lasts!");
+    MsgDisp("Honda","Hey, focus with all your might while the
+fun lasts!");
     MsgDateResultDisp();
     break ;
     default :

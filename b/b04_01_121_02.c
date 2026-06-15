@@ -93,8 +93,7 @@ It's difficult to figure out what you'd want.");
         VoicePlay("B040112102_01_070");
         MsgDisp("Kazama","To see you thinking so hard about me, just
 seeing that is enough.");
-        MsgDisp("主人公","Huh?
-But I haven't found something yet.");
+        MsgDisp("主人公","Huh? But I haven't found something yet.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,1);

@@ -36,8 +36,7 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B050100300_01_030");
-MsgDisp("Kazama","Hmm.
-Then, shall we get out there?");
+MsgDisp("Kazama","Hmm. Then, shall we get out there?");
 MsgDisp("主人公","You're going back already?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -103,8 +102,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,#1);
 VoicePlay("B050100300_01_090");
 MsgDisp("Kazama","I'm really sorry.");
-MsgDisp("主人公","Eh.
-Why are you apologising?");
+MsgDisp("主人公","Eh. Why are you apologising?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -116,8 +114,8 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("B050100300_01_110");
-MsgDisp("Kazama","Honestly...your skating skills didn't really
-matter.
+MsgDisp("Kazama","Honestly...your skating skills didn't
+really matter.
 Just that...your hand...");
 MsgDisp("主人公","Hand?");
 ChEye(1,2);

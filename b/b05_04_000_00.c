@@ -61,8 +61,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,4,1);
 VoicePlay("B050400000_04_030");
-MsgDisp("Nanatsumori","Shh.
-Come here.
+MsgDisp("Nanatsumori","Shh. Come here.
 Now, give me your hand.");
 MsgClose();
 ChClose(4,0,30);
@@ -115,8 +114,7 @@ MsgDisp("Woman A","Got it, he's a NANA fan!
 There are quite a lot of guys who copy NANA's
 hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
-MsgDisp("Woman B","That's right.
-Ah—
+MsgDisp("Woman B","That's right. Ah—
 That scared me—!");
 MsgDisp("主人公","(I'm glad...
 Looks like they didn't even discover it was
@@ -135,15 +133,13 @@ ChLayout(1);
 ChNanaType(1);
 ChOpen(4,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Sigh...
-My heart is racing...");
+MsgDisp("主人公","Sigh... My heart is racing...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B050400000_04_070");
 MsgDisp("Nanatsumori","We somehow worked it out right?");
-MsgDisp("主人公","Yeah.
-Why was that I wonder?");
+MsgDisp("主人公","Yeah. Why was that I wonder?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -158,8 +154,8 @@ MsgDisp("Nanatsumori","Those two shared a filter that made them
 believe that \"NANA\" couldn't have a
 girlfriend.");
 MsgDisp("主人公","I see.
-I'm glad your true identity didn't get
-leaked.");
+I'm glad your true identity didn't
+get leaked.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -183,6 +179,5 @@ ChMotion(4,3,1);
 VoicePlay("B050400000_04_130");
 MsgDisp("Nanatsumori","I'm begging you.
 Now let's continue shopping.");
-MsgDisp("主人公","(...Hm?
-He said \"next time\"...)");
+MsgDisp("主人公","(...Hm? He said \"next time\"...)");
 ChPrmTblAdd(4,0);

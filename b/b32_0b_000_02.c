@@ -1,8 +1,7 @@
 BGMPlay("BGM_HANYOU_A",0.01);
 ChMouth(4,3);
 VoicePlay("B320B00002_04_000");
-MsgDisp("Nanatsumori","Yeah.
-I set two alarms today.");
+MsgDisp("Nanatsumori","Yeah. I set two alarms today.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

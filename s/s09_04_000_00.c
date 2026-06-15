@@ -18,8 +18,7 @@ switch (ChPrmGet(4,6)){
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_010");
-        MsgDisp("Nanatsumori","OK.
-Let's line up then.");
+        MsgDisp("Nanatsumori","OK. Let's line up then.");
         MsgDisp("主人公","Yep!");
         break ;
         case 1:
@@ -61,8 +60,7 @@ We can only do this during New Years, right?");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_050");
-        MsgDisp("Nanatsumori","Oh...
-Next time, then.");
+        MsgDisp("Nanatsumori","Oh... Next time, then.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -78,8 +76,7 @@ Next time, then.");
     ChOpen(4,255,0,0,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090400000_04_060");
-    MsgDisp("Nanatsumori","Hm.
-What should we do...");
+    MsgDisp("Nanatsumori","Hm. What should we do...");
     MsgDisp("主人公","Hm?");
     ChEye(4,0);
     ChMouth(4,0);
@@ -94,8 +91,7 @@ Are you brave enough to give it a try?");
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("S090400000_04_080");
-        MsgDisp("Nanatsumori","Ooh...
-So strong.");
+        MsgDisp("Nanatsumori","Ooh... So strong.");
         MsgDisp("主人公","Is ｛Nanatsumori＊｝ afraid of drawing
 fortunes?");
         ChEye(4,2);
@@ -128,8 +124,7 @@ Let's go.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("S090400000_04_120");
-        MsgDisp("Nanatsumori","No.
-I feel like it's fate for me to try
+        MsgDisp("Nanatsumori","No. I feel like it's fate for me to try
 especially because you don't want to.");
         MsgDisp("主人公","???");
         ChEye(4,0);

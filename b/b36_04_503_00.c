@@ -10,14 +10,13 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","Phew..
-Don't you feel like letting out a sigh of
-relief?");
+Don't you feel like letting out a sigh
+of relief?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B360450300_04_000");
-MsgDisp("Nanatsumori","Yeah.
-Today has been hectic.
+MsgDisp("Nanatsumori","Yeah. Today has been hectic.
 Finally, we can have some quiet time.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,0);
@@ -34,8 +33,7 @@ ChMouth(4,4);
 VoicePlay("B360450300_04_020");
 MsgDisp("Nanatsumori","Your heart's still pounding...
 You mean...like an afterglow?");
-MsgDisp("主人公","Hmm...
-I wonder.
+MsgDisp("主人公","Hmm... I wonder.
 It's a bit different.");
 ChEye(4,0);
 ChMouth(4,0);

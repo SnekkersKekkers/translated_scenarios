@@ -15,8 +15,8 @@ Alright, let's wipe it!)");
     VoicePlay("I160100001_01_000");
     MsgDisp("Kazama","Oh, I'm impressed.");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
-I can't get rid of the dirt on the glass
-well.");
+I can't get rid of the dirt on the
+glass well.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);

@@ -35,8 +35,8 @@ Yeah, I am.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O030601000_06_030");
-    MsgDisp("Himuro","If you don't pull on my leg, I can run with
-you.");
+    MsgDisp("Himuro","If you don't pull on my leg, I can run
+with you.");
     MsgDisp("主人公","I, I'll do my best.");
     break ;
     case 4:
@@ -54,8 +54,7 @@ you.");
     SEWait();
     ChOpen(6,30,2,0,0,0,#1,0,0);
     VoicePlay("O030601000_06_040");
-    MsgDisp("Himuro","Phew...
-I finally found you.");
+    MsgDisp("Himuro","Phew... I finally found you.");
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
     ChEye(6,0);
     ChMouth(6,0);

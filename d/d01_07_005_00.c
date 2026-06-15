@@ -18,8 +18,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","Sigh...
-It's no use.
+MsgDisp("主人公","Sigh... It's no use.
 I don't get it...");
 VoicePlay("D010700500_07_000");
 MsgDisp("Mikage?","Which one?");
@@ -29,8 +28,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("D010700500_07_010");
-MsgDisp("Mikage","My favourite Miss Diligent is studying away, so
-I came to help.");
+MsgDisp("Mikage","My favourite Miss Diligent is studying away,
+so I came to help.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);
@@ -46,8 +45,8 @@ ScrFadeIn(0);
 VoicePlay("D010700500_07_020");
 MsgDisp("Mikage","—So, which part of it don't you understand?");
 MsgDisp("主人公","Uhm...
-I guess I don't even know what I don't
-know...");
+I guess I don't even know what I
+don't know...");
 StlEye(7,2);
 VoicePlay("D010700500_07_030");
 MsgDisp("Mikage","Hahaha, how refreshing.");

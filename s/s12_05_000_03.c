@@ -53,15 +53,14 @@ Thank you for going out with me.");
     ChEye(5,2);
     ChMotion(5,4);
     VoicePlay("S120500001_05_130");
-    MsgDisp("Hiiragi","I wish we could have taken our time a bit
-more.");
+    MsgDisp("Hiiragi","I wish we could have taken our time a
+bit more.");
     MsgDisp("主人公","I can't keep the Chairman all to myself on
 New Years.");
     ChEye(5,4);
     ChMotion(5,2);
     VoicePlay("S120500001_05_140");
-    MsgDisp("Hiiragi","Ha, you're so kind.
-But—");
+    MsgDisp("Hiiragi","Ha, you're so kind. But—");
     ChMotion(5,0);
     VoicePlay("S120500001_05_150");
     MsgDisp("Hiiragi","I think I'd like to see an unreasonable side
@@ -75,8 +74,8 @@ Happy New Years.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(...Should I try being more selfish this
-year?)");
+    MsgDisp("主人公","(...Should I try being more selfish
+this year?)");
     break ;
     default :
     DbgAssert(1);

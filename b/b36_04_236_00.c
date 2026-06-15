@@ -24,8 +24,7 @@ Yeah, it is moving...");
 ChEye(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360423600_04_020");
-MsgDisp("Nanatsumori","Oh my.
-You're getting all teary-eyed...");
+MsgDisp("Nanatsumori","Oh my. You're getting all teary-eyed...");
 ChEye(4,0);
 VoicePlay("B360423600_04_030");
 MsgDisp("Nanatsumori","Hey, look this way.");
@@ -57,8 +56,8 @@ ScrFadeIn(0);
 ChMotion(4,5,1);
 VoicePlay("B360423600_04_060");
 MsgDisp("Nanatsumori","S-Sorry!
-I didn't mean to do something like that just
-no—");
+I didn't mean to do something like that
+just no—");
 MsgDisp("主人公","Just now, on my n-nose...");
 ChEye(4,2);
 ChMouth(4,2);
@@ -66,8 +65,7 @@ ChMotion(4,0,1);
 VoicePlay("B360423600_04_070");
 MsgDisp("Nanatsumori","I-I think I kissed it...
 Sorry.");
-MsgDisp("主人公","N-No.
-It's alright.");
+MsgDisp("主人公","N-No. It's alright.");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);

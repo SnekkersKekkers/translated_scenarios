@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040503301_05_010");
     MsgDisp("Hiiragi","That's right.
-I have to hand it to whoever was first to try
-it.");
+I have to hand it to whoever was first to
+try it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

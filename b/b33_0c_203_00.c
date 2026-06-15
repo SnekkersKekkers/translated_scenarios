@@ -13,8 +13,8 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B330C20300_05_000");
-MsgDisp("Hiiragi","Inori-kun, is there a shop you're interested
-in?");
+MsgDisp("Hiiragi","Inori-kun, is there a shop you're
+interested in?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -101,8 +101,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C20300_05_030");
-MsgDisp("Hiiragi","It would be best if you did not come here
-alone.");
+MsgDisp("Hiiragi","It would be best if you did not come
+here alone.");
 ChEye(7,1);
 ChMouth(7,4);
 ChMotion(7,5);
@@ -124,8 +124,7 @@ ChEye(7,5);
 ChMouth(7,5);
 ChMotion(7,4);
 VoicePlay("B330C20300_07_030");
-MsgDisp("Mikage","O-Oi.
-What's wrong?");
+MsgDisp("Mikage","O-Oi. What's wrong?");
 VoicePlay("B330C20300_06_060");
 MsgDisp("Himuro","Leave Kojiro-sensei as he is.");
 ChClose(7,0,30);
@@ -137,8 +136,8 @@ MsgDisp("Hiiragi","Mikage-sensei's personality clashes with the
 atmosphere of the shop.");
 MsgDisp("主人公","Umm...");
 VoicePlay("B330C20300_06_070");
-MsgDisp("Himuro","It's beyond uncomfortable, it's a little
-scary.");
+MsgDisp("Himuro","It's beyond uncomfortable, it's a
+little scary.");
 ChEye(7,2);
 ChMouth(7,2);
 ChMotion(7,2);

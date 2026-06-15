@@ -12,8 +12,7 @@ BGOpen("sc512",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_DOOR_024");
 SEWait();
-MsgDisp("主人公","(...?
-He's not in the science prep room...)");
+MsgDisp("主人公","(...? He's not in the science prep room...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -42,8 +41,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700701_07_020");
-MsgDisp("Mikage","Yeah.
-Milk, vegetables and bread.
+MsgDisp("Mikage","Yeah. Milk, vegetables and bread.
 That would be popular, wouldn't it?");
 MsgDisp("主人公","Yes.
 It would be even more fun if Molly and the
@@ -68,8 +66,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700701_07_050");
-MsgDisp("Mikage","Yeah.
-That includes you too.");
+MsgDisp("Mikage","Yeah. That includes you too.");
 MsgDisp("主人公","Ehh∋");
 ChEye(7,0);
 ChMouth(7,0);

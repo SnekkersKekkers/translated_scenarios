@@ -44,8 +44,7 @@ Subtle changes are scary.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723502_07_030");
-        MsgDisp("Mikage","Ehhh∋
-You have a keen eye.
+        MsgDisp("Mikage","Ehhh∋ You have a keen eye.
 Aren't you too calm?");
         MsgDateResultDisp();
         break ;
@@ -57,16 +56,16 @@ Aren't you too calm?");
         ChMotion(7,5);
         VoicePlay("B040723502_07_040");
         MsgDisp("Mikage","Ehh?
-Do you also remember the staff who played the
-ghosts?");
+Do you also remember the staff who played
+the ghosts?");
         MsgDisp("主人公","Yes, it's a prominent role.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040723502_07_050");
         MsgDisp("Mikage","Seriously...
-Your observation skills are the most scary
-thing.");
+Your observation skills are the most
+scary thing.");
         MsgDisp("主人公","Hehe.
 ｛Mikage＊＊｝ is a timid person isn't he?");
         ChEye(7,0);
@@ -75,9 +74,8 @@ thing.");
         ChEyeOpenLevel(7,7);
         VoicePlay("B040723502_07_060");
         MsgDisp("Mikage","Ah, you're tricking me again?");
-        MsgDisp("主人公","No.
-Because the usual ghost person is, look, at
-the entrance, right?");
+        MsgDisp("主人公","No. Because the usual ghost person is, look,
+at the entrance, right?");
         ChEye(7,5);
         ChMouth(7,1);
         ChMotion(7,5);

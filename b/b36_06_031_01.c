@@ -18,8 +18,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B360603101_06_010");
-MsgDisp("Himuro","What?
-You don't want to be alone with me?");
+MsgDisp("Himuro","What? You don't want to be alone with me?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -52,8 +51,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("B360603101_06_060");
 MsgDisp("Himuro","...But I didn't want to be the kind of guy
-who can't read the room and says stuff like
-that.");
+who can't read the room and says stuff
+like that.");
 MsgDisp("主人公","...｛Himuro＊＊｝, did you not enjoy it?");
 ChEye(6,0);
 ChMouth(6,1);

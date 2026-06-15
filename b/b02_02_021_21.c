@@ -12,7 +12,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B020202121_02_010");
 MsgDisp("Sassa","Just kidding!
-Those clothes look ready to go on a jog,
-though.");
+Those clothes look ready to go on a
+jog, though.");
 MsgDisp("主人公","(Doesn't seem like he thought it was bad.
 I'm glad!)");

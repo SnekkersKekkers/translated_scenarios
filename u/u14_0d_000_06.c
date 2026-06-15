@@ -11,8 +11,7 @@ lot lately?");
 MsgDisp("主人公","Ah, I guess so.");
 StlEyeOpenLevel(21,0,1);
 VoicePlay("U140D00006_21_000");
-MsgDisp("Michiru","Hehe.
-It's really fun to hang out with Mari.");
+MsgDisp("Michiru","Hehe. It's really fun to hang out with Mari.");
 StlEyeOpenLevel(22,5,1);
 VoicePlay("U140D00006_22_010");
 MsgDisp("Hikaru","Unfair!

@@ -22,16 +22,15 @@ feeling though.");
     ChEye(4,4);
     ChMotion(4,1,1);
     VoicePlay("B180400000_04_030");
-    MsgDisp("Nanatsumori","Yeah.
-It's a nice kind of thrill for me too.");
+    MsgDisp("Nanatsumori","Yeah. It's a nice kind of thrill for me too.");
     MsgDisp("主人公","Hehe!");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B180400000_04_040");
     VoiceEVSPlay(4);
-    MsgDisp("Nanatsumori","In order to get used to it, I'll say it
-again.
+    MsgDisp("Nanatsumori","In order to get used to it, I'll say
+it again.
 ｛主人公｝.");
     MsgDisp("主人公","(No matter how many times he says it, my
 heart skips a beat...)");
@@ -49,8 +48,7 @@ Sorry.");
     ChMotion(4,0,1);
     VoicePlay("B180400000_04_060");
     MsgDisp("Nanatsumori","Nah, pay it no mind.");
-    MsgDisp("主人公","(Hmmm...
-Did I do something wrong?)");
+    MsgDisp("主人公","(Hmmm... Did I do something wrong?)");
     break ;
     default :
     DbgAssert(0);

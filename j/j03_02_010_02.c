@@ -15,8 +15,7 @@ MsgDisp("Sassa","It's nice to invite me, but I have club
 activities every 3rd Sunday of the month.");
 MsgDisp("主人公","Oh, I see.");
 VoicePlay("J030201002_02_020");
-MsgDisp("Sassa","Yeah, try to remember it.
-Bye.");
+MsgDisp("Sassa","Yeah, try to remember it. Bye.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(I'll be careful next time I ask him out.)");

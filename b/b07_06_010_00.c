@@ -16,8 +16,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070601000_06_010");
-MsgDisp("Himuro","...Before, you asked me what I thought about
-love?");
+MsgDisp("Himuro","...Before, you asked me what I thought
+about love?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -28,14 +28,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070601000_06_030");
-MsgDisp("Himuro","What would have been the right answer that
-time?");
+MsgDisp("Himuro","What would have been the right answer
+that time?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070601000_06_040");
 MsgDisp("Himuro","When I was suddenly asked that question, my
-mind went blank and I blurted out that answer on the spur of the moment...");
+mind went blank and I blurted out that answer
+on the spur of the moment...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

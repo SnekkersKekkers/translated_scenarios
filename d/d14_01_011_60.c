@@ -2,9 +2,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140101160_01_000");
-MsgDisp("Kazama","You too?
-Nice. Somehow, this menu just has a way of
-making you pick it.");
+MsgDisp("Kazama","You too? Nice.
+Somehow, this menu just has a way of making
+you pick it.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

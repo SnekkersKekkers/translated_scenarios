@@ -44,8 +44,7 @@ Looking forward to it.");
     ScrFadeIn(0);
     MsgDisp("主人公","That was a lot of fun.");
     VoicePlay("Q080100001_01_040");
-    MsgDisp("Kazama","Yeah.
-Especially since I'm with you.");
+    MsgDisp("Kazama","Yeah. Especially since I'm with you.");
     MsgDisp("主人公","Yeah, I guess so?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -83,8 +82,7 @@ See you back here.");
 I had a lot of fun.");
     ChMotion(1,3);
     VoicePlay("Q080100001_01_090");
-    MsgDisp("Kazama","Yeah.
-It's thanks to you inviting me.");
+    MsgDisp("Kazama","Yeah. It's thanks to you inviting me.");
     MsgDisp("主人公","Hehe, yeah.
 I'm happy I asked you, ｛Kazama＊＊｝.");
     ChEye(1,0);
@@ -99,8 +97,7 @@ I'm happy I asked you, ｛Kazama＊＊｝.");
     ChMotion(1,0);
     VoicePlay("Q080100001_01_110");
     MsgDisp("Kazama","Wanna spend the next free period together...?");
-    MsgDisp("主人公","Sure...!
-I'm so happy.");
+    MsgDisp("主人公","Sure...! I'm so happy.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);

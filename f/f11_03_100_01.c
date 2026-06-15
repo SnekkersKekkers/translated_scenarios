@@ -25,8 +25,8 @@ rumours, right?");
 ChMouth(3,0);
 VoicePlay("F110310001_39_020");
 MsgDisp("Student A","Yeah, another year of competition.
-I know I won't win the quiz, but I'm scared
-anyway.");
+I know I won't win the quiz, but I'm
+scared anyway.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);

@@ -1,5 +1,5 @@
-MsgDisp("主人公","What kind of person does ｛ひかる＊｝
-like?");
+MsgDisp("主人公","What kind of person does
+｛ひかる＊｝ like?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -11,13 +11,12 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("F032200000_22_360");
-MsgDisp("Hikaru","Hmm...
-Sorry, no idea.");
+MsgDisp("Hikaru","Hmm... Sorry, no idea.");
 MsgDisp("主人公","I-I see.");
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_370");
-MsgDisp("Hikaru","Hikaru loves talking about people's love
-lives.
+MsgDisp("Hikaru","Hikaru loves talking about people's
+love lives.
 But love hasn't blossomed for Hikaru yet.");
 ChEye(22,4);
 ChMouth(22,0);

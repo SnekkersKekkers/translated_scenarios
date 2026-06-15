@@ -6,8 +6,7 @@ MsgDisp("Michiru?","...There you are.
 Hey, Hikaru—look!
 It's her.");
 VoicePlay("A020D00000_22_000");
-MsgDisp("Hikaru?","Ah...!
-The girl with Kazama-kun yesterday!");
+MsgDisp("Hikaru?","Ah...! The girl with Kazama-kun yesterday!");
 MsgDisp("主人公","(...?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
@@ -33,8 +32,7 @@ ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("A020D00000_21_020");
 MsgDisp("Michiru?","I know.");
-MsgDisp("主人公","Huh?
-I feel like I've seen you two somewh—");
+MsgDisp("主人公","Huh? I feel like I've seen you two somewh—");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -65,8 +63,7 @@ ChMotion(21,3);
 VoicePlay("A020D00000_21_040");
 MsgDisp("Michiru","And I'm Hanatsubaki Michiru.
 It's a pleasure, Mari.");
-MsgDisp("主人公","Wait...
-You mean me?
+MsgDisp("主人公","Wait... You mean me?
 I'm...Mari?");
 ChEye(21,4);
 ChMouth(21,3);
@@ -96,8 +93,8 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("A020D00000_21_060");
 MsgDisp("Michiru","Don't think we're weird, okay?
-The Hanatsubaki family... holds a unique
-power.");
+The Hanatsubaki family... holds a
+unique power.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

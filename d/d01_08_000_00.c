@@ -4,8 +4,7 @@ BGMPlay("BGM_FESTIVAL",0.01);
 ScrFadeIn(0);
 VoicePlay("D010800000_08_000");
 MsgDisp("Daichi?","Found her, big bro!");
-MsgDisp("主人公","(Huh?
-That voice just now...)");
+MsgDisp("主人公","(Huh? That voice just now...)");
 MsgClose();
 ChOpen(8,254,0,0,3,#1,#1,0,1);
 ChOpen(9,254,0,0,0,#1,#1,0,2);
@@ -23,8 +22,7 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D010800000_09_000");
 MsgDisp("Kuya","Sorry for the trouble.");
-MsgDisp("主人公","Ehh∋
-The two of you are brothers?");
+MsgDisp("主人公","Ehh∋ The two of you are brothers?");
 ChEye(8,3);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,0);
@@ -43,8 +41,7 @@ ChMouth(9,0);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,#1);
 VoicePlay("D010800000_08_030");
-MsgDisp("Daichi","Yeah.
-Speaking of which, let's go!");
+MsgDisp("Daichi","Yeah. Speaking of which, let's go!");
 MsgDisp("主人公","Ehh∋");
 MsgClose();
 ScrFadeOut(0);
@@ -100,8 +97,8 @@ That's why we're late getting back.");
 StlEyeOpenLevel(8,5,1);
 VoicePlay("D010800000_08_060");
 MsgDisp("Daichi","That's true...
-But some places are still open, so let's
-hurry!");
+But some places are still open, so
+let's hurry!");
 MsgDisp("主人公","O-Okay!");
 VoicePlay("D010800000_42_000");
 MsgDisp("Student A","Oi, Daichi!
@@ -110,8 +107,7 @@ what's that about∋");
 StlEyeOpenLevel(9,#1);
 StlEye(8,1);
 VoicePlay("D010800000_08_070");
-MsgDisp("Daichi","Hehe!
-I guess I can brag about it?");
+MsgDisp("Daichi","Hehe! I guess I can brag about it?");
 VoicePlay("D010800000_42_010");
 MsgDisp("Student A","Don't tell me...
 Your girlfriend∋");
@@ -169,8 +165,8 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,4,1);
 VoicePlay("D010800000_08_120");
-MsgDisp("Daichi","We're the ones who should be sayin' that,
-right!");
+MsgDisp("Daichi","We're the ones who should be sayin'
+that, right!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,3,1);
@@ -191,9 +187,9 @@ ChMouth(9,4);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D010800000_09_070");
-MsgDisp("Kuya","Ah...
-Dai-chan, the time! If we don't help clean
-up, we'll ruin all those good memories.");
+MsgDisp("Kuya","Ah... Dai-chan, the time!
+If we don't help clean up, we'll ruin all
+those good memories.");
 ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,0,1);

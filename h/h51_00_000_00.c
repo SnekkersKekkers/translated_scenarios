@@ -6,9 +6,9 @@ ScrFadeOut(0);
 BGOpen("sc604",0);
 ScrFadeIn(0);
 VoicePlay("H510000000_33_000");
-MsgDisp("Manager","On the third Sunday of every month, we have a
-general practice, so please be sure to show
-up.");
+MsgDisp("Manager","On the third Sunday of every month, we have
+a general practice, so please be sure to
+show up.");
 VoicePlay("H510000000_33_010");
 MsgDisp("Manager","Let's do our best together to give some great
 performances.");
@@ -49,8 +49,8 @@ ChEye(32,1);
 ChMouth(32,1);
 VoicePlay("H510000000_32_040");
 MsgDisp("VP Himuro","Everyone, just remember this as well.
-We have no need for slackers in the brass
-band.");
+We have no need for slackers in the
+brass band.");
 ChEye(32,1);
 ChMouth(32,1);
 ChEyeOpenLevel(32,0);

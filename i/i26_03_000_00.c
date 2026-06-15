@@ -19,8 +19,8 @@ switch (ChPrmGet(3,6)){
     Wait(40);
     VoicePlay("I260300000_03_010");
     MsgDisp("Honda","...Phew, thank goodness.
-I told you I'd take care of the heavy stuff,
-right?");
+I told you I'd take care of the heavy
+stuff, right?");
     MsgDisp("主人公","｛Honda＊＊｝, thanks...
 But I can't leave everything to you.");
     ChEye(3,1);
@@ -40,8 +40,7 @@ can lead to accidents.");
     VoicePlay("I260300000_03_040");
     MsgDisp("Honda","Then, leave the rest to me.
 I'll leave the cash register to you.");
-    MsgDisp("主人公","(Sigh...
-I made ｛Honda＊＊｝ worry.)");
+    MsgDisp("主人公","(Sigh... I made ｛Honda＊＊｝ worry.)");
     break ;
     case 4:
     case 5:
@@ -89,16 +88,15 @@ register isn't working, right?");
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_090");
     MsgDisp("Honda","I'll enter today's sales later.
-As long as you keep the records, it'll be
-easy.");
+As long as you keep the records, it'll
+be easy.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_100");
     MsgDisp("Honda","Ah, for payments, use the spare money and
 calculator in that drawer.");
-    MsgDisp("主人公","Yeah...
-Thanks, ｛Honda＊＊｝.");
+    MsgDisp("主人公","Yeah... Thanks, ｛Honda＊＊｝.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);

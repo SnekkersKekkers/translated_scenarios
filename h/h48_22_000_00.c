@@ -33,8 +33,7 @@ Right?");
     ScrFadeIn(0);
     ChMotion(22,4,1);
     VoicePlay("H482200000_22_020");
-    MsgDisp("Hikaru","Hi～
-Mari!
+    MsgDisp("Hikaru","Hi～ Mari!
 Are you ready?");
     MsgDisp("主人公","｛ひかる＊｝.
 Yeah, I'm fine.");
@@ -50,8 +49,7 @@ Let's definitely win!");
     ChMouth(22,3);
     ChMotion(22,2,1);
     VoicePlay("H482200000_22_040");
-    MsgDisp("Hikaru","Ahh...
-Hikaru's heart is starting to race♪");
+    MsgDisp("Hikaru","Ahh... Hikaru's heart is starting to race♪");
     ChMotion(22,0,1);
     MsgDisp("主人公","(Alright, let's do our best!)");
     BGMStop();

@@ -21,23 +21,20 @@ Is now a good time to call you?");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Is it OK to call now?");
     VoicePlay("J010200000_02_030");
-    MsgDisp("Sassa","Yup.
-No worries.
+    MsgDisp("Sassa","Yup. No worries.
 What's up?");
     MsgDisp("主人公","Well, you see...");
     break ;
     case 4:
     case 5:
     VoicePlay("J010200000_02_040");
-    MsgDisp("Sassa","Whoa!
-Perfect timing!");
+    MsgDisp("Sassa","Whoa! Perfect timing!");
     MsgDisp("主人公","｛Sassa＊＊｝?
 Is it alright if we talk for a minute?");
     VoicePlay("J010200000_02_050");
     MsgDisp("Sassa","Of course.
 I was just about to call you too...");
-    MsgDisp("主人公","Hehe, perfect then!
-Well...");
+    MsgDisp("主人公","Hehe, perfect then! Well...");
     break ;
     default :
     DbgAssert(1);

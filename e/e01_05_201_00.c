@@ -9,8 +9,7 @@ VoicePlay("E010520100_02_000");
 MsgDisp("Sassa?","Thanks.");
 VoicePlay("E010520100_05_000");
 MsgDisp("Hiiragi?","No need to thank me.");
-MsgDisp("主人公","(Hm?
-That voice just now was...)");
+MsgDisp("主人公","(Hm? That voice just now was...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(5,255,4,0,4,#1,#1,0,1);
@@ -73,8 +72,7 @@ ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("E010520100_02_060");
 MsgDisp("Sassa","Let me rewrite what I wrote earlier.");
-MsgDisp("主人公","Um?
-｛Sassa＊＊｝...
+MsgDisp("主人公","Um? ｛Sassa＊＊｝...
 I wonder what's wrong.");
 ChEye(5,0);
 ChMouth(5,4);
@@ -87,8 +85,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010520100_05_050");
-MsgDisp("Hiiragi","That was the question in the survey.
-Hehe.");
+MsgDisp("Hiiragi","That was the question in the survey. Hehe.");
 MsgDisp("主人公","Ah, the survey question?
 That was surprising...");
 ChEye(5,0);

@@ -11,8 +11,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B360201001_46_000");
-MsgDisp("Clerk","We're currently having some limited-time
-sales.
+MsgDisp("Clerk","We're currently having some
+limited-time sales.
 These are some great deals—!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -20,8 +20,7 @@ ChMotion(2,4);
 VoicePlay("B360201001_02_000");
 MsgDisp("Sassa","Yeah, nice.
 Let's go.");
-MsgDisp("主人公","Ehhh...?
-I didn't say anything.");
+MsgDisp("主人公","Ehhh...? I didn't say anything.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -53,14 +52,12 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360201001_02_040");
 MsgDisp("Sassa","Hmm, I'm fine with whatever you wear.");
-MsgDisp("主人公","Ehh?
-Think about it more properly.");
+MsgDisp("主人公","Ehh? Think about it more properly.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360201001_02_050");
-MsgDisp("Sassa","...Yeah.
-It's nice.
+MsgDisp("Sassa","...Yeah. It's nice.
 This sort of feeling.");
 MsgDisp("主人公","This sort of fashion?");
 ChEye(2,0);

@@ -1,7 +1,6 @@
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Mmmm...
-I slept a lot.
+MsgDisp("主人公","Mmmm... I slept a lot.
 I think I'm better now.");
 SEPlay("EV_SE_DOOR_024");
 SEWait();
@@ -10,8 +9,7 @@ VoicePlay("M010600000_06_000");
 MsgDisp("Himuro","It's me, but.
 ...Can I come in?");
 MsgDisp("主人公","Eh, ｛Himuro＊＊｝∋
-Uuhm...
-Yeah, come in.");
+Uuhm... Yeah, come in.");
 SEPlay("EV_SE_DOOR_007");
 Wait(10);
 MsgClose();
@@ -24,8 +22,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("M010600000_06_020");
-MsgDisp("Himuro","Oh.
-Well, that's good then.");
+MsgDisp("Himuro","Oh. Well, that's good then.");
 MsgDisp("主人公","Thanks for all the trouble.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -63,8 +60,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("M010600000_06_080");
-MsgDisp("Himuro","Ah...
-I forgot to bring your get well gift.");
+MsgDisp("Himuro","Ah... I forgot to bring your get well gift.");
 MsgDisp("主人公","You got me one?");
 ChEye(6,0);
 ChMouth(6,0);

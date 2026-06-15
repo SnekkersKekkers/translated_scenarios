@@ -3,7 +3,8 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,0);
 VoicePlay("G020840000_08_000");
-MsgDisp("Shirahane","The light from the fireflies feels kinda warm, y'know.");
+MsgDisp("Shirahane","The light from the fireflies feels kinda
+warm, y'know.");
 MsgDisp("主人公","Yes, that's what it feels like.");
 ChMotion(8,2,1);
 VoicePlay("G020840000_08_010");

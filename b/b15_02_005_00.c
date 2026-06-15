@@ -20,8 +20,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B150200500_02_020");
 MsgDisp("Sassa","Even though I said I would retaliate this
-time, instead of stopping, you just escalated
-it.");
+time, instead of stopping, you just
+escalated it.");
 MsgDisp("主人公","Ah...sorry.");
 ChEye(2,2);
 ChMouth(2,0);
@@ -69,8 +69,7 @@ ChMotion(2,4);
 VoicePlay("B150200500_02_090");
 MsgDisp("Sassa","Idiots should act like idiots and do what
 they think immediately.");
-MsgDisp("主人公","Umm...
-｛Sassa＊＊｝?");
+MsgDisp("主人公","Umm... ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

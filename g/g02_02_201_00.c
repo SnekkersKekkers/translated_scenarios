@@ -2,8 +2,7 @@ MsgClose();
 ChOpen(2,255,2,0,2,#1,#1,0,0);
 VoicePlay("G020220100_02_000");
 MsgDisp("Sassa","There's so many fireflies...");
-MsgDisp("主人公","Yeah.
-It's beautiful.");
+MsgDisp("主人公","Yeah. It's beautiful.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -37,8 +36,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220100_02_050");
-MsgDisp("Sassa","I think there's still time to the finish
-line.
+MsgDisp("Sassa","I think there's still time to the
+finish line.
 The real race starts now.");
 MsgDisp("主人公","(｛Sassa＊＊｝...)");
 BGMStop();

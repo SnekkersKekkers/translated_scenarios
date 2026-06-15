@@ -25,8 +25,7 @@ ChMotion(2,0);
 VoicePlay("G020230001_02_030");
 MsgDisp("Sassa","I'm going to tell them that I came here with
 you right away.");
-MsgDisp("主人公","Ehh?
-You're telling them?");
+MsgDisp("主人公","Ehh? You're telling them?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

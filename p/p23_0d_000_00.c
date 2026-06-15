@@ -30,11 +30,10 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P230D00000_22_010");
-MsgDisp("Hikaru","Yeah, yeah.
-Pink♪
-White, you're the leader. Right?");
-MsgDisp("主人公","Yeah...
-I'll do my best!");
+MsgDisp("Hikaru","Yeah, yeah. Pink♪
+White, you're the leader.
+Right?");
+MsgDisp("主人公","Yeah... I'll do my best!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -48,8 +47,8 @@ ChMotion(21,0);
 VoicePlay("P230D00000_21_020");
 MsgDisp("Michiru","Come on, be brave, White!");
 VoicePlay("P230D00000_47_000");
-MsgDisp("Broadcast","We will now begin Habataki High School's
-play.");
+MsgDisp("Broadcast","We will now begin Habataki High
+School's play.");
 SEPlay("EV_SE_038");
 SEWait();
 ChEye(22,3);

@@ -34,8 +34,7 @@ I can still keep going—");
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("S120300003_03_020");
-    MsgDisp("Honda","Not!
-Sorry!
+    MsgDisp("Honda","Not! Sorry!
 Why would I force you to keep going?");
     MsgDisp("主人公","Hehe!");
     ChEye(3,4);
@@ -61,16 +60,15 @@ This year will be another good year.)");
     ChMotion(3,0,1);
     VoicePlay("S120300003_03_040");
     MsgDisp("Honda","Ah, we're here.");
-    MsgDisp("主人公","Yeah.
-Thank you.
+    MsgDisp("主人公","Yeah. Thank you.
 But as for your wish...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("S120300003_03_050");
     MsgDisp("Honda","Oh, that.
-I was praying for everyone's happiness, in
-order.");
+I was praying for everyone's happiness,
+in order.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);

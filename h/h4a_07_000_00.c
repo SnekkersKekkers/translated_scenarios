@@ -12,8 +12,7 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoicePlay("H4A0700000_07_000");
     MsgDisp("Mikage","You're amazing...");
-    MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛Mikage＊＊｝! I won!");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -43,8 +42,7 @@ I won!");
     MsgDisp("Mikage","Congratulations.
 Behind all that beauty, there must be an
 amazing amount of practice hiding.");
-    MsgDisp("主人公","Hic...
-Thank you very much!");
+    MsgDisp("主人公","Hic... Thank you very much!");
     MsgDisp("主人公","(I'm glad we got such great results.
 My hard work for my club was worth it!)");
     break ;

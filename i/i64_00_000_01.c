@@ -13,8 +13,7 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("I640000001_40_010");
 MsgDisp("Manager","I see...it's too bad, but thanks for all
 you've done.");
-MsgDisp("主人公","Thank you for looking after me.
-Bye...");
+MsgDisp("主人公","Thank you for looking after me. Bye...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("","(I quit my job at Stallion Gasoline.)");

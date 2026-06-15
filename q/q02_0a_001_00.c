@@ -56,10 +56,9 @@ feelings.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("Q020A00100_01_030");
-    MsgDisp("Kazama","Yeah.
-Well then, let's go.");
-    MsgDisp("主人公","(Looks like the free period will be a lot of
-fun!)");
+    MsgDisp("Kazama","Yeah. Well then, let's go.");
+    MsgDisp("主人公","(Looks like the free period will be a lot
+of fun!)");
     MsgClose();
     ScrFadeOut(0);
     MsgClose();
@@ -108,8 +107,8 @@ let's go.");
     SEPlay("EV_SE_856");
     ChClose(2,0,30);
     ChClose(1,0,30);
-    MsgDisp("主人公","(Even though they invited me, I feel kind of
-bad...)");
+    MsgDisp("主人公","(Even though they invited me, I feel kind
+of bad...)");
     MsgClose();
     ScrFadeOut(0);
     break ;

@@ -54,8 +54,8 @@ It would be nice if it was well-received...)");
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P630500001_05_040");
-    MsgDisp("Hiiragi","｛主人公｝, the store seems to be popular,
-yes?");
+    MsgDisp("Hiiragi","｛主人公｝, the store seems to be
+popular, yes?");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!
 Welcome.");
     ChEye(5,0);
@@ -78,8 +78,8 @@ The summer vegetables are still delicious.");
     ChMotion(5,4);
     VoicePlay("P630500001_05_070");
     MsgDisp("Hiiragi","I look forward to it.
-I was able to see the face of the producer up
-close.");
+I was able to see the face of the producer
+up close.");
     MsgDisp("主人公","Yes, please buy some♪
 Entry for one customer!");
     MsgClose();

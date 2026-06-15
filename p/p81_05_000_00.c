@@ -34,8 +34,7 @@ MsgDisp("主人公","Do you like the cultural festival,
 ｛Hiiragi＊＊＊｝?");
 ChEye(5,3);
 VoicePlay("P810500000_05_040");
-MsgDisp("Hiiragi","Yes.
-I love both culture and festivals.");
+MsgDisp("Hiiragi","Yes. I love both culture and festivals.");
 MsgDisp("主人公","Hehe, I'm looking forward to it!");
 ChEye(5,0);
 ChMotion(5,0);

@@ -43,8 +43,8 @@ doesn't like?)");
     ChMotion(6,0);
     VoicePlay("L040600005_06_040");
     MsgDisp("Himuro","I see that.
-But, maybe you should've tried just a little
-harder.");
+But, maybe you should've tried just a
+little harder.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -87,8 +87,8 @@ Don't worry about it.");
     ChMotion(6,0);
     VoicePlay("L040600005_06_090");
     MsgDisp("Himuro","In any case, I'll be taking this.
-Even if you ask for it back, I won't return
-it.");
+Even if you ask for it back, I won't
+return it.");
     ChEye(6,0);
     ChMouth(6,2);
     ChMotion(6,2);

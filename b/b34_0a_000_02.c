@@ -32,14 +32,13 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B340A00002_01_000");
 MsgDisp("Kazama","I see.
-That's Inori's schtick huh, being the cute
-one.");
+That's Inori's schtick huh, being the
+cute one.");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B340A00002_06_010");
-MsgDisp("Himuro","Huh?
-...Alright, I'll see you guys later!");
+MsgDisp("Himuro","Huh? ...Alright, I'll see you guys later!");
 MsgClose();
 SEPlay("EV_SE_856",0,0.6);

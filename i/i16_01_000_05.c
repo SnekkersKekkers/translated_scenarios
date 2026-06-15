@@ -40,8 +40,8 @@ Let's keep it up.)");
     Wait(15,0);
     ChEyeOpenLevel(1,10);
     VoicePlay("I160100005_01_030");
-    MsgDisp("Kazama","We're running out of orange rhinestones
-again.
+    MsgDisp("Kazama","We're running out of orange
+rhinestones again.
 Even though I ordered extra...");
     ChEyeOpenLevel(1,0);
     VoicePlay("I160100005_01_040");

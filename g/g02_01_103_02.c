@@ -45,8 +45,7 @@ VoicePlay("G020110302_01_050");
 MsgDisp("Kazama","You're embarrassed because we just happened
 to wear the same clothes, right? So doesn't
 always wearing the same outfits fix that?");
-MsgDisp("主人公","Huh?
-What do you mean, \"always\"?");
+MsgDisp("主人公","Huh? What do you mean, \"always\"?");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,2);

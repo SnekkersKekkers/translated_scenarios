@@ -21,7 +21,6 @@ studies from tomorrow on. I'll have you
 leave the band. That is all.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(Ugh...
-I should've studied properly.)");
+MsgDisp("主人公","(Ugh... I should've studied properly.)");
 MsgDisp("","(I was kicked out of the brass band.)");
 MsgClose();

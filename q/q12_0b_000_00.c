@@ -49,8 +49,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q120B00000_03_010");
-MsgDisp("Honda","Mmhm.
-We were even able to study hard!");
+MsgDisp("Honda","Mmhm. We were even able to study hard!");
 ChMouth(1,2);
 ChEye(4,2);
 ChMouth(4,4);
@@ -88,8 +87,8 @@ Really.");
 ChEye(1,0);
 ChSet(3,3);
 VoicePlay("Q120B00000_03_020");
-MsgDisp("Honda","Let's go on a trip together with us four
-again!");
+MsgDisp("Honda","Let's go on a trip together with us
+four again!");
 ChMotion(3,0,1);
 ChEye(4,4);
 ChMouth(4,3);

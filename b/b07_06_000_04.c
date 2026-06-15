@@ -36,8 +36,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600000_06_240");
-MsgDisp("Himuro","Pop isn't bad but it's a bit of a safe
-choice.");
+MsgDisp("Himuro","Pop isn't bad but it's a bit of a
+safe choice.");
 MsgDisp("主人公","(He's talking a lot.
 He must really like music.)");
 BGMStop();

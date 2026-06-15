@@ -2,8 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home now.)");
-MsgDisp("主人公","(...Huh?
-｛Kazama＊＊｝ is over there.
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there.
 Well, let's chat a bit then go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -54,8 +53,8 @@ ChEye(1,1);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_050");
-MsgDisp("Kazama","Are you thinking of something pragmatic
-again?");
+MsgDisp("Kazama","Are you thinking of something
+pragmatic again?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

@@ -9,8 +9,8 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     MsgDisp("主人公","Won't you take on the giant maze?～
-If you succeed, you get to try delicious
-milk～");
+If you succeed, you get to try
+delicious milk～");
     VoicePlay("P130700000_07_000");
     MsgDisp("Mikage?","The prize is some delicious cow milk～");
     MsgClose();
@@ -27,8 +27,8 @@ more people in?");
     VoicePlay("P130700000_07_020");
     MsgDisp("Mikage","If I'm here, I'll only distract the cute
 cow-girl.");
-    MsgDisp("主人公","I'm not a cow girl, this is a cow-print
-shirt.");
+    MsgDisp("主人公","I'm not a cow girl, this is a
+cow-print shirt.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -42,8 +42,7 @@ gathering more people.");
     VoicePlay("P130700000_07_040");
     MsgDisp("Mikage","I think I'll wander around with the objective
 of getting Molly's milk?");
-    MsgDisp("主人公","Yes.
-Lost lamb, one customer coming up!");
+    MsgDisp("主人公","Yes. Lost lamb, one customer coming up!");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(7,#1);
@@ -52,8 +51,8 @@ Lost lamb, one customer coming up!");
     case 4:
     case 5:
     MsgDisp("主人公","Won't you take on the giant maze?～
-If you succeed, you get to try delicious
-milk～");
+If you succeed, you get to try
+delicious milk～");
     VoicePlay("P130700000_07_050");
     MsgDisp("Mikage?","Ohh, it's quite popular, isn't it?");
     MsgClose();
@@ -73,8 +72,7 @@ I'm looking forward to it.");
     ChMouth(7,3);
     ChMotion(7,0,1);
     VoicePlay("P130700000_07_080");
-    MsgDisp("Mikage","Oh.
-Then, can I have a cup?");
+    MsgDisp("Mikage","Oh. Then, can I have a cup?");
     MsgDisp("主人公","Nope.
 If you can't escape successfully, you can't
 drink milk, you know?");
@@ -84,8 +82,7 @@ drink milk, you know?");
     VoicePlay("P130700000_07_090");
     MsgDisp("Mikage","Oh, I'll take the challenge.
 I'll make the fastest record.");
-    MsgDisp("主人公","Yes.
-Lost lamb, admission for one～!");
+    MsgDisp("主人公","Yes. Lost lamb, admission for one～!");
     MsgClose();
     ScrFadeOut(0,0);
     ChEye(7,#1);

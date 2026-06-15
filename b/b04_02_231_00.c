@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040223100_02_010");
-    MsgDisp("Sassa","Good.
-Then, let's go again.");
+    MsgDisp("Sassa","Good. Then, let's go again.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

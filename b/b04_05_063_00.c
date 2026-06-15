@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("B040506300_05_000");
-MsgDisp("Hiiragi","Doesn't the winter sea remind you of a stern
-father?");
+MsgDisp("Hiiragi","Doesn't the winter sea remind you of a
+stern father?");
 MsgSel("We have the winter sea all to ourselves!","The winter sea feels so sad...","The winter ocean is full of yummy food♪");
 switch (MsgSelRsltGet()){
     case 0:

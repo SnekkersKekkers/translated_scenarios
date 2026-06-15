@@ -26,16 +26,16 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05100_01_010");
-MsgDisp("Kazama","Like hell I'd blab about something that's just
-between the two of us.");
+MsgDisp("Kazama","Like hell I'd blab about something that's
+just between the two of us.");
 MsgDisp("主人公","We only talk about normal things...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140A05100_01_020");
 MsgDisp("Kazama","Right.
-We enjoy our normal conversations more than
-enough.");
+We enjoy our normal conversations more
+than enough.");
 ChEye(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(6,0);
@@ -49,8 +49,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("D140A05100_02_020");
-MsgDisp("Sassa","I see.
-Inori, you understand Ryota well.");
+MsgDisp("Sassa","I see. Inori, you understand Ryota well.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

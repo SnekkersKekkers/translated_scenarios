@@ -28,8 +28,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110306_01_030");
-MsgDisp("Kazama","So I'm always thinking of how to surprise
-you.");
+MsgDisp("Kazama","So I'm always thinking of how to
+surprise you.");
 MsgDisp("主人公","You are?
 But I'd rather not be surprised that often.");
 ChEye(1,0);
@@ -53,8 +53,8 @@ ChMouth(1,4);
 ChMotion(1,2);
 VoicePlay("G020110306_01_060");
 MsgDisp("Kazama","A roasted sweet potato makes sense when
-you're camping, but I want to surprise you
-more...");
+you're camping, but I want to surprise
+you more...");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

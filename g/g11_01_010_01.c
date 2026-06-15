@@ -24,8 +24,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110101001_01_000");
-MsgDisp("Kazama","Yeah, you remember how we went ice skating
-before?");
+MsgDisp("Kazama","Yeah, you remember how we went ice
+skating before?");
 MsgDisp("主人公","Yeah, that was fun, huh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -50,8 +50,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110101001_01_030");
-MsgDisp("Kazama","I was happy that you were always so close
-though?");
+MsgDisp("Kazama","I was happy that you were always so
+close though?");
 ChMotion(1,0);
 MsgDisp("主人公","(I wonder if ｛Kazama＊＊｝ wants to hold hands
 more...)");

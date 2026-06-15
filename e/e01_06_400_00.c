@@ -1,8 +1,7 @@
 BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, I think I'll head home now.
-...Huh?)");
+MsgDisp("主人公","(Well, I think I'll head home now. ...Huh?)");
 VoicePlay("E010640000_06_000");
 MsgDisp("Himuro?","Sorry.
 Can you back up a little bit.");
@@ -30,8 +29,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
 VoicePlay("E010640000_22_020");
-MsgDisp("Hikaru","Aha ▼
-But you know, Himuro-chan is so kind.
+MsgDisp("Hikaru","Aha ▼ But you know, Himuro-chan is so kind.
 He doesn't just ignore Hikaru ♪");
 ChEye(6,0);
 ChMouth(6,1);
@@ -60,8 +58,8 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("E010640000_06_050");
-MsgDisp("Himuro","Hanatsubaki-senpai has no sense of personal
-space.");
+MsgDisp("Himuro","Hanatsubaki-senpai has no sense of
+personal space.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -75,8 +73,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5);
 VoicePlay("E010640000_22_040");
-MsgDisp("Hikaru","Ah!
-You just looked at Mari!");
+MsgDisp("Hikaru","Ah! You just looked at Mari!");
 MsgDisp("主人公","Huh, me?");
 ChEye(22,0);
 ChMouth(22,0);
@@ -90,8 +87,7 @@ ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("E010640000_06_070");
-MsgDisp("Himuro","Huh?
-I didn't say anything like that—");
+MsgDisp("Himuro","Huh? I didn't say anything like that—");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
@@ -137,8 +133,7 @@ MsgDisp("Himuro","∋
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(Hmm...
-｛Himuro＊＊｝'s face was bright red.
+MsgDisp("主人公","(Hmm... ｛Himuro＊＊｝'s face was bright red.
 Did I make him angry...?)");
 BGMStop();
 MsgClose();

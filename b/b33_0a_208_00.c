@@ -92,16 +92,14 @@ ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B330A20800_02_030");
 MsgDisp("Sassa","Haha, he's thanking you so earnestly.");
-MsgDisp("主人公","Hehe!
-Thank you, ｛Kazama＊＊｝.");
+MsgDisp("主人公","Hehe! Thank you, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A20800_01_040");
 MsgDisp("Kazama","Then, you guys go on the roller coaster.
 We'll wait here.");
-MsgDisp("主人公","Eh?
-Isn't everyone going?");
+MsgDisp("主人公","Eh? Isn't everyone going?");
 ChMouth(1,2);
 ChEye(6,0);
 ChMouth(6,0);

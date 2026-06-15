@@ -1,12 +1,12 @@
-MsgDisp("主人公","Hey, I want to ask you a serious question,
-okay?");
+MsgDisp("主人公","Hey, I want to ask you a serious
+question, okay?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_490");
-MsgDisp("Kazama","That's fine but, I have a bad feeling about
-this.");
+MsgDisp("Kazama","That's fine but, I have a bad feeling
+about this.");
 MsgDisp("主人公","Hey.");
 ChEye(1,0);
 ChMouth(1,3);

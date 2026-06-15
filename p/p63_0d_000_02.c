@@ -27,9 +27,9 @@ VoicePlay("P630D00002_22_010");
 MsgDisp("Hikaru","Mari!
 ...so that means this is the Gardening Club's
 display?");
-MsgDisp("主人公","Yeah.
-It's an organic cafe. We're offering meals
-made with the vegetables we grew ourselves.");
+MsgDisp("主人公","Yeah. It's an organic cafe.
+We're offering meals made with the vegetables
+we grew ourselves.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,0);

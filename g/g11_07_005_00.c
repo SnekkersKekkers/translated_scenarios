@@ -19,8 +19,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700500_07_000");
-MsgDisp("Mikage","Oh.
-Is that why you're here too?");
+MsgDisp("Mikage","Oh. Is that why you're here too?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -37,8 +36,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700500_07_030");
-MsgDisp("Mikage","I'm telling you, you're becoming beautiful
-too.");
+MsgDisp("Mikage","I'm telling you, you're becoming
+beautiful too.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

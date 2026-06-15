@@ -20,8 +20,7 @@ Coincidences are incredible.");
     ChOpen(5,34,4,4,4,#1,#1,0,0);
     VoicePlay("R060500003_05_020");
     MsgDisp("Hiiragi","I never thought that you would get it.");
-    MsgDisp("主人公","Hmm?
-Ah, by any chance, is this...");
+    MsgDisp("主人公","Hmm? Ah, by any chance, is this...");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,3);
@@ -68,8 +67,7 @@ You also got my...");
     MsgDisp("Hiiragi","Haha, so that's what happened, huh.
 The student council handles the gift
 exchange...");
-    MsgDisp("主人公","Huh...
-Could it be that you, ｛Hiiragi＊＊＊｝...");
+    MsgDisp("主人公","Huh... Could it be that you, ｛Hiiragi＊＊＊｝...");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("R060500003_05_100");

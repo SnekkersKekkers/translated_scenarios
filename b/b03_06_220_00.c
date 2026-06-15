@@ -5,8 +5,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B030622000_06_000");
-MsgDisp("Himuro","The pride of the city, Habataki Castle,
-huh...");
+MsgDisp("Himuro","The pride of the city, Habataki
+Castle, huh...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -20,8 +20,7 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B030622000_06_020");
-    MsgDisp("Himuro","Sure.
-At least the view should be nice.");
+    MsgDisp("Himuro","Sure. At least the view should be nice.");
     MsgDispSksp(0);
     break ;
     case 1:

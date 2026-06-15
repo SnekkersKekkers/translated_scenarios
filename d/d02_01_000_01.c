@@ -4,8 +4,7 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh?
-｛Kazama＊＊｝, good morning!
+MsgDisp("主人公","Oh? ｛Kazama＊＊｝, good morning!
 Were you maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -74,8 +73,7 @@ ScrFadeIn(0);
 VoicePlay("D020100000_01_121");
 MsgDisp("Kazama","Looks like it's going well...
 The wish I made to the pinwheel.");
-MsgDisp("主人公","I see.
-If ｛Kazama＊＊｝ thinks so, maybe so.");
+MsgDisp("主人公","I see. If ｛Kazama＊＊｝ thinks so, maybe so.");
 NSSEye(1,3);
 NSSMouth(1,2);
 NSSMouthOpenLevel(1,0);

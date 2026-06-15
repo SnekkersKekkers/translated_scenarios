@@ -10,8 +10,7 @@ MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
 ChMotion(4,1);
 VoicePlay("R080400000_04_010");
 MsgDisp("Nanatsumori","Can we go to the balcony and talk for a bit?");
-MsgDisp("主人公","Yeah.
-What do you want to talk about?");
+MsgDisp("主人公","Yeah. What do you want to talk about?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
@@ -89,8 +88,8 @@ StlMouth(4,1);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("R080400000_04_110");
 MsgDisp("Nanatsumori","It's weird.
-Normally people don't answer with 'I see' to
-that.");
+Normally people don't answer with 'I see'
+to that.");
 StlEye(4,1,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
@@ -98,8 +97,7 @@ VoicePlay("R080400000_04_120");
 MsgDisp("Nanatsumori","It's always like this...
 You always stick to me everywhere, and you
 prove my common sense wrong.");
-MsgDisp("主人公","Umm...
-Well, I'm sorry?");
+MsgDisp("主人公","Umm... Well, I'm sorry?");
 StlEye(4,2);
 StlMouth(4,1);
 VoicePlay("R080400000_04_130");
@@ -129,8 +127,7 @@ VoicePlay("R080400000_04_170");
 MsgDisp("Nanatsumori","So, once again.
 Merry Christmas.
 I hope to see you for always.");
-MsgDisp("主人公","Yeah.
-Merry Christmas, ｛Nanatsumori＊｝.");
+MsgDisp("主人公","Yeah. Merry Christmas, ｛Nanatsumori＊｝.");
 StlEye(4,2);
 BGMStop(3);
 MsgClose();

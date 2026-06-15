@@ -29,8 +29,8 @@ They mean the same thing, don't they?");
     ChMotion(8,3,1);
     VoicePlay("B040802200_08_020");
     MsgDisp("Shirahane","Sounds nice!
-I wanna indulge like that every once in a
-while.");
+I wanna indulge like that every once in
+a while.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

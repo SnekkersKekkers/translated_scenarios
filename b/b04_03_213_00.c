@@ -39,8 +39,8 @@ Maybe it's instilled in my genetics.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040321300_03_030");
-    MsgDisp("Honda","Okay, let's observe cats and dogs thoroughly
-today.");
+    MsgDisp("Honda","Okay, let's observe cats and dogs
+thoroughly today.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

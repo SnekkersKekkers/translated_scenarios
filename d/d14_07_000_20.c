@@ -19,8 +19,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140700000_07_040");
-MsgDisp("Mikage","I see.
-I guess I'm in that sort of mood, too.
+MsgDisp("Mikage","I see. I guess I'm in that sort of mood, too.
 See you later, then.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.7);
 BGMStop();

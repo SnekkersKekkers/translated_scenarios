@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,1);
     ChMotion(1,3);
     VoicePlay("B030123001_01_010");
-    MsgDisp("Kazama","OK!
-Let's scream our lungs out!");
+    MsgDisp("Kazama","OK! Let's scream our lungs out!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -123,8 +122,7 @@ We should definitely do that.");
     ScrFadeIn(0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B030123001_01_100");
-    MsgDisp("Kazama","Yeah.
-This place has great vibes.");
+    MsgDisp("Kazama","Yeah. This place has great vibes.");
     break ;
     default :
     DbgAssert(0);

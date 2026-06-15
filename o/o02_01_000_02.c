@@ -11,8 +11,7 @@ switch (ChPrmGet(1,6)){
     VoicePlay("O020100002_01_000");
     MsgDisp("Kazama","They say it's a tie.
 It was close.");
-    MsgDisp("主人公","(A tie...
-And we were so close, too...)");
+    MsgDisp("主人公","(A tie... And we were so close, too...)");
     break ;
     case 3:
     MsgClose();
@@ -22,8 +21,7 @@ And we were so close, too...)");
     MsgDisp("Kazama","It was a tie, but I could see how hard you
 were trying.
 You really did your best.");
-    MsgDisp("主人公","(A tie...
-And we were so close, too...)");
+    MsgDisp("主人公","(A tie... And we were so close, too...)");
     break ;
     case 4:
     case 5:

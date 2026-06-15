@@ -22,9 +22,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B360750300_07_020");
-MsgDisp("Mikage","...Hm?
-Inori-kun too? He doesn't seem to like
-talking about this sort of thing, though.");
+MsgDisp("Mikage","...Hm? Inori-kun too?
+He doesn't seem to like talking about this
+sort of thing, though.");
 MsgDisp("主人公","That might be true.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -33,14 +33,14 @@ VoicePlay("B360750300_07_030");
 MsgDisp("Mikage","\"No matter where I was born, or where I live,
 I'm still me\" he'd say angrily.");
 MsgDisp("主人公","Hehe.
-I hope ｛Hiiragi＊＊＊｝ grows to love Habataki
-City.");
+I hope ｛Hiiragi＊＊＊｝ grows to love
+Habataki City.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360750300_07_040");
-MsgDisp("Mikage","He's the director of the theatre troupe, you
-know?
+MsgDisp("Mikage","He's the director of the theatre troupe,
+you know?
 I'm sure he will.");
 ChEye(7,0);
 ChMouth(7,0);

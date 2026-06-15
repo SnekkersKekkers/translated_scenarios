@@ -57,8 +57,8 @@ crowded then...");
         ChMotion(4,0,1);
         VoicePlay("B040403202_04_040");
         MsgDisp("Nanatsumori","Bustling crowds are fun, but, this place
-really does suit a relaxed atmosphere in the
-end.");
+really does suit a relaxed atmosphere in
+the end.");
         MsgDisp("主人公","If this garden was filled with people, I
 would only be able to see the flying
 penguins!");
@@ -85,8 +85,7 @@ to hurt—.");
         MsgDisp("Nanatsumori","No...it's just.
 That was kinda dangerous.
 Just now.");
-        MsgDisp("主人公","Eh?
-Why?");
+        MsgDisp("主人公","Eh? Why?");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,0,1);

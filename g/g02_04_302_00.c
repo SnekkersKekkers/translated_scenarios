@@ -39,8 +39,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020430200_04_060");
 MsgDisp("Nanatsumori","Like making friends, and talking to girls?");
-MsgDisp("主人公","Umm...
-I guess you can?");
+MsgDisp("主人公","Umm... I guess you can?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

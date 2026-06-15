@@ -9,8 +9,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102128_01_010");
 MsgDisp("Kazama","Yeah.
-Thanks to you, I realised how good it can
-look.");
+Thanks to you, I realised how good it
+can look.");
 MsgDisp("主人公","(Oh, good!
 ｛Kazama＊＊｝ seems to have started to like
 clothes like these, too!)");

@@ -7,8 +7,7 @@ switch (ChPrmGet(4,6)){
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("R060400006_04_000");
-    MsgDisp("Nanatsumori","...I see.
-Thanks.");
+    MsgDisp("Nanatsumori","...I see. Thanks.");
     MsgDisp("主人公","(Hmm, he seems pleased with my gift...
 I think?)");
     break ;

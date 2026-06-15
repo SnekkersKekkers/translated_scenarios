@@ -33,8 +33,7 @@ from a photograph.");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040402202_04_020");
-        MsgDisp("Nanatsumori","Ha?
-Why are you sulking?");
+        MsgDisp("Nanatsumori","Ha? Why are you sulking?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,8 +61,7 @@ I'm sorry.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040402202_04_060");
-        MsgDisp("Nanatsumori","Hey.
-Do you want to take a picture?");
+        MsgDisp("Nanatsumori","Hey. Do you want to take a picture?");
         MsgDisp("主人公","Huh?");
         ChEye(4,0);
         ChMouth(4,4);
@@ -80,8 +78,8 @@ for private use.");
         ChMotion(4,0,1);
         VoicePlay("B040402202_04_090");
         MsgDisp("Nanatsumori","It's okay.
-But, that adds another secret that's between
-us.");
+But, that adds another secret that's
+between us.");
         MsgDisp("主人公","Hehe!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

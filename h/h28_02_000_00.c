@@ -41,8 +41,8 @@ happy with.");
     ChMotion(2,1);
     VoicePlay("H280200000_02_040");
     MsgDisp("Sassa","Yeah!");
-    MsgDisp("主人公","(Alright, I'll do my best to lend my support,
-too!)");
+    MsgDisp("主人公","(Alright, I'll do my best to lend my
+support, too!)");
     break ;
     default :
     DbgAssert(1);

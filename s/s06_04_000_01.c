@@ -53,8 +53,7 @@ professional model.");
     MsgDisp("Nanatsumori","Yep.
 The kind of filter that makes you look more
 beautiful than usual.");
-    MsgDisp("主人公","(Yay.
-Looks like ｛Nanatsumori＊｝ is happy!)");
+    MsgDisp("主人公","(Yay. Looks like ｛Nanatsumori＊｝ is happy!)");
     break ;
     case 4:
     case 5:
@@ -75,8 +74,7 @@ It's not custom made, but I like it too.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("S060400001_04_090");
-    MsgDisp("Nanatsumori","I see.
-Really so beautiful...");
+    MsgDisp("Nanatsumori","I see. Really so beautiful...");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -84,8 +82,7 @@ Really so beautiful...");
     MsgDisp("Nanatsumori","Yeah.
 I'm definitely the happiest man in the world
 right now.");
-    MsgDisp("主人公","(Yay!
-｛Nanatsumori＊｝ seems happy!)");
+    MsgDisp("主人公","(Yay! ｛Nanatsumori＊｝ seems happy!)");
     break ;
     default :
     DbgAssert(1);

@@ -23,14 +23,13 @@ VoicePlay("B360316000_03_020");
 MsgDisp("Honda","No, never mind!
 I shouldn't get too into quiz games when I'm
 here with you.");
-MsgDisp("主人公","Why?
-You can play if you want.");
+MsgDisp("主人公","Why? You can play if you want.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B360316000_03_030");
-MsgDisp("Honda","No, I don't want to make you feel left out
-too.");
+MsgDisp("Honda","No, I don't want to make you feel left
+out too.");
 MsgDisp("主人公","What do you mean 'too'?");
 ChEye(3,4);
 ChMouth(3,0);

@@ -15,8 +15,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("S120300001_03_000");
-    MsgDisp("Honda","Phew.
-We're here.");
+    MsgDisp("Honda","Phew. We're here.");
     MsgDisp("主人公","Thank you for walking me home.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -48,8 +47,7 @@ I think we have a good head start.");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("S120300001_03_040");
-    MsgDisp("Honda","Yes!
-It's hard to get a good vibe.");
+    MsgDisp("Honda","Yes! It's hard to get a good vibe.");
     VoicePlay("S120300001_03_050");
     MsgDisp("Honda","When there's not enough, I keep talking—");
     ChEye(3,2);
@@ -57,8 +55,8 @@ It's hard to get a good vibe.");
     ChMotion(3,5,1);
     VoicePlay("S120300001_03_060");
     MsgDisp("Honda","Like that, sorry.
-I promised I'd play Shogi with my dad after
-this!");
+I promised I'd play Shogi with my dad
+after this!");
     MsgDisp("主人公","Hehe, really?
 Good luck!");
     ChEye(3,0);

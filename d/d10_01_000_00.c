@@ -21,8 +21,7 @@ VoicePlay("D100100000_01_000");
 MsgDisp("Kazama","Don't \"woah\" me.");
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
-MsgDisp("主人公","Ah...
-Sorry, ｛Kazama＊＊｝.");
+MsgDisp("主人公","Ah... Sorry, ｛Kazama＊＊｝.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -33,11 +32,11 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D100100000_01_020");
-MsgDisp("Kazama","I didn't think you'd run into me like that,
-though.
+MsgDisp("Kazama","I didn't think you'd run into me like
+that, though.
 Be careful, okay?");
-MsgDisp("主人公","(｛Kazama＊＊｝ somehow knows what I'm up
-to...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝ somehow knows what I'm
+up to...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

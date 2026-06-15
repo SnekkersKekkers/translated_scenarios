@@ -6,8 +6,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408102_04_000");
 MsgDisp("Nanatsumori","I don't dislike lively places, but the
-atmosphere for cherry blossom viewing is
-unique.");
+atmosphere for cherry blossom viewing
+is unique.");
 MsgSel("I'd also like a place to peacefully admire them","You're a fool if you dance, and a fool if you just look on!","The cherry blossoms are different at night, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -95,15 +95,14 @@ high schoolers?");
         MsgDisp("Nanatsumori","Really.
 We might even get stopped by the police for
 being out too late.");
-        MsgDisp("主人公","Ah...
-That's true.");
+        MsgDisp("主人公","Ah... That's true.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040408102_04_100");
-        MsgDisp("Nanatsumori","Haha.
-Well, there's no need to rush. The cherry
-blossoms here aren't going anywhere.");
+        MsgDisp("Nanatsumori","Haha. Well, there's no need to rush.
+The cherry blossoms here aren't going
+anywhere.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);

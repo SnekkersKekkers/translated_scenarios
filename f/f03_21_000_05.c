@@ -4,8 +4,7 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F032100000_21_220");
 MsgDisp("Michiru","Maybe window shopping.");
-MsgDisp("主人公","Hmmm.
-Are there any shops you go to often?");
+MsgDisp("主人公","Hmmm. Are there any shops you go to often?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);

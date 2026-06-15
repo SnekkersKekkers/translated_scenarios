@@ -72,9 +72,9 @@ thing was...");
         ChMouth(3,2);
         ChMotion(3,2);
         VoicePlay("B040310102_03_060");
-        MsgDisp("Honda","This is because I totally failed at conveying
-the appeal of the permanent exhibits to you,
-right?");
+        MsgDisp("Honda","This is because I totally failed at
+conveying the appeal of the permanent
+exhibits to you, right?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040310102_03_070");
@@ -89,8 +89,7 @@ shallow— This is truly my fault.");
         MsgDisp("Honda","Today, let's take our time going through each
 one in order.
 Now that it's been decided... Let's go!");
-        MsgDisp("主人公","(Ehh!
-Right now—∋)");
+        MsgDisp("主人公","(Ehh! Right now—∋)");
         break ;
         default :
         DbgAssert(1);

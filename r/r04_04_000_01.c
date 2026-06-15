@@ -17,8 +17,8 @@ It looks amazing on you.");
     MsgDisp("主人公","Really?
 Thank you!");
     VoicePlay("R040400001_04_020");
-    MsgDisp("Nanatsumori","You are definitely helping to hype up the
-venue.
+    MsgDisp("Nanatsumori","You are definitely helping to hype up
+the venue.
 Good job.");
     break ;
     case 3:
@@ -65,8 +65,8 @@ Your makeup looks nice too.");
     ChMotion(4,1,1);
     VoicePlay("R040400001_04_090");
     MsgDisp("Nanatsumori","Absolutely.
-It makes you look a little bit different than
-usual.");
+It makes you look a little bit different
+than usual.");
     ChMotion(4,0,1);
     VoicePlay("R040400001_04_100");
     MsgDisp("Nanatsumori","I'd love to dress up like you.

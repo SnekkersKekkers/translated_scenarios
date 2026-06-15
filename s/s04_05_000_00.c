@@ -35,8 +35,7 @@ What should I wear?");
         break ;
         case 1:
         VoicePlay("S040500000_05_030");
-        MsgDisp("Hiiragi","I see.
-I'm sorry for being so spontaneous.");
+        MsgDisp("Hiiragi","I see. I'm sorry for being so spontaneous.");
         VoicePlay("S040500000_05_040");
         MsgDisp("Hiiragi","See you later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -63,11 +62,11 @@ It's Hiiragi.
 Happy New Year.");
     MsgDisp("主人公","Happy New Years, ｛Hiiragi＊＊＊｝!");
     VoicePlay("S040500000_05_060");
-    MsgDisp("Hiiragi","Such a cheerful voice on the first day of the
-year.
+    MsgDisp("Hiiragi","Such a cheerful voice on the first day of
+the year.
 I'm happy to hear it.");
-    MsgDisp("主人公","Hehe, I'm happy to hear ｛Hiiragi＊＊＊｝'s voice
-too.");
+    MsgDisp("主人公","Hehe, I'm happy to hear ｛Hiiragi＊＊＊｝'s
+voice too.");
     VoicePlay("S040500000_05_070");
     MsgDisp("Hiiragi","How about we both go and cheerfully say hello
 to the gods?");

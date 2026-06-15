@@ -29,15 +29,13 @@ with me?");
         VoicePlay("U012100000_21_020");
         MsgDisp("Michiru","Thank you.
 Well then, I'll meet you there.");
-        MsgDisp("主人公","Okay!
-See you soon!");
+        MsgDisp("主人公","Okay! See you soon!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         break ;
         case 1:
         VoicePlay("U012100000_21_030");
-        MsgDisp("Michiru","I see.
-I was kind of in a hurry...
+        MsgDisp("Michiru","I see. I was kind of in a hurry...
 I guess it can't be helped, see you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();

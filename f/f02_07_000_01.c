@@ -9,8 +9,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700001_07_000");
-MsgDisp("Mikage","Hey, do you know about the legend of Haba
-High?
+MsgDisp("Mikage","Hey, do you know about the legend of
+Haba High?
 Regarding the church on school grounds.");
 MsgDisp("主人公","Yes, the story about the princess waiting for
 the prince to return, right?");
@@ -52,7 +52,7 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("F020700001_07_050");
 MsgDisp("Mikage","The two youngsters in this story are great,
-but this was a story about the king's mercy,
-right?");
-MsgDisp("主人公","(...We happily walked home talking about this
-story.)");
+but this was a story about the king's
+mercy, right?");
+MsgDisp("主人公","(...We happily walked home talking about
+this story.)");

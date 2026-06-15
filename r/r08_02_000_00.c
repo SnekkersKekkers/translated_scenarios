@@ -8,16 +8,15 @@ ChOpen(2,34,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("R080200000_02_000");
-MsgDisp("Sassa","｛主人公｝.
-Hey.");
+MsgDisp("Sassa","｛主人公｝. Hey.");
 MsgDisp("主人公","｛Sassa＊＊｝, what's wrong?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("R080200000_02_010");
-MsgDisp("Sassa","Dressing like this makes my shoulders so
-stiff.");
+MsgDisp("Sassa","Dressing like this makes my shoulders
+so stiff.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -110,8 +109,7 @@ StlEye(2,0,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("R080200000_02_130");
-MsgDisp("Sassa","Pant...
-I can't stop!
+MsgDisp("Sassa","Pant... I can't stop!
 I'm off.");
 MsgDisp("主人公","Huh?");
 StlEye(2,1);

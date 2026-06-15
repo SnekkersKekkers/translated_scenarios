@@ -58,8 +58,7 @@ What do they know about you?");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040102302_01_050");
-        MsgDisp("Kazama","Yeah.
-I'm mad.");
+        MsgDisp("Kazama","Yeah. I'm mad.");
         MsgDisp("主人公","Huh?");
         ChEye(1,0);
         ChMouth(1,1);
@@ -82,8 +81,7 @@ Especially when it's about you.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040102302_01_080");
-        MsgDisp("Kazama","What?
-I can't read a thing.");
+        MsgDisp("Kazama","What? I can't read a thing.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(1);

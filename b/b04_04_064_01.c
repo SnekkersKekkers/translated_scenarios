@@ -24,13 +24,12 @@ VoicePlay("B040406401_04_030");
 MsgDisp("Nanatsumori","But here, I can let my guard down.
 I don't really even care if someone clocks me
 as NANA.");
-MsgDisp("主人公","Eh?
-Is that really okay?");
+MsgDisp("主人公","Eh? Is that really okay?");
 ChMotion(4,1,1);
 VoicePlay("B040406401_04_040");
 MsgDisp("Nanatsumori","It's alright.
-I can dodge them by saying \"I'm working right
-now.\".");
+I can dodge them by saying \"I'm working
+right now.\".");
 MsgDisp("主人公","Oh, I see...
 Is this also a part of your work?");
 ChEye(4,4);
@@ -39,8 +38,7 @@ ChMotion(4,0,1);
 VoicePlay("B040406401_04_050");
 MsgDisp("Nanatsumori","Of course not, it's private time.
 I'm on a date after all.");
-MsgDisp("主人公","!
-Y-Yeah...");
+MsgDisp("主人公","! Y-Yeah...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -55,8 +53,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040406401_04_070");
-MsgDisp("Nanatsumori","Oh.
-Is the fireworks display starting?");
+MsgDisp("Nanatsumori","Oh. Is the fireworks display starting?");
 MsgDisp("主人公","Seems like it.");
 ChEye(4,0);
 ChMouth(4,3);

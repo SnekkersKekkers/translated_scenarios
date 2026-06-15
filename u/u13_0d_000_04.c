@@ -16,8 +16,8 @@ switch (ChPrmGet(5,6)){
     StlMouth(21,0);
     VoicePlay("U130D00004_21_000");
     MsgDisp("Michiru","Because his world is so unique, I guess it
-might be difficult for Mari to keep up with
-him?");
+might be difficult for Mari to keep up
+with him?");
     StlEye(22,0);
     StlMouth(22,1);
     VoicePlay("U130D00004_22_000");
@@ -35,8 +35,8 @@ present together.)");
     StlEyeOpenLevel(21,5);
     StlMouth(21,0);
     VoicePlay("U130D00004_21_010");
-    MsgDisp("Michiru","I think Yanosuke-san is quite interested in
-Mari?");
+    MsgDisp("Michiru","I think Yanosuke-san is quite interested
+in Mari?");
     MsgDisp("主人公","Eh, is that right?");
     StlMouth(22,1);
     StlEyeOpenLevel(21,0,1);
@@ -55,8 +55,8 @@ Because Mari is so curious.");
     StlEyeOpenLevel(22,0,1);
     StlMouth(22,2);
     VoicePlay("U130D00004_22_020");
-    MsgDisp("Hikaru","He thinks it's normal to shoulder so much
-burden.
+    MsgDisp("Hikaru","He thinks it's normal to shoulder so
+much burden.
 But that isn't right.");
     StlEye(21,0);
     VoicePlay("U130D00004_21_030");
@@ -76,8 +76,7 @@ with ｛Hiiragi＊＊＊｝.)");
     StlEye(21,3);
     StlMouth(21,0);
     VoicePlay("U130D00004_21_040");
-    MsgDisp("Michiru","Hehe.
-Mari looks like she's married lately.");
+    MsgDisp("Michiru","Hehe. Mari looks like she's married lately.");
     MsgDisp("主人公","Ehh∋");
     StlEye(21,0);
     StlEye(22,2);
@@ -89,8 +88,8 @@ It feels like she's perfectly in sync with
 Yanosuke-san♪");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00004_21_050");
-    MsgDisp("Michiru","I'm not sure if he realises that he's in
-love.");
+    MsgDisp("Michiru","I'm not sure if he realises that he's
+in love.");
     StlEye(22,0);
     StlMouth(22,0);
     StlCheek(22,5);

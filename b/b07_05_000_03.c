@@ -3,8 +3,8 @@ VoicePlay("B070500000_05_110");
 MsgDisp("Hiiragi","I have no experience in competitive sports.
 I have done some basic stamina training...as
 part of my rehearsals.");
-MsgDisp("主人公","They say stamina training is crucial to
-actors.");
+MsgDisp("主人公","They say stamina training is crucial
+to actors.");
 ChMouth(5,4);
 VoicePlay("B070500000_05_120");
 MsgDisp("Hiiragi","Yes.

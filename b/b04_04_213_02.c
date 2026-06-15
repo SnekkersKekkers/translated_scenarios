@@ -58,8 +58,7 @@ let me touch them.");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040421302_04_040");
-        MsgDisp("Nanatsumori","Hmm...
-Okay, come, come.");
+        MsgDisp("Nanatsumori","Hmm... Okay, come, come.");
         MsgDisp("主人公","Eh∋");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,#1);
@@ -77,8 +76,7 @@ I'll dote on you.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040421302_04_060");
-        MsgDisp("Nanatsumori","Ah—...
-It escaped.");
+        MsgDisp("Nanatsumori","Ah—... It escaped.");
         MsgDisp("主人公","Ah, sorry.");
         ChEye(4,4);
         ChMouth(4,3);
@@ -98,8 +96,7 @@ You can have me all to yourself now.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040421302_04_090");
-        MsgDisp("Nanatsumori","You really are like a cat.
-Cute.");
+        MsgDisp("Nanatsumori","You really are like a cat. Cute.");
         MsgDisp("主人公","(Ugh...this is embarrassing...)");
         break ;
         default :

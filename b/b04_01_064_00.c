@@ -22,14 +22,14 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B040106400_01_020");
 MsgDisp("Kazama","So you know what?
-Today I'm making up for 10 years of lost
-time.");
+Today I'm making up for 10 years of
+lost time.");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B040106400_01_030");
-MsgDisp("Kazama","That's right, I'm buying out every stall
-here!");
+MsgDisp("Kazama","That's right, I'm buying out every
+stall here!");
 MsgDisp("主人公","Hehe, that's our young master for you.");
 ChEye(1,0);
 ChMouth(1,1);
@@ -59,8 +59,8 @@ VoicePlay("B040106400_01_070");
 MsgDisp("Kazama","Excuse me.
 One candied apple, please.");
 VoicePlay("B040106400_36_000");
-MsgDisp("Market Clerk","Right away!
-...Oh? You're Kazama-san's boy!
+MsgDisp("Market Clerk","Right away! ...Oh?
+You're Kazama-san's boy!
 Alright, this is on the house!");
 VoicePlay("B040106400_01_080");
 MsgDisp("Kazama","Oh, thank you very much.");

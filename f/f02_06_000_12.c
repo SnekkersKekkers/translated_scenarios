@@ -26,15 +26,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600012_06_020");
-MsgDisp("Himuro","Yes.
-And resting in moderation.");
+MsgDisp("Himuro","Yes. And resting in moderation.");
 MsgDisp("主人公","You must live a very clean lifestyle.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600012_06_030");
-MsgDisp("Himuro","Well, it's not like I'm changing things up
-often.");
+MsgDisp("Himuro","Well, it's not like I'm changing things
+up often.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

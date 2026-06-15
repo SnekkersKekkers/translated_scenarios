@@ -20,8 +20,8 @@ I've never tried it, but I'm curious.");
     ChEye(5,2);
     ChMotion(5,0);
     VoicePlay("B040502301_05_020");
-    MsgDisp("Hiiragi","I'd like to try it out to see if I like it or
-not.");
+    MsgDisp("Hiiragi","I'd like to try it out to see if I like it
+or not.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

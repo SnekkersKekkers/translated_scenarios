@@ -7,8 +7,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     VoicePlay("F010100003_01_000");
     MsgDisp("Kazama","Oh, sure.");
-    MsgDisp("主人公","Yay!
-Alright, let's go.");
+    MsgDisp("主人公","Yay! Alright, let's go.");
     break ;
     case 3:
     ChEye(1,0);
@@ -16,8 +15,7 @@ Alright, let's go.");
     ChMotion(1,3);
     VoicePlay("F010100003_01_010");
     MsgDisp("Kazama","Yeah, let's walk together.");
-    MsgDisp("主人公","Yay!
-Alright, let's go.");
+    MsgDisp("主人公","Yay! Alright, let's go.");
     break ;
     case 4:
     case 5:
@@ -29,8 +27,7 @@ Alright, let's go.");
     MsgDisp("Kazama","Yes, that's fine.
 I don't mind if we do this every day.");
     ChMotion(1,0);
-    MsgDisp("主人公","Yay!
-Well then, let's go!");
+    MsgDisp("主人公","Yay! Well then, let's go!");
     break ;
     default :
     DbgAssert(1);

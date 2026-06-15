@@ -21,8 +21,8 @@ Are you shopping, ｛Sassa＊＊｝?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("I150200000_02_010");
-    MsgDisp("Sassa","Nah, I saw you from outside, so I wandered
-in.");
+    MsgDisp("Sassa","Nah, I saw you from outside, so I
+wandered in.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -74,8 +74,7 @@ Ah, ｛Sassa＊＊｝.");
     VoicePlay("I150200000_02_070");
     MsgDisp("Sassa","I came to visit while you're working.
 Looks like you're working hard.");
-    MsgDisp("主人公","Yeah.
-Thanks.");
+    MsgDisp("主人公","Yeah. Thanks.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -122,21 +121,19 @@ Ah, ｛Sassa＊＊｝.");
     VoicePlay("I150200000_02_110");
     MsgDisp("Sassa","What a nice clerk.
 Try treating me like you would a customer.");
-    MsgDisp("主人公","Sure.
-What are you looking for today, sir?");
+    MsgDisp("主人公","Sure. What are you looking for today, sir?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("I150200000_02_120");
-    MsgDisp("Sassa","Hm, I'll take this store's most valuable
-item!");
+    MsgDisp("Sassa","Hm, I'll take this store's most
+valuable item!");
     MsgDisp("主人公","Ahaha, no customer acts like that.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("I150200000_02_130");
-    MsgDisp("Sassa","Hm?
-No good?
+    MsgDisp("Sassa","Hm? No good?
 Aren't some rich people like that?");
     ChEye(2,0);
     ChMouth(2,4);

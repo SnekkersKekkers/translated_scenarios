@@ -30,14 +30,12 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B330A10400_06_000");
 MsgDisp("Himuro","I'll wait here.");
-MsgDisp("主人公","Hehe.
-I'm also not dressed for running.");
+MsgDisp("主人公","Hehe. I'm also not dressed for running.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("B330A10400_02_010");
-MsgDisp("Sassa","Then...
-Shall we go on a rowboat?");
+MsgDisp("Sassa","Then... Shall we go on a rowboat?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -58,10 +56,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
 VoicePlay("B330A10400_02_020");
-MsgDisp("Sassa","Alright, let's do a rock-paper-scissors
-match.");
-MsgDisp("主人公","Eh?
-Match?");
+MsgDisp("Sassa","Alright, let's do a
+rock-paper-scissors match.");
+MsgDisp("主人公","Eh? Match?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

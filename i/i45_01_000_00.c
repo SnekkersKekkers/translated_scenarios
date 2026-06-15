@@ -16,8 +16,7 @@ Welcome!");
     MsgDisp("Kazama","You look like a bee, flying around all those
 flowers, you know?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
-A bee...
-What's up?");
+A bee... What's up?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -36,8 +35,8 @@ I'll return to my hive. See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hm, did ｛Kazama＊＊｝ just come to check on
-me?)");
+    MsgDisp("主人公","(Hm, did ｛Kazama＊＊｝ just come to check
+on me?)");
     break ;
     case 3:
     MsgClose();
@@ -164,8 +163,7 @@ anyone else.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("I450100000_01_170");
-    MsgDisp("Kazama","So, how long does it last?
-This.");
+    MsgDisp("Kazama","So, how long does it last? This.");
     MsgDisp("主人公","Hm, maybe two weeks at most.");
     ChEye(1,4);
     ChMouth(1,3);

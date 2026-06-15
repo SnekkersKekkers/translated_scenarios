@@ -31,8 +31,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("F100110002_01_030");
-MsgDisp("Kazama","If you ever start feeling sleepy, look at
-this.");
+MsgDisp("Kazama","If you ever start feeling sleepy, look
+at this.");
 SEPlay("EV_SE_662");
 SEWait();
 MsgDisp("主人公","...A letter?");
@@ -120,8 +120,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110002_01_090");
 MsgDisp("Kazama","I was going to make a funny face so you'd
-laugh at me, but then I ended up laughing at
-you.");
+laugh at me, but then I ended up laughing
+at you.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(16,0);

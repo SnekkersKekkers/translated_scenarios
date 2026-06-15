@@ -3,8 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100340002_03_000");
 MsgDisp("Honda?","Mi-kun.");
-MsgDisp("主人公","(Huh?
-This voice...)");
+MsgDisp("主人公","(Huh? This voice...)");
 VoicePlay("F100340002_03_010");
 MsgDisp("Honda?","Mi-kun, come out.");
 MsgClose();
@@ -88,14 +87,13 @@ MsgDisp("Honda","You were watching us, weren't you?");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,2,1);
-MsgDisp("主人公","Eh∋
-Really?");
+MsgDisp("主人公","Eh∋ Really?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("F100340002_03_080");
-MsgDisp("Honda","Well, I got the message before I met up with
-you.
+MsgDisp("Honda","Well, I got the message before I met up
+with you.
 If he wasn't watching, how would he know?");
 ChEye(4,3);
 ChMouth(4,3);

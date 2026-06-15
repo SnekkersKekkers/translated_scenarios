@@ -32,8 +32,7 @@ Nice little accent to the day.");
     case 3:
     ChSet(3,0);
     VoicePlay("B010300002_03_020");
-    MsgDisp("Honda","Nope.
-You're right on time.");
+    MsgDisp("Honda","Nope. You're right on time.");
     MsgDisp("主人公","Then you arrived early?");
     MsgDispSksp(1,0);
     ChEye(3,0);
@@ -51,8 +50,7 @@ walking faster. Weird, huh?");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B010300002_03_040");
-    MsgDisp("Honda","Why?
-You don't have the wrong time.");
+    MsgDisp("Honda","Why? You don't have the wrong time.");
     MsgDisp("主人公","Oh, then you arrived early.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -68,16 +66,15 @@ up here early.");
     MsgDisp("Honda","But then, as I got here early, I realised
 there was no point in being the only one here
 already.");
-    MsgDisp("主人公","Hehe.
-What kind of dream was it?");
+    MsgDisp("主人公","Hehe. What kind of dream was it?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B010300002_03_070");
     MsgDisp("Honda","I forgot after I saw you.
-The real you is more important than my
-dreams.");
+The real you is more important than
+my dreams.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","(｛Honda＊＊｝...)");
     MsgDispSksp(0);

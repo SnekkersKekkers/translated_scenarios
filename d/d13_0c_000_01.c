@@ -63,8 +63,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D130C00001_06_020");
-MsgDisp("Himuro","Sigh...
-I'm going back to my classroom.");
+MsgDisp("Himuro","Sigh... I'm going back to my classroom.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
@@ -80,8 +79,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoiceEVSPlay(7);
 VoicePlay("D130C00001_07_030");
-MsgDisp("Mikage","｛主人公｝, don't make Inori so worked up,
-okay?");
+MsgDisp("Mikage","｛主人公｝, don't make Inori so worked
+up, okay?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -94,8 +93,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();
 ChClose(5,0,30);
 ChClose(7,0,30);
-MsgDisp("主人公","(Umm...
-Ah! Was everyone fretting over Valentine's
+MsgDisp("主人公","(Umm... Ah!
+Was everyone fretting over Valentine's
 chocolates?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -14,8 +14,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B360150100_01_000");
-MsgDisp("Kazama","Yeah.
-This is a special place for me.");
+MsgDisp("Kazama","Yeah. This is a special place for me.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -29,8 +28,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B360150100_01_020");
-MsgDisp("Kazama","You...
-You're too obvious.");
+MsgDisp("Kazama","You... You're too obvious.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -69,8 +67,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360150100_01_070");
 MsgDisp("Kazama","Yeah.
-It's enough to remember just the important
-things.");
+It's enough to remember just the
+important things.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -102,8 +100,8 @@ VoicePlay("B360150100_01_110");
 MsgDisp("Kazama","Right.
 ...Well, maybe I'll invite those guys along
 once in about ten times.");
-MsgDisp("主人公","(Hehe, they'd probably be mad if they heard
-that?)");
+MsgDisp("主人公","(Hehe, they'd probably be mad if they
+heard that?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

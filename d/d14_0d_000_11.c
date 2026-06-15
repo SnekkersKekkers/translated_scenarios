@@ -1,5 +1,4 @@
-MsgDisp("主人公","(...Ah!
-I don't have enough money!)");
+MsgDisp("主人公","(...Ah! I don't have enough money!)");
 ChEye(22,3);
 ChMouth(22,0);
 ChMotion(22,0,1);

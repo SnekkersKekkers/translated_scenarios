@@ -17,8 +17,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300001_03_240");
-MsgDisp("Honda","But, well, we don't really talk about that
-stuff.");
+MsgDisp("Honda","But, well, we don't really talk about
+that stuff.");
 MsgDisp("主人公","Really?
 Now I'm even more curious...");
 ChEye(3,4);

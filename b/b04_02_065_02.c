@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040206502_02_010");
-    MsgDisp("Sassa","I want to see more like that Saturn with the
-rings.");
+    MsgDisp("Sassa","I want to see more like that Saturn with
+the rings.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -33,8 +33,7 @@ rings.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040206502_02_020");
-        MsgDisp("Sassa","Eh?
-Maybe I'm wrong...");
+        MsgDisp("Sassa","Eh? Maybe I'm wrong...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -93,8 +92,7 @@ power or something?");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040206502_02_100");
-        MsgDisp("Sassa","Ahh.
-So, just watch me.
+        MsgDisp("Sassa","Ahh. So, just watch me.
 That's all you need to do!");
         SEPlay("EV_SE_534",0,1);
         Wait(50,1);
@@ -106,8 +104,8 @@ That's all you need to do!");
         ChCheek(2,0);
         VoicePlay("B040206502_02_110");
         MsgDisp("Sassa","Oh!
-I guess it's almost time for the grand
-finale?");
+I guess it's almost time for the
+grand finale?");
         MsgDisp("主人公","(If I want to help ｛Sassa＊＊｝ I need to
 support him even more!)");
         SEStop("EV_SE_534",1);

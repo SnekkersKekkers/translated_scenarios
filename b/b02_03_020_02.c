@@ -5,8 +5,7 @@ VoicePlay("B020302002_03_000");
 MsgDisp("Honda","Hmm?
 Seems like something's different from
 before...");
-MsgDisp("主人公","Huh?
-Are my clothes odd?");
+MsgDisp("主人公","Huh? Are my clothes odd?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

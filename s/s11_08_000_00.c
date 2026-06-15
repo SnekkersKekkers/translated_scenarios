@@ -24,8 +24,7 @@ ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("S110800000_08_030");
-MsgDisp("Shirahane","So?
-What does it say inside?");
+MsgDisp("Shirahane","So? What does it say inside?");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("S110800000_08_040");
@@ -38,8 +37,7 @@ VoicePlay("S110800000_08_050");
 MsgDisp("Shirahane","Eh—!
 I was thinkin' about takin' on a few new
 challenges. Should I give it up?");
-MsgDisp("主人公","No...
-I didn't mean it like that.");
+MsgDisp("主人公","No... I didn't mean it like that.");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -47,5 +45,5 @@ VoicePlay("S110800000_08_060");
 MsgDisp("Shirahane","Really?
 Whata relief.
 I'm a humble person by nature, y'know.");
-MsgDisp("主人公","(｛Daichi＊＊｝, are you on the offensive
-now?)");
+MsgDisp("主人公","(｛Daichi＊＊｝, are you on the
+offensive now?)");

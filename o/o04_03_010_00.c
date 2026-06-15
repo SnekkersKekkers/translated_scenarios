@@ -52,8 +52,8 @@ Are we on the same team?");
     MsgDisp("Honda","Yeah yeah!
 It was worth making a wish.");
     MsgDisp("主人公","Huh?
-Were you wishing for us to be on the same
-team?");
+Were you wishing for us to be on the
+same team?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1);

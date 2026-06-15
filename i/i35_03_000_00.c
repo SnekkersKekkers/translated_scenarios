@@ -25,8 +25,7 @@ part-time.");
     VoicePlay("I350300000_03_020");
     MsgDisp("Honda","Wow, it looks like you've become a real
 waitress.");
-    MsgDisp("主人公","Hm?
-I still have a long way to go.");
+    MsgDisp("主人公","Hm? I still have a long way to go.");
     ChMotion(3,5,1);
     VoicePlay("I350300000_03_030");
     MsgDisp("Honda","Then, when I see you during your next shift,
@@ -100,8 +99,8 @@ Welcome.");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("I350300000_03_110");
-    MsgDisp("Honda","It's too bad, but I'm not here as a customer
-today.
+    MsgDisp("Honda","It's too bad, but I'm not here as a
+customer today.
 I'm delivering magazines.");
     MsgDisp("主人公","Ah, I see.
 You're working hard at the bookstore.");
@@ -124,8 +123,7 @@ these, but I asked them to leave it to me.");
     VoicePlay("I350300000_03_140");
     MsgDisp("Honda","Seeing you working so hard, I wanted to have
 some of your power.");
-    MsgDisp("主人公","Hm?
-Some of my power...?");
+    MsgDisp("主人公","Hm? Some of my power...?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

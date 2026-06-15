@@ -28,8 +28,7 @@ enjoy yourself, you know?");
     ChMotion(7,4);
     VoicePlay("P530700000_07_020");
     MsgDisp("Mikage","Well, you might as well do nothing.");
-    MsgDisp("主人公","Ehhh∋
-I can't do that.");
+    MsgDisp("主人公","Ehhh∋ I can't do that.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);

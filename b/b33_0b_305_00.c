@@ -23,8 +23,7 @@ VoicePlay("B330B30500_03_000");
 MsgDisp("Honda","My ears are ringing...");
 VoicePlay("B330B30500_01_000");
 MsgDisp("Kazama","Me too...");
-MsgDisp("主人公","Yeah.
-It was very impressive wasn't it?");
+MsgDisp("主人公","Yeah. It was very impressive wasn't it?");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,#1);
 VoicePlay("B330B30500_01_010");

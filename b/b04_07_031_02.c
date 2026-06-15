@@ -33,8 +33,7 @@ switch (MsgSelRsltGet()){
         VoiceEVSPlay(7);
         VoicePlay("B040703102_07_020");
         MsgDisp("Mikage","｛主人公｝, stay here for a bit.");
-        MsgDisp("主人公","Y-Yes.
-I'm sorry.");
+        MsgDisp("主人公","Y-Yes. I'm sorry.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,4);
@@ -59,8 +58,8 @@ It's a waste.");
         ChMouth(7,3);
         ChMotion(7,2);
         VoicePlay("B040703102_07_050");
-        MsgDisp("Mikage","I'm also constantly apologising to
-Vice Principal Himuro, after all.");
+        MsgDisp("Mikage","I'm also constantly apologising to Vice
+Principal Himuro, after all.");
         MsgDisp("主人公","Hehe.");
         ChEye(7,0);
         ChMouth(7,3);

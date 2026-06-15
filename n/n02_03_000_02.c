@@ -18,8 +18,7 @@ What's up?");
     VoicePlay("N020300002_03_010");
     MsgDisp("Honda","Ah, sorry.
 I still haven't found your name yet.");
-    MsgDisp("主人公","(Oof...
-My score was disappointing, huh.)");
+    MsgDisp("主人公","(Oof... My score was disappointing, huh.)");
     break ;
     case 3:
     ChEye(3,0);
@@ -35,8 +34,7 @@ Yeah, I did check.");
     VoicePlay("N020300002_03_030");
     MsgDisp("Honda","Ah, you did?
 Umm, are you feeling down?");
-    MsgDisp("主人公","Umm...
-No.");
+    MsgDisp("主人公","Umm... No.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1);

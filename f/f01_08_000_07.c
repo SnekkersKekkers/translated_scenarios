@@ -32,8 +32,7 @@ So I tried waitin' here.");
     ChMotion(8,2,1);
     ChCheek(8,5);
     VoicePlay("F010800007_08_030");
-    MsgDisp("Shirahane","Yep.
-I'll walk home with ya.");
+    MsgDisp("Shirahane","Yep. I'll walk home with ya.");
     break ;
     default :
     DbgAssert(1);
@@ -52,8 +51,7 @@ switch (MsgSelRsltGet()){
         ChMouth(8,3);
         ChMotion(8,3,1);
         VoicePlay("F010800007_08_040");
-        MsgDisp("Shirahane","Mm, got it.
-Haha!");
+        MsgDisp("Shirahane","Mm, got it. Haha!");
         break ;
         case 4:
         case 5:
@@ -68,8 +66,8 @@ Haha!");
         ChMouth(8,0);
         ChMotion(8,2,1);
         VoicePlay("F010800007_08_060");
-        MsgDisp("Shirahane","Y'know, this...it feels a little luxurious,
-right?");
+        MsgDisp("Shirahane","Y'know, this...it feels a little
+luxurious, right?");
         break ;
         default :
         DbgAssert(1);

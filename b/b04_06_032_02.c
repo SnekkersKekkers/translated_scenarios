@@ -59,8 +59,8 @@ be jealous of the couples.");
         ChMotion(6,0);
         VoicePlay("B040603202_06_040");
         MsgDisp("Himuro","Why?
-It's a penguin, so it doesn't matter either
-way?");
+It's a penguin, so it doesn't matter
+either way?");
         MsgDisp("主人公","But if I were a penguin, and ｛Himuro＊＊｝ came
 here on a date...");
         ChEye(6,0);
@@ -72,8 +72,8 @@ here on a date...");
         ChMouth(6,1);
         ChMotion(6,1);
         VoicePlay("B040603202_06_060");
-        MsgDisp("Himuro","Don't go off and imagine weird things on your
-own?");
+        MsgDisp("Himuro","Don't go off and imagine weird things on
+your own?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0,1);
@@ -105,8 +105,8 @@ troublesome reason against my will.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040603202_06_110");
-        MsgDisp("Himuro","Next time, envision my reluctant expression
-too.");
+        MsgDisp("Himuro","Next time, envision my reluctant
+expression too.");
         MsgDisp("主人公","(...Yeah, I can imagine that.)");
         break ;
         default :

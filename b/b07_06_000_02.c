@@ -48,8 +48,7 @@ ChCheek(6,10);
 VoicePlay("B070600000_06_130");
 MsgDisp("Himuro","It's a matter of taste.
 There's no point in saying it's surprising.");
-MsgDisp("主人公","I see.
-I'll keep that in mind.");
+MsgDisp("主人公","I see. I'll keep that in mind.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

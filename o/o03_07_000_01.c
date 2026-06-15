@@ -14,8 +14,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("O030700001_07_000");
     MsgDisp("Mikage","That was fun.
 Well, that's how it is.");
-    MsgDisp("主人公","(Hm.
-And we were so close...)");
+    MsgDisp("主人公","(Hm. And we were so close...)");
     break ;
     case 3:
     ChEye(7,2);
@@ -39,8 +38,7 @@ But, I wish we had won.)");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("O030700001_07_030");
-    MsgDisp("Mikage","Aah.
-We just needed one more step.");
+    MsgDisp("Mikage","Aah. We just needed one more step.");
     MsgDisp("主人公","I'm sorry.
 I pulled on your leg...");
     ChEye(7,0);

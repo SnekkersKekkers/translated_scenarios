@@ -4,8 +4,7 @@ MsgClose();
 ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600200_06_000");
-MsgDisp("Himuro","Ah...
-Over there.
+MsgDisp("Himuro","Ah... Over there.
 A pitch black cat is sitting in the corner.");
 MsgDisp("主人公","Oh, you're right.
 Come here, kitty.");
@@ -54,8 +53,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder where ｛Himuro＊＊｝ went.
-...Ah—)");
+MsgDisp("主人公","(I wonder where ｛Himuro＊＊｝ went. ...Ah—)");
 VoicePlay("B050600200_06_060");
 MsgDisp("Himuro","...Come here.
 It's okay.");
@@ -116,8 +114,7 @@ SEWait();
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("B050600200_06_140");
-MsgDisp("Himuro","...What?
-You suddenly started purring.
+MsgDisp("Himuro","...What? You suddenly started purring.
 Is that...sympathy?");
 MsgDisp("主人公","Hehe.");
 StlEye(6,2);

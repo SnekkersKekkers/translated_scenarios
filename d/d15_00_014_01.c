@@ -27,8 +27,8 @@ VoicePlay("D150001401_04_020");
 MsgDisp("Nanatsumori","The best part of the cafeteria is seeing what
 you order.");
 MsgDisp("主人公","Ehh?
-It's hard to choose when you watch me like
-that...");
+It's hard to choose when you watch me
+like that...");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -42,8 +42,8 @@ ChMouth(4,3);
 ChMotion(4,2);
 VoicePlay("D150001401_04_030");
 MsgDisp("Nanatsumori","Ah, uhm, well you see.
-The one who picks the same menu as you
-wins...");
+The one who picks the same menu as
+you wins...");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

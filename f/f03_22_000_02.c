@@ -26,8 +26,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("F032200000_22_080");
-MsgDisp("Hikaru","...Ah!
-There is something Hikaru loves!
+MsgDisp("Hikaru","...Ah! There is something Hikaru loves!
 Hamburger—▼");
 MsgDisp("主人公","Ehhh∋");
 ChEye(22,4);

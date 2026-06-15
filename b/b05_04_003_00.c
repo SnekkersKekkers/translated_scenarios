@@ -25,14 +25,12 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_010");
 MsgDisp("Nanatsumori","Treasure hunting.");
-MsgDisp("主人公","Hehe!
-There's so much to look at, huh?");
+MsgDisp("主人公","Hehe! There's so much to look at, huh?");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_020");
-MsgDisp("Nanatsumori","Hmm...
-Not really.");
+MsgDisp("Nanatsumori","Hmm... Not really.");
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_030");
 MsgDisp("Nanatsumori","I haven't found anything that clicks.");
@@ -51,8 +49,8 @@ MsgDisp("Nanatsumori","I want a black one.
 Y'know, lots of lace, big ribbon...
 A real classic one.");
 MsgDisp("主人公","I-I see.
-Maybe the dress over there is close to that
-type?");
+Maybe the dress over there is close to
+that type?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -142,22 +140,21 @@ BGMVol(0.5,2);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_180");
-MsgDisp("Nanatsumori","Ah—, being here right before closing is
-great.
+MsgDisp("Nanatsumori","Ah—, being here right before closing
+is great.
 Way easier to haggle for a discount—.");
 MsgDisp("主人公","｛Nanatsumori＊｝ is good at haggling huh?");
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_190");
-MsgDisp("Nanatsumori","That store had so many good things that'd be
-a waste to throw away, so I couldn't help
-myself.");
+MsgDisp("Nanatsumori","That store had so many good things that'd
+be a waste to throw away, so I couldn't
+help myself.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_200");
-MsgDisp("Nanatsumori","...Hey.
-Are you disappointed in me?");
+MsgDisp("Nanatsumori","...Hey. Are you disappointed in me?");
 MsgDisp("主人公","Nope.");
 ChEye(4,4);
 ChMouth(4,3);
@@ -171,8 +168,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_220");
-MsgDisp("Nanatsumori","Yeah.
-I believe it, because it's you.");
+MsgDisp("Nanatsumori","Yeah. I believe it, because it's you.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 MsgDisp("主人公","(I wonder if he'll ever show me what he looks
 like crossdressing.

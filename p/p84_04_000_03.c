@@ -15,8 +15,8 @@ MsgDisp("主人公","Maybe that's it...");
 VoicePlay("P840400003_46_000");
 MsgDisp("School Girl","Umm, it seems like I won't be able to get
 flowers?");
-MsgDisp("主人公","I'm very sorry, could you please wait a
-moment?");
+MsgDisp("主人公","I'm very sorry, could you please wait
+a moment?");
 MsgClose();
 ScrFadeOut(0);
 ChEye(4,0);
@@ -38,8 +38,8 @@ prepared it for me. Well then....");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 MsgDisp("主人公","Sorry, even though it's the cultural
-festival, I made you do student council
-work...");
+festival, I made you do student
+council work...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -47,8 +47,7 @@ VoicePlay("P840400003_04_020");
 MsgDisp("Nanatsumori","It's nothing.
 But, it's good to work hard but you can't
 lose your concentration, you know?");
-MsgDisp("主人公","(Uugh....
-I inconvenienced ｛Nanatsumori＊｝.
+MsgDisp("主人公","(Uugh.... I inconvenienced ｛Nanatsumori＊｝.
 A huge failure...)");
 MsgClose();
 ScrFadeOut(0,0);

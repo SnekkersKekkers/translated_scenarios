@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020510301_05_000");
-MsgDisp("Hiiragi","Thank you for coming to my house the other
-day.");
+MsgDisp("Hiiragi","Thank you for coming to my house the
+other day.");
 MsgDisp("主人公","I should be the one saying that.
 Thank you for having me.");
 ChEye(5,4);
@@ -33,8 +33,8 @@ MsgDisp("主人公","The last...question?");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("G020510301_05_060");
-MsgDisp("Hiiragi","Yes, I was going to ask how you would answer
-that.");
+MsgDisp("Hiiragi","Yes, I was going to ask how you would
+answer that.");
 ChMotion(5,0);
 VoicePlay("G020510301_05_070");
 MsgDisp("Hiiragi","Well, what is your answer?");

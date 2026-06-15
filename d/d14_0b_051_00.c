@@ -22,8 +22,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B05100_03_000");
-MsgDisp("Honda","I think it's better if Ryo-kun sits in that
-seat.");
+MsgDisp("Honda","I think it's better if Ryo-kun sits in
+that seat.");
 MsgDisp("主人公","Are you talking about the seat next to me?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -65,8 +65,8 @@ VoicePlay("D140B05100_01_020");
 MsgDisp("Kazama","It doesn't matter how it sounds, it's just
 how it is.
 Right?");
-MsgDisp("主人公","(Ugh...it's true we are childhood friends
-but...
+MsgDisp("主人公","(Ugh...it's true we are childhood
+friends but...
 I'm still embarrassed after all.)");
 BGMStop();
 MsgClose();

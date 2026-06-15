@@ -22,8 +22,7 @@ switch (MsgSelRsltGet()){
         ChMouth(5,2);
         ChMotion(5,4);
         VoicePlay("B040511002_05_010");
-        MsgDisp("Hiiragi","Eh?
-So suddenly?
+        MsgDisp("Hiiragi","Eh? So suddenly?
 Shouldn't we swim first?");
         MsgDateResultDisp();
         break ;
@@ -47,8 +46,7 @@ Looks like we've got it all to ourselves.");
         ChMotion(5,5);
         ChCheek(5,7);
         VoicePlay("B040511002_05_040");
-        MsgDisp("Hiiragi","!
-Just the two of us—
+        MsgDisp("Hiiragi","! Just the two of us—
 Then, let's hurry.");
         MsgClose();
         SEPlay("EV_SE_558");
@@ -71,8 +69,8 @@ poolside.");
         MsgDisp("Hiiragi","But, let's hurry.
 The private hot-spring feeling makes running
 by the poolside worth it.");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, do you like jacuzzi baths that
-much?)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, do you like jacuzzi baths
+that much?)");
         break ;
         default :
         DbgAssert(1);
@@ -83,8 +81,7 @@ much?)");
     DateRateSet(2);
     ChMotion(5,4);
     VoicePlay("B040511002_05_070");
-    MsgDisp("Hiiragi","Yes.
-Shall we swim a bit, then get in?");
+    MsgDisp("Hiiragi","Yes. Shall we swim a bit, then get in?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

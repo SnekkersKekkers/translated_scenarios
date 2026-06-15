@@ -32,8 +32,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A30400_02_000");
-MsgDisp("Sassa","Ehh—
-How rare.
+MsgDisp("Sassa","Ehh— How rare.
 For Ryota to not be picky.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -51,8 +50,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A30400_01_030");
-MsgDisp("Kazama","What are you saying?
-...Geez.
+MsgDisp("Kazama","What are you saying? ...Geez.
 I like all seasons here.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -107,8 +105,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A30400_01_070");
-MsgDisp("Kazama","Inori, I'll call you the next time I get the
-chance.");
+MsgDisp("Kazama","Inori, I'll call you the next time I get
+the chance.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

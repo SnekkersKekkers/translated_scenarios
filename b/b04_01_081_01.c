@@ -31,8 +31,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B040108101_01_020");
     MsgDisp("Kazama","That's just like you.
-Sounds like you've got a pretty easy-going
-life.");
+Sounds like you've got a pretty
+easy-going life.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

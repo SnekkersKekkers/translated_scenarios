@@ -4,8 +4,8 @@ VoicePlay("G020130201_01_000");
 MsgDisp("Kazama","This really is something you have to see with
 your own eyes... It's totally different from
 just hearing about it.");
-MsgDisp("主人公","Yeah, it's prettier than the rumours say it
-is.");
+MsgDisp("主人公","Yeah, it's prettier than the rumours say
+it is.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -72,8 +72,8 @@ VoicePlay("G020130201_01_090");
 MsgDisp("Kazama","It's okay if no one else knows.
 It's enough if I know.");
 MsgDisp("主人公","(｛Kazama＊＊｝...
-That makes me happy, but it's embarrassing
-too.)");
+That makes me happy, but it's
+embarrassing too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

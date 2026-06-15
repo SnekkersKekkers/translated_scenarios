@@ -34,8 +34,8 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B330B20401_04_010");
 MsgDisp("Nanatsumori","...Kazama.
-I have a bad feeling about leaving this to
-Dahon.");
+I have a bad feeling about leaving this
+to Dahon.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -52,14 +52,14 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B330B20401_04_020");
-MsgDisp("Nanatsumori","Look!
-He's saying something crazy!");
+MsgDisp("Nanatsumori","Look! He's saying something crazy!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B20401_01_020");
-MsgDisp("Kazama","Professor Honda, the bug expert, has appeared...");
+MsgDisp("Kazama","Professor Honda, the bug expert, has
+appeared...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);

@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,4);
     VoicePlay("B040615202_06_010");
-    MsgDisp("Himuro","Ehhh, so that means you have no intention of
-losing?
+    MsgDisp("Himuro","Ehhh, so that means you have no intention
+of losing?
 Then, let's bet on one drink.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -45,8 +45,7 @@ Then, let's bet on one drink.");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040615202_06_030");
-        MsgDisp("Himuro","...Hm.
-How boring.");
+        MsgDisp("Himuro","...Hm. How boring.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -75,8 +74,8 @@ Amazing!");
         ChMouth(6,4);
         ChMotion(6,4);
         VoicePlay("B040615202_06_070");
-        MsgDisp("Himuro","But, the probability goes up depending on the
-reward.");
+        MsgDisp("Himuro","But, the probability goes up depending on
+the reward.");
         MsgDisp("主人公","You want a drink or something?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -84,23 +83,21 @@ reward.");
         ChEyeOpenLevel(6,0);
         VoicePlay("B040615202_06_080");
         MsgDisp("Himuro","That won't increase it.");
-        MsgDisp("主人公","Ehhh?
-Then, hmm....");
+        MsgDisp("主人公","Ehhh? Then, hmm....");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040615202_06_090");
-        MsgDisp("Himuro","...Something like holding hands on the way
-home.");
+        MsgDisp("Himuro","...Something like holding hands on the
+way home.");
         MsgDisp("主人公","Eh, holding what?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040615202_06_100");
         MsgDisp("Himuro","...Your hand.");
-        MsgDisp("主人公","Eh!
-Y-Yeah...okay.");
+        MsgDisp("主人公","Eh! Y-Yeah...okay.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);

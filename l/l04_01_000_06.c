@@ -32,8 +32,7 @@ to play with food.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Ugh...
-I should've tried harder...)");
+    MsgDisp("主人公","(Ugh... I should've tried harder...)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -62,14 +61,13 @@ Thanks.");
     ChEyeOpenLevel(1,8);
     VoicePlay("L040100006_01_070");
     MsgDisp("Kazama","Well, it's fine.
-It's just barely on the side of unique and
-edible.");
+It's just barely on the side of unique
+and edible.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Ugh...
-I should've tried harder...)");
+    MsgDisp("主人公","(Ugh... I should've tried harder...)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -80,8 +78,7 @@ I should've tried harder...)");
     ChMotion(1,0);
     VoicePlay("L040100006_01_080");
     MsgDisp("Kazama","This...is chocolate, right?");
-    MsgDisp("主人公","Yeah...
-It's homemade chocolate.");
+    MsgDisp("主人公","Yeah... It's homemade chocolate.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);

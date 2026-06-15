@@ -10,8 +10,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("K010800102_08_010");
-MsgDisp("Shirahane","Hm?
-Nah, that isn't it.");
+MsgDisp("Shirahane","Hm? Nah, that isn't it.");
 ChEye(8,0);
 ChMouth(8,3);
 ChMotion(8,3,1);

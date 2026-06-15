@@ -14,8 +14,7 @@ What kind of picture did those two draw?)");
     MsgDisp("主人公","It says...\"Please tell the Hanatsubaki twins
 not to worry. Even if we are busy together,
 you'll still have time for them.");
-    MsgDisp("主人公","(Ehh∋
-What did the two of you tell him...?)");
+    MsgDisp("主人公","(Ehh∋ What did the two of you tell him...?)");
     break ;
     default :
     DbgAssert(1);

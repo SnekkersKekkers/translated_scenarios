@@ -16,8 +16,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("U212100000_21_010");
 MsgDisp("Michiru","Yes.
-It seems as though it can be used in multiple
-stores.");
+It seems as though it can be used in
+multiple stores.");
 MsgDisp("主人公","Really?
 I'm so grateful!");
 ChEye(21,0);

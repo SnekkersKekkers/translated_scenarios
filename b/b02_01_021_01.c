@@ -10,8 +10,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B020102101_01_010");
-MsgDisp("Kazama","Yeah.
-Can't fault it at all.
+MsgDisp("Kazama","Yeah. Can't fault it at all.
 A full 10/10.");
 MsgDisp("主人公","(Hehe.
 I'm glad I decided to wear this outfit!)");

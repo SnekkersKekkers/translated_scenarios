@@ -11,8 +11,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040223602_02_000");
-MsgDisp("Sassa","Apparently the parade is going to finish
-late...");
+MsgDisp("Sassa","Apparently the parade is going to
+finish late...");
 MsgSel("At this rate we'll have to pull an all nighter?","If we run home we'll be alright!","I want to watch until the end");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,7 @@ switch (MsgSelRsltGet()){
         ChMotion(2,4);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223602_02_010");
-        MsgDisp("Sassa","Sigh...
-Don't say that, even as a joke.");
+        MsgDisp("Sassa","Sigh... Don't say that, even as a joke.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -60,8 +59,8 @@ Seems fun!");
         ChMotion(2,4);
         VoicePlay("B040223602_02_050");
         MsgDisp("Sassa","Yeah it was fun.
-But if it was with you, it'd be even more
-fun...");
+But if it was with you, it'd be even
+more fun...");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,5);
@@ -71,8 +70,8 @@ fun...");
 Not the all-nighter you were talking about.");
         MsgDisp("主人公","Hehe, yeah!
 I want to go someday.");
-        MsgDisp("主人公","(If it's with ｛Sassa＊＊｝, anywhere would be
-fun?)");
+        MsgDisp("主人公","(If it's with ｛Sassa＊＊｝, anywhere would
+be fun?)");
         break ;
         default :
         DbgAssert(1);
@@ -85,8 +84,8 @@ fun?)");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040223602_02_070");
-    MsgDisp("Sassa","With that setup, we might have to run after
-all.");
+    MsgDisp("Sassa","With that setup, we might have to run
+after all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -96,8 +96,8 @@ Can't be helped.");
     ChMotion(6,1);
     ChCheek(6,5);
     VoicePlay("S070600000_06_100");
-    MsgDisp("Himuro","Let's hold hands so you don't fall or get
-lost.");
+    MsgDisp("Himuro","Let's hold hands so you don't fall or
+get lost.");
     MsgDisp("主人公","Uh, sure...
 Go ahead.");
     ChEye(6,0);

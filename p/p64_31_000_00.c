@@ -11,8 +11,8 @@ ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("P643100000_31_010");
 MsgDisp("Goro","I see, so that's the secret...
-No wonder my adrenaline levels have calmed
-down.");
+No wonder my adrenaline levels have
+calmed down.");
 MsgDisp("主人公","Eh?");
 ChEye(31,0);
 ChMouth(31,0);
@@ -21,8 +21,7 @@ VoicePlay("P643100000_31_020");
 MsgDisp("Goro","Yes, I like it!
 Next time, bring me a tea that makes my heart
 flutter with excitement♪");
-MsgDisp("主人公","(Yay!
-A huge success♪)");
+MsgDisp("主人公","(Yay! A huge success♪)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);

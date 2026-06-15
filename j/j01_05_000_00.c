@@ -11,8 +11,7 @@ switch (ChPrmGet(5,6)){
     MsgDisp("Hiiragi","Hiiragi speaking.");
     MsgDisp("主人公","Ah, it's ｛主人公苗字｝.");
     VoicePlay("J010500000_05_010");
-    MsgDisp("Hiiragi","Yes.
-Is there anything you need?");
+    MsgDisp("Hiiragi","Yes. Is there anything you need?");
     MsgDisp("主人公","Uhm, well...");
     break ;
     case 3:
@@ -20,8 +19,7 @@ Is there anything you need?");
     MsgDisp("Hiiragi","Hello, Hiiragi speaking.");
     MsgDisp("主人公","Ah, hello, it's ｛主人公苗字｝.");
     VoicePlay("J010500000_05_030");
-    MsgDisp("Hiiragi","Yes.
-Is something the matter?");
+    MsgDisp("Hiiragi","Yes. Is something the matter?");
     MsgDisp("主人公","Uhm, well...");
     break ;
     case 4:

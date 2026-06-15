@@ -29,8 +29,8 @@ What's your guess?");
     ChMouth(4,3);
     VoicePlay("W090400002_04_030");
     MsgDisp("Nanatsumori","Okay.
-Well then, let's enjoy this alone time we
-have.");
+Well then, let's enjoy this alone time
+we have.");
     break ;
     default :
     DbgAssert(1);

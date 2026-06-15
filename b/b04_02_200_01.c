@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040220001_02_010");
     MsgDisp("Sassa","I get how you feel.
-Alright, one more run and then we'll take a
-break.");
+Alright, one more run and then we'll take
+a break.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,8 +40,8 @@ I'm going to gulp down something cold.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040220001_02_030");
-    MsgDisp("Sassa","It doesn't seem like your body is cold after
-all.");
+    MsgDisp("Sassa","It doesn't seem like your body is cold
+after all.");
     MsgDateResultDisp();
     break ;
     default :

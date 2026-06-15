@@ -8,8 +8,7 @@ ChOpen(2,254,4,0,0,#1,#1,0,0);
 VoicePlay("P840200001_02_000");
 MsgDisp("Sassa","Are you okay?
 Come on, let's clean this up.");
-MsgDisp("主人公","Oh.
-Right!");
+MsgDisp("主人公","Oh. Right!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);

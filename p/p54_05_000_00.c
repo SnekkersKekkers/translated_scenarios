@@ -30,8 +30,7 @@ MsgDisp("Hiiragi","You're a strong performer.
 And a strong-minded person.
 Congratulations on the concert's success.");
 MsgDisp("主人公","Thank you!");
-MsgDisp("主人公","(Yay!
-｛Hiiragi＊＊＊｝ seems happy!
+MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ seems happy!
 It was worth giving my all practising.)");
 MsgClose();
 ScrFadeOut(0,0);

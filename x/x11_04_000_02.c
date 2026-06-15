@@ -19,8 +19,8 @@ in the future?");
     case 5:
     VoicePlay("X110400002_04_010");
     MsgDisp("Nanatsumori","Yo.
-I heard your dazzling one-handed throw
-had the whole venue captivated?");
+I heard your dazzling one-handed throw had
+the whole venue captivated?");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 It's a practice match, though, and we won.");
     ChEye(4,0);
@@ -31,8 +31,8 @@ It's a practice match, though, and we won.");
 The whole school is talking about you.
 That's great, congratulations.");
     MsgDisp("主人公","Thank you!");
-    MsgDisp("主人公","(I'm glad I worked hard in the Judo Club
-...!)");
+    MsgDisp("主人公","(I'm glad I worked hard in the Judo
+Club ...!)");
     break ;
     default :
     DbgAssert(1);

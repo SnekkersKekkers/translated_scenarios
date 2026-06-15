@@ -16,8 +16,7 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F022100008_21_010");
-MsgDisp("Michiru","Hehe.
-But, be careful not to get hurt.");
+MsgDisp("Michiru","Hehe. But, be careful not to get hurt.");
 MsgDisp("主人公","Thank you.");
 ChEye(21,0);
 ChMouth(21,3);

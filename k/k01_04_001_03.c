@@ -13,8 +13,7 @@ VoicePlay("K010400103_04_010");
 MsgDisp("Nanatsumori","Nah, it's nothing.
 I can see it in your face.
 You meant no offence. So, I'll forgive you.");
-MsgDisp("主人公","(Ugh...
-I don't think he liked it.)");
+MsgDisp("主人公","(Ugh... I don't think he liked it.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

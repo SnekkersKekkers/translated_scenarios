@@ -84,16 +84,15 @@ Just watch me.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("H210000001_02_080");
-    MsgDisp("Sassa","Okay.
-See you.
+    MsgDisp("Sassa","Okay. See you.
 I gotta go!");
     MsgClose();
     SEPlay("EV_SE_672");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(Hehe!
-Do your best, ｛Sassa＊＊｝. I'll be supporting
-you with everything I have starting today!)");
+    MsgDisp("主人公","(Hehe! Do your best, ｛Sassa＊＊｝.
+I'll be supporting you with everything I have
+starting today!)");
     break ;
     default :
     DbgAssert(1);

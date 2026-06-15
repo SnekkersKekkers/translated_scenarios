@@ -19,14 +19,13 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D140A05102_01_000");
-MsgDisp("Kazama","Yeah.
-Isn't there a little more to it?");
+MsgDisp("Kazama","Yeah. Isn't there a little more to it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A05102_06_010");
-MsgDisp("Himuro","What have you two been talking about just
-now?");
+MsgDisp("Himuro","What have you two been talking about
+just now?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -49,15 +48,14 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("D140A05102_01_010");
-MsgDisp("Kazama","Ehh∋
-You, that's too blunt...");
+MsgDisp("Kazama","Ehh∋ You, that's too blunt...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A05102_02_030");
-MsgDisp("Sassa","How is it that Ryota's reaction was the
-best...");
+MsgDisp("Sassa","How is it that Ryota's reaction was
+the best...");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(6,1);

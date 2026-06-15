@@ -25,8 +25,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040117001_01_020");
-    MsgDisp("Kazama","Apparently the Habataki mixed juice is a
-staple.
+    MsgDisp("Kazama","Apparently the Habataki mixed juice is
+a staple.
 Want some?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -42,10 +42,8 @@ See you later.");
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("I650700000_07_030");
-    MsgDisp("Mikage","Yo.
-There's a lot of vigour at this stand.");
-    MsgDisp("主人公","Hehe!
-Yes.
+    MsgDisp("Mikage","Yo. There's a lot of vigour at this stand.");
+    MsgDisp("主人公","Hehe! Yes.
 That's Stallion Gasoline's motto.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -75,8 +73,8 @@ See you.");
     SEPlay("EV_SE_751",1);
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(But working with ｛Mikage＊＊｝ might be
-fun?)");
+    MsgDisp("主人公","(But working with ｛Mikage＊＊｝ might
+be fun?)");
     break ;
     case 4:
     case 5:
@@ -120,14 +118,12 @@ Thank you very much.");
     VoicePlay("I650700000_07_090");
     MsgDisp("Mikage","Oh, I left drinks for everyone in your break
 room, so drink up when you get a chance!");
-    MsgDisp("主人公","Yay!
-Thank you very much.");
+    MsgDisp("主人公","Yay! Thank you very much.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("I650700000_07_100");
-    MsgDisp("Mikage","Yeah.
-It's my favourite brand of milk.
+    MsgDisp("Mikage","Yeah. It's my favourite brand of milk.
 It's good.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -139,8 +135,7 @@ It's good.");
     SEPlay("EV_SE_751",1);
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Milk...
-Yeah, thanks for the drink!)");
+    MsgDisp("主人公","(Milk... Yeah, thanks for the drink!)");
     SEWait();
     break ;
     default :

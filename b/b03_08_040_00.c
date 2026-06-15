@@ -6,8 +6,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B030804000_08_000");
-MsgDisp("Shirahane","I'm seriously lookin' forward to today's
-show!");
+MsgDisp("Shirahane","I'm seriously lookin' forward to
+today's show!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
@@ -23,8 +23,7 @@ MsgDisp("Shirahane","The atmosphere before a show sure has its own
 vibe, huh...
 I'm gettin' a little nervous...");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Hehe.
-Oh, looks like it's about to start!");
+MsgDisp("主人公","Hehe. Oh, looks like it's about to start!");
 MsgDispSksp(0);
 SEPlay("EV_SE_038");
 SEWait();

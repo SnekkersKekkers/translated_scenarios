@@ -26,8 +26,7 @@ VoicePlay("B360203101_02_020");
 MsgDisp("Sassa","Honestly, I feel bad for the fish but, as
 long as I can be with you uninterrupted,
 anywhere is fine.");
-MsgDisp("主人公","Umm...
-｛Sassa＊＊｝?");
+MsgDisp("主人公","Umm... ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);

@@ -1,7 +1,6 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-I got a message on my phone.
+MsgDisp("主人公","Huh? I got a message on my phone.
 Who is it...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();

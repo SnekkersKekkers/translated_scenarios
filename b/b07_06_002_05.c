@@ -18,8 +18,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B070600002_06_330");
-MsgDisp("Himuro","It's way too late to bother spelling it out
-now.");
+MsgDisp("Himuro","It's way too late to bother spelling it
+out now.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);

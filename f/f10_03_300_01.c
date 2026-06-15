@@ -2,8 +2,7 @@ BGOpen("sc510",0);
 ChLayout(2);
 ScrFadeIn(0);
 VoicePlay("F100330001_22_000");
-MsgDisp("Hikaru?","Mari!
-This way, this way!");
+MsgDisp("Hikaru?","Mari! This way, this way!");
 MsgDisp("主人公","Hm?");
 MsgDisp("主人公","｛ひかる＊｝, what's everyone up to?");
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -33,14 +32,13 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100330001_03_000");
 MsgDisp("Honda","Yeah, she's been saying she wanted to get
-piercings ever since she was in elementary
-school.");
+piercings ever since she was in
+elementary school.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100330001_22_020");
-MsgDisp("Hikaru","Aha▼
-What a precocious girl～♪
+MsgDisp("Hikaru","Aha▼ What a precocious girl～♪
 She's got a bright future!");
 ChEye(21,0);
 ChMouth(21,0);
@@ -57,8 +55,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("F100330001_03_020");
-MsgDisp("Honda","Yeah.
-But still, it was dangerous?");
+MsgDisp("Honda","Yeah. But still, it was dangerous?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -68,8 +65,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100330001_22_030");
-MsgDisp("Hikaru","You put your body on the line for your
-sister?
+MsgDisp("Hikaru","You put your body on the line for
+your sister?
 That's admirable, Hikaru will praise you!");
 ChEye(3,2);
 ChMouth(3,4);

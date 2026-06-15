@@ -50,8 +50,7 @@ It was good.");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("I350200000_02_040");
-    MsgDisp("Sassa","Yeah.
-Your uniform was amazing.
+    MsgDisp("Sassa","Yeah. Your uniform was amazing.
 I'll come again.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -86,15 +85,13 @@ smell is great.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("I350200000_02_070");
-    MsgDisp("Sassa","Hm...
-Ha...");
+    MsgDisp("Sassa","Hm... Ha...");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);
     VoicePlay("I350200000_02_080");
     MsgDisp("Sassa","It might be kind of addictive.");
-    MsgDisp("主人公","Huh?
-You're exaggerating...");
+    MsgDisp("主人公","Huh? You're exaggerating...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -156,8 +153,7 @@ naturally came in...");
     VoicePlay("I350200000_02_150");
     MsgDisp("Sassa","Sorry, what am I doing.
 I gotta go.");
-    MsgDisp("主人公","Huh?
-A little break is fine.");
+    MsgDisp("主人公","Huh? A little break is fine.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -168,8 +164,7 @@ See you.");
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("I350200000_02_170");
-    MsgDisp("Sassa","Sigh...
-What am I thinking while training...
+    MsgDisp("Sassa","Sigh... What am I thinking while training...
 I'm seriously sick.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -22,8 +22,8 @@ MsgDisp("Mikage","What a shame.
 I'll watch it quietly from the stands.
 Your brave figure.");
 MsgDisp("主人公","Okay.
-It won't be easy to win, but we'll all do our
-best.");
+It won't be easy to win, but we'll all do
+our best.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -32,8 +32,8 @@ MsgDisp("Mikage","You're a good manager.
 Get out there and do all you can.");
 MsgDisp("主人公","Yes...!");
 MsgDisp("主人公","(Alright!
-I'll support the players as best I can and
-win!)");
+I'll support the players as best I can
+and win!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

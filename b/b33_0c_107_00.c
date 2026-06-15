@@ -20,8 +20,7 @@ ChOpen(5,255,0,4,4,#1,#1,0,3);
 ChOpen(6,255,2,2,0,0,#1,0,3);
 ChOpen(7,255,2,2,2,0,#1,0,3);
 ScrFadeIn(0);
-MsgDisp("主人公","Umm...
-I want to ride it one last time.");
+MsgDisp("主人公","Umm... I want to ride it one last time.");
 ChEye(7,2);
 ChMouth(7,2);
 ChMotion(7,4);

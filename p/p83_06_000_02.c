@@ -69,8 +69,8 @@ This is the kid.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P830600002_06_060");
-    MsgDisp("Himuro","Should I take her to the lost children
-centre?");
+    MsgDisp("Himuro","Should I take her to the lost
+children centre?");
     MsgDisp("主人公","I'll take her!");
     ChEye(6,0);
     ChMouth(6,0);

@@ -37,8 +37,8 @@ Keep it up.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Huh...
-｛Mikage＊＊｝, didn't you come to look for
-books?)");
+｛Mikage＊＊｝, didn't you come to look
+for books?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -87,8 +87,8 @@ Excuse me.");
     BGMStop();
     ChClose(7);
     MsgDisp("主人公","(Then, he was half-serious...?
-Does ｛Mikage＊＊｝ really want a part-time
-job?)");
+Does ｛Mikage＊＊｝ really want a
+part-time job?)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -107,8 +107,7 @@ The store is quite busy today.");
     ChMouth(7,3);
     ChMotion(7,4);
     VoicePlay("I250700000_07_110");
-    MsgDisp("Mikage","I see.
-Sorry if I bothered you.
+    MsgDisp("Mikage","I see. Sorry if I bothered you.
 See you.");
     ChClose(7);
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝...
@@ -123,8 +122,7 @@ check on me...)");
     VoicePlay("I250700000_42_010");
     MsgDisp("Manager","Just now, your homeroom teacher came by with
 gifts for everyone.");
-    MsgDisp("主人公","Huh?
-｛Mikage＊＊｝ brought gifts?");
+    MsgDisp("主人公","Huh? ｛Mikage＊＊｝ brought gifts?");
     VoicePlay("I250700000_42_020");
     MsgDisp("Manager","Yeah, a lot of milk ice cream.
 He got one for me, too.

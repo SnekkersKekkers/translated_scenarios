@@ -31,8 +31,7 @@ VoicePlay("F102120002_06_010");
 MsgDisp("Himuro","...Goodbye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
-MsgDisp("主人公","???
-What's up with ｛Himuro＊＊｝?");
+MsgDisp("主人公","??? What's up with ｛Himuro＊＊｝?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
@@ -67,9 +66,9 @@ ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102120002_21_050");
 MsgDisp("Michiru","...Hey, what does he call you, Mari?");
-MsgDisp("主人公","(Isn't it actually kind of embarrassing for
-｛Himuro＊＊｝ to call girls by their first
-names?)");
+MsgDisp("主人公","(Isn't it actually kind of embarrassing
+for ｛Himuro＊＊｝ to call girls by their
+first names?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

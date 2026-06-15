@@ -12,8 +12,7 @@ switch (ChPrmGet(2,6)){
     MsgClose();
     ChOpen(2,253,3,0,2,#1,#1,0,0);
     VoicePlay("B010200002_02_000");
-    MsgDisp("Sassa","Huh?
-You're early.");
+    MsgDisp("Sassa","Huh? You're early.");
     MsgDisp("主人公","You are too.
 I didn't think you'd arrive first.");
     ChEye(2,0);
@@ -38,8 +37,7 @@ More like the type that's always last minute.");
     ChOpen(2,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010200002_02_030");
     MsgDisp("Sassa","I wanted to get here earlier than you today.");
-    MsgDisp("主人公","Huh?
-Why?");
+    MsgDisp("主人公","Huh? Why?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -64,8 +62,7 @@ Let's make it into a competition.");
     VoicePlay("B010200002_02_060");
     MsgDisp("Sassa","What's up?
 You're early.");
-    MsgDisp("主人公","So are you!
-Why?");
+    MsgDisp("主人公","So are you! Why?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -73,8 +70,7 @@ Why?");
     MsgDisp("Sassa","Why, you ask...
 I was walking normally at first, you know?
 But before I knew it, I started running.");
-    MsgDisp("主人公","What?
-You came here running?");
+    MsgDisp("主人公","What? You came here running?");
     ChEye(2,4);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -82,8 +78,7 @@ You came here running?");
     MsgDisp("Sassa","Yeah.
 I thought about us meeting up, and next thing
 I knew, I was running here.");
-    MsgDisp("主人公","Hehe.
-Somehow, that makes me a little happy.");
+    MsgDisp("主人公","Hehe. Somehow, that makes me a little happy.");
     MsgDispSksp(1,0);
     ChEye(2,4);
     ChMouth(2,4);

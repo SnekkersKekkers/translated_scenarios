@@ -32,8 +32,7 @@ I'm nervous too, you know?");
     MsgDisp("Sassa","Haha, I see.
 Well, it looks like I can look forward to
 this. Go have fun.");
-    MsgDisp("主人公","Yeah.
-｛Sassa＊＊｝, thanks for coming!");
+    MsgDisp("主人公","Yeah. ｛Sassa＊＊｝, thanks for coming!");
     MsgDisp("主人公","(Alright, now I just have to give it
 everything I have!)");
     break ;

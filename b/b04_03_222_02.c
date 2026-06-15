@@ -57,15 +57,15 @@ Then, I won't do it.");
         ChMouth(3,3);
         ChMotion(3,4,1);
         VoicePlay("B040322202_03_040");
-        MsgDisp("Honda","Well, let's just take a commemorative photo
-then.");
+        MsgDisp("Honda","Well, let's just take a commemorative
+photo then.");
         MsgDisp("主人公","Huh?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040322202_03_050");
-        MsgDisp("Honda","We haven't taken a photo with the two of us
-before.");
+        MsgDisp("Honda","We haven't taken a photo with the two of
+us before.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(3);
@@ -106,8 +106,7 @@ with you first.");
         VoicePlay("B040322202_03_100");
         MsgDisp("Honda","Then after that, wearing armour would be
 interesting, yep yep.");
-        MsgDisp("主人公","(...Hm?
-Interesting?)");
+        MsgDisp("主人公","(...Hm? Interesting?)");
         break ;
         default :
         DbgAssert(1);

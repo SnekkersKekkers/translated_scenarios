@@ -13,8 +13,7 @@ switch (ChPrmGet(2,6)){
     VoicePlay("F010200007_02_000");
     MsgDisp("Sassa","｛主人公｝.
 Are you going home now?");
-    MsgDisp("主人公","Mhm.
-You too?");
+    MsgDisp("主人公","Mhm. You too?");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -36,8 +35,7 @@ Were you waiting for me?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("F010200007_02_030");
-    MsgDisp("Sassa","Yeah.
-I thought we could go home together.
+    MsgDisp("Sassa","Yeah. I thought we could go home together.
 What do you think?");
     break ;
     default :
@@ -57,8 +55,7 @@ switch (MsgSelRsltGet()){
         ChMouth(2,3);
         ChMotion(2,4);
         VoicePlay("F010200007_02_040");
-        MsgDisp("Sassa","Yes!
-Let's go.");
+        MsgDisp("Sassa","Yes! Let's go.");
         MsgDisp("主人公","Okay.");
         break ;
         case 4:
@@ -67,9 +64,9 @@ Let's go.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("F010200007_02_050");
-        MsgDisp("Sassa","Phew...
-I'm glad.
-I wanted to go home with you today. Let's go.");
+        MsgDisp("Sassa","Phew... I'm glad.
+I wanted to go home with you today.
+Let's go.");
         MsgDisp("主人公","Heheh, sure.");
         break ;
         default :
@@ -139,11 +136,9 @@ feel guilty...)");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("F010200007_02_100");
-        MsgDisp("Sassa","I see.
-It's all good, don't apologise.
+        MsgDisp("Sassa","I see. It's all good, don't apologise.
 Maybe another time.");
-        MsgDisp("主人公","Sure.
-Thank you for inviting me.");
+        MsgDisp("主人公","Sure. Thank you for inviting me.");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,0);

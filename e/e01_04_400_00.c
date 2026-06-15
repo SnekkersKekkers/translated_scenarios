@@ -6,10 +6,9 @@ MsgDisp("Michiru?","No way.
 I can't do that...");
 VoicePlay("E010440000_04_000");
 MsgDisp("Nanatsumori?","Really?
-Could it be that Michiru is actually pretty
-shy?");
-MsgDisp("主人公","(Hm?
-That voice just now was...)");
+Could it be that Michiru is actually
+pretty shy?");
+MsgDisp("主人公","(Hm? That voice just now was...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);

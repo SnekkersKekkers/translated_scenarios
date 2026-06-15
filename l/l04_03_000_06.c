@@ -13,8 +13,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4);
     VoicePlay("L040300006_03_010");
     MsgDisp("Honda","Da, that surprised me...
-It was more powerful than I expected, I
-just...");
+It was more powerful than I expected,
+I just...");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);
@@ -36,8 +36,7 @@ How is it?");
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("L040300006_03_040");
-    MsgDisp("Honda","Yeah.
-I can tell you did your best.");
+    MsgDisp("Honda","Yeah. I can tell you did your best.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4);
@@ -51,8 +50,7 @@ My sister used to be the same way.");
     VoicePlay("L040300006_03_060");
     MsgDisp("Honda","Thanks to that, this feels very nostalgic.
 Thanks.");
-    MsgDisp("主人公","(Ugh...
-I should've tried harder...)");
+    MsgDisp("主人公","(Ugh... I should've tried harder...)");
     break ;
     case 4:
     case 5:

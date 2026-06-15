@@ -33,8 +33,8 @@ clothing, let me know.");
     ChMotion(4,1,1);
     VoicePlay("B040412100_04_020");
     MsgDisp("Nanatsumori","Maybe.
-I would be happy if people liked the items I
-chose.");
+I would be happy if people liked the items
+I chose.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

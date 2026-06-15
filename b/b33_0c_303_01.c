@@ -13,8 +13,7 @@ ChMouth(6,0);
 ChMotion(6,7);
 ScrFadeIn(0);
 VoicePlay("B330C30301_07_000");
-MsgDisp("Mikage","Phew...
-We skated a lot today～!");
+MsgDisp("Mikage","Phew... We skated a lot today～!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -37,8 +36,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("B330C30301_05_010");
 MsgDisp("Hiiragi","Yes.
-But we kept doing the same rotation each
-time.");
+But we kept doing the same rotation
+each time.");
 ChEyeOpenLevel(5,0);
 ChEye(6,0);
 ChMouth(6,0);
@@ -66,8 +65,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30301_07_020");
-MsgDisp("Mikage","Yeah.
-Wanna skate the opposite way next?");
+MsgDisp("Mikage","Yeah. Wanna skate the opposite way next?");
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","No you can't!");

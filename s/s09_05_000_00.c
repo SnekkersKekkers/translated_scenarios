@@ -109,8 +109,7 @@ pull fortunes.)");
         MsgDisp("Hiiragi","Right.
 When you get this far, there's no sense in
 backing out.");
-        MsgDisp("主人公","Hehe.
-Yep.
+        MsgDisp("主人公","Hehe. Yep.
 Which hand should I use to pull?");
         ChEye(5,4);
         ChMouth(5,4);

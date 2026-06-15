@@ -37,8 +37,8 @@ immediately.");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","(Tea and confectionaries for the guests are
-ready.
+    MsgDisp("主人公","(Tea and confectionaries for the guests
+are ready.
 After that...");
     SEPlay("EV_SE_DOOR_013");
     SEWait();
@@ -54,10 +54,8 @@ I'm sorry to keep you waiting. I've prepared
 the tea and confectionaries for the guests.");
     ChEye(5,4);
     VoicePlay("P830500000_05_040");
-    MsgDisp("Hiiragi","Yes.
-Then I'll bring it to them.");
-    MsgDisp("主人公","Eh?
-But that's my job...");
+    MsgDisp("Hiiragi","Yes. Then I'll bring it to them.");
+    MsgDisp("主人公","Eh? But that's my job...");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("P830500000_05_050");

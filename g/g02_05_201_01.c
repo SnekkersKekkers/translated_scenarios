@@ -4,8 +4,7 @@ VoiceEVSPlay(5);
 VoicePlay("G020520101_05_000");
 MsgDisp("Hiiragi","｛主人公｝, please listen to me as if I were
 talking to myself.");
-MsgDisp("主人公","Eh?
-O-Okay.");
+MsgDisp("主人公","Eh? O-Okay.");
 VoicePlay("G020520101_05_010");
 MsgDisp("Hiiragi","Thank you.");
 ChEye(5,0);
@@ -50,9 +49,9 @@ VoicePlay("G020520101_05_080");
 MsgDisp("Hiiragi","Yes, that will never change.");
 ChMotion(5,4);
 VoicePlay("G020520101_05_090");
-MsgDisp("Hiiragi","Continuing to share the same stage with you
-and staying by your side is not a simple
-task.");
+MsgDisp("Hiiragi","Continuing to share the same stage with
+you and staying by your side is not a
+simple task.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);

@@ -45,20 +45,19 @@ switch (MsgSelRsltGet()){
         ChMotion(5,0);
         VoicePlay("B040503202_05_030");
         MsgDisp("Hiiragi","Are you trying to make me laugh?");
-        MsgDisp("主人公","Umm...
-I'm sorry.
+        MsgDisp("主人公","Umm... I'm sorry.
 Was that dull?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040503202_05_040");
-        MsgDisp("Hiiragi","I see...
-I'm the one who should be sorry. I didn't
-realise I was making you worry about me.");
+        MsgDisp("Hiiragi","I see... I'm the one who should be sorry.
+I didn't realise I was making you worry
+about me.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040503202_05_050");
-        MsgDisp("Hiiragi","I should be the one making sure you're having
-fun.
+        MsgDisp("Hiiragi","I should be the one making sure you're
+having fun.
 How pathetic of me.");
         MsgDisp("主人公","No, I'm always having fun.");
         ChEye(5,0);

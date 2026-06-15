@@ -41,8 +41,8 @@ though...");
         ChEye(5,2);
         ChEyeOpenLevel(5,8);
         VoicePlay("B040508302_05_030");
-        MsgDisp("Hiiragi","I think even now is enough of a wonderful
-time.");
+        MsgDisp("Hiiragi","I think even now is enough of a
+wonderful time.");
         MsgDateResultDisp();
         break ;
         case 4:

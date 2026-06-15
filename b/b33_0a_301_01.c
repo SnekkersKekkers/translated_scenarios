@@ -31,8 +31,8 @@ MsgDisp("Himuro","...I see.
 To Nozomu-senpai, this place is similar to a
 haunted house.");
 ChMouth(1,2);
-MsgDisp("主人公","Eh...a haunted house...if you say it like
-that...");
+MsgDisp("主人公","Eh...a haunted house...if you say it
+like that...");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -60,8 +60,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30101_01_010");
-MsgDisp("Kazama","Hm?
-Isn't it just a sunken ship?");
+MsgDisp("Kazama","Hm? Isn't it just a sunken ship?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -74,8 +73,7 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A30101_02_030");
-MsgDisp("Sassa","Ughh...
-S-Stop it.");
+MsgDisp("Sassa","Ughh... S-Stop it.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
@@ -114,8 +112,7 @@ ChMotion(6,0);
 VoicePlay("B330A30101_06_060");
 MsgDisp("Himuro","Your weakness is the easiest to understand...
 Right?");
-MsgDisp("主人公","Eh?
-Me...?");
+MsgDisp("主人公","Eh? Me...?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

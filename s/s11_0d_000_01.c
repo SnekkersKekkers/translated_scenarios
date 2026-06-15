@@ -36,8 +36,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("S110D00001_22_020");
-MsgDisp("Hikaru","Hikaru also wants to share her happiness with
-Mari▼
+MsgDisp("Hikaru","Hikaru also wants to share her happiness
+with Mari▼
 Let's stick together this year!");
 MsgDisp("主人公","(｛みちる＊｝, ｛ひかる＊｝...
 I'm so happy!)");

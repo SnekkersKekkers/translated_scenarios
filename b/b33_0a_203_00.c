@@ -51,8 +51,7 @@ MsgDisp("Sassa","Haha, that was a great splash!");
 MsgDisp("主人公","Yeah, did you see it?");
 SEPlay("EV_SE_631");
 MsgDisp("","(*SPLASH*)");
-MsgDisp("主人公","Ehh∋
-That sound was so loud!");
+MsgDisp("主人公","Ehh∋ That sound was so loud!");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

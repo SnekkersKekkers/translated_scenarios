@@ -17,8 +17,7 @@ switch (ChPrmGet(8,6)){
 ...Perfect score!");
     MsgDisp("主人公","Yes!");
     VoicePlay("I660800005_39_000");
-    MsgDisp("Customer","Ooh!
-My car's looking nice and shiny!");
+    MsgDisp("Customer","Ooh! My car's looking nice and shiny!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -40,8 +39,7 @@ Take care of it next time too.");
     VoicePlay("I660800005_08_030");
     MsgDisp("Shirahane","That customer sure was happy.
 Good thing I trusted you with this.");
-    MsgDisp("主人公","(Yay!
-｛Daichi＊＊｝ praised me!)");
+    MsgDisp("主人公","(Yay! ｛Daichi＊＊｝ praised me!)");
     break ;
     case 4:
     case 5:
@@ -49,28 +47,25 @@ Good thing I trusted you with this.");
     ChEye(8,3);
     ChMouth(8,3);
     VoicePlay("I660800005_08_040");
-    MsgDisp("Shirahane","Okay!
-Lemme check.");
+    MsgDisp("Shirahane","Okay! Lemme check.");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,10);
     VoicePlay("I660800005_08_050");
-    MsgDisp("Shirahane","Ooh!
-Not a single smudge in sight...
+    MsgDisp("Shirahane","Ooh! Not a single smudge in sight...
 A full 100 points!");
     ChEyeOpenLevel(8,#1);
     MsgDisp("主人公","Yay!");
     VoicePlay("I660800005_39_020");
-    MsgDisp("Customer","Wow!
-My car looks good as new∋");
+    MsgDisp("Customer","Wow! My car looks good as new∋");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("I660800005_08_060");
     MsgDisp("Shirahane","Leave it t'us!
-With her techniques, any car can look good as
-new～!");
+With her techniques, any car can look good
+as new～!");
     MsgDisp("主人公","That's...");
     VoicePlay("I660800005_39_030");
     MsgDisp("Customer","It really is amazing.
@@ -81,8 +76,8 @@ I'll ask for you again, pretty lady.");
     ChEyeOpenLevel(8,7);
     VoicePlay("I660800005_08_070");
     MsgDisp("Shirahane","That's no good, sir.
-You should be leavin' with a clean car and
-heart.");
+You should be leavin' with a clean car
+and heart.");
     VoicePlay("I660800005_39_040");
     MsgDisp("Customer","Sorry, sorry, Dai-chan.
 Well, I'll ask for her again next time!");
@@ -92,9 +87,9 @@ Well, I'll ask for her again next time!");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800005_08_080");
-    MsgDisp("Shirahane","Ah no.
-Can't let my guard down when you're doin'
-this good. I'm in trouble...");
+    MsgDisp("Shirahane","Ah no. Can't let my guard down when you're
+doin' this good.
+I'm in trouble...");
     MsgDisp("主人公","(So he's saying I'm doing well?
 But I wonder why he needs his guard up?)");
     break ;

@@ -28,9 +28,9 @@ I completely don't get it though.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040210101_02_020");
-    MsgDisp("Sassa","You say it's completely different, but to my
-eyes it just looks like normal pottery
-though.");
+    MsgDisp("Sassa","You say it's completely different, but
+to my eyes it just looks like normal
+pottery though.");
     MsgDateResultDisp();
     break ;
     case 2:

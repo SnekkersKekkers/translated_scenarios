@@ -31,25 +31,23 @@ Sorry.");
     case 4:
     case 5:
     VoicePlay("J030200001_02_050");
-    MsgDisp("Sassa","Ahh...
-I can't!
+    MsgDisp("Sassa","Ahh... I can't!
 I have plans on that day...");
     MsgDisp("主人公","I see, can't be helped!");
     VoicePlay("J030200001_02_060");
-    MsgDisp("Sassa","Even though you went to the trouble of asking
-me...
+    MsgDisp("Sassa","Even though you went to the trouble of
+asking me...
 Sorry.");
     MsgDisp("主人公","That's okay.
 I'll call you another time.");
     VoicePlay("J030200001_02_070");
-    MsgDisp("Sassa","Sigh, but when will \"another time\" actually
-come?
+    MsgDisp("Sassa","Sigh, but when will \"another time\"
+actually come?
 Bye...");
     MsgDisp("主人公","Y-Yeah.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmm...
-That's too bad.)");
+    MsgDisp("主人公","(Hmm... That's too bad.)");
     break ;
     default :
     DbgAssert(1);

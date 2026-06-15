@@ -28,8 +28,8 @@ the costume department busy, huh?");
     ChMouth(4,3);
     ChMotion(4,2,1);
     VoicePlay("P230400001_04_010");
-    MsgDisp("Nanatsumori","This performance has a lot of special effects
-makeup.
+    MsgDisp("Nanatsumori","This performance has a lot of special
+effects makeup.
 It was worth it-.");
     MsgDisp("主人公","Hehe, that's right huh!");
     VoicePlay("P230400001_47_000");

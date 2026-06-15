@@ -35,8 +35,8 @@ between Molly and the maze came out!");
 If you can reach the finish line, you get to
 drink freshly squeezed milk～");
     VoicePlay("P130300000_03_020");
-    MsgDisp("Honda?","You get to drink cow milk if you clear the
-maze∋
+    MsgDisp("Honda?","You get to drink cow milk if you clear
+the maze∋
 Super interesting∈");
     MsgClose();
     ChOpen(3,254,0,0,0,#1,#1,0,0);
@@ -55,20 +55,18 @@ the maze?");
     MsgDisp("Honda","Ah, I see.
 I wanted to go in together, but I guess the
 poster girl can't leave her spot.");
-    MsgDisp("主人公","Ah, I did make some traps in the maze,
-though?");
+    MsgDisp("主人公","Ah, I did make some traps in the
+maze, though?");
     ChEye(3,5);
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("P130300000_03_050");
-    MsgDisp("Honda","Eh!
-You made some traps∋
+    MsgDisp("Honda","Eh! You made some traps∋
 Then I'm going!");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(3);
-    MsgDisp("主人公","Ah!
-Umm, entry for one then please～!");
+    MsgDisp("主人公","Ah! Umm, entry for one then please～!");
     break ;
     default :
     DbgAssert(1);

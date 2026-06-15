@@ -12,8 +12,7 @@ ChMotion(2,4);
 VoicePlay("G020210306_02_010");
 MsgDisp("Sassa","Yeah, it's like a hot spring for the
 fireflies.");
-MsgDisp("主人公","I see.
-You do love baths, ｛Sassa＊＊｝.");
+MsgDisp("主人公","I see. You do love baths, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -34,8 +33,8 @@ VoicePlay("G020210306_02_040");
 MsgDisp("Sassa","Oh, did you forget?
 The jacuzzi in the heated pool—.");
 MsgDisp("主人公","Ahh!
-It felt like we had our own private hot
-spring.");
+It felt like we had our own private
+hot spring.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

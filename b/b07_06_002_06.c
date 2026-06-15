@@ -34,8 +34,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_400");
-MsgDisp("Himuro","We will. 
-...But—");
+MsgDisp("Himuro","We will. ...But—");
 MsgDisp("主人公","But...?");
 ChEye(6,0);
 ChMouth(6,0);

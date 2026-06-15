@@ -36,14 +36,13 @@ rhythmic gymnastics club...)");
     Wait(15,0);
     ScrFadeIn(0);
     VoicePlay("H4A2200001_22_030");
-    MsgDisp("Hikaru","Uu...
-Mari, Hikaru's sorry.");
+    MsgDisp("Hikaru","Uu... Mari, Hikaru's sorry.");
     MsgDisp("主人公","Hm, ｛ひかる＊｝, what's wrong?");
     ChMotion(22,2,1);
     VoicePlay("H4A2200001_22_040");
     MsgDisp("Hikaru","Hikaru should've tried harder.
-It's definitely Hikaru's fault that we
-lost...");
+It's definitely Hikaru's fault that
+we lost...");
     MsgDisp("主人公","Not at all.
 The opponent was just too strong.");
     ChMouth(22,0);

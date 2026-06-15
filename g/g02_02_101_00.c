@@ -36,8 +36,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210100_02_050");
-MsgDisp("Sassa","Compared to them, I'm just the serious one,
-right?");
+MsgDisp("Sassa","Compared to them, I'm just the serious
+one, right?");
 MsgDisp("主人公","｛Sassa＊＊｝ is also a funny superman.");
 ChEye(2,0);
 ChMouth(2,2);

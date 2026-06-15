@@ -45,8 +45,7 @@ forfeits.");
         ChMouth(7,1);
         ChMotion(7,5);
         VoicePlay("B040723102_07_030");
-        MsgDisp("Mikage","No?
-Hey, what are you saying?");
+        MsgDisp("Mikage","No? Hey, what are you saying?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -56,8 +55,7 @@ Hey, what are you saying?");
         ChMouth(7,1);
         ChMotion(7,5);
         VoicePlay("B040723102_07_040");
-        MsgDisp("Mikage","Umm?
-....");
+        MsgDisp("Mikage","Umm? ....");
         MsgDisp("主人公","What's wrong?");
         ChEye(7,1);
         ChMouth(7,0);

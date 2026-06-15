@@ -24,7 +24,6 @@ Thank you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(Yay!
-A huge success∈)");
+MsgDisp("主人公","(Yay! A huge success∈)");
 MsgClose();
 ScrFadeOut(0,0);

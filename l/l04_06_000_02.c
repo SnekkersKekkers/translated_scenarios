@@ -30,8 +30,8 @@ I'm glad I splurged!)");
     ChMotion(6,0,1);
     VoicePlay("L040600002_06_020");
     MsgDisp("Himuro","Expensive-looking chocolate.
-This kind of thing shouldn't be about the
-price.");
+This kind of thing shouldn't be about
+the price.");
     MsgDisp("主人公","...Is, is that bad?");
     ChEye(6,0);
     ChMouth(6,0);

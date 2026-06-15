@@ -33,8 +33,7 @@ VoicePlay("F020100006_01_030");
 MsgDisp("Kazama","At kindergarten field day, I had to carry the
 2nd place flag while you were watching.
 I still dream about it.");
-MsgDisp("主人公","Um...
-I don't remember that?");
+MsgDisp("主人公","Um... I don't remember that?");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChMouth(1,2);

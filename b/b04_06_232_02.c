@@ -70,8 +70,8 @@ other guys?");
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040623202_06_080");
-        MsgDisp("Himuro","Whether it's the ferris wheel or whatever you
-like.");
+        MsgDisp("Himuro","Whether it's the ferris wheel or whatever
+you like.");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,4);

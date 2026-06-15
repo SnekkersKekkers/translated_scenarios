@@ -5,8 +5,7 @@ VoicePlay("E010430100_03_000");
 MsgDisp("Honda?","Let's go, Mi-kun!");
 VoicePlay("E010430100_04_000");
 MsgDisp("Nanatsumori?","Absolutely not!");
-MsgDisp("主人公","(Hm?
-That voice just now was...)");
+MsgDisp("主人公","(Hm? That voice just now was...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -65,8 +64,8 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 VoiceEVSPlay(4);
 VoicePlay("E010430100_04_050");
-MsgDisp("Nanatsumori","Sorry, ｛主人公｝, I'm leaving the rest to
-you!");
+MsgDisp("Nanatsumori","Sorry, ｛主人公｝, I'm leaving the rest
+to you!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(4,0,30);

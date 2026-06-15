@@ -29,10 +29,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("Q070701000_21_010");
-MsgDisp("Michiru","...?
-It's kind of noisy in the men's bath.");
-MsgDisp("主人公","Yes...
-I wonder what's going on.");
+MsgDisp("Michiru","...? It's kind of noisy in the men's bath.");
+MsgDisp("主人公","Yes... I wonder what's going on.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3);
@@ -48,8 +46,7 @@ ChMotion(21,4);
 VoicePlay("Q070701000_21_020");
 MsgDisp("Michiru","Oh well...
 Mari, we're going too.");
-MsgDisp("主人公","Eeh∋
-｛みちる＊｝, you too!");
+MsgDisp("主人公","Eeh∋ ｛みちる＊｝, you too!");
 MsgClose();
 ScrFadeOut(0);
 ChClose(21,0,0);
@@ -127,14 +124,14 @@ ChMotion(21,3);
 VoicePlay("Q070701000_21_040");
 MsgDisp("Michiru","That's good, you'll owe Mikage-sensei.
 Right, Mari?");
-MsgDisp("主人公","Eh?
-Y-Yes.
+MsgDisp("主人公","Eh? Y-Yes.
 We need to hurry!");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(I can't believe ｛Mikage＊＊｝ popped
-out...Phew, I was so surprised.)");
+MsgDisp("主人公","(I can't believe ｛Mikage＊＊｝
+popped out...
+Phew, I was so surprised.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21,0,0);

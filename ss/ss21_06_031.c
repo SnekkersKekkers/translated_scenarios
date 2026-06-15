@@ -4,7 +4,6 @@ ChMouth(6,0);
 ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("SS2106031_06_000");
-MsgDisp("Himuro","...!
-This is no joke!");
+MsgDisp("Himuro","...! This is no joke!");
 MsgClose();
 ChCheek(6,0);

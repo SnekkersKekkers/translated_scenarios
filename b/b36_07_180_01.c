@@ -24,8 +24,7 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360718001_07_020");
 MsgDisp("Mikage","Are you anxious?");
-MsgDisp("主人公","Yeah.
-Just a little...");
+MsgDisp("主人公","Yeah. Just a little...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -53,8 +52,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("B360718001_07_060");
-MsgDisp("Mikage","If you feel that you need to do it, then do
-it.
+MsgDisp("Mikage","If you feel that you need to do it, then
+do it.
 That's all there is to it.");
 MsgDisp("主人公","Okay.");
 ChEye(7,0);

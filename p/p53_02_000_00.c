@@ -36,8 +36,8 @@ to do your music performance as usual.");
     MsgDisp("Sassa","Relax.
 Don't worry, practice never fails.");
     MsgDisp("主人公","...Yeah!");
-    MsgDisp("主人公","(｛Sassa＊＊｝ said it, so it can't be wrong,
-huh?
+    MsgDisp("主人公","(｛Sassa＊＊｝ said it, so it can't be
+wrong, huh?
 I'll use everything I practised!)");
     break ;
     case 4:
@@ -67,18 +67,18 @@ be nervous...");
     ChMotion(2,4);
     VoicePlay("P530200000_02_060");
     MsgDisp("Sassa","I get it.
-Before I have a contest, I also get like
-that.");
+Before I have a contest, I also get
+like that.");
     MsgDisp("主人公","Even ｛Sassa＊＊｝?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P530200000_02_070");
     MsgDisp("Sassa","Yeah.
-When that happens, I listen to the music I
-like.");
-    MsgDisp("主人公","But, right now I can't listen to the music I
-like...");
+When that happens, I listen to the music
+I like.");
+    MsgDisp("主人公","But, right now I can't listen to the music
+I like...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,5);
@@ -86,8 +86,7 @@ like...");
     MsgDisp("Sassa","What are you saying?
 After this, you're going to play it yourself,
 aren't you?");
-    MsgDisp("主人公","Eh...
-Ah, I see.");
+    MsgDisp("主人公","Eh... Ah, I see.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

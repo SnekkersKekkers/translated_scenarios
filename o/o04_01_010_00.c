@@ -16,8 +16,7 @@ We're together.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O040101000_01_010");
-    MsgDisp("Kazama","Yeah.
-There's no way we're losing.");
+    MsgDisp("Kazama","Yeah. There's no way we're losing.");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
@@ -60,8 +59,7 @@ Let's go!");
     ChOpen(1,30,0,4,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040101000_01_060");
-    MsgDisp("Kazama","Huh?
-So this is our destiny.");
+    MsgDisp("Kazama","Huh? So this is our destiny.");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Are we on the same team?");
     ChEye(1,0);
@@ -76,8 +74,7 @@ Because that's our fate.");
     VoicePlay("O040101000_01_080");
     MsgDisp("Kazama","Now that we're together, we'll double the
 other team's score, got it?");
-    MsgDisp("主人公","Hehe.
-Yeah, let's do our best!");
+    MsgDisp("主人公","Hehe. Yeah, let's do our best!");
     ChEye(1,3);
     ChMouth(1,3);
     ChMotion(1,3);

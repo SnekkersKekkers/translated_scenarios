@@ -8,8 +8,7 @@ switch (ChPrmGet(6,6)){
     ChOpen(6,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040600002_06_000");
-    MsgDisp("Himuro","Hm...
-Well, we were just one away.");
+    MsgDisp("Himuro","Hm... Well, we were just one away.");
     MsgDisp("主人公","(A draw, huh...
 But, it was a good match.)");
     break ;
@@ -29,8 +28,7 @@ But, it was a good match.)");
     ChOpen(6,30,2,2,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040600002_06_020");
-    MsgDisp("Himuro","I should've tried a little harder...
-Sigh.");
+    MsgDisp("Himuro","I should've tried a little harder... Sigh.");
     MsgDisp("主人公","(A draw, huh...
 But, it was a good match.)");
     break ;

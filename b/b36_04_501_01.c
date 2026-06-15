@@ -23,8 +23,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360450101_04_010");
 MsgDisp("Nanatsumori","No, not at all.
-Rather, it feels like I haven't played
-enough.");
+Rather, it feels like I haven't
+played enough.");
 MsgDisp("主人公","Really?
 Then, should we go play at this park?");
 ChEye(4,5);
@@ -42,15 +42,14 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360450101_04_040");
-MsgDisp("Nanatsumori","Yeah.
-You're funny, and pure.
+MsgDisp("Nanatsumori","Yeah. You're funny, and pure.
 I really can't take my eyes off you.");
 MsgDisp("主人公","Ugh...");
 ChEye(4,0);
 ChMouth(4,4);
 VoicePlay("B360450101_04_050");
-MsgDisp("Nanatsumori","The playground equipment here belongs to the
-kids.
+MsgDisp("Nanatsumori","The playground equipment here belongs to
+the kids.
 It's too fragile for a big guy like me.");
 ChEye(4,4);
 ChMouth(4,4);
@@ -64,8 +63,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B360450101_04_070");
-MsgDisp("Nanatsumori","Well.
-It more or less depends on the person.
+MsgDisp("Nanatsumori","Well. It more or less depends on the person.
 But to you, I'm the ultimate gentleman.");
 MsgDisp("主人公","Hehe!");
 BGMStop();

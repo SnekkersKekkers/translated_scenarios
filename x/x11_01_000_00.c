@@ -18,8 +18,8 @@ them win.");
     ChMotion(1,0);
     VoicePlay("X110100000_01_010");
     MsgDisp("Kazama","No doubt about it.
-Without you, I don't think they could have
-played.");
+Without you, I don't think they could
+have played.");
     MsgDisp("主人公","(Hehe, he's exaggerating.
 But that makes me happy!)");
     break ;
@@ -31,8 +31,8 @@ But that makes me happy!)");
     ScrFadeIn(0);
     ChMotion(1,3);
     VoicePlay("X110100000_01_020");
-    MsgDisp("Kazama","I heard the baseball club won the practice
-match?");
+    MsgDisp("Kazama","I heard the baseball club won the
+practice match?");
     MsgDisp("主人公","Yes, with a dramatic home-run victory!");
     VoicePlay("X110100000_01_030");
     MsgDisp("Kazama","Thanks for your hard work, team manager.");

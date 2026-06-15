@@ -4,8 +4,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630101_06_000");
 MsgDisp("Himuro","You're kind of like a queen.");
-MsgDisp("主人公","Eh.
-What do you mean?");
+MsgDisp("主人公","Eh. What do you mean?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -37,14 +36,14 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630101_06_050");
-MsgDisp("Himuro","Everyone rests on you and are incessantly
-noisy.");
+MsgDisp("Himuro","Everyone rests on you and are
+incessantly noisy.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630101_06_060");
-MsgDisp("Himuro","Then maybe...you're not a flower, but a water
-well?");
+MsgDisp("Himuro","Then maybe...you're not a flower, but a
+water well?");
 MsgDisp("主人公","Eh, well?");
 ChEye(6,0);
 ChMouth(6,0);

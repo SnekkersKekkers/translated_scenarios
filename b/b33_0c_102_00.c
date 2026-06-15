@@ -14,8 +14,7 @@ ScrFadeIn(0);
 VoicePlay("B330C10200_05_000");
 MsgDisp("Hiiragi","I've always been curious about how they clean
 the tank.");
-MsgDisp("主人公","Eh?
-The tank?");
+MsgDisp("主人公","Eh? The tank?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -38,8 +37,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10200_05_020");
-MsgDisp("Hiiragi","Are there any cleaning products for acrylic
-tanks?");
+MsgDisp("Hiiragi","Are there any cleaning products for
+acrylic tanks?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -81,8 +80,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C10200_07_030");
-MsgDisp("Mikage","Yeah, probably something like snails or
-shrimp.
+MsgDisp("Mikage","Yeah, probably something like snails
+or shrimp.
 They eat the algae in the tank.");
 MsgDisp("主人公","That's amazing, huh.
 The creatures you keep cleaning up for you.");
@@ -93,8 +92,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B330C10200_05_040");
 MsgDisp("Hiiragi","Hmm.
 But, I want to clean it with my own hands.");
-MsgDisp("主人公","(Hehe.
-｛Hiiragi＊＊＊｝ really likes cleaning.)");
+MsgDisp("主人公","(Hehe. ｛Hiiragi＊＊＊｝ really likes cleaning.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

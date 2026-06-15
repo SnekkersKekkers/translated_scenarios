@@ -5,8 +5,7 @@ MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...
-So many beautiful flowers!");
+MsgDisp("主人公","Wow... So many beautiful flowers!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,2,1);
@@ -98,8 +97,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","This building is about 150 years old, huh.");
 VoicePlay("Q070400000_04_100");
 MsgDisp("Nanatsumori","Huh, it doesn't look like that at all.");
-MsgDisp("主人公","Yeah.
-It's very beautiful.");
+MsgDisp("主人公","Yeah. It's very beautiful.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -107,8 +105,7 @@ VoicePlay("Q070400000_04_110");
 MsgDisp("Nanatsumori","The best location overlooking the sea and
 retro architecture.
 I'd love to live in a place like this.");
-MsgDisp("主人公","Hehe.
-Maybe it's a bit like Habataki City?");
+MsgDisp("主人公","Hehe. Maybe it's a bit like Habataki City?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -134,8 +131,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("Q070400000_04_150");
-MsgDisp("Nanatsumori","Well, let's take some more pics here, as
-usual!");
+MsgDisp("Nanatsumori","Well, let's take some more pics here,
+as usual!");
 MsgDisp("主人公","Sure thing!");
 BGMStop();
 MsgClose();

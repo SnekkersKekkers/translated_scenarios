@@ -42,8 +42,8 @@ like a firefly's glow.");
 ChMotion(3,0);
 VoicePlay("G020310000_03_060");
 MsgDisp("Honda","Fireflies glow as a courtship display, but I
-still don't know why your face lights up like
-that.");
+still don't know why your face lights up
+like that.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);

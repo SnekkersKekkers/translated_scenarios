@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040102101_01_000");
 MsgDisp("Kazama","This place is so underrated.
-The sea, the sandy beaches, even the brick
-road.");
+The sea, the sandy beaches, even the
+brick road.");
 MsgSel("Yeah, I think it could be more popular too.","Do you think it's because of the name?","But I don't want it to get crowded.");
 switch (MsgSelRsltGet()){
     case 0:

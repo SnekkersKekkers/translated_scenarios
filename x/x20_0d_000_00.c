@@ -32,9 +32,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("X200D00000_21_020");
-MsgDisp("Michiru","It's an unofficial beauty contest held only
-among the third year girls at Habataki High
-School.");
+MsgDisp("Michiru","It's an unofficial beauty contest held
+only among the third year girls at
+Habataki High School.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -54,8 +54,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("X200D00000_21_040");
-MsgDisp("Michiru","Hehe.
-Mari has a chance in two years, right?");
+MsgDisp("Michiru","Hehe. Mari has a chance in two years, right?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

@@ -28,8 +28,8 @@ Right now I'm patrolling.");
     MsgDisp("Mikage","Patrolling huh?
 Will you be alright by yourself?");
     MsgDisp("主人公","Yes.
-I can't do it if I've not experienced how to
-patrol.");
+I can't do it if I've not experienced how
+to patrol.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -77,8 +77,8 @@ trouble.");
     ChMotion(7,0);
     VoicePlay("P830700002_07_060");
     MsgDisp("Mikage","As expected of you.
-Will the main building be alright without you
-there?");
+Will the main building be alright without
+you there?");
     MsgDisp("主人公","Yes.
 The first and second year students are doing
 their best.");

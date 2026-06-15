@@ -22,12 +22,11 @@ Are you working today?");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400300_04_010");
-MsgDisp("Nanatsumori","Yeah.
-We're both working hard then.");
+MsgDisp("Nanatsumori","Yeah. We're both working hard then.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("G110400300_04_020");
-MsgDisp("Nanatsumori","Umm, are you reporting for the Habatcher
-news?");
+MsgDisp("Nanatsumori","Umm, are you reporting for the
+Habatcher news?");
 MsgDisp("主人公","Yeah. I'm writing about the fun things and
 daily life about Habataki City and turning
 them into articles.");

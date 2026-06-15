@@ -9,8 +9,7 @@ MsgDisp("Hiiragi","Yes, this is Hiiragi.");
 MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝?
 It's ｛主人公苗字｝...");
 VoicePlay("C010500000_05_010");
-MsgDisp("Hiiragi","...Yes.
-What business is this regarding?");
+MsgDisp("Hiiragi","...Yes. What business is this regarding?");
 MsgDisp("主人公","(Umm, this feels awkward...
 But if I don't explain it now...)");
 MsgDisp("主人公","S-So...");
@@ -18,16 +17,15 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010500000_05_020");
-MsgDisp("Hiiragi","...I should have properly spoken with you
-sooner.");
+MsgDisp("Hiiragi","...I should have properly spoken with
+you sooner.");
 VoicePlay("C010500000_05_030");
 MsgDisp("Hiiragi","I put you through something unpleasant
 because of my own issues.
 I'm sorry.");
 MsgDisp("主人公","No, I'm the one who's sorry.");
 VoicePlay("C010500000_05_040");
-MsgDisp("Hiiragi","...Mm.
-Thank you for calling me.
+MsgDisp("Hiiragi","...Mm. Thank you for calling me.
 I'm glad we were able to have this talk.");
 VoicePlay("C010500000_05_050");
 MsgDisp("Hiiragi","Then, until next time.");

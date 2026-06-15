@@ -6,14 +6,12 @@ SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 VoicePlay("B090500000_05_000");
 MsgDisp("Hiiragi","Hello, this is Hiiragi.");
-MsgDisp("主人公","Huh?
-｛Hiiragi＊＊＊｝?");
+MsgDisp("主人公","Huh? ｛Hiiragi＊＊＊｝?");
 VoicePlay("B090500000_05_010");
 MsgDisp("Hiiragi","I just need to know that you're safe.
 I'll be waiting to hear from you.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","Crap!
-We were supposed to go on a date today!");
+MsgDisp("主人公","Crap! We were supposed to go on a date today!");
 MsgClose();
 ScrFadeOut(0,0);

@@ -25,8 +25,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,10);
 VoicePlay("G020110200_01_030");
-MsgDisp("Kazama","Because it means we've only been on ordinary
-dates.");
+MsgDisp("Kazama","Because it means we've only been on
+ordinary dates.");
 ChEye(1,2);
 ChMouth(1,4);
 ChMotion(1,1);
@@ -40,8 +40,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110200_01_050");
-MsgDisp("Kazama","Anyway, be ready for big things starting next
-time.");
+MsgDisp("Kazama","Anyway, be ready for big things starting
+next time.");
 MsgDisp("主人公","(What's gotten into ｛Kazama＊＊｝?)");
 BGMStop();
 MsgClose();

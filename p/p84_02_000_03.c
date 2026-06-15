@@ -2,8 +2,7 @@ ScrFadeIn(0);
 VoicePlay("P840200003_48_000");
 MsgDisp("School Girl","It's almost time to start cleaning up, so
 please give us more trash bags.");
-MsgDisp("主人公","Sure!
-Ah wait, there's only a few left...");
+MsgDisp("主人公","Sure! Ah wait, there's only a few left...");
 MsgClose();
 SEPlay("EV_SE_DOOR_019");
 SEWait();
@@ -26,8 +25,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P840200003_02_020");
-MsgDisp("Sassa","OK.
-I'll go and buy some then.");
+MsgDisp("Sassa","OK. I'll go and buy some then.");
 MsgDisp("主人公","Eh, is that really okay...?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -12,8 +12,7 @@ switch (ChPrmGet(8,6)){
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,35,0,0,0,#1,#1,0,0);
     VoicePlay("K010800100_08_000");
-    MsgDisp("Shirahane","Huh?
-What's the matter?");
+    MsgDisp("Shirahane","Huh? What's the matter?");
     MsgDisp("主人公","Today's your birthday, right?");
     ChEye(8,0);
     ChMouth(8,0);
@@ -48,8 +47,7 @@ What's the matter?");
     ChMotion(8,3,1);
     VoicePlay("K010800100_08_040");
     MsgDisp("Shirahane","You remembered! 'ppreciate it.");
-    MsgDisp("主人公","Hehe.
-Here, your present!");
+    MsgDisp("主人公","Hehe. Here, your present!");
     SEPlay("EV_SE_664");
     SEWait();
     ChEye(8,3);

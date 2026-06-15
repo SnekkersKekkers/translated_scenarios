@@ -23,8 +23,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("P540600004_06_020");
-MsgDisp("Himuro","There were also people who were so moved they
-cried.
+MsgDisp("Himuro","There were also people who were so moved
+they cried.
 Reiichi-san was also proud.");
 MsgDisp("主人公","I'm glad...");
 ChEye(6,0);

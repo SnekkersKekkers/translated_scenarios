@@ -30,8 +30,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610306_06_030");
-MsgDisp("Himuro","As I said before, it's not about disliking
-them.
+MsgDisp("Himuro","As I said before, it's not about
+disliking them.
 I just don't understand the urge to eat them.");
 MsgDisp("主人公","Yeah, I understand.");
 ChEye(6,1);

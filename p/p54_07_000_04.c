@@ -25,8 +25,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700004_07_020");
 MsgDisp("Mikage","Yes, I got goosebumps.");
-MsgDisp("主人公","Thank you very much...
-Ughh...");
+MsgDisp("主人公","Thank you very much... Ughh...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -38,8 +37,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("P540700004_07_040");
-MsgDisp("Mikage","I see...that joy is your reward for being
-so diligent.
+MsgDisp("Mikage","I see...that joy is your reward for being so
+diligent.
 It will become a wonderful memory.");
 ChEye(7,0);
 ChMouth(7,3);

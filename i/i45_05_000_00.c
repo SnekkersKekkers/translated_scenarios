@@ -14,16 +14,14 @@ switch (ChPrmGet(5,6)){
     VoicePlay("I450500000_05_010");
     MsgDisp("Hiiragi","...Oh my?
 Why are you...are we back at the school?");
-    MsgDisp("主人公","Huh?
-This is flower shop Annallee.
+    MsgDisp("主人公","Huh? This is flower shop Annallee.
 ｛Hiiragi＊＊＊｝, what is it?");
     ChEye(5,3);
     ChMouth(5,2);
     ChMotion(5,4);
     ChEyeOpenLevel(5,#1);
     VoicePlay("I450500000_05_020");
-    MsgDisp("Hiiragi","Hm?
-Ah, aah.
+    MsgDisp("Hiiragi","Hm? Ah, aah.
 I understand.");
     ChEye(5,2);
     ChMouth(5,4);
@@ -109,8 +107,8 @@ at them, you know?");
     ChMotion(5,0);
     VoicePlay("I450500000_05_140");
     MsgDisp("Hiiragi","In that case, I'd like to request a flower
-arrangement for a table, with flowers of your
-choice.");
+arrangement for a table, with flowers of
+your choice.");
     MsgDisp("主人公","Hehe, gladly!");
     MsgClose();
     ScrFadeOut(0,0);
@@ -152,8 +150,7 @@ You forgot your flowers!");
     VoicePlay("I450500000_05_180");
     MsgDisp("Hiiragi","It is a present for you and the store.
 Please display it anywhere you'd like.");
-    MsgDisp("主人公","Huh∋
-Th-Thank you!");
+    MsgDisp("主人公","Huh∋ Th-Thank you!");
     MsgDisp("主人公","(｛Hiiragi＊＊＊｝...
 Yeah, let's display it with care!)");
     break ;

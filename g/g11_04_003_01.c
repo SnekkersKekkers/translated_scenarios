@@ -16,8 +16,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("ne100",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew...
-That should be enough for today.");
+MsgDisp("主人公","Phew... That should be enough for today.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -47,8 +46,7 @@ Are you working right now?");
 VoicePlay("G110400301_04_010");
 MsgDisp("Nanatsumori","Yeah, I'm almost done for the day.
 I just wanted a bite to eat.");
-MsgDisp("主人公","I see.
-Well, are you about to leave then?");
+MsgDisp("主人公","I see. Well, are you about to leave then?");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400301_04_020");
@@ -92,8 +90,7 @@ VoicePlay("G110400301_04_080");
 ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,0);
-MsgDisp("Nanatsumori","Ach.
-You got me.");
+MsgDisp("Nanatsumori","Ach. You got me.");
 MsgDisp("主人公","(Hehe!
 It would be fun to write about spending time
 with ｛Nanatsumori＊｝ like this!)");

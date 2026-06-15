@@ -23,8 +23,7 @@ ChMotion(2,0);
 VoicePlay("G110200601_02_020");
 MsgDisp("Sassa","But, my seniors gave me a push at the
 Inter-High, so I think I'll go harder.");
-MsgDisp("主人公","Yes.
-But, don't push yourself too hard.");
+MsgDisp("主人公","Yes. But, don't push yourself too hard.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);
@@ -51,8 +50,7 @@ VoiceEVSPlay(2);
 VoicePlay("G110200601_02_040");
 MsgDisp("Sassa","｛主人公｝.
 Has there been any change in my form?");
-MsgDisp("主人公","Umm...
-No, I don't think anything's changed.");
+MsgDisp("主人公","Umm... No, I don't think anything's changed.");
 ChEye(2,0);
 ChMouth(2,1);
 ChMotion(2,0);

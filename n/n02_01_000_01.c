@@ -77,8 +77,7 @@ Have you seen the results?");
     VoicePlay("N020100001_01_090");
     MsgDisp("Kazama","Trust me on this.
 There's no mistaking it at this point.");
-    MsgDisp("主人公","Yeah...
-You're right!");
+    MsgDisp("主人公","Yeah... You're right!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

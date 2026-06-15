@@ -29,8 +29,7 @@ student's big moment.");
     VoicePlay("P730700001_07_020");
     MsgDisp("Mikage","I mean...
 You made that dress right?");
-    MsgDisp("主人公","Yes.
-...Um how does it look?");
+    MsgDisp("主人公","Yes. ...Um how does it look?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -43,8 +42,8 @@ The model is good too, huh?");
     ChMotion(7,0);
     VoicePlay("P730700001_07_040");
     MsgDisp("Mikage","That's a nice expression.
-Walk with that smile and some confidence,
-okay?");
+Walk with that smile and some
+confidence, okay?");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(7,0);

@@ -31,8 +31,7 @@ ChMouth(9,0);
 ChMotion(9,3,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900500_09_020");
-MsgDisp("Kuya","Yeah.
-It gave me a good feeling, too.");
+MsgDisp("Kuya","Yeah. It gave me a good feeling, too.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -61,8 +60,7 @@ ChMotion(9,0,1);
 ScrFadeIn(0);
 ChMotion(9,4,1);
 VoicePlay("D030900500_09_050");
-MsgDisp("Kuya","Phew...
-It took us a while to get here, huh.");
+MsgDisp("Kuya","Phew... It took us a while to get here, huh.");
 MsgDisp("主人公","Yeah...
 I think I understand now, why Kuya-san is a
 \"Jack of All Trades\".");
@@ -94,14 +92,13 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900500_09_090");
-MsgDisp("Kuya","I bet you're tired of dealing with all of
-this.
+MsgDisp("Kuya","I bet you're tired of dealing with all
+of this.
 Wait here a minute, okay?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(9);
-MsgDisp("主人公","Eh?
-Kuya-san, where did you—");
+MsgDisp("主人公","Eh? Kuya-san, where did you—");
 MsgDisp("主人公","(He's gone...)");
 MsgClose();
 ScrFadeOut(0);
@@ -114,11 +111,10 @@ ScrFadeIn(0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900500_09_100");
-MsgDisp("Kuya","So?
-Is it tasty?");
-MsgDisp("主人公","Yep!
-It's really yummy! This is from that food
-truck that comes around sometimes?");
+MsgDisp("Kuya","So? Is it tasty?");
+MsgDisp("主人公","Yep! It's really yummy!
+This is from that food truck that comes
+around sometimes?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,3,1);
@@ -128,8 +124,8 @@ They have one of a kind food, but I don't see
 them here often.");
 VoicePlay("D030900500_09_120");
 MsgDisp("Kuya","Thanks to you I finally get to eat from them.");
-MsgDisp("主人公","That's not really something I can take credit
-for...");
+MsgDisp("主人公","That's not really something I can take
+credit for...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);
@@ -160,8 +156,7 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030900500_09_160");
 MsgDisp("Kuya","This soft cream bread is interesting, right?
 Doesn't it appeal to your \"art\"istic side?");
-MsgDisp("主人公","Hmm...
-For me it's a bit much...");
+MsgDisp("主人公","Hmm... For me it's a bit much...");
 ChEye(9,3);
 ChMouth(9,2);
 ChMotion(9,0,1);

@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040209002_02_000");
-MsgDisp("Sassa","When I come here, I can't help but think of
-salad.");
+MsgDisp("Sassa","When I come here, I can't help but think
+of salad.");
 MsgSel("Are you hungry?","Vegetables are important huh?","You can't eat the grass here.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -84,8 +84,7 @@ lots of it.");
         VoicePlay("B040209002_02_080");
         MsgDisp("Sassa","You know, like Mikage-sensei?
 He cooks with vegetables.");
-        MsgDisp("主人公","I see.
-I'll try studying up on cooking then.");
+        MsgDisp("主人公","I see. I'll try studying up on cooking then.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);

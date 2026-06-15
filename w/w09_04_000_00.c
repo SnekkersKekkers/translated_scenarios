@@ -14,7 +14,8 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,255,2,2,3,#1,#1,0,0);
     VoicePlay("W090400000_04_010");
-    MsgDisp("Nanatsumori","This is what amusement parks are all about, huh?
+    MsgDisp("Nanatsumori","This is what amusement parks are all
+about, huh?
 Guess I'll just brace myself...");
     break ;
     case 4:
@@ -30,8 +31,7 @@ Guess I'll just brace myself...");
     ChMotion(4,2,1);
     ChCheek(4,5);
     VoicePlay("W090400000_04_030");
-    MsgDisp("Nanatsumori","Woah...
-Okay, I'm not gonna scream...");
+    MsgDisp("Nanatsumori","Woah... Okay, I'm not gonna scream...");
     break ;
     default :
     DbgAssert(1);

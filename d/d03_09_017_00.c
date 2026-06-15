@@ -24,8 +24,7 @@ BGMPlay("BGM_XMAS_TRHEE",0.01);
 ScrFadeIn(0);
 VoicePlay("D030901700_09_000");
 MsgDisp("Kuya","It's beautiful, huh...");
-MsgDisp("主人公","Yeah...
-It's somewhat soothing.");
+MsgDisp("主人公","Yeah... It's somewhat soothing.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -112,16 +111,15 @@ MsgClose();
 ChOpen(9,255,0,3,0,8,#1,8,0);
 ScrFadeIn(0);
 VoicePlay("D030901700_09_110");
-MsgDisp("Kuya","...This is the kind of atmosphere lovers kiss
-in.");
+MsgDisp("Kuya","...This is the kind of atmosphere lovers
+kiss in.");
 MsgDisp("主人公","Eh?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901700_09_120");
-MsgDisp("Kuya","Haha.
-Don't worry, I won't do that.");
+MsgDisp("Kuya","Haha. Don't worry, I won't do that.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -129,15 +127,13 @@ ChEyeOpenLevel(9,6);
 VoicePlay("D030901700_09_130");
 MsgDisp("Kuya","And that already happened, huh?
 We kissed once.");
-MsgDisp("主人公","!
-That was...");
+MsgDisp("主人公","! That was...");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901700_09_140");
-MsgDisp("Kuya","You're blushing.
-Haha!");
+MsgDisp("Kuya","You're blushing. Haha!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -161,8 +157,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901700_09_170");
-MsgDisp("Kuya","The next time we meet, it will finally be
-over.");
+MsgDisp("Kuya","The next time we meet, it will finally
+be over.");
 MsgDisp("主人公","(Kuya-san...
 \"Be over\"...maybe he means the exam?
 I have to work hard too.)");

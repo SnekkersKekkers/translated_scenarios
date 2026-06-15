@@ -8,7 +8,6 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B020602102_06_010");
-MsgDisp("Himuro","Yeah.
-That's pretty nice.");
+MsgDisp("Himuro","Yeah. That's pretty nice.");
 MsgDisp("主人公","(I got an honest compliment!
 I'm so happy!)");

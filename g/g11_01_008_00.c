@@ -47,10 +47,9 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100800_01_030");
-MsgDisp("Kazama","Just now you were thinking something bad, I
-bet.");
-MsgDisp("主人公","Eh?
-That's not true I...");
+MsgDisp("Kazama","Just now you were thinking something bad,
+I bet.");
+MsgDisp("主人公","Eh? That's not true I...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,1);

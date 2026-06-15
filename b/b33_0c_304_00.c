@@ -19,16 +19,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C30400_06_000");
-MsgDisp("Himuro","They're totally in their own world, aren't
-they.");
+MsgDisp("Himuro","They're totally in their own world,
+aren't they.");
 ChMouth(5,4);
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B330C30400_07_010");
 MsgDisp("Mikage","...What's that, Inori.
-Are you interested in that \"two-person\"
-world?");
+Are you interested in that
+\"two-person\" world?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -50,8 +50,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C30400_07_020");
-MsgDisp("Mikage","｛主人公｝, you look like you're interested
-too.");
+MsgDisp("Mikage","｛主人公｝, you look like you're
+interested too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -102,8 +102,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30400_07_050");
 MsgDisp("Mikage","It's only natural.");
-MsgDisp("主人公","(Ehhh∋
-Even if you say that so suddenly...!)");
+MsgDisp("主人公","(Ehhh∋ Even if you say that so suddenly...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

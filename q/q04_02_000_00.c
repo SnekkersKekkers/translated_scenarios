@@ -11,8 +11,8 @@ Good morning!");
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoicePlay("Q040200000_02_000");
     MsgDisp("Sassa","Morning.
-You look like you're in tip-top condition,
-huh?");
+You look like you're in tip-top
+condition, huh?");
     MsgDisp("主人公","Yeah.
 Hey, why don't we go together for today's
 free period?");
@@ -41,8 +41,7 @@ Did you sleep well?");
     MsgDisp("Sassa","｛主人公｝, morning!
 Yeah, absolutely.
 As usual, I did my morning jog.");
-    MsgDisp("主人公","Eh?
-So you left the hotel?");
+    MsgDisp("主人公","Eh? So you left the hotel?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

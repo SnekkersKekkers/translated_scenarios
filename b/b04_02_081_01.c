@@ -29,8 +29,8 @@ with words.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208101_02_020");
-    MsgDisp("Sassa","Don't make me sound like a dog reacting on
-reflex.");
+    MsgDisp("Sassa","Don't make me sound like a dog reacting
+on reflex.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -44,8 +44,7 @@ reflex.");
     ChMotion(2,4);
     ChCheek(2,10);
     VoicePlay("B040208101_02_030");
-    MsgDisp("Sassa","Umm...
-Are you asking me to look at you?");
+    MsgDisp("Sassa","Umm... Are you asking me to look at you?");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

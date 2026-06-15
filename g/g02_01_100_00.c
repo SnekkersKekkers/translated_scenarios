@@ -52,8 +52,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,4);
 VoicePlay("G020110000_01_060");
-MsgDisp("Kazama","Even though I couldn't even get close back
-then.");
+MsgDisp("Kazama","Even though I couldn't even get close
+back then.");
 MsgDisp("主人公","Right.");
 ChEye(1,2);
 ChMouth(1,3);

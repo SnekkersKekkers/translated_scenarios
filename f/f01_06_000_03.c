@@ -8,8 +8,7 @@ switch (ChPrmGet(6,6)){
     ChEyeOpenLevel(6,8);
     VoicePlay("F010600003_06_000");
     MsgDisp("Himuro","...I don't particularly mind.");
-    MsgDisp("主人公","Yay!
-Let's go.");
+    MsgDisp("主人公","Yay! Let's go.");
     break ;
     case 3:
     ChEye(6,0);
@@ -27,8 +26,7 @@ Let's go.");
     ChCheek(6,5);
     VoicePlay("F010600003_06_020");
     MsgDisp("Himuro","...Well, I don't have plans.");
-    MsgDisp("主人公","Yay!
-Well then, let's go home.");
+    MsgDisp("主人公","Yay! Well then, let's go home.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

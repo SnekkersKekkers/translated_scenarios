@@ -15,8 +15,7 @@ switch (ChPrmGet(7,6)){
     StlEye(21,2);
     StlMouth(21,0);
     VoicePlay("U130D00006_21_000");
-    MsgDisp("Michiru","Hehe.
-Is that so?");
+    MsgDisp("Michiru","Hehe. Is that so?");
     StlEye(22,1,0);
     StlEyeOpenLevel(22,0,1);
     StlMouth(22,1);
@@ -73,8 +72,8 @@ Ok, I'll try my best!)");
     StlEyeOpenLevel(21,0);
     StlMouth(21,0);
     VoicePlay("U130D00006_21_040");
-    MsgDisp("Michiru","Mikage-sensei is really starting to notice
-Mari.");
+    MsgDisp("Michiru","Mikage-sensei is really starting to
+notice Mari.");
     StlEyeOpenLevel(21,5,1);
     StlEye(22,2);
     StlCheek(22,5);

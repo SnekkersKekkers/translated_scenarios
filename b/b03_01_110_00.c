@@ -9,8 +9,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B030111000_01_000");
-MsgDisp("Kazama","I can't move my legs forward...
-Sigh...");
+MsgDisp("Kazama","I can't move my legs forward... Sigh...");
 MsgDispSksp(1,0);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Hey, shall we go?");

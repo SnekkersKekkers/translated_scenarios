@@ -25,8 +25,7 @@ VoicePlay("B070500001_05_460");
 MsgDisp("Hiiragi","Even if you were to carelessly say \"Let's not
 hang out anymore!\"
 I think we may be surprisingly stubborn.");
-MsgDisp("主人公","Eh?
-I wouldn't say that!");
+MsgDisp("主人公","Eh? I wouldn't say that!");
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B070500001_05_470");
@@ -38,13 +37,12 @@ VoicePlay("B070500001_05_480");
 MsgDisp("Hiiragi","Strange, isn't it? I don't even understand
 the reason myself. It's hard to destroy
 something you don't understand.");
-MsgDisp("主人公","Yeah.
-Yeah, we're definitely a weird lineup.");
+MsgDisp("主人公","Yeah. Yeah, we're definitely a weird lineup.");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("B070500001_05_490");
-MsgDisp("Hiiragi","Our bond may be stronger since you're at the
-centre.");
+MsgDisp("Hiiragi","Our bond may be stronger since you're at
+the centre.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B070500001_05_500");

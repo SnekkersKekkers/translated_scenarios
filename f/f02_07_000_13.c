@@ -29,8 +29,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700013_07_030");
-MsgDisp("Mikage","Nice～
-I like that you responded immediately.");
+MsgDisp("Mikage","Nice～ I like that you responded immediately.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -47,8 +46,8 @@ ChMotion(7,0);
 VoicePlay("F020700013_07_050");
 MsgDisp("Mikage","Is that...so?");
 MsgDisp("主人公","Yeah?
-You'll get scolded by Vice Principal Himuro
-again?");
+You'll get scolded by Vice Principal
+Himuro again?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

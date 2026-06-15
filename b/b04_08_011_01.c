@@ -39,8 +39,7 @@ Please forgive me...");
     ChMotion(8,3,1);
     ChCheek(8,5);
     VoicePlay("B040801101_08_030");
-    MsgDisp("Shirahane","Eh∋
-In what way then?
+    MsgDisp("Shirahane","Eh∋ In what way then?
 I wanna know!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

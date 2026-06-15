@@ -36,8 +36,8 @@ VoicePlay("F032200000_22_280");
 MsgDisp("Hikaru","Ah～
 Hikaru wishes they would always do that for
 the first 30 minutes.");
-MsgDisp("主人公","(Then, the lesson wouldn't progress at
-all...)");
+MsgDisp("主人公","(Then, the lesson wouldn't progress
+at all...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

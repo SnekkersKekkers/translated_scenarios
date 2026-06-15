@@ -26,10 +26,9 @@ ChMouth(22,3);
 ChMotion(22,5,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F022200007_22_020");
-MsgDisp("Hikaru","Yay!
-Where should we go play?
+MsgDisp("Hikaru","Yay! Where should we go play?
 Hikaru will think about it lots♪");
-MsgDisp("主人公","(｛ひかる＊｝ is already in the mood to
-play!)");
+MsgDisp("主人公","(｛ひかる＊｝ is already in the mood
+to play!)");
 MsgClose();
 ScrFadeOut(0,0);

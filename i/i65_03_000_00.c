@@ -24,9 +24,9 @@ you work part-time here.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I650300000_03_020");
-    MsgDisp("Honda","Hm, the uniform suits you, and it definitely
-looks like you're getting used to the job,
-too.");
+    MsgDisp("Honda","Hm, the uniform suits you, and it
+definitely looks like you're getting used
+to the job, too.");
     MsgDisp("主人公","No, I still have a long way to go.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -66,8 +66,8 @@ Thanks for showing me such a nice smile.
 See ya, good luck with work!");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(A nice smile, huh...
-Alright, let's keep working hard just like
-this!)");
+Alright, let's keep working hard just
+like this!)");
     break ;
     case 4:
     case 5:
@@ -121,8 +121,7 @@ not really my place to say anything.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I650300000_03_140");
-    MsgDisp("Honda","Yeah.
-Just do your best without getting hurt!");
+    MsgDisp("Honda","Yeah. Just do your best without getting hurt!");
     MsgDisp("主人公","(｛Honda＊＊｝ is so nice...
 I'll have to make sure I don't worry
 ｛Honda＊＊｝ too much.)");

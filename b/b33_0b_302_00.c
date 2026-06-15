@@ -19,8 +19,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B30200_03_000");
 MsgDisp("Honda","He really is a model—
-Mi-kun looks photogenic even in a place like
-this.");
+Mi-kun looks photogenic even in a place
+like this.");
 MsgDisp("主人公","Hehe, that's right huh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -111,8 +111,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30200_04_050");
 MsgDisp("Nanatsumori","But...
-Kazama's way of looking at things is just too
-funny.");
+Kazama's way of looking at things is just
+too funny.");
 MsgDisp("主人公","(Hehe!
 Ah...but, maybe my hair has changed
 drastically too?)");

@@ -29,8 +29,8 @@ I only see the cute elements.");
     ChMotion(7,4);
     VoicePlay("B040723402_07_020");
     MsgDisp("Mikage","It's true that if you let your guard down
-because of the atmosphere, it could ruin your
-day.");
+because of the atmosphere, it could ruin
+your day.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +46,8 @@ day.");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723402_07_030");
-        MsgDisp("Mikage","Do I really need to push past my limits over
-this?");
+        MsgDisp("Mikage","Do I really need to push past my limits
+over this?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -64,8 +64,7 @@ like you're having fun.");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040723402_07_050");
-        MsgDisp("Mikage","I am.
-I've always wanted to try the teacups.");
+        MsgDisp("Mikage","I am. I've always wanted to try the teacups.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,4);
@@ -80,15 +79,15 @@ you to it like you do.");
         ChEyeOpenLevel(7,10);
         VoicePlay("B040723402_07_070");
         MsgDisp("Mikage","Yeah.
-Any guy riding this should be grateful to the
-girl.");
+Any guy riding this should be grateful to
+the girl.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723402_07_080");
         MsgDisp("Mikage","Thanks to you, I got to taste both the
-embarrassment and the ordeal of spinning
-around.");
+embarrassment and the ordeal of
+spinning around.");
         MsgDisp("主人公","Umm, is that its charm?");
         ChEye(7,0);
         ChMouth(7,3);

@@ -26,8 +26,7 @@ Ah, ｛Himuro＊＊｝.");
     VoicePlay("I350600000_06_020");
     MsgDisp("Himuro","Ah, I see.
 See you.");
-    MsgDisp("主人公","Huh!
-You didn't come here to order?");
+    MsgDisp("主人公","Huh! You didn't come here to order?");
     MsgClose();
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I350600000_06_030");
@@ -68,8 +67,7 @@ Please follow me to your seat.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("I350600000_06_070");
-    MsgDisp("Himuro","...Hm.
-You're doing pretty good.");
+    MsgDisp("Himuro","...Hm. You're doing pretty good.");
     MsgDisp("主人公","Huh?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -98,8 +96,7 @@ Ah, ｛Himuro＊＊｝.");
     VoicePlay("I350600000_06_100");
     MsgDisp("Himuro","Hello.
 Make any mistakes yet?");
-    MsgDisp("主人公","Geez.
-I haven't.");
+    MsgDisp("主人公","Geez. I haven't.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);
@@ -107,8 +104,7 @@ I haven't.");
     MsgDisp("Himuro","Oh.");
     VoicePlay("I350600000_36_000");
     MsgDisp("Customer","Excuse me.");
-    MsgDisp("主人公","Yes, I'll be right there!
-...Um.");
+    MsgDisp("主人公","Yes, I'll be right there! ...Um.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0,1);

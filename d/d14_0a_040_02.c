@@ -47,8 +47,7 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A04002_01_030");
-MsgDisp("Kazama","No.
-I'm scared of you chasing me.
+MsgDisp("Kazama","No. I'm scared of you chasing me.
 It reminds me of back in Kindergarten.");
 MsgDisp("主人公","Hehe, it's not scary, but both ｛Sassa＊＊｝
 and ｛Kazama＊＊｝ are famous around school, so

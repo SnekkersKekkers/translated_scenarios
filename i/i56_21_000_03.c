@@ -8,10 +8,8 @@ BGMPlay("BGM_C21_MICHIRU_A",0.01);
 Wait(15,0);
 ChOpen(21,35,0,0,4,#1,#1,0,0);
 VoicePlay("I562100003_21_000");
-MsgDisp("Michiru","Hm?
-What is this small bag here for?");
-MsgDisp("主人公","Ah!
-That customer just now asked for it...
+MsgDisp("Michiru","Hm? What is this small bag here for?");
+MsgDisp("主人公","Ah! That customer just now asked for it...
 I forgot to put it in!");
 ChEye(21,5);
 ChMouth(21,4);

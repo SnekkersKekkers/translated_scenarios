@@ -34,8 +34,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("P540400004_04_030");
-MsgDisp("Nanatsumori","Thank you for your hard work these last three
-years.
+MsgDisp("Nanatsumori","Thank you for your hard work these last
+three years.
 I seriously had a good experience.");
 MsgDisp("主人公","(They were moved to that extent...
 I'm glad I gave it my all in the wind music

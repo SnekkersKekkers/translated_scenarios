@@ -58,8 +58,8 @@ What would you like?");
         ChEye(5,4);
         VoicePlay("B040516002_05_050");
         MsgDisp("Hiiragi","Your smile is my reward.
-So I have to win you plenty to be happy
-about.");
+So I have to win you plenty to be
+happy about.");
         MsgDisp("主人公","Umm...");
         ChEye(5,0);
         ChMotion(5,4);
@@ -72,30 +72,28 @@ with me.");
         ChMouth(5,2);
         ChMotion(5,0);
         VoicePlay("B040516002_05_070");
-        MsgDisp("Hiiragi","!
-You're the same as me...");
+        MsgDisp("Hiiragi","! You're the same as me...");
         ChEye(5,4);
         ChMouth(5,3);
         VoicePlay("B040516002_05_080");
         MsgDisp("Hiiragi","Yes, I've never been this happy.
 We don't even need to play the crane game
 anymore.");
-        MsgDisp("主人公","Ehh?
-We came all this way, why not try it?");
+        MsgDisp("主人公","Ehh? We came all this way, why not try it?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040516002_05_090");
         MsgDisp("Hiiragi","Hmmm...
-Let's search for a machine I can definitely
-win.");
+Let's search for a machine I can
+definitely win.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
         SEWait();
         MsgDisp("主人公","(I'm happy...
-｛Hiiragi＊＊＊｝ is always trying to make me
-happy.)");
+｛Hiiragi＊＊＊｝ is always trying to make
+me happy.)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(5,255,0,0,0,#1,#1,0,0,0,0);

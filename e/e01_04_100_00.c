@@ -1,8 +1,7 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","I think it's time to go home.
-...Oh?");
+MsgDisp("主人公","I think it's time to go home. ...Oh?");
 MsgClose();
 BGMPlay("BGM_C04_NANA_A",0.01);
 ChNanaType(0);
@@ -19,8 +18,7 @@ ChEye(4,5);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("E010410000_04_020");
-MsgDisp("Nanatsumori","Wow.
-You got it.
+MsgDisp("Nanatsumori","Wow. You got it.
 Look here.");
 MsgDisp("主人公","Wow, that's what it was?
 That looks yummy～!");

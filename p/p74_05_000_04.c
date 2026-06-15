@@ -2,8 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yay—!
-A huge success∈)");
+MsgDisp("主人公","(Yay—! A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
@@ -29,8 +28,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P740500004_05_020");
 MsgDisp("Hiiragi","Please don't cry.
-You are a precious bride, so smile until the
-end.");
+You are a precious bride, so smile until
+the end.");
 MsgDisp("主人公","...Yes!");
 ChEye(5,3);
 ChMouth(5,4);

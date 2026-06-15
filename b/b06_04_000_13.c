@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     ChCheek(4,7);
     VoicePlay("B060400013_04_010");
-    MsgDisp("Nanatsumori","Alright.
-...Haha!");
+    MsgDisp("Nanatsumori","Alright. ...Haha!");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);

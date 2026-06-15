@@ -20,8 +20,7 @@ switch (ChPrmGet(4,6)){
     ChLayout(1);
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
-    MsgDisp("主人公","Eh?
-Ah, I didn't say that to ｛Nanatsumori＊｝?");
+    MsgDisp("主人公","Eh? Ah, I didn't say that to ｛Nanatsumori＊｝?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -59,8 +58,8 @@ Next up is the bunny cafe!");
     MsgDisp("Nanatsumori","Good work on your student council patrol.
 Seems hard doing it by yourself.");
     MsgDisp("主人公","Hehe, well yeah?
-But today is a festival, so it can't be
-helped.");
+But today is a festival, so it can't
+be helped.");
     ChMotion(4,0,1);
     VoicePlay("P830400002_04_050");
     MsgDisp("Nanatsumori","I guess.

@@ -32,8 +32,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D140B04002_01_010");
-MsgDisp("Kazama","I often see him fiddling about with his
-phone.
+MsgDisp("Kazama","I often see him fiddling about with
+his phone.
 Maybe he's playing games?");
 ChEye(3,0);
 ChMouth(3,4);
@@ -66,36 +66,36 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("D140B04002_03_040");
-MsgDisp("Honda","Mi-kun's pockets are filled with lots of
-sweets.");
+MsgDisp("Honda","Mi-kun's pockets are filled with lots
+of sweets.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D140B04002_03_050");
-MsgDisp("Honda","It's not good to skip lunch and eat that much
-sugar.");
+MsgDisp("Honda","It's not good to skip lunch and eat that
+much sugar.");
 ChMouth(1,0);
 MsgDisp("主人公","I-I see.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B04002_03_060");
-MsgDisp("Honda","I'll go and buy the bread Mi-kun seems to
-like.");
+MsgDisp("Honda","I'll go and buy the bread Mi-kun seems
+to like.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B04002_01_040");
-MsgDisp("Kazama","Honda, no chocolate or cream pastries, got
-it?");
+MsgDisp("Kazama","Honda, no chocolate or cream pastries,
+got it?");
 ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D140B04002_03_070");
 MsgDisp("Honda","Ah...that's right!
 That was close.");
-MsgDisp("主人公","(He was planning on buying some sweet bread
-huh...
+MsgDisp("主人公","(He was planning on buying some sweet
+bread huh...
 But, ｛Honda＊＊｝ is kind.)");
 BGMStop();
 MsgClose();

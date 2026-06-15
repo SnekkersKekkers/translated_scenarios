@@ -11,8 +11,7 @@ SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500000_33_000");
 MsgDisp("Guy","Do you want to see it or not?");
-MsgDisp("主人公","Eh∈
-See what...?");
+MsgDisp("主人公","Eh∈ See what...?");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110500000_33_010");
@@ -31,8 +30,8 @@ ChEye(33,0);
 ChMouth(33,1);
 VoicePlay("B110500000_33_020");
 MsgDisp("Guy","Hm, no can do, no can do.
-It's unfortunate, but you're not the seeing
-type.");
+It's unfortunate, but you're not the
+seeing type.");
 MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,0);
@@ -43,8 +42,8 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110500000_33_030");
-MsgDisp("Guy","I said you can't, only the chosen ones can
-see—");
+MsgDisp("Guy","I said you can't, only the chosen ones
+can see—");
 MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,0);
@@ -56,8 +55,7 @@ MsgDispSksp(0);
 ChEye(33,2);
 ChMouth(33,1);
 VoicePlay("B110500000_33_040");
-MsgDisp("Guy","No, is this guy scary?
-Is he?");
+MsgDisp("Guy","No, is this guy scary? Is he?");
 MsgDisp("主人公","......");
 ChEye(33,2);
 ChMouth(33,2);
@@ -89,8 +87,7 @@ VoicePlay("B110500000_05_040");
 MsgDisp("Hiiragi","More importantly, I apologise.
 It was because I was late that you had to
 face this scary situation.");
-MsgDisp("主人公","No.
-It might've even been a bit funny.");
+MsgDisp("主人公","No. It might've even been a bit funny.");
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B110500000_05_050");

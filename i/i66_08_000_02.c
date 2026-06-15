@@ -30,8 +30,7 @@ Full points!");
     VoicePlay("I660800002_08_020");
     MsgDisp("Shirahane","I ain't lying.
 Well, lemme learn from you!");
-    MsgDisp("主人公","(Yay!
-｛Daichi＊＊｝ praised me.)");
+    MsgDisp("主人公","(Yay! ｛Daichi＊＊｝ praised me.)");
     break ;
     case 4:
     case 5:
@@ -52,8 +51,7 @@ Thank you very much!");
 Huh, did I make a mistake somewhere?");
     ChMotion(8,0,1);
     VoicePlay("I660800002_08_040");
-    MsgDisp("Shirahane","Nah.
-Ya got 100 points from me.");
+    MsgDisp("Shirahane","Nah. Ya got 100 points from me.");
     MsgDisp("主人公","R-Really?");
     ChEye(8,2);
     ChMouth(8,4);

@@ -17,8 +17,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C03200_06_000");
-MsgDisp("Himuro","Yes.
-...Is there something wrong with that?");
+MsgDisp("Himuro","Yes. ...Is there something wrong with that?");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(7,0);
@@ -92,9 +91,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D140C03200_07_040");
 MsgDisp("Mikage","Oh, yes. Some secret promotion. Apparently
-they want to make it a catchphrase that
-\"It's secretly popular among high school
-students\".");
+they want to make it a catchphrase that \"It's
+secretly popular among high school students\".");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

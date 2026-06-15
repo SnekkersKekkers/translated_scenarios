@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123402_01_000");
-MsgDisp("Kazama","That was quite the intense tea time wasn't
-it?");
+MsgDisp("Kazama","That was quite the intense tea time
+wasn't it?");
 MsgSel("Eh, isn't it coffee?","Would you like another helping?","Let's take a little break");
 switch (MsgSelRsltGet()){
     case 0:
@@ -57,8 +57,8 @@ Then, I shall have another cup.");
         ChMotion(1,0);
         VoicePlay("B040123402_01_040");
         MsgDisp("Kazama","They had these sorts of rides back in
-England, but teacups were the norm, not
-coffee.");
+England, but teacups were the norm,
+not coffee.");
         MsgDisp("主人公","Tea huh, how wonderful.");
         ChEye(1,2);
         ChMouth(1,0);
@@ -91,9 +91,9 @@ woman to have fun together.");
         MsgDisp("Kazama","Then, I would end up remembering that, and it
 caused some trouble for my Mom and Dad.
 Well, I was a brat.");
-        MsgDisp("主人公","I see, you moved abroad when you were only in
-your first year of Elementary School after
-all.");
+        MsgDisp("主人公","I see, you moved abroad when you were only
+in your first year of Elementary School
+after all.");
         ChMotion(1,0);
         Wait(8,0);
         ChEye(1,4);

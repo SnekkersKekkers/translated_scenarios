@@ -88,8 +88,8 @@ enjoy it but...");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040603102_06_090");
-        MsgDisp("Himuro","...There was someone who was excited by my
-side.");
+        MsgDisp("Himuro","...There was someone who was excited by
+my side.");
         MsgDisp("主人公","Eh.");
         ChEye(6,0);
         ChMouth(6,2);
@@ -102,10 +102,10 @@ was dazzling.");
         ChMotion(6,1);
         ChCheek(6,0);
         VoicePlay("B040603102_06_110");
-        MsgDisp("Himuro","Maybe today I should look at you and not the
-fish?");
-        MsgDisp("主人公","Ehh, we came all this way to the aquarium
-though?");
+        MsgDisp("Himuro","Maybe today I should look at you and not
+the fish?");
+        MsgDisp("主人公","Ehh, we came all this way to the
+aquarium though?");
         ChEye(6,0);
         ChMouth(6,3);
         ChMotion(6,0);

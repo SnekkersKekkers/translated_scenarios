@@ -13,15 +13,14 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("P040700000_07_010");
 MsgDisp("Mikage","The scent of mugwort is especially great.
-With this, isn't our class definitely the
-best?");
+With this, isn't our class definitely
+the best?");
 MsgDisp("主人公","Really?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("P040700000_07_020");
-MsgDisp("Mikage","Yeah.
-It's a perfect score from me.");
+MsgDisp("Mikage","Yeah. It's a perfect score from me.");
 MsgDisp("主人公","(I did it!
 I'm glad I worked so hard at the
 preparations!)");

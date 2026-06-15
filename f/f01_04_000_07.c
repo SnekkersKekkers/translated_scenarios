@@ -13,16 +13,13 @@ switch (ChPrmGet(4,6)){
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("F010400007_04_000");
-    MsgDisp("Nanatsumori","Yo.
-Are you going home right now?");
-    MsgDisp("主人公","Yes.
-You too, ｛Nanatsumori＊｝?");
+    MsgDisp("Nanatsumori","Yo. Are you going home right now?");
+    MsgDisp("主人公","Yes. You too, ｛Nanatsumori＊｝?");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("F010400007_04_010");
-    MsgDisp("Nanatsumori","Yep.
-Should we walk together?");
+    MsgDisp("Nanatsumori","Yep. Should we walk together?");
     break ;
     case 4:
     case 5:
@@ -36,8 +33,7 @@ Should we walk together?");
     ChEye(4,4);
     ChMouth(4,4);
     VoicePlay("F010400007_04_030");
-    MsgDisp("Nanatsumori","Yo.
-I was waiting.
+    MsgDisp("Nanatsumori","Yo. I was waiting.
 I thought we could go home together.");
     break ;
     default :
@@ -57,8 +53,7 @@ switch (MsgSelRsltGet()){
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("F010400007_04_040");
-        MsgDisp("Nanatsumori","Ah.
-Let's go.");
+        MsgDisp("Nanatsumori","Ah. Let's go.");
         break ;
         case 4:
         case 5:
@@ -99,8 +94,7 @@ I'm hungry.");
         ChMouth(4,3);
         ChMotion(4,3,1);
         VoicePlay("F010400007_04_080");
-        MsgDisp("Nanatsumori","OK.
-Let's eat together.
+        MsgDisp("Nanatsumori","OK. Let's eat together.
 Sweets are on me.");
         break ;
         default :

@@ -13,8 +13,7 @@ MsgDisp("主人公","It's a good thing we made it in time for the
 night parade, isn't it?");
 VoicePlay("B360423601_04_000");
 MsgDisp("Nanatsumori","Yeah, we made it just in the nick of time.");
-MsgDisp("主人公","Hehe!
-It's pretty.");
+MsgDisp("主人公","Hehe! It's pretty.");
 ChMotion(4,0,1);
 VoicePlay("B360423601_04_010");
 MsgDisp("Nanatsumori","Yeah.");
@@ -30,8 +29,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B360423601_04_030");
-MsgDisp("Nanatsumori","No.
-I wanted to come with you.");
+MsgDisp("Nanatsumori","No. I wanted to come with you.");
 MsgDisp("主人公","I-I see.");
 ChMotion(4,1,1);
 VoicePlay("B360423601_04_040");

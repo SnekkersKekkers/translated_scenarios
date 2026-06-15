@@ -75,16 +75,16 @@ I have to study harder...)");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("N020700003_07_080");
-    MsgDisp("Mikage","You don't have to do anything you don't want
-to...
+    MsgDisp("Mikage","You don't have to do anything you don't
+want to...
 That's what you're thinking, right?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("N020700003_07_090");
     MsgDisp("Mikage","Right?
-Nothing we do in high school is unnecessary,
-okay?");
+Nothing we do in high school is
+unnecessary, okay?");
     MsgDisp("主人公","Okay...");
     ChEye(7,0);
     ChMouth(7,0);
@@ -97,8 +97,8 @@ to do.");
     ChMotion(7,0);
     VoicePlay("N020700003_07_110");
     MsgDisp("Mikage","If you agree, please study harder next time.");
-    MsgDisp("主人公","(｛Mikage＊＊｝ is really worried about
-me...
+    MsgDisp("主人公","(｛Mikage＊＊｝ is really worried
+about me...
 I have to study harder...)");
     MsgClose();
     ScrFadeOut(0,0);

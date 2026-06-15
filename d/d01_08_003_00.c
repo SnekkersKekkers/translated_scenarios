@@ -38,8 +38,8 @@ MsgDisp("主人公","Is this your test?");
 StlEye(8,1);
 VoicePlay("D010800300_08_040");
 MsgDisp("Shirahane","Ya.
-It's been a while since I got a perfect
-score!");
+It's been a while since I got a
+perfect score!");
 MsgDisp("主人公","Amazing!");
 StlEye(8,0);
 VoicePlay("D010800300_08_050");
@@ -58,8 +58,8 @@ BGOpen("sc130",1);
 MsgClose();
 ChOpen(8,254,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Daichi＊＊｝ and ｛Honda＊＊｝ know each
-other?");
+MsgDisp("主人公","｛Daichi＊＊｝ and ｛Honda＊＊｝ know
+each other?");
 ChEye(8,0);
 ChMouth(8,0);
 VoicePlay("D010800300_08_070");

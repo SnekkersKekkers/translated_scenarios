@@ -15,8 +15,7 @@ VoicePlay("F020200003_02_010");
 MsgDisp("Sassa","Yeah, about Mikage-sensei.
 There's a rumour he's gathering ostriches and
 breeding them.");
-MsgDisp("主人公","Huh?
-He's keeping ostriches?");
+MsgDisp("主人公","Huh? He's keeping ostriches?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

@@ -52,8 +52,8 @@ Cheer up.");
     ChMotion(4,1,1);
     VoicePlay("H4A0400001_04_050");
     MsgDisp("Nanatsumori","You were so pretty and cute that I would've
-given you points even when you messed up, you
-know?");
+given you points even when you messed up,
+you know?");
     MsgDisp("主人公","Really...?
 Hehe, thanks.");
     ChEye(4,4);

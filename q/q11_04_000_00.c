@@ -1,8 +1,8 @@
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","There's a lot, I can't choose...
-Something that will make good memories,
-huh...");
+Something that will make good
+memories, huh...");
 MsgDisp("主人公","(I wonder where ｛Nanatsumori＊｝ went...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -16,8 +16,7 @@ MsgDisp("主人公","Wow, what a beautiful charm!
 Is this made from glass?");
 ChMotion(4,1,1);
 VoicePlay("Q110400000_04_010");
-MsgDisp("Nanatsumori","Yeah.
-A pendant top from Nagasaki glass.");
+MsgDisp("Nanatsumori","Yeah. A pendant top from Nagasaki glass.");
 ChEye(4,4);
 ChMotion(4,0,1);
 VoicePlay("Q110400000_04_020");
@@ -41,8 +40,7 @@ ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("Q110400000_04_050");
 MsgDisp("Nanatsumori","I wish I could remember this trip forever...");
-MsgDisp("主人公","Yeah.
-I'm sure I'll never forget it.");
+MsgDisp("主人公","Yeah. I'm sure I'll never forget it.");
 ChMotion(4,3,1);
 VoicePlay("Q110400000_04_060");
 MsgDisp("Nanatsumori","I'm sure I won't forget it either.");

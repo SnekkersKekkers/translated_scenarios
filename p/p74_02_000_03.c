@@ -19,8 +19,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P740200003_02_010");
 MsgDisp("Sassa","That was bad luck.
-But, everyone was surprised by your pretty
-dress.");
+But, everyone was surprised by your
+pretty dress.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -24,15 +24,13 @@ StlEye(2,0);
 StlMouth(2,0);
 ScrFadeIn(0);
 VoicePlay("D010200300_02_010");
-MsgDisp("Sassa","Aha.
-You're soaking wet.
+MsgDisp("Sassa","Aha. You're soaking wet.
 Go on, shake it all off!");
 MsgDisp("主人公","｛Sassa＊＊｝!");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_020");
-MsgDisp("Sassa","Oh!
-It's you.
+MsgDisp("Sassa","Oh! It's you.
 What's up?");
 MsgDisp("主人公","I came this way because I thought I heard
 ｛Sassa＊＊｝'s voice.
@@ -62,8 +60,7 @@ Running in the sand is good exercise and I
 get paid for part-time work.");
 MsgDisp("主人公","Hehe, everyone ends up happy!");
 SEPlay("EV_SE_769",0,0.9);
-MsgDisp("","(Woof!
-Woof!)");
+MsgDisp("","(Woof! Woof!)");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
@@ -82,8 +79,7 @@ for Habatcher.");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_080");
-MsgDisp("Sassa","I see.
-I wish I could help you somehow.");
+MsgDisp("Sassa","I see. I wish I could help you somehow.");
 MsgDisp("主人公","Really?
 Well, you could tell me a bit about yourself,
 ｛Sassa＊＊｝.");
@@ -94,8 +90,8 @@ VoicePlay("D010200300_02_090");
 MsgDisp("Sassa","I'm fine with that, but is that really fun to
 report on?");
 MsgDisp("主人公","Leave it to me!
-So, can you tell me a bit about track and
-field?");
+So, can you tell me a bit about track
+and field?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200300_02_100");

@@ -39,8 +39,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ScrFadeIn(0);
 VoicePlay("P240501000_40_000");
-MsgDisp("Castle Lord","Tonight is the last time I will meet you like
-this.");
+MsgDisp("Castle Lord","Tonight is the last time I will meet you
+like this.");
 VoicePlay("P240501000_47_000");
 MsgDisp("Town girl","...Why is that?");
 ChEye(5,4);
@@ -51,8 +51,7 @@ MsgDisp("主人公","That's because of ｛Hiiragi＊＊＊｝'s acting
 direction.");
 ChEye(5,0);
 VoicePlay("P240501000_05_040");
-MsgDisp("Hiiragi","No.
-My advice was not needed.
+MsgDisp("Hiiragi","No. My advice was not needed.
 Look, this is a vital scene.");
 VoicePlay("P240501000_40_020");
 MsgDisp("Castle Lord","There are many in the castle who do not think
@@ -69,8 +68,8 @@ will go with that person. That is the era
 we live in.");
 ChEyeOpenLevel(5,0);
 VoicePlay("P240501000_40_050");
-MsgDisp("Castle Lord","However, my governance is the flames of my
-ideals.
+MsgDisp("Castle Lord","However, my governance is the flames of
+my ideals.
 I cannot let it be extinguished.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("P240501000_05_050");
@@ -82,8 +81,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P240501000_05_060");
-MsgDisp("Hiiragi","Are the Lord's ideals really everyone's
-ideals?");
+MsgDisp("Hiiragi","Are the Lord's ideals really
+everyone's ideals?");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -119,8 +118,8 @@ ChMotion(5,3);
 Wait(22,0);
 VoicePlay("P240501000_05_090");
 MsgDisp("Hiiragi","Yes, it was a great success.
-Producing a play like this with everyone is
-fun.");
+Producing a play like this with everyone
+is fun.");
 MsgDisp("主人公","(Seems like ｛Hiiragi＊＊＊｝ also enjoyed our
 school play.
 That's a relief...)");

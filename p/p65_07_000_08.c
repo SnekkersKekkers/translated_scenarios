@@ -20,8 +20,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P650700008_07_020");
 MsgDisp("Mikage","This talk even reached the staffroom.");
-MsgDisp("主人公","Yay!
-I'm happy.");
+MsgDisp("主人公","Yay! I'm happy.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

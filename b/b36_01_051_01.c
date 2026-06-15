@@ -39,8 +39,7 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360105101_01_040");
-MsgDisp("Kazama","Huh?
-...Geez, you really don't get it.");
+MsgDisp("Kazama","Huh? ...Geez, you really don't get it.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

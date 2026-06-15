@@ -23,8 +23,7 @@ VoicePlay("B110600002_35_020");
 MsgDisp("Guy","Exactly! An acquaintance's friend's
 acquaintance worked with the famous Hazuki
 Kei you know. I could help you debut too!");
-MsgDisp("主人公","Ehhh∋
-That would be impossible for me...");
+MsgDisp("主人公","Ehhh∋ That would be impossible for me...");
 ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110600002_35_030");
@@ -71,15 +70,14 @@ ChMouth(35,1);
 ChEyeOpenLevel(35,0);
 VoicePlay("B110600002_35_060");
 MsgDisp("Guy","Uugh...you said that so cold.
-Ah, could it be you're at that rebellious
-age?");
+Ah, could it be you're at that
+rebellious age?");
 MsgDispSksp(1,5);
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("B110600002_06_030");
-MsgDisp("Himuro","...Ha?
-Why would I be in a rebellious phase?");
+MsgDisp("Himuro","...Ha? Why would I be in a rebellious phase?");
 MsgDispSksp(0);
 ChEye(35,2);
 ChMouth(35,1);
@@ -95,8 +93,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B110600002_06_040");
 MsgDisp("Himuro","...Who's in a rebellious phase?");
-MsgDisp("主人公","Um...
-｛Himuro＊＊｝?
+MsgDisp("主人公","Um... ｛Himuro＊＊｝?
 Thank you very much.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -105,5 +102,4 @@ VoicePlay("B110600002_06_050");
 MsgDisp("Himuro","I'll tell you.
 I can be friendly too!
 Come on, let's go.");
-MsgDisp("主人公","(??? 
-What happened to ｛Himuro＊＊｝?)");
+MsgDisp("主人公","(??? What happened to ｛Himuro＊＊｝?)");

@@ -24,8 +24,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120203_01_030");
 MsgDisp("Kazama","Listen.
-I'm not angry at you so don't think that I
-am.");
+I'm not angry at you so don't think that
+I am.");
 MsgDisp("主人公","O-Okay?");
 ChEye(1,4);
 ChMouth(1,2);
@@ -44,9 +44,9 @@ ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120203_01_060");
-MsgDisp("Kazama","When I'm with him, it's like I don't have to
-be all considerate, and he's not blunt or
-pushy.");
+MsgDisp("Kazama","When I'm with him, it's like I don't have
+to be all considerate, and he's not blunt
+or pushy.");
 MsgDisp("主人公","Yeah.
 I know how close you are with
 ｛Nanatsumori＊｝, ｛Kazama＊＊｝.");
@@ -76,7 +76,8 @@ ChMouth(1,1);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120203_01_100");
-MsgDisp("Kazama","Sigh... I just keep saying stuff that I really
+MsgDisp("Kazama","Sigh...
+I just keep saying stuff that I really
 shouldn't.");
 MsgDisp("主人公","(So that's how ｛Kazama＊＊｝ feels about
 ｛Nanatsumori＊｝...)");

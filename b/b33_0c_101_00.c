@@ -12,8 +12,8 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 ChEye(5,3);
 VoicePlay("B330C10100_05_000");
-MsgDisp("Hiiragi","It's like the four of us are going on a
-cruise.");
+MsgDisp("Hiiragi","It's like the four of us are going on
+a cruise.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -45,9 +45,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10100_05_030");
-MsgDisp("Hiiragi","...No.
-I have not gotten used to it yet, but I love
-life at Haba High.");
+MsgDisp("Hiiragi","...No. I have not gotten used to it yet, but
+I love life at Haba High.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -59,8 +58,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10100_05_040");
 MsgDisp("Hiiragi","I apologise.
-But, I do hold a bit of nostalgia for those
-days.");
+But, I do hold a bit of nostalgia for
+those days.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -117,8 +116,8 @@ ChMotion(5,4);
 VoicePlay("B330C10100_05_080");
 MsgDisp("Hiiragi","It's thanks to you all that I now have the
 freedom to reminisce about the past.");
-MsgDisp("主人公","(Alright, let's enjoy this 4 person boat
-trip!)");
+MsgDisp("主人公","(Alright, let's enjoy this 4 person
+boat trip!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(2);

@@ -9,8 +9,7 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,30,4,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040200001_02_000");
-    MsgDisp("Sassa","Guh...
-Seriously!?
+    MsgDisp("Sassa","Guh... Seriously!?
 This sucks!");
     MsgDisp("主人公","(We lost...
 I should've tried harder.)");

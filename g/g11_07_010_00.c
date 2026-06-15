@@ -29,8 +29,7 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110701000_07_020");
 MsgDisp("Mikage","You used to talk to plants a lot back then.");
-MsgDisp("主人公","Yes.
-I learned that from ｛Mikage＊＊｝.
+MsgDisp("主人公","Yes. I learned that from ｛Mikage＊＊｝.
 That if you talk to plants, they'll grow.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -57,8 +56,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110701000_07_060");
 MsgDisp("Mikage","I nothing more to teach you.
-You've become pretty immune to bugs, haven't
-you?");
+You've become pretty immune to bugs,
+haven't you?");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(7,0);
 ChMouth(7,0);

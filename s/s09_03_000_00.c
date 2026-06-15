@@ -18,8 +18,7 @@ A staple of a New Year's shrine visit.");
         ChMouth(3,3);
         ChMotion(3,1,1);
         VoicePlay("S090300000_03_010");
-        MsgDisp("Honda","Okay.
-Let's do it!");
+        MsgDisp("Honda","Okay. Let's do it!");
         MsgDisp("主人公","What will we get?");
         break ;
         case 1:
@@ -78,8 +77,7 @@ It's fun waiting a bit...");
     ChMotion(3,1,1);
     VoicePlay("S090300000_03_060");
     MsgDisp("Honda","I'll take you up on that offer!");
-    MsgDisp("主人公","Eh?
-I didn't mean to invite you though...");
+    MsgDisp("主人公","Eh? I didn't mean to invite you though...");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);

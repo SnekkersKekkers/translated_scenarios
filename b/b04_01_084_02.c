@@ -31,8 +31,8 @@ Over here.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040108402_01_020");
     MsgDisp("Kazama","Ohh, did something happen?
-You just said something that's unusual for
-you.");
+You just said something that's unusual
+for you.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -97,8 +97,8 @@ You get it?");
         ChEyeOpenLevel(1,8);
         ChCheek(1,7);
         VoicePlay("B040108402_01_080");
-        MsgDisp("Kazama","You're the one who said you wanted some body
-warmth.
+        MsgDisp("Kazama","You're the one who said you wanted some
+body warmth.
 So, here. My hand.");
         MsgDisp("主人公","Hehe, yeah, thank you.");
         ChEye(1,4);
@@ -108,19 +108,17 @@ So, here. My hand.");
         ChCheek(1,5);
         VoicePlay("B040108402_01_090");
         MsgDisp("Kazama","Phew, this season isn't so bad after all...");
-        MsgDisp("主人公","Ooh, ｛Kazama＊＊｝, you definitely like fall,
-right?");
+        MsgDisp("主人公","Ooh, ｛Kazama＊＊｝, you definitely like
+fall, right?");
         MsgClose();
         ChClose(1,0,30);
         ChLayout(1);
         MsgClose();
         ChOpen(1,255,3,3,1,#1,#1,0,0,0,30);
         VoicePlay("B040108402_01_100");
-        MsgDisp("Kazama","Why∋
-Hey, you know I can totally hear you?
+        MsgDisp("Kazama","Why∋ Hey, you know I can totally hear you?
 That inner voice of yours.");
-        MsgDisp("主人公","(Umm...
-He was totally babbling earlier.)");
+        MsgDisp("主人公","(Umm... He was totally babbling earlier.)");
         break ;
         default :
         DbgAssert(1);

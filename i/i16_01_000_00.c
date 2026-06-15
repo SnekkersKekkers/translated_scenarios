@@ -10,10 +10,8 @@ switch (ChPrmGet(1,6)){
     SEWait();
     MsgDisp("主人公","Thank you very much!");
     VoicePlay("I160100000_41_000");
-    MsgDisp("Customer","...Hm?
-Did you give me too much change?");
-    MsgDisp("主人公","Ah∈
-My apologies.");
+    MsgDisp("Customer","...Hm? Did you give me too much change?");
+    MsgDisp("主人公","Ah∈ My apologies.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     SEWait();
     SEPlay("EV_SE_653");
@@ -25,8 +23,8 @@ My apologies.");
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,2,2,#1,#1,0,0);
     VoicePlay("I160100000_01_000");
-    MsgDisp("Kazama","How did you give him more change than what he
-paid?");
+    MsgDisp("Kazama","How did you give him more change than what
+he paid?");
     MsgDisp("主人公","(I messed up...
 I'll stay calm and do better next time.)");
     break ;
@@ -38,8 +36,7 @@ I'll stay calm and do better next time.)");
     VoicePlay("I160100000_41_010");
     MsgDisp("Customer","Huh...
 I asked for a ribbon on this gift, didn't I?");
-    MsgDisp("主人公","Ah∈
-My apologies.");
+    MsgDisp("主人公","Ah∈ My apologies.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     SEWait();

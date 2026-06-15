@@ -15,8 +15,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,253,0,0,2,#1,#1,0,0,0,60);
     VoicePlay("B010400001_04_000");
     MsgDisp("Nanatsumori","I'm late, right...?");
-    MsgDisp("主人公","Yeah.
-But just a little?");
+    MsgDisp("主人公","Yeah. But just a little?");
     MsgDispSksp(1,0);
     ChEye(4,0);
     ChMouth(4,2);

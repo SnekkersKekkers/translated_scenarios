@@ -64,15 +64,14 @@ year old castle to ourselves.");
         MsgDisp("主人公","Huh?");
         ChMotion(5,0);
         VoicePlay("B040522202_05_060");
-        MsgDisp("Hiiragi","See, there are usually only a few people
-here.");
+        MsgDisp("Hiiragi","See, there are usually only a few
+people here.");
         MsgDisp("主人公","Now that you mention it, it might be true.");
         ChEye(5,3);
         VoicePlay("B040522202_05_070");
         MsgDisp("Hiiragi","Yes, so why don't we use this extravagant
 setting and put on a little play?");
-        MsgDisp("主人公","Ehh?
-P-Play?");
+        MsgDisp("主人公","Ehh? P-Play?");
         ChEye(5,0);
         ChMouth(5,0);
         ChMotion(5,0);
@@ -96,8 +95,7 @@ you for eternity.\"");
         VoicePlay("B040522202_05_100");
         MsgDisp("Hiiragi","Really?
 I'll believe you then?");
-        MsgDisp("主人公","Ehh?
-It was a play...");
+        MsgDisp("主人公","Ehh? It was a play...");
         ChEye(5,3);
         ChMotion(5,3);
         VoicePlay("B040522202_05_110");

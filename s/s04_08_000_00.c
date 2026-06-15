@@ -9,8 +9,7 @@ switch (ChPrmGet(8,6)){
     SEStop("EV_SE_579",0);
     MsgDisp("主人公","Hello, ｛Daichi＊＊｝?");
     VoicePlay("S040800000_08_000");
-    MsgDisp("Shirahane","Yo!
-Happy New Year!");
+    MsgDisp("Shirahane","Yo! Happy New Year!");
     MsgDisp("主人公","Happy New Years!
 Please treat me well this year, too.");
     VoicePlay("S040800000_08_010");
@@ -20,8 +19,7 @@ Hey, wanna go to the shrine now?");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040800000_08_020");
-        MsgDisp("Shirahane","Yes!
-I'll come and pick you up then.
+        MsgDisp("Shirahane","Yes! I'll come and pick you up then.
 Get dressed and wait for me, okay?");
         MsgDisp("主人公","Eh, right now?");
         VoicePlay("S040800000_08_030");
@@ -36,12 +34,10 @@ What should I wear to the shrine?)");
         break ;
         case 1:
         VoicePlay("S040800000_08_040");
-        MsgDisp("Shirahane","I see.
-The timing was off...");
+        MsgDisp("Shirahane","I see. The timing was off...");
         MsgDisp("主人公","I'm sorry.");
         VoicePlay("S040800000_08_050");
-        MsgDisp("Shirahane","Yeah.
-Anyway, later.");
+        MsgDisp("Shirahane","Yeah. Anyway, later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through the trouble of
@@ -86,8 +82,8 @@ while...
 I'll come slowly. See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I feel like he's expecting something from
-me...
+        MsgDisp("主人公","(I feel like he's expecting something
+from me...
 Now then, what to wear?)");
         MsgClose();
         ScrFadeOut(0,0);

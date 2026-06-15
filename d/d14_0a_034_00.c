@@ -31,8 +31,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D140A03400_02_000");
-MsgDisp("Sassa","Haha!
-That's just like Ryota.");
+MsgDisp("Sassa","Haha! That's just like Ryota.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
@@ -52,15 +51,15 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A03400_02_010");
 MsgDisp("Sassa","Huh...
-Is it actually us who's too conscious over
-it?");
+Is it actually us who's too conscious
+over it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A03400_06_020");
 MsgDisp("Himuro","Eh...no.
-I felt like there was some hidden meaning to
-it.");
+I felt like there was some hidden meaning
+to it.");
 MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -106,8 +105,8 @@ MsgDisp("Himuro","Ugh...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
-MsgDisp("主人公","But ｛Himuro＊＊｝, you go to the same school as
-us.");
+MsgDisp("主人公","But ｛Himuro＊＊｝, you go to the same school
+as us.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

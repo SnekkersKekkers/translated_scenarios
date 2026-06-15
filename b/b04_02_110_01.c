@@ -27,8 +27,8 @@ Let's go!");
     ChMotion(2,3);
     VoicePlay("B040211001_02_020");
     MsgDisp("Sassa","Right right!
-It's a bit scary, but that adds the best
-spice.");
+It's a bit scary, but that adds the
+best spice.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

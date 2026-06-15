@@ -36,8 +36,7 @@ MsgDisp("主人公","So this is the Glover Garden.
 What a nice garden.");
 MsgDisp("主人公","Is this house really around 150 years old...?
 It's still so pretty.");
-MsgDisp("主人公","(Sigh...
-Going alone was a bad idea...)");
+MsgDisp("主人公","(Sigh... Going alone was a bad idea...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

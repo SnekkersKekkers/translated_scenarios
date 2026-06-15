@@ -22,8 +22,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("P540300000_03_010");
 MsgDisp("Honda","Yep, yep.
 You look good just now!");
-MsgDisp("主人公","(Yay!
-I'm happy that ｛Honda＊＊｝ is pleased!)");
+MsgDisp("主人公","(Yay! I'm happy that ｛Honda＊＊｝ is pleased!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

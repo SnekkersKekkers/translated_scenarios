@@ -27,8 +27,8 @@ Isn't that a win?");
     ChMotion(6,1);
     VoicePlay("B040623502_06_020");
     MsgDisp("Himuro","Really?
-Aren't you starting to realise the pattern by
-now?");
+Aren't you starting to realise the pattern
+by now?");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -56,8 +56,7 @@ now?");
         VoicePlay("B040623502_06_040");
         MsgDisp("Himuro","...Sorry.
 That's a bad habit of mine.");
-        MsgDisp("主人公","No.
-It's not like that.");
+        MsgDisp("主人公","No. It's not like that.");
         ChEye(6,2);
         ChMouth(6,0);
         ChMotion(6,0);

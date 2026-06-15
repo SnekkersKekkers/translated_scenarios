@@ -25,8 +25,7 @@ That's a relief at least.");
     ChMotion(5,1);
     ChEyeOpenLevel(5,0);
     VoicePlay("B040514000_05_020");
-    MsgDisp("Hiiragi","I see.
-My patience was in vain...");
+    MsgDisp("Hiiragi","I see. My patience was in vain...");
     MsgDateResultDisp();
     break ;
     case 2:

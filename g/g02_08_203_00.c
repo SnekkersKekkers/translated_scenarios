@@ -20,8 +20,8 @@ ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("G020820300_08_020");
-MsgDisp("Shirahane","Do you know the rumours surrounding this
-place?");
+MsgDisp("Shirahane","Do you know the rumours surrounding
+this place?");
 VoicePlay("G020820300_08_030");
 MsgDisp("Shirahane","When you're here with someone, you can
 sometimes hear their inner voice.");
@@ -53,8 +53,8 @@ VoicePlay("G020820300_08_070");
 MsgDisp("Shirahane","No, this is bad...this is bad!
 I need to clear my mind...");
 MsgDisp("主人公","(｛Daichi＊＊｝...
-What on earth is he thinking about right
-now?)");
+What on earth is he thinking about
+right now?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

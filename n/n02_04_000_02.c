@@ -18,21 +18,18 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","I'm not the type to get happy or sad when I
 see these things.
 Let's move on.");
-    MsgDisp("主人公","(Oof...
-I've got to study harder.)");
+    MsgDisp("主人公","(Oof... I've got to study harder.)");
     break ;
     case 3:
     ChEye(4,2);
     VoicePlay("N020400002_04_020");
-    MsgDisp("Nanatsumori","Oh?
-I thought you'd be higher on the list.");
+    MsgDisp("Nanatsumori","Oh? I thought you'd be higher on the list.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChMotion(4,1,1);
     VoicePlay("N020400002_04_030");
     MsgDisp("Nanatsumori","Well, doing well on school exams won't fill
 your stomach.");
-    MsgDisp("主人公","(Oof...
-I've got to study harder.)");
+    MsgDisp("主人公","(Oof... I've got to study harder.)");
     break ;
     case 4:
     case 5:

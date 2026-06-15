@@ -1,8 +1,7 @@
 BGOpen("ne100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's time to go home.
-...Huh?
+MsgDisp("主人公","(It's time to go home. ...Huh?
 Over there, is that...)");
 BGMPlay("BGM_C22_HIKARU_A",0.01);
 MsgClose();
@@ -16,8 +15,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,3,1);
 VoicePlay("E012250000_22_010");
-MsgDisp("Hikaru","Mari!
-Bonjour!");
+MsgDisp("Hikaru","Mari! Bonjour!");
 ChMotion(22,0,1);
 VoicePlay("E012250000_22_020");
 MsgDisp("Hikaru","Hikaru was looking at this.");

@@ -64,14 +64,13 @@ challenges again this year!)");
     VoicePlay("S070200000_02_060");
     MsgDisp("Sassa","It's so crowded.
 There's a lot of stands open.");
-    MsgDisp("主人公","Yeah.
-Everyone's having fun.");
+    MsgDisp("主人公","Yeah. Everyone's having fun.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("S070200000_02_070");
-    MsgDisp("Sassa","I'm having more fun than everyone else,
-though.");
+    MsgDisp("Sassa","I'm having more fun than everyone
+else, though.");
     MsgDisp("主人公","Hehe, yeah.
 Right, what kind of wish is ｛Sassa＊＊｝ going
 to make?");

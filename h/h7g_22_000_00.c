@@ -14,8 +14,7 @@ ChMotion(22,3,1);
 VoicePlay("H7G2200000_22_010");
 MsgDisp("Hikaru","Uncle's design contest!
 You won, right?");
-MsgDisp("主人公","Ah!
-Yeah, I won.");
+MsgDisp("主人公","Ah! Yeah, I won.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,2,1);
@@ -45,7 +44,7 @@ MsgDisp("Hikaru","...Ah!
 Next time, Hikaru wants you to design some
 clothes that will suit her too～▼");
 MsgDisp("主人公","(Hehe!
-I'm really glad I stayed in the handicrafts
-club!)");
+I'm really glad I stayed in the
+handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

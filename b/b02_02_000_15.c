@@ -2,8 +2,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0,1);
 VoicePlay("B020200015_02_000");
-MsgDisp("Sassa","Oh.
-I own those clothes too.");
+MsgDisp("Sassa","Oh. I own those clothes too.");
 MsgDisp("主人公","What, really?");
 ChEye(2,0);
 ChMouth(2,4);

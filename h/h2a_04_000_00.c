@@ -30,8 +30,7 @@ club manager!)");
     VoiceEVSPlay(4);
     VoicePlay("H2A0400000_04_020");
     MsgDisp("Nanatsumori","｛主人公｝.");
-    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
-We w-");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝! We w-");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -51,8 +50,8 @@ The team, and you as the manager.");
     ChMotion(4,2,1);
     VoicePlay("H2A0400000_04_050");
     MsgDisp("Nanatsumori","But...
-I never thought I would be so moved just by
-sports.");
+I never thought I would be so moved just
+by sports.");
     MsgDisp("主人公","Hehe!");
     ChEye(4,4);
     ChMouth(4,3);

@@ -10,8 +10,8 @@ MsgDisp("主人公","Huh, ｛Nanatsumori＊｝.
 What's up?");
 ChMotion(4,1,1);
 VoicePlay("H8G0400000_04_010");
-MsgDisp("Nanatsumori","I wanted to see the model student of Haba
-High.");
+MsgDisp("Nanatsumori","I wanted to see the model student of
+Haba High.");
 MsgDisp("主人公","Huh?");
 ChEye(4,2);
 ChMouth(4,3);

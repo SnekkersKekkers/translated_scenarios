@@ -59,8 +59,8 @@ MsgDisp("Nanatsumori","Yup.
 Don't forget I'm a big eater who eats a lot
 of food sometimes.");
 MsgDisp("主人公","(Geez.
-But that Habataki Gozen thing sounds kind of
-fun!)");
+But that Habataki Gozen thing sounds kind
+of fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

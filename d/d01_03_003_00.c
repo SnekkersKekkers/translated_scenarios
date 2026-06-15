@@ -58,8 +58,7 @@ StlMouth(3,1);
 VoicePlay("D010300300_03_060");
 MsgDisp("Honda","Sankayou usually bloom on hills and
 mountains, in cold places where it snows.");
-MsgDisp("主人公","I see.
-But why are they transparent?");
+MsgDisp("主人公","I see. But why are they transparent?");
 StlEye(3,1);
 StlMouth(3,1);
 StlEyeOpenLevel(3,5);

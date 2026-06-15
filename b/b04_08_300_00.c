@@ -33,8 +33,8 @@ up cleanin—! Hehe!");
     ChMotion(8,0,1);
     VoicePlay("B040830000_08_020");
     MsgDisp("Shirahane","I wasn't really aware of it...
-Well, both me and Nii-chan are guys, after
-all.");
+Well, both me and Nii-chan are guys,
+after all.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

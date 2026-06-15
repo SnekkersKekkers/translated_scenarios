@@ -9,13 +9,11 @@ MsgClose();
 ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...!
-The lights are beautiful!
+MsgDisp("主人公","Wow...! The lights are beautiful!
 The blue world is expanding...");
 ChMouth(4,3);
 VoicePlay("B140400000_04_000");
-MsgDisp("Nanatsumori","Yeah.
-It's amazing.");
+MsgDisp("Nanatsumori","Yeah. It's amazing.");
 ChMouth(4,0);
 ChMotion(4,1,1);
 ChCheek(4,3);
@@ -35,8 +33,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B140400000_04_040");
 MsgDisp("Nanatsumori","...Pfft!");
-MsgDisp("主人公","Eh...
-Did I say something weird?");
+MsgDisp("主人公","Eh... Did I say something weird?");
 VoicePlay("B140400000_04_050");
 MsgDisp("Nanatsumori","No, I just thought that was so like you.");
 MsgDisp("主人公","???");

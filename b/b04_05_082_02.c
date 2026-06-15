@@ -78,8 +78,7 @@ talkative?");
         VoicePlay("B040508202_05_080");
         MsgDisp("Hiiragi","But, if you happen to hear it, please take it
 with a grain of salt.");
-        MsgDisp("主人公","Hehe.
-Then, that goes for me too.");
+        MsgDisp("主人公","Hehe. Then, that goes for me too.");
         ChEye(5,3);
         ChMouth(5,4);
         VoicePlay("B040508202_05_090");

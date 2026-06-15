@@ -20,15 +20,15 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710300_07_020");
-MsgDisp("Mikage","...Ah, the other day, on the way home... you
-know...
+MsgDisp("Mikage","...Ah, the other day, on the way home...
+you know...
 Sorry I said something so outlandish.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710300_07_030");
-MsgDisp("Mikage","Even I cringe at how childish my thoughts
-were.");
+MsgDisp("Mikage","Even I cringe at how childish my
+thoughts were.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -48,8 +48,8 @@ ChMotion(7,0);
 VoicePlay("G020710300_07_060");
 MsgDisp("Mikage","It would help if you could pretend you forgot
 about it.");
-MsgDisp("主人公","Well, um, it's not something to apologise
-for.");
+MsgDisp("主人公","Well, um, it's not something to
+apologise for.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);

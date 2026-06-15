@@ -22,10 +22,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P540600003_06_020");
-MsgDisp("Himuro","He had a terrifying face, Reiichi-san, that
-is.");
-MsgDisp("主人公","Ugh...
-I'm sorry.");
+MsgDisp("Himuro","He had a terrifying face, Reiichi-san,
+that is.");
+MsgDisp("主人公","Ugh... I'm sorry.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

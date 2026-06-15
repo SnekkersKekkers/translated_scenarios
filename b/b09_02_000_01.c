@@ -7,11 +7,10 @@ SEWait();
 VoicePlay("B090200000_02_000");
 MsgDisp("Sassa","Umm, it's Sassa.
 What was up with today?");
-MsgDisp("主人公","(It's ｛Sassa＊＊｝!
-Ah...)");
+MsgDisp("主人公","(It's ｛Sassa＊＊｝! Ah...)");
 VoicePlay("B090200000_02_010");
-MsgDisp("Sassa","I was waiting for a while, but I'm going home
-now.");
+MsgDisp("Sassa","I was waiting for a while, but I'm going
+home now.");
 VoicePlay("B090200000_02_020");
 MsgDisp("Sassa","If you just plain forgot, that's no good, but
 whatever. Still, I'll worry, so shoot me a

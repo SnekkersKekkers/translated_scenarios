@@ -19,8 +19,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360303100_03_010");
 MsgDisp("Honda","Yeah.
-Ryo-kun and Mi-kun were eager to talk to you
-too.");
+Ryo-kun and Mi-kun were eager to talk to
+you too.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);

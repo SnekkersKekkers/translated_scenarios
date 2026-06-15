@@ -5,8 +5,7 @@ MsgClose();
 ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(22,254,0,0,3,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Ahh...
-I had so much fun.");
+MsgDisp("主人公","Ahh... I had so much fun.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -17,8 +16,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q080D00000_22_000");
-MsgDisp("Hikaru","Let's spend the next free period together
-too♪
+MsgDisp("Hikaru","Let's spend the next free period
+together too♪
 Okay?");
 MsgDisp("主人公","Yeah, sure!");
 MsgClose();

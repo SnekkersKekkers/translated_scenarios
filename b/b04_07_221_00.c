@@ -5,8 +5,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040722100_07_000");
-MsgDisp("Mikage","O-Oi.
-Don't go out any further than that.
+MsgDisp("Mikage","O-Oi. Don't go out any further than that.
 It's dangerous.");
 MsgSel("Are you bad with high places?","Both the handrail and floor are creaking huh?","Do you want to hold hands?");
 switch (MsgSelRsltGet()){
@@ -16,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,4);
     ChMotion(7,1);
     VoicePlay("B040722100_07_010");
-    MsgDisp("Mikage","Why?
-I-I'm good with them.");
+    MsgDisp("Mikage","Why? I-I'm good with them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,8 +36,8 @@ creak...right?");
     ChMouth(7,3);
     ChMotion(7,4);
     VoicePlay("B040722100_07_030");
-    MsgDisp("Mikage","It would be a great help if you could hold my
-hand.");
+    MsgDisp("Mikage","It would be a great help if you could hold
+my hand.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

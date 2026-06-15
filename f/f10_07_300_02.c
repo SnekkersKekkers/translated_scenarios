@@ -87,8 +87,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("F100730002_07_020");
 MsgDisp("Mikage","...Uncle?");
-MsgDisp("主人公","Ehh!
-Goro-sensei∋");
+MsgDisp("主人公","Ehh! Goro-sensei∋");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

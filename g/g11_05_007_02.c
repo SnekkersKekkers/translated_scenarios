@@ -22,8 +22,8 @@ SEWait();
 VoicePlay("G110500702_05_010");
 MsgDisp("Hiiragi","What do you think?");
 MsgDisp("主人公","Yeah, it's cool.
-Working hard at the student council every
-day.");
+Working hard at the student council
+every day.");
 SEPlay("EV_SE_712");
 ChEye(5,0);
 ChMouth(5,1);
@@ -32,8 +32,7 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500702_05_020");
-MsgDisp("Hiiragi","Yeah.
-Maybe it's because of that day.
+MsgDisp("Hiiragi","Yeah. Maybe it's because of that day.
 That I've learned to type faster.");
 MsgDisp("主人公","That day?");
 ChEyeOpenLevel(5,0);

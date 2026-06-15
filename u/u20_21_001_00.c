@@ -17,7 +17,6 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("U202100100_21_010");
-MsgDisp("Michiru","Hehe.
-As a matter of fact, I bought them.
+MsgDisp("Michiru","Hehe. As a matter of fact, I bought them.
 I have two so I'll give one to Mari.");
 MsgDisp("主人公","Wow, thank you!");

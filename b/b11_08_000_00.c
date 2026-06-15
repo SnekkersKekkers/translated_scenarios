@@ -7,8 +7,7 @@ SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110800000_33_000");
 MsgDisp("Guy","I'll teach you about this world's true form.");
-MsgDisp("主人公","Eh?
-I'm here meeting with someone...");
+MsgDisp("主人公","Eh? I'm here meeting with someone...");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110800000_33_010");
@@ -53,8 +52,7 @@ ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,0);
 VoicePlay("B110800000_33_030");
-MsgDisp("Guy","Sigh.
-So you've got a tagalong, huh?");
+MsgDisp("Guy","Sigh. So you've got a tagalong, huh?");
 MsgDispSksp(1,5);
 ChEye(8,1);
 ChMouth(8,1);
@@ -87,5 +85,5 @@ ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B110800000_08_050");
 MsgDisp("Shirahane","...I'm glad nothing happened.
-I'll be more careful next time, so forgive
-me.");
+I'll be more careful next time, so
+forgive me.");

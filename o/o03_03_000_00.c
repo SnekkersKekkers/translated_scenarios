@@ -34,8 +34,7 @@ Or was everyone else feeling unwell?");
     ChSet(3,3);
     VoicePlay("O030300000_03_030");
     MsgDisp("Honda","Well, it doesn't matter!
-Anyways, we won!
-Yay!");
+Anyways, we won! Yay!");
     MsgDisp("主人公","(We did it!
 I got first place with ｛Honda＊＊｝!)");
     break ;
@@ -48,8 +47,8 @@ I got first place with ｛Honda＊＊｝!)");
     MsgDisp("Honda","We got first in the three-legged race!?");
     ChSet(3,3);
     VoicePlay("O030300000_03_050");
-    MsgDisp("Honda","This never would've happened if it wasn't for
-you!
+    MsgDisp("Honda","This never would've happened if it wasn't
+for you!
 You really are the best!");
     MsgDisp("主人公","Hehe, we did it!");
     ChEye(3,4);

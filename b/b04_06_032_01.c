@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,2);
     ChMotion(6,0);
     VoicePlay("B040603201_06_010");
-    MsgDisp("Himuro","...Not really, I don't think we're out of
-place.");
+    MsgDisp("Himuro","...Not really, I don't think we're out
+of place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,8 +29,8 @@ place.");
     ChMotion(6,0);
     VoicePlay("B040603201_06_020");
     MsgDisp("Himuro","Ha?
-Actually I think that'll give the opposite
-effect.");
+Actually I think that'll give the
+opposite effect.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

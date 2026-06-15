@@ -30,15 +30,14 @@ VoicePlay("B070700001_07_280");
 MsgDisp("Mikage","Yeah, but Yanosuke's onto him too, so he'll
 quietly tell me on the side that he \"mixed in
 some wrong info.\"");
-MsgDisp("主人公","Wow... 
-｛Hiiragi＊＊＊｝ is pretty funny.
+MsgDisp("主人公","Wow... ｛Hiiragi＊＊＊｝ is pretty funny.
 Does ｛Himuro＊＊｝ fall for it?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700001_07_290");
-MsgDisp("Mikage","Who knows, he might also enjoy that sort of
-stuff?");
+MsgDisp("Mikage","Who knows, he might also enjoy that sort
+of stuff?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

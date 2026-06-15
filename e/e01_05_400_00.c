@@ -71,8 +71,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("E010540000_22_050");
-MsgDisp("Hikaru","Anyway, it was just a joke.
-Ehe ▼");
+MsgDisp("Hikaru","Anyway, it was just a joke. Ehe ▼");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -90,8 +89,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010540000_05_050");
-MsgDisp("Hiiragi","Yes.
-Please give him my thanks.
+MsgDisp("Hiiragi","Yes. Please give him my thanks.
 I'll take my leave now.");
 MsgClose();
 SEPlay("EV_SE_640");

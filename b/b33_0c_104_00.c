@@ -11,8 +11,8 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C10400_07_000");
-MsgDisp("Mikage","It was Yanosuke who decided on this place
-right?");
+MsgDisp("Mikage","It was Yanosuke who decided on this
+place right?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -58,8 +58,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10400_07_020");
 MsgDisp("Mikage","Well, that being said I guess I like the
-summer nights where the fireflies are dancing
-about?");
+summer nights where the fireflies are
+dancing about?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

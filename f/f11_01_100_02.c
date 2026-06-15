@@ -14,8 +14,7 @@ VoicePlay("F110110002_01_010");
 MsgDisp("Kazama","Yeah, I dealt with everyone.
 I walked around with the Simon customers, the
 juniors, and the elderly association.");
-MsgDisp("主人公","Haha.
-Well, isn't someone popular this year?");
+MsgDisp("主人公","Haha. Well, isn't someone popular this year?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -35,8 +34,8 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F110110002_01_040");
-MsgDisp("Kazama","Alright, let's start over from the school
-gate!");
+MsgDisp("Kazama","Alright, let's start over from the
+school gate!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);

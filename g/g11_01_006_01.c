@@ -29,23 +29,22 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100601_01_000");
 MsgDisp("Kazama","There was something, but I lost it.");
-MsgDisp("主人公","Eh?
-Oh, really?");
+MsgDisp("主人公","Eh? Oh, really?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100601_01_010");
-MsgDisp("Kazama","Spending time with you here is a big deal to
-me...
+MsgDisp("Kazama","Spending time with you here is a big deal
+to me...
 I can think in a different way to usual.");
 ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100601_01_020");
-MsgDisp("Kazama","I know it's pathetic, but until we came
-here...
+MsgDisp("Kazama","I know it's pathetic, but until we
+came here...
 I was planning on prying on Inori.");
 MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(1,0);
@@ -59,8 +58,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100601_01_040");
 MsgDisp("Kazama","After that, it's my problem.
-It's not yours, not Inori's.
-It's my problem.");
+It's not yours, not Inori's. It's my problem.");
 MsgDisp("主人公","...Yeah.");
 ChEye(1,2);
 ChMouth(1,2);

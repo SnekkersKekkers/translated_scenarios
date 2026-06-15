@@ -35,8 +35,7 @@ But, if I'm going out, I'm going to win!");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O040701000_07_030");
-    MsgDisp("Mikage","Yo.
-Let's do our best.");
+    MsgDisp("Mikage","Yo. Let's do our best.");
     MsgDisp("主人公","Hm, you're participating too,
 ｛Mikage＊＊｝?");
     ChEye(7,0);
@@ -81,16 +80,14 @@ So you're participating too, ｛Mikage＊＊｝.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O040701000_07_090");
-    MsgDisp("Mikage","Yeah.
-Everyone looks like they're having fun.
+    MsgDisp("Mikage","Yeah. Everyone looks like they're having fun.
 Just watching would be lonely.");
     MsgDisp("主人公","Then let's do our best together.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("O040701000_07_100");
-    MsgDisp("Mikage","Yeah!
-I'm playing to win, okay?");
+    MsgDisp("Mikage","Yeah! I'm playing to win, okay?");
     break ;
     default :
     DbgAssert(1);

@@ -14,8 +14,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B140200000_02_000");
 MsgDisp("Sassa","Yeah.
-To think there's a place like this in the
-city.");
+To think there's a place like this in
+the city.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

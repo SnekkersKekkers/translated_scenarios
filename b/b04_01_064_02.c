@@ -25,8 +25,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B040106402_01_020");
 MsgDisp("Kazama","Ehh, then guess away.");
-MsgDisp("主人公","Fine.
-Umm...");
+MsgDisp("主人公","Fine. Umm...");
 SEPlay("EV_SE_022");
 Wait(20,0);
 SEPlay("EV_SE_551",0,0.9);
@@ -56,8 +55,7 @@ Wait(8,0);
 ChEye(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B040106402_01_040");
-MsgDisp("Kazama","Yeah.
-This year's was a little too big.");
+MsgDisp("Kazama","Yeah. This year's was a little too big.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -73,8 +71,7 @@ ChCheek(1,10);
 VoicePlay("B040106402_01_060");
 MsgDisp("Kazama","About...
 What I was thinking of.");
-MsgDisp("主人公","Huh?
-What was it?");
+MsgDisp("主人公","Huh? What was it?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -82,8 +79,8 @@ ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("B040106402_01_070");
 MsgDisp("Kazama","And it's gone...
-Well, forgetting it is pretty on-brand for me
-too.");
+Well, forgetting it is pretty on-brand for
+me too.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -91,8 +88,7 @@ Wait(30,1);
 VoicePlay("B040106402_01_080");
 MsgDisp("Kazama","Anyway, don't worry about it.
 Let's start making our way over.");
-MsgDisp("主人公","Huh?
-Um, okay.");
+MsgDisp("主人公","Huh? Um, okay.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

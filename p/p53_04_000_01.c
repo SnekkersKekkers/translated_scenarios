@@ -16,8 +16,7 @@ year. Sigh, I'm nervous.)");
     ChNanaType(0);
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P530400001_04_000");
-    MsgDisp("Nanatsumori","Yo.
-The game's—");
+    MsgDisp("Nanatsumori","Yo. The game's—");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,0,1);
@@ -34,9 +33,9 @@ gaming music.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400001_04_030");
-    MsgDisp("Nanatsumori","Idiot. Because I'm looking forwards to it, is
-why you need to enjoy it with all that you've
-got.");
+    MsgDisp("Nanatsumori","Idiot. Because I'm looking forwards to it,
+is why you need to enjoy it with all that
+you've got.");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("P530400001_04_040");
@@ -75,8 +74,7 @@ year. Sigh, I'm nervous.)");
     VoicePlay("P530400001_04_070");
     MsgDisp("Nanatsumori","｛主人公｝.
 You're stressed, huh—.");
-    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
-Yeah...");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝. Yeah...");
     VoicePlay("P530400001_04_080");
     MsgDisp("Nanatsumori","You're going to perform gaming music?
 The kind that entertains people.");
@@ -107,11 +105,11 @@ looking forwards to it, right?");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("P530400001_04_120");
-    MsgDisp("Nanatsumori","You've done everything you can until now.
-ＧＯ!");
+    MsgDisp("Nanatsumori","You've done everything you can until
+now. ＧＯ!");
     MsgDisp("主人公","Yes, I'm off!");
-    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for encouraging
-me!
+    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for
+encouraging me!
 Alright, let's do our best!)");
     break ;
     default :

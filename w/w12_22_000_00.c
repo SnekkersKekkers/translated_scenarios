@@ -11,8 +11,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("W122200000_22_010");
 MsgDisp("Hikaru","Ehehe, don't mention it.
-Let's hang out again sometime▼
-Okay?");
+Let's hang out again sometime▼ Okay?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

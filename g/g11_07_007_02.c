@@ -39,8 +39,7 @@ ChMotion(7,0);
 VoicePlay("G110700702_07_030");
 MsgDisp("Mikage","A mysterious (manly) guy in a jumpsuit who
 jumped in and joined.");
-MsgDisp("主人公","Hehe!
-Well then, what should I say?");
+MsgDisp("主人公","Hehe! Well then, what should I say?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

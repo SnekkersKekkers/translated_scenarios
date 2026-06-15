@@ -49,8 +49,8 @@ MsgDispSksp(0);
 ChEye(33,0);
 ChMouth(33,1);
 VoicePlay("B110400000_33_050");
-MsgDisp("Guy","Aren't you curious about a world no one knows
-about?");
+MsgDisp("Guy","Aren't you curious about a world no one
+knows about?");
 MsgDispSksp(1,5);
 ChEye(4,0);
 ChMouth(4,0);

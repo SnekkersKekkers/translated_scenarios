@@ -7,8 +7,8 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040421202_04_000");
-MsgDisp("Nanatsumori","There are bunny-ear headbands and gorilla
-ears.");
+MsgDisp("Nanatsumori","There are bunny-ear headbands and
+gorilla ears.");
 MsgSel("Seems like you can use them for cosplay!","This sort of thing is for children.","It would be embarrassing to wear them...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -56,8 +56,7 @@ Seems like we don't get along...");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040421202_04_040");
-        MsgDisp("Nanatsumori","Why?
-I think it would suit you.");
+        MsgDisp("Nanatsumori","Why? I think it would suit you.");
         ChEye(4,0);
         ChMouth(4,3);
         VoicePlay("B040421202_04_050");
@@ -67,8 +66,7 @@ I think it would suit you.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040421202_04_060");
-        MsgDisp("Nanatsumori","Haha!
-You're so funny.");
+        MsgDisp("Nanatsumori","Haha! You're so funny.");
         MsgDisp("主人公","Ugh...you're teasing me.");
         ChEye(4,4);
         ChMouth(4,3);

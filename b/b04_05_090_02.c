@@ -9,8 +9,8 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B040509002_05_000");
 MsgDisp("Hiiragi","Tropical plant illumination...
-It seems to be open at night for a limited
-time.");
+It seems to be open at night for a
+limited time.");
 MsgSel("It's like a jungle expedition team.","I wonder if the flowers bloom even at night...","Seems fun let's go!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -61,15 +61,13 @@ I'm sorry for getting your hopes up.");
         ChMouth(5,2);
         ChMotion(5,2);
         VoicePlay("B040509002_05_040");
-        MsgDisp("Hiiragi","Hmmm...
-It seems a bit too late for us.");
+        MsgDisp("Hiiragi","Hmmm... It seems a bit too late for us.");
         ChEye(5,2);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040509002_05_050");
         MsgDisp("Hiiragi","Sorry for getting your hopes up.");
-        MsgDisp("主人公","No.
-It is unfortunate though...");
+        MsgDisp("主人公","No. It is unfortunate though...");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

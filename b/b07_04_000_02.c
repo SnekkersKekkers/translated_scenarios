@@ -35,8 +35,8 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B070400000_04_100");
-MsgDisp("Nanatsumori","It won't.
-Wait, are you serious about every meal?
+MsgDisp("Nanatsumori","It won't. Wait, are you serious about
+every meal?
 What kind of punchline setup is that?");
 MsgDisp("主人公","Ummm...");
 ChEye(4,2);

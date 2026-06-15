@@ -2,8 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yay—!
-A huge success∈)");
+MsgDisp("主人公","(Yay—! A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -22,9 +21,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("P740700004_07_020");
-MsgDisp("Mikage","Somewhat, it felt like you were really going
-to get married, and I started to feel a bit
-lonely?");
+MsgDisp("Mikage","Somewhat, it felt like you were really
+going to get married, and I started to feel
+a bit lonely?");
 MsgDisp("主人公","Hehe.");
 ChEye(7,0);
 ChMouth(7,0);

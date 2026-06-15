@@ -23,8 +23,7 @@ StlMouth(21,0);
 Wait(20,0);
 ScrFadeIn(0);
 VoicePlay("D012100100_21_020");
-MsgDisp("Michiru","Okay.
-Thanks for waiting.");
+MsgDisp("Michiru","Okay. Thanks for waiting.");
 MsgDisp("主人公","Woah, so cute!
 Are these all Japanese sweets?");
 StlEyeOpenLevel(21,5);
@@ -43,20 +42,19 @@ Why don't you give them a try.");
 MsgDisp("主人公","Is it really okay?");
 StlEyeOpenLevel(21,5);
 VoicePlay("D012100100_21_060");
-MsgDisp("Michiru","Hehe.
-Of course. I prepared them for this reason,
-so please enjoy.");
+MsgDisp("Michiru","Hehe. Of course.
+I prepared them for this reason, so
+please enjoy.");
 MsgDisp("主人公","Okay, thanks for the food!");
 MsgDisp("主人公","......!｛みちる＊｝, these are amazing!
-So yummy and the texture is completely new to
-me...!");
+So yummy and the texture is completely new
+to me...!");
 StlEye(21,1);
 VoicePlay("D012100100_21_070");
 MsgDisp("Michiru","What a relief!
 I can relax now that I have Mari's approval.");
 StlEye(21,0);
-MsgDisp("主人公","Hehe!
-Hey, why don't you try too?");
+MsgDisp("主人公","Hehe! Hey, why don't you try too?");
 StlEyeOpenLevel(21,5);
 VoicePlay("D012100100_21_080");
 MsgDisp("Michiru","Okay, just one bite...");

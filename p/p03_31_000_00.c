@@ -12,8 +12,8 @@ MsgClose();
 ChOpen(31,254,0,0,0,0,#1,0,0);
 VoicePlay("P033100000_31_000");
 MsgDisp("Goro","So it's here...
-The source of that appetite-stimulating
-scent.");
+The source of that
+appetite-stimulating scent.");
 MsgDisp("主人公","Ah, Goro-sensei!
 Welcome.");
 ChEye(31,3);
@@ -21,8 +21,8 @@ ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("P033100000_31_010");
 MsgDisp("Goro","Oh my.
-Your look, wearing that yukata, is quite
-fresh～");
+Your look, wearing that yukata, is
+quite fresh～");
 MsgDisp("主人公","Hehe, thank you very much.
 This is a Japanese-style cafe.");
 ChEye(31,0);

@@ -14,8 +14,7 @@ ChMotion(6,0);
 VoicePlay("G110601100_06_010");
 MsgDisp("Himuro","You know, you have time...after this.
 You quit your part time job.");
-MsgDisp("主人公","Ah...
-I-I see.");
+MsgDisp("主人公","Ah... I-I see.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -34,8 +33,7 @@ ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110601100_06_030");
 MsgDisp("Himuro","Did you start to hate your job?");
-MsgDisp("主人公","Ah...
-No, not really.");
+MsgDisp("主人公","Ah... No, not really.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -52,8 +50,7 @@ ChMotion(6,0);
 VoicePlay("G110601100_06_060");
 MsgDisp("Himuro","I'm not trying to blame you.
 I'm sure everyone has their reasons.");
-MsgDisp("主人公","Yeah...
-I'm sorry.");
+MsgDisp("主人公","Yeah... I'm sorry.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

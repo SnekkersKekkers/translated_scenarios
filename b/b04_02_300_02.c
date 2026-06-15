@@ -45,8 +45,8 @@ something.");
         ChMotion(2,4);
         VoicePlay("B040230002_02_030");
         MsgDisp("Sassa","Don't be so scared...
-Well, like me she's big, but she's a funny
-person.");
+Well, like me she's big, but she's a
+funny person.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -105,11 +105,10 @@ You make a good combination you know?");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040230002_02_110");
-        MsgDisp("Sassa","Yeah.
-Isn't it better if you get along?
+        MsgDisp("Sassa","Yeah. Isn't it better if you get along?
 For the future...you know.");
-        MsgDisp("主人公","(...Wow, what do I do, should I greet her
-again?)");
+        MsgDisp("主人公","(...Wow, what do I do, should I greet
+her again?)");
         break ;
         default :
         DbgAssert(1);

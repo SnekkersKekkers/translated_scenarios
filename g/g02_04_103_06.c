@@ -27,8 +27,7 @@ VoicePlay("G020410306_04_050");
 MsgDisp("Nanatsumori","Like it doesn't feel gross or startling, how
 should I say it...don't you think having
 various sides is kind of creepy?");
-MsgDisp("主人公","Eh?
-Why would I think that?");
+MsgDisp("主人公","Eh? Why would I think that?");
 ChEye(4,5);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -50,8 +49,8 @@ VoicePlay("G020410306_04_090");
 MsgDisp("Nanatsumori","Meeting you has really paid off for me
 ...thank you.");
 MsgDisp("主人公","It's no problem at all.
-｛Nanatsumori＊｝'s crossdressing is really
-cute▼");
+｛Nanatsumori＊｝'s crossdressing is
+really cute▼");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);

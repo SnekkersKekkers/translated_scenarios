@@ -27,14 +27,14 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C06001_07_000");
 MsgDisp("Mikage","Aaah, he'll probably say something like \"You
-can't even have a proper conversation without
-me\"");
+can't even have a proper conversation
+without me\"");
 ChMotion(5,4,1);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C06001_05_020");
 MsgDisp("Hiiragi","Yes.");
-MsgDisp("主人公","Hehe, that does sound like something he'll
-say.");
+MsgDisp("主人公","Hehe, that does sound like something
+he'll say.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -46,8 +46,8 @@ ChMotion(5,0);
 VoicePlay("D140C06001_05_030");
 MsgDisp("Hiiragi","Inori-kun always does things like that and
 livens things up.");
-MsgDisp("主人公","Umm...it just sounds like he says what he
-thinks?");
+MsgDisp("主人公","Umm...it just sounds like he says what
+he thinks?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

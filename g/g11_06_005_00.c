@@ -9,8 +9,7 @@ VoicePlay("G110600500_06_000");
 MsgDisp("Himuro","Ah, yeah.
 ...That's right.
 I guess you're coming too.");
-MsgDisp("主人公","Eh?
-Y-Yes.");
+MsgDisp("主人公","Eh? Y-Yes.");
 MsgClose();
 MsgClose();
 ScrFadeOut(0);

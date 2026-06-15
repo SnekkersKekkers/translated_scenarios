@@ -61,8 +61,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020220000_02_050");
-MsgDisp("Sassa?","Me?
-No way, I'm not on that level.");
+MsgDisp("Sassa?","Me? No way, I'm not on that level.");
 MsgDisp("主人公","I honestly thought you were the captain...");
 ChEye(2,2);
 ChMouth(2,0);
@@ -114,8 +113,8 @@ VoiceEVSPlay(2);
 VoicePlay("A020220000_02_090");
 MsgDisp("Sassa","｛主人公｝.
 So you're gonna be the manager, huh?");
-MsgDisp("主人公","Yeah, I'll do whatever I can to help you
-guys!");
+MsgDisp("主人公","Yeah, I'll do whatever I can to help
+you guys!");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,1);
@@ -145,8 +144,7 @@ Even the others think I'm crazy.");
 ChEye(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","Ehh?
-Are you for real?");
+MsgDisp("主人公","Ehh? Are you for real?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

@@ -50,11 +50,10 @@ MsgDispSksp(1,5);
 VoiceEVSPlay(3);
 VoicePlay("B110300000_03_020");
 MsgDisp("Honda","｛主人公｝.
-If it's just one, you'll let me go first,
-right?");
+If it's just one, you'll let me go
+first, right?");
 MsgDispSksp(0);
-MsgDisp("主人公","Huh?
-Sure...go ahead!");
+MsgDisp("主人公","Huh? Sure...go ahead!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

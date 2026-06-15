@@ -4,8 +4,7 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh?
-｛Kazama＊＊｝, good morning!
+MsgDisp("主人公","Oh? ｛Kazama＊＊｝, good morning!
 Were you maybe waiting for me?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -82,9 +81,9 @@ MsgDisp("Kazama","......You're way too carefree.");
 NSSEye(1,0);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_200");
-MsgDisp("Kazama","Fine.
-I'll ask you again. It's about that time in
-first grade, when the two of us—");
+MsgDisp("Kazama","Fine. I'll ask you again.
+It's about that time in first grade, when the
+two of us—");
 MsgClose();
 ScrFadeOut(0,0,30);
 NSSClose();

@@ -27,8 +27,7 @@ Let's go.");
     VoicePlay("F012100003_21_020");
     MsgDisp("Michiru","We shall do that.
 There are many things I want to talk about.");
-    MsgDisp("主人公","Hehe.
-Well, let's go.");
+    MsgDisp("主人公","Hehe. Well, let's go.");
     break ;
     default :
     DbgAssert(1);

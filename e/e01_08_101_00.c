@@ -25,15 +25,14 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("E010810100_08_020");
 MsgDisp("Shirahane","Ah that's right!
-I came from an all you can eat dessert
-buffet.");
+I came from an all you can eat
+dessert buffet.");
 ChEye(8,2);
 ChMouth(8,5);
 ChMotion(8,2,1);
 ChCheek(8,5);
 VoicePlay("E010810100_08_030");
-MsgDisp("Shirahane","Ah∋
-Don't get the wrong idea!
+MsgDisp("Shirahane","Ah∋ Don't get the wrong idea!
 It's not like I was on a date.");
 MsgDisp("主人公","Hehe!");
 ChCheek(8,0);

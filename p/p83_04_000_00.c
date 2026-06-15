@@ -17,8 +17,7 @@ I carry, and where do I carry it to next...?");
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P830400000_04_000");
-    MsgDisp("Nanatsumori","Yo.
-Busy?");
+    MsgDisp("Nanatsumori","Yo. Busy?");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Yeah, super busy.");
     ChEye(4,2);
@@ -29,8 +28,7 @@ Yeah, super busy.");
     MsgDisp("School Girl","Um—.
 The audiovisual room doesn't have enough
 blackout curtains. Could you bring some?");
-    MsgDisp("主人公","Yes～.
-Then I'll be going now!");
+    MsgDisp("主人公","Yes～. Then I'll be going now!");
     ChEye(4,2);
     ChMouth(4,2);
     ChMotion(4,0,1);
@@ -49,8 +47,7 @@ I carry, and where do I carry it to next...?");
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P830400000_04_030");
-    MsgDisp("Nanatsumori","Yo.
-Thanks for your hard work.");
+    MsgDisp("Nanatsumori","Yo. Thanks for your hard work.");
     MsgDisp("主人公","｛Nanatsumori＊｝.
 Sorry, I'm a bit busy right now...");
     ChEye(4,2);
@@ -68,8 +65,7 @@ But, I'm responsible for this myself.");
     MsgDisp("School Girl","Excuse me—.
 The audiovisual room doesn't have enough
 blackout curtains. Could you bring some?");
-    MsgDisp("主人公","Yes—!
-I'll go now!");
+    MsgDisp("主人公","Yes—! I'll go now!");
     ChEye(4,2);
     ChMouth(4,3);
     VoicePlay("P830400000_04_050");

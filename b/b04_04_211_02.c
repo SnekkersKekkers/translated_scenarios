@@ -50,8 +50,8 @@ okay? There's a chance they'll spit at you.");
         VoicePlay("B040421102_04_040");
         MsgDisp("Nanatsumori","Could it be that you're not really interested
 in animals?");
-        MsgDisp("主人公","That's not it but...did you want to feed
-them?");
+        MsgDisp("主人公","That's not it but...did you want to
+feed them?");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,2,1);
@@ -90,8 +90,7 @@ I came up with a good idea.");
         ChMouth(4,3);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040421102_04_110");
-        MsgDisp("Nanatsumori","It is.
-Then, it'll be me feeding you.");
+        MsgDisp("Nanatsumori","It is. Then, it'll be me feeding you.");
         MsgDisp("主人公","Ehh∋");
         ChEye(4,3);
         ChMouth(4,3);
@@ -110,8 +109,8 @@ Then, it'll be me feeding you.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040421102_04_130");
-    MsgDisp("Nanatsumori","Then, should I take a picture of you feeding
-them?");
+    MsgDisp("Nanatsumori","Then, should I take a picture of you
+feeding them?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

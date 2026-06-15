@@ -80,8 +80,8 @@ I just enjoy this time of day.");
 VoicePlay("G110500600_05_060");
 MsgDisp("Hiiragi","Can you show me sometime?
 Your drawings, I mean.");
-MsgDisp("主人公","I'll try to draw something that you will like
-then.");
+MsgDisp("主人公","I'll try to draw something that you will
+like then.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);

@@ -21,16 +21,14 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("I460600002_06_010");
-    MsgDisp("Himuro","Yeah.
-...My sense is being tested.");
+    MsgDisp("Himuro","Yeah. ...My sense is being tested.");
     MsgDisp("主人公","Wouldn't it be easier if you decide on a
 flower as the centre?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600002_06_020");
-    MsgDisp("Himuro","...I see.
-I'll use that idea.");
+    MsgDisp("Himuro","...I see. I'll use that idea.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -77,8 +75,8 @@ have good sense, right?");
     MsgDisp("Himuro","This might be your calling, huh?
 I think it suits you.");
     MsgDisp("主人公","Really?
-Then maybe I'll open a flower shop in the
-future.");
+Then maybe I'll open a flower shop in
+the future.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0,1);

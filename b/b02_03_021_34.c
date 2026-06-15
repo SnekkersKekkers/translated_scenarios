@@ -3,8 +3,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B020302134_03_000");
 MsgDisp("Honda","Uncomplicated and refined...
-Today, you are truly a simple soy sauce
-ramen.");
+Today, you are truly a simple soy
+sauce ramen.");
 MsgDisp("主人公","What?");
 ChEye(3,0);
 ChMouth(3,3);

@@ -46,8 +46,8 @@ city that you don't.");
         ChMotion(2,3);
         VoicePlay("B040203202_02_040");
         MsgDisp("Sassa","Yeah.
-It makes me want to dig up more stuff like
-this.");
+It makes me want to dig up more stuff
+like this.");
         MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ doing real legwork for a
 story would be something.");
         ChEye(2,0);

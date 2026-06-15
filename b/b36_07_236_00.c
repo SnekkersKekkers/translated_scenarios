@@ -43,15 +43,14 @@ ChMotion(7,1);
 VoicePlay("B360723600_07_040");
 MsgDisp("Mikage","What are you talking about?
 You wanted to go, so why not?");
-MsgDisp("主人公","Yeah.
-Thank you.");
+MsgDisp("主人公","Yeah. Thank you.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360723600_07_050");
 MsgDisp("Mikage","Thank you to you too.
-Thanks to your persistence, I was able to see
-this.");
+Thanks to your persistence, I was able to
+see this.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);

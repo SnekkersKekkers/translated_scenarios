@@ -28,8 +28,8 @@ It's not a penthouse.");
     ChMotion(7,4);
     VoicePlay("B040722102_07_020");
     MsgDisp("Mikage","Apparently not.
-If you look carefully, you'll see it's quite
-modest.");
+If you look carefully, you'll see it's
+quite modest.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -58,8 +58,8 @@ You really like high places don't you?");
         VoicePlay("B040722102_07_040");
         MsgDisp("Mikage","You really like high places, don't you?");
         MsgDisp("主人公","Ah, sorry...
-｛Mikage＊＊｝ isn't great with high places,
-right?");
+｛Mikage＊＊｝ isn't great with high
+places, right?");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,0);

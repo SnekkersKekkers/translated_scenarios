@@ -30,7 +30,6 @@ SEPlay("EV_SE_799");
 MsgClose();
 ChClose(2);
 SEWait();
-MsgDisp("主人公","(Eeh∋
-Then, that thing just now was...?)");
+MsgDisp("主人公","(Eeh∋ Then, that thing just now was...?)");
 MsgClose();
 ScrFadeOut(0,0);

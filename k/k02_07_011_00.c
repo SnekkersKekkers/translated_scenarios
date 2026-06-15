@@ -49,8 +49,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("K020701100_07_060");
-MsgDisp("Mikage","Hm?
-That's not it.
+MsgDisp("Mikage","Hm? That's not it.
 I'll give you another gift in one year.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

@@ -38,8 +38,7 @@ ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("G110400600_04_030");
 MsgDisp("Nanatsumori","...What?");
-MsgDisp("主人公","Ah, sorry, was I staring?
-But...");
+MsgDisp("主人公","Ah, sorry, was I staring? But...");
 VoicePlay("G110400600_04_040");
 MsgDisp("Nanatsumori","But?");
 MsgDisp("主人公","You were modelling without glasses, and when

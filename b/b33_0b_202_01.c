@@ -74,8 +74,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330B20201_01_020");
-MsgDisp("Kazama","So?
-Which one does this planetarium use—");
+MsgDisp("Kazama","So? Which one does this planetarium use—");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -96,8 +95,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B20201_01_030");
-MsgDisp("Kazama","Well, that's what makes him interesting
-though.");
+MsgDisp("Kazama","Well, that's what makes him
+interesting though.");
 MsgDisp("主人公","(Ahaha...)");
 BGMStop();
 MsgClose();

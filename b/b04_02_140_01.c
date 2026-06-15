@@ -37,8 +37,7 @@ I thought their first song was the best!");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B040214001_02_030");
-    MsgDisp("Sassa","Crap...
-We have a harsh critic here.");
+    MsgDisp("Sassa","Crap... We have a harsh critic here.");
     MsgDateResultDisp();
     break ;
     default :

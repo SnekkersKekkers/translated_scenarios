@@ -66,8 +66,7 @@ to do today?");
         ChMotion(3,2);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040320002_03_060");
-        MsgDisp("Honda","Phew—.
-Thank you, you always put me first.");
+        MsgDisp("Honda","Phew—. Thank you, you always put me first.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);

@@ -10,8 +10,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("N020300000_03_000");
     MsgDisp("Honda","The first among all the students is...not me!");
-    MsgDisp("主人公","Ah, ｛Honda＊＊｝.
-Umm...");
+    MsgDisp("主人公","Ah, ｛Honda＊＊｝. Umm...");
     ChSet(3,3);
     VoicePlay("N020300000_03_010");
     MsgDisp("Honda","Impressive, really impressive!
@@ -33,15 +32,13 @@ Anyway, I'm glad I did my best!)");
     VoicePlay("N020300000_03_030");
     MsgDisp("Honda","You're first in our grade∋
 Congratulations!");
-    MsgDisp("主人公","Yeah, thank you!
-Umm...
+    MsgDisp("主人公","Yeah, thank you! Umm...
 What about you, ｛Honda＊＊｝?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("N020300000_03_040");
-    MsgDisp("Honda","Hm?
-Me?
+    MsgDisp("Honda","Hm? Me?
 I still haven't checked yet.");
     MsgDisp("主人公","(As expected of ｛Honda＊＊｝...
 Anyway, I'm really glad I did my best!)");

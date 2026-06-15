@@ -18,8 +18,7 @@ ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("P540700005_07_010");
 MsgDisp("Mikage","Don't say stupid things, you didn't fail.");
-MsgDisp("主人公","Eh?
-But...");
+MsgDisp("主人公","Eh? But...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

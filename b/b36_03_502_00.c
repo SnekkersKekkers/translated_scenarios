@@ -48,8 +48,8 @@ ChClose(3);
 Wait(30,0);
 VoicePlay("B360350200_03_050");
 MsgDisp("Honda","In that case, we'll just make another one!
-This time, I'll make sure it's far from the
-sea!");
+This time, I'll make sure it's far from
+the sea!");
 MsgDisp("主人公","(｛Honda＊＊｝ is really serious about this...)");
 BGMStop();
 MsgClose();

@@ -102,8 +102,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("Q070100000_01_090");
 MsgDisp("Kazama","It's amazing how the owner came to a foreign
-country 9000km from England, such a long time
-ago.");
+country 9000km from England, such a long
+time ago.");
 MsgDisp("主人公","Do you understand the feeling he may have
 had, ｛Kazama＊＊｝?");
 ChEye(1,0);
@@ -118,15 +118,14 @@ ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("Q070100000_01_110");
 MsgDisp("Kazama","I guess so.
-The owner spent the rest of his life here,
-though.");
+The owner spent the rest of his life
+here, though.");
 MsgDisp("主人公","I'm sure he really liked it here.");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q070100000_01_120");
-MsgDisp("Kazama","I also liked England.
-But...
+MsgDisp("Kazama","I also liked England. But...
 I had a reason to come back.");
 MsgDisp("主人公","I see.
 But thanks to that, we were able to go to

@@ -20,21 +20,19 @@ MsgSel("Sure, that's fine.","Ah, sorry. I can't...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U012200001_22_020");
-    MsgDisp("Hikaru","Yay!
-Then let's go straight there～♪");
+    MsgDisp("Hikaru","Yay! Then let's go straight there～♪");
     MsgDisp("主人公","Ok, see you soon!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     break ;
     case 1:
     VoicePlay("U012200001_22_030");
-    MsgDisp("Hikaru","Ehh～
-What's with that...
+    MsgDisp("Hikaru","Ehh～ What's with that...
 How depressing.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Even though she took the time to invite
-me...
+    MsgDisp("主人公","(Even though she took the time to
+invite me...
 Maybe I made the wrong decision?)");
     break ;
     default :

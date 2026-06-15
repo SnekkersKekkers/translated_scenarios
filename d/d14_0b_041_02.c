@@ -74,14 +74,14 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("D140B04102_01_060");
-MsgDisp("Kazama","Oi, why do you keep jumping in when I say
-\"Eh?\"?");
+MsgDisp("Kazama","Oi, why do you keep jumping in when I
+say \"Eh?\"?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D140B04102_03_040");
-MsgDisp("Honda","That's because you're questioning something
-right?
+MsgDisp("Honda","That's because you're questioning
+something right?
 I'm the one teaching, so ask me anything.");
 ChEye(1,2);
 ChMouth(1,2);

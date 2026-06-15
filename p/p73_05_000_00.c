@@ -26,8 +26,8 @@ Thank you.");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("P730500000_05_020");
-    MsgDisp("Hiiragi","Even if I tell you to relax, it's difficult,
-right?");
+    MsgDisp("Hiiragi","Even if I tell you to relax, it's
+difficult, right?");
     MsgDisp("主人公","I'm super nervous..
 This is my first time doing something like a
 fashion show.");
@@ -56,8 +56,8 @@ little easier, right?");
 I forgot to mention something important.
 That outfit suits you very well.");
     MsgDisp("主人公","Thank you...!");
-    MsgDisp("主人公","(I feel like ｛Hiiragi＊＊＊｝ gave me the push I
-needed.
+    MsgDisp("主人公","(I feel like ｛Hiiragi＊＊＊｝ gave me the push
+I needed.
 Let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -92,8 +92,7 @@ Seems like I'm nervous after all.");
     VoicePlay("P730500000_05_080");
     MsgDisp("Hiiragi","I apologise.
 I didn't intend on putting pressure on you.");
-    MsgDisp("主人公","No.
-I'm happy that you came to watch.");
+    MsgDisp("主人公","No. I'm happy that you came to watch.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);

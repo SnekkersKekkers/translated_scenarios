@@ -42,8 +42,8 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("F020700008_07_040");
 MsgDisp("Mikage","I only butt in during the prep period.
-Just let me get excited about this part,
-okay?");
+Just let me get excited about this
+part, okay?");
 MsgDisp("主人公","Yes, but if ｛Mikage＊＊｝ was the one
 standing out during the actual event,
 everyone would probably be happy.");

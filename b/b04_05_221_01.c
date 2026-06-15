@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040522101_05_010");
     MsgDisp("Hiiragi","Thank you very much.
-Thankfully, it seems like everyone remembers
-it.");
+Thankfully, it seems like everyone
+remembers it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

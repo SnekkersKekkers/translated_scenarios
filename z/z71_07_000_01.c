@@ -13,8 +13,8 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863")MsgDisp("主人公","(Huh!?
-｛Mikage＊＊｝ is my teacher again this
-year!?)");
+｛Mikage＊＊｝ is my teacher again
+this year!?)");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -22,16 +22,15 @@ VoicePlay("Z710700001_07_010");
 MsgDisp("Mikage","Ooh, what a good reaction.");
 SEStop("EV_SE_GAYA_023",2);
 SEStop("EV_SE_863",2)SEPlay("EV_SE_743",0.2,0.6)VoicePlay("Z710700001_44_000");
-MsgDisp("School Girl","Yes!
-I'm finally in Mikagecchi's class!");
+MsgDisp("School Girl","Yes! I'm finally in Mikagecchi's class!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Z710700001_07_020");
 MsgDisp("Mikage","I see, you're finally in.");
 VoicePlay("Z710700001_42_010");
-MsgDisp("School Boy","It's been two years in a row for me, you
-know～?");
+MsgDisp("School Boy","It's been two years in a row for me,
+you know～?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -73,16 +72,15 @@ SEStop("EV_SE_743",1);
 VoiceEVSPlay(7);
 VoicePlay("Z710700001_07_060");
 MsgDisp("Mikage","｛主人公｝, the usual question, please.");
-MsgDisp("主人公","Huh!?
-Um...is Molly doing well?");
+MsgDisp("主人公","Huh!? Um...is Molly doing well?");
 SEStop("EV_SE_863",1);
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("Z710700001_07_070");
 MsgDisp("Mikage","That's right.
-This cow here is Molly, and she's part of my
-family.");
+This cow here is Molly, and she's part of
+my family.");
 VoicePlay("Z710700001_42_030");
 MsgDisp("School Boy","Everyone knows that too.");
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
@@ -108,8 +106,8 @@ SEWait();
 Wait(60);
 BGOpen("sc300",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Finally, I've asked a question for all three
-years.
+MsgDisp("主人公","(Finally, I've asked a question for all
+three years.
 It's going to be another great year...!)");
 MsgClose();
 ScrFadeOut(0,0);

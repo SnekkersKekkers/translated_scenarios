@@ -57,8 +57,8 @@ breathe a sigh of relief.");
         ChEye(4,0);
         ChMouth(4,3);
         VoicePlay("B040402102_04_070");
-        MsgDisp("Nanatsumori","It was the complete opposite when I met you
-though?
+        MsgDisp("Nanatsumori","It was the complete opposite when I met
+you though?
 My heart was racing every day.");
         MsgDisp("主人公","Your heart was racing every day?");
         ChEye(4,4);
@@ -68,8 +68,7 @@ My heart was racing every day.");
         MsgDisp("Nanatsumori","It was, it was.
 I wondered when you would blurt out my true
 identity.");
-        MsgDisp("主人公","Eh..
-So that's what you were thinking...");
+        MsgDisp("主人公","Eh.. So that's what you were thinking...");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,3);

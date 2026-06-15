@@ -4,8 +4,7 @@ MsgClose();
 ChOpen(8,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050800000_08_000");
-MsgDisp("Shirahane","Hey.
-Wanna take a walk around the pond?");
+MsgDisp("Shirahane","Hey. Wanna take a walk around the pond?");
 MsgDisp("主人公","Yeah, okay.");
 MsgClose();
 SEPlay("EV_SE_767");
@@ -53,8 +52,7 @@ MsgDisp("主人公","Wow, there's so many beautiful koi!");
 VoicePlay("B050800000_08_060");
 MsgDisp("Shirahane","Please give me your heart's blessing...");
 MsgDisp("主人公","(Heart's blessing?)");
-MsgDisp("主人公","Ah...
-Ah, that koi has a love heart marking!");
+MsgDisp("主人公","Ah... Ah, that koi has a love heart marking!");
 StlEye(8,1);
 StlMouth(8,1);
 VoicePlay("B050800000_08_070");
@@ -71,11 +69,10 @@ StlEye(8,0);
 StlMouth(8,0);
 VoicePlay("B050800000_08_090");
 MsgDisp("Shirahane","For this girl here too, alright?
-Please bring a wonderful love to both of
-us...");
+Please bring a wonderful love to both
+of us...");
 VoicePlay("B050800000_08_100");
-MsgDisp("Shirahane","Please, I ask of you...
-Amen—...");
+MsgDisp("Shirahane","Please, I ask of you... Amen—...");
 MsgDisp("主人公","(｛Daichi＊＊｝ is serious...)");
 MsgClose();
 ScrFadeOut(0);
@@ -103,8 +100,7 @@ ChMouth(8,3);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B050800000_08_130");
-MsgDisp("Shirahane","Hehe.
-Today is my super lucky day▼");
+MsgDisp("Shirahane","Hehe. Today is my super lucky day▼");
 MsgDisp("主人公","(｛Daichi＊＊｝ is in a super good mood.
 He even asked on my behalf.)");
 BGMStop();

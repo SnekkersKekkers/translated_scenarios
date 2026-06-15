@@ -30,9 +30,9 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("F110510001_05_030");
-MsgDisp("Hiiragi","Yes.
-There really are many types... Taiyaki, on
-its own, has red bean paste, cream, cheese...");
+MsgDisp("Hiiragi","Yes. There really are many types...
+Taiyaki, on its own, has red bean paste,
+cream, cheese...");
 ChEye(5,2);
 ChMouth(5,4);
 ChEyeOpenLevel(5,9);

@@ -27,8 +27,7 @@ MsgDisp("主人公","Hehe!");
 ChEye(8,3);
 ChMotion(8,4,1);
 VoicePlay("S110800001_08_040");
-MsgDisp("Shirahane","Hehe!
-So let's see what it says...");
+MsgDisp("Shirahane","Hehe! So let's see what it says...");
 ChEye(8,0);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
@@ -55,8 +54,7 @@ ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("S110800001_08_080");
 MsgDisp("Shirahane","Ah, that's what it means!
-You worded it better.
-...Hehe!");
+You worded it better. ...Hehe!");
 MsgDisp("主人公","(｛Daichi＊＊｝ looks happy. It's said that
 good fortune comes to those who smile.
 ｛Daichi＊＊｝ will have a great year!)");

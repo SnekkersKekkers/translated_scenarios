@@ -21,8 +21,7 @@ switch (ChPrmGet(6,6)){
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(Okay!
-Let's try our best this year!)");
+    MsgDisp("主人公","(Okay! Let's try our best this year!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -80,9 +79,9 @@ together.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("S120600002_06_110");
-    MsgDisp("Himuro","Ah...
-It's nothing.
-I'll take you home. Let's go.");
+    MsgDisp("Himuro","Ah... It's nothing.
+I'll take you home.
+Let's go.");
     MsgDisp("主人公","(｛Himuro＊＊｝...?)");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();

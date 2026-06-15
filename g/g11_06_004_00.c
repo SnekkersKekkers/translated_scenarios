@@ -26,8 +26,7 @@ BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600400_06_010");
-MsgDisp("Himuro","Hey...
-Why don't you practise swimming a bit?");
+MsgDisp("Himuro","Hey... Why don't you practise swimming a bit?");
 MsgDisp("主人公","Eh...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -54,8 +53,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_050");
-MsgDisp("Himuro","Ha?
-Don't you want to be able to swim?");
+MsgDisp("Himuro","Ha? Don't you want to be able to swim?");
 MsgDisp("主人公","It's not that but...");
 ChEye(6,2);
 ChMouth(6,0);
@@ -67,8 +65,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_070");
-MsgDisp("Himuro","Besides, do you know how dangerous the ocean
-is?
+MsgDisp("Himuro","Besides, do you know how dangerous the
+ocean is?
 You could get swept out by a wave.");
 ChEye(6,2);
 ChMouth(6,0);

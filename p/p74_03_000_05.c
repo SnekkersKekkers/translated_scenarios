@@ -17,8 +17,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("P740300005_03_010");
-MsgDisp("Honda","Ehh?
-Why?
+MsgDisp("Honda","Ehh? Why?
 You have no reason to be embarrassed.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -34,8 +33,7 @@ ChMotion(3,3,1);
 VoicePlay("P740300005_03_030");
 MsgDisp("Honda","So, hold your chin up high!
 My bride!");
-MsgDisp("主人公","Ehh...∋
-T-Thank you, ｛Honda＊＊｝.");
+MsgDisp("主人公","Ehh...∋ T-Thank you, ｛Honda＊＊｝.");
 MsgDisp("主人公","(I might have failed but, I'm glad I
 continued with the Handicrafts club for the
 three years until now.)");

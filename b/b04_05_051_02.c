@@ -51,13 +51,11 @@ I'm sorry.");
         MsgDisp("Hiiragi","There's no need to apologise. Not only was I
 able to see the beautiful stars, but also
 your comfortable sleeping face.");
-        MsgDisp("主人公","Ehh∈
-｛Hiiragi＊＊＊｝, you saw?");
+        MsgDisp("主人公","Ehh∈ ｛Hiiragi＊＊＊｝, you saw?");
         ChMotion(5,4);
         VoicePlay("B040505102_05_050");
         MsgDisp("Hiiragi","Yes, I saw.");
-        MsgDisp("主人公","Hey...
-You should have woken me up.");
+        MsgDisp("主人公","Hey... You should have woken me up.");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -71,8 +69,7 @@ Even though you were that comfortable?");
         ChCheek(5,5);
         VoicePlay("B040505102_05_070");
         MsgDisp("Hiiragi","E-Embarrassing?
-Umm...
-I apologise.");
+Umm... I apologise.");
         VoicePlay("B040505102_05_080");
         MsgDisp("Hiiragi","I didn't intend on causing you that much
 embarrassment.");
@@ -86,8 +83,8 @@ I was the one who fell asleep...");
         MsgDisp("Hiiragi","Haha, we didn't even say our impressions on
 the planetarium.");
         MsgDisp("主人公","Hehe.
-Come to think of it, that is strange, isn't
-it?");
+Come to think of it, that is strange,
+isn't it?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040505102_05_100");

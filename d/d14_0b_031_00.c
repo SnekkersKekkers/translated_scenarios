@@ -15,8 +15,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("D140B03100_03_000");
-MsgDisp("Honda","Yes.
-That's why ramen is profound.");
+MsgDisp("Honda","Yes. That's why ramen is profound.");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,0);
@@ -43,8 +42,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D140B03100_03_010");
-MsgDisp("Honda","Why?
-How?
+MsgDisp("Honda","Why? How?
 Tell me why you dislike it that much.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -101,8 +99,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D140B03100_03_030");
-MsgDisp("Honda","Mi-kun, I'll teach you how to slurp ramen
-well.
+MsgDisp("Honda","Mi-kun, I'll teach you how to slurp
+ramen well.
 Next time it's decided, we'll have ramen!");
 ChEye(4,2);
 ChMouth(4,0);

@@ -4,8 +4,7 @@ ScrFadeIn(0);
 VoicePlay("G110501000_40_000");
 MsgDisp("School Boy","Hiiragi, don't leave your slip here.");
 VoicePlay("G110501000_05_000");
-MsgDisp("Hiiragi","Okay.
-I'll put it into the management book.");
+MsgDisp("Hiiragi","Okay. I'll put it into the management book.");
 MsgDisp("主人公","(The chairman of the Habataki Theatre Company
 is working in the student council room...
 It's a bit strange, isn't it.)");
@@ -19,8 +18,7 @@ SEPlay("EV_SE_712");
 ScrFadeIn(0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110501000_05_010");
-MsgDisp("Hiiragi","...Ahem.
-Is there something stuck to my face?");
+MsgDisp("Hiiragi","...Ahem. Is there something stuck to my face?");
 MsgDisp("主人公","No, sorry for staring.");
 ChEye(5,0);
 ChMouth(5,0);

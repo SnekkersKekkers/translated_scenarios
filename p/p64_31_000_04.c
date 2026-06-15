@@ -5,8 +5,7 @@ ScrFadeIn(0);
 VoicePlay("P643100004_31_000");
 MsgDisp("Goro","Nnngh～, the fresh vegetables are dancing in
 my mouth...!");
-MsgDisp("主人公","Hehe.
-Did you like it?");
+MsgDisp("主人公","Hehe. Did you like it?");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,1);

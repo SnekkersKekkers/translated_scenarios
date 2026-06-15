@@ -78,8 +78,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D140B05001_03_030");
-MsgDisp("Honda","Why?
-Who are you jealous of?");
+MsgDisp("Honda","Why? Who are you jealous of?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

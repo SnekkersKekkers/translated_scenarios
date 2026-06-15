@@ -11,8 +11,7 @@ switch (ChPrmGet(7,6)){
 decided by one glorious ippon?
 That's amazing.");
     MsgDisp("主人公","Thank you very much!");
-    MsgDisp("主人公","(Yay!
-I was praised by ｛Mikage＊＊｝!)");
+    MsgDisp("主人公","(Yay! I was praised by ｛Mikage＊＊｝!)");
     break ;
     case 4:
     case 5:

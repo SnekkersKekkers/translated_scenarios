@@ -47,8 +47,7 @@ together.");
         ChEye(4,0);
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_040");
-        MsgDisp("Nanatsumori","...So?
-What exactly are you going to do?");
+        MsgDisp("Nanatsumori","...So? What exactly are you going to do?");
         MsgDisp("主人公","How about I get a bit closer?");
         ChMotion(4,0,1);
         VoicePlay("B040417002_04_050");
@@ -96,8 +95,7 @@ Did you read my mind∋");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040417002_04_110");
-        MsgDisp("Nanatsumori","Hm?
-You mean to say that I'm cute?");
+        MsgDisp("Nanatsumori","Hm? You mean to say that I'm cute?");
         MsgDisp("主人公","No, that you're cool.");
         ChEye(4,4);
         ChMouth(4,3);
@@ -123,8 +121,7 @@ You mean to say that I'm cute?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040417002_04_140");
-        MsgDisp("Nanatsumori","Crap.
-I don't feel like singing anymore.
+        MsgDisp("Nanatsumori","Crap. I don't feel like singing anymore.
 Right?");
         MsgDisp("主人公","(Definitely.
 That might've been a bit too stimulating...)");

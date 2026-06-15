@@ -25,8 +25,7 @@ switch (MsgSelRsltGet()){
     ChMouth(22,3);
     ChMotion(22,5,1);
     VoicePlay("Q212200000_22_020");
-    MsgDisp("Hikaru","Yayy!
-Let's go get fired up!");
+    MsgDisp("Hikaru","Yayy! Let's go get fired up!");
     break ;
     case 1:
     ChEye(22,2);

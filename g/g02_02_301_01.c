@@ -17,8 +17,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230101_02_020");
 MsgDisp("Sassa","I'm happy about it.
-It means everyone is recognising your charm,
-right?");
+It means everyone is recognising your
+charm, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

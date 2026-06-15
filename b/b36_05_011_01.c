@@ -32,8 +32,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("B360501101_05_030");
 MsgDisp("Hiiragi","Haha, what do you think?
 Maybe he'll be angry along with Inori.");
-MsgDisp("主人公","Yeah.
-Should we invite them next time?");
+MsgDisp("主人公","Yeah. Should we invite them next time?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -48,8 +47,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B360501101_05_050");
-MsgDisp("Hiiragi","...Hehe.
-That face is unfair.");
+MsgDisp("Hiiragi","...Hehe. That face is unfair.");
 ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

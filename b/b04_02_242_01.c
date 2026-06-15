@@ -26,8 +26,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040224201_02_020");
-    MsgDisp("Sassa","Yeah.
-This is nice.
+    MsgDisp("Sassa","Yeah. This is nice.
 There's a homely feel.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

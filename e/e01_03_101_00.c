@@ -49,8 +49,7 @@ VoicePlay("E010310100_03_050");
 MsgDisp("Honda","At school, the teachers are quite willing to
 digress with me.
 But cram school is different.");
-MsgDisp("主人公","I see.
-Hehe, I can imagine that!");
+MsgDisp("主人公","I see. Hehe, I can imagine that!");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);

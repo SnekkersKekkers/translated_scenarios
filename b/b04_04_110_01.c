@@ -7,8 +7,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChCheek(4,5);
 VoicePlay("B040411001_04_000");
-MsgDisp("Nanatsumori","...What.
-Could you not stare at me so much?");
+MsgDisp("Nanatsumori","...What. Could you not stare at me so much?");
 MsgSel("I was just thinking you had a nice body.","I was just wondering if you could swim.","It's nothing▼");
 switch (MsgSelRsltGet()){
     case 0:

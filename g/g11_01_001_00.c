@@ -21,8 +21,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100100_01_000");
-MsgDisp("Kazama","Phew...
-I talked so much.
+MsgDisp("Kazama","Phew... I talked so much.
 It's this late already.");
 MsgDisp("主人公","It's gotten so late, huh?
 ...Hey, but didn't you have business with me?");

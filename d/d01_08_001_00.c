@@ -25,8 +25,8 @@ ChEyeOpenLevel(8,0);
 VoicePlay("D010800100_08_020");
 MsgDisp("Shirahane","Thank'ya for comin'～!");
 SEStop("EV_SE_589",2);
-MsgDisp("主人公","(Hehe, ｛Daichi＊＊｝ is doing well today,
-too.)");
+MsgDisp("主人公","(Hehe, ｛Daichi＊＊｝ is doing well
+today, too.)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(8);
@@ -52,8 +52,8 @@ MsgDisp("Shirahane","Ah, the coffee is free but please limit
 yourself to less than 20 cups!");
 VoicePlay("D010800100_43_030");
 MsgDisp("Man A","I'd be too full if I drank all that coffee.
-My mom will get mad at me if I don't eat
-dinner!");
+My mom will get mad at me if I don't
+eat dinner!");
 StlEyeOpenLevel(8,#1);
 VoicePlay("D010800100_08_060");
 MsgDisp("Shirahane","The shop would also go bankrupt due to coffee
@@ -73,8 +73,7 @@ That's okay, right?
 Daichi-kun▼");
 StlEyeOpenLevel(8,#1);
 VoicePlay("D010800100_08_080");
-MsgDisp("Shirahane","For our lady customers...
-Sure!
+MsgDisp("Shirahane","For our lady customers... Sure!
 Ya can have two handfuls!");
 SEPlay("EV_SE_634");
 Wait(50,0);

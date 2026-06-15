@@ -7,8 +7,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","It says...\"I got an unexpected email from the
 Hanatsubaki twins saying 'Good luck▼'
 What's that about?");
-    MsgDisp("主人公","(Ugh...
-I know exactly why.
+    MsgDisp("主人公","(Ugh... I know exactly why.
 Sorry, ｛Himuro＊＊｝...)");
     break ;
     case 4:

@@ -29,8 +29,8 @@ It's definitely got a face you can't hate.");
     ChEyeOpenLevel(1,7);
     VoicePlay("B040121201_01_020");
     MsgDisp("Kazama","Is that so?
-I think that horse's eyes look a bit crazy
-though.");
+I think that horse's eyes look a bit
+crazy though.");
     MsgDateResultDisp();
     break ;
     case 2:

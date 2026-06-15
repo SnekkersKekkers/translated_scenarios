@@ -40,8 +40,7 @@ you know.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040210100_02_030");
-    MsgDisp("Sassa","Eh?
-What about the drums?");
+    MsgDisp("Sassa","Eh? What about the drums?");
     MsgDateResultDisp();
     break ;
     default :

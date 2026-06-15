@@ -6,8 +6,7 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040621300_06_000");
-MsgDisp("Himuro","Whoa.
-So much fluff...");
+MsgDisp("Himuro","Whoa. So much fluff...");
 MsgSel("It's cute, right!","Let's pet them!","They look so delicate, it's scary.");
 switch (MsgSelRsltGet()){
     case 0:

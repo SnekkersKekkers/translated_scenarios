@@ -12,8 +12,7 @@ VoicePlay("N022100001_21_010");
 MsgDisp("Michiru","You're getting closer to first place.
 With your determination, I have no doubt you
 can do it.");
-MsgDisp("主人公","(Yeah.
-I'll work a little harder.)");
+MsgDisp("主人公","(Yeah. I'll work a little harder.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(21);

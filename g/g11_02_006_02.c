@@ -12,8 +12,8 @@ VoiceEVSPlay(2);
 VoicePlay("G110200602_02_000");
 MsgDisp("Sassa","｛主人公｝, I just jumped all the hurdles
 using image training.");
-MsgDisp("主人公","Yeah, it's a better time than the last track
-meet.");
+MsgDisp("主人公","Yeah, it's a better time than the last
+track meet.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -56,17 +56,17 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200602_02_050");
-MsgDisp("Sassa","That's why I'm going to keep going until I
-drop.");
+MsgDisp("Sassa","That's why I'm going to keep going until
+I drop.");
 MsgDisp("主人公","I'm rooting for you.
 But, please don't actually collapse, okay?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200602_02_060");
-MsgDisp("Sassa","If I just think about how you're waiting for
-me at the finish line, I'll find my way
-there.");
+MsgDisp("Sassa","If I just think about how you're waiting
+for me at the finish line, I'll find my
+way there.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);

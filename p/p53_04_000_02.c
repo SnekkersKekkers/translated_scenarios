@@ -61,17 +61,15 @@ Did you come to listen?");
     ChMotion(4,1,1);
     VoicePlay("P530400002_04_050");
     MsgDisp("Nanatsumori","Did you really think I wouldn't come?");
-    MsgDisp("主人公","No.
-I thought you'd come.");
+    MsgDisp("主人公","No. I thought you'd come.");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400002_04_060");
     MsgDisp("Nanatsumori","...Yeah.
-Seems like this will be your best performance
-yet.");
-    MsgDisp("主人公","Yes.
-I'll give it my all, yeah?");
+Seems like this will be your best
+performance yet.");
+    MsgDisp("主人公","Yes. I'll give it my all, yeah?");
     ChEye(4,4);
     ChMouth(4,4);
     ChCheek(4,5);

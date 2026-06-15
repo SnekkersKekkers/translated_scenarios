@@ -18,8 +18,7 @@ switch (ChPrmGet(5,6)){
     VoicePlay("R040500002_05_000");
     MsgDisp("Hiiragi","The guest of honour is calling me.
 Well then, if you'll excuse me.");
-    MsgDisp("主人公","Okay.
-See you later.");
+    MsgDisp("主人公","Okay. See you later.");
     break ;
     case 3:
     MsgDisp("","　　　　　　　　　　 ・
@@ -32,8 +31,7 @@ See you later.");
     ChMotion(5,4);
     VoicePlay("R040500002_05_010");
     MsgDisp("Hiiragi","Yeah, the ambiance here feels nice.
-I can feel that everyone is having fun...
-Ah.");
+I can feel that everyone is having fun... Ah.");
     MsgDisp("主人公","Is that the guest of honour?");
     ChEye(5,4);
     ChMotion(5,0);

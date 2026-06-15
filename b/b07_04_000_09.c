@@ -13,8 +13,7 @@ ChMouth(4,0);
 ChCheek(4,7);
 VoicePlay("B070400000_04_560");
 MsgDisp("Nanatsumori","Well...there has.
-But.
-But so what?");
+But. But so what?");
 MsgDisp("主人公","I was just curious about what that was like.");
 ChEye(4,2);
 ChMouth(4,4);

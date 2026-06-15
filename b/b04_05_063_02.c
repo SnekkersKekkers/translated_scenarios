@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040506302_05_000");
-MsgDisp("Hiiragi","The colour appears completely different to the
-summer sea.");
+MsgDisp("Hiiragi","The colour appears completely different to
+the summer sea.");
 MsgSel("As I thought, the summer sea is better.","It's nice that it has so many different faces, isn't it?","I might like the winter sea better.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -48,8 +48,8 @@ you, who suits the summer sea, have a relaxed
 air about you.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040506302_05_050");
-        MsgDisp("Hiiragi","The air that surrounds you is calmer and
-warmer.
+        MsgDisp("Hiiragi","The air that surrounds you is calmer
+and warmer.
 Once you touch it you can't let go—");
         ChEye(5,4);
         ChMotion(5,0);

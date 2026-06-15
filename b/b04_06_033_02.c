@@ -77,8 +77,7 @@ actions angered you, made you upset...");
         VoicePlay("B040603302_06_080");
         MsgDisp("Himuro","That's why if there's something wrong, I
 don't want you to hide it.");
-        MsgDisp("主人公","Yeah.
-I'll be sure to properly tell you.");
+        MsgDisp("主人公","Yeah. I'll be sure to properly tell you.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

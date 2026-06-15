@@ -39,8 +39,7 @@ I messed up my performance.");
     ChMouth(21,4);
     ChMotion(21,2);
     VoicePlay("H4A2100001_21_030");
-    MsgDisp("Michiru","Hm.
-I suppose that's so.");
+    MsgDisp("Michiru","Hm. I suppose that's so.");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,3);
@@ -53,8 +52,7 @@ Really.");
     ChMotion(21,4);
     VoicePlay("H4A2100001_21_050");
     MsgDisp("Michiru","Cheer up.
-I'll give Mari a special award.
-Okay?");
+I'll give Mari a special award. Okay?");
     MsgDisp("主人公","(｛みちる＊｝...
 I lost, but I'm glad I stayed in the rhythmic
 gymnastics club.)");

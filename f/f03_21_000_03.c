@@ -13,8 +13,7 @@ VoicePlay("F032100000_21_130");
 MsgDisp("Michiru","If we're cheering for the same person or
 team, it's fine, but if we're on opposite
 sides, it becomes a battle.");
-MsgDisp("主人公","Hehe!
-Seems like you two get along.");
+MsgDisp("主人公","Hehe! Seems like you two get along.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,2);

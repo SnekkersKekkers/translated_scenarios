@@ -5,8 +5,7 @@ ChCheek(1,7);
 VoicePlay("B020100014_01_000");
 MsgDisp("Kazama","You're kidding me...
 That outfit...");
-MsgDisp("主人公","Ah!
-They're the same!");
+MsgDisp("主人公","Ah! They're the same!");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);

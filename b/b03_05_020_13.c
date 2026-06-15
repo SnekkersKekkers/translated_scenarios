@@ -32,8 +32,8 @@ Did something catch your eye?");
     ChEye(5,3);
     ChMouth(5,3);
     VoicePlay("B030502002_05_010");
-    MsgDisp("Hiiragi","So do I.
-Let's hurry, the boat's about to set sail!");
+    MsgDisp("Hiiragi","So do I. Let's hurry, the boat's about to
+set sail!");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     break ;

@@ -9,9 +9,9 @@ That cheap snack?");
 ChEye(5,4);
 ChMotion(5,0,1);
 VoicePlay("B070500000_05_070");
-MsgDisp("Hiiragi","Yes.
-I always eat too much. Even if I limit myself
-to one, there's a devilish charm to it.");
+MsgDisp("Hiiragi","Yes. I always eat too much.
+Even if I limit myself to one, there's a
+devilish charm to it.");
 MsgDisp("主人公","Hehe, you liking Fugashi is a somewhat
 interesting combo, ｛Hiiragi＊＊＊｝.");
 ChEye(5,0);
@@ -34,8 +34,7 @@ VoicePlay("B070500000_05_100");
 MsgDisp("Hiiragi","That goes well with green tea.
 Goodness, it really ruins people.
 A food just like the devil.");
-MsgDisp("主人公","(Hehe!
-｛Hiiragi＊＊＊｝, you really like it huh?)");
+MsgDisp("主人公","(Hehe! ｛Hiiragi＊＊＊｝, you really like it huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

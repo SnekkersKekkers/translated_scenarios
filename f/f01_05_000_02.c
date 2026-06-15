@@ -10,8 +10,7 @@ switch (MsgSelRsltGet()){
         BGMPlay("BGM_C05_HIIRAGI_A",0.01);
         ChOpen(5,254,0,0,0,#1,#1,0,0);
         VoicePlay("F010500002_05_000");
-        MsgDisp("Hiiragi","Yes.
-What is it?");
+        MsgDisp("Hiiragi","Yes. What is it?");
         MsgDisp("主人公","If it's alright, how about we walk home
 together?");
         break ;
@@ -36,8 +35,7 @@ together?");
         MsgDisp("Hiiragi","Meeting others unexpectedly after the bell
 rings is one of the greatest pleasures of
 high school life. You, especially.");
-        MsgDisp("主人公","Hehe.
-How about we walk home together?");
+        MsgDisp("主人公","Hehe. How about we walk home together?");
         break ;
         default :
         DbgAssert(1);

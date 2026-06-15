@@ -39,8 +39,8 @@ VoicePlay("G110700200_07_020");
 MsgDisp("Mikage","The air in there's bad.
 Ah, I'm talking about the atmosphere, not the
 air conditioning, yeah?");
-MsgDisp("主人公","You'll get in trouble for saying things like
-that.");
+MsgDisp("主人公","You'll get in trouble for saying things
+like that.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

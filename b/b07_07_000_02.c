@@ -13,8 +13,7 @@ ChMotion(7,5);
 ChEyeOpenLevel(7,0);
 VoicePlay("B070700000_07_070");
 MsgDisp("Mikage","Hiyashi Chuuka!");
-MsgDisp("主人公","Eh?
-That's kind of surprising...?");
+MsgDisp("主人公","Eh? That's kind of surprising...?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

@@ -60,8 +60,8 @@ I've never been on a long boat trip before.");
         ChMotion(5,4);
         VoicePlay("B040502202_05_050");
         MsgDisp("Hiiragi","Before coming to Habataki City, I travelled
-all over the country, but it wasn't on a sea
-voyage.");
+all over the country, but it wasn't on a
+sea voyage.");
         MsgDisp("主人公","I see.
 ｛Hiiragi＊＊＊｝ is accustomed to travelling.");
         ChEye(5,0);
@@ -79,13 +79,14 @@ of different areas, and that part was fun.");
         ChEye(5,2);
         ChMotion(5,2);
         VoicePlay("B040502202_05_080");
-        MsgDisp("Hiiragi","But it must be harder on a young child,
-right?");
+        MsgDisp("Hiiragi","But it must be harder on a young
+child, right?");
         MsgDisp("主人公","That's right.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040502202_05_090");
-        MsgDisp("Hiiragi","Now I'm able to attend Habataki High full-time.
+        MsgDisp("Hiiragi","Now I'm able to attend Habataki High
+full-time.
 There's nothing that makes me happier.");
         ChMotion(5,4);
         VoicePlay("B040502202_05_100");

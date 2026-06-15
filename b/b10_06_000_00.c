@@ -1,24 +1,20 @@
 ChClose(6,0,0);
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-Today was a fail...)");
+MsgDisp("主人公","(Sigh... Today was a fail...)");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","Huh?
-My phone...
+MsgDisp("主人公","Huh? My phone...
 It's ｛Himuro＊＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Hello.");
 VoicePlay("B100600000_06_000");
 MsgDisp("Himuro","It's me.
-About today... there's something I wanted to
-say.");
-MsgDisp("主人公","Um...
-I—");
+About today... there's something I wanted
+to say.");
+MsgDisp("主人公","Um... I—");
 VoicePlay("B100600000_06_010");
-MsgDisp("Himuro","Stop.
-I don't want to hear it.");
+MsgDisp("Himuro","Stop. I don't want to hear it.");
 VoicePlay("B100600000_06_020");
 MsgDisp("Himuro","I also went a bit too far.
 Let's put today behind us.");
@@ -29,8 +25,8 @@ other anymore.
 That's all I had to say. ...Goodnight.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Himuro＊＊｝...went to the trouble of calling
-me.
+MsgDisp("主人公","(｛Himuro＊＊｝...went to the trouble of
+calling me.
 I'm so happy.)");
 MsgClose();
 ScrFadeOut(0,0);

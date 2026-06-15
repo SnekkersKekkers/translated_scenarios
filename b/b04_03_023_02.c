@@ -68,8 +68,7 @@ Well, let's get started.");
         MsgClose();
         ChOpen(3,255,4,0,0,#1,#1,0,0);
         VoicePlay("B040302302_03_060");
-        MsgDisp("Honda","Ahh...
-That feels good.");
+        MsgDisp("Honda","Ahh... That feels good.");
         MsgDisp("主人公","Y-Yeah.
 I'm a bit tired, but that was fun.");
         ChEye(3,0);
@@ -93,8 +92,7 @@ running might be good for you.");
         MsgDisp("Honda","Yeah, that's right!
 When I look at you, I start noticing your
 hair, eyes, ears, nose, and-");
-        MsgDisp("主人公","What∋
-Don't stare at me so hard!");
+        MsgDisp("主人公","What∋ Don't stare at me so hard!");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);

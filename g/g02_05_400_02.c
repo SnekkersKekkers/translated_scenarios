@@ -9,8 +9,8 @@ VoicePlay("G020540002_05_010");
 MsgDisp("Hiiragi","It's mysterious.
 There are also rumours about inner voices,
 just how many secrets are there...");
-MsgDisp("主人公","Could it be due to the benefits of the spring
-water?");
+MsgDisp("主人公","Could it be due to the benefits of the
+spring water?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020540002_05_020");
@@ -26,8 +26,7 @@ ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("G020540002_05_040");
 MsgDisp("Hiiragi","Are you not able to hear it?");
-MsgDisp("主人公","Eh∋
-｛Hiiragi＊＊＊｝ can hear it?");
+MsgDisp("主人公","Eh∋ ｛Hiiragi＊＊＊｝ can hear it?");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("G020540002_05_050");

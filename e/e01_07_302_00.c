@@ -5,8 +5,7 @@ MsgDisp("主人公","(Phew, I should go home soon...)");
 VoicePlay("E010730200_07_000");
 MsgDisp("Mikage?","Inori, if you add some fried vegetables,
 it'll taste even better.");
-MsgDisp("主人公","(Huh?
-That voice just now was...)");
+MsgDisp("主人公","(Huh? That voice just now was...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);

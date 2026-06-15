@@ -13,8 +13,7 @@ VoicePlay("M010500000_05_020");
 MsgDisp("Hiiragi","...I see.
 I can rest easy now that I've heard your
 voice. Please rest. Take care.");
-MsgDisp("主人公","Eh∋
-Wait a minute...!");
+MsgDisp("主人公","Eh∋ Wait a minute...!");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -47,8 +46,8 @@ ChEye(5,2);
 ChMotion(5,1);
 VoicePlay("M010500000_05_070");
 MsgDisp("Hiiragi","I became a wandering-eyed and strange person.");
-MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, that doesn't sound like
-you.");
+MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, that doesn't sound
+like you.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("M010500000_05_080");
@@ -66,8 +65,7 @@ VoicePlay("M010500000_05_100");
 MsgDisp("Hiiragi","For now, please continue to exercise
 restraint. Please quickly return to full
 health and then you may attend class.");
-MsgDisp("主人公","Yes.
-｛Hiiragi＊＊＊｝, you're like a doctor.");
+MsgDisp("主人公","Yes. ｛Hiiragi＊＊＊｝, you're like a doctor.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,2);

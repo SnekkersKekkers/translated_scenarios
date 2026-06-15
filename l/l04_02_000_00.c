@@ -48,16 +48,15 @@ I was looking for you, ｛Sassa＊＊｝.");
     ChMotion(2,3);
     VoicePlay("L040200000_02_030");
     MsgDisp("Sassa","Yeah.
-I know, so I've been looking all over for
-you.");
+I know, so I've been looking all over
+for you.");
     MsgDisp("主人公","Oh, is that so?");
     ChEye(2,3);
     ChMouth(2,4);
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("L040200000_02_040");
-    MsgDisp("Sassa","Yeah.
-I've been waiting since yesterday.");
+    MsgDisp("Sassa","Yeah. I've been waiting since yesterday.");
     MsgDisp("主人公","Hehe, thank you for waiting.
 Here's your Valentine's chocolate.");
     SEPlay("EV_SE_665");

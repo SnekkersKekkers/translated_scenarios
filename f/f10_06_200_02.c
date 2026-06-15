@@ -7,8 +7,8 @@ VoicePlay("F100620002_06_000");
 MsgDisp("Himuro?","I don't want to stand in line again...");
 VoicePlay("F100620002_03_000");
 MsgDisp("Honda?","Really?
-But good restaurants always have lines,
-right?");
+But good restaurants always have
+lines, right?");
 MsgDisp("主人公","(These voices...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -57,8 +57,7 @@ VoicePlay("F100620002_03_030");
 MsgDisp("Honda","Ehh, really?
 Then, I guess it'll just be you and me, let's
 go together again!");
-MsgDisp("主人公","Eh, me?
-Hehe, yeah.
+MsgDisp("主人公","Eh, me? Hehe, yeah.
 Of course.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -77,8 +76,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("F100620002_03_040");
-MsgDisp("Honda","Hm?
-Nori-kun too?");
+MsgDisp("Honda","Hm? Nori-kun too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

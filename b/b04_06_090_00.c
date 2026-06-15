@@ -6,8 +6,8 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040609000_06_000");
-MsgDisp("Himuro","It might be fitting to say it's a sea of
-green.");
+MsgDisp("Himuro","It might be fitting to say it's a sea
+of green.");
 MsgSel("This flower has an amazing smell...","It's so humid and clammy in here, huh?","Where are the carnivorous plants?");
 switch (MsgSelRsltGet()){
     case 0:

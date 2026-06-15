@@ -41,16 +41,15 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("K020701000_07_040");
-MsgDisp("Mikage","Besides, having an easy birthday like yours
-helps.");
+MsgDisp("Mikage","Besides, having an easy birthday like
+yours helps.");
 MsgDisp("主人公","Hehe, I guess it is easy to remember.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 ChEyeOpenLevel(7,7);
 VoicePlay("K020701000_07_050");
-MsgDisp("Mikage","Yeah.
-As long as I live, I won't forget it.");
+MsgDisp("Mikage","Yeah. As long as I live, I won't forget it.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

@@ -11,8 +11,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-There's a lot of people over there.");
+MsgDisp("主人公","Huh? There's a lot of people over there.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -30,8 +29,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B30400_01_000");
-MsgDisp("Kazama","Ehhh.
-Is that woman the model?");
+MsgDisp("Kazama","Ehhh. Is that woman the model?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -79,8 +77,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B30400_04_050");
 MsgDisp("Nanatsumori","...I kinda get the feeling Dahon means
-something different when he says kids love
-nature.");
+something different when he says kids
+love nature.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

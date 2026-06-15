@@ -35,12 +35,10 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(22);
-MsgDisp("主人公","(Maybe I'll go see it later...
-Hm?)");
+MsgDisp("主人公","(Maybe I'll go see it later... Hm?)");
 VoicePlay("F102210000_40_000");
 MsgDisp("Garden Club","The flowers are missing from the flowerbed!
 Who took them without permission∋");
-MsgDisp("主人公","(Eh?
-It couldn't be...)");
+MsgDisp("主人公","(Eh? It couldn't be...)");
 MsgClose();
 ScrFadeOut(0,0);

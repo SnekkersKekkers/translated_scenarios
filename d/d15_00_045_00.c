@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("D150004500_04_000");
 MsgDisp("Nanatsumori","Yano-san.
-Do you keep track of your schedule on your
-own?");
+Do you keep track of your schedule on
+your own?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,3);
@@ -31,15 +31,14 @@ ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,5);
 VoicePlay("D150004500_04_020");
-MsgDisp("Nanatsumori","Eh, no.
-It's just a hobby.");
+MsgDisp("Nanatsumori","Eh, no. It's just a hobby.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D150004500_05_020");
 MsgDisp("Hiiragi","I see.
-I keep my school time separate from work
-time.");
+I keep my school time separate from
+work time.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);

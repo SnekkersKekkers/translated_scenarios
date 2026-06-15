@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523402_05_010");
-    MsgDisp("Hiiragi","Hey!
-It's no laughing matter.");
+    MsgDisp("Hiiragi","Hey! It's no laughing matter.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,14 +45,13 @@ It's no laughing matter.");
         ChMotion(5,4);
         VoicePlay("B040523402_05_030");
         MsgDisp("Hiiragi","Are you alright?");
-        MsgDisp("主人公","Yeah.
-What about you, ｛Hiiragi＊＊＊｝?");
+        MsgDisp("主人公","Yeah. What about you, ｛Hiiragi＊＊＊｝?");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040523402_05_040");
-        MsgDisp("Hiiragi","If I wasn't, your spinning would've done me
-in.");
+        MsgDisp("Hiiragi","If I wasn't, your spinning would've done
+me in.");
         MsgDisp("主人公","I'm sorry.
 Did I spin it too much?");
         ChEye(5,2);
@@ -64,8 +62,8 @@ stop it.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040523402_05_060");
-        MsgDisp("Hiiragi","But, you should avoid doing that with anyone
-else.");
+        MsgDisp("Hiiragi","But, you should avoid doing that with
+anyone else.");
         MsgDisp("主人公","Eh?");
         ChEye(5,3);
         VoicePlay("B040523402_05_070");

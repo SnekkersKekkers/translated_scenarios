@@ -65,8 +65,7 @@ Can you try shutting your eyes?");
         ScrFadeOut(0,0);
         SEPlay("EV_SE_543");
         SEWait();
-        MsgDisp("主人公","Wah!
-Huh...something smells nice.");
+        MsgDisp("主人公","Wah! Huh...something smells nice.");
         EnvPlay("SE_ENV_BG_WF720_CO2",0.5);
         ScrFadeIn(0);
         ChEye(3,0);
@@ -105,15 +104,15 @@ Do you feel anything else?");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040306502_03_090");
-        MsgDisp("Honda","They say the compounds in lemongrass might
-work as a love potion...or something like
-that?");
+        MsgDisp("Honda","They say the compounds in lemongrass
+might work as a love potion...or
+something like that?");
         MsgDisp("主人公","Eehhh!");
         ChSet(3,4);
         ChCheek(3,10);
         VoicePlay("B040306502_03_100");
-        MsgDisp("Honda","I was wondering if you'd fall in love with
-me.");
+        MsgDisp("Honda","I was wondering if you'd fall in love
+with me.");
         MsgDisp("主人公","You don't have to do that...");
         MsgClose();
         SEPlay("EV_SE_628");

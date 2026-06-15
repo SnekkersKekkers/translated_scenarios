@@ -24,8 +24,8 @@ MsgDisp("Hikaru","Oh!
 Do you remember the fortune telling girl from
 last year?");
 MsgDisp("主人公","Ah...
-The one who ｛ひかる＊｝ consulted about
-love?");
+The one who ｛ひかる＊｝ consulted
+about love?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -38,8 +38,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F112210001_22_040");
-MsgDisp("Hikaru","Hehe～
-So Hikaru's very happy～");
+MsgDisp("Hikaru","Hehe～ So Hikaru's very happy～");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);

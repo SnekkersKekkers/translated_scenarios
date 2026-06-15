@@ -7,8 +7,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,1);
     VoicePlay("L040400006_04_000");
     MsgDisp("Nanatsumori","This is...safe to eat, right?");
-    MsgDisp("主人公","Huh?
-I think it's fine, though...");
+    MsgDisp("主人公","Huh? I think it's fine, though...");
     ChMotion(4,2);
     VoicePlay("L040400006_04_010");
     MsgDisp("Nanatsumori","Hey, don't sound so unsure...
@@ -18,8 +17,7 @@ I'll accept your feelings.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Ugh...
-I wish I tried a little harder...)");
+    MsgDisp("主人公","(Ugh... I wish I tried a little harder...)");
     break ;
     case 3:
     ChEye(4,0);
@@ -45,8 +43,7 @@ Thank you.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Ugh...
-I wish I tried a little harder...)");
+    MsgDisp("主人公","(Ugh... I wish I tried a little harder...)");
     break ;
     case 4:
     case 5:
@@ -56,14 +53,12 @@ I wish I tried a little harder...)");
     VoicePlay("L040400006_04_050");
     MsgDisp("Nanatsumori","Handmade chocolate...
 What would you rate this?");
-    MsgDisp("主人公","Ugh...
-Sorry, I messed up a little.");
+    MsgDisp("主人公","Ugh... Sorry, I messed up a little.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1);
     VoicePlay("L040400006_04_060");
-    MsgDisp("Nanatsumori","Yeah.
-But, you did your best, right?");
+    MsgDisp("Nanatsumori","Yeah. But, you did your best, right?");
     MsgDisp("主人公","Yes.");
     ChMotion(4,0);
     VoicePlay("L040400006_04_070");

@@ -16,8 +16,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B360318000_03_010");
-MsgDisp("Honda","I don't really have anything specific in
-mind.");
+MsgDisp("Honda","I don't really have anything specific
+in mind.");
 MsgDisp("主人公","Really..?");
 ChEye(3,4);
 ChMouth(3,4);
@@ -31,16 +31,15 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360318000_03_030");
-MsgDisp("Honda","Yeah, with Ryo-kun and Mi-kun around
-earlier, I didn't get to talk to you enough.");
+MsgDisp("Honda","Yeah, with Ryo-kun and Mi-kun around earlier,
+I didn't get to talk to you enough.");
 MsgDisp("主人公","Haha, I see.
 Well, we can save the movie for another time.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("B360318000_03_040");
-MsgDisp("Honda","Yay!
-Thanks!");
+MsgDisp("Honda","Yay! Thanks!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

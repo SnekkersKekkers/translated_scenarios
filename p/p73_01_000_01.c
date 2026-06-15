@@ -57,8 +57,7 @@ parent watching their kid's play.");
     ChMotion(1,3);
     VoicePlay("P730100001_01_050");
     MsgDisp("Kazama","Look at me properly and pose, okay?");
-    MsgDisp("主人公","Ehh?
-Y-Yeah...!");
+    MsgDisp("主人公","Ehh? Y-Yeah...!");
     MsgDisp("主人公","(｛Kazama＊＊｝ praised me...
 Alright, let's hold our head up high!)");
     MsgClose();
@@ -113,8 +112,7 @@ your work with your own appeal.");
     ChMotion(1,3);
     VoicePlay("P730100001_01_110");
     MsgDisp("Kazama","Crap, I have to go reserve a spot too.");
-    MsgDisp("主人公","Hehe.
-Yeah, I'll see you later!");
+    MsgDisp("主人公","Hehe. Yeah, I'll see you later!");
     MsgClose();
     ChClose(1,0,30);
     MsgDisp("主人公","(｛Kazama＊＊｝ praised me well.

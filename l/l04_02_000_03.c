@@ -85,8 +85,8 @@ It looks good enough to sell.");
     ChMotion(2,3);
     VoicePlay("L040200003_02_090");
     MsgDisp("Sassa","That's not true.
-I'm really happy you thought about my tastes,
-too.");
+I'm really happy you thought about my
+tastes, too.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,0);
@@ -94,14 +94,12 @@ too.");
     MsgDisp("Sassa","But if it's this perfect, I don't want to
 bite it or crack it...
 What should I do?");
-    MsgDisp("主人公","What?
-What should you do...just eat it?");
+    MsgDisp("主人公","What? What should you do...just eat it?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200003_02_110");
-    MsgDisp("Sassa","I can't.
-That's it, let's eat this together.
+    MsgDisp("Sassa","I can't. That's it, let's eat this together.
 Okay?");
     MsgDisp("主人公","No, eat it slowly at home.");
     ChEye(2,0);

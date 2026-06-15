@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040420001_04_010");
-    MsgDisp("Nanatsumori","Seriously?
-What?
+    MsgDisp("Nanatsumori","Seriously? What?
 Don't just make stuff up.");
     MsgDateResultDisp();
     break ;

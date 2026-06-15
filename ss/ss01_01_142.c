@@ -2,6 +2,5 @@ ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("SS0101142_01_000");
-MsgDisp("Kazama","Hmm?
-A hug?");
+MsgDisp("Kazama","Hmm? A hug?");
 MsgClose();

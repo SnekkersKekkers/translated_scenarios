@@ -38,8 +38,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A20701_02_010");
-MsgDisp("Sassa","Watching you unwind makes us feel relaxed
-too.
+MsgDisp("Sassa","Watching you unwind makes us feel
+relaxed too.
 Right?");
 ChCheek(1,0);
 ChCheek(6,0);
@@ -65,8 +65,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChCheek(2,0);
 VoicePlay("B330A20701_02_020");
-MsgDisp("Sassa","Hm?
-What's up.");
+MsgDisp("Sassa","Hm? What's up.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

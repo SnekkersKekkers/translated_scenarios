@@ -37,8 +37,8 @@ ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10201_01_010");
-MsgDisp("Kazama","I don't lack that much common sense, you
-know.");
+MsgDisp("Kazama","I don't lack that much common sense,
+you know.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -85,8 +85,7 @@ ChEye(4,1);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B10201_04_030");
-MsgDisp("Nanatsumori","Stop!
-Stop...talking about bugs already.");
+MsgDisp("Nanatsumori","Stop! Stop...talking about bugs already.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -103,8 +102,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B330B10201_03_040");
 MsgDisp("Honda","But the lures sure are well made aren't they?
-You could even mistake them for the real
-thing.");
+You could even mistake them for the
+real thing.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

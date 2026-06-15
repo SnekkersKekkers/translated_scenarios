@@ -24,8 +24,9 @@ As expected of Mikage-sensei...");
     VoicePlay("P130500000_05_010");
     MsgDisp("Hiiragi","Yes, I felt as if I were drawn in.
 What is this?");
-    MsgDisp("主人公","A giant maze. If you can reach the end goal,
-you get to drink freshly squeezed milk?");
+    MsgDisp("主人公","A giant maze.
+If you can reach the end goal, you get to
+drink freshly squeezed milk?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -33,8 +34,7 @@ you get to drink freshly squeezed milk?");
     VoicePlay("P130500000_05_020");
     MsgDisp("Hiiragi","Wow, that's overwhelming...
 At any rate, I'll take the challenge, please.");
-    MsgDisp("主人公","Yay♪
-Entry for one please～!");
+    MsgDisp("主人公","Yay♪ Entry for one please～!");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -55,14 +55,14 @@ drink freshly squeezed milk～");
     VoicePlay("P130500000_05_040");
     MsgDisp("Hiiragi","Yes, it was your class who did this.
 It's amazing, isn't it; this idea?");
-    MsgDisp("主人公","If you're interested, surely you can try it
-out?");
+    MsgDisp("主人公","If you're interested, surely you can try
+it out?");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P130500000_05_050");
-    MsgDisp("Hiiragi","Maze, cow, cow milk...and you in a cow-print
-shirt.
+    MsgDisp("Hiiragi","Maze, cow, cow milk...and you in a
+cow-print shirt.
 I'm already intrigued.");
     ChEye(5,0);
     ChMouth(5,3);
@@ -70,8 +70,7 @@ I'm already intrigued.");
     VoicePlay("P130500000_05_060");
     MsgDisp("Hiiragi","I accept this challenge from you and
 Mikage-sensei.");
-    MsgDisp("主人公","Yes♪
-Admission for one～!");
+    MsgDisp("主人公","Yes♪ Admission for one～!");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

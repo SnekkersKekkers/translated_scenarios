@@ -16,15 +16,14 @@ switch (ChPrmGet(7,6)){
     VoicePlay("S120700005_07_000");
     MsgDisp("Mikage","We made it safe and sound.
 Give my regards to your family.");
-    MsgDisp("主人公","Yep.
-Thank you very much for today. And thank you
-for taking me on my last shrine visit...");
+    MsgDisp("主人公","Yep. Thank you very much for today.
+And thank you for taking me on my last shrine
+visit...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700005_07_010");
-    MsgDisp("Mikage","You...
-Stop it, you idiot.
+    MsgDisp("Mikage","You... Stop it, you idiot.
 You're two months too early!");
     ChEye(7,0);
     ChMouth(7,0);

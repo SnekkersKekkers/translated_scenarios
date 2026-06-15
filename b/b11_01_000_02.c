@@ -15,10 +15,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,1,0,#1,#1,0,0);
 VoicePlay("B110100002_35_010");
-MsgDisp("Guy","Eh?
-It's here, it's here, my money maker～!");
-MsgDisp("主人公","Eh∋
-Money maker?");
+MsgDisp("Guy","Eh? It's here, it's here, my money maker～!");
+MsgDisp("主人公","Eh∋ Money maker?");
 ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110100002_35_020");
@@ -29,8 +27,7 @@ MsgDisp("主人公","What does that mean?");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110100002_35_030");
-MsgDisp("Guy","Ehh∋
-The kids these days are sharp.
+MsgDisp("Guy","Ehh∋ The kids these days are sharp.
 Okay, let's split it 50-50!");
 MsgDisp("主人公","U-Um...");
 ChEye(35,0);
@@ -92,8 +89,8 @@ ChEye(35,1);
 ChMouth(35,1);
 ChEyeOpenLevel(35,0);
 VoicePlay("B110100002_35_080");
-MsgDisp("Guy","Being ignored is the hardest thing at this
-age.");
+MsgDisp("Guy","Being ignored is the hardest thing at
+this age.");
 MsgDispSksp(1,5);
 ChEye(1,0);
 ChMouth(1,1);

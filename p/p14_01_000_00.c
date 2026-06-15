@@ -16,15 +16,14 @@ ChMotion(1,3);
 VoicePlay("P140100000_01_010");
 MsgDisp("Kazama","Yeah, there were a lot of people who turned
 back there, and got lost.");
-MsgDisp("主人公","Yay!
-That was a huge success, huh?");
+MsgDisp("主人公","Yay! That was a huge success, huh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("P140100000_01_020");
-MsgDisp("Kazama","Both Molly's milk and the baby cow mascot
-are super popular.");
+MsgDisp("Kazama","Both Molly's milk and the baby cow mascot are
+super popular.");
 MsgDisp("主人公","Hey.");
 ChEye(1,4);
 ChMouth(1,3);

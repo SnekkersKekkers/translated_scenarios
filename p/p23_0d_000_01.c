@@ -28,8 +28,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("P230D00001_21_010");
-MsgDisp("Michiru","Hehe.
-A Cupid warrior of love.
+MsgDisp("Michiru","Hehe. A Cupid warrior of love.
 That certainly sounds interesting.");
 ChEye(22,0);
 ChMouth(22,3);
@@ -40,8 +39,8 @@ white, and Hikaru and the others are purple
 and pink. That's perfect!");
 MsgDisp("主人公","Haha...");
 VoicePlay("P230D00001_47_000");
-MsgDisp("Broadcast","We will now begin Habataki High School's
-play.");
+MsgDisp("Broadcast","We will now begin Habataki High
+School's play.");
 SEPlay("EV_SE_038");
 SEWait();
 ChEye(21,0);
@@ -53,8 +52,8 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P230D00001_22_030");
-MsgDisp("Hikaru","Well, let's just enjoy it as a different
-series!");
+MsgDisp("Hikaru","Well, let's just enjoy it as a
+different series!");
 MsgDisp("主人公","Yeah.");
 MsgClose();
 ScrFadeOut(0,0);

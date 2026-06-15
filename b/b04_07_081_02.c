@@ -71,8 +71,8 @@ growing every year?");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040708102_07_060");
-        MsgDisp("Mikage","You guys are growing up so fast around me,
-right?
+        MsgDisp("Mikage","You guys are growing up so fast around
+me, right?
 What about me in comparison?");
         MsgDisp("主人公","｛Mikage＊＊｝'s growth, huh...?");
         ChEye(7,2);

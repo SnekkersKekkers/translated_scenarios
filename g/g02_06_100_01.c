@@ -43,8 +43,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610001_06_060");
-MsgDisp("Himuro","I want to watch fireflies together like this
-again.");
+MsgDisp("Himuro","I want to watch fireflies together like
+this again.");
 MsgDisp("主人公","...Yeah.");
 ChEye(6,0);
 ChMouth(6,4);

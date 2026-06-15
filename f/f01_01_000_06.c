@@ -45,8 +45,7 @@ I'll go home alone.)");
     ChEyeOpenLevel(1,8);
     VoicePlay("F010100006_01_030");
     MsgDisp("Kazama","I can't go with you today.");
-    MsgDisp("主人公","Okay.
-It sucks, but it can't be helped.");
+    MsgDisp("主人公","Okay. It sucks, but it can't be helped.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -54,8 +53,8 @@ It sucks, but it can't be helped.");
     VoicePlay("F010100006_01_040");
     MsgDisp("Kazama","You give up too easily.");
     MsgDisp("主人公","Huh?
-But, doesn't ｛Kazama＊＊｝ have errands to
-run?");
+But, doesn't ｛Kazama＊＊｝ have errands
+to run?");
     ChMotion(1,3);
     ChEyeOpenLevel(1,0);
     Wait(8,0);

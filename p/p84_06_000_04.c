@@ -23,11 +23,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("P840600004_06_020");
-MsgDisp("Himuro","Yeah.
-I thought you were reliable.
+MsgDisp("Himuro","Yeah. I thought you were reliable.
 As expected.");
-MsgDisp("主人公","(Yay!
-｛Himuro＊＊｝ praised me!)");
+MsgDisp("主人公","(Yay! ｛Himuro＊＊｝ praised me!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

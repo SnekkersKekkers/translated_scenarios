@@ -2,8 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(It's time to go home, I guess.)");
-MsgDisp("主人公","(...Huh?
-｛Kazama＊＊｝ is over there.
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there.
 Might as well chat a bit before I head home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -38,8 +37,7 @@ MsgDisp("Kazama","I wonder if that's a good thing or not?");
 ChMouthOpenLevel(1,0);
 VoicePlay("A010000000_01_021");
 MsgDisp("Ryota","Over here!
-I think I heard it over here!
-Come!");
+I think I heard it over here! Come!");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,0);

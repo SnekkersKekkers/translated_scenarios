@@ -15,8 +15,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020410100_04_020");
-MsgDisp("Nanatsumori","Mhmm.
-Yeah, it's a question for you.");
+MsgDisp("Nanatsumori","Mhmm. Yeah, it's a question for you.");
 MsgDisp("主人公","Okay.");
 ChMotion(4,1,1);
 VoicePlay("G020410100_04_030");
@@ -48,11 +47,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020410100_04_070");
-MsgDisp("Nanatsumori","So I'm very happy right now.
-Okay?");
+MsgDisp("Nanatsumori","So I'm very happy right now. Okay?");
 MsgDisp("主人公","(...Right now?
-What are you keeping all to yourself?
-Me??)");
+What are you keeping all to yourself? Me??)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

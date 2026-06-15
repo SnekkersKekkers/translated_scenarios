@@ -36,8 +36,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("F020100011_01_030");
-MsgDisp("Kazama","Sigh...
-What about hanging out together?
+MsgDisp("Kazama","Sigh... What about hanging out together?
 You didn't mention any of that.");
 MsgDisp("主人公","Yes, we can do that!");
 ChEye(1,4);

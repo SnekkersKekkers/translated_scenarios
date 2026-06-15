@@ -19,8 +19,7 @@ to come with me to the shrine?");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040400000_04_020");
-        MsgDisp("Nanatsumori","OK.
-Ok then, I'll pick you up.");
+        MsgDisp("Nanatsumori","OK. Ok then, I'll pick you up.");
         MsgDisp("主人公","Okay, got it.");
         SEWait();
         MsgDisp("主人公","(A shrine visit with ｛Nanatsumori＊｝!
@@ -67,8 +66,7 @@ What do you think?");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040400000_04_080");
-        MsgDisp("Nanatsumori","Yes!
-Okay, I'm coming to pick you up now.");
+        MsgDisp("Nanatsumori","Yes! Okay, I'm coming to pick you up now.");
         MsgDisp("主人公","Okay, got it.");
         VoicePlay("S040400000_04_090");
         MsgDisp("Nanatsumori","Ah, you'll take a while to get ready, huh?");
@@ -79,8 +77,8 @@ Just make the right decision.
 See you soon.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I feel like he's expecting something from
-me...
+        MsgDisp("主人公","(I feel like he's expecting something
+from me...
 Hmm, what to wear?)");
         MsgClose();
         ScrFadeOut(0,0);
@@ -95,8 +93,7 @@ New Year's is a really busy day, I guess.");
         MsgDisp("主人公","I'm really sorry.");
         VoicePlay("S040400000_04_130");
         MsgDisp("Nanatsumori","Don't worry about it.
-It's cold, so try not to get sick.
-Bye...");
+It's cold, so try not to get sick. Bye...");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he went through all the trouble

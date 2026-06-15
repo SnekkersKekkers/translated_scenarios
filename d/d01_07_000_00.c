@@ -4,15 +4,14 @@ ScrFadeIn(0);
 Wait(20,0);
 VoicePlay("D010700000_07_000");
 MsgDisp("Mikage","Alright.
-Once you're finished taking notes, you can
-leave.");
+Once you're finished taking notes, you
+can leave.");
 SEPlay("EV_SE_666",0.8,0.6);
 VoicePlay("D010700000_42_000");
 MsgDisp("School Boy","It's over, time for food!");
 VoicePlay("D010700000_44_000");
 MsgDisp("School Girl","Let's go to the cafeteria!");
-MsgDisp("主人公","(Sigh...
-I'm not really hungry.)");
+MsgDisp("主人公","(Sigh... I'm not really hungry.)");
 SEStop("EV_SE_666",2);
 MsgClose();
 SEPlay("EV_SE_544");
@@ -75,8 +74,7 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 Wait(30,0);
-MsgDisp("主人公","Ahh...
-It's delicious.
+MsgDisp("主人公","Ahh... It's delicious.
 This tea has such a beautiful colour...");
 StlEye(7,0);
 StlMouth(7,0);
@@ -111,8 +109,7 @@ StlMouth(7,0);
 VoicePlay("D010700000_07_090");
 MsgDisp("Mikage","It's super effective.
 You're easy to read, huh?");
-MsgDisp("主人公","Ugh...
-How embarrassing.");
+MsgDisp("主人公","Ugh... How embarrassing.");
 StlEye(7,1);
 StlMouth(7,0);
 VoicePlay("D010700000_07_100");

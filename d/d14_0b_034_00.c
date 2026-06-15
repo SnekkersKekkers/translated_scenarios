@@ -52,8 +52,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("D140B03400_03_000");
-MsgDisp("Honda","Yaay—∈
-That's great for us!");
+MsgDisp("Honda","Yaay—∈ That's great for us!");
 ChEye(4,3);
 ChMouth(4,4);
 VoicePlay("D140B03400_04_020");

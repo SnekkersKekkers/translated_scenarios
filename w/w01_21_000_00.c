@@ -6,16 +6,15 @@ Wait(15,0);
 ChOpen(21,254,3,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("W012100000_21_000");
-MsgDisp("Michiru","Mari.
-Have a second?");
+MsgDisp("Michiru","Mari. Have a second?");
 MsgDisp("主人公","｛みちる＊｝.
 What's up?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("W012100000_21_010");
-MsgDisp("Michiru","Why don't we go to the amusement park this
-Sunday?
+MsgDisp("Michiru","Why don't we go to the amusement park
+this Sunday?
 I have some tickets...");
 MsgDisp("主人公","Just the two of us, ｛みちる＊｝?");
 ChEye(21,4);
@@ -33,8 +32,8 @@ switch (MsgSelRsltGet()){
     ChMotion(21,3);
     VoicePlay("W012100000_21_030");
     MsgDisp("Michiru","Thank goodness.
-Then, I'll look forward to seeing you this
-Sunday.");
+Then, I'll look forward to seeing you
+this Sunday.");
     MsgDisp("主人公","(This Sunday, huh...
 I wonder who else will be coming.)");
     break ;
@@ -44,8 +43,7 @@ I wonder who else will be coming.)");
     ChMotion(21,0);
     VoicePlay("W012100000_21_040");
     MsgDisp("Michiru","I see, that's too bad.
-Maybe next time, then.
-Okay?");
+Maybe next time, then. Okay?");
     MsgDisp("主人公","(I feel a little bad saying that after she
 invited me.)");
     break ;

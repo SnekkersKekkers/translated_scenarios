@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040521301_05_010");
-    MsgDisp("Hiiragi","Ehhh....
-Then, what about the cats?");
+    MsgDisp("Hiiragi","Ehhh.... Then, what about the cats?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,8 +26,8 @@ Then, what about the cats?");
     ChMouth(5,3);
     ChMotion(5,4);
     VoicePlay("B040521301_05_020");
-    MsgDisp("Hiiragi","They look like they're having fun running
-around.
+    MsgDisp("Hiiragi","They look like they're having fun
+running around.
 Want to step outside for a moment?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

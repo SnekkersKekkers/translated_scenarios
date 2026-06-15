@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040210200_02_000");
-MsgDisp("Sassa","Ehhh, so you're interested in this kind of
-thing?");
+MsgDisp("Sassa","Ehhh, so you're interested in this kind
+of thing?");
 MsgSel("I wonder?","Is ｛Sassa＊＊｝ not interested?","Yeah, it's cool huh!");
 switch (MsgSelRsltGet()){
     case 0:

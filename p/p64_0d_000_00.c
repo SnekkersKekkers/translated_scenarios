@@ -22,9 +22,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("P640D00000_21_010");
-MsgDisp("Michiru","I didn't think I would be able to enjoy such
-an authentic tea time on school grounds like
-this.");
+MsgDisp("Michiru","I didn't think I would be able to enjoy
+such an authentic tea time on school
+grounds like this.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -37,7 +37,6 @@ ChMotion(21,3);
 VoicePlay("P640D00000_21_020");
 MsgDisp("Michiru","I feel the same.
 Mari, thank you.");
-MsgDisp("主人公","(Yay!
-I was praised by these two.))");
+MsgDisp("主人公","(Yay! I was praised by these two.))");
 MsgClose();
 ScrFadeOut(0,0);

@@ -58,8 +58,7 @@ or fighter pilot.");
         ChMotion(2,4);
         ChEyeOpenLevel(2,7);
         VoicePlay("B040223402_02_060");
-        MsgDisp("Sassa","Or...
-You're just simple minded?");
+        MsgDisp("Sassa","Or... You're just simple minded?");
         MsgDisp("主人公","Hey...");
         ChEye(2,0);
         ChMouth(2,4);
@@ -75,17 +74,16 @@ both versions of you.");
         ChEyeOpenLevel(2,0);
         ChCheek(2,0);
         VoicePlay("B040223402_02_080");
-        MsgDisp("Sassa","Wai-...
-Oi, you're getting caught up in that.
+        MsgDisp("Sassa","Wai-... Oi, you're getting caught up in that.
 What do you think of me liking you?");
         MsgDisp("主人公","Yeah, I'm happy.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("B040223402_02_090");
-        MsgDisp("Sassa","Yeah.
-I'm glad that you're pleased with it. I'll
-get better at spinning and come back again.");
+        MsgDisp("Sassa","Yeah. I'm glad that you're pleased with it.
+I'll get better at spinning and come
+back again.");
         MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ said that he likes me!)");
         break ;
         default :

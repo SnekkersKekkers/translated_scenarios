@@ -6,8 +6,7 @@ BGMPlay("BGM_C06_INORI_A");
 ChOpen(6,254,0,0,0,#1,#1,0,0);
 VoicePlay("L060600001_06_000");
 MsgDisp("Himuro","Found you.");
-MsgDisp("主人公","Ah, ｛Himuro＊＊｝.
-What?");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝. What?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -23,15 +22,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("L060600001_06_020");
-MsgDisp("Himuro","Here.
-I don't take returns.");
+MsgDisp("Himuro","Here. I don't take returns.");
 MsgDisp("主人公","Is this for White Day?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("L060600001_06_030");
-MsgDisp("Himuro","Yeah.
-...'Cuz I was happy about Valentine's.");
+MsgDisp("Himuro","Yeah. ...'Cuz I was happy about Valentine's.");
 MsgDisp("主人公","Hehe, thanks!");
 ChEye(6,0);
 ChMouth(6,0);

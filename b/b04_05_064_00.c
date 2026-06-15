@@ -16,8 +16,7 @@ VoicePlay("B040506400_05_010");
 MsgDisp("Hiiragi","I've visited the festivals of many towns.
 Each one had their own unique
 characteristics... I really enjoyed it.");
-MsgDisp("主人公","Ehh—
-Really?");
+MsgDisp("主人公","Ehh— Really?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B040506400_05_020");
@@ -44,8 +43,8 @@ SEPlay("EV_SE_626");
 ChClose(5);
 Wait(40,0);
 VoicePlay("B040506400_05_060");
-MsgDisp("Hiiragi","Excuse me, I'll buy two with egg toppings
-please.");
+MsgDisp("Hiiragi","Excuse me, I'll buy two with egg
+toppings please.");
 SEPlay("EV_SE_022",0.8);
 MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 The fireworks are about to start!");
@@ -59,8 +58,7 @@ VoicePlay("B040506400_05_070");
 MsgDisp("Hiiragi","Sorry to keep you waiting.
 Let's take our time to enjoy some local
 yakisoba at the fireworks venue.");
-MsgDisp("主人公","Yeah.
-Let's go!");
+MsgDisp("主人公","Yeah. Let's go!");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

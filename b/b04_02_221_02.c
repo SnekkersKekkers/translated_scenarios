@@ -27,8 +27,7 @@ I always think it's great.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040222102_02_020");
-    MsgDisp("Sassa","Huh?
-Did I press some sort of weird switch?");
+    MsgDisp("Sassa","Huh? Did I press some sort of weird switch?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

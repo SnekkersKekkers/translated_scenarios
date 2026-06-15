@@ -4,8 +4,7 @@ MsgDisp("主人公","Ah, yes?");
 MsgClose();
 VoicePlay("M010700000_07_000");
 MsgDisp("Mikage","S'me.");
-MsgDisp("主人公","Eeh?!∈
-｛Mikage＊＊｝, what happened?!");
+MsgDisp("主人公","Eeh?!∈ ｛Mikage＊＊｝, what happened?!");
 VoicePlay("M010700000_07_010");
 MsgDisp("Mikage","Hey, don't be so loud.");
 VoicePlay("M010700000_07_020");
@@ -38,15 +37,13 @@ VoicePlay("M010700000_07_060");
 MsgDisp("Mikage","Listen. I love how you put your all into
 everything. But there's a difference between
 doing your best and overdoing it.");
-MsgDisp("主人公","Yes...
-I understand.");
+MsgDisp("主人公","Yes... I understand.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("M010700000_07_070");
 MsgDisp("Mikage","Then, I'll be waiting in class.");
-MsgDisp("主人公","Yes!
-Thank you very much for coming.");
+MsgDisp("主人公","Yes! Thank you very much for coming.");
 MsgClose();
 SEPlay("EV_SE_690",0,0.5);
 BGMStop();

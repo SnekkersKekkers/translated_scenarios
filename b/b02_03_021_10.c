@@ -3,8 +3,8 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B020302110_03_000");
 MsgDisp("Honda","It's strange...
-For some reason, you look like a little
-devil.");
+For some reason, you look like a
+little devil.");
 MsgDisp("主人公","Is it because of this outfit?");
 ChEye(3,0);
 ChMouth(3,3);

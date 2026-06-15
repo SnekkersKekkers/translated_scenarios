@@ -10,5 +10,4 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"A Sequin Animal Bag Charm\")");
-MsgDisp("主人公","(Cute...
-It's a shiny little dog!)");
+MsgDisp("主人公","(Cute... It's a shiny little dog!)");

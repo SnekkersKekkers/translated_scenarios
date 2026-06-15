@@ -14,11 +14,9 @@ Does it look okay?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("S060100001_01_010");
-    MsgDisp("Kazama","Yep.
-Good.
+    MsgDisp("Kazama","Yep. Good.
 It really suits you.");
-    MsgDisp("主人公","(Yay!
-I think ｛Kazama＊＊｝ likes it.)");
+    MsgDisp("主人公","(Yay! I think ｛Kazama＊＊｝ likes it.)");
     break ;
     case 3:
     ChEye(1,4);
@@ -26,16 +24,15 @@ I think ｛Kazama＊＊｝ likes it.)");
     ChMotion(1,0);
     VoicePlay("S060100001_01_020");
     MsgDisp("Kazama","...Yeah.
-I came back just in time to see you in a
-kimono.");
+I came back just in time to see you in
+a kimono.");
     MsgDisp("主人公","You really mean it?
 I'm so happy.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("S060100001_01_030");
-    MsgDisp("Kazama","Ahh.
-Turn around a little slowly for me.");
+    MsgDisp("Kazama","Ahh. Turn around a little slowly for me.");
     MsgDisp("主人公","(Yay!
 ｛Kazama＊＊｝ seems like he's very happy!)");
     break ;

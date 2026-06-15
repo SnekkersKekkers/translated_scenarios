@@ -6,8 +6,8 @@ ChMotion(8,2);
 ChCheek(8,5);
 ScrFadeIn(0);
 VoicePlay("B040830002_08_000");
-MsgDisp("Shirahane","I'm so nervous even though it's my own
-room...");
+MsgDisp("Shirahane","I'm so nervous even though it's my
+own room...");
 MsgSel("It's just us right?","Should we make things more exciting?","You won't notice it as soon as we start talking.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -88,14 +88,13 @@ yer expectations.");
         ChEyeOpenLevel(8,10);
         VoicePlay("B040830002_08_100");
         MsgDisp("Shirahane","But, I want ta understand.
-I like you, so I feel like I want ta cherish
-you.");
+I like you, so I feel like I want ta
+cherish you.");
         ChEye(8,4);
         ChMouth(8,0);
         ChMotion(8,4,1);
         VoicePlay("B040830002_08_110");
-        MsgDisp("Shirahane","Hehe..
-I said it.");
+        MsgDisp("Shirahane","Hehe.. I said it.");
         MsgDisp("主人公","(｛Daichi＊＊｝...)");
         break ;
         default :

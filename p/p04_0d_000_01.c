@@ -32,8 +32,7 @@ VoicePlay("P040D00001_21_010");
 MsgDisp("Michiru","I think it'd be better to taste the tea once
 before serving it to customers.
 ...Okay?");
-MsgDisp("主人公","(Ugh...
-I messed up.
+MsgDisp("主人公","(Ugh... I messed up.
 I should've prepared a little more...)");
 MsgClose();
 ScrFadeOut(0,0);

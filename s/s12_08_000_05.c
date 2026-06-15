@@ -68,8 +68,7 @@ You're my heroine, after all.");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("S120800005_08_060");
-    MsgDisp("Shirahane","Haha!
-Let's do our best on exams!");
+    MsgDisp("Shirahane","Haha! Let's do our best on exams!");
     MsgDisp("主人公","Yup!");
     ChEye(8,4);
     ChMouth(8,0);
@@ -80,8 +79,8 @@ Let's do our best on exams!");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);
     MsgDisp("主人公","(Exams, huh...
-There are two months left, let's try our
-best!)");
+There are two months left, let's try
+our best!)");
     break ;
     default :
     DbgAssert(1);

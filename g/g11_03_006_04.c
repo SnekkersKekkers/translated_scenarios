@@ -11,8 +11,8 @@ BGOpen("ev003",0);
 ChOpen(3,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛Honda＊＊｝.
-Shouldn't the 15 minute break be any moment
-now?");
+Shouldn't the 15 minute break be any
+moment now?");
 ChEye(3,0);
 ChMouth(3,2);
 ChMotion(3,2);
@@ -61,8 +61,8 @@ VoicePlay("G110300604_03_060");
 MsgDisp("Honda","...But did you hear the question properly?
 You accidentally got it right, but...");
 MsgDisp("主人公","(Hehe!
-Working part-time with ｛Honda＊＊｝ is so
-fun!)");
+Working part-time with ｛Honda＊＊｝ is
+so fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

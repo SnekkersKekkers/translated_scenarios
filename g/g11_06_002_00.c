@@ -2,9 +2,9 @@ BGOpen("sc510",1);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(...Huh?
-It's a message from ｛Himuro＊＊｝. It says \"I'd
-like to talk, do you have time?\"...)");
+MsgDisp("主人公","(...Huh? It's a message from ｛Himuro＊＊｝.
+It says \"I'd like to talk, do you have
+time?\"...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -31,8 +31,7 @@ while (1){
     ChMouth(6,1);
     ChMotion(6,2);
     VoicePlay("G110600200_06_010");
-    MsgDisp("Himuro","What if it wasn't just me...
-Sigh.");
+    MsgDisp("Himuro","What if it wasn't just me... Sigh.");
     }
 ChEye(6,0);
 ChMouth(6,0);
@@ -54,8 +53,8 @@ VoicePlay("G110600200_06_050");
 MsgDisp("Himuro","Don't make me say it twice.
 You know the valentine's chocolate you gave
 me? It was delicious! That's all.");
-MsgDisp("主人公","Ah!
-I'm glad. Maybe it's because I tried my best.
+MsgDisp("主人公","Ah! I'm glad.
+Maybe it's because I tried my best.
 ...Is that what you came here to say?");
 ChEye(6,0);
 ChMouth(6,1);
@@ -78,8 +77,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,10);
 VoicePlay("G110600200_06_080");
-MsgDisp("Himuro","Oh.
-Then it was worth savouring it.");
+MsgDisp("Himuro","Oh. Then it was worth savouring it.");
 MsgDisp("主人公","Shall I make it again?");
 ChEye(6,2);
 ChMouth(6,0);
@@ -92,8 +90,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600200_06_100");
-MsgDisp("Himuro","But it's a nice thing to receive around that
-time.");
+MsgDisp("Himuro","But it's a nice thing to receive around
+that time.");
 MsgDisp("主人公","Valentine's?");
 ChEye(6,2);
 ChMouth(6,1);

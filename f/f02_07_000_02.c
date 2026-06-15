@@ -49,8 +49,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700002_07_050");
 MsgDisp("Mikage","Sometimes rumours contain a grain of truth.
-Maybe something similar to that story did
-happen?");
+Maybe something similar to that story
+did happen?");
 MsgDisp("主人公","Vice Principal Himuro's love story...
 It's kind of wonderful.");
 ChEye(7,0);
@@ -63,7 +63,6 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700002_07_070");
-MsgDisp("Mikage","Don't.
-That curiosity will be fatal.");
-MsgDisp("主人公","(...We happily walked home talking about this
-story.)");
+MsgDisp("Mikage","Don't. That curiosity will be fatal.");
+MsgDisp("主人公","(...We happily walked home talking about
+this story.)");

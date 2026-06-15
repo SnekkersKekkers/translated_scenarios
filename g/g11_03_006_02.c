@@ -72,8 +72,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300602_03_070");
-MsgDisp("Honda","Right right, I can't resolve this problem
-well...");
+MsgDisp("Honda","Right right, I can't resolve this
+problem well...");
 MsgDisp("主人公","(｛Honda＊＊｝, you're thinking of something
 outrageous aren't you...)");
 BGMStop();

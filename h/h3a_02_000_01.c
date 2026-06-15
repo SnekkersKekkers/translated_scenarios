@@ -33,8 +33,8 @@ any encouragement right now.");
 You were cool.
 Chin up!");
     MsgDisp("主人公","(｛Sassa＊＊｝, thank you...
-I lost, but I was able to make it this
-far...)");
+I lost, but I was able to make it
+this far...)");
     break ;
     default :
     DbgAssert(1);

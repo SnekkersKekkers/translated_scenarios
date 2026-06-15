@@ -47,8 +47,7 @@ Please just wait a second.");
     ChNanaType(0);
     ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("P830400001_04_020");
-    MsgDisp("Nanatsumori","Good work.
-Now...");
+    MsgDisp("Nanatsumori","Good work. Now...");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Sorry, I'm a bit busy right now...");
     ChEye(4,2);

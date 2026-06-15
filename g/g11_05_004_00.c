@@ -10,8 +10,7 @@ ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoiceEVSPlay(5);
 VoicePlay("G110500400_05_000");
 MsgDisp("Hiiragi","｛主人公｝, are you by yourself today?");
-MsgDisp("主人公","Yes?
-What about ｛Hiiragi＊＊＊｝?");
+MsgDisp("主人公","Yes? What about ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G110500400_05_010");
@@ -50,8 +49,7 @@ ChOpen(5,100,0,0,1,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
 VoicePlay("G110500400_05_030");
-MsgDisp("Hiiragi","Yes.
-It's really just a hobby.
+MsgDisp("Hiiragi","Yes. It's really just a hobby.
 I'm bad with computers but I still like it.");
 MsgDisp("主人公","Hehe, don't overwork yourself.");
 ChEye(5,1);
@@ -104,9 +102,9 @@ ChMouth(5,1);
 ChMotion(5,0);
 SEPlay("EV_SE_712");
 VoicePlay("G110500400_05_090");
-MsgDisp("Hiiragi","It's quite difficult to simultaneously devote
-yourself to art and consider those around
-you.");
+MsgDisp("Hiiragi","It's quite difficult to simultaneously
+devote yourself to art and consider those
+around you.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you.
 But, when you say that...");
 ChEye(5,1);

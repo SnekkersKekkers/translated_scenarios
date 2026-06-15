@@ -16,8 +16,7 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoicePlay("S120700004_07_040");
     MsgDisp("Mikage","It's about time to go home.");
-    MsgDisp("主人公","Ah...
-Yeah.");
+    MsgDisp("主人公","Ah... Yeah.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -55,14 +54,12 @@ Shall we talk about our wishes while we walk?");
     ScrFadeIn(0);
     VoicePlay("S120700004_07_080");
     MsgDisp("Mikage","...Did you forget to make your wish?");
-    MsgDisp("主人公","Hehe!
-What do you mean by that?");
+    MsgDisp("主人公","Hehe! What do you mean by that?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700004_07_090");
-    MsgDisp("Mikage","Oh no...
-It's almost time.");
+    MsgDisp("Mikage","Oh no... It's almost time.");
     MsgDisp("主人公","Already?
 It's still okay...");
     ChEye(7,0);

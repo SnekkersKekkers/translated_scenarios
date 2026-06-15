@@ -57,8 +57,7 @@ SEStop("EV_SE_022",2);
 SEPlay("EV_SE_626");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","Hey!
-Wait up!");
+MsgDisp("主人公","Hey! Wait up!");
 SEPlay("EV_SE_672");
 Wait(30,1);
 MsgClose();

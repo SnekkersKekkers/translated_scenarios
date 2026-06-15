@@ -9,8 +9,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360417000_04_000");
-MsgDisp("Nanatsumori","Well.
-What are you gonna sing?
+MsgDisp("Nanatsumori","Well. What are you gonna sing?
 You can go first.");
 MsgDisp("主人公","We can start from ｛Nanatsumori＊｝.");
 ChEye(4,0);
@@ -19,16 +18,14 @@ ChMotion(4,1,1);
 VoicePlay("B360417000_04_010");
 MsgDisp("Nanatsumori","I'll get myself in the mood after I've seen
 you up on stage.");
-MsgDisp("主人公","Hmm...
-What should I do...");
+MsgDisp("主人公","Hmm... What should I do...");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 ChMouthOpenLevel(4,0);
 VoicePlay("B360417000_04_020");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","Hm—...
-Hm?");
+MsgDisp("主人公","Hm—... Hm?");
 ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,5,1);

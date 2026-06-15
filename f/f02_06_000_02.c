@@ -33,8 +33,8 @@ ChEyeOpenLevel(6,0);
 VoicePlay("F020600002_06_030");
 MsgDisp("Himuro","Although...maybe if you have a stomach ache.");
 MsgDisp("主人公","Huh?
-｛Himuro＊＊｝, do you pray when your stomach
-hurts?");
+｛Himuro＊＊｝, do you pray when your
+stomach hurts?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -47,8 +47,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("F020600002_06_050");
-MsgDisp("Himuro","I'll tell you this: our prayers are nothing
-alike.
+MsgDisp("Himuro","I'll tell you this: our prayers are
+nothing alike.
 I only pray in cases of emergency.");
 MsgDisp("主人公","Um, sure.");
 ChEye(6,0);

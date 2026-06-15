@@ -48,8 +48,8 @@ But I lost that last match.");
     ChMotion(1,1);
     VoicePlay("H3A0100001_01_040");
     MsgDisp("Kazama","Yeah, I really can't forgive them for that.");
-    MsgDisp("主人公","It's a match, so it couldn't be helped, you
-know?");
+    MsgDisp("主人公","It's a match, so it couldn't be helped,
+you know?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);

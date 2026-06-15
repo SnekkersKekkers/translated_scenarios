@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     ChEyeOpenLevel(5,9);
     VoicePlay("B040503201_05_010");
-    MsgDisp("Hiiragi","Huh?
-Are you not interested?");
+    MsgDisp("Hiiragi","Huh? Are you not interested?");
     MsgDateResultDisp();
     break ;
     case 1:

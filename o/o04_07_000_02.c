@@ -21,8 +21,7 @@ I want to go again.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("O040700002_07_010");
-    MsgDisp("Mikage","I see...
-If only we had one more.");
+    MsgDisp("Mikage","I see... If only we had one more.");
     MsgDisp("主人公","(A draw, huh...how frustrating.)");
     break ;
     case 4:

@@ -29,8 +29,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600010_06_020");
-MsgDisp("Himuro","Sigh...
-I'm only human.
+MsgDisp("Himuro","Sigh... I'm only human.
 Of course I feel pressure.");
 MsgDisp("主人公","Are you sure?");
 ChEye(6,0);

@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040502100_05_000");
 MsgDisp("Hiiragi","Yes, it's very nice.
-The beautiful sea, and the charming brick
-road.");
+The beautiful sea, and the charming
+brick road.");
 MsgSel("It's nice to take a leisurely stroll.","Is that a jellyfish over there?","No one's around, it's like we have the place to ourselves.");
 switch (MsgSelRsltGet()){
     case 0:

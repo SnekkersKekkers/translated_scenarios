@@ -7,8 +7,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoiceEVSPlay(7);
 VoicePlay("D010700600_07_000");
 MsgDisp("Mikage","｛主人公｝, you're the best.");
-MsgDisp("主人公","Eh?
-Isn't this the right time...");
+MsgDisp("主人公","Eh? Isn't this the right time...");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -19,8 +18,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700600_07_020");
-MsgDisp("Mikage","You didn't have anything more fun to do
-today?");
+MsgDisp("Mikage","You didn't have anything more fun to
+do today?");
 MsgDisp("主人公","Nothing in particular.
 But you know, isn't it fun to hang out with
 your friends and teachers on off days?");
@@ -50,15 +49,13 @@ ChMotion(7,2);
 VoicePlay("D010700600_07_050");
 MsgDisp("Mikage","Should we forget the extracurricular lesson
 and just have some fun?");
-MsgDisp("主人公","Yes!
-Yay!
+MsgDisp("主人公","Yes! Yay!
 That means I don't have to submit a report.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D010700600_07_060");
-MsgDisp("Mikage","Hey!
-That's what you care about?!
+MsgDisp("Mikage","Hey! That's what you care about?!
 So...what about bowling?");
 MsgDisp("主人公","Eh?");
 BGMStop();

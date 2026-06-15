@@ -9,8 +9,7 @@ ChMotion(22,0);
 ScrFadeIn(0);
 VoicePlay("P140D00001_21_000");
 MsgDisp("Michiru","That...");
-MsgDisp("主人公","Ah.
-Great work, you two!");
+MsgDisp("主人公","Ah. Great work, you two!");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
@@ -27,8 +26,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P140D00001_22_010");
-MsgDisp("Hikaru","Hikaru wanted to get lost properly in the
-maze...");
+MsgDisp("Hikaru","Hikaru wanted to get lost properly in
+the maze...");
 MsgDisp("主人公","(Ugh...
 I should have made it so that it was fun to
 play...huge mistake...)");

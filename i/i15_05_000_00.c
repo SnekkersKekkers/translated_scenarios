@@ -15,8 +15,7 @@ Ah, ｛Hiiragi＊＊＊｝.");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoicePlay("I150500000_05_000");
     MsgDisp("Hiiragi","So you were working today.");
-    MsgDisp("主人公","Yes.
-Are you shopping, ｛Hiiragi＊＊＊｝?");
+    MsgDisp("主人公","Yes. Are you shopping, ｛Hiiragi＊＊＊｝?");
     ChMouth(5,4);
     VoicePlay("I150500000_05_010");
     MsgDisp("Hiiragi","Yes, our troupe is quite large, so there is
@@ -65,8 +64,7 @@ You are working hard at your part-time job.");
 Are you looking for something, ｛Hiiragi＊＊＊｝?");
     ChEye(5,4);
     VoicePlay("I150500000_05_070");
-    MsgDisp("Hiiragi","No.
-I'm having fun simply watching this shop.");
+    MsgDisp("Hiiragi","No. I'm having fun simply watching this shop.");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -87,8 +85,7 @@ window-shopper.");
     MsgDisp("Hiiragi","Aroma diffuser?
 I see, so you add fragrant oils in.
 What a wonderful item...");
-    MsgDisp("主人公","(Hehe.
-｛Hiiragi＊＊＊｝ really likes shopping.)");
+    MsgDisp("主人公","(Hehe. ｛Hiiragi＊＊＊｝ really likes shopping.)");
     break ;
     case 4:
     case 5:
@@ -126,8 +123,8 @@ heading home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, does that mean he came to see
-me??)");
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, does that mean he came to
+see me??)");
     break ;
     default :
     DbgAssert(1);

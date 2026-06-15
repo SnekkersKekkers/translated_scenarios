@@ -1,8 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-｛Himuro＊＊｝ hasn't come yet...");
+MsgDisp("主人公","Huh? ｛Himuro＊＊｝ hasn't come yet...");
 VoicePlay("B110600000_33_000");
 MsgDisp("Guy","Hey, do you want to know?
 Or would you rather not?");
@@ -70,8 +69,8 @@ ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110600000_33_040");
 MsgDisp("Guy","W-Why!
-I was just trying to open the door for this
-girl—");
+I was just trying to open the door for
+this girl—");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0.5);
 MsgClose();
@@ -103,12 +102,12 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B110600000_06_070");
 MsgDisp("Himuro","No...
-It was my fault for being late in the first
-place.");
+It was my fault for being late in the
+first place.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B110600000_06_080");
 MsgDisp("Himuro","Let's go already.
-Before we get caught up in something weird
-again.");
+Before we get caught up in something
+weird again.");

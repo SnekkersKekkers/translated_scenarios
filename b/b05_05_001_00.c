@@ -11,8 +11,8 @@ ChMotion(5,4);
 VoicePlay("B050500100_05_000");
 MsgDisp("Hiiragi","I thought you weren't very good with this
 sort of thing?");
-MsgDisp("主人公","That may be true, but my legs just brought me
-here...");
+MsgDisp("主人公","That may be true, but my legs just brought
+me here...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -48,8 +48,7 @@ MsgDisp("主人公","∋");
 SEStop("EV_SE_AMUSE_008",1);
 VoicePlay("B050500100_05_030");
 MsgDisp("Hiiragi","That is unacceptable.");
-MsgDisp("主人公","Eh...
-｛Hiiragi＊＊＊｝?");
+MsgDisp("主人公","Eh... ｛Hiiragi＊＊＊｝?");
 MsgClose();
 BGMPlay("BGM_C05_HIIRAGI_I",0.01);
 StlOpen("ev_05_03");
@@ -64,8 +63,7 @@ StlEyeOpenLevel(5,5);
 SEPlay("EV_SE_623",0.3);
 SEWait();
 VoicePlay("B050500100_39_010");
-MsgDisp("Ghost","Eh...
-Ah, yes.");
+MsgDisp("Ghost","Eh... Ah, yes.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("B050500100_05_050");
@@ -123,8 +121,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,8);
 VoicePlay("B050500100_05_100");
-MsgDisp("Hiiragi","Hmm...
-Is that a good thing?");
+MsgDisp("Hiiragi","Hmm... Is that a good thing?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

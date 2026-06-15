@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 ScrFadeIn(0);
 VoicePlay("B040120001_01_000");
-MsgDisp("Kazama","The weather is also nice, shall we go to the
-summit?");
+MsgDisp("Kazama","The weather is also nice, shall we go to
+the summit?");
 MsgSel("Let's take on a super hard course!","You shouldn't underestimate the winter mountains...","There's a two-person sled!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040120001_01_020");
-    MsgDisp("Kazama","Haha!
-Oi, where are you from, veteran guide∋");
+    MsgDisp("Kazama","Haha! Oi, where are you from, veteran guide∋");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

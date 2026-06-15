@@ -7,8 +7,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040409002_04_000");
 MsgDisp("Nanatsumori","It's missing some impact...
-It would be good for them to do a flashy
-event.");
+It would be good for them to do a
+flashy event.");
 MsgSel("I think it's fine as it is though...","｛Nanatsumori＊｝ should produce it!","Like setting off some huge fireworks?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,15 +33,13 @@ visitors that think that.");
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040409002_04_020");
-        MsgDisp("Nanatsumori","So that's what you think.
-Hmmm....");
+        MsgDisp("Nanatsumori","So that's what you think. Hmmm....");
         MsgDisp("主人公","Is it weird?");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040409002_04_030");
-        MsgDisp("Nanatsumori","Nah.
-You've taught me something again.");
+        MsgDisp("Nanatsumori","Nah. You've taught me something again.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);

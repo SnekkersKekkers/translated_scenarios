@@ -67,8 +67,8 @@ ChEye(4,1);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("D120B00000_04_020");
-MsgDisp("Nanatsumori","The two of you...your awareness level is
-ZERO!");
+MsgDisp("Nanatsumori","The two of you...your awareness level
+is ZERO!");
 MsgDisp("主人公","(Awareness level...)");
 ChEye(4,5);
 ChMouth(4,0);
@@ -123,8 +123,7 @@ VoicePlay("D120B00000_04_060");
 MsgDisp("Nanatsumori","No.");
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D120B00000_01_050");
-MsgDisp("Kazama","Ahhh...
-I feel weird without my bangs...");
+MsgDisp("Kazama","Ahhh... I feel weird without my bangs...");
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
 SEPlay("EV_SE_588",0,0.4);
@@ -215,8 +214,8 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D120B00000_03_050");
 MsgDisp("Honda","What's wrong?
-The two of you have a scary look on your
-face.");
+The two of you have a scary look on
+your face.");
 MsgDisp("主人公","(It's true...
 All three of them are celebrities but they
 have varying levels of awareness.)");

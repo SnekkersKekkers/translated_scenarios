@@ -1,9 +1,9 @@
 BGOpen("sc310",0);
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(Huh...
-My favourite pen is missing! Maybe I left it
-during my last class in the science lab?)");
+MsgDisp("主人公","(Huh... My favourite pen is missing!
+Maybe I left it during my last class in the
+science lab?)");
 SEPlay("EV_SE_FOOT_RUN_KEEP_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0);
@@ -17,8 +17,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, here it is!");
 VoicePlay("D010700100_07_000");
 MsgDisp("Mikage?","Woah, you did it!");
-MsgDisp("主人公","(Hm?
-That voice coming from the prep room...)");
+MsgDisp("主人公","(Hm? That voice coming from the prep room...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -64,8 +63,8 @@ She did such a great job～");
 StlEye(7,0);
 VoicePlay("D010700100_07_050");
 MsgDisp("Mikage","Look at her eyes.
-They look just like Molly's.
-Pitch black and huge...Right?");
+They look just like Molly's. Pitch black and
+huge...Right?");
 MsgDisp("主人公","Yeah!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700100_07_060");
@@ -90,8 +89,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("D010700100_07_080");
-MsgDisp("Mikage","Oh.
-I was just surprised, my bad.");
+MsgDisp("Mikage","Oh. I was just surprised, my bad.");
 MsgDisp("主人公","It's fine.
 I'm grateful I was able to celebrate this
 with you, ｛Mikage＊＊｝.");
@@ -115,8 +113,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("D010700100_07_110");
-MsgDisp("Mikage","I have things I need to do too, just like
-Molly.");
+MsgDisp("Mikage","I have things I need to do too, just
+like Molly.");
 MsgDisp("主人公","｛Mikage＊＊｝...?");
 ChEye(7,0);
 ChMouth(7,3);

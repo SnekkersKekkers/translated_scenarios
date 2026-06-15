@@ -23,8 +23,8 @@ the past three years??)");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("P530100002_01_010");
-    MsgDisp("Kazama","I thought I'd take a look at your nervous
-face.");
+    MsgDisp("Kazama","I thought I'd take a look at your
+nervous face.");
     MsgDisp("主人公","Now, that's so mean.");
     ChEye(1,4);
     ChMouth(1,3);
@@ -44,8 +44,7 @@ to have fun!");
     VoicePlay("P530100002_01_030");
     MsgDisp("Kazama","...It's my turn.
 Somehow, I'm starting to feel nervous.");
-    MsgDisp("主人公","Hehe.
-Well, I'll be going then!");
+    MsgDisp("主人公","Hehe. Well, I'll be going then!");
     ChEye(1,4);
     ChMouth(1,3);
     MsgDisp("主人公","(Now, this is the culmination of three years

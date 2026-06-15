@@ -1,5 +1,5 @@
-MsgDisp("主人公","Mm, who is kind of impossible for me to
-say...");
+MsgDisp("主人公","Mm, who is kind of impossible for me
+to say...");
 StlEye(22,0);
 StlMouth(22,2);
 StlCheek(22,0);

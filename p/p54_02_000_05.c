@@ -16,8 +16,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P540200005_02_010");
-MsgDisp("Sassa","If you feel that way, I guess that must be
-it.");
+MsgDisp("Sassa","If you feel that way, I guess that must
+be it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

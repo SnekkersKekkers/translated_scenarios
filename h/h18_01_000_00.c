@@ -9,8 +9,7 @@ switch (ChPrmGet(1,6)){
     ScrFadeIn(0);
     ChOpen(1,254,0,0,0,#1,#1,0,0);
     VoicePlay("H180100000_01_000");
-    MsgDisp("Kazama","Yo.
-You're working pretty hard.");
+    MsgDisp("Kazama","Yo. You're working pretty hard.");
     MsgDisp("主人公","｛Kazama＊＊｝, did you come to cheer us on?");
     ChEye(1,0);
     ChMouth(1,3);
@@ -28,8 +27,7 @@ You're working pretty hard.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H180100000_01_030");
-    MsgDisp("Kazama","Look, everyone's waiting for you.
-Go on.");
+    MsgDisp("Kazama","Look, everyone's waiting for you. Go on.");
     MsgDisp("主人公","(Alright.
 Let's aim for the championship together!)");
     break ;
@@ -42,8 +40,8 @@ Let's aim for the championship together!)");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H180100000_01_040");
-    MsgDisp("Kazama","It's amazing, winning enough to make it this
-far.");
+    MsgDisp("Kazama","It's amazing, winning enough to make it
+this far.");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 You came?");
     ChEye(1,3);
@@ -58,8 +56,8 @@ you here, you know?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H180100000_01_060");
-    MsgDisp("Kazama","No, I wouldn't have come if it weren't for
-you.");
+    MsgDisp("Kazama","No, I wouldn't have come if it weren't
+for you.");
     MsgDisp("主人公","Hehe, so that's how it is.");
     ChEye(1,0);
     ChMouth(1,0);
@@ -80,8 +78,8 @@ That's a fact.");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("H180100000_01_090");
-    MsgDisp("Kazama","So, I need you to get a result you're happy
-with.");
+    MsgDisp("Kazama","So, I need you to get a result you're
+happy with.");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,1);

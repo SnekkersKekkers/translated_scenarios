@@ -25,8 +25,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("K020200000_02_020");
-MsgDisp("Sassa","I just wanted to say that today, no matter
-what.
+MsgDisp("Sassa","I just wanted to say that today, no
+matter what.
 Sorry to barge in.");
 MsgDisp("主人公","Not at all!
 ｛Sassa＊＊｝, thank you.");

@@ -2,8 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yay—!
-A huge success∈)");
+MsgDisp("主人公","(Yay—! A huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -27,8 +26,7 @@ MsgDisp("主人公","Hm?");
 ChEye(4,3);
 ChMouth(4,3);
 VoicePlay("P740400004_04_030");
-MsgDisp("Nanatsumori","Hm?
-Ah—...
+MsgDisp("Nanatsumori","Hm? Ah—...
 I hope you can become a good bride?");
 MsgDisp("主人公","(Yay, I'm truly glad I devoted myself to the
 handicrafts club these last three years!)");

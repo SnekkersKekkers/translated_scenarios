@@ -17,8 +17,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_010");
-MsgDisp("Sassa","Yeah.
-We came at the right time, didn't we?
+MsgDisp("Sassa","Yeah. We came at the right time, didn't we?
 This kind of thing is important.");
 MsgDisp("主人公","Hehe, yes.");
 ChEye(2,0);
@@ -53,8 +52,7 @@ ScrFadeIn(0);
 MsgClose();
 ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoicePlay("Q070200000_02_050");
-MsgDisp("Sassa","Huh...
-That's a big building..");
+MsgDisp("Sassa","Huh... That's a big building..");
 MsgDisp("主人公","Such a big tower!
 It's called Domtoren Tower.");
 ChEye(2,0);
@@ -137,8 +135,8 @@ VoicePlay("Q070200000_02_140");
 MsgDisp("Sassa","Hmmm...
 Cutting off all your escape routes like that.
 That's tough.");
-MsgDisp("主人公","Yeah, it sounds like it would be difficult to
-do.");
+MsgDisp("主人公","Yeah, it sounds like it would be difficult
+to do.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -146,8 +144,7 @@ VoicePlay("Q070200000_02_150");
 MsgDisp("Sassa","It's like how I'd quit Track and Field if I
 don't win all my matches during the
 Inter-High.");
-MsgDisp("主人公","Eh?
-...｛Sassa＊＊｝?");
+MsgDisp("主人公","Eh? ...｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -158,8 +155,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_170");
 MsgDisp("Sassa","But if I'm not good enough, that means I
-wouldn't have what it takes for what comes
-next.");
+wouldn't have what it takes for what
+comes next.");
 MsgDisp("主人公","You can do it, ｛Sassa＊＊｝!");
 ChEye(2,0);
 ChMouth(2,4);

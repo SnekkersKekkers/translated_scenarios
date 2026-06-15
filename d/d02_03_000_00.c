@@ -7,8 +7,7 @@ ChMotion(3,5);
 ChCheek(3,0);
 ScrFadeIn(0);
 VoicePlay("D020300000_03_000");
-MsgDisp("Honda","Ahh!
-I just remembered.");
+MsgDisp("Honda","Ahh! I just remembered.");
 MsgDisp("主人公","What's wrong?
 You stopped so suddenly.");
 ChEye(3,1);

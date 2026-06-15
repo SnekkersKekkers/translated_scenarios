@@ -60,8 +60,8 @@ VoicePlay("B360415201_04_070");
 MsgDisp("Nanatsumori","If this makes them resent me then...");
 ChMotion(4,0,1);
 VoicePlay("B360415201_04_080");
-MsgDisp("Nanatsumori","That means the rival battle is about to
-begin.");
+MsgDisp("Nanatsumori","That means the rival battle is about
+to begin.");
 MsgDisp("主人公","???");
 BGMStop();
 MsgClose();

@@ -32,11 +32,10 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030901100_09_010");
-MsgDisp("Kuya","I got the feeling you were coming to see
-me...
+MsgDisp("Kuya","I got the feeling you were coming to
+see me...
 So I came to see you too.");
-MsgDisp("主人公","Hehe!
-Congratulations on your graduation.");
+MsgDisp("主人公","Hehe! Congratulations on your graduation.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -125,8 +124,7 @@ ChCheek(9,7);
 VoicePlay("D030901100_09_120");
 MsgDisp("Kuya","...But can I give you a call when I start to
 get lonely?");
-MsgDisp("主人公","Eh?
-Of course.
+MsgDisp("主人公","Eh? Of course.
 I'll be waiting.");
 ChEye(9,3);
 ChMouth(9,0);
@@ -134,8 +132,8 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901100_09_130");
 MsgDisp("Kuya","Thank you.
-Let's continue to support each other from now
-on.");
+Let's continue to support each other from
+now on.");
 MsgDisp("主人公","(I will also take entrance exams in April...
 Kuya-san is also working hard, so let's do
 our best!)");

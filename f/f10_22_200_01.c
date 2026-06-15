@@ -2,8 +2,7 @@ BGOpen("sc220",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F102220001_31_000");
-MsgDisp("Goro?","Oh my!
-I wonder why Ikkaku won't wear it?!");
+MsgDisp("Goro?","Oh my! I wonder why Ikkaku won't wear it?!");
 VoicePlay("F102220001_22_000");
 MsgDisp("Hikaru?","Ah—...
 Uncle's fashion designs only suit a select
@@ -52,14 +51,14 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F102220001_22_030");
 MsgDisp("Hikaru","Even Hikaru and the others haven't come
-across that sort of design in their modelling
-work.");
+across that sort of design in their
+modelling work.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("F102220001_31_030");
-MsgDisp("Goro","I don't need run-of-the-mill designs in my
-world.
+MsgDisp("Goro","I don't need run-of-the-mill designs in
+my world.
 Well then, adieu!");
 MsgClose();
 SEPlay("EV_SE_626");

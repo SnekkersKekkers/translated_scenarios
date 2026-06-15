@@ -23,9 +23,9 @@ ChEyeOpenLevel(5,0);
 VoicePlay("G020510304_05_040");
 MsgDisp("Hiiragi","I've always just taken and never given...
 I'm a terrible person.");
-MsgDisp("主人公","No.
-｛Hiiragi＊＊＊｝ has been standing on the stage
-since he was young, that can't be helped.");
+MsgDisp("主人公","No. ｛Hiiragi＊＊＊｝ has been standing on
+the stage since he was young, that can't
+be helped.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

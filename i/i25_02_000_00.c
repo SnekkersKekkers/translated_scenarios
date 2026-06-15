@@ -126,10 +126,8 @@ Just you being here makes the store nicer.");
     ChMouth(2,3);
     ChMotion(2,2);
     VoicePlay("I250200000_02_150");
-    MsgDisp("Sassa","Sigh...
-I want to work part-time here, too.");
-    MsgDisp("主人公","Huh?
-You, ｛Sassa＊＊｝, in a bookstore?");
+    MsgDisp("Sassa","Sigh... I want to work part-time here, too.");
+    MsgDisp("主人公","Huh? You, ｛Sassa＊＊｝, in a bookstore?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -143,16 +141,16 @@ apron, ｛Sassa＊＊｝.");
     ChMotion(2,0);
     VoicePlay("I250200000_02_170");
     MsgDisp("Sassa","Matching aprons with you...
-Nice, maybe I'll really get a part-time job
-here.");
+Nice, maybe I'll really get a part-time
+job here.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,1);
     ChEyeOpenLevel(2,0);
     VoicePlay("I250200000_02_180");
     MsgDisp("Sassa","Let me know next time you guys are hiring.
-I'm already trained for heavy lifting, you
-know?");
+I'm already trained for heavy lifting,
+you know?");
     MsgDisp("主人公","Hehe, I'll let you know.");
     ChEye(2,0);
     ChMouth(2,4);

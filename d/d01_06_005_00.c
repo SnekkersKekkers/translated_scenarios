@@ -8,8 +8,7 @@ building. Come to think of it, two years ago
 here I met Himuro—)");
 MsgClose();
 ChOpen(6,254,7,2,0,0,#1,0,0);
-MsgDisp("主人公","Eh...
-｛Himuro＊＊｝?");
+MsgDisp("主人公","Eh... ｛Himuro＊＊｝?");
 SEPlay("EV_SE_544",0,0.5);
 ChEye(6,3);
 ChMouth(6,0);
@@ -21,8 +20,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600500_06_010");
 MsgDisp("Himuro","What are you doing here...?");
-MsgDisp("主人公","Well, the graduation ceremony will be here
-soon.
+MsgDisp("主人公","Well, the graduation ceremony will be
+here soon.
 So I guess I'm getting emotional?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -112,8 +111,7 @@ StlEye(6,0);
 StlMouth(6,1);
 VoicePlay("D010600500_06_130");
 MsgDisp("Himuro","You're really inconsiderate.");
-MsgDisp("主人公","Ack...
-Sorry.");
+MsgDisp("主人公","Ack... Sorry.");
 StlEye(6,1,0);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0,1);
@@ -145,10 +143,9 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("D010600500_06_170");
-MsgDisp("Himuro","Pfft...
-What's with you.");
-MsgDisp("主人公","(Looks like ｛Himuro＊＊｝ is back to his usual
-self?
+MsgDisp("Himuro","Pfft... What's with you.");
+MsgDisp("主人公","(Looks like ｛Himuro＊＊｝ is back to his
+usual self?
 What a relief...)");
 BGMStop();
 MsgClose();

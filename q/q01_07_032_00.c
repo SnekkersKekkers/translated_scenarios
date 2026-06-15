@@ -52,8 +52,7 @@ switch (MsgSelRsltGet()){
 	case 0:
 	SEPlay("EV_SE_516",0,1);
 	SEWait();
-	MsgDisp("主人公","(Wah—
-There's someone inside the closet!)");
+	MsgDisp("主人公","(Wah— There's someone inside the closet!)");
 	MsgDisp("主人公","(Who could it be...
 It's too dark, I can't see anything...)");
 	MsgDisp("主人公","(Ooh, they're so close...
@@ -76,8 +75,7 @@ I've got to get out of here quickly!)");
 	case 1:
 	SEPlay("EV_SE_629");
 	SEWait();
-	MsgDisp("主人公","(Wah～
-There's someone in the futon!)");
+	MsgDisp("主人公","(Wah～ There's someone in the futon!)");
 	MsgDisp("主人公","(Aah, I'm sorry!
 Right now, our bodies are touching...!)");
 	MsgDisp("主人公","(You can hear my heart beating...
@@ -100,13 +98,11 @@ I've got to quickly get out of here!)");
 	case 2:
 	SEPlay("EV_SE_675");
 	SEWait();
-	MsgDisp("主人公","(Wah!
-Someone's under the table!)");
+	MsgDisp("主人公","(Wah! Someone's under the table!)");
 	MsgDisp("主人公","(W-Who could it be...
 They feel so close...)");
 	MsgDisp("主人公","(Ooh, I can't move!
-Teachers, please leave already～
-∈)");
+Teachers, please leave already～ ∈)");
 	VoicePlay("Q010703200_32_050");
 	MsgDisp("VP Himuro","Jeez...
 If they have this much energy, they should
@@ -117,8 +113,7 @@ use it to write a report. And then—");
 	MsgDisp("Mikage","Y-Yes.");
 	SEPlay("EV_SE_738");
 	SEWait();
-	MsgDisp("主人公","(Phew...
-It seems they've left.
+	MsgDisp("主人公","(Phew... It seems they've left.
 I have to get out of here quickly!)");
 	break ;
 	default :

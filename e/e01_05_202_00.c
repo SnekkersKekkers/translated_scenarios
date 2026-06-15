@@ -22,8 +22,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("E010520200_03_010");
 MsgDisp("Honda","Hello!
-I was just surprised by how popular Yano-kun
-is.");
+I was just surprised by how popular
+Yano-kun is.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -42,8 +42,8 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("E010520200_03_020");
 MsgDisp("Honda","I just answer the questions they ask me.
-I guess quizzes are really popular among
-kids.");
+I guess quizzes are really popular
+among kids.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

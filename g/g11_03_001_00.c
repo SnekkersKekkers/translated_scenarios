@@ -38,22 +38,20 @@ ScrFadeIn(0);
 VoicePlay("G110300100_03_030");
 MsgDisp("Honda","Is this it?
 The book you were looking for before?");
-MsgDisp("主人公","Yeah.
-That's right.");
+MsgDisp("主人公","Yeah. That's right.");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300100_03_040");
-MsgDisp("Honda","Yep yep, we were talking about it at work,
-right?");
+MsgDisp("Honda","Yep yep, we were talking about it at
+work, right?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300100_03_050");
 MsgDisp("Honda","Ah, but it wasn't delivered.
 I just found it crammed in a weird shelf.");
-MsgDisp("主人公","I see.
-You did a good job of finding it, huh?");
+MsgDisp("主人公","I see. You did a good job of finding it, huh?");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);

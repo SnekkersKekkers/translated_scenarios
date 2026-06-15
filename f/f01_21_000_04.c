@@ -7,8 +7,7 @@ switch (ChPrmGet(21,6)){
     ChMouth(21,4);
     ChMotion(21,5);
     VoicePlay("F012100004_21_000");
-    MsgDisp("Michiru","I have plans today, so no.
-Sorry.");
+    MsgDisp("Michiru","I have plans today, so no. Sorry.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -23,8 +22,7 @@ I'll go home alone.)");
     VoicePlay("F012100004_21_010");
     MsgDisp("Michiru","My apologies.
 I have errands today.");
-    MsgDisp("主人公","I see.
-Well, it can't be helped...");
+    MsgDisp("主人公","I see. Well, it can't be helped...");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,0);
@@ -49,8 +47,7 @@ I'll go home alone.)");
     ChMotion(21,2);
     VoicePlay("F012100004_21_040");
     MsgDisp("Michiru","That's right.
-Sorry, Mari.
-Bye...");
+Sorry, Mari. Bye...");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(21);

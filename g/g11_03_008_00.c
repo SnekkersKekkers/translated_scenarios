@@ -1,8 +1,8 @@
 BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This an expanded colour version of the insect
-encyclopedia huh...
+MsgDisp("主人公","(This an expanded colour version of the
+insect encyclopedia huh...
 What a splendid book...)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
@@ -55,8 +55,8 @@ ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300800_03_040");
 MsgDisp("Honda","Ah, you want this one too—!");
-MsgDisp("主人公","That's because ｛Honda＊＊｝ was holding it so
-dearly.");
+MsgDisp("主人公","That's because ｛Honda＊＊｝ was holding it
+so dearly.");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);

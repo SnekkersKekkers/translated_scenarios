@@ -26,8 +26,8 @@ ChMouth(4,2);
 ChMotion(4,1);
 VoicePlay("G110400601_04_030");
 MsgDisp("Nanatsumori","...But, what is it.");
-MsgDisp("主人公","I was just wondering if you talked to your
-sister.");
+MsgDisp("主人公","I was just wondering if you talked to
+your sister.");
 ChEye(4,1);
 ChMouth(4,2);
 VoicePlay("G110400601_04_040");
@@ -35,10 +35,9 @@ MsgDisp("Nanatsumori","Oh, that.");
 ChMotion(4,2);
 VoicePlay("G110400601_04_050");
 MsgDisp("Nanatsumori","I made things right.
-I stayed on the phone with her for a long
-time.");
-MsgDisp("主人公","I see.
-Hehe, I'm glad!");
+I stayed on the phone with her for a
+long time.");
+MsgDisp("主人公","I see. Hehe, I'm glad!");
 ChEye(4,0);
 ChMouth(4,1);
 ChMotion(4,0);

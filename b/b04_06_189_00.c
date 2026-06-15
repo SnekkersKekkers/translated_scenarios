@@ -36,8 +36,8 @@ But, before I knew it, I was already into it.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040618900_06_020");
-    MsgDisp("Himuro","You failed as soon as you came to your
-senses.");
+    MsgDisp("Himuro","You failed as soon as you came to
+your senses.");
     MsgDateResultDisp();
     break ;
     default :

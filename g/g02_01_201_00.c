@@ -24,15 +24,15 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120100_01_030");
 MsgDisp("Kazama","...Sorry.
-But I want to know how you feel, even just a
-little.");
+But I want to know how you feel, even just
+a little.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120100_01_040");
-MsgDisp("Kazama","So, anyway, that might be why I brought you
-here.");
+MsgDisp("Kazama","So, anyway, that might be why I brought
+you here.");
 MsgDisp("主人公","I like it here; it's pretty.");
 ChEye(1,4);
 ChMouth(1,4);

@@ -52,14 +52,13 @@ This is your last job as manager, right?");
     ChMotion(4,1,1);
     VoicePlay("H280400000_04_060");
     MsgDisp("Nanatsumori","Then, I'll be cheering you on.
-In my heart, from my seat in the audience,
-okay?");
+In my heart, from my seat in the
+audience, okay?");
     MsgDisp("主人公","Hehe, thanks.");
     ChEye(4,4);
     ChMotion(4,0,1);
     VoicePlay("H280400000_04_070");
-    MsgDisp("Nanatsumori","Yeah.
-Go and do your best, manager.");
+    MsgDisp("Nanatsumori","Yeah. Go and do your best, manager.");
     MsgDisp("主人公","(Alright, let's do our best!)");
     break ;
     default :

@@ -35,8 +35,8 @@ seems delicious.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","Hehe.
-This year, I reccomend the organic vegetable
-salad.");
+This year, I reccomend the organic
+vegetable salad.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -71,8 +71,7 @@ It's a wonderful shop, huh?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P630200002_02_050");
-    MsgDisp("Sassa","Yeah.
-It's doesn't look like school.
+    MsgDisp("Sassa","Yeah. It's doesn't look like school.
 The menu also looks promising.");
 MsgDisp("主人公","This year we're not just selling vegetables,
 the shop is offering salad for you to enjoy.");

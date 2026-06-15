@@ -8,8 +8,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B040130001_01_000");
 MsgDisp("Kazama","That's right.
-I made some cookies yesterday, do you want
-some?");
+I made some cookies yesterday, do you
+want some?");
 MsgSel("Yeah, let's have a teatime!","It's almost unfair how good ｛Kazama＊＊｝ is at everything...","Then, I'll make some tea.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -44,8 +44,7 @@ Do you want some black tea?");
     ChMotion(1,4);
     ChCheek(1,5);
     VoicePlay("B040130001_01_030");
-    MsgDisp("Kazama","O-Oh.
-Can you say that again?");
+    MsgDisp("Kazama","O-Oh. Can you say that again?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

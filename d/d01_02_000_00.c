@@ -6,8 +6,7 @@ But thanks to that, I get to see a beautiful
 sunset.)");
 VoicePlay("D010200000_02_000");
 MsgDisp("Sassa?","Hey!");
-MsgDisp("主人公","Huh?
-Is that...
+MsgDisp("主人公","Huh? Is that...
 ｛Sassa＊＊｝?");
 VoicePlay("D010200000_02_010");
 MsgDisp("Sassa","Over here!
@@ -40,18 +39,15 @@ StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("D010200000_02_040");
 MsgDisp("Sassa","Right, you should take off your shoes too.");
-MsgDisp("主人公","Eh...
-The water looks cold.");
+MsgDisp("主人公","Eh... The water looks cold.");
 StlEye(2,3);
 StlMouth(2,1);
 VoicePlay("D010200000_02_050");
-MsgDisp("Sassa","Yeah, it's really cold!
-See!");
+MsgDisp("Sassa","Yeah, it's really cold! See!");
 ScrFadeOut(0,0,30);
 SEPlay("EV_SE_607");
 SEWait();
-MsgDisp("主人公","Kyaaa!
-Cold!");
+MsgDisp("主人公","Kyaaa! Cold!");
 StlClose();
 BGOpen("wf620",1);
 MsgDisp("","　　　　　　　　　　 ・
@@ -77,8 +73,7 @@ ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D010200000_02_080");
-MsgDisp("Sassa","Ah...
-I got a bit carried away.
+MsgDisp("Sassa","Ah... I got a bit carried away.
 My pants are wet.");
 MsgDisp("主人公","You get what you deserve!");
 ChEye(2,0);

@@ -12,8 +12,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040123601_01_000");
-MsgDisp("Kazama","You can't go home without seeing this Night
-Parade.");
+MsgDisp("Kazama","You can't go home without seeing this
+Night Parade.");
 MsgSel("Let's grab a good spot next time.","Hehe, you really love this huh?","How much firefly power is this?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,8 +22,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040123601_01_010");
-    MsgDisp("Kazama","OK!
-Next time we'll be front row.");
+    MsgDisp("Kazama","OK! Next time we'll be front row.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

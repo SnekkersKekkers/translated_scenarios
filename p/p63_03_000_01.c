@@ -8,8 +8,8 @@ switch (ChPrmGet(3,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(This year we're serving herbal tea and selling
-vegetables.
+    MsgDisp("主人公","(This year we're serving herbal tea and
+selling vegetables.
 It would be nice if it was well-received...)");
     MsgClose();
     ChOpen(3,254,1,0,3,#1,#1,0,0);
@@ -27,15 +27,15 @@ vegetables harvested in the morning?");
 The herbal tea too.");
     ChSet(3,4);
     VoicePlay("P630300001_03_020");
-    MsgDisp("Honda","Yep yep, then I'll have one cup to start
-with.");
+    MsgDisp("Honda","Yep yep, then I'll have one cup to
+start with.");
     MsgDisp("主人公","Yes, one customer.
 This way please!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year we're serving herbal tea and selling
-vegetables.
+    MsgDisp("主人公","(This year we're serving herbal tea and
+selling vegetables.
 It would be nice if it was well-received...)");
     MsgClose();
     ChOpen(3,254,4,0,0,#1,#1,0,0);
@@ -50,16 +50,14 @@ Welcome!");
     VoicePlay("P630300001_03_040");
     MsgDisp("Honda","Herbs and fresh vegetables...
 The two-layer healing effect is amazing, huh?");
-    MsgDisp("主人公","Hehe.
-It's certainly healing, huh?");
+    MsgDisp("主人公","Hehe. It's certainly healing, huh?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("P630300001_03_050");
     MsgDisp("Honda","No, that smile!
 That's—a triple effect～");
-    MsgDisp("主人公","Umm...
-Should I show you to a table first?");
+    MsgDisp("主人公","Umm... Should I show you to a table first?");
     break ;
     default :
     DbgAssert(1);

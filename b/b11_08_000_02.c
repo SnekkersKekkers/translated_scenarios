@@ -33,8 +33,7 @@ MsgDisp("主人公","Ah, ｛Daichi＊＊｝.");
 ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110800002_35_030");
-MsgDisp("Guy","Oh!
-A baby faced guy has arrived!");
+MsgDisp("Guy","Oh! A baby faced guy has arrived!");
 MsgDispSksp(1,5);
 ChEye(8,2);
 ChMouth(8,2);
@@ -56,8 +55,7 @@ MsgDispSksp(0);
 ChEye(35,2);
 ChMouth(35,2);
 VoicePlay("B110800002_35_040");
-MsgDisp("Guy","Eh?
-Wait a second you guys～!");
+MsgDisp("Guy","Eh? Wait a second you guys～!");
 MsgDispSksp(1,5);
 ChEye(8,2);
 ChMouth(8,0);

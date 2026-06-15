@@ -13,8 +13,7 @@ VoicePlay("F020700009_07_000");
 MsgDisp("Mikage","Yeah.
 The vegetables for sale are just ripening, so
 this year the timing looks perfect.");
-MsgDisp("主人公","Yes.
-The herbs have grown nicely.");
+MsgDisp("主人公","Yes. The herbs have grown nicely.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

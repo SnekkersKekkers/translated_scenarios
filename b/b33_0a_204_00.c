@@ -116,8 +116,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A20400_02_050");
 MsgDisp("Sassa","Thank you.
-Well, shall we have the after-party at a
-cafe?");
+Well, shall we have the after-party at
+a cafe?");
 MsgDisp("主人公","(｛Sassa＊＊｝ doesn't really talk about
 athletics, but everyone cares... I'm happy
 the three of them get along so well.)");

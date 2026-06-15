@@ -61,15 +61,13 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2);
 VoicePlay("G110400704_04_080");
-MsgDisp("Nanatsumori","...Yeah.
-In any case, I'm fine with it...");
+MsgDisp("Nanatsumori","...Yeah. In any case, I'm fine with it...");
 MsgDisp("主人公","?");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0);
 VoicePlay("G110400704_04_090");
-MsgDisp("Nanatsumori","Phew!
-Today was a good day.");
+MsgDisp("Nanatsumori","Phew! Today was a good day.");
 MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ is in a good mood.
 Thank you for your hard work today.)");
 BGMStop();

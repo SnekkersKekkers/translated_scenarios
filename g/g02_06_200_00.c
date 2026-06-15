@@ -21,8 +21,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620000_06_030");
-MsgDisp("Himuro","Even today, didn't you want to come with that
-person?");
+MsgDisp("Himuro","Even today, didn't you want to come with
+that person?");
 MsgDisp("主人公","That's not true!");
 ChEye(6,1);
 ChMouth(6,0);
@@ -43,8 +43,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620000_06_060");
 MsgDisp("Himuro","What am I even doing?
-At this rate, I'll never be number one to
-you.");
+At this rate, I'll never be number one
+to you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

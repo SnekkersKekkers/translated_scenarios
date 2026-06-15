@@ -4,8 +4,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630003_06_000");
-MsgDisp("Himuro","Sigh...
-I don't get it at all.");
+MsgDisp("Himuro","Sigh... I don't get it at all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -43,8 +42,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630003_06_060");
-MsgDisp("Himuro","Both of them live by values that I don't
-have.
+MsgDisp("Himuro","Both of them live by values that I
+don't have.
 I respect them and want to learn from them.");
 ChEye(6,0);
 ChMouth(6,4);

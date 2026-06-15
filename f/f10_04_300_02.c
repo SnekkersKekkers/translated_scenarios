@@ -34,9 +34,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100430002_22_020");
-MsgDisp("Hikaru","Ehe▼
-It's definitely weird, right?
-Umm...");
+MsgDisp("Hikaru","Ehe▼ It's definitely weird, right? Umm...");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -88,8 +86,7 @@ ChEye(4,2);
 ChMouth(4,5);
 ChMotion(4,0,1);
 VoicePlay("F100430002_04_040");
-MsgDisp("Nanatsumori","Ha?
-Not yet...No!
+MsgDisp("Nanatsumori","Ha? Not yet...No!
 Don't look at me like that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -9,8 +9,7 @@ MsgDisp("主人公","Now I think about it, ｛Nanatsumori＊｝, isn't
 it almost your birthday?");
 VoicePlay("F020400004_04_000");
 MsgDisp("Nanatsumori","Oh.");
-MsgDisp("主人公","Huh?
-Shouldn't you be happy?");
+MsgDisp("主人公","Huh? Shouldn't you be happy?");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,2,1);
@@ -30,14 +29,13 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("F020400004_04_030");
-MsgDisp("Nanatsumori","...Oh.
-That's what it is.
+MsgDisp("Nanatsumori","...Oh. That's what it is.
 We do presents at my house, but not cake.");
 ChEye(4,2);
 VoicePlay("F020400004_04_040");
-MsgDisp("Nanatsumori","I eat whatever I want, get my gift money, and
-then go shopping and get a birthday cake for
-myself.");
+MsgDisp("Nanatsumori","I eat whatever I want, get my gift money,
+and then go shopping and get a birthday cake
+for myself.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);

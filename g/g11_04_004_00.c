@@ -1,7 +1,7 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I feel like stopping by Cafe Alucard for a
-bit...)");
+MsgDisp("主人公","(I feel like stopping by Cafe Alucard for
+a bit...)");
 MsgDisp("主人公","Alright, let's go!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -28,14 +28,12 @@ ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 MsgDisp("主人公","｛Nanatsumori＊｝.");
 VoicePlay("G110400400_04_010");
-MsgDisp("Nanatsumori","Yo.
-What's up?");
+MsgDisp("Nanatsumori","Yo. What's up?");
 MsgDisp("主人公","I just felt like coming here.
 ｛Nanatsumori＊｝, are you working?");
 ChMotion(4,2);
 VoicePlay("G110400400_04_020");
-MsgDisp("Nanatsumori","Yeah.
-For people like you.");
+MsgDisp("Nanatsumori","Yeah. For people like you.");
 MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,2);
@@ -54,8 +52,8 @@ VoicePlay("G110400400_04_050");
 MsgDisp("Nanatsumori","I'm looking forward to it too.
 Maybe you'll decide to have a date with me
 next time too.");
-MsgDisp("主人公","(A date...
-I see! ｛Nanatsumori＊｝ really is paying close
+MsgDisp("主人公","(A date... I see!
+｛Nanatsumori＊｝ really is paying close
 attention after all.)");
 BGMStop();
 MsgClose();

@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040608502_06_010");
-    MsgDisp("Himuro","It's not something to be concerned about
-though?");
+    MsgDisp("Himuro","It's not something to be concerned
+about though?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -57,8 +57,8 @@ I'm sorry.");
         ChMotion(6,1);
         VoicePlay("B040608502_06_040");
         MsgDisp("Himuro","I can't just disregard it.
-I'll always be worried about you no matter
-what.");
+I'll always be worried about you no
+matter what.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

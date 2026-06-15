@@ -1,8 +1,7 @@
 BGOpen("wf400",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(...Huh?
-The event hall is packed...)");
+MsgDisp("主人公","(...Huh? The event hall is packed...)");
 MsgDisp("主人公","(\"Charity Auction Ongoing!\" , huh...
 Wow, it's free to enter!)");
 VoicePlay("D010100600_31_000");
@@ -17,8 +16,7 @@ ChMotion(31,3);
 VoicePlay("D010100600_31_010");
 MsgDisp("Goro","Yes, you're just the kind of girl I thought
 you were.");
-MsgDisp("主人公","?
-Uhm, what do you mean...?");
+MsgDisp("主人公","? Uhm, what do you mean...?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
@@ -46,20 +44,18 @@ MsgDisp("主人公","(Phew, that surprised me.
 But I managed to get to the auction in time.
 I wonder what's happening here...?)");
 VoicePlay("D010100600_01_000");
-MsgDisp("Kazama?","—Charity Auction Catalogue: Collection Number
-1");
-MsgDisp("主人公","(Huh?
-That voice, that's...)");
+MsgDisp("Kazama?","—Charity Auction Catalogue: Collection
+Number 1");
+MsgDisp("主人公","(Huh? That voice, that's...)");
 StlOpen("ev_01_13");
 StlEye(1,0);
 StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 VoicePlay("D010100600_01_010");
-MsgDisp("Kazama","A champagne glass designed by
-Goro Hanatsubaki.");
-MsgDisp("主人公","(Eh...
-Ehh∋
+MsgDisp("Kazama","A champagne glass designed by Goro
+Hanatsubaki.");
+MsgDisp("主人公","(Eh... Ehh∋
 ｛Kazama＊＊｝∋)");
 VoicePlay("D010100600_01_020");
 MsgDisp("Kazama","Goro Hanatsubaki is a world famous fashion
@@ -83,8 +79,7 @@ VoicePlay("D010100600_01_050");
 MsgDisp("Kazama","...!");
 StlEyeOpenLevel(1,5);
 StlMouthOpenLevel(1,#1);
-MsgDisp("主人公","(Ah...
-Did our eyes meet just now?)");
+MsgDisp("主人公","(Ah... Did our eyes meet just now?)");
 StlEye(1,0);
 SEPlay("EV_SE_605",0,0.9);
 SEWait();

@@ -24,8 +24,8 @@ I don't really like doing things with a lot
 of people, so I respect that.");
 ChMotion(4,1,1);
 VoicePlay("G020430100_04_040");
-MsgDisp("Nanatsumori","It's too difficult to differentiate men and
-women.");
+MsgDisp("Nanatsumori","It's too difficult to differentiate men
+and women.");
 MsgDisp("主人公","I don't know about that...");
 ChEye(4,2);
 ChMouth(4,0);

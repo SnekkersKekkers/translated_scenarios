@@ -39,8 +39,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D140B05002_04_010");
-MsgDisp("Nanatsumori","No...
-It's not really like that...");
+MsgDisp("Nanatsumori","No... It's not really like that...");
 ChEyeOpenLevel(1,0);
 ChEye(3,0);
 ChMouth(3,3);
@@ -66,8 +65,7 @@ VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Ah, yeah.
 That's right.
 That's all. Right, ｛主人公｝?");
-MsgDisp("主人公","Ah...
-Yeah.");
+MsgDisp("主人公","Ah... Yeah.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

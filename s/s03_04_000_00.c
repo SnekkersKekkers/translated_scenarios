@@ -24,8 +24,7 @@ Happy New Year!");
     MsgDisp("主人公","Hey, do you want to visit the shrine
 together?");
     VoicePlay("S030400000_04_040");
-    MsgDisp("Nanatsumori","Eh?
-But it's so cold outside.");
+    MsgDisp("Nanatsumori","Eh? But it's so cold outside.");
     MsgDisp("主人公","I'm a child of the wind!
 I'll be totally fine!");
     break ;
@@ -38,8 +37,7 @@ I'll be totally fine!");
     MsgDisp("主人公","Hehe, Happy New Year.
 Treat me well this year, ｛Nanatsumori＊｝.");
     VoicePlay("S030400000_04_060");
-    MsgDisp("Nanatsumori","You too.
-...Haha.");
+    MsgDisp("Nanatsumori","You too. ...Haha.");
     MsgDisp("主人公","Why are you laughing?");
     VoicePlay("S030400000_04_070");
     MsgDisp("Nanatsumori","Hearing your cheerful voice first thing this

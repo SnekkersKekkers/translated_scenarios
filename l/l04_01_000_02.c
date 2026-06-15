@@ -46,16 +46,14 @@ He seemed happy.)");
     MsgDisp("Kazama","How much does your job pay you?
 Thinking about that, it's a little hard to
 eat this.");
-    MsgDisp("主人公","Huh?
-It looks delicious, so eat it properly.");
+    MsgDisp("主人公","Huh? It looks delicious, so eat it properly.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("L040100002_01_050");
     MsgDisp("Kazama","You're right.
 I'll appreciate it properly.");
-    MsgDisp("主人公","(Yeah.
-He seemed happy.)");
+    MsgDisp("主人公","(Yeah. He seemed happy.)");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -77,8 +75,8 @@ He seemed happy.)");
     MsgDisp("Kazama","...Honestly, you didn't have to do that.
 It's the thought that counts.");
     ChMotion(1,0);
-    MsgDisp("主人公","Well, the chocolate looked super delicious,
-too.");
+    MsgDisp("主人公","Well, the chocolate looked super
+delicious, too.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0,1);

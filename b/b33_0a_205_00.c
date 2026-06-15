@@ -33,8 +33,7 @@ VoicePlay("B330A20500_02_020");
 MsgDisp("Sassa","Next, it's Inori.
 Do your best!");
 VoicePlay("B330A20500_06_000");
-MsgDisp("Himuro","High five...
-I see.
+MsgDisp("Himuro","High five... I see.
 If I get a strike, I get to do that...");
 VoicePlay("B330A20500_01_000");
 MsgDisp("Kazama","If your thoughts ain't straight, the ball
@@ -88,8 +87,7 @@ ChOpen(2,255,3,3,3,#1,#1,0,3,0,30);
 ChOpen(6,255,4,0,4,#1,#1,0,3,0,30);
 ChOpen(1,255,0,2,2,0,#1,0,3,0,30);
 VoicePlay("B330A20500_02_050");
-MsgDisp("Sassa","Haha!
-Ryota, that's too crooked.");
+MsgDisp("Sassa","Haha! Ryota, that's too crooked.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
@@ -114,8 +112,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A20500_01_030");
-MsgDisp("Kazama","It's like Inori has turned the other way in a
-huff.");
+MsgDisp("Kazama","It's like Inori has turned the other way in
+a huff.");
 MsgDisp("主人公","Hehe, true.");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);

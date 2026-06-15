@@ -75,8 +75,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140A05002_01_030");
-MsgDisp("Kazama","Huh?
-What does that mean?");
+MsgDisp("Kazama","Huh? What does that mean?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -106,8 +105,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140A05002_06_040");
 MsgDisp("Himuro","That sort of worrying is useless.");
-MsgDisp("主人公","(Ugh...it's kind of uncomfortable to be
-here.)");
+MsgDisp("主人公","(Ugh...it's kind of uncomfortable to
+be here.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

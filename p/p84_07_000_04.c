@@ -5,8 +5,7 @@ supplies.");
 VoicePlay("P840700004_48_000");
 MsgDisp("School Girl","No that was because ours was put in that
 space too.");
-MsgDisp("主人公","Phew...
-Then, please take care.");
+MsgDisp("主人公","Phew... Then, please take care.");
 VoicePlay("P840700004_41_020");
 MsgDisp("School Boy","I'm sorry to have caused you trouble—.");
 MsgDisp("主人公","(I'm glad it ended without any problems...)");

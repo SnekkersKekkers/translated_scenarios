@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040611001_06_010");
     MsgDisp("Himuro","I'm glad then.
-It makes it worthwhile for me to come here
-too.");
+It makes it worthwhile for me to come
+here too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

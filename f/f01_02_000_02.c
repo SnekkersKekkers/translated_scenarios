@@ -19,8 +19,7 @@ switch (MsgSelRsltGet()){
         ChOpen(2,254,0,0,4,#1,#1,0,0);
         VoicePlay("F010200002_02_010");
         MsgDisp("Sassa","Right now?");
-        MsgDisp("主人公","Yeah.
-Let's go together.");
+        MsgDisp("主人公","Yeah. Let's go together.");
         break ;
         case 4:
         case 5:

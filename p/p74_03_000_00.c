@@ -19,8 +19,7 @@ ChMotion(3,3,1);
 VoicePlay("P740300000_03_010");
 MsgDisp("Honda","Hmmm, but you're number one.
 The audience's applause was loudest for you.");
-MsgDisp("主人公","(Hehe!
-Yay, it was a huge success!)");
+MsgDisp("主人公","(Hehe! Yay, it was a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

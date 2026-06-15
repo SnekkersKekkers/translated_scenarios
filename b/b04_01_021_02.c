@@ -69,8 +69,7 @@ switch (MsgSelRsltGet()){
         ChCheek(1,7);
         VoicePlay("B040102102_01_060");
         MsgDisp("Kazama","...Is this good?");
-        MsgDisp("主人公","Yeah...
-Hehehe.");
+        MsgDisp("主人公","Yeah... Hehehe.");
         ChMotion(1,3);
         Wait(10,0);
         ChEye(1,0);
@@ -104,8 +103,8 @@ Jeez, let's go!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102102_01_090");
-    MsgDisp("Kazama","Well, I guess that's just how good it feels,
-huh?");
+    MsgDisp("Kazama","Well, I guess that's just how good it
+feels, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

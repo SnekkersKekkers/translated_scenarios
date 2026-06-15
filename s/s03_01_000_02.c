@@ -17,8 +17,7 @@ I'll just go alone.)");
     break ;
     case 3:
     VoicePlay("S030100002_01_020");
-    MsgDisp("Kazama","Sorry, I can't.
-Pull one for me, okay?");
+    MsgDisp("Kazama","Sorry, I can't. Pull one for me, okay?");
     MsgDisp("主人公","Oh, I guess it can't be helped.");
     VoicePlay("S030100002_01_030");
     MsgDisp("Kazama","Listen, it's not safe to go alone.

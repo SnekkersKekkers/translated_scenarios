@@ -5,8 +5,8 @@ MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623101_06_000");
-MsgDisp("Himuro","It was lucky that we got to ride at the
-front.");
+MsgDisp("Himuro","It was lucky that we got to ride at
+the front.");
 MsgSel("The view was wonderful!","Ehh∋ More like unlucky","Double the thrill...");
 switch (MsgSelRsltGet()){
     case 0:

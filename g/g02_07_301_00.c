@@ -10,10 +10,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("G020730100_07_010");
-MsgDisp("Mikage","Having fun with friends is above anything
-else.");
-MsgDisp("主人公","Yes.
-I think I've made more friends.");
+MsgDisp("Mikage","Having fun with friends is above
+anything else.");
+MsgDisp("主人公","Yes. I think I've made more friends.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

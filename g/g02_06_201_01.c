@@ -76,8 +76,7 @@ ChMotion(6,4);
 VoicePlay("G020620101_06_110");
 MsgDisp("Himuro","Sorry...
 You just looked so tormented.");
-MsgDisp("主人公","Hey!
-Of course I did...");
+MsgDisp("主人公","Hey! Of course I did...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

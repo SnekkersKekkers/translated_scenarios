@@ -11,8 +11,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("D140A04102_01_000");
 MsgDisp("Kazama","Right?
-Is it like usual where he's just not in the
-mood?");
+Is it like usual where he's just not in
+the mood?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -53,8 +53,7 @@ MsgDisp("Sassa","Ah, but the other day, a teacher praised him
 in the hallway and he made the scariest face.
 He was holding back though.");
 ChMouth(1,2);
-MsgDisp("主人公","Eh?
-He was being praised though, wasn't he?");
+MsgDisp("主人公","Eh? He was being praised though, wasn't he?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
@@ -108,8 +107,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D140A04102_02_080");
-MsgDisp("Sassa","Hmm...
-I'm sure that goes for you too?");
+MsgDisp("Sassa","Hmm... I'm sure that goes for you too?");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,2);

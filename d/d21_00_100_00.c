@@ -2,8 +2,7 @@ BGOpen("ne000",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(...Ah!
-It's a text message from Goro-sensei.
+MsgDisp("主人公","(...Ah! It's a text message from Goro-sensei.
 It says:)");
 MsgDisp("主人公","(\"It seems a new spot has opened up in a
 corner of the Forest Park.
@@ -65,10 +64,9 @@ ChMouth(31,3);
 ChMotion(31,4);
 VoicePlay("D210000110_31_040");
 MsgDisp("Goro","Oh my, how stunning.
-You'll be able to hear the voice of their
-heart!");
-MsgDisp("主人公","Ehhh∋
-Amazing, is that really true?");
+You'll be able to hear the voice of
+their heart!");
+MsgDisp("主人公","Ehhh∋ Amazing, is that really true?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);

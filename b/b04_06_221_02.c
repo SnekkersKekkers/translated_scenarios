@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040622102_06_010");
-    MsgDisp("Himuro","I guess you've seen everything there is to
-see.");
+    MsgDisp("Himuro","I guess you've seen everything there is
+to see.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -69,8 +69,7 @@ question.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040622102_06_060");
-        MsgDisp("Himuro","But, it's not a no.
-If you want.");
+        MsgDisp("Himuro","But, it's not a no. If you want.");
         MsgDisp("主人公","I'm glad.
 Thank you.");
         ChEye(6,0);

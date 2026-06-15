@@ -21,8 +21,7 @@ I will think about how best to use this.
 Allow me to take it home.");
 MsgClose();
 ChClose(5);
-MsgDisp("主人公","(Ugh...
-I don't think he liked it.)");
+MsgDisp("主人公","(Ugh... I don't think he liked it.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

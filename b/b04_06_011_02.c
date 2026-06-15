@@ -37,8 +37,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040601102_06_030");
         MsgDisp("Himuro","It's not even a place I particularly like,
 yet I've come here three times.");
-        MsgDisp("主人公","Uh...
-I'm sorry.");
+        MsgDisp("主人公","Uh... I'm sorry.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);
@@ -51,8 +50,7 @@ I'm sorry.");
         VoicePlay("B040601102_06_050");
         MsgDisp("Himuro","...Well, it's fun when you're with someone
 who has a new reaction each time right?");
-        MsgDisp("主人公","Eh...
-That—");
+        MsgDisp("主人公","Eh... That—");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
@@ -74,8 +72,7 @@ My face is not doing that!");
         ChMotion(6,0);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040601102_06_080");
-        MsgDisp("Himuro","Haha!
-I really don't get tired of you.");
+        MsgDisp("Himuro","Haha! I really don't get tired of you.");
         MsgDisp("主人公","(I'm a little frustrated...)");
         break ;
         default :
@@ -89,8 +86,7 @@ I really don't get tired of you.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040601102_06_090");
-    MsgDisp("Himuro","Hmmm.
-Well, it's not that uncomfortable.");
+    MsgDisp("Himuro","Hmmm. Well, it's not that uncomfortable.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -47,8 +47,7 @@ VoicePlay("G020740000_07_060");
 MsgDisp("Mikage","How about it?
 If you haven't decided on your dream, we're
 looking for employees?");
-MsgDisp("主人公","Ehh∋
-Me?");
+MsgDisp("主人公","Ehh∋ Me?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);

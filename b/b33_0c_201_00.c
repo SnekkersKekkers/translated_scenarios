@@ -83,8 +83,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20100_07_040");
-MsgDisp("Mikage","So you're risking your life just by getting
-close.");
+MsgDisp("Mikage","So you're risking your life just by
+getting close.");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -96,8 +96,7 @@ ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C20100_06_030");
 MsgDisp("Himuro","Guys, it should be fine at this distance.");
-MsgDisp("主人公","(?
-What are they talking about...?)");
+MsgDisp("主人公","(? What are they talking about...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

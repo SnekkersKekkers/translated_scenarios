@@ -29,8 +29,8 @@ SEPlay("EV_SE_GAYA_003",0.5);
 SEPlay("EV_SE_792",0.5);
 SEPlay("EV_SE_847",0.5);
 MsgDisp("主人公","(Woah, everyone is so fast!
-Like you'd expect, ｛Sassa＊＊｝ is in the
-lead!)");
+Like you'd expect, ｛Sassa＊＊｝ is in
+the lead!)");
 MsgDisp("主人公","(The guy in the orange behind him is also
 very fast!
 ...Wait, is that?)");
@@ -79,8 +79,7 @@ In the end it was a close match...)");
 MsgDisp("主人公","(The two of them are really amazing.
 My heart is still racing...)");
 VoicePlay("D010800200_08_000");
-MsgDisp("Shirahane?","Ah...
-Ahh!");
+MsgDisp("Shirahane?","Ah... Ahh!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();

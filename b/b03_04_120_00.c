@@ -9,6 +9,5 @@ MsgDisp("Nanatsumori","You can have fun even if you aren't looking
 for something specific.
 That's the true charm of flea markets.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Hehe!
-Hope we find some hidden gems.");
+MsgDisp("主人公","Hehe! Hope we find some hidden gems.");
 MsgDispSksp(0);

@@ -53,9 +53,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100500_01_040");
-MsgDisp("Kazama","After you graduate, why not have my grandpa
-take care of it at his shop until the real
-thing?");
+MsgDisp("Kazama","After you graduate, why not have my
+grandpa take care of it at his shop until
+the real thing?");
 MsgDisp("主人公","Ehh∋
 The real thing, you mean my actual wedding?");
 ChEye(1,1);

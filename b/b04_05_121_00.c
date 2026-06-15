@@ -30,8 +30,7 @@ I'm looking forward to it.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("B040512100_05_020");
-    MsgDisp("Hiiragi","Yes.
-But, can it be done that simply?");
+    MsgDisp("Hiiragi","Yes. But, can it be done that simply?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

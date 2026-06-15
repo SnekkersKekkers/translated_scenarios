@@ -72,8 +72,8 @@ I think it turned out well but...)");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("P730500001_05_070");
-    MsgDisp("Hiiragi","I was so captivated that I forgot to greet
-you.");
+    MsgDisp("Hiiragi","I was so captivated that I forgot to
+greet you.");
     MsgDisp("主人公","Really?
 Hearing ｛Hiiragi＊＊＊｝ say that, helped me gain
 some confidence.");
@@ -110,10 +110,9 @@ Believe in me.");
     ChMotion(5,0,1);
     VoicePlay("P730500001_05_120");
     MsgDisp("Hiiragi","Alright, have fun.");
-    MsgDisp("主人公","Yeah.
-｛Hiiragi＊＊＊｝, thank you!");
-    MsgDisp("主人公","(While not forgetting to smile, I'll do my
-best!)");
+    MsgDisp("主人公","Yeah. ｛Hiiragi＊＊＊｝, thank you!");
+    MsgDisp("主人公","(While not forgetting to smile, I'll do
+my best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(5,0,0);

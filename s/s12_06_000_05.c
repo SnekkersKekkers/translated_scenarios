@@ -16,8 +16,8 @@ switch (ChPrmGet(6,6)){
     ScrFadeIn(0);
     VoicePlay("S120600002_06_040");
     MsgDisp("Himuro","...Were you fine being with me?
-On the last New Years of your high school
-years.");
+On the last New Years of your high
+school years.");
     MsgDisp("主人公","Eh, what do you mean?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -43,8 +43,7 @@ year, I'll go with you again.");
     ChMouth(6,4);
     ChMotion(6,1);
     VoicePlay("S120600002_06_080");
-    MsgDisp("Himuro","Yeah.
-Happy New Years.");
+    MsgDisp("Himuro","Yeah. Happy New Years.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -82,8 +81,8 @@ But now I feel like I'm ready to let you go.");
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("S120600002_06_140");
-    MsgDisp("Himuro","Graduation doesn't have to mean goodbye,
-right?");
+    MsgDisp("Himuro","Graduation doesn't have to mean
+goodbye, right?");
     MsgDisp("主人公","Yeah!");
     ChEye(6,0);
     ChMouth(6,3);

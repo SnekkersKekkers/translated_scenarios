@@ -23,8 +23,7 @@ But as expected, I'm still anxious.)");
     MsgDisp("Himuro","You're playing game music?
 Maybe it's because it's a familiar piece,
 there's a lot of customers.");
-    MsgDisp("主人公","Ugh...
-I'm anxious.");
+    MsgDisp("主人公","Ugh... I'm anxious.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -86,8 +85,7 @@ Seeing you anxious is funny.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P530600001_06_080");
-    MsgDisp("Himuro","What...
-I should have come earlier.");
+    MsgDisp("Himuro","What... I should have come earlier.");
     MsgDisp("主人公","Eh?");
     ChEye(6,0);
     ChMouth(6,0);

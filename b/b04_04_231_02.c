@@ -38,24 +38,22 @@ switch (MsgSelRsltGet()){
         ChEye(4,2);
         ChMouth(4,4);
         VoicePlay("B040423102_04_030");
-        MsgDisp("Nanatsumori","No.
-I mean, isn't it supposed to be the other way
-around?");
+        MsgDisp("Nanatsumori","No. I mean, isn't it supposed to be the other
+way around?");
         MsgDisp("主人公","The other way around?");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040423102_04_040");
-        MsgDisp("Nanatsumori","I mean, that's what guys do when a girl is
-scared.");
+        MsgDisp("Nanatsumori","I mean, that's what guys do when a girl
+is scared.");
         MsgDisp("主人公","Haha, then isn't it fine for ｛Nanatsumori＊｝
 to be the one holding my hand?");
         ChEye(4,4);
         ChMouth(4,0);
         ChMotion(4,0,1);
         VoicePlay("B040423102_04_050");
-        MsgDisp("Nanatsumori","Ah...
-Ahh, I see.");
+        MsgDisp("Nanatsumori","Ah... Ahh, I see.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,3,1);
@@ -68,8 +66,7 @@ Let's line up.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040423102_04_070");
-        MsgDisp("Nanatsumori","Everything is under control.
-But—");
+        MsgDisp("Nanatsumori","Everything is under control. But—");
         MsgClose();
         SEPlay("EV_SE_544",0,0.7);
         ChClose(4,0,30);

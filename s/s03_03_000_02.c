@@ -21,8 +21,7 @@ I'll just go alone.)");
     MsgDisp("Honda","Right now is kinda...");
     VoicePlay("S030300002_03_030");
     MsgDisp("Honda","I have plans with my family.");
-    MsgDisp("主人公","I see.
-I guess we can't then.");
+    MsgDisp("主人公","I see. I guess we can't then.");
     VoicePlay("S030300002_03_040");
     MsgDisp("Honda","Yeah, I guess not.
 I can't take you with me either...

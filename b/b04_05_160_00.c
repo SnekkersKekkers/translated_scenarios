@@ -34,8 +34,7 @@ I'll leave it to you.");
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040516000_05_030");
-    MsgDisp("Hiiragi","Fortune telling here?
-...Who?");
+    MsgDisp("Hiiragi","Fortune telling here? ...Who?");
     MsgDateResultDisp();
     break ;
     default :

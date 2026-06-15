@@ -39,8 +39,8 @@ It'll be disastrous if you fall over.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040510200_05_030");
-    MsgDisp("Hiiragi","Haha, yes, I was thinking the exact same
-thing.");
+    MsgDisp("Hiiragi","Haha, yes, I was thinking the exact
+same thing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

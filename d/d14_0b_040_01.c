@@ -27,8 +27,7 @@ ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("D140B04001_04_020");
-MsgDisp("Nanatsumori","Ah—
-I guess it's because Dahon's not here.");
+MsgDisp("Nanatsumori","Ah— I guess it's because Dahon's not here.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -49,8 +48,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D140B04001_04_030");
 MsgDisp("Nanatsumori","Yeah.
-Dahon comes up with all the conversation
-topics.");
+Dahon comes up with all the
+conversation topics.");
 MsgDisp("主人公","I see...");
 ChEye(1,0);
 ChMouth(1,3);

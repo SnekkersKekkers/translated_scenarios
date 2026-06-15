@@ -18,8 +18,7 @@ switch (ChPrmGet(8,6)){
     VoicePlay("F010800003_08_010");
     MsgDisp("Shirahane","Of course.
 I was a little nervous, y'know.");
-    MsgDisp("主人公","Hehe.
-Let's go!");
+    MsgDisp("主人公","Hehe. Let's go!");
     break ;
     case 4:
     case 5:

@@ -28,8 +28,8 @@ I have plans with a patron of the troupe.");
     ChMotion(5,4);
     VoicePlay("F010500006_05_020");
     MsgDisp("Hiiragi","Yes.
-Whenever I talk to you, I never fail to enjoy
-it.");
+Whenever I talk to you, I never fail to
+enjoy it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -45,8 +45,7 @@ It can't be helped, I'll go home alone.)");
     VoicePlay("F010500006_05_030");
     MsgDisp("Hiiragi","I have to attend a meeting today.
 I apologise for the trouble.");
-    MsgDisp("主人公","Okay...
-That's unfortunate.");
+    MsgDisp("主人公","Okay... That's unfortunate.");
     ChMouth(5,4);
     ChMotion(5,2);
     ChEyeOpenLevel(5,8);

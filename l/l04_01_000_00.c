@@ -78,8 +78,7 @@ Your chocolate.");
     VoicePlay("L040100000_01_060");
     MsgDisp("Kazama","Thank you.
 ...Do you have other chocolates too?");
-    MsgDisp("主人公","Hm?
-Um...");
+    MsgDisp("主人公","Hm? Um...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

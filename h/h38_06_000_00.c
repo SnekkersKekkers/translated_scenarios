@@ -25,8 +25,7 @@ You came?");
     MsgDisp("Himuro","Besides, I wanted to see what you've been
 working so hard at these past three years
 with my own eyes.");
-    MsgDisp("主人公","Yeah.
-Thank you.");
+    MsgDisp("主人公","Yeah. Thank you.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);
@@ -38,8 +37,8 @@ Thank you.");
     ChMotion(6,0);
     VoicePlay("H380600000_06_040");
     MsgDisp("Himuro","Show me some good matches.
-If you can, bring back a victory for our
-school.");
+If you can, bring back a victory for
+our school.");
     MsgDisp("主人公","(Alright, let's do our best...!)");
     break ;
     case 4:
@@ -76,8 +75,8 @@ to aim for the top at least.");
     VoicePlay("H380600000_06_090");
     MsgDisp("Himuro","That's a good expression.
 I'm counting on you.");
-    MsgDisp("主人公","(Alright, let's do our best, for ｛Himuro＊＊｝
-too!)");
+    MsgDisp("主人公","(Alright, let's do our best, for
+｛Himuro＊＊｝ too!)");
     break ;
     default :
     DbgAssert(1);

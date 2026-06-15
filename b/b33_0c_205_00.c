@@ -51,8 +51,7 @@ and throw.");
 VoicePlay("B330C20500_07_010");
 MsgDisp("Mikage","Uh— h-how is it, like this?");
 VoicePlay("B330C20500_06_030");
-MsgDisp("Himuro","More.
-...Yeah, like that.");
+MsgDisp("Himuro","More. ...Yeah, like that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0,0.6);
 ChClose(5);
@@ -79,8 +78,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20500_06_040");
-MsgDisp("Himuro","Eh?
-I'm stopping here.
+MsgDisp("Himuro","Eh? I'm stopping here.
 Since I might be teaching wrong things....");
 ChEye(5,3);
 ChMouth(5,2);
@@ -92,8 +90,8 @@ ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C20500_06_050");
 MsgDisp("Himuro","I was just messing around.
-See, teaching a teacher is kinda funny,
-right?");
+See, teaching a teacher is kinda
+funny, right?");
 MsgDisp("主人公","Ehhh∋");
 ChEye(5,4);
 ChMouth(5,4);

@@ -17,16 +17,14 @@ MsgDisp("Himuro","Don't mention it.
 ...And, here.");
 SEPlay("EV_SE_665");
 SEWait();
-MsgDisp("主人公","Hm?
-This is...");
+MsgDisp("主人公","Hm? This is...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("K020601100_06_020");
 MsgDisp("Himuro","It's your birthday today, right?
 So here's your present.");
-MsgDisp("主人公","!
-You remembered?");
+MsgDisp("主人公","! You remembered?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -40,8 +38,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("K020601100_06_040");
-MsgDisp("Himuro","I see.
-I'm happy to see your reaction, too.");
+MsgDisp("Himuro","I see. I'm happy to see your reaction, too.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

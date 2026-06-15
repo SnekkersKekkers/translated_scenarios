@@ -9,8 +9,7 @@ MsgDisp("Sassa","Hello.");
 MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
 Is now maybe a good time...?");
 VoicePlay("C010200000_02_010");
-MsgDisp("Sassa","Ah, yeah.
-...What?");
+MsgDisp("Sassa","Ah, yeah. ...What?");
 MsgDisp("主人公","(｛Sassa＊＊｝, you're mad at me.
 What should I do...)");
 MsgDisp("主人公","S-So...");
@@ -18,8 +17,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("C010200000_02_020");
-MsgDisp("Sassa","...Hmm.
-So that's what's going on.");
+MsgDisp("Sassa","...Hmm. So that's what's going on.");
 VoicePlay("C010200000_02_030");
 MsgDisp("Sassa","I get what you're saying.");
 MsgDisp("主人公","I'm really sorry...");

@@ -26,8 +26,7 @@ Even the cross section fibres look similar!");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040106301_01_020");
-    MsgDisp("Kazama","Huh?
-Hey, I didn't just drift ashore.");
+    MsgDisp("Kazama","Huh? Hey, I didn't just drift ashore.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

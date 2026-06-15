@@ -1,7 +1,6 @@
 SEPlay("EV_SE_DOOR_024");
 SEWait();
-MsgDisp("主人公","Nn?
-Come in.");
+MsgDisp("主人公","Nn? Come in.");
 SEPlay("EV_SE_DOOR_007");
 SEWait();
 MsgClose();
@@ -16,8 +15,7 @@ VoicePlay("M012100000_21_000");
 MsgDisp("Michiru","Mari...
 I know my coming's a bother but I was so
 worried, I just couldn't...");
-MsgDisp("主人公","Hehe.
-I'm alright now.");
+MsgDisp("主人公","Hehe. I'm alright now.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);

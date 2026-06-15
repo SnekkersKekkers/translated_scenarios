@@ -16,8 +16,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("S110200001_02_010");
-MsgDisp("Sassa","It says \"The person you're waiting for won't
-come\".
+MsgDisp("Sassa","It says \"The person you're waiting for
+won't come\".
 What does that mean?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -13,8 +13,7 @@ Did you come to support us?");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("H180400000_04_010");
-    MsgDisp("Nanatsumori","Well...
-After all, we're winning, right?
+    MsgDisp("Nanatsumori","Well... After all, we're winning, right?
 Haba High is.");
     MsgDisp("主人公","Hehe, of course!");
     ChEye(4,0);
@@ -30,8 +29,7 @@ just sit back and watch.");
     ChEye(4,0);
     ChMouth(4,4);
     VoicePlay("H180400000_04_030");
-    MsgDisp("Nanatsumori","Yo.
-Good work, oh famous manager.");
+    MsgDisp("Nanatsumori","Yo. Good work, oh famous manager.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!");
     ChEye(4,4);
     ChMouth(4,4);
@@ -50,14 +48,13 @@ carried me all the way here.");
     ChMotion(4,0,1);
     VoicePlay("H180400000_04_060");
     MsgDisp("Nanatsumori","I'll do my best to show my support.
-Of course, to the Haba High Nine, but to you,
-too.");
+Of course, to the Haba High Nine, but to
+you, too.");
     MsgDisp("主人公","｛Nanatsumori＊｝...thanks.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("H180400000_04_070");
-    MsgDisp("Nanatsumori","Sure.
-Well, go on!");
+    MsgDisp("Nanatsumori","Sure. Well, go on!");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Alright, let's do our best!)");
     break ;

@@ -18,8 +18,7 @@ switch (MsgSelRsltGet()){
     NSSMouth(6,1);
     NSSEyeOpenLevel(6,0);
     VoicePlay("B160600300_06_020");
-    MsgDisp("Himuro","Sigh∋
-...That joke is nonsense.");
+    MsgDisp("Himuro","Sigh∋ ...That joke is nonsense.");
     break ;
     default :
     DbgAssert(0);

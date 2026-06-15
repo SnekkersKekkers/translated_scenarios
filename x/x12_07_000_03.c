@@ -14,8 +14,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("X120700003_07_000");
-    MsgDisp("Mikage","You're giving it your all in student council,
-right?
+    MsgDisp("Mikage","You're giving it your all in student
+council, right?
 On behalf of Haba High, thank you.");
     MsgDisp("主人公","(Yay!)");
     break ;
@@ -28,8 +28,7 @@ On behalf of Haba High, thank you.");
     MsgDisp("Mikage","You're pretty skilled at running the student
 council huh?
 It's not something anyone can do.");
-    MsgDisp("主人公","(Yay!
-I was praised!)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

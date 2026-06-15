@@ -19,8 +19,8 @@ switch (ChPrmGet(5,6)){
     ChMotion(5,0);
     VoicePlay("S120500002_05_080");
     MsgDisp("Hiiragi","No problem.
-Our last high school shrine visit, it was
-fun.");
+Our last high school shrine visit, it
+was fun.");
     MsgDisp("主人公","My last year of high school, huh.
 I guess I'll be graduating soon...");
     ChEye(5,0);
@@ -40,8 +40,8 @@ me again next year.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("S120500002_05_110");
-    MsgDisp("Hiiragi","If only the Gods will forgive me for my
-greed.
+    MsgDisp("Hiiragi","If only the Gods will forgive me for
+my greed.
 See you later, then.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -73,8 +73,8 @@ chairman.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("S120500002_05_180");
-    MsgDisp("Hiiragi","What will the New Year version of you look
-like?");
+    MsgDisp("Hiiragi","What will the New Year version of you
+look like?");
     MsgDisp("主人公","Eh?");
     ChEye(5,3);
     ChMotion(5,0);
@@ -82,16 +82,15 @@ like?");
     MsgDisp("Hiiragi","You know, the thing you prayed for earlier.
 What is it?");
     MsgDisp("主人公","Geez, I won't tell you that!
-You're going to be late to your meet and
-greet.");
+You're going to be late to your meet
+and greet.");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("S120500002_05_200");
     MsgDisp("Hiiragi","That's true.
 Okay then, let's go.");
-    MsgDisp("主人公","(Hehe!
-Please treat me well, ｛Hiiragi＊＊＊｝!)");
+    MsgDisp("主人公","(Hehe! Please treat me well, ｛Hiiragi＊＊＊｝!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);

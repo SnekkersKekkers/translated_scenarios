@@ -59,10 +59,8 @@ ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
 VoicePlay("B330A10600_06_010");
-MsgDisp("Himuro","Eh∋
-That can't be true.");
-MsgDisp("主人公","Hehe.
-｛Himuro＊＊｝, aren't you glad?");
+MsgDisp("Himuro","Eh∋ That can't be true.");
+MsgDisp("主人公","Hehe. ｛Himuro＊＊｝, aren't you glad?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -85,8 +83,7 @@ MsgClose();
 ChClose(1,0,0);
 ChClose(6,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Thanks for waiting.
-...Huh?
+MsgDisp("主人公","Thanks for waiting. ...Huh?
 Where are those two?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -139,8 +136,7 @@ VoicePlay("B330A10600_06_030");
 MsgDisp("Himuro","...I don't even understand it myself.
 Maybe the impact of the Indian movie was so
 strong, I went crazy...");
-MsgDisp("主人公","(Ehh∋
-I wonder if ｛Himuro＊＊｝ is okay...?)");
+MsgDisp("主人公","(Ehh∋ I wonder if ｛Himuro＊＊｝ is okay...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

@@ -11,8 +11,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 ChMotion(22,4,1);
 VoicePlay("P530D00001_22_000");
-MsgDisp("Hikaru","Ma～ ri▼
-Hikaru stopped by to see you!");
+MsgDisp("Hikaru","Ma～ ri▼ Hikaru stopped by to see you!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -31,8 +30,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("P530D00001_21_010");
-MsgDisp("Michiru","Hikaru, don't.
-That would be too much pressure.");
+MsgDisp("Michiru","Hikaru, don't. That would be too much
+pressure.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

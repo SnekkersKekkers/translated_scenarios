@@ -1,6 +1,5 @@
 EnvAutoSet(1);
-MsgDisp("主人公","Ehm...
-What's wrong everyone?");
+MsgDisp("主人公","Ehm... What's wrong everyone?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -18,8 +17,8 @@ VoicePlay("Q240100000_01_010");
 MsgDisp("Kazama","It's the tradition of the school trip.
 I'll protect you!");
 MsgDisp("主人公","(Tradition...
-Did the guys teach ｛Kazama＊＊｝ something
-weird?)");
+Did the guys teach ｛Kazama＊＊｝
+something weird?)");
 EnvStop(1);
 EnvAutoSet(0);
 MsgClose();

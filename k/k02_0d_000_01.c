@@ -29,8 +29,7 @@ Hikaru chose a present with Big Sis.
 Here you go▼");
 SEPlay("EV_SE_665");
 SEWait();
-MsgDisp("主人公","Wah...
-Thank you!");
+MsgDisp("主人公","Wah... Thank you!");
 VoicePlay("K020D00001_21_020");
 ChEye(21,4);
 ChMouth(21,0);

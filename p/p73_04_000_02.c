@@ -23,8 +23,7 @@ I think I was able to make it pretty but...)");
     ChEye(4,4);
     ChMouth(4,3);
     VoicePlay("P730400002_04_010");
-    MsgDisp("Nanatsumori","Nice.
-After this, let me take a picture.");
+    MsgDisp("Nanatsumori","Nice. After this, let me take a picture.");
     MsgDisp("主人公","Yeah, that's fine.");
     ChMotion(4,1,1);
     VoicePlay("P730400002_04_020");
@@ -39,11 +38,10 @@ After this, let me take a picture.");
     SEWait();
     ChMotion(4,0,1);
     VoicePlay("P730400002_04_040");
-    MsgDisp("Nanatsumori","Then, the bride should make her way to the
-stage.
+    MsgDisp("Nanatsumori","Then, the bride should make her way to
+the stage.
 Look your best!");
-    MsgDisp("主人公","Yeah!
-Then, I'm off!");
+    MsgDisp("主人公","Yeah! Then, I'm off!");
     MsgDisp("主人公","(Alriiight!
 This is the last runway of my high school
 life, let's do it properly!)");

@@ -23,8 +23,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R040200002_02_000");
-    MsgDisp("Sassa","Hey.
-Sorry.
+    MsgDisp("Sassa","Hey. Sorry.
 Well, I'll see you later.");
     MsgDisp("主人公","Yeah, see you!");
     break ;

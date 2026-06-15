@@ -21,8 +21,7 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100003_01_000");
     MsgDisp("Kazama","Oh, we're here.");
-    MsgDisp("主人公","Yep.
-You wanted to keep walking, didn't you?");
+    MsgDisp("主人公","Yep. You wanted to keep walking, didn't you?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

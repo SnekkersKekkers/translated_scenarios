@@ -33,8 +33,7 @@ VoicePlay("F020200002_02_030");
 MsgDisp("Sassa","But I heard he's assembling a team of
 exceptional players and putting them in
 special training at the church.");
-MsgDisp("主人公","Huh?
-｛Sassa＊＊｝, are you one of them?");
+MsgDisp("主人公","Huh? ｛Sassa＊＊｝, are you one of them?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

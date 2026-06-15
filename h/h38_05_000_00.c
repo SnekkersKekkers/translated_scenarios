@@ -27,8 +27,8 @@ I'm happy, but you're making me a little shy.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("H380500000_05_030");
-    MsgDisp("Hiiragi","It seems that I don't need to worry about
-you.
+    MsgDisp("Hiiragi","It seems that I don't need to worry
+about you.
 You are the same as you always are.");
     ChEye(5,0);
     ChMotion(5,0);
@@ -36,8 +36,7 @@ You are the same as you always are.");
     MsgDisp("Hiiragi","Go forth.
 As a spectator, I'll let myself enjoy
 watching.");
-    MsgDisp("主人公","(Yeah!
-...Alright, let's do our best!)");
+    MsgDisp("主人公","(Yeah! ...Alright, let's do our best!)");
     break ;
     default :
     DbgAssert(1);

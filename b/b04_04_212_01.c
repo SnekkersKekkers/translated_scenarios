@@ -29,8 +29,7 @@ It's not really stylish or anything.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040421201_04_020");
-    MsgDisp("Nanatsumori","Are you shy?
-Cute.");
+    MsgDisp("Nanatsumori","Are you shy? Cute.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

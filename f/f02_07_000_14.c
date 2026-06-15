@@ -12,8 +12,7 @@ ChMotion(7,5);
 VoicePlay("F020700014_07_000");
 MsgDisp("Mikage","That's right...the three years I spent with
 you guys really were fun.");
-MsgDisp("主人公","Yes.
-｛Mikage＊＊｝, thank you very much.");
+MsgDisp("主人公","Yes. ｛Mikage＊＊｝, thank you very much.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -33,9 +32,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F020700014_07_030");
-MsgDisp("Mikage","Remember the things you could do, rather than
-the things you couldn't do, and live your
-life.");
+MsgDisp("Mikage","Remember the things you could do, rather
+than the things you couldn't do, and live
+your life.");
 MsgDisp("主人公","The things I could do.");
 ChEye(7,0);
 ChMouth(7,0);

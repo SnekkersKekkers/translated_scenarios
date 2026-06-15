@@ -11,8 +11,8 @@ VoicePlay("M022200000_22_010");
 MsgDisp("Hikaru","Hikaru wanted to know if Mari's okay.
 Are you still sick?");
 MsgDisp("主人公","Nope, I'm better now.
-I think I'll be able to go to school next
-week.");
+I think I'll be able to go to school
+next week.");
 VoicePlay("M022200000_22_020");
 MsgDisp("Hikaru","Really?
 Thank God...!");
@@ -22,8 +22,7 @@ MsgDisp("Hikaru","You did.
 Hikaru was really worried, you know?
 There's been no Mari, Hikaru misses you...");
 VoicePlay("M022200000_22_040");
-MsgDisp("Hikaru","So...
-Get well soon.
+MsgDisp("Hikaru","So... Get well soon.
 So we can hang out at school again.");
 MsgDisp("主人公","Okay!");
 VoicePlay("M022200000_22_050");

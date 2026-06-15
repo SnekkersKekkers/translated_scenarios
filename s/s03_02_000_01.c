@@ -4,8 +4,7 @@ switch (ChPrmGet(2,6)){
     case 2:
     VoicePlay("S030200001_02_000");
     MsgDisp("Sassa","Sure, let's go!");
-    MsgDisp("主人公","Phew.
-Where should we meet up?");
+    MsgDisp("主人公","Phew. Where should we meet up?");
     VoicePlay("S030200001_02_010");
     MsgDisp("Sassa","Right, hmm...
 How about I come pick you up?");
@@ -23,8 +22,7 @@ What should I wear...)");
     case 3:
     VoicePlay("S030200001_02_030");
     MsgDisp("Sassa","Of course I'll go.");
-    MsgDisp("主人公","Yay!
-Where should we meet up?");
+    MsgDisp("主人公","Yay! Where should we meet up?");
     VoicePlay("S030200001_02_040");
     MsgDisp("Sassa","No, it's fine.
 I'll come pick you up, so wait there.");
@@ -42,8 +40,7 @@ What should I wear...)");
     case 5:
     VoicePlay("S030200001_02_060");
     MsgDisp("Sassa","I'm definitely going.");
-    MsgDisp("主人公","Yay.
-So where should we meet up?");
+    MsgDisp("主人公","Yay. So where should we meet up?");
     VoicePlay("S030200001_02_070");
     MsgDisp("Sassa","Just wait there.
 It's hard for girls to get dressed up in that

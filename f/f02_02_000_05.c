@@ -11,8 +11,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200005_02_000");
 MsgDisp("Sassa","That's right.");
-MsgDisp("主人公","Huh?
-｛Sassa＊＊｝, you're very calm about it.");
+MsgDisp("主人公","Huh? ｛Sassa＊＊｝, you're very calm about it.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

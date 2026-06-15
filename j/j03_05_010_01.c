@@ -14,8 +14,7 @@ It's ｛主人公苗字｝.");
     MsgDisp("Hiiragi","It's Hiiragi.
 I heard your message.
 My schedule is full on that day.");
-    MsgDisp("主人公","I see...
-Then I guess I can't blame you.");
+    MsgDisp("主人公","I see... Then I guess I can't blame you.");
     VoicePlay("J030501001_05_010");
     MsgDisp("Hiiragi","I'm so sorry.
 Now, if you'll excuse me.");
@@ -64,8 +63,8 @@ I'm sorry I couldn't get to the phone.");
 So, what do you think?
 Are you good to go?");
     VoicePlay("J030501001_05_070");
-    MsgDisp("Hiiragi","Oh, no.
-I have a commitment I can't get out of.
+    MsgDisp("Hiiragi","Oh, no. I have a commitment I can't get
+out of.
 I'm afraid I can't even rearrange things.");
     MsgDisp("主人公","I'm sorry I pushed you.");
     VoicePlay("J030501001_05_080");

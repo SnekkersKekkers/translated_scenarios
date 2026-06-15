@@ -24,8 +24,7 @@ Your expressive power was crazy.");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("H4A0600000_06_020");
-    MsgDisp("Himuro","Yeah.
-Congrats on winning.");
+    MsgDisp("Himuro","Yeah. Congrats on winning.");
     MsgDisp("主人公","(I'm really glad I stayed in the rhythmic
 gymnastics club!
 Today's the best day ever!)");

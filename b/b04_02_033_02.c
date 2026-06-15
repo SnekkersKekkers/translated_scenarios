@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040203302_02_000");
-MsgDisp("Sassa","This place kind of reminds me of a sunken
-ship.");
+MsgDisp("Sassa","This place kind of reminds me of a
+sunken ship.");
 MsgSel("Ah, an oarfish!","There's a shadow in boat window...","I think that sunken ship had treasure");
 switch (MsgSelRsltGet()){
     case 0:
@@ -33,8 +33,7 @@ Hey, are you listening to me?");
         ChMouth(2,0);
         ChMotion(2,5);
         VoicePlay("B040203302_02_020");
-        MsgDisp("Sassa","Eh, which window?
-Sigh...
+        MsgDisp("Sassa","Eh, which window? Sigh...
 Stop messing around.");
         MsgDateResultDisp();
         break ;
@@ -58,8 +57,8 @@ Stop messing around.");
         ChMotion(2,3);
         VoicePlay("B040203302_02_050");
         MsgDisp("Sassa","No good.
-I can tell by your face that you'll do it
-again.");
+I can tell by your face that you'll do
+it again.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,0);
@@ -76,8 +75,8 @@ the same vibe as a Haunted House.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040203302_02_080");
-        MsgDisp("Sassa","The people who died on the sunken ship become
-ghosts.
+        MsgDisp("Sassa","The people who died on the sunken ship
+become ghosts.
 It's basically the same.");
         MsgDisp("主人公","U-Uhm...");
         ChEye(2,0);

@@ -16,8 +16,7 @@ Hello.");
 Are you prepared?");
     MsgDisp("主人公","Do you mean my ranking...?");
     VoicePlay("N020500002_05_020");
-    MsgDisp("Hiiragi","Yeah.
-See you.");
+    MsgDisp("Hiiragi","Yeah. See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
@@ -29,17 +28,15 @@ If he's doing his best, then I should too...)");
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("N020500002_05_030");
     MsgDisp("Hiiragi","Are you satisfied by this outcome?");
-    MsgDisp("主人公","Umm...
-Are you, ｛Hiiragi＊＊＊｝?");
+    MsgDisp("主人公","Umm... Are you, ｛Hiiragi＊＊＊｝?");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,1);
     VoicePlay("N020500002_05_040");
     MsgDisp("Hiiragi","I have never been satisfied by an exam.
-It just exposes my own worthlessness every
-time.");
-    MsgDisp("主人公","I see...
-I guess it shows how average I am.");
+It just exposes my own worthlessness
+every time.");
+    MsgDisp("主人公","I see... I guess it shows how average I am.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("N020500002_05_050");
@@ -62,8 +59,7 @@ The both of us should take it easy, then.");
     ChMotion(5,4);
     VoicePlay("N020500002_05_070");
     MsgDisp("Hiiragi","Do you dislike studying?");
-    MsgDisp("主人公","Eh.
-Hmm, I'm not sure...");
+    MsgDisp("主人公","Eh. Hmm, I'm not sure...");
     ChMotion(5,0);
     VoicePlay("N020500002_05_080");
     MsgDisp("Hiiragi","With your dedication to what fascinates you,
@@ -71,8 +67,7 @@ just a small interest in studying could
 propel you to the top quickly.");
     ChEye(5,2);
     VoicePlay("N020500002_05_090");
-    MsgDisp("Hiiragi","Ah...
-Was what I said not convincing enough?");
+    MsgDisp("Hiiragi","Ah... Was what I said not convincing enough?");
     MsgDisp("主人公","No it was, thank you.
 I'll try my best to be more interested.");
     ChEye(5,4);
@@ -96,8 +91,8 @@ For some reason, that motivated me.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ is good at motivating
-people.
+    MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ is good at
+motivating people.
 Alright, I'll study harder next time!)");
     break ;
     default :

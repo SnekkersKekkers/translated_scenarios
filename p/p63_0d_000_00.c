@@ -2,16 +2,15 @@ BGOpen("sc722",0);
 BGMPlay("BGM_PLACE_SHOP",0.01);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year the Gardening Club's programme is a
-cafe.
+MsgDisp("主人公","(This year the Gardening Club's programme is
+a cafe.
 We prepared herbal tea and cookies, but...)");
 MsgClose();
 ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,3,3,#1,#1,0,2);
 ChMotion(22,4,1);
 VoicePlay("P630D00000_22_000");
-MsgDisp("Hikaru","Ye～ s▼
-We came to hang out!");
+MsgDisp("Hikaru","Ye～ s▼ We came to hang out!");
 MsgDisp("主人公","｛みちる＊｝, ｛ひかる＊｝.
 Welcome!");
 ChEye(21,0);

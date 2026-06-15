@@ -38,8 +38,7 @@ ChMotion(5,0);
 VoicePlay("B360518000_05_040");
 MsgDisp("Hiiragi","Well, since we're here, why don't we go ahead
 and watch it.");
-MsgDisp("主人公","Yeah.
-Let's continue talking later, okay?");
+MsgDisp("主人公","Yeah. Let's continue talking later, okay?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

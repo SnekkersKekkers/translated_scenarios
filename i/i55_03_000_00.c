@@ -27,8 +27,7 @@ way to tell you...");
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I550300000_03_020");
-    MsgDisp("Honda","Why?
-The uniform suits you too, you know?");
+    MsgDisp("Honda","Why? The uniform suits you too, you know?");
     MsgDisp("主人公","Y-You think so?
 Thanks.");
     ChEye(3,0);
@@ -39,8 +38,8 @@ Thanks.");
 Work hard, 'kay?
 See you.");
     MsgDisp("主人公","(It suits me...
-It makes me happy that ｛Honda＊＊｝ said
-that.)");
+It makes me happy that ｛Honda＊＊｝
+said that.)");
     break ;
     case 3:
     ChEye(3,0);
@@ -54,9 +53,9 @@ Welcome.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("I550300000_03_050");
-    MsgDisp("Honda","I was thinking of buying some Japanese sweets
-as a gift, and I remembered that you work
-here.");
+    MsgDisp("Honda","I was thinking of buying some Japanese
+sweets as a gift, and I remembered that you
+work here.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

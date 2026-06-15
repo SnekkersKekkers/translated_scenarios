@@ -16,8 +16,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100220000_02_010");
-MsgDisp("Sassa","Would you also like to join the hot spring
-club?");
+MsgDisp("Sassa","Would you also like to join the hot
+spring club?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -40,8 +40,7 @@ VoicePlay("F100220000_05_020");
 MsgDisp("Hiiragi","Yes.
 There are two people who love hot springs
 here. What about you?");
-MsgDisp("主人公","Umm...
-I like baths but...");
+MsgDisp("主人公","Umm... I like baths but...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

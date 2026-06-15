@@ -9,8 +9,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("R060600006_06_000");
-    MsgDisp("Himuro","Hmm...
-Is this a hobby of yours?");
+    MsgDisp("Himuro","Hmm... Is this a hobby of yours?");
     MsgDisp("主人公","(Hmm, he seems pleased with my gift...
 I think?)");
     break ;

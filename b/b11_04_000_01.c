@@ -33,8 +33,8 @@ ChNanaType(#1);
 ChOpen(4,31,0,1,0,#1,#1,0,0);
 VoicePlay("B110400001_04_000");
 MsgDisp("Nanatsumori","Dumbass.
-What's with that lame catchphrase-like
-line...");
+What's with that lame
+catchphrase-like line...");
 MsgDisp("主人公","｛Nanatsumori＊｝!");
 ChEye(4,2);
 ChMouth(4,0);
@@ -43,15 +43,13 @@ VoicePlay("B110400001_04_010");
 MsgDisp("Nanatsumori","Sorry.
 I lost my locker key somewhere and was
 looking for it.");
-MsgDisp("主人公","Ehh∋
-Did you find it?");
+MsgDisp("主人公","Ehh∋ Did you find it?");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B110400001_04_020");
 MsgDisp("Nanatsumori","Yeah, that's why I'm here.");
-MsgDisp("主人公","Hey...
-Be careful not to lose anything, okay?");
+MsgDisp("主人公","Hey... Be careful not to lose anything, okay?");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);

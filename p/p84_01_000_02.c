@@ -33,15 +33,13 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P840100002_01_030");
 MsgDisp("Kazama","Well...there's roasted sweet potatoes too.");
-MsgDisp("主人公","Yay!
-Thank you!");
+MsgDisp("主人公","Yay! Thank you!");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P840100002_01_040");
 MsgDisp("Kazama","Can you forgive me for it being cold?");
-MsgDisp("主人公","I forgive you!
-...Hehe!");
+MsgDisp("主人公","I forgive you! ...Hehe!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3,1);

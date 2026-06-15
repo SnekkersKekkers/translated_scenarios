@@ -4,8 +4,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("G020310301_03_000");
-MsgDisp("Honda","You remember when you came over to my place
-before?
+MsgDisp("Honda","You remember when you came over to my
+place before?
 So, I told my sister about it...");
 ChEye(3,4);
 ChMouth(3,4);
@@ -21,8 +21,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310301_03_020");
 MsgDisp("Honda","Right, right!
-That's what I thought too and I told her
-that.");
+That's what I thought too and I told
+her that.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);

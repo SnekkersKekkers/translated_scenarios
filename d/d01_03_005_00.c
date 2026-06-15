@@ -96,18 +96,16 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("D010300500_03_090");
-MsgDisp("Honda","No.
-I always made sure to say \"I'm coming in\"
-first.");
-MsgDisp("主人公","Hmm...
-Maybe that's why.");
+MsgDisp("Honda","No. I always made sure to say \"I'm coming
+in\" first.");
+MsgDisp("主人公","Hmm... Maybe that's why.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D010300500_03_100");
 MsgDisp("Honda","Eh?");
-MsgDisp("主人公","You should knock before you enter someone's
-room.
+MsgDisp("主人公","You should knock before you enter
+someone's room.
 Especially when it's a teenage girl.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -120,8 +118,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D010300500_03_120");
 MsgDisp("Honda","Thanks!
-With your help, things can finally go back to
-normal.");
+With your help, things can finally go back
+to normal.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

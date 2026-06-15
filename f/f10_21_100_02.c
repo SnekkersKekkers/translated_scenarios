@@ -16,14 +16,12 @@ ChMotion(21,3);
 VoicePlay("F102110002_21_010");
 MsgDisp("Michiru","Hehe, it's alright.
 I've decided to confide in Mari.");
-MsgDisp("主人公","Yeah!
-So, what is it?");
+MsgDisp("主人公","Yeah! So, what is it?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("F102110002_21_020");
-MsgDisp("Michiru","Um?
-...This.");
+MsgDisp("Michiru","Um? ...This.");
 MsgDisp("主人公","A manga?");
 VoicePlay("F102110002_21_030");
 MsgDisp("Michiru","Right.

@@ -19,8 +19,8 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("H7G0700000_07_020");
 MsgDisp("Mikage","Haha.
-Your diligence and funniness make the
-perfect combination.");
+Your diligence and funniness make the perfect
+combination.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -42,8 +42,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("H7G0700000_07_050");
 MsgDisp("Mikage","I'm glad that you were in my class.
-On behalf of everyone else, let me say my
-thanks.");
+On behalf of everyone else, let me say
+my thanks.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

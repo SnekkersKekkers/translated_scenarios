@@ -14,8 +14,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("L060600000_06_010");
-MsgDisp("Himuro","Here.
-In return for Valentine's.");
+MsgDisp("Himuro","Here. In return for Valentine's.");
 MsgDisp("主人公","Thanks!");
 ChEye(6,0);
 ChMouth(6,0);

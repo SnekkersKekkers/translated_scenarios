@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040106302_01_010");
-        MsgDisp("Kazama","You really need to learn to read the room
-better.");
+        MsgDisp("Kazama","You really need to learn to read the
+room better.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -85,8 +85,8 @@ memories we have together, huh.)");
     ChMotion(1,3);
     VoicePlay("B040106302_01_080");
     MsgDisp("Kazama","Oh, that's unlike you to say.
-Then we'll leave more footprints in the
-future!");
+Then we'll leave more footprints in
+the future!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -22,8 +22,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B340A00001_01_000");
-MsgDisp("Kazama","\"Thank you for your hard work\", are you at
-work?");
+MsgDisp("Kazama","\"Thank you for your hard work\", are you
+at work?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,0);

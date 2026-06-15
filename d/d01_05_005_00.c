@@ -19,8 +19,7 @@ MsgClose();
 SEPlay("EV_SE_723");
 Wait(50,0);
 VoicePlay("D010500500_43_000");
-MsgDisp("Troupe A","Ooogh!
-Taah!");
+MsgDisp("Troupe A","Ooogh! Taah!");
 VoicePlay("D010500500_05_000");
 MsgDisp("Hiiragi?","If you can't do it in practice, how will you
 be able to do it during the performance?");
@@ -42,8 +41,7 @@ ScrFadeIn(0);
 SEPlay("EV_SE_723");
 Wait(50,0);
 VoicePlay("D010500500_43_010");
-MsgDisp("Troupe A","Ouugh!
-Ahhh!");
+MsgDisp("Troupe A","Ouugh! Ahhh!");
 MsgDisp("主人公","(Wow, so intense...)");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500500_33_020");
@@ -136,8 +134,7 @@ ChMouth(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("D010500500_05_090");
-MsgDisp("Hiiragi","Sigh...
-I'm going back to the rehearsal.");
+MsgDisp("Hiiragi","Sigh... I'm going back to the rehearsal.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

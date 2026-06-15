@@ -17,8 +17,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06000_06_010");
 MsgDisp("Himuro","Is that okay with you?");
-MsgDisp("主人公","Eh?
-What do you mean?");
+MsgDisp("主人公","Eh? What do you mean?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -26,8 +25,8 @@ VoicePlay("D140A06000_02_010");
 MsgDisp("Sassa","You're pretty calm, aren't you?
 When we say juniors, for the most part
 they're girls.");
-MsgDisp("主人公","Yeah, they're customers at Simon's.
-They want to hear recommendations from
+MsgDisp("主人公","Yeah, they're customers at Simon's. They
+want to hear recommendations from
 ｛Kazama＊＊｝, I think.");
 ChEye(6,0);
 ChMouth(6,0);

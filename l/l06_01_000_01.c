@@ -31,11 +31,11 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("L060100001_01_030");
 MsgDisp("Kazama","It's a little different than the others.
-That's why it'd be a problem if others saw,
-right?");
+That's why it'd be a problem if others
+saw, right?");
 MsgDisp("主人公","I see, thanks.
-｛Kazama＊＊｝, you got a lot of chocolate,
-right?");
+｛Kazama＊＊｝, you got a lot of
+chocolate, right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -43,8 +43,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("L060100001_01_040");
 MsgDisp("Kazama","Ooh, nice.
 So you can have those feelings, too.");
-MsgDisp("主人公","Hm?
-What do you mean?");
+MsgDisp("主人公","Hm? What do you mean?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

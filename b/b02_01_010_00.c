@@ -11,8 +11,7 @@ ChEyeOpenLevel(1,8);
 Wait(8,0);
 ChMotion(1,1);
 VoicePlay("B020101000_01_000");
-MsgDisp("Kazama","...!
-Oh, this is bad.");
+MsgDisp("Kazama","...! Oh, this is bad.");
 MsgDisp("主人公","Is my swimsuit no good?");
 ChEye(1,4);
 ChMouth(1,1);

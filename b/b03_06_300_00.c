@@ -8,7 +8,6 @@ VoicePlay("B030630000_06_000");
 MsgDisp("Himuro","It's nothing special but...
 Come in.");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Okay.
-Sorry to intrude.");
+MsgDisp("主人公","Okay. Sorry to intrude.");
 MsgDispSksp(0);
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

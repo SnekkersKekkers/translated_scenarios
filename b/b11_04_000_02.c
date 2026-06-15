@@ -1,8 +1,7 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-｛Nanatsumori＊｝ still isn't here...");
+MsgDisp("主人公","Huh? ｛Nanatsumori＊｝ still isn't here...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -42,9 +41,9 @@ MsgDisp("主人公","｛Nanatsumori＊｝!");
 VoicePlay("B110400002_35_040");
 ChEye(35,2);
 ChMouth(35,2);
-MsgDisp("Guy","Huh?
-High school model NANA-kun?
-That's you? Right?");
+MsgDisp("Guy","Huh? High school model NANA-kun?
+That's you?
+Right?");
 MsgDispSksp(1,5);
 ChEye(4,0);
 ChMouth(4,0);
@@ -71,8 +70,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B110400002_04_030");
-MsgDisp("Nanatsumori","...Ah.
-It's the company director.");
+MsgDisp("Nanatsumori","...Ah. It's the company director.");
 MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
@@ -88,17 +86,16 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B110400002_04_040");
-MsgDisp("Nanatsumori","That old man is apparently an alumnus of our
-school.");
-MsgDisp("主人公","Ehh∋
-He's kinda famous around here, right?
+MsgDisp("Nanatsumori","That old man is apparently an alumnus of
+our school.");
+MsgDisp("主人公","Ehh∋ He's kinda famous around here, right?
 ...Not exactly in a good way.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B110400002_04_050");
-MsgDisp("Nanatsumori","Yeah, but somehow he keeps climbing up the
-ranks.
+MsgDisp("Nanatsumori","Yeah, but somehow he keeps climbing up
+the ranks.
 Guess even weeds can bloom into flowers...");
 ChEye(4,0);
 ChMouth(4,3);

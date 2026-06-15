@@ -5,8 +5,8 @@ ChMotion(7,3);
 ChEyeOpenLevel(7,0);
 VoicePlay("B070700000_07_230");
 MsgDisp("Mikage","Oh right, this has saved me recently.
-If I say \"DIY\", that's a well received
-answer.");
+If I say \"DIY\", that's a well
+received answer.");
 MsgDisp("主人公","Well-received?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -14,8 +14,8 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,10);
 VoicePlay("B070700000_07_240");
 MsgDisp("Mikage","Yeah, at home I make tables, chairs,
-houseplant shelves, but explaining it is a
-pain.");
+houseplant shelves, but explaining it is
+a pain.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -27,8 +27,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700000_07_260");
-MsgDisp("Mikage","Thanks to that, I get the usual \"Ehhh?\" a lot
-sooner.
+MsgDisp("Mikage","Thanks to that, I get the usual \"Ehhh?\" a
+lot sooner.
 So, what do you think?");
 MsgDisp("主人公","Uummm, it's amazing that you can make
 anything yourself.

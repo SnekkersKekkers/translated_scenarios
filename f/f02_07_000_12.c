@@ -56,7 +56,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("F020700012_07_060");
-MsgDisp("Mikage","I'll return this favour with a relentless
-course.");
+MsgDisp("Mikage","I'll return this favour with a
+relentless course.");
 MsgDisp("主人公","(Umm...just now, ｛Mikage＊＊｝ didn't say
 \"you guys\", but said \"you\"...)");

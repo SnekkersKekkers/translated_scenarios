@@ -55,8 +55,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600300_06_060");
-MsgDisp("Himuro","Don't get caught up in it and end up
-having to stand in the hallway.");
+MsgDisp("Himuro","Don't get caught up in it and end up having
+to stand in the hallway.");
 MsgDisp("主人公","Yeees.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -64,8 +64,7 @@ ChMotion(6,2);
 ChCheek(6,10);
 VoicePlay("G110600300_06_070");
 MsgDisp("Himuro","...And, if you feel like it, contact me.");
-MsgDisp("主人公","Eh?
-Contact you...");
+MsgDisp("主人公","Eh? Contact you...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

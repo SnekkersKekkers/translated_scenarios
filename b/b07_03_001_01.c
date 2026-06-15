@@ -44,14 +44,14 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300001_03_070");
-MsgDisp("Honda","Yepyep, it's even better when you respond like
-that!");
+MsgDisp("Honda","Yepyep, it's even better when you respond
+like that!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("B070300001_03_080");
-MsgDisp("Honda","I'd like to learn a bit more from Ryo-kun
-but I'm not sure if I can?");
+MsgDisp("Honda","I'd like to learn a bit more from Ryo-kun but
+I'm not sure if I can?");
 MsgDisp("主人公","(｛Honda＊＊｝ seems to idolise
 ｛Kazama＊＊｝...!)");
 BGMStop();

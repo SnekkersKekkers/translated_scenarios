@@ -14,8 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B040723300_07_010");
-    MsgDisp("Mikage","Hey.
-Are you okay....");
+    MsgDisp("Mikage","Hey. Are you okay....");
     MsgDateResultDisp();
     break ;
     case 1:

@@ -27,8 +27,8 @@ sun tarp...");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040224200_02_020");
-    MsgDisp("Sassa","That's fine, but there's an order to it
-right?");
+    MsgDisp("Sassa","That's fine, but there's an order to
+it right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

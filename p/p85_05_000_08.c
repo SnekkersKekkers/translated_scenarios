@@ -19,13 +19,11 @@ VoicePlay("P850500008_05_010");
 MsgDisp("Hiiragi","It's not just me.
 I'm sure everyone in the student council
 committee thought the same.");
-MsgDisp("主人公","Umm...
-I'm happy, but embarrassed.");
+MsgDisp("主人公","Umm... I'm happy, but embarrassed.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("P850500008_05_020");
-MsgDisp("Hiiragi","Why?
-It's the truth evident to everyone.");
+MsgDisp("Hiiragi","Why? It's the truth evident to everyone.");
 VoicePlay("P850500008_05_030");
 MsgDisp("Hiiragi","The management know-how you left behind will
 surely be passed on.");

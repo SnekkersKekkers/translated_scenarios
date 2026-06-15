@@ -4,8 +4,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100001_01_420");
 MsgDisp("Kazama","What is it?");
-MsgDisp("主人公","A-Ah.
-Sorry for staring.");
+MsgDisp("主人公","A-Ah. Sorry for staring.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -40,8 +39,7 @@ ChCheek(1,0);
 VoicePlay("B070100001_01_460");
 MsgDisp("Kazama","For two people who hadn't seen each other in
 years, we're way too at ease, huh.");
-MsgDisp("主人公","Yeah.
-...");
+MsgDisp("主人公","Yeah. ...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -52,8 +50,7 @@ Or I'll also get payback?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,10);
-MsgDisp("主人公","Then, it's a battle.
-......");
+MsgDisp("主人公","Then, it's a battle. ......");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -71,8 +68,7 @@ VoicePlay("B070100001_01_490");
 MsgDisp("Kazama","Sorry.
 This ends with your win.
 I'm at a disadvantage...");
-MsgDisp("主人公","(Yay!
-But, my heart is racing so fast...)");
+MsgDisp("主人公","(Yay! But, my heart is racing so fast...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

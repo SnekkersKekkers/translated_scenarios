@@ -13,8 +13,8 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600001_06_010");
-    MsgDisp("Himuro","I got this chocolate from my part-time job,
-too.
+    MsgDisp("Himuro","I got this chocolate from my part-time
+job, too.
 Is it popular?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -22,8 +22,7 @@ Is it popular?");
     MsgClose();
     ChClose(6);
     Wait(30);
-    MsgDisp("主人公","(Yeah...
-I guess that's it.)");
+    MsgDisp("主人公","(Yeah... I guess that's it.)");
     break ;
     case 3:
     ChEye(6,0);

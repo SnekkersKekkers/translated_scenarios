@@ -55,8 +55,7 @@ close to me.");
         VoicePlay("B040123102_01_040");
         MsgDisp("Kazama","I mean if you're going \"Kyaa-\", that means
 you don't like it.");
-        MsgDisp("主人公","Umm...
-It's just a bit scary though.");
+        MsgDisp("主人公","Umm... It's just a bit scary though.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         Wait(12,0);

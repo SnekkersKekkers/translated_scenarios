@@ -46,8 +46,8 @@ Of course I'm here to support you.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H280600000_06_050");
-    MsgDisp("Himuro","You've entrusted your dreams to the team,
-right?");
+    MsgDisp("Himuro","You've entrusted your dreams to the
+team, right?");
     MsgDisp("主人公","Ah...yeah!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -60,11 +60,10 @@ right?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H280600000_06_070");
-    MsgDisp("Himuro","No?
-Then make sure that you get some results.
+    MsgDisp("Himuro","No? Then make sure that you get some results.
 I'll be looking forward to it.");
-    MsgDisp("主人公","(Alright, I'm going to do my best to cheer
-too!)");
+    MsgDisp("主人公","(Alright, I'm going to do my best to
+cheer too!)");
     break ;
     default :
     DbgAssert(1);

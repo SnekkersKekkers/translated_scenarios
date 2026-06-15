@@ -8,8 +8,7 @@ VoicePlay("G020740002_07_000");
 MsgDisp("Mikage","On the last day of summer vacation, you know
 how it feels like you haven't finished your
 homework at all?");
-MsgDisp("主人公","Eh?
-Why are you asking all of a sudden?");
+MsgDisp("主人公","Eh? Why are you asking all of a sudden?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);

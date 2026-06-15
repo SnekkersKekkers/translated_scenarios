@@ -39,8 +39,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1,1);
 MsgDisp("Himuro","I could act all high and mighty, right?");
-MsgDisp("主人公","｛Himuro＊＊｝, don't you already act bossy
-enough?");
+MsgDisp("主人公","｛Himuro＊＊｝, don't you already act
+bossy enough?");
 VoicePlay("G020640003_06_070");
 ChEye(6,0);
 ChMouth(6,4);

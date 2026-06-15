@@ -9,8 +9,7 @@ regards.");
 ChEye(32,0);
 ChMouth(32,1);
 VoicePlay("Z813200001_32_010");
-MsgDisp("VP Himuro","Very well, I shall lend you my help.
-Come.");
+MsgDisp("VP Himuro","Very well, I shall lend you my help. Come.");
 MsgSel("Yes, sir!","Please explain first!");
 switch (MsgSelRsltGet()){
     case 0:

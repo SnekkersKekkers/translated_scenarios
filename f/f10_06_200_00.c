@@ -50,8 +50,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F100620000_03_030");
-MsgDisp("Honda","So!
-When should we do it?");
+MsgDisp("Honda","So! When should we do it?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -59,8 +58,7 @@ VoicePlay("F100620000_06_030");
 MsgDisp("Himuro","That's why I said I'm not going.");
 ChSet(3,5);
 VoicePlay("F100620000_03_040");
-MsgDisp("Honda","Ehhh!
-Why∋");
+MsgDisp("Honda","Ehhh! Why∋");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);

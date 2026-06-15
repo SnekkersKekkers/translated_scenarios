@@ -26,15 +26,14 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("P130D00000_21_010");
-MsgDisp("Michiru","Hikaru, you're good at this sort of thing,
-right?");
+MsgDisp("Michiru","Hikaru, you're good at this sort of
+thing, right?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P130D00000_22_010");
 MsgDisp("Hikaru","Leave it to Hikaru♪
 It's time to break a new record!");
-MsgDisp("主人公","Hehe!
-Then, entry for two, please!");
+MsgDisp("主人公","Hehe! Then, entry for two, please!");
 MsgClose();
 ScrFadeOut(0,0);

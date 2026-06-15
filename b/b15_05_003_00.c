@@ -26,8 +26,8 @@ ChEyeOpenLevel(5,9);
 ChCheek(5,7);
 VoicePlay("B150500300_05_040");
 MsgDisp("Hiiragi","T-Therefore.
-It is troubling because you're a charming
-woman.");
+It is troubling because you're a
+charming woman.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 ChCheek(5,0);

@@ -7,8 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("J140300000_03_000");
 MsgDisp("Honda","｛主人公｝.");
-MsgDisp("主人公","What?
-What's up with you all?");
+MsgDisp("主人公","What? What's up with you all?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

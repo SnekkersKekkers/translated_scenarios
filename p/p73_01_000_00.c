@@ -44,9 +44,9 @@ Go, smiling brightly just as you usually do.");
     SEWait();
     MsgDisp("主人公","Ah, it's starting.
 I'll do my best then!");
-    MsgDisp("主人公","(Huh? After talking to ｛Kazama＊＊｝, I think
-I feel more at ease...
-Alriight, let's do our best!)");
+    MsgDisp("主人公","(Huh?
+After talking to ｛Kazama＊＊｝, I think I feel
+more at ease... Alriight, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);
@@ -88,8 +88,7 @@ Your work and model is the best.");
     VoicePlay("P730100000_01_080");
     MsgDisp("Kazama","It is.
 Or is my judgement not believable to you?");
-    MsgDisp("主人公","No.
-｛Kazama＊＊｝'s appraisal is never wrong.");
+    MsgDisp("主人公","No. ｛Kazama＊＊｝'s appraisal is never wrong.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

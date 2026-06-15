@@ -11,8 +11,7 @@ VoicePlay("P850500001_05_000");
 MsgDisp("Hiiragi","Thank you for your hard work.");
 VoicePlay("P850500001_05_010");
 MsgDisp("Hiiragi","Please don't droop your shoulders like that.");
-MsgDisp("主人公","But...
-I failed...");
+MsgDisp("主人公","But... I failed...");
 ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);

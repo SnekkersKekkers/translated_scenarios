@@ -15,8 +15,7 @@ ChOpen(4,253,0,1,2,#1,#1,0,3);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B330B10700_04_000");
-MsgDisp("Nanatsumori","...So.
-What should we do here?");
+MsgDisp("Nanatsumori","...So. What should we do here?");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4,1);
@@ -74,8 +73,8 @@ VoicePlay("B330B10700_03_020");
 MsgDisp("Honda","Oh, that! The folding screen the Lord of
 Habataki Castle personally granted to a
 Kazama family ancestor.");
-MsgDisp("主人公","Even though it's so old, it's beautiful even
-now.");
+MsgDisp("主人公","Even though it's so old, it's beautiful
+even now.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

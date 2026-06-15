@@ -31,8 +31,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_260");
 MsgDisp("Kazama","They could go on without me, but no—they
-drag me in to continue right where they left
-off.");
+drag me in to continue right where they
+left off.");
 MsgDisp("主人公","They want you to join in, ｛Kazama＊＊｝.");
 ChEye(1,2);
 ChMouth(1,3);

@@ -44,8 +44,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("E010110100_01_040");
-MsgDisp("Kazama","...Info?
-I wonder if I'm being monitored...");
+MsgDisp("Kazama","...Info? I wonder if I'm being monitored...");
 MsgDisp("主人公","｛Kazama＊＊｝, that's...");
 ChEye(1,0);
 ChMouth(1,3);

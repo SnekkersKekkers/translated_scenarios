@@ -102,8 +102,8 @@ VoicePlay("Q100C00000_05_060");
 MsgDisp("Hiiragi","Sure.
 I will also go buy souvenirs for the people
 of the Habataki Theatre Company.");
-MsgDisp("主人公","Then I will also go look for souvenirs for my
-family.");
+MsgDisp("主人公","Then I will also go look for souvenirs for
+my family.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

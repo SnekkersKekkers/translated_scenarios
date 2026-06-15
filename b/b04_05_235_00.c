@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,2);
     ChMouth(5,4);
     VoicePlay("B040523500_05_010");
-    MsgDisp("Hiiragi","If you enjoyed it, that's good enough for
-now.");
+    MsgDisp("Hiiragi","If you enjoyed it, that's good enough
+for now.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,9 +38,9 @@ At which part?");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523500_05_030");
-    MsgDisp("Hiiragi","Yes.
-I thought the same. I wish they'd made it a
-little more carefully.");
+    MsgDisp("Hiiragi","Yes. I thought the same.
+I wish they'd made it a little more
+carefully.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

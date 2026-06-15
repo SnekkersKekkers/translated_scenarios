@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040204100_02_000");
     MsgDisp("Sassa","Like I expected from the champion!
-The way he kept his distance from
-the other guy was perfect∈");
+The way he kept his distance from the other
+guy was perfect∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -23,8 +23,7 @@ the other guy was perfect∈");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040204100_02_010");
-    MsgDisp("Sassa","Eh?
-It was a pretty good match.");
+    MsgDisp("Sassa","Eh? It was a pretty good match.");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -65,8 +65,7 @@ VoicePlay("B360223600_02_060");
 MsgDisp("Sassa","Wait...
 Speaking of Ryota and Inori, they might be
 scouting out around here?");
-MsgDisp("主人公","(Hehe!
-Those three really do get along.)");
+MsgDisp("主人公","(Hehe! Those three really do get along.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

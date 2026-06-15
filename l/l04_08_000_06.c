@@ -8,15 +8,14 @@ switch (ChPrmGet(8,6)){
     VoicePlay("L040800006_08_000");
     MsgDisp("Shirahane","This is...handmade, right?");
     MsgDisp("主人公","Yeah.
-I tried my best, but I couldn't do it very
-well...");
+I tried my best, but I couldn't do it
+very well...");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,2,1);
     VoicePlay("L040800006_08_010");
     MsgDisp("Shirahane","Yeah, I bet you did your best.
-But...
-I gotta be brave.");
+But... I gotta be brave.");
     MsgDisp("主人公","(Ugh...
 I wish I had tried a little harder...)");
     break ;
@@ -49,15 +48,13 @@ I wish I had tried a little harder...)");
     ChCheek(8,8);
     VoicePlay("L040800006_08_050");
     MsgDisp("Shirahane","Handmade...chocolate, right?");
-    MsgDisp("主人公","Yeah.
-But, it didn't go very well...
+    MsgDisp("主人公","Yeah. But, it didn't go very well...
 Sorry.");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("L040800006_08_060");
-    MsgDisp("Shirahane","Hm.
-But, you did your best, eh?");
+    MsgDisp("Shirahane","Hm. But, you did your best, eh?");
     MsgDisp("主人公","Y-Yeah.");
     ChEye(8,3);
     ChMouth(8,3);

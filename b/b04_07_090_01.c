@@ -37,8 +37,8 @@ depending on which one you choose.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("B040709001_07_030");
-    MsgDisp("Mikage","That's fine but, I would want it to be a
-plant.");
+    MsgDisp("Mikage","That's fine but, I would want it to be
+a plant.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -51,8 +51,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600803_06_050");
-MsgDisp("Himuro","Hmmm?
-Then, wait for a bit.
+MsgDisp("Himuro","Hmmm? Then, wait for a bit.
 I'll make you the best failed attempt ever.");
 MsgDisp("主人公","Best failed attempt?");
 ChEye(6,0);

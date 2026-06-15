@@ -30,8 +30,7 @@ VoicePlay("D010500100_05_010");
 MsgDisp("Hiiragi","I have work to attend to in the student
 council room today. I was just in the mood
 for a change of scenery.");
-MsgDisp("主人公","Eh?
-During lunch?");
+MsgDisp("主人公","Eh? During lunch?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -75,8 +74,8 @@ MsgDisp("Hiiragi","When I'm busy, eating just feels like too
 much trouble.");
 StlEye(5,0);
 StlMouth(5,0);
-MsgDisp("主人公","That kind of thing is a big no-no.
-You have to eat before you work.");
+MsgDisp("主人公","That kind of thing is a big no-no. You have
+to eat before you work.");
 StlEyeOpenLevel(5,5);
 StlMouth(5,1);
 VoicePlay("D010500100_05_070");
@@ -104,8 +103,8 @@ ChMotion(5,3);
 Wait(24,1);
 VoicePlay("D010500100_05_090");
 MsgDisp("Hiiragi","Thank you for the food.
-I have to go back to the student council room
-now.");
+I have to go back to the student council
+room now.");
 MsgDisp("主人公","I'll come and help you.");
 ChEye(5,2);
 ChMouth(5,4);

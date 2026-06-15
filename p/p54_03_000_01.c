@@ -16,11 +16,9 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("P540300001_03_010");
-MsgDisp("Honda","Ehh?
-Is that right?
+MsgDisp("Honda","Ehh? Is that right?
 I thought your arrangement was good.");
-MsgDisp("主人公","(Ughh...
-I meant to arrange it...
+MsgDisp("主人公","(Ughh... I meant to arrange it...
 I wish I practised more...)");
 MsgClose();
 ScrFadeOut(0,0);

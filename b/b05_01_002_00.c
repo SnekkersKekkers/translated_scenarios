@@ -28,8 +28,7 @@ BGMPlay("BGM_C01_RYOUTA_D",0.01);
 SEVol(0.5,1);
 ScrFadeIn(0);
 VoicePlay("B050100200_01_020");
-MsgDisp("Kazama","Here!
-You like this don't you?");
+MsgDisp("Kazama","Here! You like this don't you?");
 MsgDisp("主人公","Wow, when did you get this?
 ｛Kazama＊＊｝, you're like a magician!");
 StlEyeOpenLevel(1,5);
@@ -38,10 +37,8 @@ MsgDisp("Kazama","I haven't heard of a magician that pulls out
 sweet potatoes.");
 StlEyeOpenLevel(1,#1);
 VoicePlay("B050100200_01_040");
-MsgDisp("Kazama","Here.
-It's piping hot, so be careful.");
-MsgDisp("主人公","Yeah.
-Looks delicious.
+MsgDisp("Kazama","Here. It's piping hot, so be careful.");
+MsgDisp("主人公","Yeah. Looks delicious.
 Thank you for the food!");
 StlEyeOpenLevel(1,5);
 StlMouthOpenLevel(1,0);
@@ -109,8 +106,8 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChCheek(1,7);
 VoicePlay("B050100200_01_110");
-MsgDisp("Kazama","Well, what I like is always right in front of
-me.");
+MsgDisp("Kazama","Well, what I like is always right in front
+of me.");
 MsgDisp("主人公","(Always in front of him?
 What is that...)");
 BGMStop();

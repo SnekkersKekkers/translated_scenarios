@@ -7,8 +7,7 @@ StlMouth(22,1);
 VoicePlay("U160D00004_22_000");
 MsgDisp("Hikaru","Hey, Mari.
 Answer from your heart, okay?");
-MsgDisp("主人公","Eh?
-S-Sure.");
+MsgDisp("主人公","Eh? S-Sure.");
 StlEyeOpenLevel(22,5,1);
 StlCheek(22,7);
 VoicePlay("U160D00004_22_010");

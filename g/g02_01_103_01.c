@@ -110,11 +110,11 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110301_01_130");
-MsgDisp("Kazama","Sigh, I wanna go to a timeline where I
-didn't borrow that floatie that day...");
-MsgDisp("主人公","(｛Kazama＊＊｝ using a floatie to stay above
-water...might be something I want to see
-again.)");
+MsgDisp("Kazama","Sigh, I wanna go to a timeline where I didn't
+borrow that floatie that day...");
+MsgDisp("主人公","(｛Kazama＊＊｝ using a floatie to stay
+above water...might be something I want to
+see again.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

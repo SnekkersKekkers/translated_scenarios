@@ -14,8 +14,8 @@ MsgDisp("Kazama","Like this right here. There's no tradition of
 enjoying fireflies in the UK, but I'm moved
 like it's the most natural thing.");
 MsgDisp("主人公","Yeah, and it feels to me like us being
-together is natural too, like we were never
-apart.");
+together is natural too, like we were
+never apart.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);

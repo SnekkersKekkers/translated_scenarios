@@ -28,8 +28,7 @@ ChMotion(7,0);
 VoicePlay("P140700000_07_030");
 MsgDisp("Mikage","You guys prepared very thoroughly.
 Won't this be a wonderful memory?");
-MsgDisp("主人公","(Yay!
-A huge success!)");
+MsgDisp("主人公","(Yay! A huge success!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

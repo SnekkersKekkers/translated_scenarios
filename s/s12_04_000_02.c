@@ -16,8 +16,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("S120400002_04_000");
     MsgDisp("Nanatsumori","The shrine visit is over.
 Thanks for coming with me.");
-    MsgDisp("主人公","Yeah.
-Happy New Year!");
+    MsgDisp("主人公","Yeah. Happy New Year!");
     ChMotion(4,0,1);
     VoicePlay("S120400002_04_010");
     MsgDisp("Nanatsumori","Happy New Year.
@@ -39,8 +38,7 @@ See you.");
     VoicePlay("S120400002_04_020");
     MsgDisp("Nanatsumori","Phew.
 We finally got out of that crowd of people.");
-    MsgDisp("主人公","Hehe!
-Are you tired?");
+    MsgDisp("主人公","Hehe! Are you tired?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -65,8 +63,7 @@ Let's get you home.");
     ChMotion(4,0);
     VoicePlay("S120400002_04_050");
     MsgDisp("Nanatsumori","It's the end of our shrine visit...");
-    MsgDisp("主人公","Yeah.
-We finished praying.");
+    MsgDisp("主人公","Yeah. We finished praying.");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,2,1);

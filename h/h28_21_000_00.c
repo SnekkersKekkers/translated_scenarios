@@ -15,8 +15,7 @@ switch (ChPrmGet(21,6)){
     ChMotion(21,3);
     VoicePlay("H282100000_21_000");
     MsgDisp("Michiru","Mari, I found you.");
-    MsgDisp("主人公","Hm?
-｛みちる＊｝, you came to support us?");
+    MsgDisp("主人公","Hm? ｛みちる＊｝, you came to support us?");
     ChEye(21,0);
     ChMouth(21,0);
     ChMotion(21,0);
@@ -49,8 +48,7 @@ I have to do my best, too!)");
     ChMouth(21,3);
     ChMotion(21,0);
     VoicePlay("H282100000_21_030");
-    MsgDisp("Michiru","Mari.
-I came to support you.");
+    MsgDisp("Michiru","Mari. I came to support you.");
     MsgDisp("主人公","｛みちる＊｝!
 Thank you, everyone in the team will be
 grateful too.");
@@ -59,8 +57,8 @@ grateful too.");
     ChMotion(21,3);
     VoicePlay("H282100000_21_040");
     MsgDisp("Michiru","Hehe.
-But, the person I'll be cheering most for is
-Mari.");
+But, the person I'll be cheering most for
+is Mari.");
     MsgDisp("主人公","Hm?");
     ChEye(21,0);
     ChMouth(21,0);

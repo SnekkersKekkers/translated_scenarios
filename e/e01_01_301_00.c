@@ -5,8 +5,7 @@ MsgDisp("主人公","...Alright.
 Time to head home.
 Huh, is that...");
 VoicePlay("E010130100_03_000");
-MsgDisp("Honda?","Huh?
-Might as well, no need to be shy!");
+MsgDisp("Honda?","Huh? Might as well, no need to be shy!");
 MsgDisp("主人公","What are you guys doing?");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -24,9 +23,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("E010130100_03_010");
-MsgDisp("Honda","I was just suggesting to Ryo-kun, y'know,
-that I cut his hair too while I was doing
-mine!");
+MsgDisp("Honda","I was just suggesting to Ryo-kun,
+y'know, that I cut his hair too while I
+was doing mine!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -86,9 +85,9 @@ MsgDisp("Honda","But I haven't said anything yet.
 Ryo-kun, you're too many steps ahead.");
 ChMouth(1,2);
 ChMotion(1,0);
-MsgDisp("主人公","Ehm...
-Excuse me? I don't have any plans for a
-haircut right now.");
+MsgDisp("主人公","Ehm... Excuse me?
+I don't have any plans for a haircut
+right now.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

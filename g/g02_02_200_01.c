@@ -37,8 +37,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220001_02_050");
 MsgDisp("Sassa","But since you came here today, the distance
-between him and me is still one I can cover,
-right?");
+between him and me is still one I can
+cover, right?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,3);

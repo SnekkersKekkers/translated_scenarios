@@ -23,8 +23,7 @@ I'll wait for you at the ｛待ち合わせ場所｝.");
 Then, see you on that day.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yes!
-I can't wait for ｛日付｝.)");
+    MsgDisp("主人公","(Yes! I can't wait for ｛日付｝.)");
     break ;
     case 3:
     MsgDisp("主人公","(Ah, a phone call from ｛Sassa＊＊｝.)");
@@ -48,8 +47,7 @@ Then let's meet on ｛日付｝ at the
 See ya on that day then!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!
-I hope ｛日付｝ arrives fast!)");
+    MsgDisp("主人公","(Yay! I hope ｛日付｝ arrives fast!)");
     break ;
     case 4:
     case 5:
@@ -73,8 +71,7 @@ planned something else.
 It's gonna be fun! See ya.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!!
-I can't wait for ｛日付｝!)");
+    MsgDisp("主人公","(Yay!! I can't wait for ｛日付｝!)");
     break ;
     default :
     DbgAssert(1);

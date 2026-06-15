@@ -2,8 +2,7 @@ MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020520200_05_000");
 MsgDisp("Hiiragi","...Inori-kun is by your side, isn't he?");
-MsgDisp("主人公","Eh?
-｛Himuro＊＊｝?
+MsgDisp("主人公","Eh? ｛Himuro＊＊｝?
 Where?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -37,8 +36,8 @@ MsgDisp("Hiiragi","There's no one who is as adorable as you.");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020520200_05_060");
-MsgDisp("Hiiragi","So, I'll do whatever I can to be by your side
-again.");
+MsgDisp("Hiiragi","So, I'll do whatever I can to be by your
+side again.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 ChMotion(5,4);

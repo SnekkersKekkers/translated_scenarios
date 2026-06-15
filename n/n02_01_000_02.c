@@ -16,8 +16,8 @@ Your grades are quite average, huh.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100002_01_010");
-    MsgDisp("Kazama","Well, you know, this doesn't seem quite like
-you.
+    MsgDisp("Kazama","Well, you know, this doesn't seem quite
+like you.
 This isn't funny.");
     ChEye(1,0);
     ChMouth(1,0);
@@ -37,8 +37,7 @@ This isn't funny.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("N020100002_01_040");
-    MsgDisp("Kazama","Not me.
-You.");
+    MsgDisp("Kazama","Not me. You.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,2);
@@ -56,8 +55,7 @@ Just think about that.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Sigh.
-Ordinary, huh...
+    MsgDisp("主人公","(Sigh. Ordinary, huh...
 Yeah, I'll do my best.)");
     break ;
     case 4:
@@ -79,8 +77,7 @@ wouldn't get grades like these.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("N020100002_01_090");
-    MsgDisp("Kazama","Yeah.
-Be yourself and go for it.");
+    MsgDisp("Kazama","Yeah. Be yourself and go for it.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

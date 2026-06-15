@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040217002_02_000");
-MsgDisp("Sassa","Hey, we have to keep going, or we'll waste
-time.");
+MsgDisp("Sassa","Hey, we have to keep going, or we'll
+waste time.");
 MsgSel("Let's think of it like practice?","Actually, I'm hungry...","You go first");
 switch (MsgSelRsltGet()){
     case 0:
@@ -57,16 +57,15 @@ Then, why don't we stop singing and eat?");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040217002_02_040");
-        MsgDisp("Sassa","Eh?
-You've already put in a song?");
+        MsgDisp("Sassa","Eh? You've already put in a song?");
         MsgDisp("主人公","Yeah, it's a popular number one after all.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,0);
         ChEyeOpenLevel(2,8);
         VoicePlay("B040217002_02_050");
-        MsgDisp("Sassa","\"I'll love you even a thousand years from
-now\"...");
+        MsgDisp("Sassa","\"I'll love you even a thousand years
+from now\"...");
         BGMStop(2.5);
         ChClose(2);
         Wait(90,0);
@@ -88,16 +87,13 @@ now\"...");
         VoicePlay("B040217002_02_070");
         MsgDisp("Sassa","Aren't the lyrics exactly like a full-on
 marriage proposal?");
-        MsgDisp("主人公","Yeah.
-I think it's somewhat moving.");
+        MsgDisp("主人公","Yeah. I think it's somewhat moving.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040217002_02_080");
-        MsgDisp("Sassa","I see.
-...Then, what's your answer?");
-        MsgDisp("主人公","(Ummm...
-When you say answer...)");
+        MsgDisp("Sassa","I see. ...Then, what's your answer?");
+        MsgDisp("主人公","(Ummm... When you say answer...)");
         break ;
         default :
         DbgAssert(1);

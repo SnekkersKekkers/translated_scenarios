@@ -12,8 +12,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you very much!");
-MsgDisp("主人公","Uhm...
-Manager.
+MsgDisp("主人公","Uhm... Manager.
 Did Shirahane-kun take the day off?");
 VoicePlay("D020800901_40_000");
 MsgDisp("Manager","Ah, Daichi-kun called yesterday to say he's

@@ -31,8 +31,8 @@ Hm, it's too bad!)");
     ChOpen(5,30,0,3,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040500002_05_020");
-    MsgDisp("Hiiragi","We weren't victorious, but I still enjoyed
-myself.
+    MsgDisp("Hiiragi","We weren't victorious, but I still
+enjoyed myself.
 I suppose I'm satisfied?");
     MsgDisp("主人公","(A draw, huh...
 Hm, it's too bad!)");

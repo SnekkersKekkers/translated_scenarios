@@ -9,8 +9,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,4);
     ChEyeOpenLevel(6,8);
     VoicePlay("R060600007_06_000");
-    MsgDisp("Himuro","Would anyone normally pick something like
-this?");
+    MsgDisp("Himuro","Would anyone normally pick something
+like this?");
     MsgDisp("主人公","(Darn, I don't think he's really happy with
 my gift...)");
     break ;

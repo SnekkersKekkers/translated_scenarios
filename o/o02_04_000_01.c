@@ -38,8 +38,7 @@ I wish I had tried harder.)");
     VoicePlay("O020400001_04_040");
     MsgDisp("Nanatsumori","Guess so.
 Your hands okay?");
-    MsgDisp("主人公","Yeah.
-Thanks for worrying.");
+    MsgDisp("主人公","Yeah. Thanks for worrying.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);

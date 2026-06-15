@@ -16,8 +16,7 @@ ChMotion(4,0,1);
 VoicePlay("K020401100_04_010");
 MsgDisp("Nanatsumori","I still need you for something.
 Hang out with me just a little longer.");
-MsgDisp("主人公","Oh, okay.
-...What?");
+MsgDisp("主人公","Oh, okay. ...What?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -27,16 +26,14 @@ SEPlay("EV_SE_665");
 SEWait();
 ChMotion(4,0,1);
 VoicePlay("K020401100_04_030");
-MsgDisp("Nanatsumori","Here.
-Your present.");
+MsgDisp("Nanatsumori","Here. Your present.");
 MsgDisp("主人公","Hm?");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("K020401100_04_040");
 VoiceEVSPlay(4);
 MsgDisp("Nanatsumori","Happy birthday, ｛主人公｝.");
-MsgDisp("主人公","Wah...
-Thank you!
+MsgDisp("主人公","Wah... Thank you!
 You remembered.");
 ChEye(4,0);
 ChMouth(4,3);

@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040723600_07_010");
-    MsgDisp("Mikage","It doesn't matter if you're a kid or an
-adult!
+    MsgDisp("Mikage","It doesn't matter if you're a kid or
+an adult!
 You'll still get excited.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

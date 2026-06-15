@@ -2,8 +2,7 @@ ChLayout(1);
 BGOpen("ne100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's almost time to go home.
-Huh?
-Who's that over there...)");
+Huh? Who's that over there...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(7,255,0,0,0,#1,#1,0,1,0,30);
@@ -16,15 +15,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("E010740000_07_000");
-MsgDisp("Mikage","Yo.
-You seem to be doing well.");
+MsgDisp("Mikage","Yo. You seem to be doing well.");
 MsgDisp("主人公","What are you two talking about?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("E010740000_21_010");
-MsgDisp("Michiru","Hey, Mari do you know what \"hiyashi chuka\"
-is?");
+MsgDisp("Michiru","Hey, Mari do you know what \"hiyashi
+chuka\" is?");
 MsgDisp("主人公","Yeah.");
 ChEye(21,0);
 ChMouth(21,4);
@@ -65,8 +63,7 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("E010740000_21_040");
-MsgDisp("Michiru","Yeah.
-I want to have it too.
+MsgDisp("Michiru","Yeah. I want to have it too.
 I'll ask Hikaru to help out.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -82,8 +79,8 @@ MsgDisp("Mikage","Hmm, we'll probably need more votes...");
 ChPosition(21,0);
 Wait(30);
 MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝, will you ask others for help
-too?");
+｛Mikage＊＊｝, will you ask others for
+help too?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);

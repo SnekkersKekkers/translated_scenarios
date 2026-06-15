@@ -37,8 +37,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600600_06_020");
-MsgDisp("Himuro","...Before, you wanted to know what my type
-was?
+MsgDisp("Himuro","...Before, you wanted to know what my
+type was?
 Why was that?");
 MsgDisp("主人公","Umm...even if I said that then, it was just
 mere curiosity?");
@@ -53,8 +53,7 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
 VoicePlay("G110600600_06_040");
-MsgDisp("Himuro","...Oh.
-Then it's fine.");
+MsgDisp("Himuro","...Oh. Then it's fine.");
 MsgDisp("主人公","｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -78,8 +77,8 @@ ChMouth(6,1);
 ChMotion(6,2);
 ChCheek(6,0);
 VoicePlay("G110600600_06_070");
-MsgDisp("Himuro","It seems that I was an idiot for worrying so
-much.");
+MsgDisp("Himuro","It seems that I was an idiot for worrying
+so much.");
 MsgDisp("主人公","(｛Himuro＊＊｝...
 That question really worried you, huh...)");
 BGMStop();

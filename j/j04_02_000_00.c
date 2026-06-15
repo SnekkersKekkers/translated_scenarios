@@ -25,8 +25,7 @@ switch (ChPrmGet(2,6)){
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("J040200000_02_020");
-        MsgDisp("Sassa","Oh.
-I'll see you later.");
+        MsgDisp("Sassa","Oh. I'll see you later.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -86,8 +85,7 @@ Yeah, then I guess I don't have a choice.");
         MsgDisp("Sassa","Don't apologise.
 You didn't do anything wrong.
 I'll call on you again.");
-        MsgDisp("主人公","Yeah.
-｛Sassa＊＊｝, thank you.");
+        MsgDisp("主人公","Yeah. ｛Sassa＊＊｝, thank you.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);

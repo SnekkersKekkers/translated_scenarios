@@ -14,8 +14,7 @@ switch (ChPrmGet(8,6)){
     VoicePlay("I660800008_08_000");
     MsgDisp("Shirahane","Good work.
 It was pretty busy today.");
-    MsgDisp("主人公","Yeah.
-It's time for us to go home now, too.");
+    MsgDisp("主人公","Yeah. It's time for us to go home now, too.");
     ChEye(8,0);
     ChMouth(8,0);
     ChMotion(8,0,1);
@@ -27,10 +26,9 @@ Time for us high schoolers to get home.");
     ChMotion(8,4,1);
     ChCheek(8,4);
     VoicePlay("I660800008_08_020");
-    MsgDisp("Shirahane","Though I wanna stay with ya just a little
-longer.");
-    MsgDisp("主人公","Geez, ｛Daichi＊＊｝.
-Hehe!");
+    MsgDisp("Shirahane","Though I wanna stay with ya just a
+little longer.");
+    MsgDisp("主人公","Geez, ｛Daichi＊＊｝. Hehe!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,0,1);
@@ -65,8 +63,7 @@ I've been working here a while, so I'm glad.)");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     MsgClose();
     ChOpen(8,35,0,3,3,#1,#1,0,0);
-    MsgDisp("主人公","Phew...
-Seems like it's calmed down a bit.");
+    MsgDisp("主人公","Phew... Seems like it's calmed down a bit.");
     VoiceEVSPlay(8);
     VoicePlay("I660800008_08_060");
     MsgDisp("Shirahane","｛主人公｝.
@@ -81,8 +78,7 @@ There's oil on your nose.");
     VoicePlay("I660800008_08_070");
     MsgDisp("Shirahane","Huh, really?
 Where at?");
-    MsgDisp("主人公","Ah, don't.
-It'll spread if you rub it!
+    MsgDisp("主人公","Ah, don't. It'll spread if you rub it!
 Just wait a bit...");
     ChEye(8,2);
     ChMouth(8,4);
@@ -96,8 +92,7 @@ Just wait a bit...");
     ChMotion(8,4,1);
     ChCheek(8,8);
     VoicePlay("I660800008_08_090");
-    MsgDisp("Shirahane","Ah no...
-My heart's poundin'-");
+    MsgDisp("Shirahane","Ah no... My heart's poundin'-");
     ChEye(8,5);
     ChMouth(8,1);
     ChMotion(8,1,1);

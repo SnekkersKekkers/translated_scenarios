@@ -37,8 +37,8 @@ It was like a big cradle.");
     ChMotion(5,0);
     VoicePlay("B040523200_05_030");
     MsgDisp("Hiiragi","Ehh?
-It looked like you were having a lot of
-fun...");
+It looked like you were having a lot
+of fun...");
     MsgDateResultDisp();
     break ;
     default :

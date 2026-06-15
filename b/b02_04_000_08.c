@@ -12,5 +12,4 @@ VoicePlay("B020400008_04_010");
 MsgDisp("Nanatsumori","Yeah.
 It's nice, wearing trendy things that make
 you look even cuter than usual.");
-MsgDisp("主人公","(Hehe.
-｛Nanatsumori＊｝ praised me▼)");
+MsgDisp("主人公","(Hehe. ｛Nanatsumori＊｝ praised me▼)");

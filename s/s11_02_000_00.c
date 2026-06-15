@@ -10,8 +10,7 @@ ChMotion(2,4);
 VoicePlay("S110200000_02_000");
 MsgDisp("Sassa","Hmm, it says Half Luck.
 Should I try again?");
-MsgDisp("主人公","Eh?
-Read it properly.");
+MsgDisp("主人公","Eh? Read it properly.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

@@ -19,8 +19,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G110200100_02_010");
-MsgDisp("Sassa","Yeah, I was just going for a quick run before
-lunch.
+MsgDisp("Sassa","Yeah, I was just going for a quick run
+before lunch.
 How about joining me?");
 MsgDisp("主人公","Won't I get in ｛Sassa＊＊｝'s way...?");
 ChEye(2,3);

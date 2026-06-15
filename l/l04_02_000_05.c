@@ -19,8 +19,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("L040200005_02_020");
-    MsgDisp("Sassa","I see.
-You can make sweets, too.");
+    MsgDisp("Sassa","I see. You can make sweets, too.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -78,8 +77,7 @@ But, he seemed pleased enough.)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("L040200005_02_080");
-    MsgDisp("Sassa","Oh, it's handmade.
-Nice.");
+    MsgDisp("Sassa","Oh, it's handmade. Nice.");
     MsgDisp("主人公","Yeah, how is it?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -88,8 +86,7 @@ Nice.");
     MsgDisp("Sassa","It's really well made.
 There's just something in it that I'm not
 good with.");
-    MsgDisp("主人公","Oh!
-S-Sorry...");
+    MsgDisp("主人公","Oh! S-Sorry...");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);

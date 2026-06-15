@@ -22,8 +22,8 @@ VoicePlay("P640100004_01_020");
 MsgDisp("Kazama","It's a relief to be able to see the face of
 the producer, huh?");
 MsgDisp("主人公","Hehe, that's right.
-Mikage-sensei was in charge of the salad
-leaves.");
+Mikage-sensei was in charge of the
+salad leaves.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

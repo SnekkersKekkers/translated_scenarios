@@ -29,8 +29,8 @@ ChNanaType(0);
 ChOpen(4,255,0,0,3,#1,#1,0,0,0,60);
 VoicePlay("B360401100_04_020");
 MsgDisp("Nanatsumori","Follow where my finger is pointing.
-From that red-roofed house, up the hill
-road...");
+From that red-roofed house, up the
+hill road...");
 MsgDisp("主人公","Yeah.");
 VoicePlay("B360401100_04_030");
 MsgDisp("Nanatsumori","After that forest...");

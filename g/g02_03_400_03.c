@@ -6,8 +6,7 @@ ChMotion(3,3);
 VoicePlay("G020340003_03_000");
 MsgDisp("Honda","I'm finally satisfied with the ramen soup
 I've been working on for so long.");
-MsgDisp("主人公","Eh!
-You made the soup from scratch...?");
+MsgDisp("主人公","Eh! You made the soup from scratch...?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

@@ -29,8 +29,7 @@ I don't mind being complimented.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040630000_06_020");
-    MsgDisp("Himuro","Hmm?
-I've never really thought about it.");
+    MsgDisp("Himuro","Hmm? I've never really thought about it.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

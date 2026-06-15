@@ -74,8 +74,8 @@ I find it boring.");
         ChMouth(4,4);
         VoicePlay("B040410102_04_080");
         MsgDisp("Nanatsumori","Then, since you know the trick to enjoying
-it, if you lead, we can find common ground,
-right?");
+it, if you lead, we can find common
+ground, right?");
         MsgDisp("主人公","If we could, that would be great but...
 Is it really okay for me to be teacher?");
         ChEye(4,0);

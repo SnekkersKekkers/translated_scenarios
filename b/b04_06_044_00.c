@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040604400_06_000");
-    MsgDisp("Himuro","Yeah.
-My heart is still pounding...
+    MsgDisp("Himuro","Yeah. My heart is still pounding...
 It was truly wonderful...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

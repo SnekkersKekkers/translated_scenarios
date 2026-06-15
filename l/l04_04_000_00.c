@@ -23,8 +23,7 @@ Will you accept it?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("L040400000_04_010");
-    MsgDisp("Nanatsumori","Yo.
-Could it be, that?");
+    MsgDisp("Nanatsumori","Yo. Could it be, that?");
     MsgDisp("主人公","Hehe, it's this.
 Valentine's chocolate.");
     SEPlay("EV_SE_665");

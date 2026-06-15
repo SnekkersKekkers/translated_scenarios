@@ -1,5 +1,5 @@
-MsgDisp("主人公","Hey, I want to ask you a serious question,
-okay?");
+MsgDisp("主人公","Hey, I want to ask you a serious
+question, okay?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -14,8 +14,8 @@ ChMotion(6,0);
 ChCheek(6,10);
 VoicePlay("B070600000_06_490");
 MsgDisp("Himuro","Ha...?");
-MsgDisp("主人公","I would like to know ｛Himuro＊＊｝'s view on
-love.");
+MsgDisp("主人公","I would like to know ｛Himuro＊＊｝'s view
+on love.");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);
@@ -36,8 +36,7 @@ VoicePlay("B070600000_06_520");
 MsgDisp("Himuro","If you're going to ask someone else,
 shouldn't you be able to talk about it
 yourself?");
-MsgDisp("主人公","My view on love?
-Ummm...");
+MsgDisp("主人公","My view on love? Ummm...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

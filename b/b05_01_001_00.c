@@ -27,13 +27,12 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, you're finally back.");
 VoicePlay("B050100100_01_010");
 MsgDisp("Kazama","There was nothing but kiddy ones.");
-MsgDisp("主人公","Thank you...hey, ｛Kazama＊＊｝ also uses
-floats?");
+MsgDisp("主人公","Thank you...hey, ｛Kazama＊＊｝ also
+uses floats?");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("B050100100_01_020");
-MsgDisp("Kazama","Yeah.
-Of course I do.
+MsgDisp("Kazama","Yeah. Of course I do.
 It's normal.");
 MsgDisp("主人公","(Normal...
 Umm, I wonder about that...)");
@@ -91,8 +90,7 @@ ChMotion(1,0);
 VoicePlay("B050100100_01_070");
 MsgDisp("Kazama","And it's like I've gone back 10 years ago in
 my mind?");
-MsgDisp("主人公","Hehe.
-I'm like that too sometimes.");
+MsgDisp("主人公","Hehe. I'm like that too sometimes.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

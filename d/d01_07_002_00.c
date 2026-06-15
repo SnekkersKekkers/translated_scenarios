@@ -12,8 +12,7 @@ MsgDisp("主人公","(Everyone already left...
 I should go home quickly, too.)");
 SEPlay("EV_SE_594",0,0.5);
 Wait(30,0);
-MsgDisp("主人公","Eh∋
-W-What...∋");
+MsgDisp("主人公","Eh∋ W-What...∋");
 MsgClose();
 ScrFadeOut(0);
 SEPlay("EV_SE_512",1,0.5);
@@ -43,20 +42,17 @@ StlEye(7,0,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("D010700200_07_020");
-MsgDisp("Mikage","Hmm?
-That's what?");
+MsgDisp("Mikage","Hmm? That's what?");
 MsgDisp("主人公","That gives you a different vibe from usual.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("D010700200_07_030");
-MsgDisp("Mikage","Really?
-Hmm...");
+MsgDisp("Mikage","Really? Hmm...");
 StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("D010700200_07_040");
 MsgDisp("Mikage","Different in what kind of way?");
-MsgDisp("主人公","Uhm...
-In a good way.");
+MsgDisp("主人公","Uhm... In a good way.");
 StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,5);

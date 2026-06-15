@@ -21,8 +21,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B030415000_04_020");
-    MsgDisp("Nanatsumori","OK.
-Let's go.");
+    MsgDisp("Nanatsumori","OK. Let's go.");
     MsgDispSksp(0);
     break ;
     default :

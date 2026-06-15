@@ -16,8 +16,7 @@ switch (ChPrmGet(8,6)){
     VoicePlay("I660800000_45_000");
     MsgDisp("Woman","Excuse me!
 The gas flap is still open!");
-    MsgDisp("主人公","Ah...
-I'm sorry!");
+    MsgDisp("主人公","Ah... I'm sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
     BGMPlay("BGM_C08_DAICHI_A",0.01);
@@ -48,8 +47,8 @@ C'mon, hurry.");
     MsgDisp("Man","Stop, stop!");
     MsgDisp("主人公","Huh?");
     VoicePlay("I660800000_39_040");
-    MsgDisp("Man","Geez...look behind properly, my car's right
-there!");
+    MsgDisp("Man","Geez...look behind properly, my car's
+right there!");
     MsgDisp("主人公","I'm so sorry!");
     SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
     SEWait();
@@ -70,8 +69,7 @@ understand!");
     ChMotion(8,0,1);
     VoicePlay("I660800000_08_030");
     MsgDisp("Shirahane","You okay?");
-    MsgDisp("主人公","Yeah...
-Sorry to bother you.");
+    MsgDisp("主人公","Yeah... Sorry to bother you.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);

@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     NSSEye(7,2);
     NSSMouth(7,0);
     VoicePlay("B160700400_07_010");
-    MsgDisp("Mikage","Huh, was I wrong?
-Sigh...
+    MsgDisp("Mikage","Huh, was I wrong? Sigh...
 Either way, I'm being tested.");
     break ;
     case 1:

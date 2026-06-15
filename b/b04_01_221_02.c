@@ -75,8 +75,7 @@ mountains!");
         MsgDisp("Kazama","Oi, don't get so carried away.");
         SEPlay("EV_SE_026",0,0.4);
         SEWait();
-        MsgDisp("主人公","Eh∋
-｛Kazama＊＊｝!
+        MsgDisp("主人公","Eh∋ ｛Kazama＊＊｝!
 Something just flashed just now∈");
         VoicePlay("B040122102_01_060");
         MsgDisp("Kazama","Got it, got it.
@@ -89,8 +88,7 @@ It's dangerous, so that'll be all.");
         ScrFadeIn(0,30);
         ChMotion(1,3);
         VoicePlay("B040122102_01_070");
-        MsgDisp("Kazama","Crap.
-Your face.");
+        MsgDisp("Kazama","Crap. Your face.");
         MsgDisp("主人公","Huh?");
         ChEye(1,2);
         ChMouth(1,3);

@@ -12,8 +12,7 @@ switch (ChPrmGet(22,6)){
     ChMotion(22,4,1);
     ChEyeOpenLevel(22,8);
     VoicePlay("O042201100_22_000");
-    MsgDisp("Hikaru","Aha▼
-Mari, let's get serious!");
+    MsgDisp("Hikaru","Aha▼ Mari, let's get serious!");
     break ;
     case 3:
     ChMotion(22,3,1);

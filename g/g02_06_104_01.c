@@ -22,8 +22,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_030");
-MsgDisp("Himuro","Yeah.
-On the contrary, I'm proud of it.
+MsgDisp("Himuro","Yeah. On the contrary, I'm proud of it.
 It's strange to say this, but...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -50,8 +49,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_070");
-MsgDisp("Himuro","When I look at my dad and Reiichi, that's
-how I see it.");
+MsgDisp("Himuro","When I look at my dad and Reiichi, that's how
+I see it.");
 MsgDisp("主人公","Yeah.");
 ChEye(6,0);
 ChMouth(6,0);

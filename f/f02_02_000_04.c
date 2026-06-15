@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Sassa＊＊｝, it's almost your birthday,
-right?");
+MsgDisp("主人公","｛Sassa＊＊｝, it's almost your
+birthday, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

@@ -22,8 +22,7 @@ ChMotion(7,1);
 VoicePlay("G020720100_07_020");
 MsgDisp("Mikage","Well, now someone else is probably in that
 unusual circumstance instead of me?");
-MsgDisp("主人公","Umm...
-｛Mikage＊＊｝?");
+MsgDisp("主人公","Umm... ｛Mikage＊＊｝?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

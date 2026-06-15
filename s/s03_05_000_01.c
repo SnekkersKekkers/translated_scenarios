@@ -7,19 +7,16 @@ switch (ChPrmGet(5,6)){
 Should I come and pick you up?");
     MsgDisp("主人公","Is that okay with you?");
     VoicePlay("S030500001_05_010");
-    MsgDisp("Hiiragi","Yeah.
-I'll see you soon.");
+    MsgDisp("Hiiragi","Yeah. I'll see you soon.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yay!
-Now then, what should I wear?)");
+    MsgDisp("主人公","(Yay! Now then, what should I wear?)");
     break ;
     case 3:
     VoicePlay("S030500001_05_020");
     MsgDisp("Hiiragi","I just got some free time.
 Let's go visit the shrine then.");
-    MsgDisp("主人公","Yeah!
-Let's meet up then...");
+    MsgDisp("主人公","Yeah! Let's meet up then...");
     VoicePlay("S030500001_05_030");
     MsgDisp("Hiiragi","If it's okay, when you're done getting ready,
 I'll pick you up.");
@@ -39,8 +36,7 @@ See you soon.");
     MsgDisp("Hiiragi","Of course.
 Now's the perfect time for us to go.
 Let's get going.");
-    MsgDisp("主人公","Yay!
-Where should we meet up?");
+    MsgDisp("主人公","Yay! Where should we meet up?");
     VoicePlay("S030500001_05_060");
     MsgDisp("Hiiragi","If you don't mind, I'll come and pick you up.
 I'll head there slowly, so don't rush.");

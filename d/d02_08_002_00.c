@@ -21,8 +21,7 @@ ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,3,1);
 VoicePlay("D020800200_08_020");
-MsgDisp("Shirahane","Don't laugh!
-Sigh—...");
+MsgDisp("Shirahane","Don't laugh! Sigh—...");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);
@@ -46,8 +45,7 @@ ChMotion(8,1,1);
 VoicePlay("D020800200_08_050");
 MsgDisp("Shirahane","∈
 You can get it somehow?");
-MsgDisp("主人公","Hmm.
-It seems to be rare.
+MsgDisp("主人公","Hmm. It seems to be rare.
 But this is just a rumour, so...");
 ChEye(8,4);
 ChMouth(8,4);

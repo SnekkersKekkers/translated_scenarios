@@ -39,8 +39,8 @@ StlMouth(7,1);
 StlEyeOpenLevel(7,5,1);
 VoicePlay("R080700000_07_010");
 MsgDisp("Mikage","I guess.
-It's more that I couldn't talk as much as I
-wanted.");
+It's more that I couldn't talk as much as
+I wanted.");
 VoicePlay("R080700000_07_020");
 MsgDisp("Mikage","I didn't feel like keeping you all to myself
 at the party anyways.");
@@ -48,10 +48,9 @@ MsgDisp("主人公","Huh?");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("R080700000_07_030");
-MsgDisp("Mikage","Phew...our last Christmas party together is
-over.");
-MsgDisp("主人公","Yeah...
-I'll miss them.");
+MsgDisp("Mikage","Phew...our last Christmas party together
+is over.");
+MsgDisp("主人公","Yeah... I'll miss them.");
 StlEye(7,0);
 StlMouth(7,0);
 StlEyeOpenLevel(7,0);

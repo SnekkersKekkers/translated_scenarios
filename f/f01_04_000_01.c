@@ -8,16 +8,14 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,254,4,2,1,#1,#1,0,0);
     VoicePlay("F010400001_04_000");
-    MsgDisp("Nanatsumori","Shh!
-That name, it's totally NG.
-So.");
+    MsgDisp("Nanatsumori","Shh! That name, it's totally NG. So.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call him
-that.)");
+He doesn't seem to like it when I call
+him that.)");
     break ;
     case 3:
     MsgDisp("主人公","｛Nanatsumori＊｝.");
@@ -33,15 +31,14 @@ Quit calling me that!");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("F010400001_04_020");
-    MsgDisp("Nanatsumori","Very.
-So don't.");
+    MsgDisp("Nanatsumori","Very. So don't.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call him
-that.)");
+He doesn't seem to like it when I call
+him that.)");
     break ;
     case 4:
     case 5:
@@ -69,8 +66,8 @@ Seriously...");
     BGMStop();
     ChClose(4,0,30);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call him
-that.)");
+He doesn't seem to like it when I call
+him that.)");
     break ;
     default :
     DbgAssert(1);

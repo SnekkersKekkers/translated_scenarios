@@ -53,8 +53,7 @@ ChMotion(1,3);
 VoicePlay("B360121201_01_050");
 MsgDisp("Kazama","It's here, it's here.
 I've found it.");
-MsgDisp("主人公","Eh?
-Are they here?");
+MsgDisp("主人公","Eh? Are they here?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -66,8 +65,7 @@ ChClose(1);
 Wait(30,0);
 VoicePlay("B360121201_01_070");
 MsgDisp("Kazama","It's here.");
-MsgDisp("主人公","Eeh—?
-Plushies?");
+MsgDisp("主人公","Eeh—? Plushies?");
 MsgClose();
 ChOpen(1,255,0,4,3,#1,#1,0,0);
 VoicePlay("B360121201_01_080");

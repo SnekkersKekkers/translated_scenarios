@@ -21,8 +21,7 @@ quite hungry, hasn't it?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("D140B03300_01_010");
-MsgDisp("Kazama","Yeah.
-PE for fourth period is rough.");
+MsgDisp("Kazama","Yeah. PE for fourth period is rough.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -83,8 +82,7 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("D140B03300_03_040");
-MsgDisp("Honda","Eh!
-Then, the negotiations have broken down.");
+MsgDisp("Honda","Eh! Then, the negotiations have broken down.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -106,8 +104,7 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B03300_01_050");
 MsgDisp("Kazama","Sigh...");
-MsgDisp("主人公","(Hehe!
-We're kind of like a family!)");
+MsgDisp("主人公","(Hehe! We're kind of like a family!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -85,8 +85,7 @@ StlMouth(2,1);
 VoicePlay("D120A00000_02_010");
 MsgDisp("Sassa","Auntie!
 This is way too much.");
-MsgDisp("主人公","Ehh∋
-｛Sassa＊＊｝'s serving...");
+MsgDisp("主人公","Ehh∋ ｛Sassa＊＊｝'s serving...");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D120A00000_01_040");

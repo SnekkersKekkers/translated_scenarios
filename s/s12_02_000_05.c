@@ -42,8 +42,7 @@ Let's work hard this year!");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("S120200005_02_030");
-    MsgDisp("Sassa","Ahh.
-I think I'll run home as fast as I can.
+    MsgDisp("Sassa","Ahh. I think I'll run home as fast as I can.
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
@@ -71,8 +70,8 @@ without regrets!)");
     ChMotion(2,4);
     VoicePlay("S120200005_02_040");
     MsgDisp("Sassa","No, thank you.
-I thanked the Gods for a lot, but not for you
-yet.");
+I thanked the Gods for a lot, but not for
+you yet.");
     MsgDisp("主人公","Eh?");
     ChEye(2,4);
     ChMouth(2,0);
@@ -128,8 +127,7 @@ I need a little more time, until we graduate.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(2);
     MsgDisp("主人公","(Until graduation huh...
-Okay.
-I'll do my best too!)");
+Okay. I'll do my best too!)");
     break ;
     default :
     DbgAssert(1);

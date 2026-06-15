@@ -47,14 +47,12 @@ be passed around to so many people.");
         VoicePlay("B040221102_02_030");
         MsgDisp("Sassa","It was only just born, I want it to be able
 to rest well.");
-        MsgDisp("主人公","I see.
-｛Sassa＊＊｝ is kind huh?");
+        MsgDisp("主人公","I see. ｛Sassa＊＊｝ is kind huh?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040221102_02_040");
-        MsgDisp("Sassa","Ehhh?
-Didn't you already know?");
+        MsgDisp("Sassa","Ehhh? Didn't you already know?");
         MsgDisp("主人公","Hehe, I knew.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -77,8 +75,8 @@ Didn't you already know?");
         ChMouth(2,3);
         ChMotion(2,4);
         VoicePlay("B040221102_02_070");
-        MsgDisp("Sassa","What are we doing in front of the cheetah
-cage?");
+        MsgDisp("Sassa","What are we doing in front of the
+cheetah cage?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);

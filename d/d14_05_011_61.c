@@ -8,7 +8,7 @@ That means both of us will get good marks.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("D140501161_05_010");
-MsgDisp("Hiiragi","The rumoured Anpan that will get you full
-marks, I suppose there's no smoke without
-fire.");
+MsgDisp("Hiiragi","The rumoured Anpan that will get you
+full marks, I suppose there's no smoke
+without fire.");
 ChMouth(5,4);

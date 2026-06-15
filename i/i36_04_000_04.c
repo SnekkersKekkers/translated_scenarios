@@ -23,16 +23,14 @@ Let's clean up soon.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I360400004_04_010");
-    MsgDisp("Nanatsumori","Oh.
-Think it's mine.");
+    MsgDisp("Nanatsumori","Oh. Think it's mine.");
     MsgDisp("主人公","Thank you for waiting.
 Here is your pear and custard tart.");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I360400004_04_020");
-    MsgDisp("Nanatsumori","Thank you.
-......");
+    MsgDisp("Nanatsumori","Thank you. ......");
     MsgDisp("主人公","...Hm?
 Is there something else I can help you with?");
     ChEye(4,0);
@@ -45,8 +43,7 @@ Is there something else I can help you with?");
     VoicePlay("I360400004_04_040");
     MsgDisp("Nanatsumori","The pear tart looks damn good...!
 Pictures, pictures...");
-    MsgDisp("主人公","(Hehe!
-｛Nanatsumori＊｝ praised me!)");
+    MsgDisp("主人公","(Hehe! ｛Nanatsumori＊｝ praised me!)");
     break ;
     case 4:
     case 5:
@@ -82,28 +79,23 @@ something for a while now?");
     MsgDisp("Nanatsumori","Hm?
 I've been adding commentary to your
 actions...");
-    MsgDisp("主人公","Hm?
-You didn't take a video, did yo-");
+    MsgDisp("主人公","Hm? You didn't take a video, did yo-");
     ChEye(4,3);
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("I360400004_04_090");
-    MsgDisp("Nanatsumori","'Course not!
-...Geez.");
+    MsgDisp("Nanatsumori","'Course not! ...Geez.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("I360400004_04_100");
     MsgDisp("Nanatsumori","You're getting so used to this shop, it
 brings a tear to my eye that I can finally
 savour my coffee and sweets.");
-    MsgDisp("主人公","Geez...
-But, do you mean it?");
+    MsgDisp("主人公","Geez... But, do you mean it?");
     ChMotion(4,0,1);
     VoicePlay("I360400004_04_110");
-    MsgDisp("Nanatsumori","Yeah.
-You're completely used to it.");
-    MsgDisp("主人公","(Hehe!
-｛Nanatsumori＊｝ praised me!)");
+    MsgDisp("Nanatsumori","Yeah. You're completely used to it.");
+    MsgDisp("主人公","(Hehe! ｛Nanatsumori＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

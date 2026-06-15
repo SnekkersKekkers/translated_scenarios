@@ -34,8 +34,8 @@ woman...");
         ChMotion(1,3);
         VoicePlay("B040123502_01_020");
         MsgDisp("Kazama","A fallen warrior?
-Couldn't you have come up with something
-better?");
+Couldn't you have come up with
+something better?");
         MsgDisp("主人公","Umm, anyone else?");
         ChEye(1,2);
         ChMouth(1,3);
@@ -43,8 +43,8 @@ better?");
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123502_01_030");
         MsgDisp("Kazama","Right.
-Something that I would be even more scared
-of.");
+Something that I would be even more
+scared of.");
         MsgDisp("主人公","What are you scared of, ｛Kazama＊＊｝?");
         ChEye(1,0);
         ChMouth(1,0);
@@ -94,8 +94,8 @@ I can't see anything though.");
         ChEye(1,4);
         ChMouth(1,3);
         VoicePlay("B040123502_01_090");
-        MsgDisp("Kazama","There's some fluffy thing peering into them,
-right?");
+        MsgDisp("Kazama","There's some fluffy thing peering into
+them, right?");
         MsgDisp("主人公","Huh?");
         ChEye(1,4);
         ChMouth(1,3);
@@ -129,8 +129,7 @@ That's a great way of thinking about it.");
     ChMotion(1,0,1);
     ChEyeOpenLevel(1,7);
     VoicePlay("B040123502_01_120");
-    MsgDisp("Kazama","Yeah.
-So it's not necessarily all fake.");
+    MsgDisp("Kazama","Yeah. So it's not necessarily all fake.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -64,8 +64,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B20400_03_030");
 VoiceEVSPlay(3);
-MsgDisp("Honda","Then, let's make a note of what everyone
-likes?
+MsgDisp("Honda","Then, let's make a note of what
+everyone likes?
 Right, ｛主人公｝.");
 MsgDisp("主人公","(I'm in charge of the bentos∋)");
 BGMStop();

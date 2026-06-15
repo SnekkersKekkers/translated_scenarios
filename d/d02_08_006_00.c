@@ -7,8 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(8);
 VoicePlay("D020800600_08_000");
 MsgDisp("Shirahane","｛主人公｝.");
-MsgDisp("主人公","Hmm?
-What is it, ｛Daichi＊＊｝?");
+MsgDisp("主人公","Hmm? What is it, ｛Daichi＊＊｝?");
 VoicePlay("D020800600_08_030");
 ChEye(8,3);
 ChMouth(8,3);
@@ -39,8 +38,7 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 MsgDisp("Shirahane","Is it okay to invite ya out?
 I'll try not to interfere with your studies.");
-MsgDisp("主人公","Okay.
-That's fine.");
+MsgDisp("主人公","Okay. That's fine.");
 VoicePlay("D020800600_08_070");
 ChMotion(8,3,1);
 MsgDisp("Shirahane","Thank God～!

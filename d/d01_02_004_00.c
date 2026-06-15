@@ -61,13 +61,11 @@ StlMouth(2,1);
 VoicePlay("D010200400_02_080");
 MsgDisp("Sassa","Y-You know...
 I don't see anyone in the clubroom today?");
-MsgDisp("主人公","Shhh.
-Don't talk.");
+MsgDisp("主人公","Shhh. Don't talk.");
 StlEye(2,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
-MsgDisp("主人公","６９,７０...
-Ehh?");
+MsgDisp("主人公","６９,７０... Ehh?");
 StlEye(2,1);
 StlMouth(2,0);
 VoicePlay("D010200400_02_090");
@@ -82,8 +80,7 @@ VoicePlay("D010200400_02_100");
 MsgDisp("Sassa","Well...
 Your face is really close and you're holding
 my hand, so...");
-MsgDisp("主人公","Eh?
-Ah...");
+MsgDisp("主人公","Eh? Ah...");
 BGMVol(0.5,2);
 MsgClose();
 ScrFadeOut(0);
@@ -95,8 +92,7 @@ MsgClose();
 Wait(60);
 ChOpen(2,41,2,2,4,#1,#1,10,0,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Uhm...
-Sorry...");
+MsgDisp("主人公","Uhm... Sorry...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -109,8 +105,8 @@ ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("D010200400_02_120");
 MsgDisp("Sassa","I might not have been able to measure my
-heart rate properly, but I found a new way to
-train.");
+heart rate properly, but I found a new way
+to train.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -143,8 +139,8 @@ sometime.
 See you.");
 SEPlay("EV_SE_DOOR_013");
 SEWait();
-MsgDisp("主人公","(Sigh, my heart is racing a bit quickly
-too...)");
+MsgDisp("主人公","(Sigh, my heart is racing a bit
+quickly too...)");
 MsgClose();
 ScrFadeOut(0);
 ChPrmTblAdd(2,0);

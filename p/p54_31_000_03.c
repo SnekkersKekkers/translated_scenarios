@@ -3,8 +3,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-I didn't practise enough.
+MsgDisp("主人公","(Sigh... I didn't practise enough.
 I couldn't do it well...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
@@ -23,7 +22,6 @@ scolding from Himuro-sensei.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Uugh...
-I should have practised more...)");
+MsgDisp("主人公","(Uugh... I should have practised more...)");
 MsgClose();
 ScrFadeOut(0);

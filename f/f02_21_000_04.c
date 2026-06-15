@@ -11,8 +11,7 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F022100004_21_000");
-MsgDisp("Michiru","Yes.
-November 22nd.
+MsgDisp("Michiru","Yes. November 22nd.
 The date is easy to remember, right?");
 MsgDisp("主人公","Hehe, that's right!");
 ChEye(21,4);

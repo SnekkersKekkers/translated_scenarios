@@ -73,8 +73,7 @@ Is there something you needed?");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("P830200001_02_050");
-    MsgDisp("Sassa","There is, there is.
-You!");
+    MsgDisp("Sassa","There is, there is. You!");
     MsgDisp("主人公","Ehhh?");
     ChEye(2,0);
     ChMouth(2,4);

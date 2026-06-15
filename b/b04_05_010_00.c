@@ -42,8 +42,8 @@ Women's garments are tricky.");
     ChMotion(5,2);
     VoicePlay("B040501000_05_030");
     MsgDisp("Hiiragi","Was it a huge miss?
-I wonder what's so different to your usual
-look...");
+I wonder what's so different to your
+usual look...");
     MsgDateResultDisp();
     break ;
     default :

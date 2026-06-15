@@ -8,8 +8,7 @@ switch (ChPrmGet(3,6)){
     VoicePlay("Q040300002_03_000");
     MsgDisp("Honda","Sorry.
 The places I want to go to are weird.");
-    MsgDisp("主人公","Huh?
-Weird?");
+    MsgDisp("主人公","Huh? Weird?");
     ChEye(3,1);
     ChMouth(3,3);
     ChMotion(3,4,1);

@@ -70,8 +70,7 @@ Well, see ya.");
     ChMotion(1,0);
     VoicePlay("I550100000_01_070");
     MsgDisp("Kazama","3 mitarashi and 3 daifuku.");
-    MsgDisp("主人公","Okay.
-Will you be taking it home?");
+    MsgDisp("主人公","Okay. Will you be taking it home?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -101,8 +100,7 @@ Please come with him next time, then.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("I550100000_01_110");
-    MsgDisp("Kazama","Okay.
-See you.");
+    MsgDisp("Kazama","Okay. See you.");
     MsgDisp("主人公","(｛Kazama＊＊｝ came to check on me.
 Hehe, I'm happy.)");
     break ;
@@ -121,8 +119,8 @@ Welcome.");
     ChMotion(1,0);
     VoicePlay("I550100000_01_130");
     MsgDisp("Kazama","Today...
-I'll have some of the recommended sweets,
-please.");
+I'll have some of the recommended
+sweets, please.");
     MsgDisp("主人公","Yes, understood.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -139,7 +137,8 @@ He's my classmate.");
     MsgClose();
     ChOpen(1,255,0,4,3,#1,#1,0,0);
     VoicePlay("I550100000_01_140");
-    MsgDisp("Kazama","...Nice to meet you, I'm her classmate Kazama.");
+    MsgDisp("Kazama","...Nice to meet you, I'm her
+classmate Kazama.");
     MsgClose();
     ScrFadeOut(0);
     ChEye(1,0);
@@ -157,10 +156,8 @@ They're one of your fans, ｛Kazama＊＊｝.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("I550100000_01_150");
-    MsgDisp("Kazama","I see.
-That's fine, but what about you?");
-    MsgDisp("主人公","Huh?
-Um...
+    MsgDisp("Kazama","I see. That's fine, but what about you?");
+    MsgDisp("主人公","Huh? Um...
 I don't think I'm your fan.");
     ChEye(1,2);
     ChMouth(1,3);

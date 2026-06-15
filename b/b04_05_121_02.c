@@ -61,8 +61,7 @@ I also somehow looked like a fox.");
         MsgDisp("Hiiragi","Hm?
 Just now you made a face that looked as if
 you got it?");
-        MsgDisp("主人公","Umm...
-I'm sorry.");
+        MsgDisp("主人公","Umm... I'm sorry.");
         ChEye(5,3);
         ChMouth(5,4);
         ChMotion(5,0);

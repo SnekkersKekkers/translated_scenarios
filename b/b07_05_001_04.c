@@ -4,8 +4,7 @@ ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,2);
 VoicePlay("B070500001_05_280");
-MsgDisp("Hiiragi","Hm?
-Yes...");
+MsgDisp("Hiiragi","Hm? Yes...");
 MsgDisp("主人公","...Huh?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -46,8 +45,8 @@ VoicePlay("B070500001_05_350");
 MsgDisp("Hiiragi","And to that, he responded \"You're talking
 about yourself\" with great vigour.");
 MsgDisp("主人公","(Hehehe, seems fun.
-I'd like to hear their conversation one
-day...)");
+I'd like to hear their conversation
+one day...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

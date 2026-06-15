@@ -23,8 +23,7 @@ Good luck!");
 ChSet(21,3);
 VoicePlay("E012150000_21_020");
 MsgDisp("Michiru","Thank you.
-Mari, be careful on your way back.
-Bye.");
+Mari, be careful on your way back. Bye.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(21);
 MsgDisp("主人公","(I see.
@@ -39,14 +38,12 @@ SEWait();
 ChOpen(21,255,0,0,0,#1,#1,0,0,0,30);
 VoicePlay("E012150000_21_030");
 MsgDisp("Michiru","Pant, pant...");
-MsgDisp("主人公","Huh?
-｛みちる＊｝, what's wrong?");
+MsgDisp("主人公","Huh? ｛みちる＊｝, what's wrong?");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("E012150000_21_040");
-MsgDisp("Michiru","Sigh...
-I'm so forgetful.");
+MsgDisp("Michiru","Sigh... I'm so forgetful.");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,1);
@@ -60,8 +57,8 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("E012150000_21_060");
 MsgDisp("Michiru","That's right.
-I got some freebies earlier when I was buying
-snacks.");
+I got some freebies earlier when I was
+buying snacks.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
@@ -75,9 +72,9 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,1);
 VoicePlay("E012150000_21_080");
-MsgDisp("Michiru","Yeah.
-What a relief.
-Now I can work in peace. Okay, see you later.");
+MsgDisp("Michiru","Yeah. What a relief.
+Now I can work in peace.
+Okay, see you later.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);

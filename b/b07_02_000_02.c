@@ -24,8 +24,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_090");
 MsgDisp("Sassa","So, you're an udon fan too right?
-I'm looking forward to telling Ryota next
-time.");
+I'm looking forward to telling Ryota
+next time.");
 MsgDisp("主人公","Uhm, maybe I like both?");
 ChEye(2,0);
 ChMouth(2,4);

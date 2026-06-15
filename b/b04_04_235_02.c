@@ -7,9 +7,9 @@ ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040423502_04_000");
-MsgDisp("Nanatsumori","There were a lot of disembodied souls flying
-around on the graveyard course, weren't
-there?");
+MsgDisp("Nanatsumori","There were a lot of disembodied souls
+flying around on the graveyard course,
+weren't there?");
 MsgSel("Eh...?","There were so many of them, that it was pretty well-lit","I was so scared, I didn't look that much...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -34,8 +34,7 @@ They were there...they were there∋");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040423502_04_020");
-        MsgDisp("Nanatsumori","Eh?
-What's with that reaction?
+        MsgDisp("Nanatsumori","Eh? What's with that reaction?
 They were there.");
         MsgDisp("主人公","I didn't really see that many, though...");
         ChEye(4,2);
@@ -69,8 +68,7 @@ The real thing...");
         ChMouth(4,5);
         ChMotion(4,5,1);
         VoicePlay("B040423502_04_070");
-        MsgDisp("Nanatsumori","Wow∋
-What's with that all of a sudden!");
+        MsgDisp("Nanatsumori","Wow∋ What's with that all of a sudden!");
         MsgDisp("主人公","There was a pond over there, right?
 Maybe it was a reflection on the water's
 surface.");

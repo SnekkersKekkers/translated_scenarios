@@ -18,8 +18,7 @@ ChMotion(7,5);
 VoicePlay("F020700003_07_010");
 MsgDisp("Mikage","That, well.
 That I'm raising ostriches over there.");
-MsgDisp("主人公","Ehhh∋
-Is that true?");
+MsgDisp("主人公","Ehhh∋ Is that true?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -40,8 +39,7 @@ VoicePlay("F020700003_07_040");
 MsgDisp("Mikage","I like ostrich meat.
 I'm curious about it, and I've even eaten it
 at home.");
-MsgDisp("主人公","Eh?
-Is it tasty?");
+MsgDisp("主人公","Eh? Is it tasty?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -71,8 +69,7 @@ VoicePlay("F020700003_07_080");
 MsgDisp("Mikage","Yeah. But if that kind of talk comes up in
 the staff room, it'll reach Vice Principal
 Himuro's ears, right? It's scary.");
-MsgDisp("主人公","Ehh?
-But, it's a lie right?");
+MsgDisp("主人公","Ehh? But, it's a lie right?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);

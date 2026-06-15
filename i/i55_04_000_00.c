@@ -18,21 +18,18 @@ Welcome.");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I550400000_04_010");
-    MsgDisp("Nanatsumori","Nah.
-I'm not here to buy anything.");
+    MsgDisp("Nanatsumori","Nah. I'm not here to buy anything.");
     MsgDisp("主人公","Hm?");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("I550400000_04_020");
-    MsgDisp("Nanatsumori","Can't I window shop at a Japanese sweets
-shop?");
-    MsgDisp("主人公","Y-Yes.
-Please take your time looking around.");
+    MsgDisp("Nanatsumori","Can't I window shop at a Japanese
+sweets shop?");
+    MsgDisp("主人公","Y-Yes. Please take your time looking around.");
     ChEye(4,3);
     ChMouth(4,3);
     VoicePlay("I550400000_04_030");
-    MsgDisp("Nanatsumori","Yeah.
-By the way, got any new sweets?");
+    MsgDisp("Nanatsumori","Yeah. By the way, got any new sweets?");
     MsgDisp("主人公","(Window shopping...or not?)");
     BGMStop();
     MsgClose();
@@ -70,8 +67,7 @@ I have other recommendations if you'd like?");
     VoicePlay("I550400000_04_080");
     MsgDisp("Nanatsumori","Ah, keep one of those daifuku for me.
 Now tell me about the next one.");
-    MsgDisp("主人公","(Hehe.
-I hope ｛Nanatsumori＊｝ likes these.)");
+    MsgDisp("主人公","(Hehe. I hope ｛Nanatsumori＊｝ likes these.)");
     break ;
     case 4:
     case 5:

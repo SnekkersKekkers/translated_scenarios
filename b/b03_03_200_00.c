@@ -5,8 +5,7 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B030320000_03_000");
-MsgDisp("Honda","Whoa!
-I almost slipped...");
+MsgDisp("Honda","Whoa! I almost slipped...");
 MsgDispSksp(0);
 MsgClose();
 ScrFadeOut(0);

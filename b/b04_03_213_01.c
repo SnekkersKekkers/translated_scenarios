@@ -6,8 +6,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321301_03_000");
-MsgDisp("Honda","Huh, there's an animal that wasn't here last
-time?");
+MsgDisp("Honda","Huh, there's an animal that wasn't here
+last time?");
 MsgSel("Amazing! You have a good memory","The kitten sleeping on the sofa?","The doggy by the entrance is just a statue, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +29,7 @@ perfectly folded ears, you know?");
     ChMotion(3,1);
     VoicePlay("B040321301_03_020");
     MsgDisp("Honda","Yep yep, that kitten with floppy ears.
-Huh?
-It looks a bit like you?");
+Huh? It looks a bit like you?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

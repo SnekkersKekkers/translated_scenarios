@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700001_07_340");
 MsgDisp("Mikage","What's up?
-Why are you saying weird things all of a
-sudden?");
+Why are you saying weird things all of
+a sudden?");
 MsgDisp("主人公","It's just that when ｛Mikage＊＊｝,
 ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ are together, I
 get that sort of feeling...");
@@ -28,14 +28,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700001_07_370");
-MsgDisp("Mikage","The \"I know her best\" contest starts right
-away.");
+MsgDisp("Mikage","The \"I know her best\" contest starts
+right away.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_380");
-MsgDisp("Mikage","Well, I've also ended up participating in it
-though.");
+MsgDisp("Mikage","Well, I've also ended up participating in
+it though.");
 MsgDisp("主人公","Ehh?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -63,8 +63,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("B070700001_07_420");
-MsgDisp("Mikage","See, they're even more interesting with you
-around.");
+MsgDisp("Mikage","See, they're even more interesting with
+you around.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

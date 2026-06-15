@@ -76,8 +76,7 @@ Thank goodness!)");
     VoicePlay("L040700002_07_080");
     MsgDisp("Mikage","Amazing...
 You're giving this to me?");
-    MsgDisp("主人公","Yes.
-I did my best to show my thankfulness!");
+    MsgDisp("主人公","Yes. I did my best to show my thankfulness!");
     ChEye(7,2);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -91,8 +90,7 @@ I'm happy to hear this from you.");
     VoicePlay("L040700002_07_100");
     MsgDisp("Mikage","I'll follow your lead, and eat this proudly
 in the faculty room.");
-    MsgDisp("主人公","Huh?
-Won't Himuro-sensei scold you...?");
+    MsgDisp("主人公","Huh? Won't Himuro-sensei scold you...?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

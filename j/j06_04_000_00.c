@@ -22,8 +22,7 @@ So what do you want to do on the day?");
 What do you think?");
         ChMotion(4,0,1);
         VoicePlay("J060400000_04_010");
-        MsgDisp("Nanatsumori","OK.
-On Sunday, don't oversleep.");
+        MsgDisp("Nanatsumori","OK. On Sunday, don't oversleep.");
         MsgDisp("主人公","Hehe, look who's talking, ｛Nanatsumori＊｝!");
         ChEye(4,1);
         ChMouth(4,3);
@@ -64,9 +63,7 @@ I'm looking forward to Sunday!)");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("J060400000_04_040");
-        MsgDisp("Nanatsumori","Okay.
-I'll try again some other time.
-Bye.");
+        MsgDisp("Nanatsumori","Okay. I'll try again some other time. Bye.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         MsgClose();

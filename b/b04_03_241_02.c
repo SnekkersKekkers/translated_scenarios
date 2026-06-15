@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040324102_03_010");
-    MsgDisp("Honda","I see—.
-I'm not really good with herbs—.");
+    MsgDisp("Honda","I see—. I'm not really good with herbs—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -99,8 +98,7 @@ You're kind, and always make everyone smile.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040324102_03_090");
-        MsgDisp("Honda","Ehh∋
-...Does that \"everyone\" include you?");
+        MsgDisp("Honda","Ehh∋ ...Does that \"everyone\" include you?");
         MsgDisp("主人公","Of course!");
         ChEye(3,3);
         ChMouth(3,3);
@@ -131,8 +129,8 @@ sausages at once!");
         ChClose(3);
         SEWait();
         MsgDisp("主人公","(Homemade sausages from a farm...
-Maybe I have complicated feelings after
-all...)");
+Maybe I have complicated feelings
+after all...)");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(3,255,0,0,0,#1,#1,0,0);

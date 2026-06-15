@@ -3,10 +3,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4,1);
 VoicePlay("B070200001_02_500");
-MsgDisp("Sassa","Hm?
-Is there something on my face?");
-MsgDisp("主人公","A-Ah.
-Sorry for staring.");
+MsgDisp("Sassa","Hm? Is there something on my face?");
+MsgDisp("主人公","A-Ah. Sorry for staring.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -44,8 +42,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B070200001_02_550");
-MsgDisp("Sassa","Haha!
-Yep, you lose.");
+MsgDisp("Sassa","Haha! Yep, you lose.");
 MsgDisp("主人公","(I wasn't trying to have a staring
 competition with you...)");
 BGMStop();

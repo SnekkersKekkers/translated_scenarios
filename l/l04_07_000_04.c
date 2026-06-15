@@ -33,8 +33,7 @@ Thank goodness!)");
     ChMotion(7,0);
     VoicePlay("L040700004_07_030");
     MsgDisp("Mikage","It's handmade?");
-    MsgDisp("主人公","Yes.
-I wanted to show my gratitude.");
+    MsgDisp("主人公","Yes. I wanted to show my gratitude.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,5);
@@ -69,8 +68,8 @@ Thank goodness!)");
     ChMotion(7,3);
     VoicePlay("L040700004_07_070");
     MsgDisp("Mikage","Your hard work is really showing through.");
-    MsgDisp("主人公","There are some parts that I couldn't do very
-well...");
+    MsgDisp("主人公","There are some parts that I couldn't do
+very well...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);

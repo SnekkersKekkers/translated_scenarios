@@ -16,8 +16,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("B330B10100_04_000");
-MsgDisp("Nanatsumori","...So.
-What's the plan for today?");
+MsgDisp("Nanatsumori","...So. What's the plan for today?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -54,8 +53,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("B330B10100_01_020");
 MsgDisp("Kazama","Alright.
-Alright, let's start with that shop and go in
-order.");
+Alright, let's start with that shop and go
+in order.");
 MsgDisp("主人公","Eh, wait everyone!");
 ChEye(1,0);
 ChMouth(1,2);
@@ -102,8 +101,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B10100_03_030");
-MsgDisp("Honda","Then...
-I think this t-shirt will suit you.
+MsgDisp("Honda","Then... I think this t-shirt will suit you.
 Hey hey, try them all on and show us!");
 MsgDisp("主人公","(I'm happy they chose something for me but...
 Do they plan on making me try on clothes at

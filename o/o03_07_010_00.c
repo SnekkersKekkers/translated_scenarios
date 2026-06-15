@@ -13,8 +13,7 @@ three-legged race...)");
     VoicePlay("O030701000_07_000");
     MsgDisp("Mikage","｛主人公｝, what's wrong?
 Are you alone?");
-    MsgDisp("主人公","Yes.
-I haven't found a partner yet...");
+    MsgDisp("主人公","Yes. I haven't found a partner yet...");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,3);
@@ -56,10 +55,8 @@ three-legged race...)");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("O030701000_07_060");
-    MsgDisp("Mikage","Me?
-Sure, if you're okay with it.");
-    MsgDisp("主人公","I am.
-Then, please pair up with me.");
+    MsgDisp("Mikage","Me? Sure, if you're okay with it.");
+    MsgDisp("主人公","I am. Then, please pair up with me.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

@@ -31,16 +31,15 @@ Wait(10,0);
 ChEyeOpenLevel(5,12);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500300_05_000");
-MsgDisp("Hiiragi","As long as this table and computer are between us,
-I can't close the distance.");
+MsgDisp("Hiiragi","As long as this table and computer are
+between us, I can't close the distance.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110500300_05_010");
 MsgDisp("Hiiragi","Don't tell me you already forgot.
 Kitten-chan?");
-MsgDisp("主人公","Huh∋
-Could it be...
+MsgDisp("主人公","Huh∋ Could it be...
 From our previous skinship?");
 VoicePlay("G110500300_05_020");
 MsgDisp("Hiiragi","Yeah. At night, you suddenly change when our

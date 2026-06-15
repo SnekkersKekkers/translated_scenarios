@@ -39,9 +39,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B040606400_06_050");
-MsgDisp("Himuro","I see.
-To serve that at a food stall...
-Good taste. Let's go.");
+MsgDisp("Himuro","I see. To serve that at a food stall...
+Good taste.
+Let's go.");
 MsgClose();
 SEPlay("EV_SE_626");
 MsgClose();

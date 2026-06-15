@@ -25,8 +25,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_580");
 MsgDisp("Himuro","The fact that we're here now, like this is
-also probably just because you felt like it
-right?");
+also probably just because you felt like
+it right?");
 MsgDisp("主人公","That's not true!");
 ChEye(6,0);
 ChMouth(6,2);
@@ -52,8 +52,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_620");
-MsgDisp("Himuro","Even the fact I'm here with you like this
-now...");
+MsgDisp("Himuro","Even the fact I'm here with you like
+this now...");
 MsgDisp("主人公","...For what reason is that?");
 ChEye(6,0);
 ChMouth(6,0);

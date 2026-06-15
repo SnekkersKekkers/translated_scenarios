@@ -19,8 +19,8 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F022100010_21_010");
 MsgDisp("Michiru","Both the show and the costumes are so
-professional, I'm really looking forward to
-it.");
+professional, I'm really looking forward
+to it.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -28,7 +28,6 @@ VoicePlay("F022100010_21_020");
 MsgDisp("Michiru","Whether you're the lead, a supporting role,
 backstage crew, or in the audience; I hope
 it's a show that satisfies everyone.");
-MsgDisp("主人公","(Yeah...
-I have to give it my all!)");
+MsgDisp("主人公","(Yeah... I have to give it my all!)");
 MsgClose();
 ScrFadeOut(0,0);

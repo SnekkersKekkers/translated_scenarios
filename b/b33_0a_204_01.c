@@ -29,8 +29,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A20401_02_010");
 MsgDisp("Sassa","It's nice and easy to understand.
-Then, what sort of name would you give it
-Inori?");
+Then, what sort of name would you give
+it Inori?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -51,8 +51,7 @@ ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B330A20401_01_010");
-MsgDisp("Kazama","Urk.
-Why?");
+MsgDisp("Kazama","Urk. Why?");
 ChMouth(1,2);
 ChMotion(1,0);
 MsgDisp("主人公","Hehe, I'm excited.
@@ -73,15 +72,13 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330A20401_01_020");
-MsgDisp("Kazama","Phew.
-That came out of nowhere.");
+MsgDisp("Kazama","Phew. That came out of nowhere.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A20401_06_030");
-MsgDisp("Himuro","Hm.
-Well, it's Ryota-senpai's turn.");
+MsgDisp("Himuro","Hm. Well, it's Ryota-senpai's turn.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -126,8 +123,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20401_01_050");
-MsgDisp("Kazama","...Geez, you got caught up in the heat of the
-moment.");
+MsgDisp("Kazama","...Geez, you got caught up in the heat of
+the moment.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

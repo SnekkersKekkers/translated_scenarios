@@ -37,16 +37,16 @@ MsgDisp("Kazama","No, you got that guy wrong...
 If I said I was going to surf for real, he
 would probably hate it.");
 MsgDisp("主人公","I don't think that's true.
-But, you three seem to be having a lot of
-fun.");
+But, you three seem to be having a lot
+of fun.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_220");
 MsgDisp("Kazama","I'm not having fun one bit.
-Tell those guys to stop urging me to do
-sports.");
+Tell those guys to stop urging me to
+do sports.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

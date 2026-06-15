@@ -4,8 +4,7 @@ switch (ChPrmGet(5,6)){
     case 2:
     VoicePlay("J030500001_05_000");
     MsgDisp("Hiiragi","...That day is booked.");
-    MsgDisp("主人公","I see...
-It can't be helped.");
+    MsgDisp("主人公","I see... It can't be helped.");
     VoicePlay("J030500001_05_010");
     MsgDisp("Hiiragi","Yes, sorry about that.
 If you will excuse me.");
@@ -15,8 +14,7 @@ If you will excuse me.");
     case 3:
     VoicePlay("J030500001_05_020");
     MsgDisp("Hiiragi","...Oh, that day is booked.");
-    MsgDisp("主人公","I see...
-Too bad, but what can you do.");
+    MsgDisp("主人公","I see... Too bad, but what can you do.");
     VoicePlay("J030500001_05_030");
     MsgDisp("Hiiragi","I'm sorry, especially since you invited me.");
     MsgDisp("主人公","No, don't worry about it.

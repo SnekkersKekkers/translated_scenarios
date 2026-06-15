@@ -25,8 +25,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100700_01_010");
-MsgDisp("Kazama","It feels like we're the only ones being left
-behind?");
+MsgDisp("Kazama","It feels like we're the only ones being
+left behind?");
 MsgDisp("主人公","Hehe, maybe.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -40,8 +40,7 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G110100700_01_030");
-MsgDisp("Kazama","...Hm?
-I wonder why that is?");
+MsgDisp("Kazama","...Hm? I wonder why that is?");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
@@ -59,8 +58,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100700_01_050");
 MsgDisp("Kazama","Is that a good thing or a bad thing?");
-MsgDisp("主人公","Umm...
-I don't really know.");
+MsgDisp("主人公","Umm... I don't really know.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEye(1,2);

@@ -55,10 +55,8 @@ ChLayout(0);
 MsgClose();
 ChOpen(5,255,0,3,4,#1,#1,0,0,0,30);
 VoicePlay("B360523600_05_060");
-MsgDisp("Hiiragi","See?
-Now you're all I can see.");
-MsgDisp("主人公","Um...
-｛Hiiragi＊＊＊｝?");
+MsgDisp("Hiiragi","See? Now you're all I can see.");
+MsgDisp("主人公","Um... ｛Hiiragi＊＊＊｝?");
 ChEye(5,4);
 VoicePlay("B360523600_05_070");
 MsgDisp("Hiiragi","What is it?");
@@ -74,8 +72,8 @@ ChClose(5,0,30);
 ChCheek(5,0);
 ChLayout(1);
 VoicePlay("B360523600_05_090");
-MsgDisp("Hiiragi","I'll make do with your side profile for
-today.");
+MsgDisp("Hiiragi","I'll make do with your side profile
+for today.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

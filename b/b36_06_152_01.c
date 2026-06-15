@@ -13,8 +13,7 @@ ChEyeOpenLevel(6,0);
 ScrFadeIn(0);
 VoicePlay("B360615201_06_000");
 MsgDisp("Himuro","Should I print out today's photos?");
-MsgDisp("主人公","With everyone else?
-Why?");
+MsgDisp("主人公","With everyone else? Why?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -63,8 +62,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,4);
 VoicePlay("B360615201_06_070");
-MsgDisp("Himuro","Though I might have to print out everyone's
-photos.");
+MsgDisp("Himuro","Though I might have to print out
+everyone's photos.");
 MsgDisp("主人公","That's not okay!");
 BGMStop();
 MsgClose();

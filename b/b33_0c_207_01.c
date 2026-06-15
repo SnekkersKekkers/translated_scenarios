@@ -31,8 +31,7 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330C20701_06_010");
 MsgDisp("Himuro","...These screams included.");
-MsgDisp("主人公","Sigh...
-I get nervous every time I come here.");
+MsgDisp("主人公","Sigh... I get nervous every time I come here.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -68,8 +67,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C20701_07_030");
-MsgDisp("Mikage","Yeah, yeah.
-...Hm?
+MsgDisp("Mikage","Yeah, yeah. ...Hm?
 What's that?");
 ChEye(5,4);
 ChMouth(5,2);
@@ -113,8 +111,8 @@ MsgDisp("Mikage","Yeah, good luck to the both of us, yeah?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
 MsgDisp("主人公","(I'm also not really good with
-rollercoasters...but ｛Mikage＊＊｝ might be
-worse?)");
+rollercoasters...but ｛Mikage＊＊｝ might
+be worse?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

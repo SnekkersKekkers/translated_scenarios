@@ -34,8 +34,8 @@ I had a good time.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040104300_01_020");
-    MsgDisp("Kazama","Sounds like the problem's on the receiving
-end.
+    MsgDisp("Kazama","Sounds like the problem's on the
+receiving end.
 That's on you.");
     MsgDateResultDisp();
     break ;

@@ -7,8 +7,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("主人公","It says...\"Chiru-chan and Pika-chan asked me
 how I feel about you.
 Hehe, what do you think I answered?");
-    MsgDisp("主人公","(Ehhh∋
-What kind of things did you guys ask?
+    MsgDisp("主人公","(Ehhh∋ What kind of things did you guys ask?
 How did ｛Honda＊＊｝ answer...?)");
     break ;
     case 4:
@@ -17,8 +16,7 @@ How did ｛Honda＊＊｝ answer...?)");
     MsgDisp("主人公","It says...\"Chiru-chan and Pika-chan told me
 they would tell me a secret about you.
 You should tell me it first.");
-    MsgDisp("主人公","(Ehhh∋
-What did you guys talk about?
+    MsgDisp("主人公","(Ehhh∋ What did you guys talk about?
 But ｛Honda＊＊｝ can't keep secrets anyway...)");
     break ;
     default :

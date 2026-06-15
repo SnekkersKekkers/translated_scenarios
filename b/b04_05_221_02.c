@@ -35,8 +35,7 @@ take it seriously.");
         ChMotion(5,4);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522102_05_020");
-        MsgDisp("Hiiragi","Sigh...
-I'm not so sure.");
+        MsgDisp("Hiiragi","Sigh... I'm not so sure.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040522102_05_030");
@@ -72,8 +71,7 @@ generations of lords here.");
         VoicePlay("B040522102_43_000");
         MsgDisp("Castle Lord?","You should proceed on your own path without
 hesitation.");
-        MsgDisp("主人公","...Huh?
-Just now...");
+        MsgDisp("主人公","...Huh? Just now...");
         ChEye(5,4);
         ChMouth(5,2);
         ChMotion(5,0);

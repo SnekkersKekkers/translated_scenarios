@@ -2,8 +2,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("B020302103_03_000");
-MsgDisp("Honda","Eh∋
-You can wear clothes like that?");
+MsgDisp("Honda","Eh∋ You can wear clothes like that?");
 MsgDisp("主人公","Does it look stylish?");
 ChEye(3,3);
 ChMouth(3,3);

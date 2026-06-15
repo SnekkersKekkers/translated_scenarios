@@ -32,8 +32,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B360650300_06_030");
-MsgDisp("Himuro","Honestly, I don't really know what to talk
-about.");
+MsgDisp("Himuro","Honestly, I don't really know what to
+talk about.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

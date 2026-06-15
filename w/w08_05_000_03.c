@@ -14,8 +14,8 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     VoicePlay("W080500003_05_010");
     MsgDisp("Hiiragi","Got it.
-Hanatsubaki-san, do you like the merry go
-round?");
+Hanatsubaki-san, do you like the merry
+go round?");
     break ;
     case 4:
     case 5:
@@ -23,8 +23,7 @@ round?");
     ChOpen(5,255,2,4,2,#1,#1,0,1);
     ScrFadeIn(0);
     VoicePlay("W080500003_05_020");
-    MsgDisp("Hiiragi","...Hanatsubaki-san, huh.
-I see.");
+    MsgDisp("Hiiragi","...Hanatsubaki-san, huh. I see.");
     break ;
     default :
     DbgAssert(1);

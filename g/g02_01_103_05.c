@@ -1,9 +1,9 @@
 MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020110305_01_000");
-MsgDisp("Kazama","You know, this place has this mysterious feel
-to it, like time moves slower here, don't you
-think?");
+MsgDisp("Kazama","You know, this place has this mysterious
+feel to it, like time moves slower here,
+don't you think?");
 MsgDisp("主人公","Yeah, I know what you're talking about.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -25,18 +25,18 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110305_01_030");
-MsgDisp("Kazama","...But I got to middle school and, you know,
-hit puberty, I mean, got to a difficult age,
-yeah?");
+MsgDisp("Kazama","...But I got to middle school and, you
+know, hit puberty, I mean, got to a
+difficult age, yeah?");
 MsgDisp("主人公","Hahah, yeah.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110305_01_040");
-MsgDisp("Kazama","And each day started to feel long again so I
-started putting together a plan to come back
-here.");
+MsgDisp("Kazama","And each day started to feel long again so
+I started putting together a plan to come
+back here.");
 MsgDisp("主人公","You're amazing, ｛Kazama＊＊｝...
 The way you made what you came up with into
 reality, I mean.");
@@ -80,8 +80,8 @@ ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("G020110305_01_090");
 MsgDisp("Kazama","Yeah, I just barely managed to stop myself.
-You can't do that kinda stuff in a classroom,
-yeah?");
+You can't do that kinda stuff in a
+classroom, yeah?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

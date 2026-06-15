@@ -18,8 +18,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110500002_35_020");
-MsgDisp("Guy","Wow, are you part of Habataki Theatre Company
-too?
+MsgDisp("Guy","Wow, are you part of Habataki Theatre
+Company too?
 Why don't you stop that work and come to us?");
 MsgDisp("主人公","Ehh?");
 ChEye(35,1);
@@ -55,8 +55,7 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,0);
 VoicePlay("B110500002_35_050");
-MsgDisp("Guy","Hm?
-Really～?");
+MsgDisp("Guy","Hm? Really～?");
 MsgDispSksp(1,5);
 ChEye(5,0);
 ChMouth(5,0);
@@ -67,8 +66,7 @@ MsgDispSksp(0);
 ChEye(35,1);
 ChMouth(35,1);
 VoicePlay("B110500002_35_060");
-MsgDisp("Guy","Ehh?
-You're messing with me.
+MsgDisp("Guy","Ehh? You're messing with me.
 Hey, stop pulling my leg～!");
 MsgDispSksp(1,5);
 ChEye(5,0);

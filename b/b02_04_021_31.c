@@ -7,15 +7,14 @@ ChMotion(4,1);
 VoicePlay("B020402131_04_000");
 MsgDisp("Nanatsumori","Very cute.
 Definitely girlish.");
-MsgDisp("主人公","Um...
-｛Nanatsumori＊｝?");
+MsgDisp("主人公","Um... ｛Nanatsumori＊｝?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,3,1);
 ChCheek(4,5);
 VoicePlay("B020402131_04_010");
-MsgDisp("Nanatsumori","Ah, my bad.
-It... Kind of just came out.
+MsgDisp("Nanatsumori","Ah, my bad. It...
+Kind of just came out.
 That seems to be your effect.");
 MsgDisp("主人公","(That's a little embarrassing...
 But ｛Nanatsumori＊｝ seems to have come to

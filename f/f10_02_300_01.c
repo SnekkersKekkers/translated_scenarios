@@ -26,8 +26,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("F100230001_02_010");
-MsgDisp("Sassa","Yeah.
-Today it's about Hikaru-san's gap.");
+MsgDisp("Sassa","Yeah. Today it's about Hikaru-san's gap.");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,4,1);
@@ -51,9 +50,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("F100230001_02_020");
-MsgDisp("Sassa","When you think of Hikaru-san's favourite food,
-you'd expect fancy French cuisine, right?
-But it's hamburgers?");
+MsgDisp("Sassa","When you think of Hikaru-san's favourite
+food, you'd expect fancy French cuisine,
+right? But it's hamburgers?");
 ChMouth(22,1);
 ChMotion(22,1,1);
 VoicePlay("F100230001_22_010");

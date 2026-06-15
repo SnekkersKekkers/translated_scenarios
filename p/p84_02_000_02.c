@@ -34,8 +34,7 @@ VoicePlay("P840200002_02_030");
 MsgDisp("Sassa","Not yet.
 I haven't given up on the idea of wandering
 around the stalls with you when you're done.");
-MsgDisp("主人公","Hehe!
-Sure!");
+MsgDisp("主人公","Hehe! Sure!");
 MsgDisp("主人公","(｛Sassa＊＊｝ thanked me!
 I'm so happy!)");
 MsgClose();

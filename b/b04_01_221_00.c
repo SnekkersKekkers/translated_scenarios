@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040122100_01_010");
     MsgDisp("Kazama","Right.
-The types of plants were probably different
-too.");
+The types of plants were probably
+different too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -23,8 +23,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630004_06_030");
-MsgDisp("Himuro","Yeah.
-You wouldn't understand.");
+MsgDisp("Himuro","Yeah. You wouldn't understand.");
 MsgDisp("主人公","...Why?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -35,8 +34,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630004_06_050");
-MsgDisp("Himuro","There are conversations that are just between
-men.");
+MsgDisp("Himuro","There are conversations that are just
+between men.");
 MsgDisp("主人公","I'm envious.");
 ChEye(6,0);
 ChMouth(6,4);

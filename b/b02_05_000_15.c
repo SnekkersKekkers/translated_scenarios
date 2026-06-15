@@ -8,7 +8,7 @@ So that means...");
 ChMouth(5,3);
 VoicePlay("B020500015_05_010");
 MsgDisp("Hiiragi","Yes, I own that too.
-It makes me happy to find we share so much in
-common.");
+It makes me happy to find we share so much
+in common.");
 MsgDisp("主人公","(Yeah, someday it would be nice to wear
 matching clothes...)");

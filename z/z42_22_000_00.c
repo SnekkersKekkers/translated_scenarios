@@ -8,6 +8,5 @@ SEStop("EV_SE_577",0);
 SEWait();
 MsgDisp("主人公","Hello.");
 VoicePlay("Z422200000_22_000");
-MsgDisp("Hikaru","Mari...
-Hikaru didn't make it in time.");
+MsgDisp("Hikaru","Mari... Hikaru didn't make it in time.");
 MsgClose();

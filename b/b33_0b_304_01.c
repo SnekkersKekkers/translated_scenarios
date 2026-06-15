@@ -41,8 +41,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30401_04_010");
-MsgDisp("Nanatsumori","Not really, I didn't think about it that
-deeply.
+MsgDisp("Nanatsumori","Not really, I didn't think about it
+that deeply.
 Is there a problem?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -72,8 +72,7 @@ ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1,1);
 VoicePlay("B330B30401_03_020");
-MsgDisp("Honda","Ehh∋
-Why is that!");
+MsgDisp("Honda","Ehh∋ Why is that!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

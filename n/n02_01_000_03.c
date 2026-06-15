@@ -29,8 +29,7 @@ with this ranking.");
 First step is facing reality.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);
-    MsgDisp("主人公","(Oof...
-I've got to study harder...)");
+    MsgDisp("主人公","(Oof... I've got to study harder...)");
     break ;
     case 3:
     MsgClose();
@@ -42,14 +41,12 @@ I've got to study harder...)");
 You really are hopelessly scatterbrained, you
 know that?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
-Umm...
-What do you mean?");
+Umm... What do you mean?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("N020100003_01_040");
-    MsgDisp("Kazama","Hmm?
-Did you answer in the wrong column?");
+    MsgDisp("Kazama","Hmm? Did you answer in the wrong column?");
     MsgDisp("主人公","Umm...");
     ChEye(1,2);
     ChMouth(1,2);
@@ -103,8 +100,7 @@ seriously, right?");
     MsgDisp("Kazama","Come on, let's go.
 I'll accompany you today.
 So tell me, where did you go wrong?");
-    MsgDisp("主人公","(Oof...
-Thank you, ｛Kazama＊＊｝.
+    MsgDisp("主人公","(Oof... Thank you, ｛Kazama＊＊｝.
 I've really got to study harder...)");
     break ;
     default :

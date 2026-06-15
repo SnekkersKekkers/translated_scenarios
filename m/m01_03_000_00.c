@@ -20,11 +20,10 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("M010300000_03_020");
-MsgDisp("Honda","I actually got here about thirty minutes ago,
-but I was talking to other people in the
-house.");
-MsgDisp("主人公","Eh∋
-You were?");
+MsgDisp("Honda","I actually got here about thirty minutes
+ago, but I was talking to other people in
+the house.");
+MsgDisp("主人公","Eh∋ You were?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -74,11 +73,10 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("M010300000_03_100");
-MsgDisp("Honda","...Agh, oh no.
-I said I wouldn't stay too long but I got
-caught up talking again, huh?");
-MsgDisp("主人公","It's okay, thanks for coming all this way
-today.");
+MsgDisp("Honda","...Agh, oh no. I said I wouldn't stay too
+long but I got caught up talking again, huh?");
+MsgDisp("主人公","It's okay, thanks for coming all this
+way today.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

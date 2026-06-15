@@ -31,10 +31,9 @@ hearts of the spectators.");
     ChMotion(5,0);
     VoicePlay("H1A0500001_05_030");
     MsgDisp("Hiiragi","The efforts that did not appear on the
-scoreboard ended up reaching everyone's
-hearts.");
-    MsgDisp("主人公","Yes...
-Thank you, ｛Hiiragi＊＊＊｝...");
+scoreboard ended up reaching
+everyone's hearts.");
+    MsgDisp("主人公","Yes... Thank you, ｛Hiiragi＊＊＊｝...");
     ChEye(5,3);
     VoicePlay("H1A0500001_05_040");
     MsgDisp("Hiiragi","Your cherished peers are worrying for you.

@@ -14,17 +14,15 @@ switch (ChPrmGet(8,6)){
     ChOpen(8,35,0,2,1,#1,#1,0,0);
     ChMotion(8,1,1);
     VoicePlay("I660800006_08_000");
-    MsgDisp("Shirahane","Aah!
-...They left!");
+    MsgDisp("Shirahane","Aah! ...They left!");
     MsgDisp("主人公","Hm?");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("I660800006_08_010");
-    MsgDisp("Shirahane","I was makin' their new membership card jus'
-now.");
-    MsgDisp("主人公","Huh∋
-W-What should we do...");
+    MsgDisp("Shirahane","I was makin' their new membership card
+jus' now.");
+    MsgDisp("主人公","Huh∋ W-What should we do...");
     ChEye(8,2);
     ChMouth(8,0);
     VoicePlay("I660800006_08_020");
@@ -52,15 +50,13 @@ I'll have to get it together...!)");
     ChOpen(8,35,0,2,1,#1,#1,0,0);
     ChMotion(8,1,1);
     VoicePlay("I660800006_08_040");
-    MsgDisp("Shirahane","Aah!
-...I didn't make it.");
+    MsgDisp("Shirahane","Aah! ...I didn't make it.");
     MsgDisp("主人公","Hm?");
     ChEye(8,2);
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800006_08_050");
-    MsgDisp("Shirahane","This.
-It's that customer's membership card.
+    MsgDisp("Shirahane","This. It's that customer's membership card.
 I was makin' it just now.");
     MsgDisp("主人公","I didn't know...
 I'm sorry.");

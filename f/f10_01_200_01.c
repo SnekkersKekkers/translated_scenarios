@@ -3,8 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100120001_01_000");
 MsgDisp("Kazama?","I see, that's a game-changer.");
-MsgDisp("主人公","(Huh?
-That voice just now...)");
+MsgDisp("主人公","(Huh? That voice just now...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,0,#1,#1,0,1);
@@ -19,8 +18,7 @@ VoicePlay("F100120001_07_000");
 MsgDisp("Mikage","｛主人公｝, are you also enrolled?
 Today, we're asking ourselves... 'How do we
 get out of cleaning?'");
-MsgDisp("主人公","Um...
-I'm fine, actually.");
+MsgDisp("主人公","Um... I'm fine, actually.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -34,8 +32,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100120001_07_010");
-MsgDisp("Mikage","First, 'how do we keep it from getting
-dirty?'
+MsgDisp("Mikage","First, 'how do we keep it from
+getting dirty?'
 That way, you don't have to clean at all.");
 ChEye(7,0);
 ChMouth(7,0);

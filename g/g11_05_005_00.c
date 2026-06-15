@@ -5,8 +5,8 @@ MsgDisp("主人公","(I guess it's about time to finish working
 for today...)");
 VoiceEVSPlay(5);
 VoicePlay("G110500500_05_000");
-MsgDisp("Hiiragi","｛主人公｝, I'll be a while so I'll lock the
-door.");
+MsgDisp("Hiiragi","｛主人公｝, I'll be a while so I'll lock
+the door.");
 MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 I've finished, so I'll help.");
 MsgClose();
@@ -21,8 +21,8 @@ MsgDisp("Hiiragi","Thank you very much.
 But, I'm almost done too. If you don't mind,
 why don't we go home together?");
 MsgDisp("主人公","Of course.
-Then, I'll do preparations for tomorrow
-while I wait for you.");
+Then, I'll do preparations for tomorrow while
+I wait for you.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500500_05_020");
 MsgDisp("Hiiragi","Yes.");
@@ -72,8 +72,8 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500500_05_070");
-MsgDisp("Hiiragi","Yes, it introduced me to a variety of stall
-foods.
+MsgDisp("Hiiragi","Yes, it introduced me to a variety of
+stall foods.
 And how Yakisoba differs in different places.");
 ChMouth(5,0);
 ChMotion(5,2);

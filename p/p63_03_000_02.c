@@ -14,8 +14,7 @@ Gardening Club...)");
     MsgClose();
     ChOpen(3,254,5,5,3,#1,#1,0,0);
     VoicePlay("P630300002_03_000");
-    MsgDisp("Honda","Eh!
-It's like a real cafe.");
+    MsgDisp("Honda","Eh! It's like a real cafe.");
     MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome.");
     ChEye(3,0);
@@ -50,8 +49,7 @@ Gardening Club...)");
     VoicePlay("P630300002_03_040");
     MsgDisp("Honda","I'm surprised.
 When was a shop this splendid built?");
-    MsgDisp("主人公","Hehe!
-It's a wonderful open air cafe, huh?");
+    MsgDisp("主人公","Hehe! It's a wonderful open air cafe, huh?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -64,8 +62,7 @@ I'm sorry.");
     ChMouth(3,0);
     ChMotion(3,5,1);
     VoicePlay("P630300002_03_060");
-    MsgDisp("Honda","I see～
-I'm disappointed.");
+    MsgDisp("Honda","I see～ I'm disappointed.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

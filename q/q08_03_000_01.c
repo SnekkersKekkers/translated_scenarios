@@ -61,8 +61,7 @@ Thanks!");
     MsgDisp("Honda","So, I'll start this time.
 The next free period, wanna walk around
 together again?");
-    MsgDisp("主人公","Yeah!
-Of course.");
+    MsgDisp("主人公","Yeah! Of course.");
     break ;
     default :
     DbgAssert(1);

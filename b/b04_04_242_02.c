@@ -7,8 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040424202_04_000");
-MsgDisp("Nanatsumori","Phew—.
-Shall we go for a walk after eating?");
+MsgDisp("Nanatsumori","Phew—. Shall we go for a walk after eating?");
 MsgSel("Sounds good, let's go!","I still don't want to move...","Walk...?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -52,8 +51,7 @@ I want to stay like this a little longer.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040424202_04_040");
-        MsgDisp("Nanatsumori","OK.
-Let's take it easy.");
+        MsgDisp("Nanatsumori","OK. Let's take it easy.");
         MsgClose();
         ChClose(4,0,30);
         MsgDisp("","　　　　　　　　　　 ・
@@ -62,20 +60,18 @@ Let's take it easy.");
         MsgDisp("主人公","......");
         VoicePlay("B040424202_04_050");
         MsgDisp("Nanatsumori","......");
-        MsgDisp("主人公","...Hmm.
-Oh no, looks like I fell asleep.");
+        MsgDisp("主人公","...Hmm. Oh no, looks like I fell asleep.");
         MsgDisp("主人公","｛Nanatsumori＊｝ is...
 Ah, he's asleep.");
         VoicePlay("B040424202_04_060");
         MsgDisp("Nanatsumori","...Mm.");
         VoicePlay("B040424202_04_070");
-        MsgDisp("Nanatsumori","...One more bite.
-Aahn....");
+        MsgDisp("Nanatsumori","...One more bite. Aahn....");
         MsgDisp("主人公","(Looks like he's dreaming.)");
         VoicePlay("B040424202_04_080");
-        MsgDisp("Nanatsumori","...Mmm.
-Tasty.
-Then... I'm up next. Alright, open up....");
+        MsgDisp("Nanatsumori","...Mmm. Tasty. Then...
+I'm up next.
+Alright, open up....");
         MsgDisp("主人公","(Hehe, he seems happy.)");
         VoicePlay("B040424202_04_090");
         MsgDisp("Nanatsumori","I'm happy...");
@@ -110,8 +106,7 @@ I couldn't really catch what you were saying?");
         ChMouth(4,0);
         ChMotion(4,2,1);
         VoicePlay("B040424202_04_150");
-        MsgDisp("Nanatsumori","I see.
-That's good...");
+        MsgDisp("Nanatsumori","I see. That's good...");
         MsgDisp("主人公","Was it a good dream?");
         ChEye(4,4);
         ChMouth(4,3);

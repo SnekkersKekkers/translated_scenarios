@@ -14,8 +14,8 @@ ChOpen(7,254,0,0,0,#1,#1,0,2);
 VoiceEVSPlay(5);
 VoicePlay("F100540000_05_010");
 MsgDisp("Hiiragi","｛主人公｝, good afternoon.
-I was asking Mikage-sensei about Hiyashi
-Chuuka.");
+I was asking Mikage-sensei about
+Hiyashi Chuuka.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -29,8 +29,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("F100540000_05_020");
-MsgDisp("Hiiragi","No.
-Actually, I've never tried it.");
+MsgDisp("Hiiragi","No. Actually, I've never tried it.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -39,8 +38,7 @@ MsgDisp("Mikage","How come?
 It's so good!");
 ChEye(5,0);
 ChMotion(5,4);
-MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝ loves it, right?");
+MsgDisp("主人公","Hehe. ｛Mikage＊＊｝ loves it, right?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -64,8 +62,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4,1);
 VoicePlay("F100540000_05_040");
-MsgDisp("Hiiragi","Yes.
-I eat it with vinegar soy sauce.");
+MsgDisp("Hiiragi","Yes. I eat it with vinegar soy sauce.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

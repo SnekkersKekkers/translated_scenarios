@@ -2,11 +2,9 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,4,4,0,#1,#1,0,0);
 VoicePlay("G020320101_03_000");
-MsgDisp("Honda","Hey.
-What do you think of me?
+MsgDisp("Honda","Hey. What do you think of me?
 Do you hate me?");
-MsgDisp("主人公","Ehhh∋
-What brought this on all of a sudden?");
+MsgDisp("主人公","Ehhh∋ What brought this on all of a sudden?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -24,8 +22,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320101_03_030");
-MsgDisp("Honda","Yeah.
-If you hated me, I could just give up.");
+MsgDisp("Honda","Yeah. If you hated me, I could just give up.");
 MsgDisp("主人公","Um, ｛Honda＊＊｝...?");
 ChEye(3,4);
 ChMouth(3,4);
@@ -50,8 +47,8 @@ MsgDisp("主人公","Exploration...?");
 ChMotion(3,1);
 VoicePlay("G020320101_03_070");
 MsgDisp("Honda","Yeah.
-The exploration of the changes of the human
-heart.");
+The exploration of the changes of the
+human heart.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);

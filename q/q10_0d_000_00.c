@@ -50,10 +50,9 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("Q100D00000_21_030");
 MsgDisp("Michiru","Not now, though.
-When my uncle showed me an old photo, he had
-them.");
-MsgDisp("主人公","Huh...
-How interesting.");
+When my uncle showed me an old photo, he
+had them.");
+MsgDisp("主人公","Huh... How interesting.");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

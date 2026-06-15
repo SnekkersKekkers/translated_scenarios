@@ -14,8 +14,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("F100640001_01_010");
-MsgDisp("Kazama","Ah.
-I'm waiting for you to finish work.");
+MsgDisp("Kazama","Ah. I'm waiting for you to finish work.");
 MsgDisp("主人公","I see, thank you.
 I've still got a little to go so...");
 ChEye(1,0);
@@ -37,8 +36,8 @@ SEPlay("EV_SE_544");
 ChOpen(6,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100640001_06_010");
 MsgDisp("Himuro","You're going to submit the log, right?
-I heard Kojiro-sensei is going home early
-today.");
+I heard Kojiro-sensei is going home
+early today.");
 MsgDisp("主人公","Eh∋");
 ChEye(6,0);
 ChMouth(6,0);

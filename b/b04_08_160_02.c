@@ -33,8 +33,8 @@ I feel kinda dejected...");
         ChMotion(8,0,1);
         VoicePlay("B040816002_08_020");
         MsgDisp("Shirahane","Huh?
-Do I really look like such a good-for-nothing
-guy?");
+Do I really look like such a
+good-for-nothing guy?");
         MsgDisp("主人公","It's not like that...");
         ChEye(8,1);
         ChMouth(8,3);
@@ -64,10 +64,8 @@ That was close, wasn't it?");
         ChMouth(8,2);
         ChEyeOpenLevel(8,0);
         VoicePlay("B040816002_08_050");
-        MsgDisp("Shirahane","Sigh..
-This is so uncool.");
-        MsgDisp("主人公","No.
-｛Daichi＊＊｝ was amazing!
+        MsgDisp("Shirahane","Sigh.. This is so uncool.");
+        MsgDisp("主人公","No. ｛Daichi＊＊｝ was amazing!
 Everyone watching was cheering him on!");
         ChEye(8,2);
         ChMouth(8,0);
@@ -76,8 +74,7 @@ Everyone watching was cheering him on!");
         ChEye(8,5);
         ChMouth(8,2);
         ChMotion(8,1,1);
-        MsgDisp("主人公","Hey.
-This is unlike you, ｛Daichi＊＊｝.
+        MsgDisp("主人公","Hey. This is unlike you, ｛Daichi＊＊｝.
 Let's cheer up!");
         ChEye(8,0);
         ChMouth(8,1);
@@ -88,8 +85,7 @@ Let's cheer up!");
         ChMouth(8,3);
         ChMotion(8,0,1);
         VoicePlay("B040816002_08_080");
-        MsgDisp("Shirahane","Ah...
-Hearin' your voice switched me on.
+        MsgDisp("Shirahane","Ah... Hearin' your voice switched me on.
 I'll try once again!");
         MsgClose();
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");

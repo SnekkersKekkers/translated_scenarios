@@ -26,8 +26,7 @@ Welcome!");
     VoicePlay("P030500000_05_010");
     MsgDisp("Hiiragi","It seems to be quite busy here.
 Shall I come back another time?");
-    MsgDisp("主人公","No.
-Please, would you like to come in?");
+    MsgDisp("主人公","No. Please, would you like to come in?");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -80,8 +79,7 @@ I'll have them ready a table for one.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("P030500000_05_070");
-    MsgDisp("Hiiragi","Hm?
-Will you not be serving me?");
+    MsgDisp("Hiiragi","Hm? Will you not be serving me?");
     MsgDisp("主人公","We're on rotation here, you know?");
     ChEye(5,4);
     ChMouth(5,4);

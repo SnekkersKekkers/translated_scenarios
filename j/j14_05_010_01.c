@@ -2,13 +2,12 @@ MsgSel("Yes, I would love to!" , "I'll be a bit busy that day...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J140501001_05_000");
-    MsgDisp("Hiiragi","Good.
-Now, let's all go out together as four.");
+    MsgDisp("Hiiragi","Good. Now, let's all go out together as four.");
     MsgDisp("主人公","Then, at the ｛待ち合わせ場所｝.
 Should we meet up there?");
     VoicePlay("J140501001_05_010");
-    MsgDisp("Hiiragi","Let's.
-I will let Inori and Mikage-sensei know.
+    MsgDisp("Hiiragi","Let's. I will let Inori and
+Mikage-sensei know.
 See you on Sunday.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

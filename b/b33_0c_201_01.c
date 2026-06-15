@@ -25,8 +25,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20101_05_000");
 MsgDisp("Hiiragi","I can see why it's of great interest.
-It truly does look as though it is clad in
-armour.");
+It truly does look as though it is clad
+in armour.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -78,8 +78,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B330C20101_05_020");
 MsgDisp("Hiiragi","Is that so...");
-MsgDisp("主人公","Hehe.
-Maybe you two aren't so normal?");
+MsgDisp("主人公","Hehe. Maybe you two aren't so normal?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -92,8 +91,7 @@ ChMouth(7,3);
 ChMotion(7,5);
 ChEyeOpenLevel(7,7);
 VoicePlay("B330C20101_07_040");
-MsgDisp("Mikage","Haha!
-Yeah, definitely.");
+MsgDisp("Mikage","Haha! Yeah, definitely.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -111,8 +109,8 @@ VoicePlay("B330C20101_07_050");
 MsgDisp("Mikage","Ohh, is that so?
 I'm happy, you know.
 The four of us are a creepy-cute group.");
-MsgDisp("主人公","(I'm not sure about that way of putting
-it...)");
+MsgDisp("主人公","(I'm not sure about that way of
+putting it...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -22,15 +22,14 @@ Are you going to the school now?");
     VoicePlay("S120700001_07_000");
     MsgDisp("Mikage","Yeah, to the plants in the Gardening Club,
 New Years doesn't matter.");
-    MsgDisp("主人公","I see.
-Sorry I can't help.");
+    MsgDisp("主人公","I see. Sorry I can't help.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,2);
     VoicePlay("S120700001_07_010");
-    MsgDisp("Mikage","What are you saying? No matter how much of a beauty you
-are, you can't do a shrine visit with
-vegetables and flowers, right?");
+    MsgDisp("Mikage","What are you saying? No matter how much of a
+beauty you are, you can't do a shrine visit
+with vegetables and flowers, right?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -58,8 +57,8 @@ It's going to be a great year!)");
     ChLayout(1);
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you so much for taking me.
-｛Mikage＊＊｝, do you have to go to school
-now?");
+｛Mikage＊＊｝, do you have to go to
+school now?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -87,8 +86,7 @@ I had a fun New Years thanks to you.");
     MsgDisp("Mikage","I actually wanted to give you a New Year's
 gift. But after thinking about it, it would
 be smarter not to.");
-    MsgDisp("主人公","Ehh?
-Really...");
+    MsgDisp("主人公","Ehh? Really...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);

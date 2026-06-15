@@ -39,14 +39,12 @@ I'll go straight home today...)");
     ChOpen(6,254,4,0,0,#1,#1,0,0);
     VoicePlay("F010600006_06_030");
     MsgDisp("Himuro","...right now?");
-    MsgDisp("主人公","Yes.
-Can you not?");
+    MsgDisp("主人公","Yes. Can you not?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("F010600006_06_040");
-    MsgDisp("Himuro","...I can't.
-But...");
+    MsgDisp("Himuro","...I can't. But...");
     MsgDisp("主人公","Can I ask you another time?");
     ChEye(6,2);
     ChMouth(6,2);

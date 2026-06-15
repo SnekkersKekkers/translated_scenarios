@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040415102_04_010");
     MsgDisp("Nanatsumori","Looks like that's how it is in other places.
-I wonder if they'll set up something fun here
-too—.");
+I wonder if they'll set up something fun
+here too—.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,9 +29,9 @@ too—.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040415102_04_020");
-    MsgDisp("Nanatsumori","Eh?
-This place does something that fun? Then,
-next time let's come here on an event day!");
+    MsgDisp("Nanatsumori","Eh? This place does something that fun?
+Then, next time let's come here on an
+event day!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -74,15 +74,13 @@ you're not good at it.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040415102_04_060");
-        MsgDisp("Nanatsumori","Oh...
-That's deep, what you just said.");
+        MsgDisp("Nanatsumori","Oh... That's deep, what you just said.");
         MsgDisp("主人公","Really?");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,3,1);
         VoicePlay("B040415102_04_070");
-        MsgDisp("Nanatsumori","Yeah.
-That's definitely true.");
+        MsgDisp("Nanatsumori","Yeah. That's definitely true.");
         VoicePlay("B040415102_04_080");
         MsgDisp("Nanatsumori","It feels nice to not only bowl together, but
 share the fun too.");
@@ -90,8 +88,8 @@ share the fun too.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040415102_04_090");
-        MsgDisp("Nanatsumori","It's super fun chatting to you like this even
-now.");
+        MsgDisp("Nanatsumori","It's super fun chatting to you like this
+even now.");
         MsgDisp("主人公","Hehe!");
         ChEye(4,4);
         ChMouth(4,3);

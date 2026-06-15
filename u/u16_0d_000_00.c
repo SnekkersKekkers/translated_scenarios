@@ -11,15 +11,13 @@ So satisfied▼");
 MsgDisp("主人公","It's a bit embarrassing...");
 StlEyeOpenLevel(21,5,1);
 VoicePlay("U160D00000_21_000");
-MsgDisp("Michiru","Hmm.
-Do you feel shy when you talk about it?
+MsgDisp("Michiru","Hmm. Do you feel shy when you talk about it?
 Mari, how cute.");
 MsgDisp("主人公","Ughh...");
 StlEye(22,0);
 StlMouth(22,0);
 VoicePlay("U160D00000_22_010");
-MsgDisp("Hikaru","Aha▼
-Heyhey, let's have another sleepover♪");
+MsgDisp("Hikaru","Aha▼ Heyhey, let's have another sleepover♪");
 StlEye(21,3);
 VoicePlay("U160D00000_21_010");
 MsgDisp("Michiru","Hehe, I agree.

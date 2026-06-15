@@ -3,8 +3,7 @@ ChMouth(1,2);
 ChMotion(1,3,1);
 VoicePlay("B020100011_01_000");
 MsgDisp("Kazama","Oh, that's...");
-MsgDisp("主人公","Yeah.
-What you gave me.
+MsgDisp("主人公","Yeah. What you gave me.
 What do you think?");
 ChEye(1,4);
 ChMouth(1,4);

@@ -7,8 +7,7 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406102_04_000");
-MsgDisp("Nanatsumori","So.
-What do you want to play first?");
+MsgDisp("Nanatsumori","So. What do you want to play first?");
 MsgSel("I want to swim.","I want to bury myself in the sand.","How about splashing around in the water?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -41,8 +40,7 @@ something else?");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040406102_04_040");
-        MsgDisp("Nanatsumori","...No.
-Let's swim. ＧＯ!");
+        MsgDisp("Nanatsumori","...No. Let's swim. ＧＯ!");
         MsgDisp("主人公","But...");
         ChEye(4,0);
         ChMouth(4,0);
@@ -51,8 +49,8 @@ Let's swim. ＧＯ!");
         MsgDisp("Nanatsumori","Actually, if I get injured or get a bad tan,
 it affects my modelling work, so I've been
 told to avoid this sort of thing.");
-        MsgDisp("主人公","Ah...
-I see. I'm sorry for not taking that into
+        MsgDisp("主人公","Ah... I see.
+I'm sorry for not taking that into
 consideration.");
         ChEye(4,4);
         ChMouth(4,4);
@@ -93,8 +91,8 @@ It's a date after all, right?");
     ChMotion(4,0,1);
     VoicePlay("B040406102_04_100");
     MsgDisp("Nanatsumori","That's a weird way to put it, but I agree.
-Let's bury ourselves in the sand and take a
-nap.");
+Let's bury ourselves in the sand and take
+a nap.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

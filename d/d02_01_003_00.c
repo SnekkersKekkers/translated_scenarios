@@ -2,8 +2,7 @@ BGOpen("sc300",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(It's getting late...
 I should go home.)");
-MsgDisp("主人公","(Huh?
-｛Kazama＊＊｝'s bag is still here...
+MsgDisp("主人公","(Huh? ｛Kazama＊＊｝'s bag is still here...
 I wonder where he is?)");
 MsgClose();
 ScrFadeOut(0,0);
@@ -45,11 +44,10 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100300_01_030");
-MsgDisp("Kazama","I feel like something like this happened
-before.");
+MsgDisp("Kazama","I feel like something like this
+happened before.");
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","Ah...
-Yeah.");
+MsgDisp("主人公","Ah... Yeah.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -78,8 +76,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D020100300_01_070");
 MsgDisp("Kazama","So before that could happen, I asked for a
-favour and was allowed to spend three years
-here.");
+favour and was allowed to spend three
+years here.");
 MsgDisp("主人公","So that's how it is...");
 ChMotion(1,0);
 Wait(12,0);
@@ -135,8 +133,8 @@ MsgDisp("Kazama","That's why I have to go...");
 MsgDisp("主人公","...You'll come back, right?");
 VoicePlay("D020100300_01_140");
 MsgDisp("Kazama","I promise.
-I'll be waiting for you at the usual spot
-again.");
+I'll be waiting for you at the usual
+spot again.");
 ChLayout(0);
 SEPlay("EV_SE_677",0.4,0.2);
 Wait(10,0);

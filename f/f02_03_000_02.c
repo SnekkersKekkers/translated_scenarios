@@ -14,8 +14,7 @@ VoicePlay("F020300002_03_000");
 MsgDisp("Honda","Perhaps you've heard of Vice Principal
 Himuro's black magic∋
 Or maybe... Kojiro-sensei's Molly∋");
-MsgDisp("主人公","Huh∋
-What's that?");
+MsgDisp("主人公","Huh∋ What's that?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -43,8 +42,8 @@ VoicePlay("F020300002_03_040");
 MsgDisp("Honda","Yeah yeah!
 So I'm really excited about the legend you've
 got! What's it about?");
-MsgDisp("主人公","Um, so you know the stained glass in the
-church?
+MsgDisp("主人公","Um, so you know the stained glass in
+the church?
 I want to know—");
 ChEye(3,1);
 ChMouth(3,3);

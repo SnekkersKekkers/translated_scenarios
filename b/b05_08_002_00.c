@@ -12,9 +12,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B050800200_08_010");
-MsgDisp("Shirahane","Eh...
-Ah, no.
-It's nothing?");
+MsgDisp("Shirahane","Eh... Ah, no. It's nothing?");
 MsgDisp("主人公","It doesn't look like it's nothing though.");
 ChEye(8,3);
 ChMouth(8,4);
@@ -72,8 +70,7 @@ VoicePlay("B050800200_08_090");
 MsgDisp("Shirahane","These are autumn fireflies.
 They hang on strongly until the last minute
 and survive. With all they've got.");
-MsgDisp("主人公","Hehe.
-Like ｛Daichi＊＊｝?");
+MsgDisp("主人公","Hehe. Like ｛Daichi＊＊｝?");
 StlEye(8,3);
 StlMouth(8,0);
 VoicePlay("B050800200_08_100");
@@ -88,8 +85,7 @@ MsgDisp("Shirahane","I'm...giving it everything I've got?");
 StlEye(8,1);
 StlMouth(8,1);
 VoicePlay("B050800200_08_120");
-MsgDisp("Shirahane","I see.
-Maybe I am.");
+MsgDisp("Shirahane","I see. Maybe I am.");
 StlEye(8,1);
 StlMouth(8,1);
 StlEyeOpenLevel(8,5);
@@ -131,8 +127,7 @@ ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("B050800200_08_180");
 VoiceEVSPlay(8);
-MsgDisp("Shirahane","Hehe!
-Thanks a lot, ｛主人公｝.");
+MsgDisp("Shirahane","Hehe! Thanks a lot, ｛主人公｝.");
 MsgDisp("主人公","I didn't do anything...");
 ChEye(8,4);
 ChMouth(8,0);

@@ -15,8 +15,7 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_010");
-    MsgDisp("Kazama","Yeah.
-A childhood friend as a rival...
+    MsgDisp("Kazama","Yeah. A childhood friend as a rival...
 What a cliche setup, huh?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -37,8 +36,8 @@ I'm not gonna lose next time either!)");
     ChMotion(1,0);
     VoicePlay("N020100000_01_030");
     MsgDisp("Kazama","Congratulations.
-However, I'm not feeling so good about
-myself.");
+However, I'm not feeling so good
+about myself.");
     MsgDisp("主人公","Umm, was it just a lucky streak?");
     ChEye(1,0);
     ChMouth(1,2);
@@ -56,8 +55,8 @@ I really gave it my all.");
     ChMotion(1,0);
     VoicePlay("N020100000_01_050");
     MsgDisp("Kazama","Then allow me to compliment you.
-Just know, I'll be working really hard next
-time.");
+Just know, I'll be working really hard
+next time.");
     MsgDisp("主人公","(Hehe, I did it!
 ｛Kazama＊＊｝ praised me!)");
     break ;
@@ -94,8 +93,7 @@ Thank you.");
     ChEyeOpenLevel(1,8);
     VoicePlay("N020100000_01_090");
     MsgDisp("Kazama","Well, now that I've lulled you into a\nfalse sense of security, next time I'm\ntaking first place.");
-    MsgDisp("主人公","Huh?
-I'm not gonna lose!");
+    MsgDisp("主人公","Huh? I'm not gonna lose!");
     ChEyeOpenLevel(1,0);
     Wait(8,0);
     ChEye(1,0);

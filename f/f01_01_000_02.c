@@ -21,8 +21,7 @@ together?");
         ChOpen(1,254,0,0,3,#1,#1,0,0);
         VoicePlay("F010100002_01_010");
         MsgDisp("Kazama","Oh, are you going now?");
-        MsgDisp("主人公","Yeah.
-If it's alright, let's go together.");
+        MsgDisp("主人公","Yeah. If it's alright, let's go together.");
         break ;
         case 4:
         case 5:

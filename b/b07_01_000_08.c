@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Kazama＊＊｝, do you have a type of girl you
-like?");
+MsgDisp("主人公","｛Kazama＊＊｝, do you have a type of girl
+you like?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -40,8 +40,7 @@ ChCheek(1,0);
 VoicePlay("B070100000_01_480");
 MsgDisp("Kazama","Hey, don't give up!
 Do your best!");
-MsgDisp("主人公","(Umm...
-Why am I being cheered on?)");
+MsgDisp("主人公","(Umm... Why am I being cheered on?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

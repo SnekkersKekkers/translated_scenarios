@@ -28,8 +28,7 @@ watching it calmly.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040523502_05_020");
-    MsgDisp("Hiiragi","Haha.
-Yes, that's what it looked like.");
+    MsgDisp("Hiiragi","Haha. Yes, that's what it looked like.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

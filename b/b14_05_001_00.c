@@ -32,8 +32,7 @@ VoicePlay("B140500100_05_020");
 MsgDisp("Hiiragi","Yes, I'm happy but, there's also a slight
 fear too.
 I have to ensure you do not get bored of me.");
-MsgDisp("主人公","Eh?
-I wouldn't get bored of you.");
+MsgDisp("主人公","Eh? I wouldn't get bored of you.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);

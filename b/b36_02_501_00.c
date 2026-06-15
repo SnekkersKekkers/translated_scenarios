@@ -13,8 +13,8 @@ ScrFadeIn(0);
 VoicePlay("B360250100_02_000");
 MsgDisp("Sassa","Right, we're here.");
 MsgDisp("主人公","Eh?
-｛Sassa＊＊｝, did you want to come to this
-park?");
+｛Sassa＊＊｝, did you want to come to
+this park?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -23,8 +23,7 @@ VoicePlay("B360250100_02_010");
 MsgDisp("Sassa","Right.
 This park has been here for a while.
 We probably played here together.");
-MsgDisp("主人公","Eh!
-You remember?");
+MsgDisp("主人公","Eh! You remember?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

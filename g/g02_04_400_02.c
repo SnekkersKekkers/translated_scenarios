@@ -10,8 +10,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020440002_04_010");
 MsgDisp("Nanatsumori","As expected, there are too many to count.");
-MsgDisp("主人公","Hehe.
-Were you planning to count them all?");
+MsgDisp("主人公","Hehe. Were you planning to count them all?");
 ChMotion(4,0,1);
 VoicePlay("G020440002_04_020");
 MsgDisp("Nanatsumori","Yeah.");
@@ -39,8 +38,7 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020440002_04_060");
-MsgDisp("Nanatsumori","Crap...
-Whats with this atmosphere...
+MsgDisp("Nanatsumori","Crap... Whats with this atmosphere...
 My mouth is running off on its own.");
 VoicePlay("G020440002_04_070");
 MsgDisp("Nanatsumori","Together until morning?

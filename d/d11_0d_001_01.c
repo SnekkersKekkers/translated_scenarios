@@ -12,8 +12,7 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("D110D00100_22_000");
 MsgDisp("Hikaru","Mari～!");
-MsgDisp("主人公","Ah.
-｛みちる＊｝, ｛ひかる＊｝.");
+MsgDisp("主人公","Ah. ｛みちる＊｝, ｛ひかる＊｝.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
@@ -26,8 +25,7 @@ ChMouth(22,5);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("D110D00100_22_010");
-MsgDisp("Hikaru","Eh∋
-You didn't notice?");
+MsgDisp("Hikaru","Eh∋ You didn't notice?");
 MsgClose();
 ScrFadeOut(0);
 MsgClose();
@@ -53,14 +51,14 @@ ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("D110D00100_22_030");
 MsgDisp("Hikaru","Aha▼
-Hikaru hopes \"Mari's Garden\" is a lot of
-fun～♪");
+Hikaru hopes \"Mari's Garden\" is a lot
+of fun～♪");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("D110D00100_21_020");
-MsgDisp("Michiru","Please pour your love into all kinds of
-roses.
+MsgDisp("Michiru","Please pour your love into all kinds
+of roses.
 They are all worth raising.");
 MsgDisp("主人公","(A change in the flowerbed of my heart...?
 I guess I should ask ｛ひかる＊｝ later.)");

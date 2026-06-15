@@ -41,8 +41,7 @@ Let's take one with the elephants∈");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040221100_02_030");
-    MsgDisp("Sassa","Ehh?
-You don't?");
+    MsgDisp("Sassa","Ehh? You don't?");
     MsgDateResultDisp();
     break ;
     default :

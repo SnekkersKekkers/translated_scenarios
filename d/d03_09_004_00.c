@@ -11,8 +11,7 @@ every time.
 MsgDisp("主人公","(Maybe it doesn't work if I don't have any
 problems for him to solve∋)");
 MsgDisp("主人公","......");
-MsgDisp("主人公","Ahh...
-Whatever should I do!
+MsgDisp("主人公","Ahh... Whatever should I do!
 I'm so screwed.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -22,8 +21,7 @@ ChOpen(9,35,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 ChMotion(9,4,1);
 VoicePlay("D030900400_09_000");
-MsgDisp("Kuya","Huh?
-So we meet again.");
+MsgDisp("Kuya","Huh? So we meet again.");
 MsgDisp("主人公","I really ran into you...");
 ChEye(9,3);
 ChMouth(9,2);
@@ -94,8 +92,7 @@ VoicePlay("D030900400_09_090");
 MsgDisp("Kuya","...I never thought about it like that.
 Does there have to be something rewarding
 about it? What do you think?");
-MsgDisp("主人公","(Umm...
-I'm being asked questions instead...)");
+MsgDisp("主人公","(Umm... I'm being asked questions instead...)");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -149,9 +146,9 @@ Kuya-san...)");
 Is something troubling you?");
     MsgDisp("主人公","No, it's nothing.
 Thanks for your time today.");
-    MsgDisp("主人公","(Yeah. I don't think I'll be able to write an
-article on Kuya-san, maybe it's best to give
-up...)");
+    MsgDisp("主人公","(Yeah. I don't think I'll be able to write
+an article on Kuya-san, maybe it's best to
+give up...)");
     break ;
     default :
     DbgAssert(0);

@@ -54,8 +54,7 @@ MsgDisp("Himuro","Yeah, it was such a brainlessly cheerful
 movie that it stressed me out.");
 ChEye(5,4);
 ChMouth(5,4);
-MsgDisp("主人公","Ehh?
-I really enjoyed it.");
+MsgDisp("主人公","Ehh? I really enjoyed it.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

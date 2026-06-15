@@ -28,8 +28,8 @@ and soon they'll turn into pupae.");
     ChMotion(3,1);
     VoicePlay("B040308200_03_020");
     MsgDisp("Honda","There is.
-There's approximately 2000 kinds in the
-world.");
+There's approximately 2000 kinds in
+the world.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

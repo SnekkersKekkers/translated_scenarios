@@ -32,8 +32,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B030124000_01_020");
-    MsgDisp("Kazama","Yep.
-That's the correct choice.");
+    MsgDisp("Kazama","Yep. That's the correct choice.");
     MsgDispSksp(0);
     break ;
     default :

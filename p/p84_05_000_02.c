@@ -7,8 +7,7 @@ your year, class, and number of items
 taken. Then press this counter machine for
 the number of items.");
 VoicePlay("P840500002_39_010");
-MsgDisp("School Boy","OK!
-I'll press three times.");
+MsgDisp("School Boy","OK! I'll press three times.");
 SEPlay("EV_SE_757");
 SEWait();
 SEPlay("EV_SE_757");
@@ -33,10 +32,9 @@ the materials manager next year and beyond.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P840500002_05_020");
-MsgDisp("Hiiragi","I wish I could organise things as well as you
-do.");
-MsgDisp("主人公","(Yay!
-I was praised by ｛Hiiragi＊＊＊｝!)");
+MsgDisp("Hiiragi","I wish I could organise things as well as
+you do.");
+MsgDisp("主人公","(Yay! I was praised by ｛Hiiragi＊＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

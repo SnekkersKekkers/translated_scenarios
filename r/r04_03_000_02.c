@@ -42,8 +42,7 @@ That smell is ramen, isn't it∋");
     MsgDisp("Honda","Sorry!
 I'm interested in this castle ramen right
 now. I'm gonna go!");
-    MsgDisp("主人公","Sure.
-Okay then, see you later.");
+    MsgDisp("主人公","Sure. Okay then, see you later.");
     break ;
     case 4:
     case 5:
@@ -56,8 +55,7 @@ Okay then, see you later.");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("R040300002_03_030");
-    MsgDisp("Honda","Hey!
-Don't make noise in a place like this!
+    MsgDisp("Honda","Hey! Don't make noise in a place like this!
 Bad belly!");
     ChEye(3,4);
     ChMouth(3,3);
@@ -65,8 +63,7 @@ Bad belly!");
     VoicePlay("R040300002_03_040");
     MsgDisp("Honda","Whew, even princes get hungry, so I'm gonna
 eat a feast!");
-    MsgDisp("主人公","Hehe!
-See you later then.");
+    MsgDisp("主人公","Hehe! See you later then.");
     break ;
     default :
     DbgAssert(1);

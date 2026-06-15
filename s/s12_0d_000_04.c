@@ -36,9 +36,8 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("S120D00004_21_020");
-MsgDisp("Michiru","...I can't.
-It's been a sad feeling since the New Year
-started.");
+MsgDisp("Michiru","...I can't. It's been a sad feeling since the
+New Year started.");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -55,16 +54,14 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("S120D00004_22_020");
-MsgDisp("Hikaru","Yayy!
-As usual, Hikaru loves you, Mari▼");
+MsgDisp("Hikaru","Yayy! As usual, Hikaru loves you, Mari▼");
 ChEyeOpenLevel(22,#1);
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("S120D00004_21_030");
 MsgDisp("Michiru","I also love Mari.");
-MsgDisp("主人公","Hehe.
-This is a little embarrassing.");
+MsgDisp("主人公","Hehe. This is a little embarrassing.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

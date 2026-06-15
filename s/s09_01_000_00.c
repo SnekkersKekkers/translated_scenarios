@@ -19,8 +19,7 @@ switch (ChPrmGet(1,6)){
         VoicePlay("S090100001_01_000");
         MsgDisp("Kazama","You've still got the spirit to make the best
 out of everything.");
-        MsgDisp("主人公","Yep!
-Let's have fun!");
+        MsgDisp("主人公","Yep! Let's have fun!");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,0);

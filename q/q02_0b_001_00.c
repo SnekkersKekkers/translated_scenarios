@@ -11,8 +11,7 @@ ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","Ah.
-Good morning, everyone!");
+MsgDisp("主人公","Ah. Good morning, everyone!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -44,8 +43,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("Q020B00100_03_010");
-    MsgDisp("Honda","Yay!
-This will be fun.");
+    MsgDisp("Honda","Yay! This will be fun.");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -69,8 +67,7 @@ plan ahead.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("Q020B00100_01_040");
-    MsgDisp("Kazama","I see...
-You can't.");
+    MsgDisp("Kazama","I see... You can't.");
     ChEye(4,2);
     ChMouth(4,0);
     ChMotion(4,1,1);

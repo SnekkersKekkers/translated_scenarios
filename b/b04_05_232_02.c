@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     ChMouth(5,4);
     VoicePlay("B040523202_05_010");
-    MsgDisp("Hiiragi","Um, the gondola we just rode was yellow,
-so...
+    MsgDisp("Hiiragi","Um, the gondola we just rode was
+yellow, so...
 Does that mean good luck with money today?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -31,8 +31,8 @@ Does that mean good luck with money today?");
         ChMotion(5,4);
         VoicePlay("B040523202_05_020");
         MsgDisp("Hiiragi","Hmm...
-It's not a lottery, since there's no hit or
-miss?");
+It's not a lottery, since there's no hit
+or miss?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -72,8 +72,8 @@ indicates a fortune of love...");
         MsgDisp("主人公","Hehe, it was yellow huh?");
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040523202_05_060");
-        MsgDisp("Hiiragi","It's not a lottery, since there's no hit or
-miss?");
+        MsgDisp("Hiiragi","It's not a lottery, since there's no hit
+or miss?");
         MsgDisp("主人公","Yellow looks like economic fortune.
 It seems like Habataki Theatre Company's
 performance will go well?");
@@ -86,8 +86,7 @@ Thank you.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523202_05_080");
-        MsgDisp("Hiiragi","Yes.
-But...do you want to try again?");
+        MsgDisp("Hiiragi","Yes. But...do you want to try again?");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you like fortune telling this
 much...)");
         break ;

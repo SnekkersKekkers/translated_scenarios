@@ -34,8 +34,7 @@ You're the one that bought this present,
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("R060400003_04_030");
-    MsgDisp("Nanatsumori","Yeah.
-Do you like it?");
+    MsgDisp("Nanatsumori","Yeah. Do you like it?");
     MsgDisp("主人公","Yeah!
 Hey, ｛Nanatsumori＊｝, you know you got the
 present I brought, right?");
@@ -63,16 +62,14 @@ I'm guessing this is your gift then,
     VoicePlay("R060400003_04_060");
     MsgDisp("Nanatsumori","Yeah.
 I'm glad that you are the one that got it.");
-    MsgDisp("主人公","Hehe.
-I'm glad too!");
+    MsgDisp("主人公","Hehe. I'm glad too!");
     MsgDisp("主人公","Hey, ｛Nanatsumori＊｝, you also got the
 present that I brought in.");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("R060400003_04_070");
-    MsgDisp("Nanatsumori","Oh...
-What a nice Christmas miracle.
+    MsgDisp("Nanatsumori","Oh... What a nice Christmas miracle.
 Is it okay if I open it?");
     MsgDisp("主人公","Yeah!");
     break ;

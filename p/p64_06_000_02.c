@@ -31,8 +31,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P640600002_06_040");
 MsgDisp("Himuro","I seriously don't believe it...");
-MsgDisp("主人公","(Yay!
-It was a huge success.)");
+MsgDisp("主人公","(Yay! It was a huge success.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

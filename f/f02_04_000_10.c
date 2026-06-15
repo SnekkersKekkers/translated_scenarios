@@ -33,8 +33,8 @@ ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("F020400010_04_031");
 MsgDisp("Nanatsumori","Don't act so surprised.
-Look, it's our last culture festival of high
-school.");
+Look, it's our last culture festival of
+high school.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0);

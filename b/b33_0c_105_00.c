@@ -23,8 +23,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C10500_07_000");
 MsgDisp("Mikage","Speaking of, we need a theme...");
-MsgDisp("主人公","How about buying things the theatre troupe
-needs?");
+MsgDisp("主人公","How about buying things the theatre
+troupe needs?");
 ChEye(5,0);
 ChMouth(5,2);
 ChEye(7,0);
@@ -80,8 +80,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10500_05_030");
-MsgDisp("Hiiragi","Yes.
-But is it really okay...?");
+MsgDisp("Hiiragi","Yes. But is it really okay...?");
 MsgDisp("主人公","Yeah, let's go.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -135,8 +134,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10500_05_060");
-MsgDisp("Hiiragi","No, not even the theatre company can eat this
-much.");
+MsgDisp("Hiiragi","No, not even the theatre company can eat
+this much.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

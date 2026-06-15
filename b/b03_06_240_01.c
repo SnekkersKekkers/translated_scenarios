@@ -26,8 +26,7 @@ There's a ranch here.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B030624001_06_020");
-    MsgDisp("Himuro","Sounds good.
-I'm in.");
+    MsgDisp("Himuro","Sounds good. I'm in.");
     MsgDispSksp(0);
     break ;
     default :

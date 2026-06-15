@@ -8,8 +8,8 @@ switch (ChPrmGet(8,6)){
     case 3:
     MsgDisp("主人公","Would you like your windows to be wiped down?
 Then, please allow me.");
-    MsgDisp("主人公","Ah...is there anything you don't need in your
-car?
+    MsgDisp("主人公","Ah...is there anything you don't need in
+your car?
 If you'd like, I can throw it away for you.");
     VoicePlay("I660800001_39_000");
     MsgDisp("Customer","Then, could you throw this away?
@@ -36,8 +36,8 @@ I'm gettin' fired up!");
     case 5:
     MsgDisp("主人公","Would you like your windows to be wiped down?
 Then, please allow me.");
-    MsgDisp("主人公","Ah...is there anything you don't need in your
-car?
+    MsgDisp("主人公","Ah...is there anything you don't need in
+your car?
 If you'd like, I can throw it away for you.");
     VoicePlay("I660800001_39_010");
     MsgDisp("Customer","Nothing today.
@@ -64,18 +64,16 @@ Thanks to you.");
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("I660800001_08_040");
-    MsgDisp("Shirahane","Well...
-I won't deny it.");
+    MsgDisp("Shirahane","Well... I won't deny it.");
     MsgDisp("主人公","Hehe!");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800001_08_050");
-    MsgDisp("Shirahane","But your service skills ain't bad to see,
-either.
+    MsgDisp("Shirahane","But your service skills ain't bad to
+see, either.
 It feels good just watchin' it.");
-    MsgDisp("主人公","(Yay!
-｛Daichi＊＊｝ praised me!)");
+    MsgDisp("主人公","(Yay! ｛Daichi＊＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

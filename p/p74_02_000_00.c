@@ -23,8 +23,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P740200000_02_020");
-MsgDisp("Sassa","No, it wasn't.
-I was quiet.");
+MsgDisp("Sassa","No, it wasn't. I was quiet.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

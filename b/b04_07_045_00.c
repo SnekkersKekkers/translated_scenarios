@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,2);
     VoicePlay("B040704500_07_010");
     MsgDisp("Mikage","Me too.
-If I suddenly break into song, please stop
-me!");
+If I suddenly break into song, please
+stop me!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

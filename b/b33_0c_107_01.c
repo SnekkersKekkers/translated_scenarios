@@ -65,8 +65,8 @@ ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("B330C10701_06_010");
 MsgDisp("Himuro","Yes.
-The problem was the one steering, not the
-size.");
+The problem was the one steering, not
+the size.");
 MsgDisp("主人公","Umm...are you two okay?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -110,8 +110,7 @@ VoicePlay("B330C10701_05_050");
 MsgDisp("Hiiragi","Just now, those two were there, so I held
 back. But if I'm with you, I can really go
 for it, right?");
-MsgDisp("主人公","Hehe!
-Bring it on!");
+MsgDisp("主人公","Hehe! Bring it on!");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);

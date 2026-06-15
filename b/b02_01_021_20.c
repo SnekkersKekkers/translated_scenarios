@@ -5,8 +5,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B020102120_01_000");
 MsgDisp("Kazama","Just what are you up to?
 Wearing that kind of fashion.");
-MsgDisp("主人公","Eh?
-I'm not up to anything at all.");
+MsgDisp("主人公","Eh? I'm not up to anything at all.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);

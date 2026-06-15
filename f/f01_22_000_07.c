@@ -58,8 +58,7 @@ switch (MsgSelRsltGet()){
         ChMouth(22,3);
         ChMotion(22,3,1);
         VoicePlay("F012200007_22_040");
-        MsgDisp("Hikaru","Aha▼
-Then, let's go.");
+        MsgDisp("Hikaru","Aha▼ Then, let's go.");
         break ;
         case 4:
         case 5:
@@ -69,8 +68,7 @@ Then, let's go.");
         ChEyeOpenLevel(22,0);
         ChCheek(22,5);
         VoicePlay("F012200007_22_050");
-        MsgDisp("Hikaru","Yay!
-Going home with Mari▼");
+        MsgDisp("Hikaru","Yay! Going home with Mari▼");
         break ;
         default :
         DbgAssert(1);
@@ -99,8 +97,8 @@ Then let's take a detour▼");
         ChCheek(22,5);
         VoicePlay("F012200007_22_070");
         MsgDisp("Hikaru","Let's go!
-Hikaru wants to talk with Mari the whole
-time▼");
+Hikaru wants to talk with Mari the
+whole time▼");
         break ;
         default :
         DbgAssert(1);
@@ -138,8 +136,7 @@ Goodbye.");
         ChMouth(22,2);
         ChMotion(22,0,1);
         VoicePlay("F012200007_22_100");
-        MsgDisp("Hikaru","Hm...
-Bye-bye, Mari.");
+        MsgDisp("Hikaru","Hm... Bye-bye, Mari.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

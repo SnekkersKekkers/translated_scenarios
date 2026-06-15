@@ -10,8 +10,8 @@ VoicePlay("I640000000_08_010");
 MsgDisp("Shirahane","Oh, it's you!
 What're you doin' callin' here?");
 MsgDisp("主人公","Um...
-I was thinking of quitting my part-time
-job...");
+I was thinking of quitting my
+part-time job...");
 VoicePlay("I640000000_08_020");
 MsgDisp("Shirahane","∋");
 MsgDisp("主人公","｛Daichi＊＊｝?");
@@ -20,8 +20,7 @@ MsgDisp("Shirahane","Are ya really quittin'...?");
 MsgSel("Actually, I'll continue","Quit.");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","Ah...
-Actually, forget it!");
+    MsgDisp("主人公","Ah... Actually, forget it!");
     VoicePlay("I640000000_08_040");
     MsgDisp("Shirahane","Huh?");
     MsgDisp("主人公","I won't quit.

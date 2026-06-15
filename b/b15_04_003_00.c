@@ -37,8 +37,8 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B150400300_04_060");
-MsgDisp("Nanatsumori","Why do you only change so completely on our
-date?
+MsgDisp("Nanatsumori","Why do you only change so completely on
+our date?
 Should I also respond by doing the same?");
 MsgDisp("主人公","That...");
 ChMouthOpenLevel(4,#1);

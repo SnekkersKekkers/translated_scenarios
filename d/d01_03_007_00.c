@@ -47,8 +47,8 @@ My mom and my sister too.");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300700_43_040");
-MsgDisp("Moderator","Honda-kun, you and your family seem very
-close!");
+MsgDisp("Moderator","Honda-kun, you and your family seem
+very close!");
 VoicePlay("D010300700_43_050");
 MsgDisp("Moderator","The live broadcast of this year's \"Quiz Brain
 Interhigh\" will end here.
@@ -87,13 +87,13 @@ SEPlay("EV_SE_544");
 ChOpen(3,255,1,0,3,#1,#1,0,0);
 VoicePlay("D010300700_03_040");
 MsgDisp("Honda","Sorry for bothering you!");
-MsgDisp("主人公","Ehh∋
-｛Honda＊＊｝, what are you doing here?");
+MsgDisp("主人公","Ehh∋ ｛Honda＊＊｝, what are you doing here?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D010300700_03_050");
-MsgDisp("Honda","Rightright, I actually got crowned the Quiz King today.");
+MsgDisp("Honda","Rightright, I actually got crowned the Quiz
+King today.");
 MsgDisp("主人公","I saw it on TV!
 Congratulations, you were amazing.");
 ChEye(3,0);
@@ -103,8 +103,7 @@ VoicePlay("D010300700_03_060");
 MsgDisp("Honda","Ah, really?
 You were watching on TV, huh～
 That makes it even more frustrating.");
-MsgDisp("主人公","Frustrating?
-Why?
+MsgDisp("主人公","Frustrating? Why?
 You won, didn't you?");
 ChEye(3,0);
 ChMouth(3,4);

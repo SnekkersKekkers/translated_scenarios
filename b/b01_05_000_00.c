@@ -26,8 +26,7 @@ Communication is important.");
     ChMotion(5,4);
     VoicePlay("B010500000_05_010");
     MsgDisp("Hiiragi","That's quite the panicked rush you're in.");
-    MsgDisp("主人公","Urgh...
-I'm sorry.");
+    MsgDisp("主人公","Urgh... I'm sorry.");
     MsgDispSksp(1,0);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -43,8 +42,8 @@ Well, let's be off.");
     ChEyeOpenLevel(5,0);
     VoicePlay("B010500000_05_030");
     MsgDisp("Hiiragi","...Thank goodness.
-It doesn't seem like anything happened to
-you.");
+It doesn't seem like anything happened
+to you.");
     MsgDisp("主人公","Urgh, I'm sorry...");
     ChMouth(5,3);
     ChEyeOpenLevel(5,#1);

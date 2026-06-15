@@ -27,8 +27,7 @@ MsgDisp("主人公","Yes, game clear!");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("P553200004_32_030");
-MsgDisp("VP Himuro","Hmm...
-Your mood is infectious.
+MsgDisp("VP Himuro","Hmm... Your mood is infectious.
 I look forward to your continued success!");
 MsgDisp("主人公","Yes, thank you very much!");
 MsgClose();

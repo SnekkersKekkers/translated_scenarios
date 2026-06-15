@@ -21,8 +21,7 @@ switch (MsgSelRsltGet()){
         ChMouth(3,0);
         ChMotion(3,0,1);
         VoicePlay("B040302102_03_010");
-        MsgDisp("Honda","No.
-I don't have that many friends.");
+        MsgDisp("Honda","No. I don't have that many friends.");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -6,8 +6,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("ne000",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Uhmm...
-There!)");
+MsgDisp("主人公","(Uhmm... There!)");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ev008",0);

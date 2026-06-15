@@ -12,8 +12,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("K020D00100_22_000");
-MsgDisp("Hikaru","Aha▼
-Happy birthday♪");
+MsgDisp("Hikaru","Aha▼ Happy birthday♪");
 MsgDisp("主人公","You remembered?
 Thank you!");
 ChEye(21,0);

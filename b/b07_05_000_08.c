@@ -32,8 +32,7 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B070500000_05_400");
-MsgDisp("Hiiragi","Yes.
-So, that includes you too.");
+MsgDisp("Hiiragi","Yes. So, that includes you too.");
 MsgDisp("主人公","(Is it okay to be happy about that...)");
 BGMStop();
 MsgClose();

@@ -29,8 +29,7 @@ See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Yeah!
-I did my best!)");
+    MsgDisp("主人公","(Yeah! I did my best!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -79,8 +78,8 @@ Thank you!");
     VoicePlay("N020500000_05_090");
     MsgDisp("Hiiragi","I will start paying more attention again.
 I might be taking advantage of my position.");
-    MsgDisp("主人公","｛Hiiragi＊＊＊｝, you might be just trying too
-hard.");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, you might be just trying
+too hard.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

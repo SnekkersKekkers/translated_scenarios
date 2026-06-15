@@ -18,8 +18,7 @@ ChMotion(2,1);
 VoicePlay("D010200500_02_010");
 MsgDisp("Sassa","I'm going to give it my all and win the last
 four events.");
-MsgDisp("主人公","Yup.
-I believe in ｛Sassa＊＊｝!");
+MsgDisp("主人公","Yup. I believe in ｛Sassa＊＊｝!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(2);
@@ -45,8 +44,8 @@ MsgDisp("Manager","It doesn't matter anymore, he's out of
 stamina.");
 MsgDisp("主人公","Eh...?");
 VoicePlay("D010200500_40_010");
-MsgDisp("Manager","Didn't he set a record in the previous high
-jump?
+MsgDisp("Manager","Didn't he set a record in the previous
+high jump?
 That's why he doesn't have any energy left.");
 VoicePlay("D010200500_40_020");
 MsgDisp("Manager","Well, the overall win is already locked in,
@@ -157,6 +156,5 @@ StlClose();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(Yay...
-｛Sassa＊＊｝!)");
+MsgDisp("主人公","(Yay... ｛Sassa＊＊｝!)");
 ChPrmTblAdd(2,0);

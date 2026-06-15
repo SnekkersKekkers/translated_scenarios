@@ -12,8 +12,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you so much!");
-MsgDisp("主人公","Uhm...
-Manager.
+MsgDisp("主人公","Uhm... Manager.
 Did Shirahane-kun take the day off?");
 VoicePlay("D020800900_40_000");
 MsgDisp("Manager","Ahh, Daichi-kun called me suddenly yesterday.
@@ -29,15 +28,13 @@ BGOpen("ex000",1);
 MsgClose();
 ScrFadeIn(0);
 SEPlay("EV_SE_579");
-MsgDisp("主人公","Ah!
-｛Daichi＊＊｝ is calling!");
+MsgDisp("主人公","Ah! ｛Daichi＊＊｝ is calling!");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();
 MsgDisp("主人公","Hello, ｛Daichi＊＊｝∋");
 VoicePlay("D020800900_08_000");
-MsgDisp("Shirahane","Ah...
-Yeah.");
+MsgDisp("Shirahane","Ah... Yeah.");
 MsgDisp("主人公","What a relief...
 It scared me when I heard that you suddenly
 quit your job...");
@@ -59,8 +56,7 @@ VoicePlay("D020800900_08_040");
 MsgDisp("Shirahane","You're an honour student at Habataki and I'm
 an honour student at Hanegasaki.
 ...Now do you get what I'm sayin?");
-MsgDisp("主人公","Yeah.
-But why so suddenly?");
+MsgDisp("主人公","Yeah. But why so suddenly?");
 VoicePlay("D020800900_08_050");
 MsgDisp("Shirahane","I just realised.
 In order to be at your side, I need to become
@@ -74,17 +70,16 @@ MsgDisp("主人公","I...");
 MsgSel("I'll quit working at the gas station.","I'll cheer ｛Daichi＊＊｝ on!");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","Since ｛Daichi＊＊｝ is quitting, I'll quit
-too!");
+    MsgDisp("主人公","Since ｛Daichi＊＊｝ is quitting, I'll
+quit too!");
     VoicePlay("D020800900_08_070");
-    MsgDisp("Shirahane","Ehh∋
-Don't do anything reckless...!");
+    MsgDisp("Shirahane","Ehh∋ Don't do anything reckless...!");
     MsgDisp("主人公","I'm not going to lose to ｛Daichi＊＊｝.
 I need to study for the exam.");
     VoicePlay("D020800900_08_080");
-    MsgDisp("Shirahane","Wait...
-Are ya listenin' to me? If ya do that then I
-won't be able ta beatcha...");
+    MsgDisp("Shirahane","Wait... Are ya listenin' to me?
+If ya do that then I won't be able ta
+beatcha...");
     MsgDisp("主人公","Hehe!");
     VoicePlay("D020800900_08_090");
     MsgDisp("Shirahane","Haha...

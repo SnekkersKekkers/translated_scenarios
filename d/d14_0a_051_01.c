@@ -34,8 +34,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("D140A05101_02_010");
-MsgDisp("Sassa","Ha?
-The two of you...");
+MsgDisp("Sassa","Ha? The two of you...");
 MsgDisp("主人公","Eh...");
 ChEye(2,0);
 ChMouth(2,4);
@@ -75,8 +74,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A05101_01_030");
 MsgDisp("Kazama","Do as you'd like...");
-MsgDisp("主人公","H-Hey.
-What about us going out as a four?");
+MsgDisp("主人公","H-Hey. What about us going out as a four?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);

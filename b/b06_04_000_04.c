@@ -13,8 +13,7 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,2,1);
     ScrFadeIn(0);
     VoicePlay("B060400004_04_000");
-    MsgDisp("Nanatsumori","Be careful on your way home.
-...Sigh～");
+    MsgDisp("Nanatsumori","Be careful on your way home. ...Sigh～");
     MsgDispSksp(0);
     break ;
     case 3:

@@ -47,8 +47,8 @@ ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020310200_03_070");
 MsgDisp("Honda","Ah—, don't laugh!
-I'm still in the middle of figuring it out
-myself.");
+I'm still in the middle of figuring it
+out myself.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);

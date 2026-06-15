@@ -33,8 +33,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020720101_07_050");
-MsgDisp("Mikage","Is that so...
-That...
+MsgDisp("Mikage","Is that so... That...
 ...I understand.");
 MsgDisp("主人公","You heard my inner voice?");
 ChEye(7,0);
@@ -42,8 +41,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020720101_07_060");
-MsgDisp("Mikage","Yeah.
-It said I'll be back, so wait a bit.");
+MsgDisp("Mikage","Yeah. It said I'll be back, so wait a bit.");
 MsgDisp("主人公","What does that mean?");
 ChEye(7,0);
 ChMouth(7,0);

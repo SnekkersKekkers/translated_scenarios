@@ -52,8 +52,7 @@ ChMotion(7,3);
 VoicePlay("D140C05102_07_020");
 MsgDisp("Mikage","Ohh, that sounds interesting.
 I'm the Dad, and you're the Mom.");
-MsgDisp("主人公","E...
-Ehhh∋");
+MsgDisp("主人公","E... Ehhh∋");
 VoicePlay("D140C05102_06_030");
 ChEye(6,0);
 ChMouth(6,0);

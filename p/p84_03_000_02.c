@@ -5,8 +5,7 @@ I want a vinyl string but...
 ...Do you have any?");
 MsgDisp("主人公","Ah, yes, here you go.");
 VoicePlay("P840300002_48_010");
-MsgDisp("School Girl","Yes!
-I'm sorry for asking so many times...");
+MsgDisp("School Girl","Yes! I'm sorry for asking so many times...");
 MsgDisp("主人公","Please don't mind it.
 Come back anytime!");
 MsgClose();

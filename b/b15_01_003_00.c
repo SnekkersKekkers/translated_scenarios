@@ -9,8 +9,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100300_01_000");
 MsgDisp("Kazama","Hey, that's enough.");
-MsgDisp("主人公","Ah...
-I'm sorry.");
+MsgDisp("主人公","Ah... I'm sorry.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -38,10 +37,10 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B150100300_01_040");
-MsgDisp("Kazama","Sigh...we're basically in front of your house.
+MsgDisp("Kazama","Sigh...we're basically in front of
+your house.
 What would you do if your family saw you?");
-MsgDisp("主人公","Ah...
-I would probably be a bit embarrassed.");
+MsgDisp("主人公","Ah... I would probably be a bit embarrassed.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -66,9 +65,9 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChCheek(1,0);
 VoicePlay("B150100300_01_070");
-MsgDisp("Kazama","Sigh...
-I'm going crazy.
-See you. I'll cool my head as I go home.");
+MsgDisp("Kazama","Sigh... I'm going crazy.
+See you.
+I'll cool my head as I go home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(I wonder if I've troubled ｛Kazama＊＊｝...)");

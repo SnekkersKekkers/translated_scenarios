@@ -10,16 +10,15 @@ Shall we go, then?");
 ChEye(5,2);
 ChMouth(5,2);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","Eh!
-｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝?");
+MsgDisp("主人公","Eh! ｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("Q020C00100_05_000");
-MsgDisp("Hiiragi","Mikage-Sensei, there could be a chance she's
-already reserved her time for somebody
-else...");
+MsgDisp("Hiiragi","Mikage-Sensei, there could be a chance
+she's already reserved her time for
+somebody else...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -105,8 +104,7 @@ It's because I invited in a weird way.
 Sorry to you too.");
     ChMouth(5,4);
     ChEyeOpenLevel(5,9);
-    MsgDisp("主人公","No...
-I'm also sorry.");
+    MsgDisp("主人公","No... I'm also sorry.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,5);

@@ -6,8 +6,7 @@ VoicePlay("B020502122_05_000");
 MsgDisp("Hiiragi","What kind of concept is that?
 Exciting, yet gentle, and...
 Sweet-and-salty?");
-MsgDisp("主人公","Huh?
-What do you mean?");
+MsgDisp("主人公","Huh? What do you mean?");
 ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 ChCheek(5,5);

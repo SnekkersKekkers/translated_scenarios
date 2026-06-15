@@ -25,11 +25,10 @@ ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B360250101_02_020");
-MsgDisp("Sassa","To be honest, the main part was inviting you
-out.
+MsgDisp("Sassa","To be honest, the main part was inviting
+you out.
 After that, the details are kinda fuzzy.");
-MsgDisp("主人公","Hehe.
-Well, we came all the way here.
+MsgDisp("主人公","Hehe. Well, we came all the way here.
 Shall we hang out in the park?");
 ChEye(2,0);
 ChMouth(2,4);

@@ -2,8 +2,7 @@ ChLayout(1);
 BGOpen("fp100",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ok, I think it's time to head home.
-...Huh?
-Who's that over there—)");
+...Huh? Who's that over there—)");
 VoicePlay("E010730100_07_000");
 MsgDisp("Mikage?","That's amazing.
 Is it easy to use?");
@@ -48,11 +47,9 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,#1);
 VoicePlay("E010730100_03_030");
-MsgDisp("Honda","Yeah!
-The magnification is 1000 times∈
+MsgDisp("Honda","Yeah! The magnification is 1000 times∈
 It's amazing, you definitely have to see!");
-MsgDisp("主人公","Hehe.
-｛Honda＊＊｝, I'm happy for you.");
+MsgDisp("主人公","Hehe. ｛Honda＊＊｝, I'm happy for you.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

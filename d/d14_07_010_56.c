@@ -10,5 +10,5 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D140701056_07_010");
 MsgDisp("Mikage","The gardening club provides the vegetables,
-too. The real beauties I grew would be happy when
-others eat them.");
+too. The real beauties I grew would be happy
+when others eat them.");

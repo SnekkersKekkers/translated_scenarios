@@ -2,10 +2,9 @@ MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020520300_05_000");
 MsgDisp("Hiiragi","The fireflies here come in a variety of
-colours and glow in different ways, don't
-they?");
-MsgDisp("主人公","Yeah.
-It's fun to watch them.");
+colours and glow in different ways,
+don't they?");
+MsgDisp("主人公","Yeah. It's fun to watch them.");
 ChEye(5,4);
 VoicePlay("G020520300_05_010");
 MsgDisp("Hiiragi","It's much like your fashion.
@@ -25,8 +24,8 @@ It is befitting, huh...");
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("G020520300_05_040");
-MsgDisp("Hiiragi","I want to be able to make you enjoy it even
-more.
+MsgDisp("Hiiragi","I want to be able to make you enjoy it
+even more.
 What kind of style would you like to see?");
 MsgDisp("主人公","Hehe, let's see...
 You normally go for quite a chic feel, so how

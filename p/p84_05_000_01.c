@@ -14,18 +14,17 @@ ChMouth(5,2);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("P840500001_05_010");
-MsgDisp("Hiiragi","I see. Then it's inevitable they would take
-offence to that.");
-MsgDisp("主人公","Eh?
-What's wrong?");
+MsgDisp("Hiiragi","I see.
+Then it's inevitable they would take offence
+to that.");
+MsgDisp("主人公","Eh? What's wrong?");
 ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P840500001_05_020");
 MsgDisp("Hiiragi","Those sweets, were brought in as a gift from
 one of the guests...");
-MsgDisp("主人公","Ehhh∋
-I-I'm very sorry.
+MsgDisp("主人公","Ehhh∋ I-I'm very sorry.
 What should I do...");
 ChEye(5,2);
 ChMouth(5,4);

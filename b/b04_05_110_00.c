@@ -32,8 +32,8 @@ Just like a mermaid princess.");
         ChMouth(5,2);
         VoicePlay("B040511000_05_020");
         MsgDisp("Hiiragi","You were swimming?
-Make sure to call out to me if you ever need
-help.");
+Make sure to call out to me if you ever
+need help.");
         MsgDateResultDisp();
         }
     break ;

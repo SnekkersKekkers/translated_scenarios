@@ -53,8 +53,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700011_07_060");
 MsgDisp("Mikage","I can't see your face during winter break,
-but I can see Molly's.
-That's the only thing I'm looking forward to.");
+but I can see Molly's. That's the only thing
+I'm looking forward to.");
 MsgDisp("主人公","That's good.
 Please give my best regards to Molly-chan.");
 ChEye(7,0);

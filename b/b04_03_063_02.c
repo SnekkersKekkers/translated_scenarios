@@ -57,8 +57,7 @@ of thing with! ...It's cold!");
         ChMotion(3,5);
         ChCheek(3,5);
         VoicePlay("B040306302_03_040");
-        MsgDisp("Honda","Huh?
-Why did my heart just skip a beat?");
+        MsgDisp("Honda","Huh? Why did my heart just skip a beat?");
         ChEye(3,0);
         ChCheek(3,0);
         MsgDisp("主人公","What's the matter?
@@ -74,8 +73,7 @@ It's dangerous, so come here.");
         SEWait();
         VoicePlay("B040306302_03_050");
         MsgDisp("Honda","Say what you said just now again.");
-        MsgDisp("主人公","Eh?
-It's dangerous, so come here.");
+        MsgDisp("主人公","Eh? It's dangerous, so come here.");
         MsgClose();
         SEPlay("EV_SE_557",0,0.5);
         ChClose(3,0,20);
@@ -84,9 +82,9 @@ It's dangerous, so come here.");
         ChOpen(3,255,2,0,4,#1,#1,0,0,0,30);
         SEWait();
         VoicePlay("B040306302_03_060");
-        MsgDisp("Honda","Huh?
-It's nothing... My heart just fluttered when
-I heard your voice. Am I weird?");
+        MsgDisp("Honda","Huh? It's nothing...
+My heart just fluttered when I heard your
+voice. Am I weird?");
         MsgDisp("主人公","I got it, let's go already.
 If you get wet, you'll catch a cold▼");
         ChEye(3,3);

@@ -2,16 +2,14 @@ ScrFadeIn(0);
 MsgDisp("主人公","I wonder if ｛Kazama＊＊｝ is still shopping...");
 VoicePlay("Q110100000_01_000");
 MsgDisp("Kazama?","Would you like a freshly baked castella?");
-MsgDisp("主人公","Eh...
-Yes!");
+MsgDisp("主人公","Eh... Yes!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,3,8,#1,0,0);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_010");
 MsgDisp("Kazama","You're totally hooked.");
-MsgDisp("主人公","Geez!
-Aren't we out of time, though?");
+MsgDisp("主人公","Geez! Aren't we out of time, though?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

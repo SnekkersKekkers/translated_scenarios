@@ -88,8 +88,7 @@ I've made up my mind!");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B030423000_04_070");
-    MsgDisp("Nanatsumori","I see...
-Spinning and twirling around, huh.");
+    MsgDisp("Nanatsumori","I see... Spinning and twirling around, huh.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();

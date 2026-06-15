@@ -16,8 +16,8 @@ What, what's wrong?");
     ChMotion(4,1,1);
     VoicePlay("H3A0400001_04_010");
     MsgDisp("Nanatsumori","You don't need to be sad.
-Just making it this far is impressive,
-really.");
+Just making it this far is
+impressive, really.");
     MsgDisp("主人公","(I lost, but I'm glad I stayed in the judo
 club...)");
     break ;
@@ -29,8 +29,7 @@ club...)");
     ChOpen(4,254,0,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H3A0400001_04_020");
-    MsgDisp("Nanatsumori","Yo.
-...Oh my.");
+    MsgDisp("Nanatsumori","Yo. ...Oh my.");
     MsgDisp("主人公","｛Nanatsumori＊｝...
 I couldn't win...");
     ChEye(4,0);

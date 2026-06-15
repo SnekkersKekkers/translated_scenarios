@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040204500_02_000");
-    MsgDisp("Sassa","Yeah, there was an intense scene in the
-middle.
+    MsgDisp("Sassa","Yeah, there was an intense scene in
+the middle.
 I almost teared up.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

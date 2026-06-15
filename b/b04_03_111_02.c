@@ -32,8 +32,8 @@ But I'm fine - I've just bruised my butt!");
         ChMotion(3,0,1);
         VoicePlay("B040311102_03_020");
         MsgDisp("Honda","No, then your hands will get cold.
-I won't let that happen, even if my own hands
-freeze.");
+I won't let that happen, even if my own
+hands freeze.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -63,8 +63,7 @@ They probably won't fit well.");
         ChMotion(3,2,1);
         ChCheek(3,3);
         VoicePlay("B040311102_03_060");
-        MsgDisp("Honda","...Hm?
-My heart's thumping a little...");
+        MsgDisp("Honda","...Hm? My heart's thumping a little...");
         MsgDisp("主人公","Huh, are you okay?
 Shall we take a break?");
         ChEye(3,4);
@@ -72,8 +71,7 @@ Shall we take a break?");
         ChMotion(3,4,1);
         ChCheek(3,5);
         VoicePlay("B040311102_03_070");
-        MsgDisp("Honda","Huh?
-I haven't seen this pattern before...
+        MsgDisp("Honda","Huh? I haven't seen this pattern before...
 Just from looking at your hands...");
         MsgDisp("主人公","Um, ｛Honda＊＊｝?");
         ChEye(3,0);

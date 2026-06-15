@@ -73,15 +73,14 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330A30300_01_010");
 MsgDisp("Kazama","Sorry. Sassa and Inori helped me out but...
-Inori basically got caught in the second half
-right?");
+Inori basically got caught in the second
+half right?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A30300_06_040");
-MsgDisp("Himuro","Yeah.
-I don't really get it.");
+MsgDisp("Himuro","Yeah. I don't really get it.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

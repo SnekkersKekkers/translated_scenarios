@@ -23,8 +23,7 @@ ChMouth(22,1);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("F102130002_22_010");
-MsgDisp("Hikaru","Ah!
-That's what Hikaru was going to say!");
+MsgDisp("Hikaru","Ah! That's what Hikaru was going to say!");
 ChEye(22,0);
 MsgDisp("主人公","Ummm...
 Did both of you forget your biology textbook?");
@@ -76,8 +75,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F102130002_22_040");
-MsgDisp("Hikaru","Ehe!
-Mari, thank you▼");
+MsgDisp("Hikaru","Ehe! Mari, thank you▼");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);

@@ -31,8 +31,7 @@ I like their colouring.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040403100_04_020");
-    MsgDisp("Nanatsumori","Yeah.
-That colour is exquisite.
+    MsgDisp("Nanatsumori","Yeah. That colour is exquisite.
 Really gets me fired up.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -44,9 +43,9 @@ Really gets me fired up.");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("B040403100_04_030");
-    MsgDisp("Nanatsumori","Maybe there's a moray eel in there—
-... All I can see is your reflection in the
-glass.");
+    MsgDisp("Nanatsumori","Maybe there's a moray eel in there— ...
+All I can see is your reflection in
+the glass.");
     MsgDateResultDisp();
     break ;
     default :

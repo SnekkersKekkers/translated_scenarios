@@ -5,13 +5,11 @@ ChMotion(4,0);
 VoicePlay("G020430000_04_000");
 MsgDisp("Nanatsumori","I wonder what they're up to right
 now—...those guys.");
-MsgDisp("主人公","Those guys...
-Ah.
+MsgDisp("主人公","Those guys... Ah.
 You mean ｛Kazama＊＊｝ and ｛Honda＊＊｝?");
 ChMotion(4,1,1);
 VoicePlay("G020430000_04_010");
-MsgDisp("Nanatsumori","Yeah.
-The usual crew.");
+MsgDisp("Nanatsumori","Yeah. The usual crew.");
 ChMotion(4,0,1);
 VoicePlay("G020430000_04_020");
 MsgDisp("Nanatsumori","You know, it feels kinda like we're sneaking
@@ -49,9 +47,9 @@ MsgDisp("Nanatsumori","Jeez...");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("G020430000_04_080");
-MsgDisp("Nanatsumori","Well, maybe I'll treat them to some delicious
-sweets soon and apologise to them in my
-heart.");
+MsgDisp("Nanatsumori","Well, maybe I'll treat them to some
+delicious sweets soon and apologise to them
+in my heart.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ really cares about his
 friends, huh?)");
 BGMStop();

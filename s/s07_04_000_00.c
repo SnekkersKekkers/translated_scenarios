@@ -26,8 +26,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("S070400000_04_020");
     MsgDisp("Nanatsumori","So many people...");
-    MsgDisp("主人公","Yeah.
-Including us, right?");
+    MsgDisp("主人公","Yeah. Including us, right?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -48,8 +47,7 @@ Why do so many people like these festivals...");
     ChMotion(4,0);
     ScrFadeIn(0);
     VoicePlay("S070400000_04_050");
-    MsgDisp("Nanatsumori","Ah...
-Right.
+    MsgDisp("Nanatsumori","Ah... Right.
 Your hand.");
     MsgDisp("主人公","Eh?");
     VoicePlay("S070400000_04_060");
@@ -60,8 +58,7 @@ Your hand.");
     VoicePlay("S070400000_04_070");
     MsgDisp("Nanatsumori","I mean, look.
 Most pairs are holding hands, right?");
-    MsgDisp("主人公","Y-Yeah.
-Sure...");
+    MsgDisp("主人公","Y-Yeah. Sure...");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
     ChClose(4,0,30);

@@ -26,8 +26,7 @@ You're amazing for making it look so easy.");
     VoicePlay("X120100002_01_010");
     MsgDisp("Kazama","I'm sure everyone will like your work.
 It's much better than those bizarre ones.");
-    MsgDisp("主人公","(Yay!
-I was complimented!)");
+    MsgDisp("主人公","(Yay! I was complimented!)");
     break ;
     default :
     DbgAssert(1);

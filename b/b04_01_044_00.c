@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040104400_01_000");
     MsgDisp("Kazama","It was good.
-I'm not sure what was so good about it,
-though.");
+I'm not sure what was so good about
+it, though.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -22,8 +22,8 @@ though.");
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("B040104400_01_010");
-    MsgDisp("Kazama","Well, we managed to see it through to the
-end.");
+    MsgDisp("Kazama","Well, we managed to see it through to
+the end.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

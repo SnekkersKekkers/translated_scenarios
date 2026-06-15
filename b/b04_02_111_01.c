@@ -30,8 +30,8 @@ pose at the end. How do they even do that?");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040211101_02_020");
-    MsgDisp("Sassa","There's no way it's natural for every figure
-skater.");
+    MsgDisp("Sassa","There's no way it's natural for every
+figure skater.");
     MsgDateResultDisp();
     break ;
     case 2:

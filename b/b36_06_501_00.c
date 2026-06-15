@@ -45,8 +45,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650100_06_050");
-MsgDisp("Himuro","Ahh...
-I really can't watch this.");
+MsgDisp("Himuro","Ahh... I really can't watch this.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

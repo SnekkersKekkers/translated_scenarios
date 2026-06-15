@@ -32,10 +32,9 @@ I would be happy if that were the case!)");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("X110700000_07_030");
-    MsgDisp("Mikage","The baseball team won their practice match,
-right?");
-    MsgDisp("主人公","Yes!
-Everyone gave it their best.");
+    MsgDisp("Mikage","The baseball team won their practice
+match, right?");
+    MsgDisp("主人公","Yes! Everyone gave it their best.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

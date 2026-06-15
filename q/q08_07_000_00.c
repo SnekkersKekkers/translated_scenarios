@@ -32,8 +32,8 @@ lesson-Nagasaki version next time?");
     ChMotion(7,0);
     VoicePlay("Q080700000_07_020");
     MsgDisp("Mikage","Thanks for today.
-You're exempt from submitting a special
-report.");
+You're exempt from submitting a
+special report.");
     MsgDisp("主人公","Hehe, yay!
 Extracurricular lesson, Nagasaki edition was
 so much fun!");

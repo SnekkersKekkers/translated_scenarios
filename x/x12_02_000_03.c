@@ -28,8 +28,7 @@ Thanks as always!");
     MsgDisp("Sassa","People always take the student council's work
 as if it were a given, but, seriously, thank
 you for everything.");
-    MsgDisp("主人公","(Yay!
-I was praised!)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

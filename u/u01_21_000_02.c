@@ -43,8 +43,8 @@ That's unfortunate but I guess it can't be
 helped... Well, later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though she took the time to invite
-me...
+        MsgDisp("主人公","(Even though she took the time to
+invite me...
 Did I make the right choice?)");
         break ;
         default :

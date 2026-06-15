@@ -14,15 +14,14 @@ You came to cheer me on?");
     ChMotion(4,1,1);
     VoicePlay("H380400000_04_010");
     MsgDisp("Nanatsumori","Yeah.
-Nice, your gi looks even better than usual
-today.");
+Nice, your gi looks even better than
+usual today.");
     MsgDisp("主人公","Hehe, it's because I'm all fired up.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("H380400000_04_020");
-    MsgDisp("Nanatsumori","Yeah.
-I feel like you've already won.");
+    MsgDisp("Nanatsumori","Yeah. I feel like you've already won.");
     MsgDisp("主人公","Thank you.
 I'll do my best!");
     ChEye(4,0);

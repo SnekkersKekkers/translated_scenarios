@@ -67,19 +67,19 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D140B03200_04_030");
-MsgDisp("Nanatsumori","...Kazama somewhat has a smug look on his
-face.");
+MsgDisp("Nanatsumori","...Kazama somewhat has a smug look on
+his face.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B03200_01_050");
 MsgDisp("Kazama","Not really.
-There's nothing there, what are you talking
-about?");
+There's nothing there, what are you
+talking about?");
 MsgDisp("主人公","(I don't really remember but...
-It seems like it's better that I don't say
-that.)");
+It seems like it's better that I don't
+say that.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

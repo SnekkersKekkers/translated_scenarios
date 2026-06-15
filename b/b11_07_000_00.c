@@ -1,20 +1,17 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh...
-｛Mikage＊＊｝ still hasn't come yet.");
+MsgDisp("主人公","Huh... ｛Mikage＊＊｝ still hasn't come yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","Hmm.
-｛Mikage＊＊｝ is late...");
+MsgDisp("主人公","Hmm. ｛Mikage＊＊｝ is late...");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110700000_33_000");
 MsgDisp("Guy","Hey, are you a believer or not?");
-MsgDisp("主人公","Eh∋
-Believe what?");
+MsgDisp("主人公","Eh∋ Believe what?");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110700000_33_010");
@@ -40,8 +37,7 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110700000_33_030");
-MsgDisp("Guy","Hm?
-No can do, you weren't chosen.
+MsgDisp("Guy","Hm? No can do, you weren't chosen.
 That's why I can't take you.");
 MsgDispSksp(1,5);
 ChEye(7,1);
@@ -73,8 +69,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B110700000_07_040");
-MsgDisp("Mikage","If it's friends you want, I'll be your
-friend.
+MsgDisp("Mikage","If it's friends you want, I'll be
+your friend.
 Hey, come on.");
 ChEye(33,1);
 ChMouth(33,2);

@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040109002_01_010");
-    MsgDisp("Kazama","Yep.
-With delicious cakes and cookies, too.");
+    MsgDisp("Kazama","Yep. With delicious cakes and cookies, too.");
     ChEyeOpenLevel(1,#1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -73,8 +72,8 @@ So why don't you garden?");
         MsgDisp("Kazama","You know, when you're working with things
 like antiques, you have to have a broad range
 of knowledge to sell the items.");
-        MsgDisp("主人公","Yeah, even now you make a really good antique
-seller.");
+        MsgDisp("主人公","Yeah, even now you make a really good
+antique seller.");
         ChEye(1,2);
         ChMouth(1,0);
         ChMotion(1,1);
@@ -113,8 +112,7 @@ and can do.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040109002_01_100");
-        MsgDisp("Kazama","I see...
-Thank you.");
+        MsgDisp("Kazama","I see... Thank you.");
         ChEyeOpenLevel(1,0);
         Wait(10,0);
         ChEye(1,4);

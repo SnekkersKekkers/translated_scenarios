@@ -71,8 +71,8 @@ Scary.");
         ChMotion(4,2,1);
         VoicePlay("B040411102_04_070");
         MsgDisp("Nanatsumori","Ah—...
-But, if you're still cold, I guess I was
-wrong.");
+But, if you're still cold, I guess I
+was wrong.");
         MsgDisp("主人公","...I'm not cold.");
         ChEye(4,4);
         ChMouth(4,3);

@@ -39,8 +39,7 @@ delicious.");
     VoicePlay("P030400000_04_030");
     MsgDisp("Nanatsumori","Nothing.
 Then, I'll take what you recommend.");
-    MsgDisp("主人公","Yes!
-One dango set, coming right up～!");
+    MsgDisp("主人公","Yes! One dango set, coming right up～!");
     break ;
     case 4:
     case 5:

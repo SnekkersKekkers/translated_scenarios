@@ -24,8 +24,7 @@ VoicePlay("B330A30301_02_000");
 MsgDisp("Sassa","It really is, it's under construction.
 What kind of shop is it...?
 Do you know anything about it?");
-MsgDisp("主人公","Nope.
-I wonder what shop it is?");
+MsgDisp("主人公","Nope. I wonder what shop it is?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -58,8 +57,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B330A30301_06_010");
-MsgDisp("Himuro","Then I would like an instrument or surfing
-shop.
+MsgDisp("Himuro","Then I would like an instrument or
+surfing shop.
 ...You?");
 MsgDisp("主人公","Hmm....
 Maybe some tasty food you can eat while
@@ -92,9 +91,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30301_06_030");
-MsgDisp("Himuro","Ha?
-That's fine. Someone who changed their answer
-from \"sauna\" shouldn't be talking.");
+MsgDisp("Himuro","Ha? That's fine.
+Someone who changed their answer from \"sauna\"
+shouldn't be talking.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -123,8 +122,8 @@ ChClose(6,0,30);
 ChClose(1,0,30);
 ChClose(2,0,30);
 VoicePlay("B330A30301_02_060");
-MsgDisp("Sassa","What, it only has people's names written on
-it.");
+MsgDisp("Sassa","What, it only has people's names written
+on it.");
 VoicePlay("B330A30301_01_060");
 MsgDisp("Kazama","Well, that just gives us something to look
 forward to.");

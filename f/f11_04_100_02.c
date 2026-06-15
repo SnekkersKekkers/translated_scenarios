@@ -21,8 +21,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("F110410002_04_020");
-MsgDisp("Nanatsumori","I guess.
-But...");
+MsgDisp("Nanatsumori","I guess. But...");
 MsgDisp("主人公","?");
 ChEye(4,5);
 ChMouth(4,4);
@@ -45,8 +44,8 @@ MsgDisp("Nanatsumori","Right.
 Um, where to start?
 Whatever you want.");
 MsgDisp("主人公","OK!
-Then, let's start at the sweets stand and go
-around.");
+Then, let's start at the sweets stand and
+go around.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,3,1);

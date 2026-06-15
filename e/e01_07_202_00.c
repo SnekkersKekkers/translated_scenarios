@@ -2,8 +2,7 @@ ChLayout(1);
 BGOpen("wf000",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, I guess it's time to go home.
-Huh?
-What's that on the other side—)");
+Huh? What's that on the other side—)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -16,16 +15,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010720200_02_000");
-MsgDisp("Sassa","Yo.
-I just bumped into Mikage-sensei.");
+MsgDisp("Sassa","Yo. I just bumped into Mikage-sensei.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010720200_07_000");
-MsgDisp("Mikage","I happened to be near an outdoor equipment
-store.");
-MsgDisp("主人公","I see.
-You two have similar hobbies, huh.");
+MsgDisp("Mikage","I happened to be near an outdoor
+equipment store.");
+MsgDisp("主人公","I see. You two have similar hobbies, huh.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -38,8 +35,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("E010720200_07_010");
-MsgDisp("Mikage","Yeah I remember seeing Sassa playing with a
-dog.");
+MsgDisp("Mikage","Yeah I remember seeing Sassa playing with
+a dog.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

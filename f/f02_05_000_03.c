@@ -6,8 +6,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F020500003_05_000");
-MsgDisp("Hiiragi","I checked with Mikage-sensei about the rumours
-of the church.");
+MsgDisp("Hiiragi","I checked with Mikage-sensei about the
+rumours of the church.");
 MsgDisp("主人公","Huh, how'd it go?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -30,8 +30,7 @@ ChEye(5,3);
 VoicePlay("F020500003_05_040");
 MsgDisp("Hiiragi","Also, those vegetables are being used to
 raise livestock.");
-MsgDisp("主人公","Um...
-So it's the same rumour?");
+MsgDisp("主人公","Um... So it's the same rumour?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);

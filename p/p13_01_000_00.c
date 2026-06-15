@@ -83,8 +83,7 @@ at the finish line.");
     VoicePlay("P130100000_01_070");
     MsgDisp("Kazama","When you're wearing that cow-print t-shirt...
 Don't say \"freshly-squeezed milk \" so loudly.");
-    MsgDisp("主人公","Eh?
-What's wrong with that?");
+    MsgDisp("主人公","Eh? What's wrong with that?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);

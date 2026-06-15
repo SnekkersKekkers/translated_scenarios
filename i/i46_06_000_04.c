@@ -29,8 +29,7 @@ mist them too if they need it.");
     VoicePlay("I460600004_06_020");
     MsgDisp("Himuro","Nah, I just thought you were getting a little
 reliable.");
-    MsgDisp("主人公","Huh!
-You think so?");
+    MsgDisp("主人公","Huh! You think so?");
     ChEye(6,1);
     ChMouth(6,0);
     ChMotion(6,2);

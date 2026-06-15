@@ -58,15 +58,14 @@ Let's both do our best!");
     VoicePlay("O040201000_02_060");
     MsgDisp("Sassa","You're on my team.
 Let's do our best together!");
-    MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
-Yeah!");
+    MsgDisp("主人公","Ah, ｛Sassa＊＊｝. Yeah!");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("O040201000_02_070");
-    MsgDisp("Sassa","If I'm with you, I don't feel like losing at
-all.");
+    MsgDisp("Sassa","If I'm with you, I don't feel like losing
+at all.");
     MsgDisp("主人公","Even if you weren't with me, wouldn't you
 still win, ｛Sassa＊＊｝?");
     ChEye(2,0);

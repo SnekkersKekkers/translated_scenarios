@@ -11,8 +11,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B060500013_05_010");
-    MsgDisp("Hiiragi","Good.
-Let's stay together a bit longer then.");
+    MsgDisp("Hiiragi","Good. Let's stay together a bit longer then.");
     MsgDispSksp(0);
     MsgClose();
     ScrFadeOut(0);
@@ -27,8 +26,7 @@ Let's stay together a bit longer then.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("B060500013_05_020");
-    MsgDisp("Hiiragi","I see.
-That's it for today then.");
+    MsgDisp("Hiiragi","I see. That's it for today then.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(Was it bad of me to turn him down...?)");

@@ -3,8 +3,7 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("P040300001_03_000");
-MsgDisp("Honda","Wah!
-This is quite interesting.");
+MsgDisp("Honda","Wah! This is quite interesting.");
 MsgDisp("主人公","Huh, what's wrong?");
 ChEye(3,0);
 ChMouth(3,3);

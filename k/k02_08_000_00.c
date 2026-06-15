@@ -41,8 +41,7 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("K020800000_08_040");
-MsgDisp("Shirahane","Yeah.
-Well, see ya!");
+MsgDisp("Shirahane","Yeah. Well, see ya!");
 MsgClose();
 SEPlay("EV_SE_DOOR_022");
 SEWait();

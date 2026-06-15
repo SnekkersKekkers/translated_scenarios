@@ -12,11 +12,9 @@ I need to find a more energetic girl okay～?");
 SEPlay("EV_SE_544");
 ChOpen(35,254,0,2,0,#1,#1,0,0,0,30);
 VoicePlay("B110700002_35_010");
-MsgDisp("Guy","Ehhh?
-I found her!
+MsgDisp("Guy","Ehhh? I found her!
 Full signal, all bars!∋");
-MsgDisp("主人公","Eh∋
-All bars?");
+MsgDisp("主人公","Eh∋ All bars?");
 ChEye(35,0);
 ChMouth(35,0);
 VoicePlay("B110700002_35_020");
@@ -90,8 +88,7 @@ ChOpen(7,253,4,2,0,#1,#1,0,0);
 VoicePlay("B110700002_07_040");
 MsgDisp("Mikage","Sigh...guys like that make me sad.
 Even he was a high schooler once, y'know.");
-MsgDisp("主人公","Yeah...
-It's kinda sad, actually.");
+MsgDisp("主人公","Yeah... It's kinda sad, actually.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);

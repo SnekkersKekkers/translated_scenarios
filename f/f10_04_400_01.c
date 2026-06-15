@@ -1,8 +1,7 @@
 BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","...Ah!
-｛Nanatsumori＊｝, ｛Honda＊＊｝!");
+MsgDisp("主人公","...Ah! ｛Nanatsumori＊｝, ｛Honda＊＊｝!");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -74,8 +73,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("F100440001_03_060");
-MsgDisp("Honda","Huh?
-But, you also know too, right?");
+MsgDisp("Honda","Huh? But, you also know too, right?");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(4,1);
 ChMouth(4,0);
@@ -95,8 +93,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("F100440001_03_070");
-MsgDisp("Honda","Hmm.
-Shouldn't everyone know by now?
+MsgDisp("Honda","Hmm. Shouldn't everyone know by now?
 Right?");
 MsgDisp("主人公","(I think only ｛Honda＊＊｝ could tell just
 from bone structure alone...)");

@@ -51,9 +51,9 @@ MsgDisp("Kuya","Ahh...
 Today is a normal date with Kuya Shirahane.");
 ChMotion(9,1,1);
 VoicePlay("D030901400_09_040");
-MsgDisp("Kuya","I won't be wearing the Hanegasaki uniform
-anymore, and I'm no longer a jack of all
-trades.");
+MsgDisp("Kuya","I won't be wearing the Hanegasaki
+uniform anymore, and I'm no longer a
+jack of all trades.");
 MsgDisp("主人公","(It feels kind of weird, somehow...)");
 MsgClose();
 ScrFadeOut(0);
@@ -88,8 +88,7 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_070");
 MsgDisp("Kuya","What's wrong?
 You're not in the mood for ice cream?");
-MsgDisp("主人公","That's not it!
-Uhm...
+MsgDisp("主人公","That's not it! Uhm...
 Kuya-san, you've changed, haven't you?");
 ChEye(9,0);
 ChMouth(9,0);
@@ -114,8 +113,7 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 VoicePlay("D030901400_09_100");
-MsgDisp("Kuya","Haha.
-I've just changed my priorities.");
+MsgDisp("Kuya","Haha. I've just changed my priorities.");
 MsgDisp("主人公","Eh?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -130,8 +128,7 @@ ChMouth(9,4);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_120");
-MsgDisp("Kuya","Huh...?
-Is that maybe a bit weird?");
+MsgDisp("Kuya","Huh...? Is that maybe a bit weird?");
 MsgDisp("主人公","No...
 Kuya-san, are you going to stop being a \"Jack
 of All Trades\"?");
@@ -140,9 +137,9 @@ ChMouth(9,4);
 ChMotion(9,1,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_130");
-MsgDisp("Kuya","That's not it.
-But... I guess it's true that my work style
-is becoming more simple.");
+MsgDisp("Kuya","That's not it. But...
+I guess it's true that my work style is
+becoming more simple.");
 MsgDisp("主人公","Hehe!");
 ChEye(9,3);
 ChMouth(9,0);

@@ -29,8 +29,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("G020330000_03_040");
-MsgDisp("Honda","Mi-kun was there that day too, and I bombarded
-Ryo-kun with questions.
+MsgDisp("Honda","Mi-kun was there that day too, and I
+bombarded Ryo-kun with questions.
 But they both stayed patient until the end.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -49,8 +49,8 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020330000_03_070");
 MsgDisp("Honda","I could never do that.");
-MsgDisp("主人公","Hehe, it sounds like you all respect each
-other.");
+MsgDisp("主人公","Hehe, it sounds like you all respect
+each other.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

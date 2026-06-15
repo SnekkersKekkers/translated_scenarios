@@ -8,8 +8,7 @@ ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("D140B06001_01_000");
 MsgDisp("Kazama","Hey, what's up with Honda?");
-MsgDisp("主人公","Eh?
-I don't know but...");
+MsgDisp("主人公","Eh? I don't know but...");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -54,8 +53,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D140B06001_04_020");
-MsgDisp("Nanatsumori","I see...
-It looks like they're both dense.");
+MsgDisp("Nanatsumori","I see... It looks like they're both dense.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);

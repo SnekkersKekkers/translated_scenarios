@@ -4,8 +4,7 @@ BGOpen("sc820",0);
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow...
-｛Hiiragi＊＊＊｝, look!
+MsgDisp("主人公","Wow... ｛Hiiragi＊＊＊｝, look!
 The windmills and flowers are so pretty.");
 ChEye(5,4);
 ChMotion(5,4);
@@ -43,8 +42,8 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("Q070500000_05_030");
 MsgDisp("Hiiragi","It's amazing.
-It looks taller than the keep of Habataki
-Castle.");
+It looks taller than the keep of
+Habataki Castle.");
 MsgDisp("主人公","Hehe, yes.
 Ah...but the castle, it's on top of Mount
 Habataki.");
@@ -61,8 +60,7 @@ VoicePlay("Q070500000_05_050");
 MsgDisp("Hiiragi","I like your overflowing love for your
 hometown. I, too, will learn from you as the
 Habataki theatre chairperson.");
-MsgDisp("主人公","What?
-I didn't mean it like that...");
+MsgDisp("主人公","What? I didn't mean it like that...");
 ChMotion(5,4);
 VoicePlay("Q070500000_05_060");
 MsgDisp("Hiiragi","Even if you come to a foreign country, you do
@@ -101,8 +99,8 @@ MsgDisp("主人公","Yes...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("Q070500000_05_090");
-MsgDisp("Hiiragi","Nagasaki is lovely, but, do you miss Habataki
-City?");
+MsgDisp("Hiiragi","Nagasaki is lovely, but, do you miss
+Habataki City?");
 MsgDisp("主人公","No, since it's only been three days.
 What about you, ｛Hiiragi＊＊＊｝?");
 ChEye(5,2);

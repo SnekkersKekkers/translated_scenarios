@@ -8,8 +8,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4);
     VoicePlay("D140301101_03_000");
     MsgDisp("Honda","Ah, you got the same as me.
-Could it be that you were also enticed by
-this?");
+Could it be that you were also enticed
+by this?");
     break ;
     case 4:
     case 5:
@@ -25,8 +25,8 @@ sharing our thoughts is nice too.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("D140301101_03_020");
-    MsgDisp("Honda","That's why, I'm super happy we got the same
-thing!");
+    MsgDisp("Honda","That's why, I'm super happy we got the
+same thing!");
     break ;
     default :
     DbgAssert(1);

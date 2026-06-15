@@ -24,8 +24,7 @@ ChMotion(6,0);
 VoicePlay("B330A10701_06_000");
 MsgDisp("Himuro","I look forward to it.
 ...Right?");
-MsgDisp("主人公","Yes!
-We're counting on you.");
+MsgDisp("主人公","Yes! We're counting on you.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -36,9 +35,9 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330A10701_01_020");
-MsgDisp("Kazama","Then, which one should we talk about? １, the
-castle lantern. ２, the legend of the lone
-pillar.");
+MsgDisp("Kazama","Then, which one should we talk about? １,
+the castle lantern. ２, the legend of the
+lone pillar.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -101,8 +100,7 @@ ChMotion(1,0);
 VoicePlay("B330A10701_01_070");
 MsgDisp("Kazama","Maybe?
 What do you think?");
-MsgDisp("主人公","Ehhh∋
-...I think it probably came true?");
+MsgDisp("主人公","Ehhh∋ ...I think it probably came true?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -123,8 +121,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A10701_06_030");
-MsgDisp("Himuro","Just now...is that the usual childhood friend
-talk?");
+MsgDisp("Himuro","Just now...is that the usual childhood
+friend talk?");
 ChEye(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(2,0);
@@ -140,8 +138,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10701_06_040");
 MsgDisp("Himuro","Then I'm the only one left out?
-I've had my fill of this.
-Next.");
+I've had my fill of this. Next.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);

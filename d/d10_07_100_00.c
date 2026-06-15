@@ -7,8 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("D100710000_07_000");
 MsgDisp("Mikage","｛主人公｝, what's next period's class?");
-MsgDisp("主人公","Eh?
-Isn't it Biology?");
+MsgDisp("主人公","Eh? Isn't it Biology?");
 ChEye(7,5);
 ChMouth(7,3);
 ChMotion(7,4);

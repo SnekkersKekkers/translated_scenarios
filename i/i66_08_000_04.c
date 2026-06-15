@@ -63,8 +63,7 @@ Now, the bill...");
     VoicePlay("I660800004_08_060");
     MsgDisp("Shirahane","...Hey.
 Is there some new window cleaner fluid?");
-    MsgDisp("主人公","Hm?
-It's the usual one.
+    MsgDisp("主人公","Hm? It's the usual one.
 What's up?");
     ChEye(8,3);
     VoicePlay("I660800004_08_070");
@@ -80,10 +79,8 @@ So we should clean it well, right?");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("I660800004_08_080");
-    MsgDisp("Shirahane","You're a real master of service.
-Good!");
-    MsgDisp("主人公","(Yay!
-｛Daichi＊＊｝ praised me!)");
+    MsgDisp("Shirahane","You're a real master of service. Good!");
+    MsgDisp("主人公","(Yay! ｛Daichi＊＊｝ praised me!)");
     break ;
     default :
     DbgAssert(1);

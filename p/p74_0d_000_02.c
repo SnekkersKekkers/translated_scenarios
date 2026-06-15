@@ -28,10 +28,9 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P740D00002_22_010");
 MsgDisp("Hikaru","Let's do it, let's do it!
-Hikaru wants to take a photo with princess
-Mari♪");
-MsgDisp("主人公","(Yay!
-The show was a huge success1)");
+Hikaru wants to take a photo with
+princess Mari♪");
+MsgDisp("主人公","(Yay! The show was a huge success1)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

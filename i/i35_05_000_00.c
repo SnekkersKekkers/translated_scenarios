@@ -41,8 +41,8 @@ theatre troupe, huh.)");
     ChOpen(5,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("I350500000_05_030");
-    MsgDisp("Hiiragi","｛主人公｝, if I may have a moment of your
-time.");
+    MsgDisp("Hiiragi","｛主人公｝, if I may have a moment of
+your time.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, you came.");
     VoicePlay("I350500000_05_040");
     MsgDisp("Hiiragi","Yes, we come here for meetings.");
@@ -50,15 +50,14 @@ time.");
     ChMotion(5,4);
     VoicePlay("I350500000_05_050");
     MsgDisp("Hiiragi","I am thankful for it.
-It means that the theatre troupe is doing
-well.");
+It means that the theatre troupe is
+doing well.");
     ChMotion(5,0);
     VoicePlay("I350500000_05_060");
     MsgDisp("Hiiragi","Ah, and another thing.
-The meetings we have here always end up going
-well.");
-    MsgDisp("主人公","Hm?
-Really?");
+The meetings we have here always end up
+going well.");
+    MsgDisp("主人公","Hm? Really?");
     ChEye(5,4);
     VoicePlay("I350500000_05_070");
     MsgDisp("Hiiragi","Yes.

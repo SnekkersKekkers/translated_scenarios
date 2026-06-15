@@ -21,15 +21,14 @@ Did you come to watch me?");
     ChMotion(5,3);
     VoicePlay("H480500000_05_010");
     MsgDisp("Hiiragi","Yes, of course.
-I'm quite the fan of your performances, you
-know?");
+I'm quite the fan of your performances,
+you know?");
     MsgDisp("主人公","Hehe, I'm glad, even if you are joking.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("H480500000_05_020");
-    MsgDisp("Hiiragi","Hm?
-I wouldn't tell such an unamusing joke.");
+    MsgDisp("Hiiragi","Hm? I wouldn't tell such an unamusing joke.");
     ChEye(5,4);
     VoicePlay("H480500000_05_030");
     MsgDisp("Hiiragi","The way you express your nerves, all the way

@@ -4,8 +4,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","My name is ｛主人公苗字｝.
 It's my pleasure to work here starting today.");
 VoicePlay("I430600000_49_000");
-MsgDisp("Manager","Your shifts are every week on Wednesday and
-Friday.
+MsgDisp("Manager","Your shifts are every week on Wednesday
+and Friday.
 Please do your best.");
 MsgDisp("主人公","Yes, understood.");
 MsgDisp("主人公","(Alright, let's do this!)");
@@ -33,8 +33,7 @@ I didn't know.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("I430600000_06_020");
-    MsgDisp("Himuro","Oh.
-Bye.");
+    MsgDisp("Himuro","Oh. Bye.");
     MsgDisp("主人公","Huh, where are you going?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -72,8 +71,7 @@ You work here?");
     ChEyeOpenLevel(6,8);
     VoicePlay("I430600000_06_060");
     MsgDisp("Himuro","That bad?");
-    MsgDisp("主人公","No.
-But, it's a little unexpected...");
+    MsgDisp("主人公","No. But, it's a little unexpected...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -104,8 +102,7 @@ I don't want to clean up your messes.");
     ChMotion(6,0);
     VoicePlay("I430600000_06_100");
     MsgDisp("Himuro","Starting today?");
-    MsgDisp("主人公","Yeah.
-Let's work hard together.");
+    MsgDisp("主人公","Yeah. Let's work hard together.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);

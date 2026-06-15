@@ -9,10 +9,10 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B360707000_07_000");
-MsgDisp("Mikage","The shopping district is so lively at this
-time～");
-MsgDisp("主人公","People are shopping for things like their
-dinner.");
+MsgDisp("Mikage","The shopping district is so lively at
+this time～");
+MsgDisp("主人公","People are shopping for things like
+their dinner.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -32,8 +32,7 @@ ChClose(7);
 VoicePlay("B360707000_07_030");
 MsgDisp("Mikage","One serving of curry please, miss!");
 VoicePlay("B360707000_47_000");
-MsgDisp("Clerk","Oh my.
-I'll add a croquette for you～");
+MsgDisp("Clerk","Oh my. I'll add a croquette for you～");
 VoicePlay("B360707000_07_040");
 MsgDisp("Mikage","Thank you.
 I'll come back here.");
@@ -59,10 +58,10 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B360707000_07_070");
-MsgDisp("Mikage","That being said, dinner on your own can be
-lonely.");
-MsgDisp("主人公","｛Mikage＊＊｝, do you always have dinner
-alone?");
+MsgDisp("Mikage","That being said, dinner on your own can
+be lonely.");
+MsgDisp("主人公","｛Mikage＊＊｝, do you always have
+dinner alone?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

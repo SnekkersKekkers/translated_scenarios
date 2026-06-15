@@ -33,8 +33,7 @@ That's all.");
         ChMotion(6,0);
         VoicePlay("B040614002_06_020");
         MsgDisp("Himuro","You haven't heard of it before?");
-        MsgDisp("主人公","Yeah.
-But, I didn't feel out of place.");
+        MsgDisp("主人公","Yeah. But, I didn't feel out of place.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);

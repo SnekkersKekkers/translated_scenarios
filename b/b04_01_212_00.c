@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040121200_01_000");
-MsgDisp("Kazama","Huh, they've got quite a bit of original
-merch.");
+MsgDisp("Kazama","Huh, they've got quite a bit of
+original merch.");
 MsgSel("They have animal cookies!","Cute▼ They even have panda slippers","They have leopard print leggings!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121200_01_010");
     MsgDisp("Kazama","Yeah, they do.
-They have similar ones at the supermarket,
-too.");
+They have similar ones at the
+supermarket, too.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

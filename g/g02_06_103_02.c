@@ -12,8 +12,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020610302_06_010");
 MsgDisp("Himuro","Don't get the wrong idea.
-It's not like we're going to do anything
-shady.");
+It's not like we're going to do
+anything shady.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -68,8 +68,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610302_06_090");
 MsgDisp("Himuro","...Really?
-So it's okay if we end up in matching outfits
-again?");
+So it's okay if we end up in matching
+outfits again?");
 MsgDisp("主人公","Yeah.");
 ChEye(6,0);
 ChMouth(6,0);

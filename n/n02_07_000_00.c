@@ -63,8 +63,7 @@ Very cool of you.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("N020700000_07_060");
-    MsgDisp("Mikage","As expected from Miss Diligent in the
-class.");
+    MsgDisp("Mikage","As expected from Miss Diligent in the class.");
     MsgDisp("主人公","Hehe, thank you very much.");
     ChEye(7,2);
     ChMouth(7,0);

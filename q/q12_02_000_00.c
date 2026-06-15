@@ -9,8 +9,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,0);
     VoiceEVSPlay(2);
     VoicePlay("Q120200000_02_000");
-    MsgDisp("Sassa","｛主人公｝, thanks for wandering around with
-me.");
+    MsgDisp("Sassa","｛主人公｝, thanks for wandering around
+with me.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -44,8 +44,7 @@ It was fun to go around with you,
     MsgDisp("Sassa","Me too.
 I'm glad I got to do ultra-max sightseeing
 with you.");
-    MsgDisp("主人公","Hehe!
-We looked a lot, didn't we.");
+    MsgDisp("主人公","Hehe! We looked a lot, didn't we.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -102,8 +101,7 @@ I couldn't go running there.");
     MsgDisp("Sassa","So I think it would feel good if I could run
 with you.
 Don't you think so too?");
-    MsgDisp("主人公","Eh∋
-You want me to come too?");
+    MsgDisp("主人公","Eh∋ You want me to come too?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

@@ -9,6 +9,6 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("D140701160_07_010");
-MsgDisp("Mikage","What kind of alumni offers something like
-this?
+MsgDisp("Mikage","What kind of alumni offers something
+like this?
 They must really love Habataki High School.");

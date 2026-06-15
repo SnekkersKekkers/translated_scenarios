@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,4);
     VoicePlay("B040510400_05_010");
-    MsgDisp("Hiiragi","Legs?
-Are you tired already?
+    MsgDisp("Hiiragi","Legs? Are you tired already?
 Oh, you mean the insect legs?");
     MsgDateResultDisp();
     break ;

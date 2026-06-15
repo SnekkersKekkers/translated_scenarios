@@ -5,8 +5,7 @@ ChMotion(4,1,1);
 ScrFadeIn(0);
 VoicePlay("B030430000_04_000");
 MsgDisp("Nanatsumori","I'm just a guy living alone.
-Don't get your hopes up or let down.
-OK?");
+Don't get your hopes up or let down. OK?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Hehe, OK.
 Thanks for having me.");

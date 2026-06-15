@@ -2,8 +2,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0,1);
 VoicePlay("B020700011_07_000");
-MsgDisp("Mikage","Ooh.
-You're really wearing it.");
+MsgDisp("Mikage","Ooh. You're really wearing it.");
 MsgDisp("主人公","Yes, of course.");
 ChEye(7,0);
 ChMouth(7,0);

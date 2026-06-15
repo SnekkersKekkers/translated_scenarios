@@ -35,15 +35,14 @@ VoicePlay("F100520001_05_030");
 MsgDisp("Hiiragi","Yes.
 It was truly a deeply interesting experience.");
 ChMotion(1,0);
-MsgDisp("主人公","Hehe.
-｛Hiiragi＊＊＊｝, you seem happy.");
+MsgDisp("主人公","Hehe. ｛Hiiragi＊＊＊｝, you seem happy.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("F100520001_05_040");
-MsgDisp("Hiiragi","Yes. I had consulted him for hints regarding
-the play, and he showed me various different
-things.");
+MsgDisp("Hiiragi","Yes. I had consulted him for hints
+regarding the play, and he showed me
+various different things.");
 MsgDisp("主人公","Is that so!");
 ChEye(1,0);
 ChMouth(1,3);

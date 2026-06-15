@@ -117,8 +117,8 @@ VoicePlay("B330A30100_02_030");
 MsgDisp("Sassa","Then, shall we say we're all deep sea fish?");
 ChMouth(1,3);
 MsgDisp("主人公","(Haha!
-A group of tight-knit deep-sea fish...that's
-nice.)");
+A group of tight-knit deep-sea
+fish...that's nice.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

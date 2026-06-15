@@ -20,8 +20,7 @@ I'll go straight home today.)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("F010200006_02_010");
-    MsgDisp("Sassa","Can't.
-My spending money's tight now.
+    MsgDisp("Sassa","Can't. My spending money's tight now.
 Sigh, ask me next month.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -45,8 +44,7 @@ I'll go straight home today.)");
     MsgDisp("Sassa","Sorry, I can't go with you.
 Sigh, I really need to budget my allowance
 better...");
-    MsgDisp("主人公","Hehe.
-Well, next time.
+    MsgDisp("主人公","Hehe. Well, next time.
 When you have a lot of pocket money.");
     ChEye(2,0);
     ChMouth(2,4);

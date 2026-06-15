@@ -24,8 +24,7 @@ MsgClose();
 Wait(40,0);
 VoicePlay("Q070201000_02_000");
 MsgDisp("Sassa?","Hey, over here∈");
-MsgDisp("主人公","Eh?
-Ah...
+MsgDisp("主人公","Eh? Ah...
 ｛Sassa＊＊｝!");
 MsgClose();
 EnvAutoSet(0);
@@ -46,8 +45,8 @@ MsgDisp("主人公","It's really beautiful...");
 StlEye(2,2);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_030");
-MsgDisp("Sassa","Look, this is a glass ball from Nagasaki
-Glass.");
+MsgDisp("Sassa","Look, this is a glass ball from
+Nagasaki Glass.");
 StlNear(1,0,30);
 StlEye(2,1);
 StlMouth(2,1);
@@ -68,8 +67,8 @@ StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("Q070201000_02_050");
 MsgDisp("Sassa","Wow...
-It's as though we have a tiny sun in our
-hands.");
+It's as though we have a tiny sun in
+our hands.");
 MsgDisp("主人公","So pretty...");
 StlEye(2,0,0);
 StlMouth(2,0);
@@ -83,8 +82,7 @@ StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_070");
 MsgDisp("Sassa","Y'know what, you can have this glass ball.");
-MsgDisp("主人公","Eh...
-Can I really have it?");
+MsgDisp("主人公","Eh... Can I really have it?");
 StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
@@ -101,8 +99,7 @@ Thanks, ｛Sassa＊＊｝.");
 StlEye(2,2);
 StlMouth(2,0);
 VoicePlay("Q070201000_07_000");
-MsgDisp("Mikage","Oh!
-How great, you two!");
+MsgDisp("Mikage","Oh! How great, you two!");
 SEPlay("EV_SE_045");
 MsgDisp("","(Flash)");
 StlEye(2,2,0);
@@ -117,8 +114,7 @@ Look, it's time for the bus to leave!");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_110");
-MsgDisp("Sassa","Okay!
-Let's go then!");
+MsgDisp("Sassa","Okay! Let's go then!");
 BGMStop(2);
 MsgClose();
 ScrFadeOut(0);

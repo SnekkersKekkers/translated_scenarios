@@ -19,8 +19,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("K010200101_02_020");
-MsgDisp("Sassa","With this, I'll be in a good mood for a
-while.");
+MsgDisp("Sassa","With this, I'll be in a good mood for
+a while.");
 MsgDisp("主人公","(He looks super happy!
 Thank goodness!)");
 MsgClose();

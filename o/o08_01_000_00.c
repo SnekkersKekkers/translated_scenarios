@@ -22,8 +22,7 @@ Ah, it's ｛Kazama＊＊｝.)");
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     VoicePlay("O080100000_01_010");
     MsgDisp("Kazama","It's a little weird.");
-    MsgDisp("主人公","Hm?
-What's wrong?");
+    MsgDisp("主人公","Hm? What's wrong?");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -55,8 +54,8 @@ I was tired of waiting.");
     MsgDisp("Kazama","I spent too long watching you dance with
 other guys.");
     MsgDisp("主人公","What?
-It's embarrassing, you don't have to watch
-that.");
+It's embarrassing, you don't have to
+watch that.");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,0);

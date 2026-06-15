@@ -20,8 +20,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("Q050D00000_22_010");
-MsgDisp("Hikaru","Hey, for today's free period, wanna come with
-us?");
+MsgDisp("Hikaru","Hey, for today's free period, wanna come
+with us?");
 MsgSel("Yeah, sure!","Eh...sorry.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -44,8 +44,7 @@ switch (MsgSelRsltGet()){
     ChMouth(22,1);
     ChMotion(22,3,1);
     VoicePlay("Q050D00000_22_030");
-    MsgDisp("Hikaru","Eh∋
-How come, why?");
+    MsgDisp("Hikaru","Eh∋ How come, why?");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,4);

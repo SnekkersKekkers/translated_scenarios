@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040523601_05_010");
-    MsgDisp("Hiiragi","Yes, perhaps I fell under the magic of the
-light?");
+    MsgDisp("Hiiragi","Yes, perhaps I fell under the magic of
+the light?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +45,8 @@ safe time.");
     ChMotion(5,0);
     VoicePlay("B040523601_05_030");
     MsgDisp("Hiiragi","Yes, thank you.
-Your words helped me make up my mind to head
-home.");
+Your words helped me make up my mind to
+head home.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

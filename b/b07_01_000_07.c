@@ -1,5 +1,5 @@
-MsgDisp("主人公","What are ｛Kazama＊＊｝'s dreams for the
-future?");
+MsgDisp("主人公","What are ｛Kazama＊＊｝'s dreams for
+the future?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -51,8 +51,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_420");
-MsgDisp("Kazama","Hey...
-You're always so off-the-mark.");
+MsgDisp("Kazama","Hey... You're always so off-the-mark.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

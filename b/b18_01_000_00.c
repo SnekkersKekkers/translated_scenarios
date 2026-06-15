@@ -35,8 +35,7 @@ switch (MsgSelRsltGet()){
     VoiceEVSPlay(1);
     MsgDisp("Kazama","Isn't it, ｛主人公｝.");
     VoicePlay("B180100000_01_031");
-    MsgDisp("Kazama","See?
-Way more natural.");
+    MsgDisp("Kazama","See? Way more natural.");
     MsgDisp("主人公","Hehe, it's kind of funny isn't it?
 ｛Kazama＊＊｝.");
     ChEye(1,0);
@@ -54,8 +53,8 @@ opportunity for a while.");
     VoicePlay("B180100000_01_050");
     MsgDisp("Kazama","Seriously, I would've had no idea what to do
 if things stayed like this.");
-    MsgDisp("主人公","(Hehe, somehow there's a tingling feeling to
-it...)");
+    MsgDisp("主人公","(Hehe, somehow there's a tingling feeling
+to it...)");
     break ;
     case 1:
     ChEye(1,0);
@@ -73,8 +72,7 @@ Guess you don't like it.");
     VoicePlay("B180100000_01_070");
     MsgDisp("Kazama","Ah, is that right?
 Then, it's fine.");
-    MsgDisp("主人公","(Hmmm...
-Did I do something wrong?)");
+    MsgDisp("主人公","(Hmmm... Did I do something wrong?)");
     break ;
     default :
     DbgAssert(0);

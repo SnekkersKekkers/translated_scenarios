@@ -4,11 +4,9 @@ ScrFadeIn(0);
 SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("Z312100000_21_000");
-MsgDisp("Michiru","Hehe.
-Hi Mari.
+MsgDisp("Michiru","Hehe. Hi Mari.
 Thanks for calling me.");
-MsgDisp("主人公","Hehe!
-Could I ask you for some advice?");
+MsgDisp("主人公","Hehe! Could I ask you for some advice?");
 VoicePlay("Z312100000_21_010");
 MsgDisp("Michiru","About?");
 MsgDisp("主人公","I wanted to ask for fashion advice.

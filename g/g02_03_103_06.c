@@ -5,8 +5,8 @@ ChMotion(3,1);
 ChLayout(1);
 VoicePlay("G020310306_03_000");
 MsgDisp("Honda","I would have liked it if there had been a
-place like this firefly habitat when I was
-little.");
+place like this firefly habitat when I
+was little.");
 MsgDisp("主人公","｛Honda＊＊｝ would you have studied the
 fireflies?");
 ChSet(3,3);
@@ -61,8 +61,8 @@ ChSet(3,3);
 VoicePlay("G020310306_03_080");
 MsgDisp("Honda","Then, it's homework.
 Tell me next time, okay?");
-MsgDisp("主人公","(Somewhat, ｛Honda＊＊｝ is like a spoiled
-kid...)");
+MsgDisp("主人公","(Somewhat, ｛Honda＊＊｝ is like a
+spoiled kid...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

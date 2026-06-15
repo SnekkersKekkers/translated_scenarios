@@ -8,14 +8,12 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("B050200000_02_000");
-MsgDisp("Sassa","Yeah.
-Horse riding, sheep shearing...eh.");
+MsgDisp("Sassa","Yeah. Horse riding, sheep shearing...eh.");
 ChEye(2,5);
 ChMouth(2,2);
 ChMotion(2,0);
 VoicePlay("B050200000_02_010");
-MsgDisp("Sassa","...C-Cow...
-Milking?");
+MsgDisp("Sassa","...C-Cow... Milking?");
 MsgDisp("主人公","Yeah?
 ｛Sassa＊＊｝, do you want to try milking?");
 ChEye(2,5);
@@ -32,8 +30,7 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B050200000_02_030");
 MsgDisp("Sassa","Why you ask...");
-MsgDisp("主人公","?
-So do you want to milk them?");
+MsgDisp("主人公","? So do you want to milk them?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -75,8 +72,7 @@ StlEye(2,0);
 StlMouth(2,0);
 StlCheek(2,10);
 VoicePlay("B050200000_02_080");
-MsgDisp("Sassa","—Eh?
-Ah, yeah.
+MsgDisp("Sassa","—Eh? Ah, yeah.
 That's good.");
 MsgDisp("主人公","Right?
 Ah, ｛Sassa＊＊｝, want to take over?");

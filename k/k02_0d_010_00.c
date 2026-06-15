@@ -10,8 +10,7 @@ SEPlay("EV_SE_DOOR_022");
 Wait(20,1);
 BGMPlay("BGM_HANYOU_A",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","...Oh?
-｛みちる＊｝, ｛ひかる＊｝!
+MsgDisp("主人公","...Oh? ｛みちる＊｝, ｛ひかる＊｝!
 What is it?");
 ChEye(21,0);
 ChMouth(21,3);
@@ -40,8 +39,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("K020D01000_21_010");
-MsgDisp("Michiru","Hehe.
-Well, see you at school.");
+MsgDisp("Michiru","Hehe. Well, see you at school.");
 MsgClose();
 SEPlay("EV_SE_DOOR_022",0,0.5);
 SEWait();

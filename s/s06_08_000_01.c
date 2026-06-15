@@ -26,16 +26,14 @@ Eye candy▼");
     ChMotion(8,0);
     VoicePlay("S060800001_08_020");
     MsgDisp("Shirahane","You dressed up?");
-    MsgDisp("主人公","Yeah.
-...Do you like it?");
+    MsgDisp("主人公","Yeah. ...Do you like it?");
     ChEye(8,3);
     ChMouth(8,0);
     ChMotion(8,4,1);
     ChEyeOpenLevel(8,0);
     ChCheek(8,5);
     VoicePlay("S060800001_08_030");
-    MsgDisp("Shirahane","It suits you perfectly.
-Cute.");
+    MsgDisp("Shirahane","It suits you perfectly. Cute.");
     MsgDisp("主人公","Thank you!");
     ChEye(8,3);
     ChMouth(8,3);
@@ -69,8 +67,7 @@ clothes...");
     ChEyeOpenLevel(8,10);
     ChCheek(8,10);
     VoicePlay("S060800001_08_070");
-    MsgDisp("Shirahane","Huh?
-My mouth feels kinda loose now...");
+    MsgDisp("Shirahane","Huh? My mouth feels kinda loose now...");
     ChEye(8,4);
     ChMouth(8,3);
     ChMotion(8,2,1);

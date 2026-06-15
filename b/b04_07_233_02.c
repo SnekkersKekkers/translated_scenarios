@@ -43,8 +43,8 @@ Is that the other side?");
         ChMouth(7,0);
         ChMotion(7,5);
         VoicePlay("B040723302_07_030");
-        MsgDisp("Mikage","If that's what you really want to do, that's
-fine?");
+        MsgDisp("Mikage","If that's what you really want to do,
+that's fine?");
         MsgDisp("主人公","Umm, sorry.
 This is enough after all.");
         ChEye(7,2);
@@ -54,8 +54,7 @@ This is enough after all.");
         MsgDisp("Mikage","I see.
 But if you're serious, don't hold back.
 You always accompany me, after all.");
-        MsgDisp("主人公","Eh?
-That's not my intention.
+        MsgDisp("主人公","Eh? That's not my intention.
 I'm also having fun...");
         ChEye(7,0);
         ChMouth(7,0);
@@ -73,15 +72,14 @@ It's a win-win situation.");
         ChMouth(7,3);
         ChMotion(7,2);
         VoicePlay("B040723302_07_070");
-        MsgDisp("Mikage","Sigh, listen to me, talking all boring like
-that.");
+        MsgDisp("Mikage","Sigh, listen to me, talking all boring
+like that.");
         ChEye(7,0);
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040723302_07_080");
         MsgDisp("Mikage","As punishment, I'm jumping again.");
-        MsgDisp("主人公","Eh...
-Ehhh∋
+        MsgDisp("主人公","Eh... Ehhh∋
 ｛Mikage＊＊｝∋");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -76,9 +76,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G110700700_07_070");
-MsgDisp("Mikage","Hmm?
-No, this won't do. Vice Principal Himuro will
-give me a good scolding.");
+MsgDisp("Mikage","Hmm? No, this won't do.
+Vice Principal Himuro will give me a good
+scolding.");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();

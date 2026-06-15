@@ -24,8 +24,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
 VoicePlay("Q070D00000_22_020");
-MsgDisp("Hikaru","Yay▼
-Scooch together.");
+MsgDisp("Hikaru","Yay▼ Scooch together.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO",0,0.6);
 ChClose(21,0,30);
@@ -52,8 +51,7 @@ ChMouth(21,4);
 ChMotion(21,5);
 ChCheek(21,10);
 VoicePlay("Q070D00000_21_020");
-MsgDisp("Michiru","Oh no...
-Take it again, please!");
+MsgDisp("Michiru","Oh no... Take it again, please!");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

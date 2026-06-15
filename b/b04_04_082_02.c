@@ -5,8 +5,7 @@ ChMouth(4,5);
 ChMotion(4,5);
 ScrFadeIn(0);
 VoicePlay("B040408202_04_000");
-MsgDisp("Nanatsumori","Waah∋
-There's something flying this way∈");
+MsgDisp("Nanatsumori","Waah∋ There's something flying this way∈");
 MsgSel("It's a small cabbage butterfly.","Isn't it a grasshopper?","｛Nanatsumori＊｝, you're too surprised!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +26,7 @@ Bugs just pop out all of a sudden.");
     ChMouth(4,1);
     ChMotion(4,1,1);
     VoicePlay("B040408202_04_020");
-    MsgDisp("Nanatsumori","Eh∋
-It's not stuck to me, is it∋");
+    MsgDisp("Nanatsumori","Eh∋ It's not stuck to me, is it∋");
     MsgDateResultDisp();
     break ;
     case 2:
@@ -54,8 +52,7 @@ It's not stuck to me, is it∋");
         VoicePlay("B040408202_04_040");
         MsgDisp("Nanatsumori","It can't be helped.
 I'm not good with bugs.");
-        MsgDisp("主人公","I see.
-Why do you dislike bugs?");
+        MsgDisp("主人公","I see. Why do you dislike bugs?");
         ChEye(4,1);
         ChMouth(4,1);
         ChEyeOpenLevel(4,0);

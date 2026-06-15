@@ -12,8 +12,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("O030400001_04_000");
     MsgDisp("Nanatsumori","Well, guess that's it.");
-    MsgDisp("主人公","(Hm.
-We weren't really in sync...)");
+    MsgDisp("主人公","(Hm. We weren't really in sync...)");
     break ;
     case 3:
     MsgClose();
@@ -33,8 +32,7 @@ It was close.");
     MsgDisp("Nanatsumori","Really?
 I did try, but you can't count on me for
 exercise.");
-    MsgDisp("主人公","(Hm...
-We were so close, though...)");
+    MsgDisp("主人公","(Hm... We were so close, though...)");
     break ;
     case 4:
     case 5:
@@ -46,8 +44,7 @@ We were so close, though...)");
     VoicePlay("O030400001_04_030");
     MsgDisp("Nanatsumori","My bad.
 You got pulled by my leg...");
-    MsgDisp("主人公","No.
-It's because I couldn't match you...");
+    MsgDisp("主人公","No. It's because I couldn't match you...");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("O030400001_04_040");
@@ -68,8 +65,8 @@ Sorry.");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("O030400001_04_070");
-    MsgDisp("Nanatsumori","I'll become a man you can rely on in other
-areas.");
+    MsgDisp("Nanatsumori","I'll become a man you can rely on in
+other areas.");
     MsgDisp("主人公","(｛Nanatsumori＊｝...
 But, it really is a shame.)");
     break ;

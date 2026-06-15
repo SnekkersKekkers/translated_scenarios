@@ -82,15 +82,14 @@ since I was little.");
         ChMouth(5,3);
         ChMotion(5,3);
         VoicePlay("B040515102_05_080");
-        MsgDisp("Hiiragi","Hey.
-Did you make that face intentionally?");
+        MsgDisp("Hiiragi","Hey. Did you make that face intentionally?");
         MsgDisp("主人公","Hehe, I did.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040515102_05_090");
-        MsgDisp("Hiiragi","That's right, it's not a particularly sad
-story.
+        MsgDisp("Hiiragi","That's right, it's not a particularly
+sad story.
 I grew up being cared for by everyone.");
         ChEye(5,3);
         ChMouth(5,4);

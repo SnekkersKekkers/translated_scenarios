@@ -34,8 +34,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630200_06_020");
-MsgDisp("Himuro","Ah...yes.
-...Hi.");
+MsgDisp("Himuro","Ah...yes. ...Hi.");
 MsgDisp("主人公","Hehe, hi?");
 ChEye(32,2);
 ChMouth(32,2);
@@ -50,8 +49,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChPosition(6,0);
 VoicePlay("E010630200_06_030");
-MsgDisp("Himuro","Ah- ...
-He's gone.");
+MsgDisp("Himuro","Ah- ... He's gone.");
 MsgDisp("主人公","It's unusual to see Himuro-sensei shopping.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -63,8 +61,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("E010630200_06_050");
 MsgDisp("Himuro","You were giggling just now, weren't you?");
-MsgDisp("主人公","Huh?
-Was I really?");
+MsgDisp("主人公","Huh? Was I really?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -112,16 +109,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630200_06_110");
-MsgDisp("Himuro","Eh...
-I see.
+MsgDisp("Himuro","Eh... I see.
 Let's go.");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("E010630200_32_060");
 MsgDisp("VP Himuro","We'll be off now.
 Please take care on your way home.");
-MsgDisp("主人公","Okay!
-...See you soon, ｛Himuro＊＊｝?");
+MsgDisp("主人公","Okay! ...See you soon, ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

@@ -12,15 +12,14 @@ VoicePlay("P840100000_01_000");
 MsgDisp("Kazama","Just like an unsung hero.
 I thank you on behalf of all the students.");
 MsgDisp("主人公","You're welcome.
-Hehe, do you see me in a more positive light
-now?");
+Hehe, do you see me in a more positive
+light now?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("P840100000_01_010");
-MsgDisp("Kazama","Yeah.
-I have a better opinion of you now.");
+MsgDisp("Kazama","Yeah. I have a better opinion of you now.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -30,8 +29,7 @@ You haven't changed for a long time.
 You're seriously honest to a crappy extent.");
 MsgDisp("主人公","Hey, that's uncalled for.
 But, thank you!");
-MsgDisp("主人公","(Hehe.
-｛Kazama＊＊｝ praised me!)");
+MsgDisp("主人公","(Hehe. ｛Kazama＊＊｝ praised me!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

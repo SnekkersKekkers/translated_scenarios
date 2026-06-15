@@ -2,8 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yay—!
-It was a huge success∈)");
+MsgDisp("主人公","(Yay—! It was a huge success∈)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -51,8 +50,8 @@ ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("P740200004_02_050");
 MsgDisp("Sassa","...That's not it.
-Huu, there's no point in just looking at the
-dress.");
+Huu, there's no point in just looking at
+the dress.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

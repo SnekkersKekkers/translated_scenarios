@@ -13,8 +13,7 @@ ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("P840600002_06_010");
 MsgDisp("Himuro","You don't get mixed up?");
-MsgDisp("主人公","I don't.
-I secretly make a memo of it.");
+MsgDisp("主人公","I don't. I secretly make a memo of it.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

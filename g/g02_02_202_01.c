@@ -4,8 +4,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020220201_02_000");
 MsgDisp("Sassa","What even is Inori?");
-MsgDisp("主人公","Huh?
-Where'd this come from?");
+MsgDisp("主人公","Huh? Where'd this come from?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

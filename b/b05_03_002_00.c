@@ -21,8 +21,7 @@ Wait(20,0);
 SEPlay("EV_SE_575",0,0.9);
 SEWait();
 VoicePlay("B050300200_03_020");
-MsgDisp("Honda","—Okay.
-It's ready.
+MsgDisp("Honda","—Okay. It's ready.
 You can open your eyes now.");
 MsgDisp("主人公","...Okay.");
 MsgClose();
@@ -45,8 +44,8 @@ StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("B050300200_03_040");
 MsgDisp("Honda","It's simple to make one using some black
-construction paper, a flashlight, and coloured
-cellophane sheets.");
+construction paper, a flashlight, and
+coloured cellophane sheets.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("B050300200_03_050");
@@ -58,16 +57,16 @@ StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,0);
 VoicePlay("B050300200_03_060");
-MsgDisp("Honda","—Ahem.
-Please take a look. Can you spot those three
-stars sparkling in the night sky?");
+MsgDisp("Honda","—Ahem. Please take a look.
+Can you spot those three stars sparkling in
+the night sky?");
 MsgDisp("主人公","Hehe, it's like the real thing!");
 StlEye(3,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("B050300200_03_070");
-MsgDisp("Honda","Those three stars are located in the belt of
-Orion.");
+MsgDisp("Honda","Those three stars are located in the belt
+of Orion.");
 VoicePlay("B050300200_03_080");
 MsgDisp("Honda","They are your guiding stars when searching
 for Orion, the winter constellation.");

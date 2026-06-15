@@ -16,8 +16,7 @@ MsgDisp("Nanatsumori","Good work.");
 MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 It went well!");
 VoicePlay("P540400000_04_010");
-MsgDisp("Nanatsumori","I saw.
-Because I didn't get sleepy.");
+MsgDisp("Nanatsumori","I saw. Because I didn't get sleepy.");
 MsgDisp("主人公","Eh?");
 ChEye(4,2);
 ChMouth(4,3);
@@ -26,8 +25,7 @@ VoicePlay("P540400000_04_020");
 MsgDisp("Nanatsumori","Well, I get sleepy at classical music.
 But the performance just now was so moving
 that I got goosebumps.");
-MsgDisp("主人公","(Yay!
-Seems like I got some results!)");
+MsgDisp("主人公","(Yay! Seems like I got some results!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

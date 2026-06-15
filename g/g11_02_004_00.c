@@ -73,8 +73,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 MsgDisp("Sassa","This is easy.
 Shall we try running a little harder?");
-MsgDisp("主人公","Ehhh∋
-That's a little difficult...");
+MsgDisp("主人公","Ehhh∋ That's a little difficult...");
 VoicePlay("G110200400_02_070");
 ChEye(2,1);
 ChMouth(2,0);

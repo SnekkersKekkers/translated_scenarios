@@ -11,8 +11,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,30,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O040400002_04_000");
-    MsgDisp("Nanatsumori","A tie?
-So this can happen, too.");
+    MsgDisp("Nanatsumori","A tie? So this can happen, too.");
     MsgDisp("主人公","(A draw, huh...
 But we were so close...)");
     break ;

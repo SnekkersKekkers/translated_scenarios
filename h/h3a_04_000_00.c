@@ -9,8 +9,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("H3A0400000_04_000");
     MsgDisp("Nanatsumori","You were cool.");
-    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
-I won!");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝! I won!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -36,11 +35,10 @@ I won, me!");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("H3A0400000_04_030");
-    MsgDisp("Nanatsumori","I know.
-Well～... I guess if I ever make you angry,
-you'll throw me like that too...");
-    MsgDisp("主人公","Hm?
-I, I wouldn't do something like that.");
+    MsgDisp("Nanatsumori","I know. Well～...
+I guess if I ever make you angry, you'll
+throw me like that too...");
+    MsgDisp("主人公","Hm? I, I wouldn't do something like that.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);

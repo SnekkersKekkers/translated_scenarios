@@ -5,8 +5,7 @@ ChOpen(8,255,0,1,4,0,0,4,0);
 ScrFadeIn(0);
 VoicePlay("B150800500_08_000");
 MsgDisp("Shirahane","......");
-MsgDisp("主人公","Ah...
-I'm sorry.");
+MsgDisp("主人公","Ah... I'm sorry.");
 ChEye(8,0);
 ChMouth(8,4);
 VoicePlay("B150800500_08_010");

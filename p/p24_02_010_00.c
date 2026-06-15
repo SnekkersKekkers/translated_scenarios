@@ -36,8 +36,8 @@ Please return me to my world.");
 VoicePlay("P240201000_33_020");
 MsgDisp("Hades","I can't do that.");
 VoicePlay("P240201000_48_010");
-MsgDisp("Persephone","...Then I will cry, I will continue to await
-help.");
+MsgDisp("Persephone","...Then I will cry, I will continue to
+await help.");
 VoicePlay("P240201000_33_040");
 MsgDisp("Hades","...That will not come true.
 The gatekeeper of hell, Cerebus will not
@@ -51,9 +51,7 @@ MsgDisp("主人公","｛Sassa＊＊｝, what should we do?");
 VoicePlay("P240201000_02_020");
 MsgDisp("Sassa","Come on, give us a bark!");
 SEPlay("EV_SE_679",0,0.9);
-MsgDisp("","(Arf!
-Arf!
-Arf!)");
+MsgDisp("","(Arf! Arf! Arf!)");
 SEStop("EV_SE_GAYA_006",3);
 Wait(50,0);
 MsgDisp("主人公","Phew, what a relief...");
@@ -70,9 +68,7 @@ SEStop("EV_SE_FOOT_001",1.9);
 VoicePlay("P240201000_33_070");
 MsgDisp("Hades","Wait!");
 SEPlay("EV_SE_679",0,0.9);
-MsgDisp("","(Arf!
-Arf!
-Arf!)");
+MsgDisp("","(Arf! Arf! Arf!)");
 Wait(70,0);
 SEStop("EV_SE_679",0.2);
 MsgDisp("","　　　　　　　　　　 ・
@@ -99,9 +95,7 @@ SEPlay("EV_SE_681");
 Wait(100,0);
 SEStop("EV_SE_681",0.3);
 SEPlay("EV_SE_679");
-MsgDisp("","(Arf!
-Arf!
-Arf!)");
+MsgDisp("","(Arf! Arf! Arf!)");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,5);

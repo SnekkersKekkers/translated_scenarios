@@ -15,8 +15,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B030104000_01_010");
-MsgDisp("Kazama","I'm looking forward to hearing what you
-think.");
+MsgDisp("Kazama","I'm looking forward to hearing what
+you think.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

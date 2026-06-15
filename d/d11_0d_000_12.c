@@ -2,8 +2,7 @@ BGOpen("ex000",1);
 ChLayout(1);
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew.
-Today was another productive day!)");
+MsgDisp("主人公","(Phew. Today was another productive day!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
@@ -13,8 +12,7 @@ ChOpen(22,255,0,3,3,#1,#1,0,2);
 ChMotion(22,3,1);
 VoicePlay("D110D00000_22_000");
 MsgDisp("Hikaru","Mari～▼");
-MsgDisp("主人公","Eh∋
-Ah, ｛みちる＊｝, ｛ひかる＊｝!
+MsgDisp("主人公","Eh∋ Ah, ｛みちる＊｝, ｛ひかる＊｝!
 What's up?");
 ChMotion(22,4,1);
 VoicePlay("D110D00000_22_010");

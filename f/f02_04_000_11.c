@@ -11,8 +11,7 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400011_04_000");
-MsgDisp("Nanatsumori","Work, and...shopping.
-Sigh...");
+MsgDisp("Nanatsumori","Work, and...shopping. Sigh...");
 MsgDisp("主人公","What's with the sigh?");
 ChEye(4,2);
 ChMouth(4,4);
@@ -21,8 +20,7 @@ VoicePlay("F020400011_04_010");
 MsgDisp("Nanatsumori","I might have said this before, but I have to
 do spring clothes shoots in winter.
 I have to smile through the cold.");
-MsgDisp("主人公","I see.
-That's cool, though.
+MsgDisp("主人公","I see. That's cool, though.
 Even if it's a little cold.");
 ChEye(4,2);
 ChMouth(4,1);

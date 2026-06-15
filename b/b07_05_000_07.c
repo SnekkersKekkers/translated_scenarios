@@ -8,8 +8,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B070500000_05_300");
-MsgDisp("Hiiragi","School life at Haba High is what I dreamed
-of.");
+MsgDisp("Hiiragi","School life at Haba High is what I
+dreamed of.");
 MsgDisp("主人公","Eh, school life is your dream?");
 ChMotion(5,2);
 VoicePlay("B070500000_05_310");
@@ -34,8 +34,8 @@ it, which is troubling.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B070500000_05_340");
-MsgDisp("Hiiragi","It's a steep road, so getting there won't be
-simple.");
+MsgDisp("Hiiragi","It's a steep road, so getting there won't
+be simple.");
 MsgDisp("主人公","(As I thought, being a chairman is tough...)");
 BGMStop();
 MsgClose();

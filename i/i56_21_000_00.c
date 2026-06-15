@@ -17,8 +17,7 @@ VoicePlay("I562100000_21_010");
 MsgDisp("Michiru","If the container isn't sealed, the water will
 escape and it'll be stiff.
 Remember that.");
-MsgDisp("主人公","(Oh no.
-I need to learn how to store these
+MsgDisp("主人公","(Oh no. I need to learn how to store these
 properly...)");
 BGMStop();
 MsgClose();

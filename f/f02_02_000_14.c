@@ -17,8 +17,8 @@ ChMotion(2,0);
 VoicePlay("F020200014_02_010");
 MsgDisp("Sassa","I'll wear my uniform whenever you want.");
 MsgDisp("主人公","Haha, thanks.
-But don't wear your uniform after graduation,
-okay?");
+But don't wear your uniform after
+graduation, okay?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -33,8 +33,7 @@ ChMotion(2,4);
 VoicePlay("F020200014_02_030");
 MsgDisp("Sassa","I'm grateful for my classes, my club,
 hurdles...");
-MsgDisp("主人公","Yeah.
-...Oh, you forgot your teacher!");
+MsgDisp("主人公","Yeah. ...Oh, you forgot your teacher!");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -42,8 +41,8 @@ VoicePlay("F020200014_02_040");
 MsgDisp("Sassa","Haha, yikes. I forgot about Mikage-sensei.
 Maybe because he's overshadowed during track
 and field club?");
-MsgDisp("主人公","He's been my homeroom teacher for three
-years.");
+MsgDisp("主人公","He's been my homeroom teacher for
+three years.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

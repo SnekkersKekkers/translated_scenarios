@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,3);
     VoicePlay("B040306501_03_010");
-    MsgDisp("Honda","Eh—?
-What for?
+    MsgDisp("Honda","Eh—? What for?
 I wanted you to see it—.");
     MsgDateResultDisp();
     break ;
@@ -27,8 +26,7 @@ I wanted you to see it—.");
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("B040306501_03_020");
-    MsgDisp("Honda","Eh!
-Do you have an eidetic memory?
+    MsgDisp("Honda","Eh! Do you have an eidetic memory?
 Ah—, now I want to know more about you!");
     MsgDispSksp(1,6);
     MsgDateResultDisp();

@@ -1,8 +1,7 @@
 BGOpen("sc530",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-Over there...");
+MsgDisp("主人公","Huh? Over there...");
 MsgClose();
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,0);
@@ -13,8 +12,7 @@ VoicePlay("F110410001_47_000");
 MsgDisp("Woman B","He totally looks the part, though!
 Hey hey, can you take off your glasses?");
 VoicePlay("F110410001_04_000");
-MsgDisp("Nanatsumori","No.
-I can't do that.");
+MsgDisp("Nanatsumori","No. I can't do that.");
 VoicePlay("F110410001_47_010");
 MsgDisp("Woman B","Come on!
 I think you'd be totally handsome～!");
@@ -51,14 +49,12 @@ ChMotion(4,2,1);
 VoicePlay("F110410001_04_040");
 MsgDisp("Nanatsumori","I wonder what would've happened if you hadn't
 happened to pass by...");
-MsgDisp("主人公","Hehe.
-Glad I could help.");
+MsgDisp("主人公","Hehe. Glad I could help.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F110410001_04_050");
-MsgDisp("Nanatsumori","Here.
-Take a takoyaki.
+MsgDisp("Nanatsumori","Here. Take a takoyaki.
 My thanks for rescuing me.");
 MsgDisp("主人公","(Yay!
 Even though ｛Nanatsumori＊｝ is in a school

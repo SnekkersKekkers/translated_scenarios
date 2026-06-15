@@ -28,15 +28,14 @@ Just like last night's dream...
 How strange...)");
 Wait(30,1);
 EfctOpen(6);
-MsgDisp("主人公","(Whoa—!
-The sun's so bright!)");
+MsgDisp("主人公","(Whoa—! The sun's so bright!)");
 MsgClose();
 ScrFadeOut(0,1);
 EfctClose();
 Wait(40,1);
 VoicePlay("A020100000_01_000");
-MsgDisp("Kazama?","It's been forever and that's the face you're
-making?
+MsgDisp("Kazama?","It's been forever and that's the face
+you're making?
 Really?");
 StlOpen("ev_01_01");
 StlEye(1,0);
@@ -45,8 +44,8 @@ EfctOpen(6);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","∋
-Wait...
-No way... Ryo—!? ｛Kazama＊＊｝?");
+Wait... No way... Ryo—!?
+｛Kazama＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);
 Wait(30,1);
@@ -90,8 +89,7 @@ ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("A020100000_01_040");
-MsgDisp("Kazama","...Wait.
-You dream about me?");
+MsgDisp("Kazama","...Wait. You dream about me?");
 MsgDisp("主人公","Yes, just this morning!
 Strange, huh?");
 ChEye(1,4);
@@ -121,8 +119,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("A020100000_01_070");
-MsgDisp("Kazama","Yeah.
-...We should get going, though.
+MsgDisp("Kazama","Yeah. ...We should get going, though.
 This heartfelt reunion's gone on too long.");
 MsgDisp("主人公","Oh, true!
 Let's go!");
@@ -145,8 +142,7 @@ VoicePlay("A020100000_01_071");
 BGMVol(0.5,0.5);
 MsgDisp("Kazama","In first grade, we used to walk up this same
 street to get to school together, remember?");
-MsgDisp("主人公","Yeah...
-...Oh, that reminds me!");
+MsgDisp("主人公","Yeah... ...Oh, that reminds me!");
 NSSEye(1,3);
 NSSMouth(1,2);
 VoicePlay("A020100000_01_080");
@@ -162,16 +158,15 @@ Wait(20,0);
 NSSEye(1,0);
 NSSCheek(1,0);
 MsgDisp("主人公","Sorry about yesterday.
-You took the time to stop by but I wasn't
-home.");
+You took the time to stop by but I
+wasn't home.");
 NSSEye(1,4);
 NSSMouth(1,0);
 VoicePlay("A020100000_01_100");
 MsgDisp("Kazama","It's fine.
 My flight back home got delayed so I just
 kind of stopped by out of the blue.");
-MsgDisp("主人公","Eh∋
-So you really just got back yesterday?");
+MsgDisp("主人公","Eh∋ So you really just got back yesterday?");
 NSSEye(1,0);
 NSSMouth(1,3);
 VoicePlay("A020100000_01_110");
@@ -304,8 +299,8 @@ ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("A020100000_01_200");
 MsgDisp("Kazama","Don't go thinking something dumb like, \"I'm
-curious about that \"Young Master\" stuff\", got
-it?");
+curious about that \"Young Master\" stuff\",
+got it?");
 MsgDisp("主人公","∋
 (He read my mind...)");
 ChEye(1,3);

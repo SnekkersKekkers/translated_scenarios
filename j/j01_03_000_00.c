@@ -12,8 +12,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("主人公","Ah, ｛Honda＊＊｝?
 It's ｛主人公苗字｝.");
     VoicePlay("J010300000_03_010");
-    MsgDisp("Honda","Hmm?
-What's going on?");
+    MsgDisp("Honda","Hmm? What's going on?");
     MsgDisp("主人公","Uh, well...");
     break ;
     case 3:
@@ -23,8 +22,7 @@ What's going on?");
 It's ｛主人公苗字｝.
 Is now a good time to talk?");
     VoicePlay("J010300000_03_030");
-    MsgDisp("Honda","Sure!
-What's up?");
+    MsgDisp("Honda","Sure! What's up?");
     MsgDisp("主人公","Uh, you see...");
     break ;
     case 4:

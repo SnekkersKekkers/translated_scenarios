@@ -21,8 +21,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_300");
-MsgDisp("Kazama","Nanatsumori's sister cleans his room without
-asking.
+MsgDisp("Kazama","Nanatsumori's sister cleans his room
+without asking.
 He says it reminds him of you?");
 MsgDisp("主人公","What kind of image is that...");
 ChEye(1,0);

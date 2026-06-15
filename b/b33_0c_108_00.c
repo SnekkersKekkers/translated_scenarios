@@ -29,8 +29,8 @@ ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("B330C10800_06_000");
 MsgDisp("Himuro","That's close to how it is for me too.
-My face just naturally relaxes right before I
-jump.");
+My face just naturally relaxes right before
+I jump.");
 MsgDisp("主人公","You two are amazing...
 Isn't it scary?");
 ChEye(7,2);
@@ -74,8 +74,8 @@ ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("B330C10800_07_030");
 MsgDisp("Mikage","Never?
-Then, why is there such a big air cushion
-there?");
+Then, why is there such a big air
+cushion there?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -125,8 +125,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330C10800_06_060");
-MsgDisp("Himuro","Haha, that's right, just try not to miss the
-mark.");
+MsgDisp("Himuro","Haha, that's right, just try not to miss
+the mark.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

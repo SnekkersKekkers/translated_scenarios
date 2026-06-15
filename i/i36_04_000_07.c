@@ -31,15 +31,12 @@ on break...");
     ChNanaType(1);
     ChOpen(4,35,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("I360400007_04_000");
-    MsgDisp("Nanatsumori","Yo.
-Delivery from Alucard?");
-    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝!
-Yeah.
+    MsgDisp("Nanatsumori","Yo. Delivery from Alucard?");
+    MsgDisp("主人公","Ah, ｛Nanatsumori＊｝! Yeah.
 Is everyone on break?");
     ChMotion(4,1,1);
     VoicePlay("I360400007_04_010");
-    MsgDisp("Nanatsumori","Yeah.
-Everyone's kinda scattered around.");
+    MsgDisp("Nanatsumori","Yeah. Everyone's kinda scattered around.");
     MsgDisp("主人公","I see.
 Then I'll leave the food and drinks here.
 And...");
@@ -63,8 +60,8 @@ service we're getting?");
     ChMotion(4,2,1);
     VoicePlay("I360400007_04_040");
     MsgDisp("Nanatsumori","Nothing.
-Well, I'm gonna get fired up for my next
-shoot.");
+Well, I'm gonna get fired up for my
+next shoot.");
     MsgDisp("主人公","(I did it!
 He seemed really happy!)");
     break ;
@@ -147,8 +144,7 @@ I thought you'd be the most happy about this,
 ｛Nanatsumori＊｝...");
     ChEye(4,4);
     VoicePlay("I360400007_04_120");
-    MsgDisp("Nanatsumori","Huh∋
-I'm happy, you know?
+    MsgDisp("Nanatsumori","Huh∋ I'm happy, you know?
 Super happy∈");
     ChEye(4,2);
     ChMotion(4,2,1);

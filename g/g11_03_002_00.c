@@ -2,8 +2,8 @@ BGOpen("sc130",1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Alright, I'll do my best on the next test
-too! Maybe I'll buy a reference book and head
-home.)");
+too! Maybe I'll buy a reference book and
+head home.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -27,15 +27,15 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("G110300200_03_010");
-MsgDisp("Honda","Yep yep, are you here...to buy a reference
-book?");
+MsgDisp("Honda","Yep yep, are you here...to buy a
+reference book?");
 MsgDisp("主人公","Yeah, you guessed it.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("G110300200_03_020");
-MsgDisp("Honda","In that case, I have a recommendation for
-you.");
+MsgDisp("Honda","In that case, I have a recommendation
+for you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
 ScrFadeOut(0);

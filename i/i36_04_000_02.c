@@ -29,8 +29,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("I360400002_04_010");
     MsgDisp("Nanatsumori","Your nose.
 Something's on it.");
-    MsgDisp("主人公","Hm?
-Ah...it's some soil.");
+    MsgDisp("主人公","Hm? Ah...it's some soil.");
     ChEye(4,2);
     ChMouth(4,1);
     ChMotion(4,1,1);
@@ -72,8 +71,8 @@ I'm happy to be complimented!)");
     VoicePlay("I360400002_04_050");
     MsgDisp("Nanatsumori","Pft!");
     MsgDisp("主人公","Uh.
-Why did you start laughing after you saw my
-face?");
+Why did you start laughing after you saw
+my face?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);

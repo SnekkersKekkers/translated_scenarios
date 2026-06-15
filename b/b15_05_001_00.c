@@ -30,8 +30,8 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B150500100_05_040");
 MsgDisp("Hiiragi","Yes.
-A counterattack of this level is alright,
-right?");
+A counterattack of this level is
+alright, right?");
 MsgDisp("主人公","Phew...that surprised me.");
 ChEye(5,0);
 ChMouth(5,4);

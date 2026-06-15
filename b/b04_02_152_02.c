@@ -6,8 +6,7 @@ ChMouth(2,2);
 ChMotion(2,4);
 ScrFadeIn(0);
 VoicePlay("B040215202_02_000");
-MsgDisp("Sassa","Huh?
-What's up?
+MsgDisp("Sassa","Huh? What's up?
 You're way off today.");
 MsgSel("It's because ｛Sassa＊＊｝ is watching...","I'm the same as always!","I'll get serious from the next one!");
 switch (MsgSelRsltGet()){
@@ -17,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,5);
     VoicePlay("B040215202_02_010");
-    MsgDisp("Sassa","Eh?
-Of course I'm watching.");
+    MsgDisp("Sassa","Eh? Of course I'm watching.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -48,15 +46,13 @@ Try throwing, I'll watch from a distance.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
-        MsgDisp("主人公","Yeah.
-Then, here goes.");
+        MsgDisp("主人公","Yeah. Then, here goes.");
         SEWait();
         SEPlay("EV_SE_086");
         Wait(15,1);
         SEPlay("EV_SE_087");
         SEWait();
-        MsgDisp("主人公","Huh?
-Once more...");
+        MsgDisp("主人公","Huh? Once more...");
         SEPlay("EV_SE_086");
         Wait(15,1);
         SEPlay("EV_SE_087");
@@ -85,8 +81,7 @@ to the side.");
         SEPlay("EV_SE_869");
         SEPlay("EV_SE_061",0.5);
         SEWait();
-        MsgDisp("主人公","Yay!
-It went in, ｛Sassa＊＊｝!");
+        MsgDisp("主人公","Yay! It went in, ｛Sassa＊＊｝!");
         MsgClose();
         SEPlay("EV_SE_544",0,0.5);
         ChOpen(2,253,0,0,0,#1,#1,0,0);
@@ -96,8 +91,7 @@ It went in, ｛Sassa＊＊｝!");
         VoicePlay("B040215202_02_060");
         MsgDisp("Sassa","Yeah, yeah it was perfect.
 Alright, keep it up for the next one!");
-        MsgDisp("主人公","(Hehe.
-｛Sassa＊＊｝ taught me well)");
+        MsgDisp("主人公","(Hehe. ｛Sassa＊＊｝ taught me well)");
         break ;
         default :
         DbgAssert(1);

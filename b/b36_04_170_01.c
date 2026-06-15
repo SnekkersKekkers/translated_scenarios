@@ -38,8 +38,8 @@ ChMotion(4,1,1);
 VoicePlay("B360417001_04_040");
 MsgDisp("Nanatsumori","That's true.");
 MsgDisp("主人公","But, there are seats for four people.
-I wonder what the seating order would be
-like.");
+I wonder what the seating order would
+be like.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -56,8 +56,7 @@ ChMotion(4,0,1);
 VoicePlay("B360417001_04_070");
 MsgDisp("Nanatsumori","There's four seats, and also four people.
 Where and how would you want to sit?");
-MsgDisp("主人公","I...
-I...");
+MsgDisp("主人公","I... I...");
 ChMotion(4,1,1);
 VoicePlay("B360417001_04_080");
 MsgDisp("Nanatsumori","Hm?");

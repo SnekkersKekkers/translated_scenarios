@@ -10,16 +10,15 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D140A06102_01_000");
-MsgDisp("Kazama","Haha, Inori will probably be angry at us over
-this.");
+MsgDisp("Kazama","Haha, Inori will probably be angry at us
+over this.");
 MsgDisp("主人公","I don't think he'll get mad but...
 Maybe he'll say something biting?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D140A06102_01_010");
-MsgDisp("Kazama","Ehhh?
-Is that how he's like to you too?");
+MsgDisp("Kazama","Ehhh? Is that how he's like to you too?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -48,8 +47,8 @@ ChMotion(1,0,1);
 VoicePlay("D140A06102_01_030");
 MsgDisp("Kazama","Yeah, and he's grinning as well.
 I know what you mean.");
-MsgDisp("主人公","Maybe only like that when he's truly having
-fun.");
+MsgDisp("主人公","Maybe only like that when he's truly
+having fun.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -73,8 +72,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D140A06102_02_040");
-MsgDisp("Sassa","What?
-Ryota, are you admitting defeat?");
+MsgDisp("Sassa","What? Ryota, are you admitting defeat?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -90,8 +88,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A06102_02_060");
-MsgDisp("Sassa","We're saying stuff like this when Inori isn't
-around.
+MsgDisp("Sassa","We're saying stuff like this when Inori
+isn't around.
 We're some sneaky seniors.");
 ChEye(1,0);
 ChMouth(1,3);

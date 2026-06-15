@@ -60,8 +60,8 @@ ChEyeOpenLevel(5,9);
 VoicePlay("B330C30701_05_010");
 MsgDisp("Hiiragi","It steals food from the other monkeys.");
 MsgDisp("主人公","Yeah.
-It's big and strong, so everyone is scared of
-it.");
+It's big and strong, so everyone is scared
+of it.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -93,8 +93,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B330C30701_07_040");
-MsgDisp("Mikage","Our next extracurricular lesson will be at the zoo,
-observing the monkey mountain.");
+MsgDisp("Mikage","Our next extracurricular lesson will be at
+the zoo, observing the monkey mountain.");
 MsgDisp("主人公","(Hehe.
 I'm looking forward to ｛Mikage＊＊｝'s next
 extracurricular lesson.)");

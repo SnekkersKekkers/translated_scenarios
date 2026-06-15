@@ -20,8 +20,7 @@ wonder how the story will unfold.");
 ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("B330B10600_04_000");
-MsgDisp("Nanatsumori","Yeah.
-No matter how it goes.");
+MsgDisp("Nanatsumori","Yeah. No matter how it goes.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -120,8 +119,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B330B10600_01_050");
-MsgDisp("Kazama","Ha?
-What are you saying.");
+MsgDisp("Kazama","Ha? What are you saying.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

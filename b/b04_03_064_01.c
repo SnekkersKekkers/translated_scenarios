@@ -12,9 +12,9 @@ ChEye(3,5);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("B040306401_03_010");
-MsgDisp("Honda","Eh?
-Oh, so that's it—. Well, figuring that out
-is part of the game too—.");
+MsgDisp("Honda","Eh? Oh, so that's it—.
+Well, figuring that out is part of the
+game too—.");
 ChEye(3,3);
 ChEyeOpenLevel(3,0);
 MsgDisp("主人公","(Hehe, ｛Honda＊＊｝ seems to be having fun!)");

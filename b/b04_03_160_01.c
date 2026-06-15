@@ -5,9 +5,9 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040316001_03_000");
-MsgDisp("Honda","The skull bear in the crane game looks like
-it's in a position where I can grab it,
-right?");
+MsgDisp("Honda","The skull bear in the crane game looks
+like it's in a position where I can grab
+it, right?");
 MsgSel("I want the skull bear!","It's a bit oversized huh?","It always looks grabbable but never is.");
 switch (MsgSelRsltGet()){
     case 0:

@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040415202_04_010");
     MsgDisp("Nanatsumori","Alright.
-I'll definitely get that drink, so get ready,
-okay?");
+I'll definitely get that drink, so get
+ready, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -57,8 +57,7 @@ That face you made got me down in the dumps.");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040415202_04_040");
-        MsgDisp("Nanatsumori","OK.
-Then, let's go.");
+        MsgDisp("Nanatsumori","OK. Then, let's go.");
         SEPlay("EV_SE_086");
         Wait(15,1);
         SEPlay("EV_SE_869");
@@ -77,16 +76,14 @@ I got a double bullseye!");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040415202_04_060");
-        MsgDisp("Nanatsumori","Yay!
-Alright, high five!");
+        MsgDisp("Nanatsumori","Yay! Alright, high five!");
         SEPlay("EV_SE_553",0,0.6);
         SEWait();
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040415202_04_070");
-        MsgDisp("Nanatsumori","Ah—, this feels nice.
-So?
+        MsgDisp("Nanatsumori","Ah—, this feels nice. So?
 Have you decided on a prize for the wager?");
         MsgDisp("主人公","I'm still...");
         ChEye(4,4);
@@ -101,8 +98,8 @@ That's right—...");
         ChMouthOpenLevel(4,0);
         VoicePlay("B040415202_04_090");
         MsgDisp("Nanatsumori","......");
-        MsgDisp("主人公","It's surprisingly hard to think of something,
-right?");
+        MsgDisp("主人公","It's surprisingly hard to think of
+something, right?");
         ChEye(4,4);
         ChMouth(4,1);
         ChMotion(4,1,1);
@@ -129,8 +126,7 @@ If I told you this, I'd definitely regret it.");
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040415202_04_130");
-        MsgDisp("Nanatsumori","Sigh...
-I'm quite the lecher.");
+        MsgDisp("Nanatsumori","Sigh... I'm quite the lecher.");
         MsgDisp("主人公","(Lecher?)");
         break ;
         default :

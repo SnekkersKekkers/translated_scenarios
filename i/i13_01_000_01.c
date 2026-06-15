@@ -21,8 +21,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,35,0,3,2,#1,#1,0,0);
     ChMotion(1,3);
     VoicePlay("I130100001_01_000");
-    MsgDisp("Kazama","...Hm?
-What are you doing here?");
+    MsgDisp("Kazama","...Hm? What are you doing here?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝.
 I'll be working part-time here starting
 today. Let's work hard together.");
@@ -66,10 +65,8 @@ I'll train you perfectly, okay?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("I130100001_01_050");
-    MsgDisp("Kazama","No.
-Work is work.");
-    MsgDisp("主人公","(Ugh...
-｛Kazama＊＊｝ looks strict.
+    MsgDisp("Kazama","No. Work is work.");
+    MsgDisp("主人公","(Ugh... ｛Kazama＊＊｝ looks strict.
 But, let's do our best!)");
     MsgClose();
     break ;
@@ -108,10 +105,9 @@ Try saying it one more time.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I130100001_01_100");
-    MsgDisp("Kazama","Well, keep calling me that while we're in the
-store.");
-    MsgDisp("主人公","Um...
-Okay.");
+    MsgDisp("Kazama","Well, keep calling me that while we're in
+the store.");
+    MsgDisp("主人公","Um... Okay.");
     ChEye(1,0);
     ChMouth(1,0);
     ChMotion(1,0);

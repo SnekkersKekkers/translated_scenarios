@@ -1,8 +1,7 @@
 BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah...
-It's ｛Nanatsumori＊｝ and ｛Honda＊＊｝.");
+MsgDisp("主人公","Ah... It's ｛Nanatsumori＊｝ and ｛Honda＊＊｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);

@@ -22,8 +22,7 @@ ChMotion(3,1,1);
 VoicePlay("P240300000_03_010");
 MsgDisp("Honda","It'll be most difficult.
 However, that's what makes it fun.");
-MsgDisp("主人公","?
-But what about you if you fail?");
+MsgDisp("主人公","? But what about you if you fail?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -36,8 +35,8 @@ ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_030");
-MsgDisp("Honda","...Someone must carry out Nobunaga-sama's
-orders.");
+MsgDisp("Honda","...Someone must carry out
+Nobunaga-sama's orders.");
 MsgDisp("主人公","But, why must it be you who does it?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -53,8 +52,7 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 SEStop("EV_SE_GAYA_008",1);
 VoicePlay("P240300000_03_050");
-MsgDisp("Honda","...Ahem.
-You don't understand, Mitsu.");
+MsgDisp("Honda","...Ahem. You don't understand, Mitsu.");
 MsgDisp("主人公","I-I don't understand.
 Mitsu is terribly sorry, but she doesn't
 understand.");
@@ -93,8 +91,7 @@ StlMouth(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("P240300000_03_100");
 MsgDisp("Honda","No matter what form I take...");
-MsgDisp("主人公","Yes...
-Kanbei-sama...");
+MsgDisp("主人公","Yes... Kanbei-sama...");
 MsgClose();
 SEPlay("EV_SE_GAYA_021");
 SEPlay("EV_SE_CLAP_002");
@@ -143,8 +140,8 @@ MsgDisp("Honda","That's right, let's continue with the two of
 us! Our own school play!
 Ah, should we borrow these costumes too?");
 MsgDisp("主人公","(Hehe, that seems kind of fun?
-Seems like the play was a success, that's
-good!)");
+Seems like the play was a success,
+that's good!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

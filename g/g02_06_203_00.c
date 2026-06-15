@@ -37,8 +37,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620300_06_050");
-MsgDisp("Himuro","In the first place, personal values are not
-common.
+MsgDisp("Himuro","In the first place, personal values are
+not common.
 Being with others just makes me tired.");
 ChEye(6,0);
 ChMouth(6,0);

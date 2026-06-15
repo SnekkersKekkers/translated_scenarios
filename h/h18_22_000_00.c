@@ -20,14 +20,13 @@ Thank you!");
     VoicePlay("H182200000_22_010");
     MsgDisp("Hikaru","It's amazing.
 You guys made it all the way to Koshien!");
-    MsgDisp("主人公","Yeah, it's thanks to everyone doing their
-best.");
+    MsgDisp("主人公","Yeah, it's thanks to everyone doing
+their best.");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H182200000_22_020");
-    MsgDisp("Hikaru","Yeah!
-Aim for victory～!
+    MsgDisp("Hikaru","Yeah! Aim for victory～!
 Right?");
     MsgDisp("主人公","(Victory...
 Alright, let's do our best!)");
@@ -46,8 +45,7 @@ Alright, let's do our best!)");
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H182200000_22_030");
-    MsgDisp("Hikaru","Mari!
-Hikaru came to cheer you on～▼");
+    MsgDisp("Hikaru","Mari! Hikaru came to cheer you on～▼");
     MsgDisp("主人公","Ah, ｛ひかる＊｝.
 Thanks!");
     ChEye(22,0);

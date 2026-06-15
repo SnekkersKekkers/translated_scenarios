@@ -10,11 +10,9 @@ ChEye(2,5);
 ChMouth(2,4);
 ChMotion(2,5);
 VoicePlay("B070200000_02_440");
-MsgDisp("Sassa","Eh?
-What are you saying?
+MsgDisp("Sassa","Eh? What are you saying?
 What do you mean?");
-MsgDisp("主人公","Uhm...
-I wonder.");
+MsgDisp("主人公","Uhm... I wonder.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
@@ -39,8 +37,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B070200000_02_480");
 MsgDisp("Sassa","Probably the only person who can easily
-answer something like that is Mikage-sensei,
-huh?");
+answer something like that is
+Mikage-sensei, huh?");
 MsgDisp("主人公","Hehe.");
 ChEye(2,3);
 ChMouth(2,4);

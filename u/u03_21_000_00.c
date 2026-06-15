@@ -48,8 +48,7 @@ Understood.");
     VoicePlay("U032100000_21_050");
     MsgDisp("Michiru","Well then, it's about time to leave.
 See you at school.");
-    MsgDisp("主人公","Okay.
-See you later, ｛みちる＊｝.");
+    MsgDisp("主人公","Okay. See you later, ｛みちる＊｝.");
     break ;
     default :
     DbgAssert(0);

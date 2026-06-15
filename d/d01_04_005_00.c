@@ -70,8 +70,7 @@ Even if I put my mind to it—");
 SEVol(0.7);
 SEPlay("EV_SE_GAYA_016",0,0.3);
 SEPlay("EV_SE_864",0,0.8);
-MsgDisp("主人公","(Hehe!
-Everyone is excited about \"NANA\")");
+MsgDisp("主人公","(Hehe! Everyone is excited about \"NANA\")");
 VoicePlay("D010400500_39_120");
 MsgDisp("Student C","Hey, Nanatsumori.");
 StlEye(4,1);
@@ -93,8 +92,7 @@ He could really transform with a little work!");
 StlEye(4,0);
 StlMouth(4,2);
 VoicePlay("D010400500_04_030");
-MsgDisp("Nanatsumori","No, no.
-Someone like me, no way...");
+MsgDisp("Nanatsumori","No, no. Someone like me, no way...");
 MsgDisp("主人公","(Hehe!)");
 MsgClose();
 ScrFadeOut(0);
@@ -134,10 +132,9 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D010400500_04_070");
 MsgDisp("Nanatsumori","Right.
-Just one of the few things I enjoy about this
-place.");
-MsgDisp("主人公","(Hehe.
-｛Nanatsumori＊｝, I'm happy for you!)");
+Just one of the few things I enjoy about
+this place.");
+MsgDisp("主人公","(Hehe. ｛Nanatsumori＊｝, I'm happy for you!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

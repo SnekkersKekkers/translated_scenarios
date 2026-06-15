@@ -5,8 +5,7 @@ SEPlay("EV_SE_049");
 SEPlay("EV_SE_006",0,0.4);
 SEWait();
 VoicePlay("M010200000_02_000");
-MsgDisp("Sassa?","Ow, ow...
-S-Sorry.
+MsgDisp("Sassa?","Ow, ow... S-Sorry.
 Ah, no, it's fine.");
 MsgDisp("主人公","Ehh∋ this voice is...");
 SEPlay("EV_SE_DOOR_024");
@@ -23,8 +22,7 @@ MsgClose();
 BGMPlay("BGM_C02_SASSA_A");
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("M010200000_02_020");
-MsgDisp("Sassa","Excuse me...
-And?
+MsgDisp("Sassa","Excuse me... And?
 How you holding up?");
 MsgDisp("主人公","｛Sassa＊＊｝, are YOU okay?
 Did you run into something?");
@@ -98,5 +96,5 @@ SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
 SEWait();
 MsgDisp("主人公","(｛Sassa＊＊｝ made me feel better.
-Alright, time to sleep more and heal up
-quick!)");
+Alright, time to sleep more and heal
+up quick!)");

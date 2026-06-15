@@ -7,8 +7,7 @@ ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 ChEyeOpenLevel(4,#1);
 VoicePlay("B030406001_04_000");
-MsgDisp("Nanatsumori","So.
-What should we do?");
+MsgDisp("Nanatsumori","So. What should we do?");
 MsgSel("Let's go to the beach!","Shall we check out the Blue Grotto?");
 switch (MsgSelRsltGet()){
     case 0:

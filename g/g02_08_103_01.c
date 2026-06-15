@@ -4,8 +4,7 @@ ChMouth(8,4);
 ChMotion(8,0);
 ChCheek(8,5);
 VoicePlay("G020810301_08_000");
-MsgDisp("Shirahane","Ahh...
-I wonder why it's so pretty.");
+MsgDisp("Shirahane","Ahh... I wonder why it's so pretty.");
 MsgDisp("主人公","Hehe.");
 ChEye(8,3);
 ChMouth(8,4);
@@ -38,7 +37,8 @@ ChMouth(8,4);
 ChMotion(8,4,1);
 ChCheek(8,10);
 VoicePlay("G020810301_08_050");
-MsgDisp("Shirahane","Ya say somethin' like that an' I get real self-conscious, y'know...");
+MsgDisp("Shirahane","Ya say somethin' like that an' I get real
+self-conscious, y'know...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);

@@ -9,8 +9,7 @@ switch (ChPrmGet(22,6)){
     ChOpen(22,254,0,2,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A2200001_22_000");
-    MsgDisp("Hikaru","Hm.
-It's too bad.");
+    MsgDisp("Hikaru","Hm. It's too bad.");
     MsgDisp("主人公","Yeah, it's frustrating...");
     ChEye(22,0);
     ChMouth(22,3);
@@ -28,8 +27,7 @@ stayed as the baseball club manager.)");
     ChOpen(22,254,0,2,2,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("H1A2200001_22_020");
-    MsgDisp("Hikaru","Mari...
-Cheer up?");
+    MsgDisp("Hikaru","Mari... Cheer up?");
     MsgDisp("主人公","We lost...");
     ChEye(22,2);
     ChMouth(22,1);
@@ -43,8 +41,8 @@ You guys were so cool!");
     ChMotion(22,0,1);
     VoicePlay("H1A2200001_22_040");
     MsgDisp("Hikaru","Making it all the way here is amazing.
-Hikaru's as happy as if it was happening to
-me.");
+Hikaru's as happy as if it was happening
+to me.");
     ChEye(22,3);
     ChMouth(22,0);
     ChEyeOpenLevel(22,0);

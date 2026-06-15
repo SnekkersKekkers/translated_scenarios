@@ -18,17 +18,17 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("P140300001_03_020");
-MsgDisp("Honda","Ehh∋
-I was just walking normally? Then, did I pass
-by the trick you came up with?");
+MsgDisp("Honda","Ehh∋ I was just walking normally?
+Then, did I pass by the trick you came
+up with?");
 MsgDisp("主人公","I-I see...");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("P140300001_03_030");
-MsgDisp("Honda","Ah—
-Sorry! I'll do it again, next time, I'll get
-lost properly.");
+MsgDisp("Honda","Ah— Sorry!
+I'll do it again, next time, I'll get lost
+properly.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(3);
 MsgDisp("主人公","(Ugh...\" get lost properly\"...

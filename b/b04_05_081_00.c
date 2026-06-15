@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,3);
     VoicePlay("B040508100_05_010");
     MsgDisp("Hiiragi","Thank you.
-That's the greatest reward an actor could ask
-for.");
+That's the greatest reward an actor could
+ask for.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

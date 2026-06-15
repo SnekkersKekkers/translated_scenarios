@@ -87,8 +87,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600804_06_100");
-MsgDisp("Himuro","?
-What did you think I meant?");
+MsgDisp("Himuro","? What did you think I meant?");
 MsgDisp("主人公","No, it's nothing!");
 MsgDisp("主人公","(Ahh, my heart is fluttering...!)");
 BGMStop();

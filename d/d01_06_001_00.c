@@ -33,8 +33,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600100_06_010");
-MsgDisp("Himuro","Yeah.
-...Alright, looks like it's done.");
+MsgDisp("Himuro","Yeah. ...Alright, looks like it's done.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
@@ -50,8 +49,8 @@ StlEye(6,0);
 StlMouth(6,0);
 EfctOpen(14);
 ScrFadeIn(0);
-MsgDisp("主人公","...Hey, is that maybe all you're having for
-lunch?");
+MsgDisp("主人公","...Hey, is that maybe all you're having
+for lunch?");
 StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
@@ -64,8 +63,8 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("D010600100_06_040");
 MsgDisp("Himuro","Did you expect me to eat some healthy,
-nutritionally balanced meal like a good honour
-student?");
+nutritionally balanced meal like a good
+honour student?");
 MsgDisp("主人公","I did.");
 StlEye(6,0,0);
 StlMouth(6,0);

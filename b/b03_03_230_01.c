@@ -116,8 +116,8 @@ Now we can figure out how fear works!");
     ScrFadeIn(0);
     VoicePlay("B030323001_03_100");
     MsgDisp("Honda","Well, let's go.
-You can tell me what the scariest part was
-later.");
+You can tell me what the scariest part
+was later.");
     break ;
     default :
     DbgAssert(0);

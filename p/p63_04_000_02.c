@@ -37,11 +37,10 @@ The Gardening Club evolve each year, huh...");
     MsgDisp("主人公","If you'd like, how about I recommend
 something on the menu to you?");
     VoicePlay("P630400002_04_030");
-    MsgDisp("Nanatsumori","Yeah.
-Then, I guess I'll stop by.");
+    MsgDisp("Nanatsumori","Yeah. Then, I guess I'll stop by.");
     MsgDisp("主人公","Certainly.
-Then an organically grown salad and herbal tea
-please!");
+Then an organically grown salad and herbal
+tea please!");
     break ;
     case 4:
     case 5:
@@ -63,8 +62,8 @@ Welcome.");
     MsgDisp("Nanatsumori","It's stylish.
 Is this really the Gardening Club?");
     MsgDisp("主人公","Hehe.
-This year we tried our hand at an organic
-cafe!");
+This year we tried our hand at an
+organic cafe!");
     ChEye(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400002_04_060");
@@ -85,8 +84,8 @@ your body▼");
     VoicePlay("P630400002_04_080");
     MsgDisp("Nanatsumori","I'd like recommendations.");
     MsgDisp("主人公","Thank you very much!
-An organically grown salad and herbal tea
-please!");
+An organically grown salad and herbal
+tea please!");
     break ;
     default :
     DbgAssert(1);

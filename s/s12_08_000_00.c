@@ -15,8 +15,7 @@ switch (ChPrmGet(8,6)){
     ChMotion(8,0,1);
     VoicePlay("S120800000_08_000");
     MsgDisp("Shirahane","I guess it's around that time.");
-    MsgDisp("主人公","Yeah.
-Thanks for coming with me today.");
+    MsgDisp("主人公","Yeah. Thanks for coming with me today.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
@@ -33,8 +32,7 @@ See you later!");
     ChMouth(8,3);
     ChMotion(8,0);
     VoicePlay("S120800000_08_020");
-    MsgDisp("Shirahane","Ahh...
-This really is good.");
+    MsgDisp("Shirahane","Ahh... This really is good.");
     MsgDisp("主人公","That Amazake was delicious!");
     ChEye(8,3);
     ChMouth(8,3);
@@ -50,21 +48,18 @@ It makes you feel all warm and fuzzy inside.");
     ChMouth(8,3);
     ChMotion(8,0);
     VoicePlay("S120800000_08_040");
-    MsgDisp("Shirahane","Ahh...
-What a good start to the year.");
-    MsgDisp("主人公","Yeah!
-It was fun!");
+    MsgDisp("Shirahane","Ahh... What a good start to the year.");
+    MsgDisp("主人公","Yeah! It was fun!");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("S120800000_08_050");
-    MsgDisp("Shirahane","Haha.
-If you're happy, then I'm happy too.");
+    MsgDisp("Shirahane","Haha. If you're happy, then I'm happy too.");
     MsgDisp("主人公","Hehe.");
     ChMotion(8,0,1);
     VoicePlay("S120800000_08_060");
-    MsgDisp("Shirahane","Well I'm in a good mood so, let me walk you
-home.");
+    MsgDisp("Shirahane","Well I'm in a good mood so, let me walk
+you home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     break ;
     default :

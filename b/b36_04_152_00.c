@@ -10,8 +10,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360415200_04_000");
-MsgDisp("Nanatsumori","...Well.
-Let's have a little contest.");
+MsgDisp("Nanatsumori","...Well. Let's have a little contest.");
 MsgDisp("主人公","Yeah, sure.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -24,8 +23,7 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B360415200_04_020");
-MsgDisp("Nanatsumori","No.
-Not like that...");
+MsgDisp("Nanatsumori","No. Not like that...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -41,8 +39,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("B360415200_04_050");
-MsgDisp("Nanatsumori","Ah...
-That's right, sorry.
+MsgDisp("Nanatsumori","Ah... That's right, sorry.
 That only benefits me.");
 MsgDisp("主人公","Hey.");
 ChEye(4,2);
@@ -56,9 +53,9 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
 VoicePlay("B360415200_04_070");
-MsgDisp("Nanatsumori","...and.
-That was close! I was about to blurt out
-something really cheap∋");
+MsgDisp("Nanatsumori","...and. That was close!
+I was about to blurt out something
+really cheap∋");
 MsgDisp("主人公","｛Nanatsumori＊｝?");
 ChEye(4,1);
 ChMouth(4,1);

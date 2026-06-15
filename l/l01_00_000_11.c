@@ -26,8 +26,7 @@ switch (MsgSelRsltGet()){
     ChOpen(22,255,0,0,3,#1,#1,0,2,0,30);
     ChMotion(22,4,1);
     VoicePlay("L010000011_22_000");
-    MsgDisp("Hikaru","Bonjour～
-Mari▼");
+    MsgDisp("Hikaru","Bonjour～ Mari▼");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,3);

@@ -56,8 +56,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B360623600_06_060");
-MsgDisp("Himuro","Yeah.
-You looked so happy.
+MsgDisp("Himuro","Yeah. You looked so happy.
 It's the face I always wanted to see.");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,0);
@@ -71,8 +70,7 @@ ChMouth(6,3);
 ChMotion(6,3);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360623600_06_080");
-MsgDisp("Himuro","Sigh...
-I'm definitely one of those men too.");
+MsgDisp("Himuro","Sigh... I'm definitely one of those men too.");
 MsgDisp("主人公","(｛Himuro＊＊｝, looks a little happy?)");
 BGMStop();
 MsgClose();

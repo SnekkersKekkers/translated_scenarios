@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Sassa＊＊｝, which kind of shows do you
-watch?");
+MsgDisp("主人公","｛Sassa＊＊｝, which kind of shows do
+you watch?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -20,8 +20,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200000_02_030");
 MsgDisp("Sassa","Ah, saunas too.
-We alternate between the outdoor baths and
-those.");
+We alternate between the outdoor baths
+and those.");
 MsgDisp("主人公","Hehe, ｛Sassa＊＊｝ likes hot springs.");
 ChEye(2,0);
 ChMouth(2,4);

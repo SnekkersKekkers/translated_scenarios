@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040324101_03_010");
-    MsgDisp("Honda","Yep yep, I want to drink freshly-squeezed
-milk!");
+    MsgDisp("Honda","Yep yep, I want to drink
+freshly-squeezed milk!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -77,8 +77,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P240D01000_21_030");
-MsgDisp("Michiru","But I'll continue to look after Mari's love,
-okay?");
+MsgDisp("Michiru","But I'll continue to look after Mari's
+love, okay?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);

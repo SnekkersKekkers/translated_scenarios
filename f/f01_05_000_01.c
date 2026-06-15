@@ -15,8 +15,8 @@ Goodbye.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call him
-that.)");
+He doesn't seem to like it when I call
+him that.)");
     break ;
     case 3:
     MsgDisp("主人公","｛Hiiragi＊＊＊｝.");
@@ -36,8 +36,8 @@ There's a natural order to some things.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call him
-that.)");
+He doesn't seem to like it when I call
+him that.)");
     break ;
     case 4:
     case 5:
@@ -47,8 +47,7 @@ that.)");
     ChOpen(5,254,4,2,4,#1,#1,0,0);
     VoicePlay("F010500001_05_030");
     MsgDisp("Hiiragi","Are you referring to me?");
-    MsgDisp("主人公","Yes.
-Sorry, do you dislike it?");
+    MsgDisp("主人公","Yes. Sorry, do you dislike it?");
     ChEye(5,4);
     ChMouth(5,0);
     ChMotion(5,2);
@@ -57,16 +56,16 @@ Sorry, do you dislike it?");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("F010500001_05_050");
-    MsgDisp("Hiiragi","If I overlook this, you might try to keep
-going.
+    MsgDisp("Hiiragi","If I overlook this, you might try to
+keep going.
 I need to stop it here.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(He left...
-He doesn't seem to like it when I call him
-that.)");
+He doesn't seem to like it when I call
+him that.)");
     break ;
     default :
     DbgAssert(1);

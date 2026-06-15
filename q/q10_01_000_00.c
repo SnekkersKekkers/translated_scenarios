@@ -10,8 +10,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","They're round glasses.");
 VoicePlay("Q100100000_01_000");
 MsgDisp("Kazama","Well, it is an archway.");
-MsgDisp("主人公","I see.
-Speaking of glasses at Haba High...");
+MsgDisp("主人公","I see. Speaking of glasses at Haba High...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -60,16 +59,16 @@ ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("Q100100000_01_050");
 MsgDisp("Kazama","Huh...
-There sure are a lot of stylish shops around
-here.");
-MsgDisp("主人公","If ｛Kazama＊＊｝ says it, it must really be
-true!");
+There sure are a lot of stylish shops
+around here.");
+MsgDisp("主人公","If ｛Kazama＊＊｝ says it, it must really
+be true!");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q100100000_01_060");
-MsgDisp("Kazama","The decision is still up to us in the end,
-though.");
+MsgDisp("Kazama","The decision is still up to us in the
+end, though.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -85,8 +84,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("Q100100000_01_080");
 MsgDisp("Kazama","But before that.
 ...Do you smell something freshly baked?");
-MsgDisp("主人公","I do...!
-Castella comes first, right?");
+MsgDisp("主人公","I do...! Castella comes first, right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

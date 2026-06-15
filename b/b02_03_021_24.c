@@ -10,5 +10,5 @@ VoicePlay("B020302124_03_010");
 MsgDisp("Honda","No, I'm trying to figure out how you pull off
 such a high-class combination.");
 MsgDisp("主人公","(Oh, good!
-｛Honda＊＊｝ seems to like clothes like this,
-too.)");
+｛Honda＊＊｝ seems to like clothes like
+this, too.)");

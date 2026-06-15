@@ -3,8 +3,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F102220000_31_000");
 MsgDisp("Goro?","It's about time to head home now.");
-MsgDisp("主人公","(Eh?
-That voice...)");
+MsgDisp("主人公","(Eh? That voice...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(22,254,0,0,0,#1,#1,0,1,0,30);
@@ -21,8 +20,7 @@ ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,3);
 VoicePlay("F102220000_31_010");
-MsgDisp("Goro","Mari?
-Ohh, so you're Mari...
+MsgDisp("Goro","Mari? Ohh, so you're Mari...
 She's cute.");
 ChEye(22,3);
 ChMouth(22,3);
@@ -52,8 +50,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("F102220000_22_020");
-MsgDisp("Hikaru","Huh?
-He sometimes sneaks in though.
+MsgDisp("Hikaru","Huh? He sometimes sneaks in though.
 Have you never seen him, Mari?");
 ChEye(22,0);
 ChMouth(22,0);
@@ -63,8 +60,8 @@ MsgDisp("Hikaru","Well, he is a Habataki Alumnus.
 So maybe that makes him an authorised
 person～?");
 MsgDisp("主人公","((I heard that Goro-sensei knows the Haba
-High School principal... maybe he came to see
-him?))");
+High School principal... maybe he came to
+see him?))");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

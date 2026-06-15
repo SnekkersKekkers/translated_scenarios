@@ -11,8 +11,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_010");
 MsgDisp("Himuro","Could you not be so obvious about it?");
-MsgDisp("主人公","Huh?
-About what?");
+MsgDisp("主人公","Huh? About what?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -71,8 +70,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_100");
-MsgDisp("Himuro","Anyway, just be more aware of how you act in
-public.");
+MsgDisp("Himuro","Anyway, just be more aware of how you act
+in public.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

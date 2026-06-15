@@ -10,8 +10,7 @@ VoicePlay("D020800300_08_000");
 MsgDisp("Shirahane","Thanks a bunch...
 No, I mean, thank you very much!");
 SEStop("EV_SE_589",1);
-MsgDisp("主人公","Thank you very much!
-...Hehe!");
+MsgDisp("主人公","Thank you very much! ...Hehe!");
 ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,4,1);
@@ -57,17 +56,16 @@ VoicePlay("D020800300_08_060");
 MsgDisp("Shirahane","｛主人公｝ is smilin' brightly today too!
 I won't lose to you!");
 ChEyeOpenLevel(8,#1);
-MsgDisp("主人公","Haha!
-That doesn't sound like you! ...I mean, your
-smile is way brighter than mine.");
+MsgDisp("主人公","Haha! That doesn't sound like you!
+...I mean, your smile is way brighter
+than mine.");
 ChEye(8,3);
 ChMouth(8,4);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
 ChCheek(8,5);
 VoicePlay("D020800300_08_070");
-MsgDisp("Shirahane","Hehe...
-Really?");
+MsgDisp("Shirahane","Hehe... Really?");
 MsgDisp("主人公","(Hehe!
 I bet ｛Daichi＊＊｝'s siblings also shine
 brightly.)");

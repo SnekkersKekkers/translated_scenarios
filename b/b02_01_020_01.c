@@ -18,8 +18,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B020102001_01_020");
-MsgDisp("Kazama","Are you really just enjoying my reaction
-here?");
+MsgDisp("Kazama","Are you really just enjoying my
+reaction here?");
 MsgDisp("主人公","No, that's not the case at all.");
 ChEye(1,0);
 ChMouth(1,3);

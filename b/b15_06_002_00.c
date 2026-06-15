@@ -39,8 +39,7 @@ VoicePlay("B150600200_06_050");
 MsgDisp("Himuro","What's with that surprised face?
 Could it be, you were touching me like you
 would another girl?");
-MsgDisp("主人公","N-No!
-I clearly know that you're a guy?");
+MsgDisp("主人公","N-No! I clearly know that you're a guy?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

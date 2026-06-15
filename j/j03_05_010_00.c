@@ -17,8 +17,7 @@ I'm available that day.");
 Then, on ｛日付｝ I'll be waiting for
 you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030501000_05_010");
-    MsgDisp("Hiiragi","Yes.
-Well then.");
+    MsgDisp("Hiiragi","Yes. Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray!

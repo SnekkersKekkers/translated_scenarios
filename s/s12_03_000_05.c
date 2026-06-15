@@ -94,9 +94,9 @@ All the things I have to do.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("S120300005_03_090");
-    MsgDisp("Honda","Yeah.
-I can see my destination. Even if I don't
-know if I can get there just yet.");
+    MsgDisp("Honda","Yeah. I can see my destination.
+Even if I don't know if I can get there
+just yet.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1,1);

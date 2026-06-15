@@ -47,8 +47,7 @@ So I was thinking...");
     ChMotion(4,1,1);
     VoicePlay("Q040400000_04_040");
     MsgDisp("Nanatsumori","...You're getting my hopes up.");
-    MsgDisp("主人公","Hehe!
-Wanna come with me this free period?");
+    MsgDisp("主人公","Hehe! Wanna come with me this free period?");
     break ;
     default :
     DbgAssert(1);

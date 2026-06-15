@@ -30,8 +30,7 @@ cage myself.");
     ChMouth(3,3);
     ChMotion(3,0);
     VoicePlay("B040321100_03_020");
-    MsgDisp("Honda","Okay.
-Ah, let's take a video too.");
+    MsgDisp("Honda","Okay. Ah, let's take a video too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +41,7 @@ Ah, let's take a video too.");
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040321100_03_030");
-    MsgDisp("Honda","Eh?
-There's nothing here I don't want to see.
+    MsgDisp("Honda","Eh? There's nothing here I don't want to see.
 Same for you, right?");
     MsgDateResultDisp();
     break ;

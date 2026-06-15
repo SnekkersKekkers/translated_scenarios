@@ -11,5 +11,4 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("J140400002_04_000");
-MsgDisp("Nanatsumori","Yeah.
-You better be there.");
+MsgDisp("Nanatsumori","Yeah. You better be there.");

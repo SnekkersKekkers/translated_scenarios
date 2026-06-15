@@ -26,8 +26,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("B350100000_01_030");
-MsgDisp("Kazama","After this, won't you keep me company a bit
-longer?");
+MsgDisp("Kazama","After this, won't you keep me company a
+bit longer?");
 MsgSel("Yeah, of course!","I have something else to do...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -36,8 +36,7 @@ switch (MsgSelRsltGet()){
     ChMotion(1,3);
     VoicePlay("B350100000_01_040");
     MsgDisp("Kazama","That's right.");
-    MsgDisp("主人公","Hehe.
-What should we do now?");
+    MsgDisp("主人公","Hehe. What should we do now?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

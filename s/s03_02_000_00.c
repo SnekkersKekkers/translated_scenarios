@@ -11,8 +11,7 @@ switch (ChPrmGet(2,6)){
     MsgDisp("Sassa","Happy New Year!
 Treat me well this year.");
     VoicePlay("S030200000_02_020");
-    MsgDisp("Sassa","So?
-What's up?");
+    MsgDisp("Sassa","So? What's up?");
     MsgDisp("主人公","Would you like to visit the shrine with me?");
     break ;
     case 3:

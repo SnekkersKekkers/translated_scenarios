@@ -30,8 +30,7 @@ MsgClose();
 ChOpen(2,254,0,0,4,#1,#1,0,0);
 VoicePlay("F100210000_02_010");
 MsgDisp("Sassa","Yo, are you borrowing a book too?");
-MsgDisp("主人公","Yeah.
-...You too, ｛Sassa＊＊｝?");
+MsgDisp("主人公","Yeah. ...You too, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);

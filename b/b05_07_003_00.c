@@ -3,8 +3,7 @@ BGOpen("tr400",0);
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050700300_44_000");
-MsgDisp("Boy","Dad!
-Quickly, quickly!");
+MsgDisp("Boy","Dad! Quickly, quickly!");
 VoicePlay("B050700300_40_010");
 MsgDisp("Dad","Don't pull like that.");
 ChEye(7,0);
@@ -32,15 +31,14 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B050700300_07_030");
 MsgDisp("Mikage","Well yeah.
-This is a place that's been far removed from
-me.");
+This is a place that's been far removed
+from me.");
 MsgDisp("主人公","Is that right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B050700300_07_040");
-MsgDisp("Mikage","Yeah.
-Let's chat once we get inside.
+MsgDisp("Mikage","Yeah. Let's chat once we get inside.
 We're losing time aren't we?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -68,8 +66,8 @@ StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("B050700300_07_060");
 MsgDisp("Mikage","A-Amazing.
-The inside is like a completely different
-world.");
+The inside is like a completely
+different world.");
 MsgDisp("主人公","Yes, I'm excited!");
 StlEye(7,1);
 StlMouth(7,1);
@@ -106,8 +104,7 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("B050700300_07_110");
 MsgDisp("Mikage","I'm already kind of satisfied.");
-MsgDisp("主人公","Ehh∋
-We're just getting started though?");
+MsgDisp("主人公","Ehh∋ We're just getting started though?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

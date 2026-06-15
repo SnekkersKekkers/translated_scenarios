@@ -12,8 +12,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(30,0);
 VoicePlay("D010100300_01_000");
-MsgDisp("Kazama","Yeah.
-Everything is fine.");
+MsgDisp("Kazama","Yeah. Everything is fine.");
 MsgDisp("主人公","(...is he talking to someone?)");
 MsgClose();
 StlOpen("ev_01_10");
@@ -62,8 +61,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100300_01_050");
 MsgDisp("Kazama","So you ARE following me.");
-MsgDisp("主人公","Geez.
-｛Kazama＊＊｝, are you okay?
+MsgDisp("主人公","Geez. ｛Kazama＊＊｝, are you okay?
 That seemed like a serious phone call...?");
 ChEye(1,4);
 ChMouth(1,2);

@@ -1,8 +1,7 @@
 VoicePlay("Z352200100_22_000");
 MsgDisp("Hikaru","Yeah, yeah!
 Let's go▼");
-MsgDisp("主人公","Yay!
-Okay, I'll get ready.");
+MsgDisp("主人公","Yay! Okay, I'll get ready.");
 VoicePlay("Z352200100_22_010");
 MsgDisp("Hikaru","Hikaru will be ready soon♪
 Hurry～!");

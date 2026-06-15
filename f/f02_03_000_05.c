@@ -22,8 +22,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("F020300005_03_020");
-MsgDisp("Honda","It's cause I read the textbooks the day I get
-them.");
+MsgDisp("Honda","It's cause I read the textbooks the day I
+get them.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

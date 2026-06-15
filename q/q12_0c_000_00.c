@@ -12,16 +12,14 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q120C00000_07_000");
-MsgDisp("Mikage","I see.
-But we're not done yet.");
+MsgDisp("Mikage","I see. But we're not done yet.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q120C00000_05_010");
 MsgDisp("Hiiragi","\"Until home is the trip\"...
 Is it that thing?");
-MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝ really likes promises.");
+MsgDisp("主人公","Hehe. ｛Mikage＊＊｝ really likes promises.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -31,8 +29,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q120C00000_05_020");
-MsgDisp("Hiiragi","Yes.
-But let me thank you now.");
+MsgDisp("Hiiragi","Yes. But let me thank you now.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

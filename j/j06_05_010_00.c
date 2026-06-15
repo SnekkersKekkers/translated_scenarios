@@ -41,8 +41,7 @@ Is this a date?)");
         case 4:
         case 5:
         VoicePlay("J060501000_05_030");
-        MsgDisp("Hiiragi","I see.
-I understand.");
+        MsgDisp("Hiiragi","I see. I understand.");
         MsgDisp("主人公","I'm sorry about that...
 I'm just...");
         VoicePlay("J060501000_05_040");

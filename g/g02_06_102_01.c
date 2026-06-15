@@ -54,8 +54,7 @@ ChCheek(6,0);
 VoicePlay("G020610201_06_070");
 MsgDisp("Himuro","I'm reluctant, but I know I have to endure
 this troublesome game of give and take.");
-MsgDisp("主人公","Then...
-Do your best, okay?");
+MsgDisp("主人公","Then... Do your best, okay?");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);

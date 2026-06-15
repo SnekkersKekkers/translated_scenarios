@@ -16,8 +16,8 @@ switch (ChPrmGet(6,6)){
     MsgDisp("Himuro","Preparations for opening are?");
     MsgDisp("主人公","Perfect.");
     MsgDisp("主人公","Ah, here's the delivery address and slip.
-The flowers to be delivered are prepared,
-too.");
+The flowers to be delivered are
+prepared, too.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -97,8 +97,7 @@ It might be nice.");
     VoicePlay("I460600008_06_100");
     MsgDisp("Himuro","...Just so you know, I'll have you pay me a
 high salary.");
-    MsgDisp("主人公","Hehe.
-Then work hard for it, 'kay?");
+    MsgDisp("主人公","Hehe. Then work hard for it, 'kay?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);

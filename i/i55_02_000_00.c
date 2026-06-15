@@ -30,11 +30,9 @@ over soon, so I was asked to get some snacks.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("I550200000_02_030");
-    MsgDisp("Sassa","Hm...
-Seasonal snacks for three, please.
+    MsgDisp("Sassa","Hm... Seasonal snacks for three, please.
 I'll leave it to you.");
-    MsgDisp("主人公","Yes.
-Please wait a little.");
+    MsgDisp("主人公","Yes. Please wait a little.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,2);
@@ -46,8 +44,7 @@ Ah, were you okay with sweets?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("I550200000_02_050");
-    MsgDisp("Sassa","Me?
-I'll eat anything as long as it's good.");
+    MsgDisp("Sassa","Me? I'll eat anything as long as it's good.");
     MsgDisp("主人公","Hehe, it's all delicious.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -98,8 +95,8 @@ I liked the matcha.");
     ChMotion(2,4);
     VoicePlay("I550200000_02_110");
     MsgDisp("Sassa","They were a little small for me.
-But, I guess that's what Japanese sweets are
-about.");
+But, I guess that's what Japanese sweets
+are about.");
     MsgDisp("主人公","Y-Yeah...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -125,8 +122,8 @@ Welcome.");
     ChOpen(2,255,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("I550200000_02_130");
-    MsgDisp("Sassa","｛主人公｝, you're working hard again today,
-huh.");
+    MsgDisp("Sassa","｛主人公｝, you're working hard again
+today, huh.");
     MsgDisp("主人公","Yes, what are you looking for today?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -167,8 +164,8 @@ We have a lot of single male customers, too.");
     MsgDisp("Sassa","Got it.
 Then I'll have something to eat. Please give
 me something with volume and matcha.");
-    MsgDisp("主人公","(｛Sassa＊＊｝ really cares about my part-time
-job.
+    MsgDisp("主人公","(｛Sassa＊＊｝ really cares about my
+part-time job.
 That makes me happy.)");
     break ;
     default :

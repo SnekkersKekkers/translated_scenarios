@@ -14,8 +14,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330A10501_01_000");
-MsgDisp("Kazama","Phew...
-Let's order a drink...
+MsgDisp("Kazama","Phew... Let's order a drink...
 What do you want?");
 MsgDisp("主人公","Hmm, what should I have?");
 ChEye(1,0);
@@ -48,8 +47,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10501_01_030");
-MsgDisp("Kazama","OK.
-...What about you, Inori?");
+MsgDisp("Kazama","OK. ...What about you, Inori?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -100,14 +98,13 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10501_01_050");
-MsgDisp("Kazama","Next time, I'll listen to you sing over
-lunch.");
+MsgDisp("Kazama","Next time, I'll listen to you sing
+over lunch.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A10501_02_020");
-MsgDisp("Sassa","Ooh.
-Like a dinner show.");
+MsgDisp("Sassa","Ooh. Like a dinner show.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

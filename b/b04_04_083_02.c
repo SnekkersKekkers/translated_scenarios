@@ -6,8 +6,8 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408302_04_000");
 MsgDisp("Nanatsumori","Sigh...
-There's no point in coming here in the
-summer.");
+There's no point in coming here in
+the summer.");
 MsgSel("Isn't nature pretty?","It's fun because I'm with ｛Nanatsumori＊｝.","Shall we eat kakigori from the stall?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -73,22 +73,21 @@ feeling.");
         MsgDisp("Nanatsumori","Right.
 There's lots of bugs I'm scared of.
 And, it's super hot.");
-        MsgDisp("主人公","Ah.
-Sorry, I didn't notice.");
+        MsgDisp("主人公","Ah. Sorry, I didn't notice.");
         ChEye(4,4);
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040408302_04_090");
         MsgDisp("Nanatsumori","No, I'm also sorry.
-I got irritated on my own, and took it out on
-you.");
+I got irritated on my own, and took it out
+on you.");
         MsgDisp("主人公","No, it's alright.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040408302_04_100");
-        MsgDisp("Nanatsumori","You and I both have fun when we're together,
-right?");
+        MsgDisp("Nanatsumori","You and I both have fun when we're
+together, right?");
         MsgDisp("主人公","Yeah.");
         ChEye(4,0);
         ChMouth(4,3);

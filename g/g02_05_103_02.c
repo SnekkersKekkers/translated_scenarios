@@ -19,8 +19,8 @@ VoicePlay("G020510302_05_030");
 MsgDisp("Hiiragi","Speaking of which, we also had a small
 coincidence, didn't we?");
 MsgDisp("主人公","Eh?
-...Are you perhaps talking about our clothes
-today?");
+...Are you perhaps talking about our
+clothes today?");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("G020510302_05_040");

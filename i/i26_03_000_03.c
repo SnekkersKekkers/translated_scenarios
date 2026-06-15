@@ -13,10 +13,10 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_330");
     MsgDisp("Honda","...Hm?
-Do you know what happened to the box that was
-here?");
-    MsgDisp("主人公","Ah, I opened it and put the contents on the
-shelf.");
+Do you know what happened to the box that
+was here?");
+    MsgDisp("主人公","Ah, I opened it and put the contents on
+the shelf.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);

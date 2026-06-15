@@ -7,8 +7,7 @@ switch (ChPrmGet(7,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(I feel calmer than last year.
-But...)");
+    MsgDisp("主人公","(I feel calmer than last year. But...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -51,16 +50,15 @@ Talking to ｛Mikage＊＊｝ relaxed me a bit!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(I feel calmer than last year.
-But...)");
+    MsgDisp("主人公","(I feel calmer than last year. But...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoiceEVSPlay(7);
     VoicePlay("P530700001_07_050");
-    MsgDisp("Mikage","｛主人公｝, you seem a bit more composed,
-huh?");
+    MsgDisp("Mikage","｛主人公｝, you seem a bit more
+composed, huh?");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 I'm not composed!");
     ChEye(7,0);
@@ -95,8 +93,7 @@ That's why you'll be sure to succeed.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P530700001_07_100");
-    MsgDisp("Mikage","Hey, your friends are waiting.
-Go.");
+    MsgDisp("Mikage","Hey, your friends are waiting. Go.");
     MsgDisp("主人公","(｛Mikage＊＊｝ encouraged me.
 Alright, I'm going to do my best with
 everyone.)");

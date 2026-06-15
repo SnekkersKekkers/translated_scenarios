@@ -10,7 +10,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020100005_01_010");
 MsgDisp("Kazama","There's a time and place for everything...
-Wearing clothes like that now will get you
-sick.");
+Wearing clothes like that now will get
+you sick.");
 MsgDisp("主人公","(Ugh...
 I think I don't have enough layers on...)");

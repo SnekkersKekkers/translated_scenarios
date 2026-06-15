@@ -8,8 +8,7 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     VoicePlay("N020400000_04_000");
-    MsgDisp("Nanatsumori","Top of the grade?
-Wow.");
+    MsgDisp("Nanatsumori","Top of the grade? Wow.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.");
     ChMouth(4,4);
     VoicePlay("N020400000_04_010");

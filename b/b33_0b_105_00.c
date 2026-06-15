@@ -32,8 +32,7 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330B10500_01_010");
-MsgDisp("Kazama","Yeah.
-Since I'm not gonna sing anymore.");
+MsgDisp("Kazama","Yeah. Since I'm not gonna sing anymore.");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -43,8 +42,7 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B10500_03_010");
-MsgDisp("Honda","Why?
-Is your voice tired?");
+MsgDisp("Honda","Why? Is your voice tired?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -73,8 +71,7 @@ MsgDisp("Honda","Right right, of course that idea would
 snowball.
 Right?");
 MsgDisp("主人公","Even if you say that...
-Me?
-Becoming an idol?");
+Me? Becoming an idol?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

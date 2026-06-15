@@ -52,8 +52,8 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 ScrFadeIn(0);
 VoicePlay("Q100500000_05_060");
-MsgDisp("Hiiragi","It looks like you can get everything you
-want.
+MsgDisp("Hiiragi","It looks like you can get everything
+you want.
 Which stores are you interested in?");
 MsgDisp("主人公","Hmm, what should I do...
 I can't make a decision.");
@@ -70,8 +70,7 @@ ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("Q100500000_05_090");
 MsgDisp("Hiiragi","I'll be hanging out somewhere too.");
-MsgDisp("主人公","Ok!
-See you in a bit.");
+MsgDisp("主人公","Ok! See you in a bit.");
 ChEye(5,4);
 VoicePlay("Q100500000_05_100");
 MsgDisp("Hiiragi","Well then, see you.");

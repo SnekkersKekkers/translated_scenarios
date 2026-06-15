@@ -47,8 +47,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 ChEyeOpenLevel(7,8);
 VoicePlay("G020710306_07_060");
-MsgDisp("Mikage","Heh.
-Thank you.");
+MsgDisp("Mikage","Heh. Thank you.");
 MsgDisp("主人公","(｛Mikage＊＊｝...
 He seems a bit different than usual?)");
 BGMStop();

@@ -12,8 +12,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("O030400002_04_000");
-    MsgDisp("Nanatsumori","Last...
-God.");
+    MsgDisp("Nanatsumori","Last... God.");
     MsgDisp("主人公","(Last, huh...
 We weren't in sync at all...)");
     break ;

@@ -14,8 +14,8 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120500000_05_000");
-    MsgDisp("Hiiragi","Thanks to you, this year is off to a great
-start.");
+    MsgDisp("Hiiragi","Thanks to you, this year is off to a
+great start.");
     MsgDisp("主人公","Yeah, same to you!");
     VoicePlay("S120500000_05_010");
     MsgDisp("Hiiragi","I hope you have a good year.

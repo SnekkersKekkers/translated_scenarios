@@ -9,8 +9,7 @@ Please confirm it with Himurocchi!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 Wait(30,0);
 VoicePlay("F100610001_06_000");
-MsgDisp("Himuro?","Hey...
-There's no way I can do that!");
+MsgDisp("Himuro?","Hey... There's no way I can do that!");
 MsgDisp("主人公","...Hmmm?");
 MsgClose();
 BGMPlay("BGM_C06_INORI_A");
@@ -48,8 +47,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100610001_06_050");
-MsgDisp("Himuro","It would be troubling if it wasn't.
-That's something...
+MsgDisp("Himuro","It would be troubling if it wasn't. That's
+something...
 I'm also weirdly conscious of.");
 MsgDisp("主人公","(It is ｛Himuro＊＊｝'s relative after all...
 It's no wonder.)");

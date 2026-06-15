@@ -5,8 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040722200_07_000");
-MsgDisp("Mikage","For an extracurricular lesson, you can't go wrong
-with somewhere like this, right?");
+MsgDisp("Mikage","For an extracurricular lesson, you can't go
+wrong with somewhere like this, right?");
 MsgSel("Ah, looks like there's a new exhibition!","It's not typical of ｛Mikage＊＊｝.","I would prefer a more fun place...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -39,7 +39,8 @@ I'm glad.");
     ChMotion(7,3);
     VoicePlay("B040722200_07_030");
     MsgDisp("Mikage","I understand how you feel?
-But, it is an extracurricular lesson after all.");
+But, it is an extracurricular lesson
+after all.");
     MsgDateResultDisp();
     break ;
     default :

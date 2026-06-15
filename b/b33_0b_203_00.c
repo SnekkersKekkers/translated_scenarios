@@ -46,8 +46,7 @@ ChEye(3,5);
 ChMouth(3,5);
 ChMotion(3,5,1);
 VoicePlay("B330B20300_03_010");
-MsgDisp("Honda","Eh∋
-We only just arrived!");
+MsgDisp("Honda","Eh∋ We only just arrived!");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);

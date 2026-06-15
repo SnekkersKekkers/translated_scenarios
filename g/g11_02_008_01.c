@@ -13,8 +13,7 @@ VoiceEVSPlay(2);
 VoicePlay("G110200801_02_000");
 MsgDisp("Sassa","｛主人公｝, so, you were here.");
 MsgDisp("主人公","Yeah, I was in charge of the club expenses.
-But...
-It's over.");
+But... It's over.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -48,19 +47,19 @@ ChOpen(2,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110200801_02_040");
 MsgDisp("Sassa","Hah, hah, hah...
-I feel more calm when I run with you like
-this.");
+I feel more calm when I run with you
+like this.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200801_02_050");
 MsgDisp("Sassa","The other day in the club room, I had my
-heart rate measured, and it was a disaster,
-right?");
+heart rate measured, and it was a
+disaster, right?");
 MsgDisp("主人公","Ah, right.
-I fixed the measuring device so it's fine
-now.");
+I fixed the measuring device so it's
+fine now.");
 ChEye(2,0);
 ChMouth(2,1);
 ChMotion(2,0);
@@ -79,8 +78,7 @@ ChMouth(2,1);
 ChMotion(2,0);
 VoicePlay("G110200801_02_080");
 MsgDisp("Sassa","It seems like this'll drag on for a while...");
-MsgDisp("主人公","Umm...
-The high-altitude training?");
+MsgDisp("主人公","Umm... The high-altitude training?");
 ChEye(2,2);
 ChMouth(2,1);
 ChMotion(2,1);
@@ -93,8 +91,8 @@ ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("G110200801_02_100");
 MsgDisp("Sassa","...What am I saying∋
-This is no good, I need to push myself
-harder!");
+This is no good, I need to push
+myself harder!");
 MsgClose();
 BGMStop();
 SEStop("EV_SE_FOOT_037",1.5);
@@ -104,7 +102,6 @@ MsgClose();
 ChClose(2,0,0);
 BGOpen("sc601",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ehh∋
-Wasn't it a cooldown...?)");
+MsgDisp("主人公","(Ehh∋ Wasn't it a cooldown...?)");
 MsgClose();
 ScrFadeOut(0,0);

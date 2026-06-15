@@ -66,8 +66,7 @@ Ah, I'm just imagining you riding on a pony.");
         ChMotion(2,4);
         VoicePlay("B040224102_02_060");
         MsgDisp("Sassa","It's quite a cute image.");
-        MsgDisp("主人公","Ehh?
-What were you imagining?");
+        MsgDisp("主人公","Ehh? What were you imagining?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

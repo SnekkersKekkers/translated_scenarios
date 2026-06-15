@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040110102_01_000");
 MsgDisp("Kazama","In the long history of Habataki City, I
-wonder if our ancestors ever met like we are
-now?");
+wonder if our ancestors ever met like we
+are now?");
 MsgSel("Maybe they were hunter-gatherers?","Maybe they fought on the battlefield together?","Maybe they lived together in Habataki Castle?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -75,8 +75,7 @@ like this hundreds of years ago too, right?");
         MsgDisp("Kazama","Ooh, I bet your ancestor was one of those
 strange ones, always causing trouble for my
 ancestors, right?");
-        MsgDisp("主人公","Huh?
-Do I cause trouble for you?");
+        MsgDisp("主人公","Huh? Do I cause trouble for you?");
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         Wait(8,0);
@@ -102,8 +101,7 @@ just like this.");
         VoicePlay("B040110102_01_080");
         MsgDisp("Kazama","Sigh, I don't think I'll be breaking this
 spiral, either...");
-        MsgDisp("主人公","(Umm...
-What is that supposed to mean?)");
+        MsgDisp("主人公","(Umm... What is that supposed to mean?)");
         break ;
         default :
         DbgAssert(1);

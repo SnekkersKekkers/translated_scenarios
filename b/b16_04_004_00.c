@@ -13,8 +13,7 @@ switch (MsgSelRsltGet()){
     NSSMouth(4,2);
     NSSCheek(4,10);
     VoicePlay("B160400400_04_010");
-    MsgDisp("Nanatsumori","Eh∋
-Am I worrying too much?
+    MsgDisp("Nanatsumori","Eh∋ Am I worrying too much?
 Should I...do it too?");
     break ;
     case 1:

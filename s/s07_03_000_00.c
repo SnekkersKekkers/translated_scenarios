@@ -12,10 +12,9 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoicePlay("S070300000_03_000");
     MsgDisp("Honda","It's packed.
-Exactly how a New Year's shrine visit should
-be.");
-    MsgDisp("主人公","Yeah.
-Everyone looks like they're having fun.");
+Exactly how a New Year's shrine visit
+should be.");
+    MsgDisp("主人公","Yeah. Everyone looks like they're having fun.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);

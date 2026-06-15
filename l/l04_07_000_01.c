@@ -6,8 +6,7 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("L040700001_07_000");
-    MsgDisp("Mikage","Haha.
-Splendid obligatory chocolate.");
+    MsgDisp("Mikage","Haha. Splendid obligatory chocolate.");
     MsgDisp("主人公","Is it no good...?");
     ChEye(7,0);
     ChMouth(7,3);

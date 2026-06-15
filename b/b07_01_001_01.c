@@ -33,11 +33,11 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100001_01_050");
-MsgDisp("Kazama","Even though there were easier targets than
-me.
+MsgDisp("Kazama","Even though there were easier targets
+than me.
 For some reason he only chased me.");
-MsgDisp("主人公","｛Sassa＊＊｝ really likes ｛Kazama＊＊｝ doesn't
-he?");
+MsgDisp("主人公","｛Sassa＊＊｝ really likes ｛Kazama＊＊｝
+doesn't he?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);

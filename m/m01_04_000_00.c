@@ -11,8 +11,7 @@ ChOpen(4,254,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("M010400000_04_000");
 MsgDisp("Nanatsumori","If you're asking about her, I just finished
 introducing myself.");
-MsgDisp("主人公","｛Nanatsumori＊｝∋
-Why...");
+MsgDisp("主人公","｛Nanatsumori＊｝∋ Why...");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -54,8 +53,7 @@ VoiceEVSPlay(4);
 VoicePlay("M010400000_04_070");
 MsgDisp("Nanatsumori","｛主人公｝.
 Next week, think you'll be able to come?");
-MsgDisp("主人公","Mm.
-I'm better now.
+MsgDisp("主人公","Mm. I'm better now.
 Thanks for worrying.");
 ChEye(4,0);
 ChMouth(4,3);
@@ -72,8 +70,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("M010400000_04_100");
-MsgDisp("Nanatsumori","Good.
-Next week I'll be waiting at school.
+MsgDisp("Nanatsumori","Good. Next week I'll be waiting at school.
 Let me hear your energetic voice.");
 ChEye(4,4);
 ChMouth(4,3);

@@ -36,15 +36,14 @@ switch (MsgSelRsltGet()){
         ChMotion(6,0);
         VoicePlay("B040612102_06_020");
         MsgDisp("Himuro","...Then, I'll buy it for you.");
-        MsgDisp("主人公","Eh?
-It's fine!
+        MsgDisp("主人公","Eh? It's fine!
 I'll buy it.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040612102_06_030");
-        MsgDisp("Himuro","Is that because you don't want a present from
-me?");
+        MsgDisp("Himuro","Is that because you don't want a present
+from me?");
         MsgDisp("主人公","It's not like that though...");
         ChEye(6,0);
         ChMouth(6,0);

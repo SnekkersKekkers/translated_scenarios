@@ -36,8 +36,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("S110D00000_21_020");
-MsgDisp("Michiru","Hikaru, aren't you enjoying this a little too
-much?");
+MsgDisp("Michiru","Hikaru, aren't you enjoying this a little
+too much?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

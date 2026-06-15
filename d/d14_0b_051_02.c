@@ -46,8 +46,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D140B05102_04_030");
-MsgDisp("Nanatsumori","I see.
-That's a pity.");
+MsgDisp("Nanatsumori","I see. That's a pity.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -93,8 +92,8 @@ ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("D140B05102_03_020");
 MsgDisp("Honda","Then, let's resume our fun lunch time♪");
-MsgDisp("主人公","(So ｛Kazama＊＊｝ actually wanted to watch it
-too.
+MsgDisp("主人公","(So ｛Kazama＊＊｝ actually wanted to watch
+it too.
 But, they mentioned jealousy...?)");
 BGMStop();
 MsgClose();

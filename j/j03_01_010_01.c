@@ -19,8 +19,7 @@ I got your message.");
 I'm busy on that day.");
     MsgDisp("主人公","I see, that's too bad.");
     VoicePlay("J030101001_01_020");
-    MsgDisp("Kazama","Yeah.
-See you later.");
+    MsgDisp("Kazama","Yeah. See you later.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Can't be helped.
@@ -37,16 +36,13 @@ Let's stop for today...)");
     MsgDisp("主人公","Ah, what's your answer?");
     VoicePlay("J030101001_01_040");
     MsgDisp("Kazama","Bad timing, I know...
-That day's the only day I can't.
-Sorry.");
-    MsgDisp("主人公","I see.
-Can I call you another time?");
+That day's the only day I can't. Sorry.");
+    MsgDisp("主人公","I see. Can I call you another time?");
     VoicePlay("J030101001_01_050");
     MsgDisp("Kazama","Sure, I'll count on that.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Hmm...
-Too bad...)");
+    MsgDisp("主人公","(Hmm... Too bad...)");
     break ;
     case 4:
     case 5:
@@ -56,8 +52,7 @@ Too bad...)");
     SEWait();
     MsgDisp("主人公","Hello, ｛Kazama＊＊｝?");
     VoicePlay("J030101001_01_060");
-    MsgDisp("Kazama","Yeah.
-Thanks for calling earlier.");
+    MsgDisp("Kazama","Yeah. Thanks for calling earlier.");
     MsgDisp("主人公","Did you get my message?");
     VoicePlay("J030101001_01_070");
     MsgDisp("Kazama","Can't we do another day?

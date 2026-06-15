@@ -8,8 +8,7 @@ school life is over...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(6,34,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","(Ah...
-It's ｛Himuro＊＊｝.)");
+MsgDisp("主人公","(Ah... It's ｛Himuro＊＊｝.)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -20,8 +19,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(6);
-MsgDisp("主人公","(Huh?
-That's not the way to his house.
+MsgDisp("主人公","(Huh? That's not the way to his house.
 And he's acting strange...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE",0,0.4);
 BGMStop();
@@ -34,8 +32,7 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 Wait(40,0);
 MsgDisp("主人公","(｛Himuro＊＊｝, where on earth did you go?
-He should be here somewhere...
-Ah.)");
+He should be here somewhere... Ah.)");
 MsgClose();
 ChLayout(1);
 ChClose(6,0,0);
@@ -153,8 +150,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
 VoicePlay("R080600000_06_170");
-MsgDisp("Himuro","And...
-Merry Christmas.
+MsgDisp("Himuro","And... Merry Christmas.
 Just wanted to let you know.");
 MsgDisp("主人公","Hehe, yeah.
 Merry Christmas, ｛Himuro＊＊｝!");

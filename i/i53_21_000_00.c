@@ -23,16 +23,15 @@ You work here?");
     ChMotion(21,3);
     VoicePlay("I532100000_21_010");
     MsgDisp("Michiru","Right.
-This place is affiliated with the Hanatsubaki
-family.");
-    MsgDisp("主人公","I see.
-Let's work hard together!");
+This place is affiliated with the
+Hanatsubaki family.");
+    MsgDisp("主人公","I see. Let's work hard together!");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,0);
     VoicePlay("I532100000_21_020");
-    MsgDisp("Michiru","Yes, let's.
-If you have any questions, just ask me.");
+    MsgDisp("Michiru","Yes, let's. If you have any questions, just
+ask me.");
     MsgDisp("主人公","(｛みちる＊｝ is so reliable.
 I'll have to work hard at this job!)");
     break ;
@@ -42,8 +41,7 @@ I'll have to work hard at this job!)");
     Wait(15,0);
     ChOpen(21,35,0,0,0,#1,#1,0,0);
     VoicePlay("I532100000_21_030");
-    MsgDisp("Michiru","Mari.
-Welcome to Princess Tsubaki.");
+    MsgDisp("Michiru","Mari. Welcome to Princess Tsubaki.");
     MsgDisp("主人公","Huh, ｛みちる＊｝?
 You work here?");
     ChEye(21,4);
@@ -53,8 +51,7 @@ You work here?");
     MsgDisp("Michiru","Hehe.
 This place is affiliated with the Hanatsubaki
 family. That's why, you know?");
-    MsgDisp("主人公","I see.
-It's a lovely store!");
+    MsgDisp("主人公","I see. It's a lovely store!");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,4);

@@ -17,8 +17,8 @@ ChMotion(5,0);
 ChCheek(5,0);
 VoicePlay("B150500400_05_020");
 MsgDisp("Hiiragi","I've told you before.
-I've already hit my limit staying my usual
-self.");
+I've already hit my limit staying my
+usual self.");
 MsgDisp("主人公","...Yeah.");
 ChEye(5,0);
 VoicePlay("B150500400_05_030");
@@ -46,14 +46,13 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B150500400_05_070");
-MsgDisp("Hiiragi","If I didn't do that, I would have reached my
-limit.
+MsgDisp("Hiiragi","If I didn't do that, I would have reached
+my limit.
 Art saves me.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500400_05_080");
-MsgDisp("Hiiragi","Haha...
-I'm going home.");
+MsgDisp("Hiiragi","Haha... I'm going home.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);

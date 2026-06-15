@@ -56,8 +56,8 @@ I'm not really good with group stuff, though.");
         ChMotion(3,4);
         VoicePlay("B040314002_03_040");
         MsgDisp("Honda","Is that so?
-A long time ago, my family used to have a
-band.");
+A long time ago, my family used to have
+a band.");
         MsgDisp("主人公","Family band?");
         ChEye(3,0);
         ChMouth(3,0);
@@ -79,8 +79,7 @@ lessons, so it died out naturally.");
         ChMotion(3,4);
         VoicePlay("B040314002_03_070");
         MsgDisp("Honda","But, I quite enjoyed it.");
-        MsgDisp("主人公","I see.
-Maybe your sister got bored of it?");
+        MsgDisp("主人公","I see. Maybe your sister got bored of it?");
         ChEye(3,1);
         ChMouth(3,4);
         ChMotion(3,1);
@@ -118,8 +117,7 @@ things, so I don't think that would happen.");
         MsgDisp("Honda","Always, huh—.
 Just the two of us, forever—.
 Yeah, this is the best!");
-        MsgDisp("主人公","(...Hm?
-Is he happy with some other meaning?)");
+        MsgDisp("主人公","(...Hm? Is he happy with some other meaning?)");
         break ;
         default :
         DbgAssert(1);

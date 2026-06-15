@@ -94,8 +94,7 @@ even more.");
         ChMouth(2,3);
         ChMotion(2,5);
         VoicePlay("B040216002_02_080");
-        MsgDisp("Sassa","Ah!
-It had a delayed fall∈");
+        MsgDisp("Sassa","Ah! It had a delayed fall∈");
         MsgDisp("主人公","Eh!");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -112,8 +111,7 @@ It had a delayed fall∈");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040216002_02_090");
-        MsgDisp("Sassa","That...
-Does that count as me winning it?");
+        MsgDisp("Sassa","That... Does that count as me winning it?");
         MsgDisp("主人公","Yeah, of course!
 It's ｛Sassa＊＊｝'s win!");
         ChEye(2,0);

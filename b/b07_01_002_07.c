@@ -1,5 +1,4 @@
-MsgDisp("主人公","(Huh?
-What's up with me?
+MsgDisp("主人公","(Huh? What's up with me?
 My heart is racing super fast...)");
 ChEye(1,0);
 ChMouth(1,2);
@@ -29,16 +28,16 @@ Wait(12,1);
 ChEye(1,0);
 ChMouth(1,2);
 VoicePlay("B070100002_01_420");
-MsgDisp("Kazama","Even I'm like that when I'm with you, you
-know?");
+MsgDisp("Kazama","Even I'm like that when I'm with you,
+you know?");
 MsgDisp("主人公","Hehe, we're the same.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_430");
 MsgDisp("Kazama","Right?
-We've been the same since long ago, haven't
-we?");
+We've been the same since long ago,
+haven't we?");
 MsgDisp("主人公","Yeah.");
 BGMStop();
 MsgClose();

@@ -5,8 +5,8 @@ ChOpen(3,255,0,4,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323101_03_000");
-MsgDisp("Honda","You really like going on this again and again
-huh?");
+MsgDisp("Honda","You really like going on this again and
+again huh?");
 MsgSel("I love it▼","It's because I want to see ｛Honda＊＊｝'s expressions.","It's because it's a staple of amusement parks.");
 switch (MsgSelRsltGet()){
     case 0:

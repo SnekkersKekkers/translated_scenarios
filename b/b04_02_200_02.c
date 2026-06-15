@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040220002_02_020");
     MsgDisp("Sassa","I see.
-No point in it if you don't push yourself,
-right?");
+No point in it if you don't push
+yourself, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -63,8 +63,7 @@ There is.");
         ChMotion(2,0);
         VoicePlay("B040220002_02_050");
         MsgDisp("Sassa","Yeah, it has an incredibly nice view.");
-        MsgDisp("主人公","Ehhh!
-I want to see it!");
+        MsgDisp("主人公","Ehhh! I want to see it!");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);
@@ -89,8 +88,7 @@ the advanced course first.");
         MsgDisp("Sassa","Yeah, you're getting better.
 At this rate, we'll be able to do the expert
 course together one day.");
-        MsgDisp("主人公","Yay!
-Make sure to take me along, okay?");
+        MsgDisp("主人公","Yay! Make sure to take me along, okay?");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,3);

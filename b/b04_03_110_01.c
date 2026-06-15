@@ -4,8 +4,8 @@ ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311001_03_000");
 MsgDisp("Honda","Look, that guy is amazing.
-I wonder how it feels to be able to swim like
-that.");
+I wonder how it feels to be able to swim
+like that.");
 MsgSel("You can't help but stare, huh?","Maybe he's a swimmer?","But, the splashing might be annoying");
 switch (MsgSelRsltGet()){
     case 0:

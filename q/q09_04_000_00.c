@@ -54,8 +54,7 @@ Are we leaving already?");
     ChMotion(4,0,1);
     VoicePlay("Q090400000_04_060");
     MsgDisp("Nanatsumori","I couldn't sleep.");
-    MsgDisp("主人公","Eeeh∋
-Are you ok?");
+    MsgDisp("主人公","Eeeh∋ Are you ok?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -63,8 +62,7 @@ Are you ok?");
     MsgDisp("Nanatsumori","I'm gucci.
 I'm such a kid, not able to sleep when I'm
 excited.");
-    MsgDisp("主人公","Hehe!
-Let's have fun today!");
+    MsgDisp("主人公","Hehe! Let's have fun today!");
     ChEye(4,1);
     ChMouth(4,3);
     ChMotion(4,0,1);

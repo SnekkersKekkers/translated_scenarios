@@ -21,8 +21,8 @@ Thank you for inviting me.");
     ChMotion(5,4);
     VoicePlay("Q080500001_05_020");
     MsgDisp("Hiiragi","So, in return.
-Would you like to join me for the next free
-period?");
+Would you like to join me for the next
+free period?");
     MsgDisp("主人公","Yes, of course.
 Let's meet up here tomorrow!");
     ChMotion(5,0);
@@ -50,8 +50,7 @@ Thanks, it was fun.");
     MsgDisp("Hiiragi","This time from me to you...
 May I continue to accompany you during the
 next free period?");
-    MsgDisp("主人公","Hehe.
-Yes, of course!");
+    MsgDisp("主人公","Hehe. Yes, of course!");
     break ;
     case 4:
     case 5:
@@ -81,8 +80,7 @@ you have up your sleeve.");
     VoicePlay("Q080500001_05_090");
     MsgDisp("Hiiragi","Leave it to me.
 I like to set high standards for myself.");
-    MsgDisp("主人公","Hehe!
-I'll see you here tomorrow then.");
+    MsgDisp("主人公","Hehe! I'll see you here tomorrow then.");
     break ;
     default :
     DbgAssert(1);

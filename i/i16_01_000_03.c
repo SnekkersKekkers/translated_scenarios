@@ -11,8 +11,7 @@ switch (ChPrmGet(1,6)){
     BGMPlay("BGM_C01_RYOUTA_A",0.01);
     ChOpen(1,35,0,2,2,#1,#1,0,0);
     VoicePlay("I160100003_01_000");
-    MsgDisp("Kazama","You...
-Aren't you slacking off a bit?");
+    MsgDisp("Kazama","You... Aren't you slacking off a bit?");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,2);
@@ -48,8 +47,8 @@ our best!)");
     ChMotion(1,3);
     VoicePlay("I160100003_01_040");
     MsgDisp("Kazama","Don't display this that high.");
-    MsgDisp("主人公","Huh, but I thought it'd be easier to see that
-way...");
+    MsgDisp("主人公","Huh, but I thought it'd be easier to see
+that way...");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -64,8 +63,7 @@ dangerous if they try.");
     VoicePlay("I160100003_01_060");
     MsgDisp("Kazama","Remember to think about the customer's
 perspective.");
-    MsgDisp("主人公","Yeah...
-I'm sorry.");
+    MsgDisp("主人公","Yeah... I'm sorry.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,3);

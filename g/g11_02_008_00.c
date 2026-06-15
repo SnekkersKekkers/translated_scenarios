@@ -55,8 +55,8 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200800_02_060");
 MsgDisp("Sassa","Yeah, thank you.
-I'm really happy that I've been able to do
-that.");
+I'm really happy that I've been able to
+do that.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

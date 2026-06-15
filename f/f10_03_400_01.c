@@ -109,8 +109,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("F100340001_03_090");
-MsgDisp("Honda","It was kind of fun, like searching for a lost
-cat.
+MsgDisp("Honda","It was kind of fun, like searching for a
+lost cat.
 Shall we do it again?");
 MsgClose();
 SEPlay("EV_SE_626");

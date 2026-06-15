@@ -67,13 +67,11 @@ Wait(138,0);
 BGOpen("pr004",0);
 VoicePlay("A010000000_01_060");
 MsgDisp("Ryota","Do you think we can open the door?");
-MsgDisp("主人公","Eh...
-Are we allowed to do that?");
+MsgDisp("主人公","Eh... Are we allowed to do that?");
 SEPlay("EV_SE_794",0,0.5);
 SEWait();
 VoicePlay("A010000000_01_070");
-MsgDisp("Ryota","Ah...
-I guess we can't, after all.");
+MsgDisp("Ryota","Ah... I guess we can't, after all.");
 SEPlay("EV_SE_702",0.2,0.4);
 Wait(140,0);
 BGOpen("pr005",0);
@@ -96,8 +94,7 @@ ScrFadeOut(0,1);
 BGOpen("pr007",0);
 EnvPlay("SE_ENV_BG_PR007_CO0",1);
 ScrFadeIn(0);
-MsgDisp("主人公","Woah...!
-A big bell!
+MsgDisp("主人公","Woah...! A big bell!
 Is that the bell we heard ringing earlier?");
 VoicePlay("A010000000_01_090");
 MsgDisp("Ryota","It has to be!
@@ -123,8 +120,7 @@ Here, you can have it!");
 SEPlay("EV_SE_552",0.4,0.1);
 Wait(10,0);
 BGOpen("pr009",0);
-MsgDisp("主人公","Huh?
-Really?
+MsgDisp("主人公","Huh? Really?
 Are you sure?");
 VoicePlay("A010000000_01_110");
 MsgDisp("Ryota","I'm sure! Actually, I made it the same way as
@@ -135,8 +131,7 @@ VoicePlay("A010000000_01_120");
 MsgDisp("Ryota","Yeah, they're castle treasures.
 Orange like the sunset — if you make a wish
 and blow on it, anything can come true!");
-MsgDisp("主人公","Wow!
-Like magic!");
+MsgDisp("主人公","Wow! Like magic!");
 VoicePlay("A010000000_01_130");
 MsgDisp("Ryota","This pinwheel's made the same way, so maybe
 our wishes would come true too?");
@@ -145,8 +140,7 @@ BGOpen("pr010",0);
 VoicePlay("A010000000_01_140");
 MsgDisp("Ryota","Let's try it!
 Okay, make a wish, and then blow!");
-MsgDisp("主人公","Eh?
-O-Okay, I wish...");
+MsgDisp("主人公","Eh? O-Okay, I wish...");
 VoicePlay("A010000000_01_150");
 MsgDisp("Ryota","(I wish that we're always happy and healthy
 and that we definitely, definitely get
@@ -154,8 +148,8 @@ married!)");
 MsgDisp("主人公","(What do I do, I can't come up with a wish on
 the spot like this...)");
 MsgDisp("主人公","(Ah, yeah!
-\"I wish that Ryota-kun's wish will come
-true!\")");
+\"I wish that Ryota-kun's wish will
+come true!\")");
 VoicePlay("A010000000_01_160");
 MsgDisp("Ryota","Okay, here we go!
 Ready... set...!!");
@@ -183,14 +177,12 @@ ScrFadeOut(0,1);
 BGOpen("pr010",0);
 ScrFadeIn(0);
 VoicePlay("A010000000_01_190");
-MsgDisp("Ryota","Eh!?
-Well, maybe, I guess that's true...?
+MsgDisp("Ryota","Eh!? Well, maybe, I guess that's true...?
 ...So, what did you wish for?");
 MsgDisp("主人公","That's... a secret.
 It's embarrassing.");
 VoicePlay("A010000000_01_200");
-MsgDisp("Ryota","...I see.
-Then mine is a secret too.
+MsgDisp("Ryota","...I see. Then mine is a secret too.
 We probably wished for the same thing!");
 MsgDisp("主人公","(The same wish...
 I wished for Ryota-kun's wish to come true,

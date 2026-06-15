@@ -1,8 +1,8 @@
 ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I have to move to the science room for next
-class.
+MsgDisp("主人公","(I have to move to the science room for
+next class.
 Let's head there early.)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE");
 MsgClose();
@@ -75,8 +75,8 @@ ChClose(5);
 MsgClose();
 ChClose(7,0,30);
 ChOpen(7,37,0,0,0,#1,#1,0,0,0,30);
-MsgDisp("主人公","｛Hiiragi＊＊＊｝ seemed to be having a lot of
-fun.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ seemed to be having a lot
+of fun.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

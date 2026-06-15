@@ -7,8 +7,7 @@ switch (ChPrmGet(22,6)){
     BGMPlay("BGM_C22_HIKARU_A",0.01);
     ChOpen(22,254,1,2,2,#1,#1,0,0);
     VoicePlay("F012200001_22_000");
-    MsgDisp("Hikaru","Oh～
-That name's no good, you know.");
+    MsgDisp("Hikaru","Oh～ That name's no good, you know.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -45,8 +44,7 @@ her that.)");
     ChOpen(22,254,0,4,2,#1,#1,0,0);
     VoicePlay("F012200001_22_030");
     MsgDisp("Hikaru","Just now...did you call for Hikaru?");
-    MsgDisp("主人公","Yes.
-Was it bad?");
+    MsgDisp("主人公","Yes. Was it bad?");
     ChEye(22,2);
     ChMouth(22,0);
     ChMotion(22,3,1);

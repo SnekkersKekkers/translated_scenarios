@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Today I'm a senior.
-I hope I can make good memories this year
-too...)");
+I hope I can make good memories this
+year too...)");
 VoicePlay("D010100002_01_000");
 MsgDisp("Kazama?","The year just started and you already have
 that serious look on your face, huh?");
@@ -14,8 +14,8 @@ StlEye(1,1);
 StlMouth(1,1);
 ScrFadeIn(0);
 MsgDisp("主人公","Ah, ｛Kazama＊＊｝...Wait.
-No way, we're in the same class this year
-too?");
+No way, we're in the same class this
+year too?");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("D010100002_01_010");
@@ -42,8 +42,7 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100002_01_030");
-MsgDisp("Kazama","Hmm?
-No wait...
+MsgDisp("Kazama","Hmm? No wait...
 I swear there were others.");
 MsgDisp("主人公","Eh—");
 MsgClose();

@@ -12,8 +12,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_220");
-    MsgDisp("Honda","Hm?
-The person who arranged this shelf...");
+    MsgDisp("Honda","Hm? The person who arranged this shelf...");
     MsgDisp("主人公","It was me.
 Did I do something wrong?");
     ChEye(3,4);
@@ -56,9 +55,9 @@ out properly.");
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_270");
-    MsgDisp("Honda","Small publishers are putting out great books
-that get buried under promotions for bigger
-books.");
+    MsgDisp("Honda","Small publishers are putting out great
+books that get buried under promotions for
+bigger books.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1,1);

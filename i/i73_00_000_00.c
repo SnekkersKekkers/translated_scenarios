@@ -6,8 +6,7 @@ VoicePlay("I730000000_36_000");
 MsgDisp("President","We'll need you to work every week Monday
 through Saturday.
 It's really hard work, so watch your health.");
-MsgDisp("主人公","Yes!
-I'm looking forward to working with you!");
+MsgDisp("主人公","Yes! I'm looking forward to working with you!");
 MsgDisp("主人公","(Alright, let's do our best!)");
 MsgClose();
 ScrFadeOut(0);

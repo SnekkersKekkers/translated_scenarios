@@ -46,8 +46,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120202_01_060");
 MsgDisp("Kazama","What he does is something I could never do.");
-MsgDisp("主人公","I don't think anyone can do what ｛Honda＊＊｝
-does.");
+MsgDisp("主人公","I don't think anyone can do what
+｛Honda＊＊｝ does.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -61,8 +61,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120202_01_080");
-MsgDisp("Kazama","So, I'm not trying to rub salt into my own
-wounds.");
+MsgDisp("Kazama","So, I'm not trying to rub salt into my
+own wounds.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

@@ -33,8 +33,7 @@ ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("K020800001_08_030");
-MsgDisp("Shirahane","Yeah.
-Again, happy birthday▼");
+MsgDisp("Shirahane","Yeah. Again, happy birthday▼");
 ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,4,1);

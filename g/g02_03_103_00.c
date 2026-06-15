@@ -18,8 +18,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020310300_03_020");
-MsgDisp("Honda","You were troubled when I said that suddenly,
-right?
+MsgDisp("Honda","You were troubled when I said that
+suddenly, right?
 I'm really sorry!");
 ChEye(3,4);
 ChMouth(3,4);
@@ -65,8 +65,8 @@ ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310300_03_090");
 MsgDisp("Honda","Phew, I feel so much better...
-It's like I can finally breathe normally
-again.");
+It's like I can finally breathe
+normally again.");
 MsgDisp("主人公","(｛Honda＊＊｝, you were worrying about it that
 much...thank you.)");
 BGMStop();

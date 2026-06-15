@@ -89,8 +89,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C30300_07_030");
-MsgDisp("Mikage","Yanosuke, your stance is pretty cool- looking
-too.
+MsgDisp("Mikage","Yanosuke, your stance is pretty cool-
+looking too.
 Like a figure skater.");
 ChEye(5,4);
 ChMouth(5,4);

@@ -10,8 +10,7 @@ ChMouth(1,4);
 ChMotion(1,4);
 ChCheek(1,5);
 VoicePlay("B020102131_01_010");
-MsgDisp("Kazama","Yeah.
-I like the way you dress naturally.");
+MsgDisp("Kazama","Yeah. I like the way you dress naturally.");
 MsgDisp("主人公","(Oh, good!
 ｛Kazama＊＊｝ seems to have started to love
 clothes like these, too!)");

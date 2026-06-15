@@ -61,8 +61,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(3);
 VoicePlay("Q070300000_03_050");
 MsgDisp("Honda","｛主人公｝, here, look over there?");
-MsgDisp("主人公","Eh?
-Wow, such a big tower.");
+MsgDisp("主人公","Eh? Wow, such a big tower.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -80,8 +79,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("Q070300000_03_080");
-MsgDisp("Honda","Here, gimme your hand?
-Run!");
+MsgDisp("Honda","Here, gimme your hand? Run!");
 MsgDisp("主人公","Eh?");
 MsgClose();
 SEPlay("EV_SE_504");
@@ -119,9 +117,9 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q070300000_03_110");
-MsgDisp("Honda","I wonder what dreams the merchants had as
-they came to such a distant and foreign
-land...");
+MsgDisp("Honda","I wonder what dreams the merchants had
+as they came to such a distant and
+foreign land...");
 MsgDisp("主人公","I wonder too...
 ｛Honda＊＊｝, what's your dream?");
 ChEye(3,5);
@@ -145,8 +143,7 @@ VoicePlay("Q070300000_03_140");
 MsgDisp("Honda","Yepyep.
 It's someone who focuses on field research
 and studies everything that exists in nature.");
-MsgDisp("主人公","Wow!
-That sounds very ｛Honda＊＊｝ -like.");
+MsgDisp("主人公","Wow! That sounds very ｛Honda＊＊｝ -like.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);

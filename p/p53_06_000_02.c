@@ -99,8 +99,7 @@ I'm off now.");
     ChMotion(6,5);
     VoicePlay("P530600002_06_090");
     VoiceEVSPlay(6);
-    MsgDisp("Himuro","Ah—
-｛主人公｝.");
+    MsgDisp("Himuro","Ah— ｛主人公｝.");
     MsgDisp("主人公","Yeah?");
     ChEye(6,0);
     ChMouth(6,0);

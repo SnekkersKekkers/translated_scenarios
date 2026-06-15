@@ -48,8 +48,7 @@ ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360150401_01_050");
 MsgDisp("Kazama","What's with that?
-I'm not a dog.
-...Geez.");
+I'm not a dog. ...Geez.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -66,8 +65,8 @@ MsgDisp("主人公","Wait, don't pull so hard!");
 VoicePlay("B360150401_01_070");
 MsgDisp("Kazama","Let's go over there.
 There's an even better view.");
-MsgDisp("主人公","(Somehow ｛Kazama＊＊｝ looks like an excited
-puppy.)");
+MsgDisp("主人公","(Somehow ｛Kazama＊＊｝ looks like an
+excited puppy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

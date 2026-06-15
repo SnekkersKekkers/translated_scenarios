@@ -12,10 +12,9 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("H480700000_07_010");
 MsgDisp("Mikage","Yeah, today's your last tournament.
-I'm going to cheer until I lose my voice,
-okay?");
-MsgDisp("主人公","Hehe.
-But, you can't be too loud.");
+I'm going to cheer until I lose my
+voice, okay?");
+MsgDisp("主人公","Hehe. But, you can't be too loud.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -27,8 +26,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("H480700000_07_030");
-MsgDisp("Mikage","But I'll still be clapping as hard as I can,
-okay?
+MsgDisp("Mikage","But I'll still be clapping as hard as I
+can, okay?
 Good luck.");
 MsgDisp("主人公","Yes, I'll be doing my best as well!");
 MsgDisp("主人公","(Alright!

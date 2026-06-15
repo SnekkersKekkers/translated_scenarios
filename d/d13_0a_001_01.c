@@ -27,8 +27,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D130A00101_06_000");
-MsgDisp("Himuro","Hm.
-He's kind of cheating, though.");
+MsgDisp("Himuro","Hm. He's kind of cheating, though.");
 ChEye(1,0);
 MsgDisp("主人公","?");
 ChEye(1,0);
@@ -48,8 +47,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("D130A00101_02_010");
-MsgDisp("Sassa","The prize is the right to take a photo with
-you.
+MsgDisp("Sassa","The prize is the right to take a photo
+with you.
 Since it's our last Christmas party.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -108,8 +107,7 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D130A00101_01_070");
 MsgDisp("Kazama","You guys...");
-MsgDisp("主人公","Hehe!
-Come on, ｛Kazama＊＊｝, smile.");
+MsgDisp("主人公","Hehe! Come on, ｛Kazama＊＊｝, smile.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -145,15 +143,14 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D130A00101_06_020");
-MsgDisp("Himuro","Ryota-senpai, karma really does catch up,
-huh?");
+MsgDisp("Himuro","Ryota-senpai, karma really does catch
+up, huh?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D130A00101_01_080");
-MsgDisp("Kazama","Huh?
-I didn't do anything wrong.");
+MsgDisp("Kazama","Huh? I didn't do anything wrong.");
 MsgDisp("主人公","(Hehe, we got a nice photo!
 Thank you so much, ｛Mikage＊＊｝.)");
 BGMStop();

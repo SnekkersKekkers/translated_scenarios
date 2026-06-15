@@ -41,8 +41,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110100_01_050");
-MsgDisp("Kazama","Me?
-I'm right here.");
+MsgDisp("Kazama","Me? I'm right here.");
 ChEye(1,1);
 ChMouth(1,2);
 ChMotion(1,3);

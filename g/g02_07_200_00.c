@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 ChMotion(7,0);
 VoicePlay("G020720000_07_000");
-MsgDisp("Mikage","Recently, several boys have come to me for
-advice.");
+MsgDisp("Mikage","Recently, several boys have come to me
+for advice.");
 MsgDisp("主人公","｛Mikage＊＊｝ is an easy-to-talk-to
 teacher, after all.");
 ChEye(7,1);
@@ -45,8 +45,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020720000_07_060");
 MsgDisp("Mikage","So, who is it?");
-MsgDisp("主人公","Ehhh∋
-Huh?
+MsgDisp("主人公","Ehhh∋ Huh?
 I have close friends, but...");
 ChEye(7,0);
 ChMouth(7,3);

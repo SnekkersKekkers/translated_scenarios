@@ -43,13 +43,11 @@ MsgDisp("主人公","Hehe, you guys are really into it, huh?");
 StlEyeOpenLevel(1,5,1);
 StlMouth(1,0);
 VoicePlay("D120A00100_01_000");
-MsgDisp("Kazama","Ugh...
-Why are you here.");
+MsgDisp("Kazama","Ugh... Why are you here.");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D120A00100_02_000");
-MsgDisp("Sassa","Yo.
-Are you here for the surfing class too?");
+MsgDisp("Sassa","Yo. Are you here for the surfing class too?");
 MsgDisp("主人公","Nope, I'm just here to observe.");
 StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
@@ -68,8 +66,8 @@ MsgDisp("Kazama","Inori, this is your doing, isn't it?");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("D120A00100_02_010");
-MsgDisp("Sassa","Hey, how much longer should we keep this
-pose?");
+MsgDisp("Sassa","Hey, how much longer should we keep
+this pose?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
@@ -87,8 +85,8 @@ MsgDisp("Kazama","All because Sassa had to ask you to teach us
 to surf...");
 StlEyeOpenLevel(1,#1);
 StlMouth(1,1);
-MsgDisp("主人公","(｛Himuro＊＊｝ looks like he's having a lot of
-fun?)");
+MsgDisp("主人公","(｛Himuro＊＊｝ looks like he's having a lot
+of fun?)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

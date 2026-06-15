@@ -7,8 +7,7 @@ last year?)");
 VoicePlay("F110710001_47_000");
 MsgDisp("Woman A","Um, excuse me.
 Where do I go to meet the pony prince?");
-MsgDisp("主人公","Huh?
-Pony prince?");
+MsgDisp("主人公","Huh? Pony prince?");
 VoicePlay("F110710001_48_000");
 MsgDisp("Woman B","I met him!
 At the horse riding lessons.");
@@ -23,8 +22,7 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110710001_07_000");
 MsgDisp("Mikage","Ha....");
 MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
-Huh?
-A mobile zoo?");
+Huh? A mobile zoo?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);

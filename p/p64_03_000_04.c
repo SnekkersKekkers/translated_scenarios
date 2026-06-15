@@ -10,8 +10,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("P640300004_03_010");
 MsgDisp("Honda","All of them are sweet like fruit.
-Wouldn't even a vegetable-hating kid enjoy
-this?");
+Wouldn't even a vegetable-hating kid
+enjoy this?");
 MsgDisp("主人公","That would be nice.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -26,8 +26,7 @@ VoicePlay("P640300004_03_030");
 MsgDisp("Honda","Oh, I know!
 How about serving the vegetables you grew in
 the school cafeteria?");
-MsgDisp("主人公","(Yay!
-I was praised by ｛Honda＊＊｝.)");
+MsgDisp("主人公","(Yay! I was praised by ｛Honda＊＊｝.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

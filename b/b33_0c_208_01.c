@@ -17,8 +17,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B330C20801_05_000");
 MsgDisp("Hiiragi","Ahh, feels nice.
 I'm glad Inori-kun decided on this place.");
-MsgDisp("主人公","I see.
-Does ｛Himuro＊＊｝ like it here?");
+MsgDisp("主人公","I see. Does ｛Himuro＊＊｝ like it here?");
 ChEye(5,4);
 ChEye(6,0);
 ChMouth(6,4);
@@ -26,8 +25,7 @@ ChMotion(6,4);
 VoicePlay("B330C20801_06_000");
 MsgDisp("Himuro","It's not just me.");
 VoicePlay("B330C20801_07_000");
-MsgDisp("Mikage","O-i!
-Come here you guys.
+MsgDisp("Mikage","O-i! Come here you guys.
 There's a good spot!");
 ChEye(6,0);
 ChMouth(6,4);

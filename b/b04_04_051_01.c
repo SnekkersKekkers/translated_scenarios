@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040405101_04_010");
-    MsgDisp("Nanatsumori","Hey.
-Was I dissing planetariums?");
+    MsgDisp("Nanatsumori","Hey. Was I dissing planetariums?");
     MsgDateResultDisp();
     break ;
     case 1:

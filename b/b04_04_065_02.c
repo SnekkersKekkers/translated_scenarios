@@ -72,8 +72,7 @@ person, three years in a row.");
         ChMouth(4,3);
         ChMotion(4,3,1);
         VoicePlay("B040406502_04_070");
-        MsgDisp("Nanatsumori","Yeah.
-You've helped me grow a lot.");
+        MsgDisp("Nanatsumori","Yeah. You've helped me grow a lot.");
         MsgDisp("主人公","Me?");
         ChMotion(4,1,1);
         VoicePlay("B040406502_04_080");
@@ -122,8 +121,7 @@ They're pretty, right?");
         ChMotion(4,0,1);
         ChCheek(4,10);
         VoicePlay("B040406502_04_140");
-        MsgDisp("Nanatsumori","Yeah.
-It truly is beautiful.");
+        MsgDisp("Nanatsumori","Yeah. It truly is beautiful.");
         SEStop("EV_SE_022");
         MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;

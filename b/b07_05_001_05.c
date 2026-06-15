@@ -3,11 +3,9 @@ MsgDisp("主人公","What kind of person am I to ｛Hiiragi＊＊＊｝,
 ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("B070500001_05_360");
-MsgDisp("Hiiragi","Hm?
-What's the matter?");
-MsgDisp("主人公","No.
-I was just a bit curious...since I'm the only
-girl.");
+MsgDisp("Hiiragi","Hm? What's the matter?");
+MsgDisp("主人公","No. I was just a bit curious...since I'm the
+only girl.");
 ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("B070500001_05_370");
@@ -39,8 +37,8 @@ ChMotion(5,4);
 VoicePlay("B070500001_05_420");
 MsgDisp("Hiiragi","That's just what I've been thinking.
 ...But I think it's a good analysis?");
-MsgDisp("主人公","(They started getting along because I was
-there?
+MsgDisp("主人公","(They started getting along because I
+was there?
 I've never considered such a thing before...)");
 BGMStop();
 MsgClose();

@@ -73,9 +73,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B050300000_03_070");
-MsgDisp("Honda","\"The nostalgic sound of your footsteps as you
-approach me\"—, that scene really draws you
-in.");
+MsgDisp("Honda","\"The nostalgic sound of your footsteps as
+you approach me\"—, that scene really draws
+you in.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMouth(3,4);
@@ -95,11 +95,10 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B050300000_03_100");
-MsgDisp("Honda","It was a song from my sister's favourite idol
-group.
+MsgDisp("Honda","It was a song from my sister's favourite
+idol group.
 I hear it all the time at home...");
-MsgDisp("主人公","Hehe.
-At least your sister is happy, I guess?");
+MsgDisp("主人公","Hehe. At least your sister is happy, I guess?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -107,8 +106,8 @@ VoicePlay("B050300000_03_110");
 MsgDisp("Honda","I guess so.
 Oh, look.
 The CD is in stock. I'll buy it.");
-MsgDisp("主人公","Eh, ｛Honda＊＊｝, I thought you didn't like
-it...");
+MsgDisp("主人公","Eh, ｛Honda＊＊｝, I thought you didn't
+like it...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);

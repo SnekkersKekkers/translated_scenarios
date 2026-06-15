@@ -5,8 +5,7 @@ MsgDisp("主人公","(Well, then.
 I think it's time to head home.)");
 VoicePlay("E010710000_07_000");
 MsgDisp("Mikage?","Hey");
-MsgDisp("主人公","Hm?
-That voice...");
+MsgDisp("主人公","Hm? That voice...");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,37,0,0,0,#1,#1,0,0);
@@ -16,8 +15,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("E010710000_07_010");
-MsgDisp("Mikage","I wouldn't go into a fancy store wearing
-this.");
+MsgDisp("Mikage","I wouldn't go into a fancy store
+wearing this.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -32,8 +31,7 @@ ChMotion(7,2);
 VoicePlay("E010710000_07_030");
 MsgDisp("Mikage","I don't need to take care of them every day.
 My kids are low maintenance.");
-MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝ has a lot of children.");
+MsgDisp("主人公","Hehe. ｛Mikage＊＊｝ has a lot of children.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

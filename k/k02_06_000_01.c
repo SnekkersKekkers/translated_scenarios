@@ -27,8 +27,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("K020600001_06_020");
-MsgDisp("Himuro","Yeah.
-Take it.");
+MsgDisp("Himuro","Yeah. Take it.");
 MsgDisp("主人公","Thank you!");
 ChEye(6,0);
 ChMouth(6,0);

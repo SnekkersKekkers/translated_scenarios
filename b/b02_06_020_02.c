@@ -9,7 +9,6 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("B020602002_06_010");
-MsgDisp("Himuro","Yeah.
-...But it's not so bad.");
+MsgDisp("Himuro","Yeah. ...But it's not so bad.");
 MsgDisp("主人公","(Oh, good.
 Seems like he likes it!)");

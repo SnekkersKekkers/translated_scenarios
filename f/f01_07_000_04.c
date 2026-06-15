@@ -45,8 +45,7 @@ Principal Himuro called me to talk.");
     MsgDisp("Mikage","Maybe I should just ditch and go home with
 you instead.
 That's an option, right?");
-    MsgDisp("主人公","Huh∋
-That would be bad, wouldn't it?");
+    MsgDisp("主人公","Huh∋ That would be bad, wouldn't it?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);

@@ -21,8 +21,7 @@ Is this for me, ｛みちる＊｝?");
     ChMouth(21,3);
     ChMotion(21,3);
     VoicePlay("U032100002_21_020");
-    MsgDisp("Michiru","Yes.
-Now we have a matching scent.");
+    MsgDisp("Michiru","Yes. Now we have a matching scent.");
     SEPlay("EV_SE_083");
     MsgDisp("主人公","(I got Camellia perfume!)");
     SEPlay("EV_SE_080");
@@ -34,8 +33,7 @@ person...)");
     VoicePlay("U032100002_21_030");
     MsgDisp("Michiru","Thank you for hanging out with me today.
 Well then, see you at school.");
-    MsgDisp("主人公","Okay.
-See you later, ｛みちる＊｝!");
+    MsgDisp("主人公","Okay. See you later, ｛みちる＊｝!");
     break ;
     case 1:
     MsgDisp("主人公","I'm sorry but...no thanks.");
@@ -51,8 +49,7 @@ No worries.");
     VoicePlay("U032100002_21_050");
     MsgDisp("Michiru","Thanks for today.
 See you at school then?");
-    MsgDisp("主人公","Yeah.
-See you later, ｛みちる＊｝.");
+    MsgDisp("主人公","Yeah. See you later, ｛みちる＊｝.");
     break ;
     default :
     DbgAssert(0);

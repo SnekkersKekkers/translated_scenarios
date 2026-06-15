@@ -10,8 +10,8 @@ ChMotion(3,3,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360318001_03_000");
-MsgDisp("Honda","I heard the caramel popcorn here is super
-good!");
+MsgDisp("Honda","I heard the caramel popcorn here is
+super good!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -22,8 +22,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360318001_03_020");
-MsgDisp("Honda","...Wait, did you hear about it from Mi-kun
-too?");
+MsgDisp("Honda","...Wait, did you hear about it from
+Mi-kun too?");
 MsgDisp("主人公","No, the popcorn here is just really popular.");
 ChMouth(3,4);
 VoicePlay("B360318001_03_030");

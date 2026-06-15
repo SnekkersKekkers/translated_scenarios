@@ -38,8 +38,8 @@ switch (MsgSelRsltGet()){
         ChMotion(4,2,1);
         VoicePlay("B040420002_04_030");
         MsgDisp("Nanatsumori","Sigh.
-Maybe I should get an instructor to teach
-me—...");
+Maybe I should get an instructor to
+teach me—...");
         ChEye(4,1);
         ChMouth(4,1);
         ChEyeOpenLevel(4,0);
@@ -116,8 +116,7 @@ I only need to try looking cool at work.");
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040420002_04_130");
-    MsgDisp("Nanatsumori","Hmm...
-That's quite sloppy.");
+    MsgDisp("Nanatsumori","Hmm... That's quite sloppy.");
     MsgDateResultDisp();
     break ;
     case 2:

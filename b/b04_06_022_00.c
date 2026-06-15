@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,3);
     VoicePlay("B040602200_06_010");
     MsgDisp("Himuro","It's the source of life after all.
-Undoubtedly, it's the greatest thing on
-earth.");
+Undoubtedly, it's the greatest thing
+on earth.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

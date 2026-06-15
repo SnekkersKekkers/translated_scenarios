@@ -94,8 +94,8 @@ employee comes...)");
     ChMouth(1,3);
     ChMotion(1,3,1);
     VoicePlay("B040117002_01_080");
-    MsgDisp("Kazama","That was great, even better than the original
-song!");
+    MsgDisp("Kazama","That was great, even better than the
+original song!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

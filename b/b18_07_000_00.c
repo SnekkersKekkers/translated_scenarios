@@ -13,8 +13,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B180700000_07_010");
 MsgDisp("Mikage","...Is it no good?
-I thought it would change the mood in a fun
-way.");
+I thought it would change the mood in a
+fun way.");
 MsgSel("No, it's fine.","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,8 +47,7 @@ shy too...)");
     VoicePlay("B180700000_07_050");
     MsgDisp("Mikage","Don't apologise, I'll get embarrassed.
 Let's not count what happened just now?");
-    MsgDisp("主人公","(Hmmm...
-Did I do something wrong?)");
+    MsgDisp("主人公","(Hmmm... Did I do something wrong?)");
     break ;
     default :
     DbgAssert(0);

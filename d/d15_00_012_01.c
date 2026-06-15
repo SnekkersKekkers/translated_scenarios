@@ -26,8 +26,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("D150001201_02_010");
 MsgDisp("Sassa","You'd give me your side dish?
 Good job, Ryota.");
-MsgDisp("主人公","Sure.
-Here you go.
+MsgDisp("主人公","Sure. Here you go.
 Say ahh～");
 ChEye(1,5);
 ChMouth(1,4);

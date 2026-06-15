@@ -34,8 +34,8 @@ Even though we're finally together.");
     ChEyeOpenLevel(2,7);
     ScrFadeIn(0);
     VoicePlay("B060200004_02_020");
-    MsgDisp("Sassa","Sigh... I'm sorry you went through the trouble
-of inviting me.
+    MsgDisp("Sassa","Sigh... I'm sorry you went through the
+trouble of inviting me.
 Sometimes there are just days like this～");
     MsgDispSksp(0);
     break ;

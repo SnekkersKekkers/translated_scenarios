@@ -4,8 +4,7 @@ VoicePlay("G020240001_02_000");
 MsgDisp("Sassa","I was asked by an acquaintance to walk their
 dogs, but there are times when I can't
 because of my training.");
-MsgDisp("主人公","I see.
-That seems a bit lonely, huh?");
+MsgDisp("主人公","I see. That seems a bit lonely, huh?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -16,11 +15,11 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240001_02_020");
-MsgDisp("Sassa","So the other day, I happened to run into
-them.
+MsgDisp("Sassa","So the other day, I happened to run
+into them.
 The owner, an old man, was walking them.");
-MsgDisp("主人公","The doggies must have been happy to see you
-huh?");
+MsgDisp("主人公","The doggies must have been happy to see
+you huh?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);

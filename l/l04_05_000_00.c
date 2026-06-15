@@ -11,8 +11,7 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("L040500000_05_000");
     MsgDisp("Hiiragi","Yes.");
-    MsgDisp("主人公","Here!
-Valentine's chocolate.");
+    MsgDisp("主人公","Here! Valentine's chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
     break ;
@@ -37,8 +36,7 @@ Valentine's chocolate.");
     VoicePlay("L040500000_05_020");
     MsgDisp("Hiiragi","There's no need to be so flustered.
 What is the matter?");
-    MsgDisp("主人公","Here.
-Valentine's chocolate!");
+    MsgDisp("主人公","Here. Valentine's chocolate!");
     SEPlay("EV_SE_665");
     SEWait();
     break ;

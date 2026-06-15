@@ -21,8 +21,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("G020420101_04_030");
-MsgDisp("Nanatsumori","Sigh...
-Did I get the wrong idea?");
+MsgDisp("Nanatsumori","Sigh... Did I get the wrong idea?");
 MsgDisp("主人公","Um, ｛Nanatsumori＊｝?");
 ChEye(4,1);
 ChMouth(4,2);

@@ -28,8 +28,7 @@ Let's get in line.");
         ChMouth(8,4);
         ChMotion(8,0,1);
         VoicePlay("S090800000_08_020");
-        MsgDisp("Shirahane","Eh—!
-You're not gonna∋");
+        MsgDisp("Shirahane","Eh—! You're not gonna∋");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -87,8 +86,7 @@ Do you want to draw one, ｛Daichi＊＊｝?");
     ChMouth(8,3);
     ChMotion(8,2,1);
     VoicePlay("S090800000_08_070");
-    MsgDisp("Shirahane","Eh...
-What about you?");
+    MsgDisp("Shirahane","Eh... What about you?");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
@@ -115,13 +113,11 @@ That means I can't get a bad result!");
         ChMouth(8,0);
         ChMotion(8,0,1);
         VoicePlay("S090800000_08_110");
-        MsgDisp("Shirahane","Oh...
-Yeah, okay then.");
+        MsgDisp("Shirahane","Oh... Yeah, okay then.");
         MsgDisp("主人公","Maybe you actually wanted to pull one?");
         ChMotion(8,4,1);
         VoicePlay("S090800000_08_120");
-        MsgDisp("Shirahane","Nah.
-I was thinkin' hard about it.");
+        MsgDisp("Shirahane","Nah. I was thinkin' hard about it.");
         ChEye(8,0);
         ChMouth(8,3);
         ChMotion(8,3,1);

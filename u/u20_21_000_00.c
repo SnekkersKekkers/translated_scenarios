@@ -10,8 +10,8 @@ VoicePlay("U202100000_21_000");
 MsgDisp("Michiru","Hey, Mari.
 Did you see this poster?");
 MsgDisp("主人公","I think I understand.
-There's a lot of interesting things written
-here.");
+There's a lot of interesting things
+written here.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

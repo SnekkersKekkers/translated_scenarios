@@ -2,8 +2,8 @@ BGOpen("sc606",0);
 ScrFadeIn(0);
 VoicePlay("P610700002_46_000");
 MsgDisp("Manager","For this year's cultural festival club
-programme, we, the Gardening Club have decided
-to host an organic cafe.");
+programme, we, the Gardening Club have
+decided to host an organic cafe.");
 VoicePlay("P610700002_46_010");
 MsgDisp("Manager","Our signature will be a salad with the
 vegetables everyone grew, and herbal tea.");
@@ -34,8 +34,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 MsgDisp("Mikage","Yes, both of them are top quality.");
-MsgDisp("主人公","(Hehe!
-This is my last cultural festival. I have to
-do my best to make this into a huge success!)");
+MsgDisp("主人公","(Hehe! This is my last cultural festival.
+I have to do my best to make this into a huge
+success!)");
 MsgClose();
 ScrFadeOut(0,0);

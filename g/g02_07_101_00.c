@@ -3,24 +3,24 @@ MsgClose();
 ChOpen(7,255,5,0,0,#1,#1,0,0);
 VoicePlay("G020710100_07_000");
 MsgDisp("Mikage","These fireflies here, you know, they seem to
-mysteriously appear in various colours, don't
-they?");
+mysteriously appear in various colours,
+don't they?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710100_07_010");
 MsgDisp("Mikage","Maybe they reflect our feelings.");
 MsgDisp("主人公","Hehe, perhaps that's true.
-What colour does ｛Mikage＊＊｝ see the
-most?");
+What colour does ｛Mikage＊＊｝ see
+the most?");
 ChEye(7,4);
 ChMouth(7,3);
 ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("G020710100_07_020");
 MsgDisp("Mikage","Pink...my head is in a bad place.
-Seriously, I'm at the level of a high school
-boy.");
+Seriously, I'm at the level of a high
+school boy.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

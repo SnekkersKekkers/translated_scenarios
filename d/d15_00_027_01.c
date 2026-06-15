@@ -24,8 +24,8 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D150002701_02_010");
 MsgDisp("Sassa","Ahh, you've forgotten that Mikage-sensei is
-actually the track and field club's adviser,
-huh?");
+actually the track and field club's
+adviser, huh?");
 MsgDisp("主人公","Ah.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -49,8 +49,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D150002701_02_030");
-MsgDisp("Sassa","I wonder why Mikage-sensei's advice always
-helps.");
+MsgDisp("Sassa","I wonder why Mikage-sensei's advice
+always helps.");
 MsgDisp("主人公","(｛Mikage＊＊｝ is really good at motivating
 his students.)");
 BGMStop();

@@ -69,8 +69,8 @@ I want to hear ｛Himuro＊＊｝ sing even more now.");
         ChMotion(6,0);
         VoicePlay("B040617002_06_060");
         MsgDisp("Himuro","It's not something worth listening to.");
-        MsgDisp("主人公","It doesn't matter if you're good or not
-though?");
+        MsgDisp("主人公","It doesn't matter if you're good or
+not though?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,4);
@@ -90,8 +90,8 @@ Sigh, I understand.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040617002_06_090");
-        MsgDisp("Himuro","But, this is on the condition my mic is
-muted.");
+        MsgDisp("Himuro","But, this is on the condition my mic
+is muted.");
         MsgDisp("主人公","(Then I won't be able to hear you...!)");
         break ;
         default :

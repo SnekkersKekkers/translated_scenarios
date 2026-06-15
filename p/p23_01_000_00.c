@@ -45,8 +45,8 @@ than worth it.");
     ChMouth(1,2);
     ChMotion(1,1);
     VoicePlay("P230100000_47_000");
-    MsgDisp("Broadcast","We will now begin Habataki High School's
-play.");
+    MsgDisp("Broadcast","We will now begin Habataki High
+School's play.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

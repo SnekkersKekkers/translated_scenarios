@@ -42,8 +42,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020240003_02_050");
 MsgDisp("Sassa","Hmm...
-There's a bit of a sting to the way you said
-it...");
+There's a bit of a sting to the way you
+said it...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

@@ -14,8 +14,7 @@ Are you free?");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("L040300000_03_000");
-    MsgDisp("Honda","Hm?
-What's up?");
+    MsgDisp("Honda","Hm? What's up?");
     SEPlay("EV_SE_665");
     SEWait();
     MsgDisp("主人公","Here you go.
@@ -28,18 +27,14 @@ Are you free?");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300000_03_010");
-    MsgDisp("Honda","Wait!
-Can I guess?");
+    MsgDisp("Honda","Wait! Can I guess?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,2);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300000_03_020");
-    MsgDisp("Honda","No!
-I won't.
-It'd be awkward if I was wrong.");
-    MsgDisp("主人公","Hehe!
-Here you go.
+    MsgDisp("Honda","No! I won't. It'd be awkward if I was wrong.");
+    MsgDisp("主人公","Hehe! Here you go.
 Valentine's chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
@@ -60,10 +55,9 @@ I was looking for you.");
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300000_03_040");
     MsgDisp("Honda","Today's Valentine's, right?
-I've held off on eating chocolate just for
-today.");
-    MsgDisp("主人公","Huh!?
-Well...here you go.
+I've held off on eating chocolate just
+for today.");
+    MsgDisp("主人公","Huh!? Well...here you go.
 Go ahead.");
     SEPlay("EV_SE_665");
     SEWait();

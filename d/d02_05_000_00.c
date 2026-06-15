@@ -63,8 +63,7 @@ SEPlay("EV_SE_FOOT_039",0,0.5);
 ChClose(5);
 VoicePlay("D020500000_05_050");
 MsgDisp("Hiiragi","I will also watch it from here.");
-MsgDisp("主人公","(Eh...
-｛Hiiragi＊＊＊｝ isn't participating?)");
+MsgDisp("主人公","(Eh... ｛Hiiragi＊＊＊｝ isn't participating?)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -77,8 +76,7 @@ MsgDisp("Troupe A","But Mother...");
 VoicePlay("D020500000_46_010");
 MsgDisp("Troupe B","I am already one with that sword.
 I will always be with you.");
-MsgDisp("主人公","(Ah!
-Those actors...)");
+MsgDisp("主人公","(Ah! Those actors...)");
 VoicePlay("D020500000_05_060");
 MsgDisp("Hiiragi","It's those two again.
 They are back again in our new work.");
@@ -111,8 +109,7 @@ VoicePlay("D020500000_05_080");
 MsgDisp("Hiiragi","Making a production we're proud of and
 meeting the viewer's expectations, hopefully
 we were able to achieve both.");
-MsgDisp("主人公","Yeah...
-But what about ｛Hiiragi＊＊＊｝?
+MsgDisp("主人公","Yeah... But what about ｛Hiiragi＊＊＊｝?
 I can't believe ｛Hiiragi＊＊＊｝ isn't in it...");
 ChEye(5,0);
 ChMouth(5,2);
@@ -136,8 +133,7 @@ Wait(5,1);
 ChOpen(5,40,0,4,4,#1,#1,0,0,0,30);
 SEWait();
 VoicePlay("D020500000_05_110");
-MsgDisp("Hiiragi","You...
-There you go, making that face again.");
+MsgDisp("Hiiragi","You... There you go, making that face again.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -156,8 +152,7 @@ SEWait();
 VoicePlay("D020500000_05_130");
 MsgDisp("Hiiragi","The new play has two casts.
 We will take turns playing the roles.");
-MsgDisp("主人公","I see!
-What a relief...");
+MsgDisp("主人公","I see! What a relief...");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

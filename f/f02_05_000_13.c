@@ -11,8 +11,8 @@ ChMouth(5,3);
 ChMotion(5,0,1);
 VoicePlay("F020500013_05_000");
 MsgDisp("Hiiragi","Yes, to Nagasaki.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, have you been to Nagasaki
-before?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, have you been to
+Nagasaki before?");
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("F020500013_05_010");
@@ -20,8 +20,8 @@ MsgDisp("Hiiragi","I have gone several times for performances.
 It truly is a great place, with an
 overflowing sense of exotic charm.");
 MsgDisp("主人公","I see.
-So it's gonna be a little boring for you,
-huh?");
+So it's gonna be a little boring for
+you, huh?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -41,8 +41,7 @@ VoicePlay("F020500013_05_040");
 MsgDisp("Hiiragi","Oh, there is one thing.
 A place I went to frequently.
 ...A champon restaurant.");
-MsgDisp("主人公","Huh?
-A restaurant?");
+MsgDisp("主人公","Huh? A restaurant?");
 ChMotion(5,0);
 VoicePlay("F020500013_05_050");
 MsgDisp("Hiiragi","It was recommended to me several times by

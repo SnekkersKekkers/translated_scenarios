@@ -9,8 +9,8 @@ ChMotion(2,4);
 VoicePlay("D140A03200_02_000");
 MsgDisp("Sassa","Well, enjoying your food is the most
 important thing.");
-MsgDisp("主人公","I see, it's because ｛Kazama＊＊｝ lives alone,
-right?");
+MsgDisp("主人公","I see, it's because ｛Kazama＊＊｝ lives
+alone, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -20,8 +20,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("D140A03200_01_010");
-MsgDisp("Kazama","Hm?
-Inori what are you \"I see\"ing about?");
+MsgDisp("Kazama","Hm? Inori what are you \"I see\"ing about?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
@@ -35,8 +34,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("D140A03200_02_010");
-MsgDisp("Sassa","Haha!
-Inori, you're sharper than usual.");
+MsgDisp("Sassa","Haha! Inori, you're sharper than usual.");
 MsgDisp("主人公","What are you talking about?");
 ChEye(1,2);
 ChMouth(1,1);
@@ -82,8 +80,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A03200_06_030");
-MsgDisp("Himuro","Since he was going to that extent to say it,
-sure.");
+MsgDisp("Himuro","Since he was going to that extent to say
+it, sure.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

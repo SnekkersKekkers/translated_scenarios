@@ -8,5 +8,4 @@ MsgDisp("主人公","Huh?");
 VoicePlay("B020800004_08_010");
 MsgDisp("Shirahane","I thought ya were feelin' chilly.
 You're all bundled up, after all.");
-MsgDisp("主人公","(Ugh...
-I might be wearing too much...)");
+MsgDisp("主人公","(Ugh... I might be wearing too much...)");

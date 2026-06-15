@@ -4,15 +4,14 @@ ChOpen(3,255,5,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150300500_03_000");
 MsgDisp("Honda","Phew, I managed to hold on...");
-MsgDisp("主人公","Ah...
-I did it again...");
+MsgDisp("主人公","Ah... I did it again...");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B150300500_03_010");
 MsgDisp("Honda","It's okay.
-Besides, I'm the one who told you not to
-stop.");
+Besides, I'm the one who told you not
+to stop.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

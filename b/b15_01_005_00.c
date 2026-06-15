@@ -7,8 +7,7 @@ ChEye(1,4);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B150100500_01_000");
-MsgDisp("Kazama","Wait!
-Sigh...
+MsgDisp("Kazama","Wait! Sigh...
 I take back what I said.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
@@ -49,10 +48,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B150100500_01_050");
-MsgDisp("Kazama","Hm.
-What's wrong?");
-MsgDisp("主人公","No!
-It's nothing!");
+MsgDisp("Kazama","Hm. What's wrong?");
+MsgDisp("主人公","No! It's nothing!");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

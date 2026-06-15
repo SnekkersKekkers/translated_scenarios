@@ -34,8 +34,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610300_06_050");
-MsgDisp("Himuro","But, if it did make you uncomfortable, then
-yeah...
+MsgDisp("Himuro","But, if it did make you uncomfortable,
+then yeah...
 I kinda messed up.");
 MsgDisp("主人公","That—");
 ChEye(6,1);

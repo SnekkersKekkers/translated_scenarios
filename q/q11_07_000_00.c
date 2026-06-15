@@ -41,8 +41,7 @@ VoicePlay("Q110700000_07_040");
 MsgDisp("Mikage","You too, don't lose, bloom beautifully and
 welcome spring.
 Okay?");
-MsgDisp("主人公","Yes!
-｛Mikage＊＊｝, thank you very much.");
+MsgDisp("主人公","Yes! ｛Mikage＊＊｝, thank you very much.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -13,10 +13,9 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P640200000_02_010");
 MsgDisp("Sassa","Yeah, it's refreshing.
-Thanks to you, I now know the merits of herb
-tea.");
-MsgDisp("主人公","Really?
-Yay!");
+Thanks to you, I now know the merits of
+herb tea.");
+MsgDisp("主人公","Really? Yay!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -29,8 +28,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P640200000_02_030");
-MsgDisp("Sassa","Phew—...
-Relieving, delicious.");
+MsgDisp("Sassa","Phew—... Relieving, delicious.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

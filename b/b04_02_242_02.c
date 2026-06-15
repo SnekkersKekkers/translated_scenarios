@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040224202_02_000");
-MsgDisp("Sassa","There are people out here camping all alone,
-huh.");
+MsgDisp("Sassa","There are people out here camping all
+alone, huh.");
 MsgSel("It seems fun!","I wonder if they're lonely?","Did ｛Sassa＊＊｝ want to come alone too?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040224202_02_020");
     MsgDisp("Sassa","Well yeah.
-Isn't it more fun to go here with lots of
-people?");
+Isn't it more fun to go here with lots
+of people?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -56,11 +56,9 @@ That's a weird thing to ask.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040224202_02_040");
-        MsgDisp("Sassa","Why?
-Did something happen?");
-        MsgDisp("主人公","No.
-It's because ｛Sassa＊＊｝ seemed interested in
-camping alone.");
+        MsgDisp("Sassa","Why? Did something happen?");
+        MsgDisp("主人公","No. It's because ｛Sassa＊＊｝ seemed
+interested in camping alone.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,0);
@@ -85,8 +83,7 @@ other places, it would be more fun with you.");
         MsgDisp("Sassa","You do that sometimes.
 Often at campsites too.
 I'll remember that.");
-        MsgDisp("主人公","Hehe.
-But, thank you.");
+        MsgDisp("主人公","Hehe. But, thank you.");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,3);

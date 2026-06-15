@@ -5,8 +5,7 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040414000_04_000");
-MsgDisp("Nanatsumori","Crap...
-Today's number was hot!");
+MsgDisp("Nanatsumori","Crap... Today's number was hot!");
 MsgSel("Haa, that was awesome!","That was just so-so, huh...","The sound was so loud, my ears are ringing...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +27,7 @@ It was awesome!");
     ChMouth(4,1);
     ChMotion(4,0,1);
     VoicePlay("B040414000_04_020");
-    MsgDisp("Nanatsumori","...So-so?
-What do you mean by \"so-so\"?");
+    MsgDisp("Nanatsumori","...So-so? What do you mean by \"so-so\"?");
     MsgDateResultDisp();
     break ;
     case 2:

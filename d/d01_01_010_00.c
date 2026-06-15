@@ -45,8 +45,7 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D010101000_01_041");
 MsgDisp("Kazama","It's easy to get stuck in a puddle or
 something like that?");
-MsgDisp("主人公","Eh?
-A puddle...
+MsgDisp("主人公","Eh? A puddle...
 That only happened one time.");
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
@@ -79,8 +78,8 @@ MsgDisp("主人公","｛Kazama＊＊｝, you wanted to visit the castle?");
 StlEye(1,1);
 VoicePlay("D010101000_01_061");
 MsgDisp("Kazama","I guess so.
-...The city changed a lot while I was gone, I
-guess?");
+...The city changed a lot while I was gone,
+I guess?");
 MsgDisp("主人公","That's true.");
 StlEye(1,0);
 StlEyeOpenLevel(1,5,1);
@@ -98,8 +97,8 @@ StlEye(1,0);
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D010101000_01_091");
 MsgDisp("Kazama","Nope.
-The two of us have forgotten about a lot of
-things.");
+The two of us have forgotten about a lot
+of things.");
 StlEye(1,2);
 StlMouth(1,1);
 VoicePlay("D010101000_01_101");
@@ -125,8 +124,8 @@ MsgDisp("Kazama","I think I'm ready for that change...");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("D010101000_01_140");
 MsgDisp("Kazama","The sound of the bell.
-Like I thought, you can't hear it from
-here...");
+Like I thought, you can't hear it
+from here...");
 MsgDisp("主人公","Hehe, when you say \"the sound of the bell\",
 do you mean that church bell we both heard a
 long time ago?");
@@ -152,8 +151,7 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010101000_01_160");
-MsgDisp("Kazama","Huh?
-That's what you mean...
+MsgDisp("Kazama","Huh? That's what you mean...
 That's somewhat disappointing.");
 MsgDisp("主人公","(｛Kazama＊＊｝, maybe you thought I forgot
 about you?

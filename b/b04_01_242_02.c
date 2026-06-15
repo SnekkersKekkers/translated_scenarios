@@ -68,15 +68,13 @@ Like when we gaze at the fire together...");
         ChMotion(1,0);
         VoicePlay("B040124202_01_050");
         MsgDisp("Kazama","Try imagining a flickering fire.");
-        MsgDisp("主人公","Eh?
-Y-Yeah?");
+        MsgDisp("主人公","Eh? Y-Yeah?");
         ScrFadeOut(3,30);
         Wait(40,1);
         VoicePlay("B040124202_01_060");
-        MsgDisp("Kazama","Alright, then what do you see beyond that
-fire?");
-        MsgDisp("主人公","Ummm...
-｛Kazama＊＊｝?");
+        MsgDisp("Kazama","Alright, then what do you see beyond
+that fire?");
+        MsgDisp("主人公","Ummm... ｛Kazama＊＊｝?");
         VoicePlay("B040124202_01_070");
         MsgDisp("Kazama","Right.
 It's just me and you warming ourselves by the

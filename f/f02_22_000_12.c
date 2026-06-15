@@ -27,7 +27,6 @@ VoicePlay("F022200012_22_020");
 MsgDisp("Hikaru","Ah～
 Hikaru hopes she can be in the same class as
 Mari this time though.");
-MsgDisp("主人公","Hehe!
-That's right, isn't it?");
+MsgDisp("主人公","Hehe! That's right, isn't it?");
 MsgClose();
 ScrFadeOut(0,0);

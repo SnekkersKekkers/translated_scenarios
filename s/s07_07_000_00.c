@@ -10,8 +10,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("S070700000_07_000");
     MsgDisp("Mikage","The atmosphere here is really nice.
 It feels like New Years.");
-    MsgDisp("主人公","Yeah.
-I feel so nervous.");
+    MsgDisp("主人公","Yeah. I feel so nervous.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -89,8 +88,7 @@ I'm the same way.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S070700000_07_110");
-    MsgDisp("Mikage","Yeah.
-I wish I had unlimited wishes.
+    MsgDisp("Mikage","Yeah. I wish I had unlimited wishes.
 You're usually limited to three, right?");
     MsgDisp("主人公","Hehe, I wonder what's ｛Mikage＊＊｝'s wish?");
     ChEye(7,2);

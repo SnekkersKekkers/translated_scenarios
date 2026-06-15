@@ -6,8 +6,7 @@ VoicePlay("G020210300_02_000");
 MsgDisp("Sassa","...It's kind of pitiable, but when something
 is this beautiful, you want to catch it.
 Maybe insect catching is a guy's instinct.");
-MsgDisp("主人公","Hehe.
-You know you really shouldn't, right?");
+MsgDisp("主人公","Hehe. You know you really shouldn't, right?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

@@ -65,8 +65,7 @@ while (1){
     ChMotion(1,1);
     ChEyeOpenLevel(1,8);
     VoicePlay("G110101000_01_040");
-    MsgDisp("Kazama","Hm?
-Did I talk too much?");
+    MsgDisp("Kazama","Hm? Did I talk too much?");
     ChEyeOpenLevel(1,0);
     Wait(10,0);
     ChEyeOpenLevel(1,#1);

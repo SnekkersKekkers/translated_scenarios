@@ -8,8 +8,7 @@ SEPlay("EV_SE_719");
 Wait(15,0);
 VoicePlay("D010300600_03_000");
 MsgDisp("Honda?","Ahh!");
-MsgDisp("主人公","Eh...
-｛Honda＊＊｝, are you okay∋");
+MsgDisp("主人公","Eh... ｛Honda＊＊｝, are you okay∋");
 MsgClose();
 ChOpen(3,35,4,2,4,#1,#1,3,0);
 VoicePlay("D010300600_03_010");
@@ -55,8 +54,7 @@ StlEye(3,1,0);
 StlMouth(3,1);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300600_03_050");
-MsgDisp("Honda","Huh?
-What?");
+MsgDisp("Honda","Huh? What?");
 MsgDisp("主人公","We're still at work right now and if someone
 were to see us—");
 StlEye(3,0);
@@ -89,8 +87,7 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 ChCheek(3,8);
 VoicePlay("D010300600_03_100");
-MsgDisp("Honda","Is this...
-Love?");
+MsgDisp("Honda","Is this... Love?");
 MsgDisp("主人公","Ehh∋");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -148,8 +145,7 @@ SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 BGMStop();
 ChClose(3,0,30);
 MsgDisp("主人公","(｛Honda＊＊｝ said something very bold...
-Sigh...
-Now my heart is racing.)");
+Sigh... Now my heart is racing.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(3,0);

@@ -10,5 +10,5 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Opera Glasses\")");
-MsgDisp("主人公","(Woah, looks like it was made to watch a real
-play!)");
+MsgDisp("主人公","(Woah, looks like it was made to watch a
+real play!)");

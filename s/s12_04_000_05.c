@@ -79,8 +79,7 @@ Maybe we can keep meeting like this.");
     MsgDisp("Nanatsumori","I...more with you—");
     ChMouth(4,3);
     VoicePlay("S120400005_04_090");
-    MsgDisp("Nanatsumori","...Stop.
-I don't want to talk about this now.");
+    MsgDisp("Nanatsumori","...Stop. I don't want to talk about this now.");
     MsgDisp("主人公","｛Nanatsumori＊｝?");
     ChEye(4,0);
     ChMouth(4,3);
@@ -92,8 +91,7 @@ can, alright?");
     MsgDisp("主人公","Hehe, yeah!");
     ChMotion(4,1,1);
     VoicePlay("S120400005_04_110");
-    MsgDisp("Nanatsumori","Okay.
-Then, see you later.");
+    MsgDisp("Nanatsumori","Okay. Then, see you later.");
     MsgClose();
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

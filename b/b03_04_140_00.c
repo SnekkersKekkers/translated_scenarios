@@ -4,8 +4,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B030414000_04_000");
-MsgDisp("Nanatsumori","Hey.
-Go ahead and walk in front of me.");
+MsgDisp("Nanatsumori","Hey. Go ahead and walk in front of me.");
 MsgDisp("主人公","Huh?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 MsgClose();
@@ -19,11 +18,9 @@ BGOpen("ne210",0);
 ScrFadeIn(0);
 VoicePlay("B030414000_04_010");
 MsgDisp("Nanatsumori","It's narrow and dark in here.
-You could get hurt in all kinds of ways.
-OK?");
+You could get hurt in all kinds of ways. OK?");
 MsgDispSksp(1,0);
-MsgDisp("主人公","Oh, OK.
-Thank you, ｛Nanatsumori＊｝.");
+MsgDisp("主人公","Oh, OK. Thank you, ｛Nanatsumori＊｝.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

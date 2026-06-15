@@ -14,8 +14,8 @@ ChMotion(5,4);
 VoicePlay("P640500002_05_010");
 MsgDisp("Hiiragi","Wasn't it difficult to grow until now?");
 MsgDisp("主人公","Yes.
-But, I'm happy that you can enjoy eating
-them.");
+But, I'm happy that you can enjoy
+eating them.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -24,14 +24,14 @@ MsgDisp("Hiiragi","Of course.
 Then I'll have a little more in my salad.
 Is that okay?");
 MsgDisp("主人公","With pleasure!
-It's organically farmed, so safe for the
-body.");
+It's organically farmed, so safe for
+the body.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("P640500002_05_030");
-MsgDisp("Hiiragi","Yes, if the producer says so, it must be
-true.");
+MsgDisp("Hiiragi","Yes, if the producer says so, it must
+be true.");
 MsgDisp("主人公","(Hehe, a huge success∈
 I'm glad I worked hard in preparations!)");
 MsgClose();

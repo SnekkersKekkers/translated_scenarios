@@ -7,14 +7,12 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, ｛Honda＊＊｝!
-I won!");
+MsgDisp("主人公","Ah, ｛Honda＊＊｝! I won!");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("H4A0300000_03_000");
-MsgDisp("Honda","Sigh...
-So it really was you?");
+MsgDisp("Honda","Sigh... So it really was you?");
 MsgDisp("主人公","Hm?");
 ChEye(3,0);
 ChMouth(3,0);

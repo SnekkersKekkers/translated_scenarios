@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040114000_01_010");
     MsgDisp("Kazama","That's good then.
-I can still hear the performance in my
-head...");
+I can still hear the performance in
+my head...");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();

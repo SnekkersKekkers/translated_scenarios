@@ -10,8 +10,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("O030600002_06_000");
     MsgDisp("Himuro","...I didn't expect this result.
 How humiliating.");
-    MsgDisp("主人公","(Ugh...
-Last...
+    MsgDisp("主人公","(Ugh... Last...
 We weren't in sync at all.)");
     break ;
     case 3:
@@ -19,15 +18,13 @@ We weren't in sync at all.)");
     ChOpen(6,30,2,0,0,0,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030600002_06_010");
-    MsgDisp("Himuro","Sigh...
-We weren't in sync at all.");
+    MsgDisp("Himuro","Sigh... We weren't in sync at all.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("O030600002_06_020");
     MsgDisp("Himuro","Are we incompatible?");
-    MsgDisp("主人公","(Ugh...
-Last...
+    MsgDisp("主人公","(Ugh... Last...
 We weren't in sync at all.)");
     break ;
     case 4:

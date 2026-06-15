@@ -48,8 +48,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G110300603_03_050");
-MsgDisp("Honda","It's the first edition of \"The Way of First
-Love\".
+MsgDisp("Honda","It's the first edition of \"The Way of
+First Love\".
 It's signed by the author in the back, see?");
 MsgDisp("主人公","(Phew, I'm glad I didn't damage his precious
 book...)");

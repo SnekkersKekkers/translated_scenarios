@@ -53,8 +53,8 @@ switch (MsgSelRsltGet()){
         ChMotion(2,4);
         VoicePlay("B040206302_02_040");
         MsgDisp("Sassa","No risk no reward, right?");
-        MsgDisp("主人公","I don't know if that applies to getting
-soaked.");
+        MsgDisp("主人公","I don't know if that applies to
+getting soaked.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);
@@ -92,8 +92,8 @@ That was dangerous...");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040206302_02_080");
-        MsgDisp("Sassa","Well, I'm more athletic now than when I was a
-kid.
+        MsgDisp("Sassa","Well, I'm more athletic now than when I was
+a kid.
 Let's go!");
         MsgClose();
         MsgClose();

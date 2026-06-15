@@ -26,8 +26,7 @@ immensely beautiful.");
     MsgDisp("Hiiragi","Daily practice speaks for itself.
 You looked so dignified in your judo uniform,
 with your back perfectly straight.");
-    MsgDisp("主人公","(Yay!
-I was praised by ｛Hiiragi＊＊＊｝)");
+    MsgDisp("主人公","(Yay! I was praised by ｛Hiiragi＊＊＊｝)");
     break ;
     default :
     DbgAssert(1);

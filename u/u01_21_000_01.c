@@ -29,8 +29,7 @@ the planetarium with me?");
         VoicePlay("U012100001_21_020");
         MsgDisp("Michiru","Ah, thank god!
 Should we meet up there then?");
-        MsgDisp("主人公","Sure.
-See you there soon!");
+        MsgDisp("主人公","Sure. See you there soon!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         break ;
@@ -41,8 +40,8 @@ Well then, maybe there will be another
 opportunity.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though she took the time to invite
-me...
+        MsgDisp("主人公","(Even though she took the time to
+invite me...
 Maybe that was the wrong choice?)");
         break ;
         default :

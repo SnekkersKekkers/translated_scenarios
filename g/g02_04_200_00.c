@@ -50,8 +50,7 @@ MsgDisp("主人公","That's...");
 ChEye(4,0);
 ChMouth(4,1);
 VoicePlay("G020420000_04_080");
-MsgDisp("Nanatsumori","...Crap.
-This question feels awkward.");
+MsgDisp("Nanatsumori","...Crap. This question feels awkward.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

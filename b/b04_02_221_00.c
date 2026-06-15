@@ -16,8 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040222100_02_010");
-    MsgDisp("Sassa","Eh?
-I think I'm fine with it though.");
+    MsgDisp("Sassa","Eh? I think I'm fine with it though.");
     MsgDateResultDisp();
     break ;
     case 1:

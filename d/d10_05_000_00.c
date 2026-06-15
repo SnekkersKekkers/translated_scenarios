@@ -7,8 +7,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D100500000_05_000");
 MsgDisp("Hiiragi","｛主人公｝, are you okay?");
-MsgDisp("主人公","Eh?
-｛Hiiragi＊＊＊｝, what's up?");
+MsgDisp("主人公","Eh? ｛Hiiragi＊＊＊｝, what's up?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

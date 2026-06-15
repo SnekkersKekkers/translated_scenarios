@@ -35,8 +35,7 @@ I'm counting on you♪");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("B040524200_05_030");
-    MsgDisp("Hiiragi","Yes.
-It's outdoors work after all.");
+    MsgDisp("Hiiragi","Yes. It's outdoors work after all.");
     MsgDateResultDisp();
     break ;
     default :

@@ -56,8 +56,8 @@ ChMotion(2,0);
 VoicePlay("P540200004_02_060");
 MsgDisp("Sassa","Somewhat, music is amazing.");
 MsgDisp("主人公","(Thank you, ｛Sassa＊＊｝...
-I'm glad I gave it my all these last three
-years!)");
+I'm glad I gave it my all these last
+three years!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

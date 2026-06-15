@@ -17,8 +17,7 @@ ChMouth(3,2);
 ChMotion(3,5);
 VoicePlay("F020300010_03_010");
 MsgDisp("Honda","Mmph!");
-MsgDisp("主人公","Huh∋
-What's wrong?");
+MsgDisp("主人公","Huh∋ What's wrong?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);

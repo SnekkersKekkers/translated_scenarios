@@ -1,8 +1,8 @@
 BGOpen("sc330",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Looks like a variety of new books have been
-added.
+MsgDisp("主人公","(Looks like a variety of new books have
+been added.
 Should we look around?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -10,8 +10,7 @@ ScrFadeOut(0);
 SEWait();
 MsgDisp("主人公","(On these shelves should be a lot of
 difficult speciality books...)");
-MsgDisp("主人公","(Huh...
-Is that—)");
+MsgDisp("主人公","(Huh... Is that—)");
 MsgClose();
 BGMPlay("BGM_C02_SASSA_B",0.01);
 StlOpen("ev_02_07");
@@ -87,8 +86,7 @@ BGMStop();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(Hehe.
-Now I'm curious, what was he reading?
+MsgDisp("主人公","(Hehe. Now I'm curious, what was he reading?
 I think it was this book...?)");
 MsgClose();
 ScrFadeOut(0);

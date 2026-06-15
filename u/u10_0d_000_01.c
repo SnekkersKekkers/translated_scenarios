@@ -19,8 +19,7 @@ MsgSel("Ok, I'll go!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U100D00001_22_020");
-    MsgDisp("Hikaru","Aha▼
-Yay!
+    MsgDisp("Hikaru","Aha▼ Yay!
 Hikaru's excited!");
     MsgDisp("主人公","Hehe.
 Ok then, I'll get ready to come over okay?");

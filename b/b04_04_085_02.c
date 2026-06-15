@@ -6,8 +6,7 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408502_04_000");
-MsgDisp("Nanatsumori","Hmmm—...
-Don't you want something warm?");
+MsgDisp("Nanatsumori","Hmmm—... Don't you want something warm?");
 MsgSel("Some hot chocolate would be nice.","Am I not warm enough?","A steaming meat bun...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -35,8 +34,7 @@ does hot chocolate.");
         ChMotion(4,0,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040408502_04_020");
-        MsgDisp("Nanatsumori","...Hey.
-Do you usually say those things?");
+        MsgDisp("Nanatsumori","...Hey. Do you usually say those things?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -92,8 +90,7 @@ And ｛Nanatsumori＊｝, you get cold easily.");
         MsgDisp("主人公","......");
         VoicePlay("B040408502_04_090");
         MsgDisp("Nanatsumori","......");
-        MsgDisp("主人公","Umm...
-Are you warm?");
+        MsgDisp("主人公","Umm... Are you warm?");
         ChMouthOpenLevel(4,#1);
         VoicePlay("B040408502_04_100");
         MsgDisp("Nanatsumori","Yeah.");

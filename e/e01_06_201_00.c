@@ -14,16 +14,14 @@ ChMotion(2,3);
 VoicePlay("E010620100_02_000");
 MsgDisp("Sassa","Oh, it's you.
 Out shopping?");
-MsgDisp("主人公","Yeah.
-What about you two?");
+MsgDisp("主人公","Yeah. What about you two?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010620100_06_000");
 MsgDisp("Himuro","......");
-MsgDisp("主人公","Um...
-｛Himuro＊＊｝?
+MsgDisp("主人公","Um... ｛Himuro＊＊｝?
 What's wrong?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -56,8 +54,8 @@ ChMotion(2,2);
 VoicePlay("E010620100_02_030");
 MsgDisp("Sassa","Don't lie!
 You were so confident in the beginning!");
-MsgDisp("主人公","Hehe, but in the end ｛Sassa＊＊｝ was the
-winner.");
+MsgDisp("主人公","Hehe, but in the end ｛Sassa＊＊｝ was
+the winner.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

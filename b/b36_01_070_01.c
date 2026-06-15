@@ -45,8 +45,7 @@ VoicePlay("B360107001_01_040");
 MsgDisp("Kazama","Shh, we'll be found.
 This is an emergency.
 What are those guys doing...");
-MsgDisp("主人公","Wait...
-｛Kazama＊＊｝, this hurts.");
+MsgDisp("主人公","Wait... ｛Kazama＊＊｝, this hurts.");
 BGOpen("ne710",0);
 SEPlay("EV_SE_552",0.2);
 Wait(10,0);
@@ -65,8 +64,7 @@ ChCheek(1,0);
 VoicePlay("B360107001_01_060");
 MsgDisp("Kazama","Those guys were there.
 Both of them.");
-MsgDisp("主人公","Eh?
-Then, shall we shop together?");
+MsgDisp("主人公","Eh? Then, shall we shop together?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -84,8 +82,7 @@ VoicePlay("B360107001_01_080");
 MsgDisp("Kazama","Not, \"so that's how it is.\", geez.
 Come on, let's continue as before. We were
 picking each other's clothes, weren't we?");
-MsgDisp("主人公","Yeah!
-I found something nice!");
+MsgDisp("主人公","Yeah! I found something nice!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

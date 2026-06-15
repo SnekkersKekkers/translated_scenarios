@@ -34,8 +34,8 @@ VoicePlay("F100240001_02_020");
 MsgDisp("Sassa","Yeah, I asked Inori to coach me, but he
 turned me down.");
 MsgDisp("主人公","Ehh?
-When you say coach, you mean for track and
-field?");
+When you say coach, you mean for track
+and field?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

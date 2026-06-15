@@ -19,8 +19,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I550600000_06_020");
-    MsgDisp("Himuro","What?
-Hurry up.");
+    MsgDisp("Himuro","What? Hurry up.");
     MsgDisp("主人公","S-Sure.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -61,8 +60,7 @@ It's for guests.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I550600000_06_070");
-    MsgDisp("Himuro","What?
-You look surprised.
+    MsgDisp("Himuro","What? You look surprised.
 Am I not allowed here?");
     MsgDisp("主人公","No way!
 Welcome.");
@@ -85,8 +83,7 @@ seasonal fruit inside.");
     ChMotion(6,0);
     VoicePlay("I550600000_06_100");
     MsgDisp("Himuro","How many are you going to make me eat?");
-    MsgDisp("主人公","I see.
-I'll get it ready now.");
+    MsgDisp("主人公","I see. I'll get it ready now.");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -151,8 +148,7 @@ How are these?");
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("I550600000_06_170");
-    MsgDisp("Himuro","...Yeah.
-Good choices.");
+    MsgDisp("Himuro","...Yeah. Good choices.");
     MsgDisp("主人公","Hehe, I'm glad.");
     ChEye(6,0);
     ChMouth(6,4);
@@ -178,8 +174,8 @@ Just means you've gotten good at this.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(6);
-    MsgDisp("主人公","(Could it be that ｛Himuro＊＊｝ came to cheer me
-on?)");
+    MsgDisp("主人公","(Could it be that ｛Himuro＊＊｝ came to cheer
+me on?)");
     break ;
     default :
     DbgAssert(1);

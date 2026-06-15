@@ -5,8 +5,7 @@ MsgClose();
 ChOpen(1,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(2,254,3,0,4,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow!
-So many pretty flowers.");
+MsgDisp("主人公","Wow! So many pretty flowers.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -62,9 +61,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("Q070A00100_02_030");
-MsgDisp("Sassa","I'm sure Inori would say something like \"I
-see, Ryota-senpai is boring\", if he were
-here.");
+MsgDisp("Sassa","I'm sure Inori would say something like
+\"I see, Ryota-senpai is boring\", if he
+were here.");
 ChEye(1,2);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Ahaha!
@@ -98,8 +97,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("Q070A00100_02_050");
-MsgDisp("Sassa","Wow.
-That tower over there is huge, huh.");
+MsgDisp("Sassa","Wow. That tower over there is huge, huh.");
 MsgDisp("主人公","Yeah, it looks unique.");
 ChPosition(2,2);
 MsgClose();
@@ -142,8 +140,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("Q070A00100_02_080");
-MsgDisp("Sassa","Oh!
-Great timing.");
+MsgDisp("Sassa","Oh! Great timing.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

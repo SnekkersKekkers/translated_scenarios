@@ -85,8 +85,8 @@ VoicePlay("B330B20701_01_020");
 MsgDisp("Kazama","So you're aware that you talk a lot.");
 ChMotion(4,0,1);
 VoicePlay("B330B20701_04_020");
-MsgDisp("Nanatsumori","Yeah, this is the most surprising part of
-today.");
+MsgDisp("Nanatsumori","Yeah, this is the most surprising part
+of today.");
 MsgDisp("主人公","(Hehe!
 I think it's interesting to get to know
 everyone's personalities more!)");

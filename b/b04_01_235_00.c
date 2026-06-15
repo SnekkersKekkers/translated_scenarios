@@ -45,8 +45,8 @@ You're banned for haunted houses from now on.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040123500_01_030");
     MsgDisp("Kazama","The one who's the problem is you.
-Listen, this only works if both parties play
-along.");
+Listen, this only works if both parties
+play along.");
     MsgDateResultDisp();
     break ;
     default :

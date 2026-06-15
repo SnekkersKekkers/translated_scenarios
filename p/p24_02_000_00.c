@@ -19,8 +19,8 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,0);
 VoicePlay("P240200000_02_010");
 MsgDisp("Sassa","I can't do that.");
-MsgDisp("主人公","...Then I will cry, I will continue to await
-help.");
+MsgDisp("主人公","...Then I will cry, I will continue to
+await help.");
 StlEye(2,1,0);
 StlMouth(2,1);
 StlEyeOpenLevel(2,5,1);
@@ -83,9 +83,7 @@ SEPlay("EV_SE_681");
 Wait(90);
 SEStop("EV_SE_681",0.2);
 SEPlay("EV_SE_679",0,0.9);
-MsgDisp("","(Arf!
-Arf!
-Arf!)");
+MsgDisp("","(Arf! Arf! Arf!)");
 MsgDisp("主人公","(Ah, the dogs came to play...!)");
 MsgDisp("主人公","Ah, help me～!");
 SEPlay("EV_SE_GAYA_006",0,0.8);
@@ -183,8 +181,7 @@ ChMotion(2,0);
 VoicePlay("P240200000_02_140");
 MsgDisp("Sassa","...Hey, am I forcibly dragging you into this
 like Hades is?");
-MsgDisp("主人公","Eh?
-What are you talking about?");
+MsgDisp("主人公","Eh? What are you talking about?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,2);

@@ -15,8 +15,7 @@ Ah, it's ｛Nanatsumori＊｝.");
     ChMotion(4,1,1);
     VoicePlay("O040401000_04_000");
     MsgDisp("Nanatsumori","How annoying...");
-    MsgDisp("主人公","Geez...
-Let's do our best together!");
+    MsgDisp("主人公","Geez... Let's do our best together!");
     break ;
     case 3:
     MsgDisp("主人公","My team is...
@@ -27,8 +26,7 @@ Ah, it's ｛Nanatsumori＊｝.");
     ChNanaType(0);
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O040401000_04_010");
-    MsgDisp("Nanatsumori","Hm?
-I'm on the same team as you?");
+    MsgDisp("Nanatsumori","Hm? I'm on the same team as you?");
     MsgDisp("主人公","Looks like it.
 Looking forward to it!");
     ChMotion(4,1,1);
@@ -61,8 +59,7 @@ expectations, though.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("O040401000_04_050");
-    MsgDisp("Nanatsumori","Together...
-Yeah.
+    MsgDisp("Nanatsumori","Together... Yeah.
 Let's do this.");
     break ;
     default :

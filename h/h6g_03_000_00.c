@@ -7,8 +7,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 ScrFadeIn(0);
 VoicePlay("H5G0300000_03_000")
-MsgDisp("Honda","...Ah!
-You're here.");
+MsgDisp("Honda","...Ah! You're here.");
 MsgDisp("主人公","Huh, ｛Honda＊＊｝?
 What is it?");
 ChEye(3,0);
@@ -41,7 +40,7 @@ VoicePlay("H5G0300000_03_040")
 MsgDisp("Honda","Next time, could you come take a look at the
 Pachira plant in my room?");
 MsgDisp("主人公","(I did it!
-I'm really glad I stayed in the gardening
-club!)");
+I'm really glad I stayed in the
+gardening club!)");
 MsgClose();
 ScrFadeOut(0,0);

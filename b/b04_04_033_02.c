@@ -35,8 +35,8 @@ Maybe they'll have some deep sea fish items.");
     ChMotion(4,0,1);
     VoicePlay("B040403302_04_020");
     MsgDisp("Nanatsumori","Is it no good?
-Well, it might be too much for girls, I
-guess.");
+Well, it might be too much for girls,
+I guess.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -63,8 +63,7 @@ I'm not asking for your agreement.");
         ChMouth(4,2);
         ChMotion(4,0,1);
         VoicePlay("B040403302_04_040");
-        MsgDisp("Nanatsumori","I see.
-My tastes are different to yours.
+        MsgDisp("Nanatsumori","I see. My tastes are different to yours.
 That's unfortunate.");
         MsgDisp("主人公","Sorry, I didn't mean for...");
         ChEye(4,4);
@@ -108,8 +107,7 @@ talking about different things. OK?");
         ChMotion(4,2,1);
         ChCheek(4,10);
         VoicePlay("B040403302_04_100");
-        MsgDisp("Nanatsumori","...Thank you.
-Hehe.");
+        MsgDisp("Nanatsumori","...Thank you. Hehe.");
         MsgDisp("主人公","(｛Nanatsumori＊｝ seems happy.)");
         break ;
         default :

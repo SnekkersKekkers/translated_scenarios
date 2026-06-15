@@ -16,8 +16,8 @@ MsgDisp("主人公","H-Hello...?");
 VoicePlay("Q190600000_06_000");
 MsgDisp("Himuro","...Why did you pick up?
 Isn't it past lights out time?");
-MsgDisp("主人公","But ｛Himuro＊＊｝, you're the one who called
-me...?");
+MsgDisp("主人公","But ｛Himuro＊＊｝, you're the one who
+called me...?");
 VoicePlay("Q190600000_06_010");
 MsgDisp("Himuro","You could just not answer.");
 MsgDisp("主人公","Come on...");
@@ -52,8 +52,7 @@ MsgDisp("主人公","Well, you don't have your glasses on.");
 StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("Q190600000_06_060");
-MsgDisp("Himuro","Eh...
-Ah—");
+MsgDisp("Himuro","Eh... Ah—");
 MsgClose();
 SEPlay("EV_SE_689");
 SEWait();
@@ -72,8 +71,8 @@ MsgDisp("Himuro","I just forgot to put them on.
 More importantly, how is it there?
 Are you enjoying yourself?");
 MsgDisp("主人公","Hehe, yeah!
-The weather is great and it's a very nice
-place.");
+The weather is great and it's a very
+nice place.");
 StlEye(6,2,0);
 StlMouth(6,2);
 StlEyeOpenLevel(6,5,1);
@@ -112,8 +111,7 @@ StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("Q190600000_06_140");
-MsgDisp("Himuro","...Yeah.
-Good night, then.");
+MsgDisp("Himuro","...Yeah. Good night, then.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 BGMStop();
 MsgClose();
@@ -124,8 +122,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(｛Himuro＊＊｝ went out of his way to give me a
-call...
+MsgDisp("主人公","(｛Himuro＊＊｝ went out of his way to give me
+a call...
 I'm so happy.)");
 MsgClose();
 ScrFadeOut(0);

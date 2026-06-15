@@ -8,8 +8,7 @@ never been here...)");
 VoicePlay("D020100100_01_000");
 MsgDisp("Kazama?","This suspicious person has been staring at
 our store for a while now.");
-MsgDisp("主人公","Eh...
-Ah, ｛Kazama＊＊｝!");
+MsgDisp("主人公","Eh... Ah, ｛Kazama＊＊｝!");
 MsgClose();
 BGMPlay("BGM_C01_RYOUTA_A",0.01);
 ChOpen(1,255,0,0,3,10,#1,0,0);
@@ -125,8 +124,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D020100100_01_090");
-MsgDisp("Kazama","Okay, I have to go clean up back at the store
-now.
+MsgDisp("Kazama","Okay, I have to go clean up back at the
+store now.
 Be careful on your way home, okay?");
 BGMStop();
 MsgClose();

@@ -28,8 +28,7 @@ Vice Principal Himuro praised you too.");
     MsgDisp("Mikage","Looks like you're enjoying the orchestra.
 I wonder if by hearing your sound, the
 Gardening Club's plants will grow well too?");
-    MsgDisp("主人公","(Yay!
-I was praised!)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

@@ -18,8 +18,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_030");
-MsgDisp("Himuro","If it's a variety show, no.
-I'll watch a documentary once in a while.");
+MsgDisp("Himuro","If it's a variety show, no. I'll watch a
+documentary once in a while.");
 MsgDisp("主人公","Those that follow the ocean's ecosystem?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -27,8 +27,7 @@ ChMotion(6,3);
 VoicePlay("B070600000_06_040");
 MsgDisp("Himuro","Right.
 It portrays nature as it is.");
-MsgDisp("主人公","I see.
-That's just like ｛Himuro＊＊｝ isn't it?");
+MsgDisp("主人公","I see. That's just like ｛Himuro＊＊｝ isn't it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

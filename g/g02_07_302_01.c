@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020730201_07_000");
-MsgDisp("Mikage","You get along with the Hanatsubaki twins,
-right?");
+MsgDisp("Mikage","You get along with the Hanatsubaki
+twins, right?");
 MsgDisp("主人公","Yes. ｛みちる＊｝ and ｛ひかる＊｝ are
 always supporting me and teaching me all
 sorts of things.");

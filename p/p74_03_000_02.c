@@ -27,8 +27,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("P740300002_03_020");
 MsgDisp("Honda","You were that beautifully stylish.
 Next time, teach me how to model walk too!");
-MsgDisp("主人公","(Yay—!
-｛Honda＊＊｝ praised me!)");
+MsgDisp("主人公","(Yay—! ｛Honda＊＊｝ praised me!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

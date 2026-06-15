@@ -14,8 +14,7 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("H3A0300000_03_000");
 MsgDisp("Honda","...Haa!");
-MsgDisp("主人公","Huh!
-What is it∋");
+MsgDisp("主人公","Huh! What is it∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -23,8 +22,7 @@ VoicePlay("H3A0300000_03_010");
 MsgDisp("Honda","What is it!?
 I was so moved when you won that I forgot to
 breathe until now!");
-MsgDisp("主人公","Huh∋
-But, thanks.");
+MsgDisp("主人公","Huh∋ But, thanks.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -37,8 +35,8 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("H3A0300000_03_030");
 MsgDisp("Honda","Ah, right!
-Next time, try that finishing move on me
-too∋");
+Next time, try that finishing move on
+me too∋");
 MsgDisp("主人公","(How curious!
 But I'm really glad I stayed in the judo
 club! Today's the best day ever!)");

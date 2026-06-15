@@ -52,8 +52,7 @@ Ugh, we lost...");
     MsgDisp("Nanatsumori","Sigh～... Being frustrated, or sad.
 Being happy, or tickled, it makes you want to
 cry. Humans are complicated, huh?");
-    MsgDisp("主人公","...Hehe.
-I guess so?");
+    MsgDisp("主人公","...Hehe. I guess so?");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,3,1);

@@ -25,8 +25,7 @@ someone I knew so I came to peek in a little.");
     ChMotion(3,2,1);
     VoicePlay("I450300000_03_020");
     MsgDisp("Honda","Wow, working at a flower shop, huh.");
-    MsgDisp("主人公","Yeah.
-I'm still just a fledgeling, though.");
+    MsgDisp("主人公","Yeah. I'm still just a fledgeling, though.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,0,1);
@@ -39,8 +38,8 @@ The apron looks great on you, too.");
     ChMotion(3,1,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("I450300000_03_040");
-    MsgDisp("Honda","Well, I'm gonna go, but keep up the good
-work!");
+    MsgDisp("Honda","Well, I'm gonna go, but keep up the
+good work!");
     MsgDisp("主人公","(Alright, let's work hard to be a
 full-fledged worker soon!)");
     break ;

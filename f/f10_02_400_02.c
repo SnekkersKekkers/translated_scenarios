@@ -16,10 +16,8 @@ MsgClose();
 ChOpen(2,254,3,0,4,#1,#1,0,1);
 ChOpen(6,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100240002_02_010");
-MsgDisp("Sassa","Yo.
-Do you have PE next?");
-MsgDisp("主人公","Yeah.
-What about you two?");
+MsgDisp("Sassa","Yo. Do you have PE next?");
+MsgDisp("主人公","Yeah. What about you two?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

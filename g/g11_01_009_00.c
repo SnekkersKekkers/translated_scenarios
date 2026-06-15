@@ -59,8 +59,7 @@ VoicePlay("G110100900_01_060");
 MsgDisp("Kazama","Ah, thanks.
 Could you help me up?
 My body's so stiff, I can't stand on my own.");
-MsgDisp("主人公","Ehh?
-Geez, let's go.
+MsgDisp("主人公","Ehh? Geez, let's go.
 Come on—");
 ChEye(1,0);
 ChMouth(1,0);

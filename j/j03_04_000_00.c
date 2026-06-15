@@ -7,8 +7,7 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Okay then, on ｛日付｝ I'll be waiting
 for you at ｛待ち合わせ場所｝!");
     VoicePlay("J030400000_04_010");
-    MsgDisp("Nanatsumori","Okay.
-See you then.");
+    MsgDisp("Nanatsumori","Okay. See you then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Hooray-!
@@ -16,8 +15,7 @@ I hope that ｛日付｝ comes soon!)");
     break ;
     case 3:
     VoicePlay("J030400000_04_020");
-    MsgDisp("Nanatsumori","OK.
-Where do we meet?");
+    MsgDisp("Nanatsumori","OK. Where do we meet?");
     MsgDisp("主人公","Then, on ｛日付｝ I'll be waiting for
 you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030400000_04_030");

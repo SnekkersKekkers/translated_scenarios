@@ -10,16 +10,14 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B050200200_02_000");
-MsgDisp("Sassa","Hm?
-Are you cold?");
+MsgDisp("Sassa","Hm? Are you cold?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoiceEVSPlay(2);
 VoicePlay("B050200200_02_010");
 MsgDisp("Sassa","｛主人公｝, come here.");
-MsgDisp("主人公","Sure.
-Why?");
+MsgDisp("主人公","Sure. Why?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -41,8 +39,7 @@ StlEye(2,0);
 StlMouth(2,0);
 SEVol(0.3,2);
 VoicePlay("B050200200_02_030");
-MsgDisp("Sassa","Woah...
-We've got it all to ourselves.
+MsgDisp("Sassa","Woah... We've got it all to ourselves.
 Let's warm up.");
 MsgDisp("主人公","Yep, it's nice and warm.
 Thanks, ｛Sassa＊＊｝.");
@@ -57,13 +54,11 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("B050200200_02_050");
 MsgDisp("Sassa","It makes me so happy I could sing.");
-MsgDisp("主人公","Hehe!
-It's like taking a bath.");
+MsgDisp("主人公","Hehe! It's like taking a bath.");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200200_02_060");
-MsgDisp("Sassa","Eh?
-...Together?");
+MsgDisp("Sassa","Eh? ...Together?");
 MsgDisp("主人公","Yeah?");
 StlEye(2,2);
 StlMouth(2,1);
@@ -72,8 +67,7 @@ StlCheek(2,10);
 VoicePlay("B050200200_02_070");
 MsgDisp("Sassa","That's crazy, though.
 ...You all covered in...steam.");
-MsgDisp("主人公","Eh...
-EH∋
+MsgDisp("主人公","Eh... EH∋
 That's kind of embarrassing...");
 StlEye(2,1);
 StlMouth(2,1);
@@ -92,8 +86,7 @@ StlEyeOpenLevel(2,5,1);
 VoicePlay("B050200200_02_100");
 MsgDisp("Sassa","Ah, you go first then.
 I'll turn around.");
-MsgDisp("主人公","Eh?
-I'm still wearing a swimsuit, though?");
+MsgDisp("主人公","Eh? I'm still wearing a swimsuit, though?");
 StlEye(2,0);
 StlMouth(2,1);
 VoicePlay("B050200200_02_110");

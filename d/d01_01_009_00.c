@@ -58,8 +58,7 @@ VoicePlay("D010100900_01_050");
 MsgDisp("Kazama","Alright, let's give it a try.");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","Eh?
-Wait up, ｛Kazama＊＊｝!");
+MsgDisp("主人公","Eh? Wait up, ｛Kazama＊＊｝!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.6);
 MsgClose();
@@ -98,8 +97,7 @@ EfctClose();
 StlClose();
 Wait(40,0);
 VoicePlay("D010100900_01_090");
-MsgDisp("Kazama","...Ha.
-Your eyebrows are intense.");
+MsgDisp("Kazama","...Ha. Your eyebrows are intense.");
 MsgDisp("主人公","Eh∋");
 Wait(40,0);
 BGOpen("sc010",1);
@@ -114,8 +112,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100900_01_100");
-MsgDisp("Kazama","All that means is that we can't overwrite our
-wishes.
+MsgDisp("Kazama","All that means is that we can't overwrite
+our wishes.
 There's no uncertainty left.");
 MsgDisp("主人公","Yeah?");
 ChEye(1,0);
@@ -135,9 +133,9 @@ Wait(12,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("D010100900_01_120");
-MsgDisp("Kazama","I can carry you in my arms, on my back, even
-on my shoulders would be fine with me,
-though?");
+MsgDisp("Kazama","I can carry you in my arms, on my back,
+even on my shoulders would be fine with
+me, though?");
 MsgDisp("主人公","(...I need to watch my step when I'm with
 ｛Kazama＊＊｝.)");
 BGMStop();

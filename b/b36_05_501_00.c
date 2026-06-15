@@ -18,8 +18,8 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360550100_05_010");
 MsgDisp("Hiiragi","I thought about it yesterday.
-But when I was alone with you, anywhere feels
-good.");
+But when I was alone with you, anywhere
+feels good.");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(5,2);
 ChMotion(5,4);
@@ -46,8 +46,8 @@ ChMouth(5,2);
 ChMotion(5,0,1);
 VoicePlay("B360550100_05_050");
 MsgDisp("Hiiragi","Huh?");
-MsgDisp("主人公","Well you wanted to talk, just the two of us,
-right?");
+MsgDisp("主人公","Well you wanted to talk, just the two of
+us, right?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -75,8 +75,7 @@ SEWait();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(Hehe.
-｛Hiiragi＊＊＊｝ is like a child today.)");
+MsgDisp("主人公","(Hehe. ｛Hiiragi＊＊＊｝ is like a child today.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

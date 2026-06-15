@@ -25,8 +25,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700802_07_020");
 MsgDisp("Mikage","Isn't that great?
-They say plants grow better if you talk to
-them.");
+They say plants grow better if you talk
+to them.");
 MsgDisp("主人公","Does ｛Mikage＊＊｝ talk to them all the
 time too?");
 ChEye(7,0);

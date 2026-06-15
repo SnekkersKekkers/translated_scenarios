@@ -45,8 +45,8 @@ Just answer casually?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040606102_06_030");
-        MsgDisp("Himuro","I have no obligation to go along with your
-jokes.");
+        MsgDisp("Himuro","I have no obligation to go along with
+your jokes.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -105,8 +105,7 @@ It's because you said something weird.");
         VoicePlay("B040606102_06_110");
         MsgDisp("Himuro","Right, it's your fault.
 Reflect on it.");
-        MsgDisp("主人公","Mmm...
-Sorry.");
+        MsgDisp("主人公","Mmm... Sorry.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

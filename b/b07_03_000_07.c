@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Honda＊＊｝, what are your dreams for the
-future?
+MsgDisp("主人公","｛Honda＊＊｝, what are your dreams for
+the future?
 I want to know.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -30,8 +30,7 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B070300000_03_400");
 MsgDisp("Honda","While that is true, that's not the reason.");
-MsgDisp("主人公","Uhm...
-Why, then?");
+MsgDisp("主人公","Uhm... Why, then?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -46,8 +45,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("B070300000_03_420");
-MsgDisp("Honda","Yep!
-And I guess there's also PE.");
+MsgDisp("Honda","Yep! And I guess there's also PE.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,0);

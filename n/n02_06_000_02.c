@@ -16,8 +16,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("N020600002_06_010");
     MsgDisp("Himuro","Next time, get a score that is worth
 commenting on.");
-    MsgDisp("主人公","(Oof.
-I have to study a little harder.)");
+    MsgDisp("主人公","(Oof. I have to study a little harder.)");
     break ;
     case 3:
     MsgDisp("主人公","Ah, ｛Himuro＊＊｝.");
@@ -32,8 +31,7 @@ Is it really just that?");
     ChMotion(6,0);
     VoicePlay("N020600002_06_030");
     MsgDisp("Himuro","If you're happy with it, I guess it's fine?");
-    MsgDisp("主人公","(Oof.
-I have to study a little harder...)");
+    MsgDisp("主人公","(Oof. I have to study a little harder...)");
     break ;
     case 4:
     case 5:
@@ -52,10 +50,8 @@ I have to study a little harder...)");
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("N020600002_06_060");
-    MsgDisp("Himuro","Yeah.
-I know you can do it.");
-    MsgDisp("主人公","(Oof.
-I have to study a little harder...)");
+    MsgDisp("Himuro","Yeah. I know you can do it.");
+    MsgDisp("主人公","(Oof. I have to study a little harder...)");
     break ;
     default :
     DbgAssert(1);

@@ -15,8 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(1,2);
     ChMotion(1,4);
     VoicePlay("B040114001_01_010");
-    MsgDisp("Kazama","I see.
-Then that's fine.
+    MsgDisp("Kazama","I see. Then that's fine.
 Anyway, just stick close to me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

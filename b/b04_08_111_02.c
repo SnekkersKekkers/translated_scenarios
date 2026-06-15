@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMotion(8,3,1);
 VoicePlay("B040811102_08_000");
 MsgDisp("Shirahane","Skatin' 'round the rink makes me feel like
-I'm runnin' around on the track in the school
-yard.");
+I'm runnin' around on the track in the
+school yard.");
 MsgSel("The rink and the schoolyard is quite different...","I don't get that at all.","Shall we try running on the ground next time?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040811102_08_010");
-    MsgDisp("Shirahane","Hmm, it's all about feelin'...do you not get
-it?");
+    MsgDisp("Shirahane","Hmm, it's all about feelin'...do you not
+get it?");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -62,8 +62,8 @@ When I'm with you, I get strangely worked up.");
         ChEye(8,2);
         ChMouth(8,0);
         VoicePlay("B040811102_08_060");
-        MsgDisp("Shirahane","That's why I feel jealous of the boys at Haba
-High.");
+        MsgDisp("Shirahane","That's why I feel jealous of the boys at
+Haba High.");
         ChMotion(8,2,1);
         VoicePlay("B040811102_08_070");
         MsgDisp("Shirahane","I've been thinkin' lately, if I'd gone to

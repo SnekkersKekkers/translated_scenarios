@@ -2,9 +2,9 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to head home now.)");
-MsgDisp("主人公","(...Huh?
-｛Kazama＊＊｝ is over there. Might as well
-chat a bit before heading home.)");
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there.
+Might as well chat a bit before
+heading home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -20,8 +20,7 @@ BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110100801_01_000");
-MsgDisp("Kazama","Hey...
-Did you not notice anything?");
+MsgDisp("Kazama","Hey... Did you not notice anything?");
 MsgDisp("主人公","Eh, what's this all of a sudden?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -51,8 +50,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G110100801_01_040");
-MsgDisp("Kazama","H-Hey.
-Just say it and I'll understand.");
+MsgDisp("Kazama","H-Hey. Just say it and I'll understand.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

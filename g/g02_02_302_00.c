@@ -69,8 +69,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020230200_02_100");
 MsgDisp("Sassa","No way.
-If I don't decide now, we won't have the same
-thing.");
+If I don't decide now, we won't have the
+same thing.");
 MsgDisp("主人公","(｛Sassa＊＊｝ really likes planning everything
 out, doesn't he?)");
 BGMStop();

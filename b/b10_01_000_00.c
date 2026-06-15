@@ -12,16 +12,16 @@ VoicePlay("B100100000_01_000");
 MsgDisp("Kazama","Yo.");
 MsgDisp("主人公","Is something the matter?");
 VoicePlay("B100100000_01_010");
-MsgDisp("Kazama","No, I just thought you were pretty funny
-today.
+MsgDisp("Kazama","No, I just thought you were pretty
+funny today.
 Were you trying to get a laugh?");
 MsgDisp("主人公","That's not what I wanted though...");
 VoicePlay("B100100000_01_020");
 MsgDisp("Kazama","Got it.
 You gave it your all, didn't you?");
 VoicePlay("B100100000_01_030");
-MsgDisp("Kazama","I got too worked up trying to make it special
-too.
+MsgDisp("Kazama","I got too worked up trying to make it
+special too.
 ...My bad.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 VoicePlay("B100100000_01_040");

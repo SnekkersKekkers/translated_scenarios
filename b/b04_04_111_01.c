@@ -6,8 +6,7 @@ ChMouth(4,2);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040411101_04_000");
-MsgDisp("Nanatsumori","Oops!
-Isn't it super slippy around here?");
+MsgDisp("Nanatsumori","Oops! Isn't it super slippy around here?");
 MsgSel("We are skating after all.","Relax, relax!","Shall we skate while holding hands?");
 switch (MsgSelRsltGet()){
     case 0:

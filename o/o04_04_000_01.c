@@ -12,8 +12,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     ChMotion(4,2,1);
     VoicePlay("O040400001_04_000");
-    MsgDisp("Nanatsumori","It's hard after all...
-Sigh.");
+    MsgDisp("Nanatsumori","It's hard after all... Sigh.");
     MsgDisp("主人公","(Sigh...we lost.
 I should've tried harder.)");
     break ;

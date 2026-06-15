@@ -18,8 +18,7 @@ ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,4,1);
 VoicePlay("D030900900_09_010");
-MsgDisp("Kuya","...Nope.
-I'm wondering where I should go.");
+MsgDisp("Kuya","...Nope. I'm wondering where I should go.");
 MsgDisp("主人公","Eh?");
 ChEye(9,0);
 ChMouth(9,4);
@@ -28,8 +27,8 @@ ChEyeOpenLevel(9,0);
 VoicePlay("D030900900_09_020");
 MsgDisp("Kuya","Should I just go home?
 Or maybe I should go to the library?");
-MsgDisp("主人公","Are you maybe worried about choosing a
-career?");
+MsgDisp("主人公","Are you maybe worried about choosing
+a career?");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -129,15 +128,13 @@ switch (MsgSelRsltGet()){
     ChMouth(9,4);
     ChMotion(9,0,1);
     VoicePlay("D030900900_09_130");
-    MsgDisp("Kuya","I see.
-Will it be a first-rate university?");
+    MsgDisp("Kuya","I see. Will it be a first-rate university?");
     MsgDisp("主人公","I'm not sure but...
 I'll try.");
     ChEye(9,0);
     ChMouth(9,0);
     VoicePlay("D030900900_09_140");
-    MsgDisp("Kuya","I see.
-I've decided, then.");
+    MsgDisp("Kuya","I see. I've decided, then.");
     MsgDisp("主人公","?");
     ChEye(9,3);
     ChMouth(9,0);
@@ -207,8 +204,8 @@ my \"studies\" over interviews.)");
     ChEye(9,2);
     ChMouth(9,4);
     VoicePlay("D030900900_09_230");
-    MsgDisp("Kuya","I was hoping I could set the same goals as
-you.");
+    MsgDisp("Kuya","I was hoping I could set the same goals
+as you.");
     ChEye(9,2);
     ChMouth(9,0);
     ChMotion(9,2,1);
@@ -228,8 +225,8 @@ Bye.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(9);
     MsgDisp("主人公","(Sigh...
-They're getting a bit troublesome for me
-too.)");
+They're getting a bit troublesome for
+me too.)");
     break ;
     default :
     DbgAssert(0);

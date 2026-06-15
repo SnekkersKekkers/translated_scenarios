@@ -11,8 +11,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0);
 VoicePlay("B080800003_08_000");
-MsgDisp("Shirahane","Hehe, you're welcome.
-...Hm?");
+MsgDisp("Shirahane","Hehe, you're welcome. ...Hm?");
 Wait(30,0);
 ChEye(8,0);
 ChMouth(8,0);

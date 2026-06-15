@@ -27,8 +27,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("E010330200_03_010");
-MsgDisp("Honda","Yeah.
-I borrowed a lot again...");
+MsgDisp("Honda","Yeah. I borrowed a lot again...");
 MsgDisp("主人公","Is it okay to borrow all of that?");
 ChEye(3,2);
 ChMouth(3,4);
@@ -63,19 +62,19 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010330200_03_050");
-MsgDisp("Honda","No, I can't.
-I accidentally returned them to the wrong one
-the other day. My family scolded me.");
+MsgDisp("Honda","No, I can't. I accidentally returned them to
+the wrong one the other day.
+My family scolded me.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010330200_03_060");
-MsgDisp("Honda","I can't go to the new one until I return
-them...");
+MsgDisp("Honda","I can't go to the new one until I
+return them...");
 MsgDisp("主人公","I see.
-Next time try your best to just return them,
-okay?");
+Next time try your best to just return
+them, okay?");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -98,10 +97,9 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("E010330200_07_060");
 MsgDisp("Mikage","But I might end up borrowing something too.
-It's hard to ignore his recommendations, you
-know?");
-MsgDisp("主人公","Ah...
-That certainly sounds...difficult");
+It's hard to ignore his recommendations,
+you know?");
+MsgDisp("主人公","Ah... That certainly sounds...difficult");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

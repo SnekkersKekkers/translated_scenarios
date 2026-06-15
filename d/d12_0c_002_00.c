@@ -107,8 +107,8 @@ Ah──)");
 SEPlay("EV_SE_591");
 Wait(30,1);
 MsgDisp("主人公","(That's the poster from earlier!
-I wonder what slogan they decided on in the
-end?)");
+I wonder what slogan they decided on in
+the end?)");
 SEWait();
 SEPlay("EV_SE_635");
 SEWait();

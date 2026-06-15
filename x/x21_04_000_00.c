@@ -29,8 +29,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 ChEyeOpenLevel(4,9);
 VoicePlay("X210400000_04_040");
-MsgDisp("Nanatsumori","I felt myself thinking, \"I'd do anything
-for this person.\"");
+MsgDisp("Nanatsumori","I felt myself thinking, \"I'd do anything for
+this person.\"");
 MsgDisp("主人公","That's...");
 ChEyeOpenLevel(4,#1);
 VoiceEVSPlay(4);
@@ -41,8 +41,7 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("X210400000_04_060");
 MsgDisp("Nanatsumori","As expected of Haba Academy's \"Queen\" huh?");
-MsgDisp("主人公","Eh?
-Heeey, ｛Nanatsumori＊｝!");
+MsgDisp("主人公","Eh? Heeey, ｛Nanatsumori＊｝!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

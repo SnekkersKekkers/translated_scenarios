@@ -26,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,4);
     VoicePlay("B040616000_06_020");
     MsgDisp("Himuro","Alright, I accept your challenge.
-Just so you know, I have no intention of
-losing.");
+Just so you know, I have no intention
+of losing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

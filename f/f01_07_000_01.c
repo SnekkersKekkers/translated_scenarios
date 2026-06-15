@@ -28,8 +28,7 @@ You don't mean me, do you?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Um...
-I definitely shouldn't call him that.)");
+    MsgDisp("主人公","(Um... I definitely shouldn't call him that.)");
     break ;
     case 4:
     case 5:
@@ -39,14 +38,12 @@ I definitely shouldn't call him that.)");
     ChOpen(7,254,2,2,0,#1,#1,0,0);
     VoicePlay("F010700001_07_020");
     MsgDisp("Mikage","Hm, it's you...
-But no, no no no.
-Not that.");
+But no, no no no. Not that.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Um...
-I definitely shouldn't call him that.)");
+    MsgDisp("主人公","(Um... I definitely shouldn't call him that.)");
     break ;
     default :
     DbgAssert(1);

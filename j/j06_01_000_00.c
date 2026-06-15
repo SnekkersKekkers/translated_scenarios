@@ -46,15 +46,14 @@ Where do you want to meet up?");
         MsgDisp("Kazama","OK.
 Well, knowing us, we'd find each other no
 matter where we are, right?");
-        MsgDisp("主人公","Hehe.
-You have to be at the meeting point.
+        MsgDisp("主人公","Hehe. You have to be at the meeting point.
 You know that, right?");
         ChEye(1,3);
         ChMouth(1,3);
         ChMotion(1,3,1);
         VoicePlay("J060100000_01_040");
-        MsgDisp("Kazama","Yeah, it's better to see each other right
-away.
+        MsgDisp("Kazama","Yeah, it's better to see each other
+right away.
 It's a date, after all.");
         ChEye(1,0);
         ChMouth(1,3);
@@ -85,8 +84,7 @@ I'm a little nervous.)");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("J060100000_01_060");
-        MsgDisp("Kazama","U...
-Oh, yeah.
+        MsgDisp("Kazama","U... Oh, yeah.
 No good?");
         MsgDisp("主人公","Yeah, sorry.
 It's a little bit...");

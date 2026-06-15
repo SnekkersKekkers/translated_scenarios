@@ -4,6 +4,5 @@ ChMotion(8,0);
 ChCheek(8,0);
 MsgDispHide();
 VoicePlay("SS0008016_08_000");
-MsgDisp("Shirahane","What?
-You say it first.");
+MsgDisp("Shirahane","What? You say it first.");
 MsgClose();

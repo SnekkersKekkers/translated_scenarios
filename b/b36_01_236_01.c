@@ -67,9 +67,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("B360123601_01_070");
-MsgDisp("Kazama","I can't go back to when we were in elementary
-school, but your reactions now are just as
-good.");
+MsgDisp("Kazama","I can't go back to when we were in
+elementary school, but your reactions now
+are just as good.");
 MsgDisp("主人公","Are you saying I'm like a kid?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -83,8 +83,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360123601_01_090");
-MsgDisp("Kazama","Yeah.
-I'm enjoying it.");
+MsgDisp("Kazama","Yeah. I'm enjoying it.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

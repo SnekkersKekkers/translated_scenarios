@@ -41,8 +41,7 @@ StlMouth(7,0);
 VoicePlay("B050700200_07_010");
 MsgDisp("Mikage","Calm down.
 You're a good girl, Momo-chan.");
-MsgDisp("主人公","(Eh...
-Momo-chan?)");
+MsgDisp("主人公","(Eh... Momo-chan?)");
 StlEye(7,0);
 StlMouth(7,1);
 StlEyeOpenLevel(7,5);
@@ -96,8 +95,7 @@ ChMotion(7,4);
 VoicePlay("B050700200_07_070");
 MsgDisp("Mikage","Yeah, I was there when she was born.
 From then on, she was my lover.");
-MsgDisp("主人公","Hehe!
-So that's how it is.");
+MsgDisp("主人公","Hehe! So that's how it is.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);

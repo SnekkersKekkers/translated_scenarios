@@ -37,8 +37,7 @@ training or stretching.");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("B040208301_02_030");
-    MsgDisp("Sassa","Crap.
-We might've come to an empty house.");
+    MsgDisp("Sassa","Crap. We might've come to an empty house.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

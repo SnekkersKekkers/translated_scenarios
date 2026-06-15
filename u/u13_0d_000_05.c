@@ -34,8 +34,8 @@ I wonder if I can do that sort of thing...)");
     StlEyeOpenLevel(21,5);
     StlMouth(21,0);
     VoicePlay("U130D00005_21_010");
-    MsgDisp("Michiru","Himuro-chan seems to have taken a liking to
-you?");
+    MsgDisp("Michiru","Himuro-chan seems to have taken a liking
+to you?");
     MsgDisp("主人公","Eh?...");
     StlMouth(22,1);
     VoicePlay("U130D00005_22_010");
@@ -71,8 +71,7 @@ That's how the people around me feel...?)");
     StlEyeOpenLevel(21,0);
     StlMouth(21,0);
     VoicePlay("U130D00005_21_030");
-    MsgDisp("Michiru","Hehe.
-I wonder if this will make him happy.");
+    MsgDisp("Michiru","Hehe. I wonder if this will make him happy.");
     MsgDisp("主人公","...Eh?");
     StlEye(22,0,0);
     StlEyeOpenLevel(22,5,1);
@@ -92,9 +91,9 @@ ice wall of his.");
     MsgDisp("Hikaru","Mari, you really did so well▼");
     StlEyeOpenLevel(21,5,1);
     VoicePlay("U130D00005_21_050");
-    MsgDisp("Michiru","It seems like he finally realised that he
-doesn't have to overwork himself all the
-time.");
+    MsgDisp("Michiru","It seems like he finally realised that
+he doesn't have to overwork himself all
+the time.");
     StlEye(22,0);
     MsgDisp("主人公","(｛Himuro＊＊｝'s ice wall...
 Lately I don't get that feeling from him

@@ -65,8 +65,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,7);
 VoicePlay("B330B30800_01_040");
-MsgDisp("Kazama","Ha?
-Shut up.");
+MsgDisp("Kazama","Ha? Shut up.");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);

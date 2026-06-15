@@ -1,11 +1,9 @@
 BGOpen("ex000",1);
 ChClose(4,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-Why did I say such a thing...)");
+MsgDisp("主人公","(Sigh... Why did I say such a thing...)");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","(Huh?
-It's from ｛Nanatsumori＊｝...)");
+MsgDisp("主人公","(Huh? It's from ｛Nanatsumori＊｝...)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 MsgDisp("主人公","Yes, hello.");
@@ -22,13 +20,11 @@ said some nasty things to you.");
 VoicePlay("B100400000_04_030");
 MsgDisp("Nanatsumori","I really was an idiot.
 Sorry.");
-MsgDisp("主人公","No.
-I'm the one who said weird things, I'm sorry.");
+MsgDisp("主人公","No. I'm the one who said weird things,
+I'm sorry.");
 VoicePlay("B100400000_04_040");
-MsgDisp("Nanatsumori","Yeah, it was definitely weird.
-Haha.");
-MsgDisp("主人公","Hey...
-Hehe!");
+MsgDisp("Nanatsumori","Yeah, it was definitely weird. Haha.");
+MsgDisp("主人公","Hey... Hehe!");
 VoicePlay("B100400000_04_050");
 MsgDisp("Nanatsumori","That's good.
 Now we can finish this with a smile.

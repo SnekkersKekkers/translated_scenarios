@@ -2,8 +2,7 @@ MsgClose();
 ChClose(1,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh?
-｛Kazama＊＊｝ isn't here yet?");
+MsgDisp("主人公","Huh? ｛Kazama＊＊｝ isn't here yet?");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -13,8 +12,7 @@ Shall we quickly go home?");
 MsgClose();
 SEPlay("EV_SE_557");
 ChOpen(34,254,0,1,0,#1,#1,0,0);
-MsgDisp("主人公","Ehh∋
-...Me?");
+MsgDisp("主人公","Ehh∋ ...Me?");
 ChEye(34,0);
 ChMouth(34,0);
 VoicePlay("B110100001_34_010");
@@ -33,8 +31,7 @@ VoicePlay("B110100001_34_030");
 MsgDisp("Guy","Come on, hurry.
 From reality into the sea of the virtual
 world, let's go surf the net.");
-MsgDisp("主人公","Ehh∋
-Hey, what are you talking about!?");
+MsgDisp("主人公","Ehh∋ Hey, what are you talking about!?");
 ChPosition(34,2);
 MsgDispSksp(1,5);
 SEPlay("EV_SE_550");
@@ -46,16 +43,14 @@ MsgDispSksp(0);
 ChEye(34,2);
 ChMouth(34,0);
 VoicePlay("B110100001_34_040");
-MsgDisp("Guy","You...
-That avatar is good looking.");
+MsgDisp("Guy","You... That avatar is good looking.");
 MsgDispSksp(1,5);
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B110100001_01_010");
-MsgDisp("Kazama","Huh?
-Oi, I don't understand you.");
+MsgDisp("Kazama","Huh? Oi, I don't understand you.");
 MsgDispSksp(0);
 ChEye(34,1);
 ChMouth(34,1);
@@ -82,8 +77,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B110100001_01_030");
-MsgDisp("Kazama","Huh?
-What was up with that guy...");
+MsgDisp("Kazama","Huh? What was up with that guy...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

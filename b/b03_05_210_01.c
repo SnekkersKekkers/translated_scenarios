@@ -20,8 +20,8 @@ things we can find!");
     case 1:
     MsgDispSksp(1,0);
     VoicePlay("B030521001_05_010");
-    MsgDisp("Hiiragi","Sure, wherever you want to go is fine with
-me.");
+    MsgDisp("Hiiragi","Sure, wherever you want to go is fine
+with me.");
     MsgDispSksp(0);
     break ;
     default :

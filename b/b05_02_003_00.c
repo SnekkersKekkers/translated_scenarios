@@ -33,8 +33,8 @@ ChMouth(31,0);
 ChMotion(31,1);
 VoicePlay("B050200300_31_020");
 MsgDisp("Goro","Mmhm.
-Hey, isn't that guy with you a diamond in the
-rough?");
+Hey, isn't that guy with you a diamond in
+the rough?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -78,8 +78,7 @@ SEWait();
 ChOpen(31,254,4,0,0,#1,#1,0,0);
 VoicePlay("B050200300_31_050");
 MsgDisp("Goro","We're B・a・c・k.");
-MsgDisp("主人公","Ah, welcome back.
-EH—");
+MsgDisp("主人公","Ah, welcome back. EH—");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);
@@ -90,16 +89,14 @@ StlMouth(2,0);
 ScrFadeIn(0);
 VoicePlay("B050200300_31_060");
 MsgDisp("Goro","I polished your rough diamond a little▼");
-MsgDisp("主人公","Woah!
-｛Sassa＊＊｝ looks so mature!");
+MsgDisp("主人公","Woah! ｛Sassa＊＊｝ looks so mature!");
 StlEye(2,1);
 StlMouth(2,1);
 VoicePlay("B050200300_02_030");
 MsgDisp("Sassa","...Yeah.
 This is my first time looking so cool.");
 VoicePlay("B050200300_31_070");
-MsgDisp("Goro","Yep.
-I went with \"Goro's Fresh Collection\"!");
+MsgDisp("Goro","Yep. I went with \"Goro's Fresh Collection\"!");
 MsgDisp("主人公","Ah, that fashion collection is featured on
 Habatcher...");
 StlEye(2,1);
@@ -119,8 +116,7 @@ ScrFadeOut(0);
 StlClose();
 BGMVol(0.5,2);
 VoicePlay("B050200300_02_050");
-MsgDisp("Sassa","Ah...
-I see...
+MsgDisp("Sassa","Ah... I see...
 Of course.");
 VoicePlay("B050200300_31_090");
 MsgDisp("Goro","Those clothes are from Agel.
@@ -128,8 +124,7 @@ Adieu.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 Wait(90,0);
 VoicePlay("B050200300_02_060");
-MsgDisp("Sassa","Ah.
-Thank you so much...");
+MsgDisp("Sassa","Ah. Thank you so much...");
 MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ seems a bit disappointed.
 The suit really made him look cool.)");
 BGMStop();

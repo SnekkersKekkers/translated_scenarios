@@ -44,16 +44,15 @@ why don't you ask me directly?");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040602202_06_040");
-        MsgDisp("Himuro","Besides, if you suddenly say something like
-that—");
+        MsgDisp("Himuro","Besides, if you suddenly say something
+like that—");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040602202_06_050");
         MsgDisp("Himuro","...No, it's nothing.
 Just me reading into it.");
-        MsgDisp("主人公","Eh?
-Reading into it?");
+        MsgDisp("主人公","Eh? Reading into it?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

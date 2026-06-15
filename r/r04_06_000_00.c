@@ -16,8 +16,7 @@ switch (ChPrmGet(6,6)){
     VoicePlay("R040600000_06_010");
     MsgDisp("Himuro","Everyone's having a good time, huh.
 You too?");
-    MsgDisp("主人公","Hehe.
-I guess.
+    MsgDisp("主人公","Hehe. I guess.
 Aren't you, ｛Himuro＊＊｝?");
     ChEye(6,0);
     ChMouth(6,0);

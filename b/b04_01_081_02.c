@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108102_01_010");
         MsgDisp("Kazama","Yeah, I doubt it.
-You absolutely don't remember something like
-that.");
+You absolutely don't remember something
+like that.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -47,8 +47,7 @@ something from that long ago.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108102_01_040");
-        MsgDisp("Kazama","Phew.
-My bad.
+        MsgDisp("Kazama","Phew. My bad.
 That's just so you, too.");
         MsgDisp("主人公","I'm sorry.
 I wasn't really thinking...");
@@ -65,8 +64,7 @@ But you know, I remember.");
         MsgDisp("Kazama","You were just a scared, timid little kid.
 And from the day we were in the same class,
 we always went home together.");
-        MsgDisp("主人公","Yeah.
-You were always cheering me up.");
+        MsgDisp("主人公","Yeah. You were always cheering me up.");
         ChEye(1,0);
         ChMouth(1,3);
         ChMotion(1,0,1);
@@ -98,8 +96,8 @@ It makes me happy.)");
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("B040108102_01_090");
-    MsgDisp("Kazama","Yeah, London has quite a few cherry blossoms
-around.
+    MsgDisp("Kazama","Yeah, London has quite a few cherry
+blossoms around.
 I always liked the ones I saw there, too.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

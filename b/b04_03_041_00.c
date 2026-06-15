@@ -36,8 +36,8 @@ even more amazing matches∋");
     ChMotion(3,1);
     VoicePlay("B040304100_03_020");
     MsgDisp("Honda","Oh, really?
-I would've been happy if you'd enjoyed it
-though.");
+I would've been happy if you'd enjoyed
+it though.");
     MsgDateResultDisp();
     break ;
     default :

@@ -8,8 +8,8 @@ MsgDisp("主人公","Good day!");
 VoicePlay("D030901001_45_000");
 MsgDisp("Mayo","Oh my, welcome.");
 MsgDisp("主人公","Ah, Mayo-san!
-Is Kuya-san studying hard for his entrance
-exam?");
+Is Kuya-san studying hard for his
+entrance exam?");
 VoicePlay("D030901001_45_010");
 MsgDisp("Mayo","About that, he's still been wandering around.
 I wonder if that's okay...");
@@ -18,8 +18,8 @@ VoicePlay("D030901001_45_020");
 MsgDisp("Mayo","Well, I guess he can't help it.
 That's just the kind of kid he is.");
 MsgDisp("主人公","(Kuya-san...
-He didn't study for the entrance exam at
-all.)");
+He didn't study for the entrance exam
+at all.)");
 MsgDisp("主人公","......");
 MsgDisp("主人公","(I'm over Kuya-san...)");
 MsgClose();

@@ -2,8 +2,7 @@ MsgDisp("主人公","Recently, it's been lively around you,
 ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 VoicePlay("B070500001_05_180");
-MsgDisp("Hiiragi","Yes.
-It's a little perplexing even to me.");
+MsgDisp("Hiiragi","Yes. It's a little perplexing even to me.");
 ChMotion(5,4);
 VoicePlay("B070500001_05_190");
 MsgDisp("Hiiragi","I spent all my time surrounded by adults in

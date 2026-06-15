@@ -18,8 +18,7 @@ ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
 MsgDisp("主人公","Phew...seems like one matter's been resolved.");
 ChMotion(4,1,1);
 VoicePlay("P840400004_04_000");
-MsgDisp("Nanatsumori","I see...
-You're good at persuasion.");
+MsgDisp("Nanatsumori","I see... You're good at persuasion.");
 MsgDisp("主人公","Am I?");
 ChEye(4,4);
 ChMouth(4,2);

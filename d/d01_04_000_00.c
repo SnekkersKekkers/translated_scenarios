@@ -37,12 +37,10 @@ StlEye(4,0);
 StlMouth(4,0);
 BGMPlay("BGM_C04_NANA_C",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Woah...
-Such a cool witch!
+MsgDisp("主人公","Woah... Such a cool witch!
 She's tall and slender...so beautiful!");
 VoicePlay("D010400000_46_010");
-MsgDisp("Woman A","Ahh...
-She looks even more lovely in person!");
+MsgDisp("Woman A","Ahh... She looks even more lovely in person!");
 VoicePlay("D010400000_47_010");
 MsgDisp("Woman B","Nana▼ｃо-san, you look like you can do real
 magic～♪");
@@ -50,8 +48,7 @@ MsgDisp("主人公","(Nanaco-san?
 Oh, it's a woman...she looks like a model.)");
 StlEyeOpenLevel(4,5);
 VoicePlay("D010400000_04_000");
-MsgDisp("Witch","Hehe...
-Do you want to see it?");
+MsgDisp("Witch","Hehe... Do you want to see it?");
 SEPlay("EV_SE_588",0,0.5);
 SEPlay("EV_SE_511",0.1);
 Wait(10,0);
@@ -74,8 +71,7 @@ StlMouth(4,1);
 StlNear(1,0,15);
 VoicePlay("D010400000_04_020");
 MsgDisp("Witch","Ah∈");
-MsgDisp("主人公","(Ah...
-Like I thought.
+MsgDisp("主人公","(Ah... Like I thought.
 This person has a familiar voice.)");
 StlEye(4,1);
 StlMouth(4,0);
@@ -99,8 +95,7 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400000_04_030");
-MsgDisp("Witch","...ＮＯ.
-In the truth lies darkness.");
+MsgDisp("Witch","...ＮＯ. In the truth lies darkness.");
 MsgDisp("主人公","Then just the parts that aren't secrets!
 From Nanaco directly to all her Habatcher
 fans! Go ahead∈");

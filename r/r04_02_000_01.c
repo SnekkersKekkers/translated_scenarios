@@ -16,8 +16,8 @@ Thank you!");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("R040200001_02_010");
-    MsgDisp("Sassa","I thought you were a princess from a distant
-land.");
+    MsgDisp("Sassa","I thought you were a princess from a
+distant land.");
     MsgDisp("主人公","I think you're exaggerating a bit.");
     ChEye(2,0);
     ChMouth(2,4);
@@ -94,10 +94,9 @@ to you.");
     ChCheek(2,10);
     VoicePlay("R040200001_02_110");
     MsgDisp("Sassa","How do I look?
-People are saying I look like a wedding
-groom.");
-    MsgDisp("主人公","Yeah.
-You do look like a wedding groom.");
+People are saying I look like a
+wedding groom.");
+    MsgDisp("主人公","Yeah. You do look like a wedding groom.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,5);

@@ -7,8 +7,7 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,5);
 VoicePlay("B030807000_08_000");
-MsgDisp("Shirahane","Ehh...
-Real nice here.
+MsgDisp("Shirahane","Ehh... Real nice here.
 Where ya wanna look?");
 MsgDispSksp(1,0);
 MsgDisp("主人公","Let's see...");

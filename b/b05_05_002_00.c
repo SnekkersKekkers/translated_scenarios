@@ -8,8 +8,8 @@ ScrFadeIn(0);
 VoicePlay("B050500200_05_000");
 MsgDisp("Hiiragi","Where around here would the spring water be?");
 MsgDisp("主人公","Hmm...
-｛Hiiragi＊＊＊｝, is there something on your
-mind?");
+｛Hiiragi＊＊＊｝, is there something on
+your mind?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -41,8 +41,8 @@ Wait(30,0);
 VoiceEVSPlay(5);
 VoicePlay("B050500200_05_030");
 MsgDisp("Hiiragi","｛主人公｝, over there.
-There are ripples on the surface of the
-water.");
+There are ripples on the surface of
+the water.");
 SEPlay("EV_SE_703");
 SEWait();
 MsgDisp("主人公","You're right.

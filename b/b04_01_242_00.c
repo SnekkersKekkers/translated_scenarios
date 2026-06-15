@@ -28,8 +28,8 @@ count on modern conveniences here.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040124200_01_020");
-    MsgDisp("Kazama","Yeah, they were selling ingredients at the
-ranch.
+    MsgDisp("Kazama","Yeah, they were selling ingredients at
+the ranch.
 Let's grill up some meat, just the two of us!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

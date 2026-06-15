@@ -31,7 +31,8 @@ ChOpen(7,100,2,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110700300_07_020");
 MsgDisp("Mikage","Look at this.
-My plants all look healthy and shiny, real beauties.");
+My plants all look healthy and shiny, real
+beauties.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -55,13 +56,13 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700300_07_060");
-MsgDisp("Mikage","Miss Diligent in my class is a real beauty who gives it her all.");
+MsgDisp("Mikage","Miss Diligent in my class is a real beauty
+who gives it her all.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700300_07_070");
-MsgDisp("Mikage","Try to do better on the next test.
-Okay?");
+MsgDisp("Mikage","Try to do better on the next test. Okay?");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);
 ChEye(7,0);

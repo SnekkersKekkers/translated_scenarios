@@ -25,8 +25,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B150400500_04_040");
-MsgDisp("Nanatsumori","Do you remember that payback from the other
-day?");
+MsgDisp("Nanatsumori","Do you remember that payback from the
+other day?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 MsgClose();
 ChClose(4,0,30);
@@ -40,11 +40,9 @@ SEPlay("EV_SE_551");
 SEWait();
 VoicePlay("B150400500_04_050");
 MsgDisp("Nanatsumori","Sigh...");
-MsgDisp("主人公","Ugh—...
-｛Nanatsumori＊｝, it hurts.");
+MsgDisp("主人公","Ugh—... ｛Nanatsumori＊｝, it hurts.");
 VoicePlay("B150400500_04_060");
-MsgDisp("Nanatsumori","I bet.
-I'm holding you with all my strength.");
+MsgDisp("Nanatsumori","I bet. I'm holding you with all my strength.");
 MsgDisp("主人公","(What should I do?
 I can almost hear my heart racing...)");
 VoicePlay("B150400500_04_070");
@@ -64,8 +62,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B150400500_04_090");
-MsgDisp("Nanatsumori","Haha!
-Serves you right.");
+MsgDisp("Nanatsumori","Haha! Serves you right.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT",0.3,0.6);
 ChClose(4,0,30);

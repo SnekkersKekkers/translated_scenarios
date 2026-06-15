@@ -12,8 +12,7 @@ switch (ChPrmGet(4,6)){
     ChOpen(4,30,0,0,0,#1,#1,0,0,0,60);
     VoicePlay("O030401000_04_000");
     MsgDisp("Nanatsumori","...Ah.");
-    MsgDisp("主人公","Oh.
-｛Nanatsumori＊｝!");
+    MsgDisp("主人公","Oh. ｛Nanatsumori＊｝!");
     ChEye(4,0);
     ChMouth(4,0);
     ChMotion(4,2,1);
@@ -26,8 +25,7 @@ Let's pair up.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("O030401000_04_020");
-    MsgDisp("Nanatsumori","Huh...
-Seriously...");
+    MsgDisp("Nanatsumori","Huh... Seriously...");
     break ;
     case 3:
     MsgDisp("主人公","(What should I do about my partner...)");
@@ -44,8 +42,8 @@ with me?");
     ChEye(4,2);
     ChMouth(4,4);
     VoicePlay("O030401000_04_040");
-    MsgDisp("Nanatsumori","Don't say that with your eyes sparkling like
-that.
+    MsgDisp("Nanatsumori","Don't say that with your eyes sparkling
+like that.
 Me and exercise are...");
     MsgDisp("主人公","Please!");
     ChEye(4,2);

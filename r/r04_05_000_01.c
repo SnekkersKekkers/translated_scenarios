@@ -65,8 +65,7 @@ in your way.");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("R040500001_05_080");
-    MsgDisp("Hiiragi","Haha.
-I'm only half-joking.");
+    MsgDisp("Hiiragi","Haha. I'm only half-joking.");
     break ;
     default :
     DbgAssert(1);

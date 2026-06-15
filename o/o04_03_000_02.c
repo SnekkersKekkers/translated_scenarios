@@ -24,8 +24,7 @@ But we were so close...)");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("O040300002_03_010");
-    MsgDisp("Honda","Da!
-If we just had one more...!");
+    MsgDisp("Honda","Da! If we just had one more...!");
     MsgDisp("主人公","(A draw, huh...
 But we were so close...)");
     break ;

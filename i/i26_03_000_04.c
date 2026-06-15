@@ -21,8 +21,8 @@ Ah, did I overstep?");
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_440");
     MsgDisp("Honda","Ah, then it's fine.
-It was a rush order, so the manager called
-me.");
+It was a rush order, so the manager
+called me.");
     ChMotion(3,1,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("I260300000_03_450");

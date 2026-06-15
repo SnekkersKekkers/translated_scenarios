@@ -36,8 +36,8 @@ Look forward to it.");
     ChMotion(7,4);
     VoicePlay("B040724201_07_030");
     MsgDisp("Mikage","It's hard to even set up a single tent.
-Come on, spread out that waterproof tarp over
-there!");
+Come on, spread out that waterproof tarp
+over there!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

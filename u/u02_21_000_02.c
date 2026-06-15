@@ -11,8 +11,7 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U022100002_21_010");
-MsgDisp("Michiru","Hehe.
-That description isn't wrong at all.");
+MsgDisp("Michiru","Hehe. That description isn't wrong at all.");
 MsgDisp("主人公","Hm?");
 ChEye(21,0);
 ChMouth(21,0);
@@ -34,8 +33,7 @@ VoicePlay("U022100002_21_040");
 MsgDisp("Michiru","When you're surrounded by beautiful scenery,
 your heart sometimes begins to flutter.
 Maybe that's why.");
-MsgDisp("主人公","Yeah...
-What do you mean?");
+MsgDisp("主人公","Yeah... What do you mean?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

@@ -17,10 +17,8 @@ SEPlay("EV_SE_544",0,0.7,0.1);
 ChOpen(3,254,5,0,4,0,#1,0,0);
 VoicePlay("D100300000_03_010");
 MsgDisp("Honda","Sniff sniff...
-Huh?
-It's gone.");
-MsgDisp("主人公","Ehh∈
-What is it?");
+Huh? It's gone.");
+MsgDisp("主人公","Ehh∈ What is it?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(3);
 ChLayout(1);
@@ -38,8 +36,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("D100300000_03_040");
-MsgDisp("Honda","Last night, I dreamt you were in a large
-garden.
+MsgDisp("Honda","Last night, I dreamt you were in a
+large garden.
 I could smell roses.");
 ChEye(3,0);
 ChMouth(3,4);

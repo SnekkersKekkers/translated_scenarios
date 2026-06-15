@@ -9,8 +9,8 @@ ChNanaType(0);
 ChOpen(4,254,0,2,0,#1,#1,0,0,0,30);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ah...
-I wonder what everyone's gathered
-around talking about?)");
+I wonder what everyone's gathered around
+talking about?)");
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);

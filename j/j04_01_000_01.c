@@ -8,8 +8,7 @@ switch (ChPrmGet(1,6)){
     break ;
     case 4:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Huh?
-It's ｛Kazama＊＊｝.)");
+    MsgDisp("主人公","(Huh? It's ｛Kazama＊＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -46,8 +45,7 @@ Maybe I did something bad...)");
     break ;
     case 5:
     SEPlay("EV_SE_577");
-    MsgDisp("主人公","(Huh?
-It's ｛Kazama＊＊｝)");
+    MsgDisp("主人公","(Huh? It's ｛Kazama＊＊｝)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -58,8 +56,8 @@ It's ｛Kazama＊＊｝)");
     MsgDisp("主人公","｛Kazama＊＊｝, what's up?");
     VoicePlay("J040100001_01_051");
     MsgDisp("Kazama","Nothing in particular.
-I was just wondering if you're free this
-Sunday.");
+I was just wondering if you're free
+this Sunday.");
     MsgSel("Yeah, I'm free.","I have some business to take care of...");
     switch (MsgSelRsltGet()){
         case 0:

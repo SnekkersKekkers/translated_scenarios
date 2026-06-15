@@ -22,6 +22,5 @@ ChCheek(1,0);
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
-MsgDisp("主人公","Ummm...
-We're all here, so should we go?");
+MsgDisp("主人公","Ummm... We're all here, so should we go?");
 ChMouth(1,0);

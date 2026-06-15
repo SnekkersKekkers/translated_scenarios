@@ -24,8 +24,8 @@ MsgDisp("主人公","Eh...and then?");
 ChEye(3,4);
 VoicePlay("G020340001_03_030");
 MsgDisp("Honda","I woke up feeling suffocated.
-But even then, everything was still pitch
-black.");
+But even then, everything was still
+pitch black.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -42,8 +42,8 @@ VoicePlay("G020340001_03_050");
 MsgDisp("Honda","Yeah. I learned the hard way that stacking up
 a tower of unread books by my bedside is
 dangerous.");
-MsgDisp("主人公","Yeah...make sure to organise them properly,
-okay?");
+MsgDisp("主人公","Yeah...make sure to organise them
+properly, okay?");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);

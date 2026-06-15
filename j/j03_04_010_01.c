@@ -11,16 +11,13 @@ switch (ChPrmGet(4,6)){
     MsgDisp("主人公","Hello.
 It's ｛主人公苗字｝.");
     VoicePlay("J030401001_04_000");
-    MsgDisp("Nanatsumori","Oh...
-Nanatsumori.
+    MsgDisp("Nanatsumori","Oh... Nanatsumori.
 I just heard the voicemail.");
-    MsgDisp("主人公","Yeah.
-So, what do you think?");
+    MsgDisp("主人公","Yeah. So, what do you think?");
     VoicePlay("J030401001_04_010");
     MsgDisp("Nanatsumori","I can't that day.
 I have to run an errand.");
-    MsgDisp("主人公","Oh.
-That's too bad...");
+    MsgDisp("主人公","Oh. That's too bad...");
     VoicePlay("J030401001_04_020");
     MsgDisp("Nanatsumori","Sorry.
 See you.");
@@ -59,16 +56,14 @@ See you later.");
     MsgDisp("主人公","Hello.
 It's ｛主人公苗字｝.");
     VoicePlay("J030401001_04_060");
-    MsgDisp("Nanatsumori","Yo.
-Sorry I missed your call.");
+    MsgDisp("Nanatsumori","Yo. Sorry I missed your call.");
     MsgDisp("主人公","It's okay.
 So, about the voicemail.
 What do you think?");
     VoicePlay("J030401001_04_070");
     MsgDisp("Nanatsumori","Sorry.
 I have an errand I can't miss.");
-    MsgDisp("主人公","Oh.
-Well, then I guess I can't blame you...");
+    MsgDisp("主人公","Oh. Well, then I guess I can't blame you...");
     VoicePlay("J030401001_04_080");
     MsgDisp("Nanatsumori","Don't make that sound.
 I'll make it up to you next time.

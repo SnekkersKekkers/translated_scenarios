@@ -3,8 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100540001_07_000");
 MsgDisp("Mikage","Well, ya don't really wanna trouble the
-school cafeteria ladies by asking for too
-much.");
+school cafeteria ladies by asking for
+too much.");
 VoicePlay("F100540001_05_000");
 MsgDisp("Hiiragi","Yes, that is unfortunate...");
 MsgClose();
@@ -18,8 +18,8 @@ ChEyeOpenLevel(5,9);
 VoiceEVSPlay(5);
 VoicePlay("F100540001_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
-Yes, it looks like they did not have Hiyashi
-Chuuka.");
+Yes, it looks like they did not have
+Hiyashi Chuuka.");
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","I see.
 You two were really excited about it the
@@ -28,8 +28,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100540001_07_010");
-MsgDisp("Mikage","Yeah.
-But, it is a seasonal item.
+MsgDisp("Mikage","Yeah. But, it is a seasonal item.
 It may appear in the future.");
 ChEye(5,4);
 ChMouth(5,4);

@@ -23,11 +23,11 @@ Congrats.");
 MsgDisp("主人公","Thanks.");
 ChMotion(4,1,1);
 VoicePlay("H6G0400000_04_030");
-MsgDisp("Nanatsumori","Tell me the details about what it was and how
-exactly it got praised by the gardening world
-later.");
+MsgDisp("Nanatsumori","Tell me the details about what it was and
+how exactly it got praised by the gardening
+world later.");
 MsgDisp("主人公","(I did it!
-I'm really glad I stayed in the gardening
-club!)");
+I'm really glad I stayed in the
+gardening club!)");
 MsgClose();
 ScrFadeOut(0,0);

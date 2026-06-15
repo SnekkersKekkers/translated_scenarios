@@ -36,8 +36,8 @@ ChMotion(6,1);
 VoicePlay("P140600000_06_050");
 MsgDisp("Himuro","What's that.
 Has anyone actually succeeded?");
-MsgDisp("主人公","Many people have succeeded in escaping,
-though?");
+MsgDisp("主人公","Many people have succeeded in
+escaping, though?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

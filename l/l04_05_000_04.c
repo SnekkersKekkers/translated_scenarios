@@ -41,9 +41,9 @@ in mind.");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("L040500004_05_050");
-    MsgDisp("Hiiragi","There is no chance that I wouldn't.
-It's the only chocolate in the world that was
-made exclusively for me, no?");
+    MsgDisp("Hiiragi","There is no chance that I wouldn't. It's the
+only chocolate in the world that was made
+exclusively for me, no?");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);

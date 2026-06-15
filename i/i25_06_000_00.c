@@ -77,8 +77,8 @@ too much, you'll be fine.");
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("I250600000_06_080");
-    MsgDisp("Himuro","By the way, do you have that award-winning
-novel?");
+    MsgDisp("Himuro","By the way, do you have that
+award-winning novel?");
     MsgDisp("主人公","Ah, that novel has a special display next to
 the entrance.");
     ChEye(6,0);
@@ -100,8 +100,7 @@ Well, keep up the good work.");
     ChOpen(6,255,0,0,0,#1,#1,0,0);
     VoicePlay("I250600000_06_100");
     MsgDisp("Himuro","Hey, miss.");
-    MsgDisp("主人公","Yes!
-Wait, ｛Himuro＊＊｝?");
+    MsgDisp("主人公","Yes! Wait, ｛Himuro＊＊｝?");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,3);
@@ -128,8 +127,8 @@ I wouldn't be doing my job if I didn't.");
     ChMotion(6,0);
     VoicePlay("I250600000_06_140");
     MsgDisp("Himuro","Hm, guess you've been trained well?");
-    MsgDisp("主人公","It's hard work, but it's worth doing, you
-know?");
+    MsgDisp("主人公","It's hard work, but it's worth doing,
+you know?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

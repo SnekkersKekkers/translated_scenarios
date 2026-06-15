@@ -37,8 +37,7 @@ ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("E010420200_05_020");
 MsgDisp("Hiiragi","It was a very fulfilling experience.");
-MsgDisp("主人公","I see.
-Did you find anything good?");
+MsgDisp("主人公","I see. Did you find anything good?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
@@ -88,8 +87,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("E010420200_04_040");
 MsgDisp("Nanatsumori","...His energy is definitely different.
-Is that what happens when you're at a leader
-level?");
+Is that what happens when you're at a
+leader level?");
 MsgDisp("主人公","(Hehe!
 I guess ｛Nanatsumori＊｝ really respects
 ｛Hiiragi＊＊＊｝)");

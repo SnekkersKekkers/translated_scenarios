@@ -39,8 +39,8 @@ original arrangement.");
     ChMotion(3,1,1);
     VoicePlay("P530300000_03_030");
     MsgDisp("Honda","I came to hear your musical performance.
-I'll enjoy it even more if it's different to
-usual.");
+I'll enjoy it even more if it's different
+to usual.");
     MsgDisp("主人公","Y-Yeah.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -97,9 +97,9 @@ Maybe I calmed down a little?");
     SEPlay("EV_SE_038");
     SEWait();
     VoicePlay("P530300000_03_100");
-    MsgDisp("Honda","Waa∋
-That startled me. That sounded like the
-buzzer for a wrong answer.");
+    MsgDisp("Honda","Waa∋ That startled me.
+That sounded like the buzzer for a
+wrong answer.");
     MsgDisp("主人公","Hehe, are you okay?
 Even though you specifically wanted to relax?");
     MsgDisp("主人公","(Huh...thanks to ｛Honda＊＊｝, It seems like

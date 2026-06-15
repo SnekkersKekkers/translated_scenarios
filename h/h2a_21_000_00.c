@@ -50,8 +50,7 @@ It's thanks to your support, ｛みちる＊｝.");
     ChMouth(21,0);
     ChMotion(21,0);
     VoicePlay("H2A2100000_21_030");
-    MsgDisp("Michiru","Hehe.
-I was cheering for you though, Mari.");
+    MsgDisp("Michiru","Hehe. I was cheering for you though, Mari.");
     MsgDisp("主人公","Hehe, thanks!");
     ChEye(21,4);
     ChMouth(21,3);

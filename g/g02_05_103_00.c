@@ -3,8 +3,7 @@ ChOpen(5,255,0,0,4,#1,#1,0,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("G020510300_05_000");
-MsgDisp("Hiiragi","Huh?
-Are they gathering around us?");
+MsgDisp("Hiiragi","Huh? Are they gathering around us?");
 MsgDisp("主人公","They really are...
 I wonder why?");
 ChEye(5,0);
@@ -20,8 +19,7 @@ Wait(24,1);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("G020510300_05_020");
-MsgDisp("Hiiragi","Yes.
-And look here, too.");
+MsgDisp("Hiiragi","Yes. And look here, too.");
 SEPlay("EV_SE_714");
 SEWait();
 ChEye(5,0);

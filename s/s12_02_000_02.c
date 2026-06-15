@@ -14,8 +14,7 @@ switch (ChPrmGet(2,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120200002_02_000");
-    MsgDisp("Sassa","Good.
-I got to start the year off with you.");
+    MsgDisp("Sassa","Good. I got to start the year off with you.");
     MsgDisp("主人公","Yeah, treat me well this year.");
     ChEye(2,0);
     ChMouth(2,3);
@@ -63,8 +62,8 @@ start to the New Year!");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("S120200002_02_060");
-    MsgDisp("Sassa","Let's walk home with that same sort of
-energy.
+    MsgDisp("Sassa","Let's walk home with that same sort
+of energy.
 Like you're running.");
     MsgDisp("主人公","Hehe, we're not really running, right?");
     ChEye(2,0);
@@ -90,8 +89,8 @@ Even though I feel like it.");
     ChMotion(2,4);
     VoicePlay("S120200002_02_090");
     MsgDisp("Sassa","What, were you watching me?
-It's okay for me to be serious once in a
-while.");
+It's okay for me to be serious once in
+a while.");
     MsgDisp("主人公","Isn't ｛Sassa＊＊｝ always serious?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -100,8 +99,7 @@ while.");
     MsgDisp("Sassa","Ah, no good.
 I'm a hot-blooded track idiot, so please be
 good to me this year too.");
-    MsgDisp("主人公","Eh?
-I've never thought of you that way.");
+    MsgDisp("主人公","Eh? I've never thought of you that way.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

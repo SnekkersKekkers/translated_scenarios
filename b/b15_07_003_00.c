@@ -22,8 +22,8 @@ ChMotion(7,3);
 VoicePlay("B150700300_07_020");
 MsgDisp("Mikage","Don't tell me you're not serious yet.");
 MsgDisp("主人公","Umm...
-Before I knew it, my body was moving on its
-own.");
+Before I knew it, my body was moving on
+its own.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

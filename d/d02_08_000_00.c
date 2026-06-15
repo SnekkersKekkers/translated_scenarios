@@ -36,8 +36,7 @@ ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,1,1);
 VoicePlay("D020800000_08_050");
-MsgDisp("Shirahane","Ya.
-Aren't I also worthy of a rumour?");
+MsgDisp("Shirahane","Ya. Aren't I also worthy of a rumour?");
 MsgDisp("主人公","That's right.
 Come to think of it, the customers seem to
 have fun talking to you!");

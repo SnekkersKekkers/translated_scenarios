@@ -23,8 +23,7 @@ rewarding.");
     VoicePlay("I260300000_03_140");
     MsgDisp("Honda","But you can't just try hard, you have to rest
 properly, too.");
-    MsgDisp("主人公","...Okay.
-Then, can I leave the rest to you?");
+    MsgDisp("主人公","...Okay. Then, can I leave the rest to you?");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -41,8 +40,7 @@ and take a little break.)");
     BGMPlay("BGM_C03_HONDA_A");
     ChOpen(3,35,0,0,4,#1,#1,0,0,0,5);
     VoicePlay("I260300000_03_160");
-    MsgDisp("Honda","Hm?
-What's up?");
+    MsgDisp("Honda","Hm? What's up?");
     MsgDisp("主人公","The other day, we did a \"Draw your favourite
 person\" contest here, right?");
     ChEye(3,3);
@@ -65,8 +63,7 @@ here often...");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("I260300000_03_190");
-    MsgDisp("Honda","Ah!
-Is this a portrait of you?
+    MsgDisp("Honda","Ah! Is this a portrait of you?
 She captured your traits well!");
     ChEye(3,3);
     ChMouth(3,3);

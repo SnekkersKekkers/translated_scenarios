@@ -4,8 +4,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEPlay("EV_SE_579");
-MsgDisp("主人公","(Oh...
-A phone call?
+MsgDisp("主人公","(Oh... A phone call?
 Who's it from?)");
 MsgDisp("主人公","(Eh, ｛Daichi＊＊｝∋)");
 MsgClose();
@@ -27,14 +26,11 @@ MsgDisp("主人公","Yep.");
 VoicePlay("D020800700_08_020");
 MsgDisp("Shirahane","Well right now, I'm in Kyoto for Hane's
 school trip.");
-MsgDisp("主人公","Eh?
-｛Daichi＊＊｝, isn't that your hometown?");
+MsgDisp("主人公","Eh? ｛Daichi＊＊｝, isn't that your hometown?");
 VoicePlay("D020800700_08_030");
 MsgDisp("Shirahane","That's right.
-It's like visiting home!
-Haha!");
-MsgDisp("主人公","Hehe!
-Hey, is everyone there still awake?");
+It's like visiting home! Haha!");
+MsgDisp("主人公","Hehe! Hey, is everyone there still awake?");
 VoicePlay("D020800700_08_040");
 MsgDisp("Shirahane","Nah, the pillow fights were intense so
 everyone is goin' to sleep now.");
@@ -46,8 +42,8 @@ here though, it'd be a different story.");
 MsgDisp("主人公","Would ｛Daichi＊＊｝ be my special guide?");
 VoicePlay("D020800700_08_060");
 MsgDisp("Shirahane","You bet!
-I could have even taken you to my family
-home.");
+I could have even taken you to my
+family home.");
 MsgDisp("主人公","Hehe!");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

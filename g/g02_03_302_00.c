@@ -16,15 +16,15 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020330200_03_020");
-MsgDisp("Honda","I mean, I also think Ryo-kun is amazing, and
-there are times I wish I could be more like
-him.");
+MsgDisp("Honda","I mean, I also think Ryo-kun is amazing,
+and there are times I wish I could be more
+like him.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020330200_03_030");
-MsgDisp("Honda","I understand there are things I can't become,
-though?");
+MsgDisp("Honda","I understand there are things I can't
+become, though?");
 MsgDisp("主人公","Maybe he meant it in a different way?
 What was the situation?");
 ChEye(3,4);
@@ -40,8 +40,7 @@ VoicePlay("G020330200_03_050");
 MsgDisp("Honda","He signalled me with his eyes for help, so I
 thought there was no topic and brought up the
 Ground Beetle.");
-MsgDisp("主人公","Ground beetle...
-Eh?");
+MsgDisp("主人公","Ground beetle... Eh?");
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020330200_03_060");

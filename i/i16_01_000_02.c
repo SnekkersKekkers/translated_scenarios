@@ -41,7 +41,8 @@ please take your time.");
     VoicePlay("I160100002_47_010");
     MsgDisp("Customer","Thank you.
 What colour do you recommend?");
-    MsgDisp("主人公","For you, I think bright colours would be best.
+    MsgDisp("主人公","For you, I think bright colours would
+be best.
 What do you think of lemon yellow?");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -53,8 +54,8 @@ What do you think of lemon yellow?");
     ChMotion(1,3);
     VoicePlay("I160100002_01_020");
     MsgDisp("Kazama","Good work.
-That recommendation you just gave was really
-good.");
+That recommendation you just gave was
+really good.");
     MsgDisp("主人公","Really?");
     ChEye(1,4);
     ChMouth(1,3);

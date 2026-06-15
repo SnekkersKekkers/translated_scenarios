@@ -39,16 +39,15 @@ ChClose(2,0,30);
 ChClose(1,0,30);
 ChClose(6,0,30);
 VoicePlay("B330A30201_01_010");
-MsgDisp("Kazama","Then, let's hit it while saying something we
-like!");
+MsgDisp("Kazama","Then, let's hit it while saying something
+we like!");
 SEWait();
 VoicePlay("B330A30201_01_020");
 MsgDisp("Kazama","Soba!");
 SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
 VoicePlay("B330A30201_02_020");
-MsgDisp("Sassa","Ugh∋
-You suddenly made up that rule!
+MsgDisp("Sassa","Ugh∋ You suddenly made up that rule!
 Err—...Udon!");
 SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
@@ -58,8 +57,7 @@ SEPlay("EV_SE_816");
 MsgDisp("","(*BOMF*)");
 VoicePlay("B330A30201_06_020");
 MsgDisp("Himuro","Now say something you dislike.");
-MsgDisp("主人公","Ehh∋
-Even if you say that so suddenly...!
+MsgDisp("主人公","Ehh∋ Even if you say that so suddenly...!
 N-Nothing in particular!");
 SEPlay("EV_SE_565",0.2,0.5);
 MsgDisp("","(*Swoosh*)");
@@ -84,8 +82,8 @@ ChOpen(2,31,3,0,3,#1,#1,0,0,0,30);
 ChPosition(2,3);
 SEWait();
 MsgDisp("主人公","Hey...
-This is because you suddenly changed the
-rules.");
+This is because you suddenly changed
+the rules.");
 VoicePlay("B330A30201_06_040");
 ChEye(6,0);
 ChMouth(6,3);

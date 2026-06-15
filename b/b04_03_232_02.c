@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040323202_03_010");
     MsgDisp("Honda","That's right.
-If you only look at the ground, you'll get
-dizzy.");
+If you only look at the ground, you'll
+get dizzy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -50,8 +50,8 @@ experience.");
         ChMouth(3,4);
         ChMotion(3,0);
         VoicePlay("B040323202_03_040");
-        MsgDisp("Honda","...Hm?
-I see. Maybe that strange feeling was born
+        MsgDisp("Honda","...Hm? I see.
+Maybe that strange feeling was born
 from that.");
         MsgDisp("主人公","Strange feeling?");
         ChEye(3,0);
@@ -90,8 +90,7 @@ Come!");
         ChClose(3);
         SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
         SEWait();
-        MsgDisp("主人公","Ehh!
-Wait up, ｛Honda＊＊｝ ～!");
+        MsgDisp("主人公","Ehh! Wait up, ｛Honda＊＊｝ ～!");
         MsgClose();
         ScrFadeOut(0);
         ChOpen(3,253,0,0,0,#1,#1,0,0);

@@ -6,8 +6,7 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321302_03_000");
-MsgDisp("Honda","Huh...?
-They're not coming closer.
+MsgDisp("Honda","Huh...? They're not coming closer.
 What's up guys?");
 MsgSel("Maybe it's because we just passed the bear cages earlier?","I wonder if they can smell something?","Shall we buy some animal feed?");
 switch (MsgSelRsltGet()){
@@ -47,8 +46,8 @@ I had some strong ramen earlier.");
         ChMotion(3,2);
         ChEyeOpenLevel(3,8);
         VoicePlay("B040321302_03_030");
-        MsgDisp("Honda","But then we'd never figure out the real
-cause.");
+        MsgDisp("Honda","But then we'd never figure out the
+real cause.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -93,13 +92,12 @@ date, she sprayed some perfume on me.");
         ChMotion(3,2);
         ChCheek(3,0);
         VoicePlay("B040321302_03_080");
-        MsgDisp("Honda","Woah, why is everyone suddenly gathering
-around?");
+        MsgDisp("Honda","Woah, why is everyone suddenly
+gathering around?");
         ChEye(3,4);
         ChMouth(3,4);
         VoicePlay("B040321302_03_090");
-        MsgDisp("Honda","Huh?
-Could it be...the perfume?");
+        MsgDisp("Honda","Huh? Could it be...the perfume?");
         MsgDisp("主人公","Wow, they've all flocked around ｛Honda＊＊｝.");
         ChEye(3,0);
         ChMouth(3,3);

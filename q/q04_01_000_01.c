@@ -6,8 +6,7 @@ switch (ChPrmGet(1,6)){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("Q040100001_01_000");
-    MsgDisp("Kazama","Okay!
-Let's go where you want to go.");
+    MsgDisp("Kazama","Okay! Let's go where you want to go.");
     MsgDisp("主人公","Yay!");
     break ;
     case 3:

@@ -108,11 +108,10 @@ the music to the fullest.");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("P530400000_04_130");
-    MsgDisp("Nanatsumori","ＧＯ!
-Have fun to the fullest!");
+    MsgDisp("Nanatsumori","ＧＯ! Have fun to the fullest!");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for encouraging
-me!
+    MsgDisp("主人公","(｛Nanatsumori＊｝, thank you for
+encouraging me!
 Alright, let's do our best!)");
     break ;
     default :

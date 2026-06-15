@@ -81,10 +81,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A30600_01_020");
-MsgDisp("Kazama","Ha?
-...Geez, you're so cynical.");
-MsgDisp("主人公","Hehe!
-I also agree with ｛Kazama＊＊｝.");
+MsgDisp("Kazama","Ha? ...Geez, you're so cynical.");
+MsgDisp("主人公","Hehe! I also agree with ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);

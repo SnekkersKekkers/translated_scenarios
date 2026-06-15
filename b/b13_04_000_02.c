@@ -15,7 +15,6 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0);
 VoicePlay("B130400002_04_020");
-MsgDisp("Nanatsumori","Stick close to me.
-Okay?");
+MsgDisp("Nanatsumori","Stick close to me. Okay?");
 MsgClose();
 ScrFadeOut(0,0);

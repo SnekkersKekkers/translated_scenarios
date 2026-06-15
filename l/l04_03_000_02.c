@@ -6,8 +6,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("L040300002_03_000");
-    MsgDisp("Honda","Hm!?
-Is it fine if I take this?");
+    MsgDisp("Honda","Hm!? Is it fine if I take this?");
     MsgDisp("主人公","Yes, go ahead.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -60,8 +59,7 @@ I heard people line up for it everyday!");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("L040300002_03_070");
-    MsgDisp("Honda","What!?
-You can't!");
+    MsgDisp("Honda","What!? You can't!");
     MsgDisp("主人公","Hehe.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -77,8 +75,7 @@ So, I'll eat it carefully.");
     VoicePlay("L040300002_03_090");
     MsgDisp("Honda","Ah, of course, I'm not going to give my
 sister any!");
-    MsgDisp("主人公","(Hehe!
-｛Honda＊＊｝ seemed really happy!)");
+    MsgDisp("主人公","(Hehe! ｛Honda＊＊｝ seemed really happy!)");
     break ;
     default :
     DbgAssert(1);

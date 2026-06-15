@@ -12,8 +12,7 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("I740000000_36_010");
 MsgDisp("President","I understand.
 Thank you for everything until now.");
-MsgDisp("主人公","Thank you for looking after me.
-Bye...");
+MsgDisp("主人公","Thank you for looking after me. Bye...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("","(I quit my job as a debugger at Gradius

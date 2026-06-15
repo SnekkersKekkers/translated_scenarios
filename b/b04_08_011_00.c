@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(8,3,1);
     VoicePlay("B040801100_08_010");
     MsgDisp("Shirahane","Aah... yeah, it really does.
-From up here it looks like it goes on forever, y'know...
-It's gorgeous!");
+From up here it looks like it goes on
+forever, y'know... It's gorgeous!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

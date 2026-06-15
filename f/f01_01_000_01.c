@@ -8,8 +8,7 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,254,0,0,2,8,#1,0,0);
     VoicePlay("F010100001_01_000");
     MsgDisp("Kazama","...it's no good.");
-    MsgDisp("主人公","(Yep.
-I guess I shouldn't call him that...)");
+    MsgDisp("主人公","(Yep. I guess I shouldn't call him that...)");
     break ;
     case 3:
     MsgDisp("主人公","｛Kazama＊＊｝.");
@@ -18,10 +17,9 @@ I guess I shouldn't call him that...)");
     ChOpen(1,254,0,0,2,8,#1,0,0);
     ChMotion(1,1);
     VoicePlay("F010100001_01_010");
-    MsgDisp("Kazama","What's up with that?
-...Geez.");
-    MsgDisp("主人公","(It doesn't seem like he likes being called
-this.)");
+    MsgDisp("Kazama","What's up with that? ...Geez.");
+    MsgDisp("主人公","(It doesn't seem like he likes being
+called this.)");
     break ;
     case 4:
     case 5:
@@ -32,8 +30,7 @@ this.)");
     VoicePlay("F010100001_01_020");
     MsgDisp("Kazama","Are you talking to me?
 Why'd you say that?");
-    MsgDisp("主人公","Huh?
-I just wanted to see if I could...");
+    MsgDisp("主人公","Huh? I just wanted to see if I could...");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,1);

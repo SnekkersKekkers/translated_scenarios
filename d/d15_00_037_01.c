@@ -6,8 +6,7 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("D150003701_03_000");
 MsgDisp("Honda","Mmmhm.");
-MsgDisp("主人公","Eh?
-｛Honda＊＊｝, what's up?");
+MsgDisp("主人公","Eh? ｛Honda＊＊｝, what's up?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

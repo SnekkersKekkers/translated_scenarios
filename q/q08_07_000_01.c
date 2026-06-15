@@ -9,7 +9,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("Q080700001_07_000");
-    MsgDisp("Mikage","This is the end of today's extracurricular lesson.
+    MsgDisp("Mikage","This is the end of today's
+extracurricular lesson.
 Did you enjoy it?");
     MsgDisp("主人公","Yes, thank you very much.
 May I join you next time too?");
@@ -37,8 +38,7 @@ Thank you for the extracurricular lesson!");
     VoicePlay("Q080700001_07_030");
     MsgDisp("Mikage","Oh, if you liked it that much maybe we should
 hold it again tomorrow?");
-    MsgDisp("主人公","Yay!
-If possible!");
+    MsgDisp("主人公","Yay! If possible!");
     break ;
     case 4:
     case 5:

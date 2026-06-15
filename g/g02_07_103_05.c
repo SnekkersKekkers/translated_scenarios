@@ -14,8 +14,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710305_07_010");
 MsgDisp("Mikage","You can't hear them, right?
-But they're flapping their wings and flying
-hard.");
+But they're flapping their wings and
+flying hard.");
 MsgDisp("主人公","Really?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -37,17 +37,17 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710305_07_040");
 MsgDisp("Mikage","Remember?
-You were studying for tests by yourself after
-school.");
+You were studying for tests by yourself
+after school.");
 MsgDisp("主人公","Ah, thanks to ｛Mikage＊＊｝'s help, I
 learned how to study a bit better!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710305_07_050");
-MsgDisp("Mikage","During regular classes, you put on such a calm
-Miss Diligent act that no one notices how hard you're
-struggling on your own.");
+MsgDisp("Mikage","During regular classes, you put on such a
+calm Miss Diligent act that no one notices
+how hard you're struggling on your own.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

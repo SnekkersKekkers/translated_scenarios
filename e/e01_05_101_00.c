@@ -1,8 +1,7 @@
 BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, I guess it's time to go home.
-...Huh?)");
+MsgDisp("主人公","(Well, I guess it's time to go home. ...Huh?)");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝?
 What are you doing in front of the store?");
 MsgClose();
@@ -20,15 +19,14 @@ VoicePlay("E010510100_05_010");
 MsgDisp("Hiiragi","I was looking at cleaning supplies earlier
 and someone recommended me a robotic vacuum
 cleaner.");
-MsgDisp("主人公","Yeah, the ones in commercials recently,
-right?
+MsgDisp("主人公","Yeah, the ones in commercials
+recently, right?
 They seem convenient.");
 ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("E010510100_05_020");
-MsgDisp("Hiiragi","I see.
-Do you think so as well?");
+MsgDisp("Hiiragi","I see. Do you think so as well?");
 MsgDisp("主人公","Eh?");
 ChMouth(5,4);
 ChMotion(5,0);
@@ -55,8 +53,8 @@ ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,0);
 VoicePlay("E010510100_05_060");
-MsgDisp("Hiiragi","We mustn't eliminate inconvenience from the
-start.");
+MsgDisp("Hiiragi","We mustn't eliminate inconvenience from
+the start.");
 MsgDisp("主人公","Um...");
 ChEye(5,2);
 ChMouth(5,4);

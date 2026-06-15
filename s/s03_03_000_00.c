@@ -34,8 +34,7 @@ shrine together?");
     SEWait();
     VoicePlay("S030300000_03_040");
     MsgDisp("Honda","Happy New Year!");
-    MsgDisp("主人公","Hehe!
-Happy New Year.");
+    MsgDisp("主人公","Hehe! Happy New Year.");
     VoicePlay("S030300000_03_050");
     MsgDisp("Honda","I wanted to say it first.
 But somehow you rang me first.");

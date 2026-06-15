@@ -45,8 +45,8 @@ Are ｛Kazama＊＊｝ and ｛Himuro＊＊｝ brothers?");
 ChMouth(1,1);
 VoicePlay("B330A20100_01_010");
 MsgDisp("Kazama","It's not funny.
-I'm clearly the dad, not for my build, but for my
-presence.");
+I'm clearly the dad, not for my build, but
+for my presence.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);

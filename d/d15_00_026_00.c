@@ -15,8 +15,7 @@ ChEye(2,5);
 ChMouth(2,5);
 ChMotion(2,4);
 VoicePlay("D150002600_02_010");
-MsgDisp("Sassa","Ehh...
-What, how did you know?");
+MsgDisp("Sassa","Ehh... What, how did you know?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);

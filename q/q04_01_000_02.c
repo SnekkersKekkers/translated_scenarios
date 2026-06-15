@@ -10,8 +10,7 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","Wait, seriously...?
 I already made plans with somebody else.
 Sigh, sorry about that.");
-    MsgDisp("主人公","I see...
-Sorry for asking.");
+    MsgDisp("主人公","I see... Sorry for asking.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

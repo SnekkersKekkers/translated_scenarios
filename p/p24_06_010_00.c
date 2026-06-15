@@ -11,10 +11,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_000");
-MsgDisp("Himuro","Phew, the set changes went smoothly until
-now.");
-MsgDisp("主人公","Yeah.
-Ah, this is the last scene, huh♪");
+MsgDisp("Himuro","Phew, the set changes went smoothly
+until now.");
+MsgDisp("主人公","Yeah. Ah, this is the last scene, huh♪");
 MsgClose();
 ScrFadeOut(0);
 ChClose(6,0,0);
@@ -95,8 +94,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("P240601000_06_090");
 MsgDisp("Himuro","You also have to be careful.");
-MsgDisp("主人公","Eh?
-Me?");
+MsgDisp("主人公","Eh? Me?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

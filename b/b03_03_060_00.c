@@ -5,8 +5,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B030306000_03_000");
-MsgDisp("Honda","After we get changed, let's meet back up
-here.");
+MsgDisp("Honda","After we get changed, let's meet back
+up here.");
 ChEye(3,3);
 ChMouth(3,5);
 ChMotion(3,5);

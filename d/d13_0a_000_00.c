@@ -6,8 +6,8 @@ ChOpen(1,254,0,0,0,#1,#1,0,0,0,30);
 ChOpen(2,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(6,254,0,0,4,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, what are you all together for and talking
-about?");
+MsgDisp("主人公","Ah, what are you all together for and
+talking about?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -24,8 +24,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D130A00000_01_000");
 MsgDisp("Kazama","You guys don't get it.
-There's no way your acting is that top-notch
-right?");
+There's no way your acting is that
+top-notch right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -49,16 +49,14 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D130A00000_02_010");
-MsgDisp("Sassa","Eh?
-I'm your childhood friend too though.");
+MsgDisp("Sassa","Eh? I'm your childhood friend too though.");
 MsgDisp("主人公","???");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D130A00000_01_030");
 MsgDisp("Kazama","What day is today?");
-MsgDisp("主人公","Eh...
-Ah, it's Valentine's day!");
+MsgDisp("主人公","Eh... Ah, it's Valentine's day!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -82,8 +80,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D130A00000_06_020");
-MsgDisp("Himuro","Yeah, he was looking forward to it quite a
-lot.
+MsgDisp("Himuro","Yeah, he was looking forward to it quite
+a lot.
 Why don't you go and quickly cheer him up?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");

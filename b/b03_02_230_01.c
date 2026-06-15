@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223001_02_020");
-    MsgDisp("Sassa","We can't get going without riding this first,
-right?");
+    MsgDisp("Sassa","We can't get going without riding this
+first, right?");
     break ;
     case 1:
     MsgDispSksp(1,0);
@@ -82,8 +82,7 @@ Let's go!");
     ChMouth(2,2);
     ChMotion(2,0);
     VoicePlay("B030223001_02_070");
-    MsgDisp("Sassa","Urgh...
-You got it...
+    MsgDisp("Sassa","Urgh... You got it...
 I was preparing for this anyway.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -107,8 +106,7 @@ It even spins around...");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B030223001_02_090");
-    MsgDisp("Sassa","Gah...
-That's someone's house, right?
+    MsgDisp("Sassa","Gah... That's someone's house, right?
 Is it okay to enter without permission?");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -123,8 +121,8 @@ Is it okay to enter without permission?");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223001_02_100");
-    MsgDisp("Sassa","It's all fake, it's just their job, it's all
-fake...");
+    MsgDisp("Sassa","It's all fake, it's just their job, it's
+all fake...");
     break ;
     default :
     DbgAssert(0);

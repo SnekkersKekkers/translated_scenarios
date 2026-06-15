@@ -7,9 +7,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B040724202_07_000");
-MsgDisp("Mikage","When you go camping together, you can see a
-side of the other person that's usually
-hidden.");
+MsgDisp("Mikage","When you go camping together, you can
+see a side of the other person that's
+usually hidden.");
 MsgSel("It's perfect for marriage interviews","｛Mikage＊＊｝'s hidden side?","It's a little scary...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
         ChMotion(7,2);
         VoicePlay("B040724202_07_010");
         MsgDisp("Mikage","Marriage interview camping...
-It would kinda be like a marriage crash
-course.");
+It would kinda be like a marriage
+crash course.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -80,8 +80,7 @@ I burnt the camping pot.");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040724202_07_060");
-        MsgDisp("Mikage","Yeah.
-But, well, it still tasted good, right?
+        MsgDisp("Mikage","Yeah. But, well, it still tasted good, right?
 I had fun.");
         MsgDisp("主人公","Umm...yes.");
         ChEye(7,0);

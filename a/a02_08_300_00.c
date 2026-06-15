@@ -17,8 +17,7 @@ SEPlay("EV_SE_589");
 MsgDisp("主人公","Thank you and come again!");
 SEStop("EV_SE_589",1);
 SEPlay("EV_SE_519");
-MsgDisp("主人公","Ah...
-Welcome!
+MsgDisp("主人公","Ah... Welcome!
 Bring your car right this way, please.");
 MsgDisp("主人公","(There are so many customers coming to the
 gas station, it's so busy...!)");
@@ -36,8 +35,7 @@ MsgDisp("主人公","...Eh?");
 ChEyeOpenLevel(8,#1);
 VoicePlay("A020830000_08_010");
 MsgDisp("Shirahane?","I just finished up, so I'll pitch in here.");
-MsgDisp("主人公","Ah, thanks.
-Uhm...");
+MsgDisp("主人公","Ah, thanks. Uhm...");
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_020");
@@ -45,9 +43,9 @@ MsgDisp("Shirahane","You're the new part-timer startin' today,
 right? I'm Shirahane Daichi. I'm in the blue
 necktie year at Hanegasaki Academy.");
 ChEyeOpenLevel(8,#1);
-MsgDisp("主人公","I'm ｛主人公姓名｝.
-Blue... So that means, the same grade as me,
-doesn't it! I'm from—");
+MsgDisp("主人公","I'm ｛主人公姓名｝. Blue...
+So that means, the same grade as me, doesn't
+it! I'm from—");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -58,8 +56,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_040");
-MsgDisp("Shirahane","Ah...
-Not good.
+MsgDisp("Shirahane","Ah... Not good.
 Gotta keep it movin'!");
 MsgDisp("主人公","Ah, that's right!");
 MsgClose();

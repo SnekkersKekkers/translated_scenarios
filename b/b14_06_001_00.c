@@ -29,8 +29,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B140600100_06_030");
-MsgDisp("Himuro","There's no point in trying to cover it up
-now.");
+MsgDisp("Himuro","There's no point in trying to cover it
+up now.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -38,9 +38,9 @@ ChEyeOpenLevel(6,0);
 VoicePlay("B140600100_06_040");
 MsgDisp("Himuro","You don't spend days on end with someone you
 don't trust.");
-MsgDisp("主人公","Ah...
-I see! We were together yesterday as well for
-the school Christmas Party!");
+MsgDisp("主人公","Ah... I see!
+We were together yesterday as well for the
+school Christmas Party!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -66,8 +66,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600100_06_080");
 MsgDisp("Himuro","In reality, I think I enjoy seeing the
-Christmas lights with you even more than you
-do.");
+Christmas lights with you even more than
+you do.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

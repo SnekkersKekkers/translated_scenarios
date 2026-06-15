@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040108502_01_010");
     MsgDisp("Kazama","Yeah it is.
-I fall in love with each season every time I
-visit.");
+I fall in love with each season every time
+I visit.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -59,8 +59,7 @@ do you?");
         VoicePlay("B040108502_01_040");
         MsgDisp("Kazama","Wait a minute.
 There's no way, but can you hear that?");
-        MsgDisp("主人公","Huh?
-Hear what?");
+        MsgDisp("主人公","Huh? Hear what?");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -81,8 +80,7 @@ I'm not trying to check your hearing.");
         VoicePlay("B040108502_01_070");
         MsgDisp("Kazama","See, you can hear your partner's inner voice
 here, right?");
-        MsgDisp("主人公","...No.
-...I don't hear anything?");
+        MsgDisp("主人公","...No. ...I don't hear anything?");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,4);
@@ -97,8 +95,7 @@ us could hear it.");
         VoicePlay("B040108502_01_090");
         MsgDisp("Kazama","...Let's always be together from here on out.");
         ChMouth(1,2);
-        MsgDisp("主人公","Whoa!
-｛Kazama＊＊｝, I think I just heard it!");
+        MsgDisp("主人公","Whoa! ｛Kazama＊＊｝, I think I just heard it!");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);
@@ -107,8 +104,7 @@ us could hear it.");
         VoicePlay("B040108502_01_100");
         MsgDisp("Kazama","Haha, my bad.
 Well, at least I know you aren't lying.");
-        MsgDisp("主人公","Huh?
-You mean what just happened was...");
+        MsgDisp("主人公","Huh? You mean what just happened was...");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);
@@ -121,8 +117,8 @@ I learned how to do it a little.");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040108502_01_120");
-        MsgDisp("Kazama","Sorry, but that was the greatest reaction to
-get.");
+        MsgDisp("Kazama","Sorry, but that was the greatest reaction
+to get.");
         MsgDisp("主人公","(But earlier, he said that we'd always be
 together, right?)");
         break ;

@@ -17,8 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040402400_04_010");
-    MsgDisp("Nanatsumori","Yeah.
-That's honestly what I thought.");
+    MsgDisp("Nanatsumori","Yeah. That's honestly what I thought.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

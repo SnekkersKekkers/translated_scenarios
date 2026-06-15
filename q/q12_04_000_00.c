@@ -14,8 +14,7 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("Q120400000_04_010");
-    MsgDisp("Nanatsumori","Pfft!
-What's that expression.");
+    MsgDisp("Nanatsumori","Pfft! What's that expression.");
     MsgDisp("主人公","Eh?");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_020");
@@ -35,8 +34,7 @@ Thanks to you, I enjoyed the school trip.");
     ChMouth(4,0);
     ChMotion(4,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Phew...
-I'm at the hotel.");
+    MsgDisp("主人公","Phew... I'm at the hotel.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -58,8 +56,8 @@ trip more than I thought I would.");
 I had a great time.");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_070");
-    MsgDisp("Nanatsumori","Well, I guess we're both satisfied with the
-result.
+    MsgDisp("Nanatsumori","Well, I guess we're both satisfied with
+the result.
 Make sure to rest well. I'll see you later.");
     break ;
     case 4:
@@ -107,8 +105,7 @@ Thank you, ｛Nanatsumori＊｝.");
     ChMotion(4,2,1);
     ChCheek(4,5);
     VoicePlay("Q120400000_04_150");
-    MsgDisp("Nanatsumori","Haha...
-Kinda embarrassing, huh?");
+    MsgDisp("Nanatsumori","Haha... Kinda embarrassing, huh?");
     MsgDisp("主人公","Hehe!");
     break ;
     default :

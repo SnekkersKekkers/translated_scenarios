@@ -1,5 +1,5 @@
-MsgDisp("主人公","｛Mikage＊＊｝, what sort of TV shows do you
-watch?");
+MsgDisp("主人公","｛Mikage＊＊｝, what sort of TV shows do
+you watch?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -32,8 +32,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("B070700000_07_050");
-MsgDisp("Mikage","Though...it might be a little hard to see the
-screen.");
+MsgDisp("Mikage","Though...it might be a little hard to see
+the screen.");
 MsgDisp("主人公","(Umm, ｛Mikage＊＊｝'s TV is more like
 interior decoration then...)");
 BGMStop();

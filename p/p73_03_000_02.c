@@ -30,10 +30,9 @@ wedding dresses this year.");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("P730300002_03_020");
-    MsgDisp("Honda","This is my first time seeing a bride this up
-close.");
-    MsgDisp("主人公","Ummm...
-I'm not a bride though?");
+    MsgDisp("Honda","This is my first time seeing a bride this
+up close.");
+    MsgDisp("主人公","Ummm... I'm not a bride though?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,5,1);
@@ -47,8 +46,7 @@ You look too real.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_040");
-    MsgDisp("Honda","Ah, it's already your turn.
-...Hey.");
+    MsgDisp("Honda","Ah, it's already your turn. ...Hey.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -87,9 +85,9 @@ I feel gloomy.");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_080");
-    MsgDisp("Honda","You wearing a wedding dress, is so beautiful,
-and it suits you well, I want to keep it to
-myself.");
+    MsgDisp("Honda","You wearing a wedding dress, is so
+beautiful, and it suits you well, I want to
+keep it to myself.");
     MsgDisp("主人公","Ehhhh∋");
     ChEye(3,0);
     ChMouth(3,3);
@@ -113,8 +111,7 @@ attention to yourself....");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_110");
-    MsgDisp("Honda","Bzzt.
-I feel like this is the wrong answer.");
+    MsgDisp("Honda","Bzzt. I feel like this is the wrong answer.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

@@ -15,8 +15,8 @@ switch (ChPrmGet(7,6)){
     ScrFadeIn(0);
     VoicePlay("S120700000_07_000");
     MsgDisp("Mikage","Alright, time to leave.
-Thanks to you, the year is off to a good
-start.");
+Thanks to you, the year is off to a
+good start.");
     MsgDisp("主人公","Same for me.");
     ChEye(7,2);
     ChMouth(7,0);
@@ -36,8 +36,8 @@ Vice Principal Himuro might scold me for it.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(I visited the shrine with ｛Mikage＊＊｝!
-Looks like this year will be another good
-year!)");
+Looks like this year will be another
+good year!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

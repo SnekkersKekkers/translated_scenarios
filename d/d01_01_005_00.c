@@ -7,8 +7,7 @@ MsgDisp("主人公","(It sounded like they were talking about
 something serious...)");
 SEPlay("EV_SE_577");
 Wait(50,0);
-MsgDisp("主人公","(Eh∋
-It's from ｛Kazama＊＊｝.)");
+MsgDisp("主人公","(Eh∋ It's from ｛Kazama＊＊｝.)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_577",0);
 Wait(30,0);
@@ -16,8 +15,7 @@ MsgDisp("主人公","Hello, ｛Kazama＊＊｝?
 That's amazing.
 I was just thinking about you.");
 VoicePlay("D010100500_01_000");
-MsgDisp("Kazama","Yeah.
-That's normal for us.");
+MsgDisp("Kazama","Yeah. That's normal for us.");
 VoicePlay("D010100500_01_010");
 MsgDisp("Kazama","Hey, why don't you come over here for lunch?");
 MsgDisp("主人公","Eh?");
@@ -90,8 +88,8 @@ MsgDisp("主人公","Eh...?");
 StlEye(1,0);
 StlMouth(1,1);
 VoicePlay("D010100500_01_090");
-MsgDisp("Kazama","Well, I'll think about it some more after we
-eat?");
+MsgDisp("Kazama","Well, I'll think about it some more after
+we eat?");
 SEStop("EV_SE_604",2.5);
 MsgClose();
 ScrFadeOut(0,0,120);

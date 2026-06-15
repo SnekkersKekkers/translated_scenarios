@@ -5,10 +5,8 @@ VoicePlay("D010400600_46_000");
 MsgDisp("Woman","Really?
 The way you lie so easily worries me.");
 VoicePlay("D010400600_04_000");
-MsgDisp("Nanatsumori?","Okay.
-I'll make sure I eat properly.");
-MsgDisp("主人公","(Huh?
-That voice...)");
+MsgDisp("Nanatsumori?","Okay. I'll make sure I eat properly.");
+MsgDisp("主人公","(Huh? That voice...)");
 MsgClose();
 ScrFadeOut(0);
 BGMPlay("BGM_C04_NANA_C",0.01);
@@ -22,8 +20,7 @@ StlEye(4,1);
 StlMouth(4,1);
 StlEyeOpenLevel(4,5);
 VoicePlay("D010400600_04_010");
-MsgDisp("Nanatsumori","Of course.
-Geez...
+MsgDisp("Nanatsumori","Of course. Geez...
 What are you worried about?");
 MsgDisp("主人公","(｛Nanatsumori＊｝!
 I wonder who that woman is...?)");
@@ -39,8 +36,7 @@ StlMouth(4,0);
 VoicePlay("D010400600_04_030");
 MsgDisp("Nanatsumori","See you later then.");
 VoicePlay("D010400600_46_030");
-MsgDisp("Woman","Sigh...
-Make sure to call once in a while!");
+MsgDisp("Woman","Sigh... Make sure to call once in a while!");
 MsgDisp("主人公","(How curious...)");
 MsgClose();
 ScrFadeOut(0);
@@ -66,16 +62,14 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("D010400600_04_060");
 MsgDisp("Nanatsumori","...So you accidentally heard that.");
-MsgDisp("主人公","I'm so sorry.
-I...");
+MsgDisp("主人公","I'm so sorry. I...");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D010400600_04_070");
 MsgDisp("Nanatsumori","That was my sister.
 You know, the one we talked about before?");
-MsgDisp("主人公","Ah...
-The one who's always toying with you—");
+MsgDisp("主人公","Ah... The one who's always toying with you—");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
@@ -83,8 +77,7 @@ VoicePlay("D010400600_04_080");
 MsgDisp("Nanatsumori","Hold up!
 That way of framing it is no good.
 Forget that.");
-MsgDisp("主人公","Eh?
-Okay.
+MsgDisp("主人公","Eh? Okay.
 G-Got it.");
 ChEye(4,2);
 ChMouth(4,4);
@@ -93,8 +86,8 @@ VoicePlay("D010400600_04_090");
 MsgDisp("Nanatsumori","Sigh...");
 ChMouth(4,2);
 VoicePlay("D010400600_04_100");
-MsgDisp("Nanatsumori","My big sis always treats me like a little
-kid.");
+MsgDisp("Nanatsumori","My big sis always treats me like a
+little kid.");
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D010400600_04_110");
@@ -111,8 +104,7 @@ MsgDisp("Nanatsumori","A gentle older sister, huh...
 I guess you're right.");
 ChMotion(4,2,1);
 VoicePlay("D010400600_04_130");
-MsgDisp("Nanatsumori","Ah—
-When will she finally let it go?");
+MsgDisp("Nanatsumori","Ah— When will she finally let it go?");
 MsgDisp("主人公","(｛Nanatsumori＊｝ doesn't seem that bothered,
 really...
 I bet she's actually a sister he's proud of?)");

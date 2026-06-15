@@ -39,8 +39,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600005_06_040");
-MsgDisp("Himuro","Yes.
-But everyone goes at their own pace.");
+MsgDisp("Himuro","Yes. But everyone goes at their own pace.");
 MsgDisp("主人公","That's amazing.");
 ChEye(6,0);
 ChMouth(6,0);

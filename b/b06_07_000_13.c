@@ -3,8 +3,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("B060700013_07_000");
-MsgDisp("Mikage","Hey, should we make a little detour after
-this?");
+MsgDisp("Mikage","Hey, should we make a little detour
+after this?");
 MsgSel("Yes, that's fine.","Sorry, today is a bit...");
 switch (MsgSelRsltGet()){
     case 0:

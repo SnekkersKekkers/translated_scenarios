@@ -4,8 +4,7 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_470");
-MsgDisp("Shirahane","Yeah?
-What's with the serious turn?");
+MsgDisp("Shirahane","Yeah? What's with the serious turn?");
 MsgDisp("主人公","｛Daichi＊＊｝, what do you think about love?");
 ChEye(8,5);
 ChMouth(8,5);
@@ -29,8 +28,7 @@ ChMotion(8,0,1);
 VoicePlay("B070800000_08_510");
 MsgDisp("Shirahane","What about you?
 What do ya think about love?");
-MsgDisp("主人公","Geez.
-I'm not the one being asked here...
+MsgDisp("主人公","Geez. I'm not the one being asked here...
 I'm asking you, ｛Daichi＊＊｝.");
 ChEye(8,2);
 ChMouth(8,4);

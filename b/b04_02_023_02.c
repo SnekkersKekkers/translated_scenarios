@@ -53,8 +53,7 @@ It was just a joke, though...");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040202302_02_040");
-        MsgDisp("Sassa","Uhm...
-I don't plan on losing either.");
+        MsgDisp("Sassa","Uhm... I don't plan on losing either.");
         MsgDisp("主人公","Yeah, of course.");
         ChEye(2,0);
         ChMouth(2,4);

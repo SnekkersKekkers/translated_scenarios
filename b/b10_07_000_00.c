@@ -1,7 +1,6 @@
 BGOpen("ex000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh...
-Why did I say that...)");
+MsgDisp("主人公","(Sigh... Why did I say that...)");
 SEPlay("EV_SE_579");
 MsgDisp("主人公","Ah, it's from ｛Mikage＊＊｝...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -19,13 +18,13 @@ MsgDisp("Mikage","It was my fault for dragging you around
 however I wanted.
 I acted weird too. I'm really sorry.");
 VoicePlay("B100700000_07_030");
-MsgDisp("Mikage","Your unexpected reactions aren't anything new
-right?");
+MsgDisp("Mikage","Your unexpected reactions aren't anything
+new right?");
 MsgDisp("主人公","Hehe, hey now.");
 VoicePlay("B100700000_07_040");
 MsgDisp("Mikage","Oh, you laughed at that huh.
-If you're not too put off, let's hang out
-again.");
+If you're not too put off, let's hang
+out again.");
 MsgDisp("主人公","Yes...!");
 VoicePlay("B100700000_07_050");
 MsgDisp("Mikage","See you.");

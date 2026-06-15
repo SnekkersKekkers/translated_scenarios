@@ -69,8 +69,8 @@ She's a different person at home compared to
 how she is at school.");
 StlEyeOpenLevel(22,5);
 VoicePlay("U110D00002_22_020");
-MsgDisp("Hikaru","You don't need to put on a persona at home,
-right?
+MsgDisp("Hikaru","You don't need to put on a persona at
+home, right?
 Well then, it's time for girl talk～♪");
 StlEye(22,0);
 MsgClose();

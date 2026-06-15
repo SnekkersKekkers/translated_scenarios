@@ -5,10 +5,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("B020402121_04_000");
-MsgDisp("Nanatsumori","Huh?
-What's up with that.");
-MsgDisp("主人公","Huh?
-Is it weird or something...?");
+MsgDisp("Nanatsumori","Huh? What's up with that.");
+MsgDisp("主人公","Huh? Is it weird or something...?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);

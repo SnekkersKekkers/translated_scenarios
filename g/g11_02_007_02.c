@@ -15,8 +15,7 @@ ChOpen(2,41,0,0,4,#1,#1,0,0);
 VoicePlay("G110200702_02_000");
 MsgDisp("Sassa","Apparently Mikage-sensei arranged it.
 As expected of him.");
-MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
-I see.
+MsgDisp("主人公","Ah, ｛Sassa＊＊｝. I see.
 He's actually quite reliable, huh.");
 ChEye(2,3);
 ChMouth(2,3);
@@ -44,8 +43,7 @@ ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200702_02_020");
 MsgDisp("Sassa","｛主人公｝, let's run together to cool down.");
-MsgDisp("主人公","Yes.
-How was it?
+MsgDisp("主人公","Yes. How was it?
 Did you have a good practice?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -76,9 +74,9 @@ VoicePlay("G110200702_02_060");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
-MsgDisp("Sassa","I usually do a lot of cross step and run-up
-training, so I got excited and threw too
-much.");
+MsgDisp("Sassa","I usually do a lot of cross step and
+run-up training, so I got excited and
+threw too much.");
 MsgDisp("主人公","Will it be alright?");
 VoicePlay("G110200702_02_070");
 ChEye(2,1);

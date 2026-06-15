@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040230000_02_000");
-MsgDisp("Sassa","It's kind of wild that you're actually in my
-house.");
+MsgDisp("Sassa","It's kind of wild that you're actually in
+my house.");
 MsgSel("This is a wonderful room!","It's a very boyish room.","...It's a unique room, huh?");
 switch (MsgSelRsltGet()){
     case 0:

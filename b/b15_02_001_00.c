@@ -6,8 +6,7 @@ ScrFadeIn(0);
 VoicePlay("B150200100_02_000");
 MsgDisp("Sassa","Wait, you.
 I still don't really get it.");
-MsgDisp("主人公","Eh?
-What is it...");
+MsgDisp("主人公","Eh? What is it...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -44,8 +43,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("B150200100_02_050");
 MsgDisp("Sassa","I said it as if it were simple, but there's
 no way I could do it.");
-MsgDisp("主人公","Umm...
-Do you hate skinship?");
+MsgDisp("主人公","Umm... Do you hate skinship?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);

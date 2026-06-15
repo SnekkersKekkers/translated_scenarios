@@ -7,8 +7,7 @@ switch (ChPrmGet(6,6)){
     MsgDisp("主人公","I see...
 Well, I guess it can't be helped then.");
     VoicePlay("S030600002_06_010");
-    MsgDisp("Himuro","Yeah.
-Well then, bye.");
+    MsgDisp("Himuro","Yeah. Well then, bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(It can't be helped...

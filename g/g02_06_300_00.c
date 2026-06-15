@@ -11,8 +11,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020630000_06_010");
 MsgDisp("Himuro","Well, their stances differ.");
-MsgDisp("主人公","?
-What do you mean?");
+MsgDisp("主人公","? What do you mean?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -38,14 +37,13 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630000_06_050");
-MsgDisp("Himuro","Me?
-Completely different.");
+MsgDisp("Himuro","Me? Completely different.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630000_06_060");
-MsgDisp("Himuro","I can't face what I like head-on like they
-do.");
+MsgDisp("Himuro","I can't face what I like head-on like
+they do.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

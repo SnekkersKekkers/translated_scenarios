@@ -3,8 +3,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D030900100_09_000");
 MsgDisp("Kuya?","So...
-Did you get separated from your mother around
-here?");
+Did you get separated from your mother
+around here?");
 MsgDisp("主人公","(...Huh?)");
 VoicePlay("D030900100_44_000");
 MsgDisp("Boy","I don't know.
@@ -90,8 +90,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","Do you run into that mother and her son
-often?");
+MsgDisp("主人公","Do you run into that mother and her
+son often?");
 ChMotion(9,3,1);
 VoicePlay("D030900100_09_070");
 MsgDisp("Kuya?","Yeah.
@@ -121,8 +121,8 @@ MsgDisp("Kuya?","You should \"exercise\" frequently too so you
 can be prepared for anything.
 That way you won't have any worries.");
 MsgDisp("主人公","Ah...Right.
-I usually work on my \"fitness\" in various
-ways.");
+I usually work on my \"fitness\" in
+various ways.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -151,8 +151,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(9);
-MsgDisp("主人公","He also had something urgent to do the other
-day...");
+MsgDisp("主人公","He also had something urgent to do the
+other day...");
 MsgDisp("主人公","(Ah. I forgot to properly thank him again!
 He didn't even introduce himself properly,
 but I heard \"Kuya-san\".)");

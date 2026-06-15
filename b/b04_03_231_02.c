@@ -5,8 +5,8 @@ ChOpen(3,255,0,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323102_03_000");
-MsgDisp("Honda","The accumulation and release of potential
-energy.
+MsgDisp("Honda","The accumulation and release of
+potential energy.
 It's a repetition of that cycle.");
 MsgSel("Were you thinking about complicated stuff while we were riding?","Is that the secret to its popularity?","I see! Then, let's go on it again!");
 switch (MsgSelRsltGet()){
@@ -44,15 +44,15 @@ feel like it makes the fear fade away?");
         ChMotion(3,4);
         VoicePlay("B040323102_03_030");
         MsgDisp("Honda","Well, I don't know.
-To begin with, I can't really understand it
-myself.");
+To begin with, I can't really understand
+it myself.");
         MsgDisp("主人公","Ah, sorry, did you dislike it?");
         ChEye(3,1);
         ChMouth(3,1);
         ChMotion(3,5);
         VoicePlay("B040323102_03_040");
-        MsgDisp("Honda","Urk—, no.
-If you're having fun, it's fine with me too.");
+        MsgDisp("Honda","Urk—, no. If you're having fun, it's fine
+with me too.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,0);
@@ -68,16 +68,15 @@ things you enjoy and are interested in.");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040323102_03_060");
-        MsgDisp("Honda","That's why, whether I like it or not doesn't
-matter.");
+        MsgDisp("Honda","That's why, whether I like it or not
+doesn't matter.");
         MsgDisp("主人公","It does matter.
 It would be better if both of us had fun.");
         ChEye(3,5);
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("B040323102_03_070");
-        MsgDisp("Honda","Ha...
-I see.");
+        MsgDisp("Honda","Ha... I see.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -133,8 +132,7 @@ yourself.)");
     ChMouth(3,0);
     ChMotion(3,5);
     VoicePlay("B040323102_03_120");
-    MsgDisp("Honda","Eh∋
-You're not...serious, right?");
+    MsgDisp("Honda","Eh∋ You're not...serious, right?");
     MsgDateResultDisp();
     break ;
     default :

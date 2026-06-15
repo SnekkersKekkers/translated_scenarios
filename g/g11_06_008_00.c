@@ -8,8 +8,8 @@ SEWait();
 BGMPlay("BGM_C06_INORI_A");
 ChOpen(6,35,0,0,4,#1,#1,0,0);
 VoicePlay("G110600800_06_000");
-MsgDisp("Himuro","Yeah, I'm stopping by the beach on my way
-home.
+MsgDisp("Himuro","Yeah, I'm stopping by the beach on my
+way home.
 Looks like there's some good waves coming.");
 MsgDisp("主人公","Wow, that's great!");
 ChEye(6,0);
@@ -40,8 +40,8 @@ ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600800_06_030");
 MsgDisp("Himuro","The part time job.
-To be honest, I thought you'd quit pretty
-soon.");
+To be honest, I thought you'd quit
+pretty soon.");
 MsgDisp("主人公","I won't quit though?
 After all, it's fun!");
 ChEye(6,0);

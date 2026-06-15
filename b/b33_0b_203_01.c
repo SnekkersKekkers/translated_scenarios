@@ -22,8 +22,7 @@ VoicePlay("B330B20301_04_000");
 MsgDisp("Nanatsumori","Oh—, they're impressive.");
 ChMouth(1,0);
 ChMotion(1,0);
-MsgDisp("主人公","Hehe!
-There's so many growing!");
+MsgDisp("主人公","Hehe! There's so many growing!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
@@ -46,8 +45,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20301_04_020");
-MsgDisp("Nanatsumori","Ehhh.
-Then are these ones not delicious?");
+MsgDisp("Nanatsumori","Ehhh. Then are these ones not delicious?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
@@ -71,16 +69,15 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20301_04_040");
-MsgDisp("Nanatsumori","Who would be happy to take a picture of a
-banana?");
-MsgDisp("主人公","Hey, it says there's a tasting corner over
-there?");
+MsgDisp("Nanatsumori","Who would be happy to take a picture of
+a banana?");
+MsgDisp("主人公","Hey, it says there's a tasting corner
+over there?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B20301_04_050");
-MsgDisp("Nanatsumori","Tasting?
-Nice.");
+MsgDisp("Nanatsumori","Tasting? Nice.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -17,14 +17,13 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230100_02_020");
-MsgDisp("Sassa","Right, there's a firefly me and you somewhere
-too.");
+MsgDisp("Sassa","Right, there's a firefly me and you
+somewhere too.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("G020230100_02_030");
-MsgDisp("Sassa","Hmm...
-Hey, that fast one over there is me.");
+MsgDisp("Sassa","Hmm... Hey, that fast one over there is me.");
 MsgDisp("主人公","Hehe, which one?");
 ChEye(2,0);
 ChMouth(2,3);

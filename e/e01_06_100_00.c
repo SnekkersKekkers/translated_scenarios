@@ -14,10 +14,9 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610000_06_010");
 MsgDisp("Himuro","Mmm, something like that.
-I got hungry, so I went to the convenience
-store.");
-MsgDisp("主人公","I see.
-What did you buy?");
+I got hungry, so I went to the
+convenience store.");
+MsgDisp("主人公","I see. What did you buy?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -44,16 +43,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010610000_06_050");
-MsgDisp("Himuro","I'm still growing, so it's okay if I eat this
-much.");
+MsgDisp("Himuro","I'm still growing, so it's okay if I eat
+this much.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("E010610000_06_060");
 MsgDisp("Himuro","Besides...
-I can only eat these kinds of things as a
-snack.");
+I can only eat these kinds of things as
+a snack.");
 MsgDisp("主人公","Are you usually not allowed to?");
 ChEye(6,0);
 ChMouth(6,0);

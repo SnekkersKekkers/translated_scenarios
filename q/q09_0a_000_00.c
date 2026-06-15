@@ -62,8 +62,7 @@ ChMotion(1,0,1);
 VoicePlay("Q090A00000_01_040");
 MsgDisp("Kazama","Who knows?
 Anyways, let's go.");
-MsgDisp("主人公","Yeah!
-Oh, of course.
+MsgDisp("主人公","Yeah! Oh, of course.
 We need to buy a souvenir for ｛Himuro＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);

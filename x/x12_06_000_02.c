@@ -28,8 +28,7 @@ falls off.");
     MsgDisp("Himuro","Amazing...
 To the point I want you to make something for
 me next time.");
-    MsgDisp("主人公","(Yay!
-I was praised!)");
+    MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :
     DbgAssert(1);

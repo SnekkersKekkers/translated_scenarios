@@ -25,9 +25,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610400_06_030");
-MsgDisp("Himuro","She's never said anything like that before,
-and I didn't think I was showing it on my
-face...");
+MsgDisp("Himuro","She's never said anything like that
+before, and I didn't think I was showing
+it on my face...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

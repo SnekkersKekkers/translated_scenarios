@@ -2,8 +2,7 @@ MsgClose();
 ChOpen(5,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020510400_05_000");
 MsgDisp("Hiiragi","How does it appear to you?");
-MsgDisp("主人公","Huh?
-It's a beautiful and lovely scenery.");
+MsgDisp("主人公","Huh? It's a beautiful and lovely scenery.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -24,8 +23,8 @@ MsgDisp("Hiiragi","Watching the fireflies, in the midst of so
 many, I wonder if I can be chosen by you.");
 ChEyeOpenLevel(5,0);
 VoicePlay("G020510400_05_040");
-MsgDisp("Hiiragi","That sort of impatience wells up from within
-me.");
+MsgDisp("Hiiragi","That sort of impatience wells up from
+within me.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","Umm...");
 ChEye(5,3);

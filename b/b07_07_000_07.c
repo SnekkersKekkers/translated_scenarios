@@ -40,8 +40,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B070700000_07_420");
 MsgDisp("Mikage","Nope, not at all.
-This is why it's a dream for the future
-right?");
+This is why it's a dream for the
+future right?");
 MsgDisp("主人公","(Himuro-sensei seems to be good at Shogi as
 well...)");
 BGMStop();

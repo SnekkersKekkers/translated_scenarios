@@ -14,8 +14,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C04100_07_000");
 MsgDisp("Mikage","Yeah, he seems busy.");
-MsgDisp("主人公","I see.
-I wonder if he's eating properly...");
+MsgDisp("主人公","I see. I wonder if he's eating properly...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

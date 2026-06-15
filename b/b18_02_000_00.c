@@ -31,8 +31,7 @@ would do.");
     ChMotion(2,4);
     VoicePlay("B180200000_02_030");
     VoiceEVSPlay(2);
-    MsgDisp("Sassa","Ahem...
-｛主人公｝.");
+    MsgDisp("Sassa","Ahem... ｛主人公｝.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -56,8 +55,7 @@ necessary until we get used to it.");
     ChMotion(2,0);
     ChCheek(2,0);
     VoicePlay("B180200000_02_060");
-    MsgDisp("Sassa","Ahh—.
-I-Is that right?");
+    MsgDisp("Sassa","Ahh—. I-Is that right?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,2);

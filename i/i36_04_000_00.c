@@ -17,15 +17,13 @@ orders are...");
     ChOpen(4,35,0,0,0,#1,#1,0,0);
     VoicePlay("I360400000_04_000");
     MsgDisp("Nanatsumori","Waitress.");
-    MsgDisp("主人公","Yes!
-Ah, ｛Nanatsumori＊｝.");
+    MsgDisp("主人公","Yes! Ah, ｛Nanatsumori＊｝.");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I360400000_04_010");
     MsgDisp("Nanatsumori","Shouldn't you clean up that seat soon?");
-    MsgDisp("主人公","Oh no!
-That guest left a while ago...
+    MsgDisp("主人公","Oh no! That guest left a while ago...
 Thanks for telling me.");
     ChEye(4,2);
     ChMouth(4,3);
@@ -80,8 +78,8 @@ someone would go \"thud\".");
     ChMotion(4,0,1);
     VoicePlay("I360400000_04_080");
     MsgDisp("Nanatsumori","Well, I'm glad no one fell.
-Let's pay attention to our surroundings,
-okay?");
+Let's pay attention to our
+surroundings, okay?");
     MsgDisp("主人公","(That's right.
 I need to be more careful about my
 surroundings...)");

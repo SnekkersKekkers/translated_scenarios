@@ -8,8 +8,7 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("R060200007_02_000");
-    MsgDisp("Sassa","O-Oh...
-This certainly is a gut punch.");
+    MsgDisp("Sassa","O-Oh... This certainly is a gut punch.");
     MsgDisp("主人公","(Darn, I don't think he's really happy with
 my gift...)");
     break ;

@@ -11,8 +11,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("L040600003_06_010");
-    MsgDisp("Himuro","And with my favourite topping.
-Nice.");
+    MsgDisp("Himuro","And with my favourite topping. Nice.");
     MsgDisp("主人公","I did my best!");
     ChEye(6,3);
     ChMouth(6,3);
@@ -81,10 +80,9 @@ You're pretty confident, aren't you?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600003_06_090");
-    MsgDisp("Himuro","It'd be weird if you weren't.
-Something this perfect is hard to make.");
-    MsgDisp("主人公","Um...
-You're complimenting me, right?");
+    MsgDisp("Himuro","It'd be weird if you weren't. Something this
+perfect is hard to make.");
+    MsgDisp("主人公","Um... You're complimenting me, right?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,4);

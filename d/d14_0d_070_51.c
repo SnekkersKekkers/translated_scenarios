@@ -10,16 +10,16 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("D140D07051_21_000");
 MsgDisp("Michiru","I get it.
-I think that mole makes Yanosuke san who he
-is.");
+I think that mole makes Yanosuke san who
+he is.");
 MsgDisp("主人公","A sexy mole...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("D140D07051_21_010");
 MsgDisp("Michiru","Are you interested, Mari?
-In the world of fashion, people have fake
-moles.");
+In the world of fashion, people have
+fake moles.");
 MsgDisp("主人公","Fake moles...");
 ChEye(22,0);
 ChMouth(22,3);

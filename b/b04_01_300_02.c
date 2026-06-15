@@ -130,8 +130,7 @@ who used to be my friend anymore.");
         VoicePlay("B040130002_01_120");
         MsgDisp("Kazama","Why would I tell you, idiot?
 I'm not saying it, idiot!");
-        MsgDisp("主人公","(Ugh...
-I got scolded...
+        MsgDisp("主人公","(Ugh... I got scolded...
 But, my heart is racing somehow...)");
         BGMStop();
         break ;

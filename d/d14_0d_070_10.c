@@ -38,15 +38,14 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D140D07010_22_020");
-MsgDisp("Hikaru","Habataki City's young master and Princess
-Mari.
+MsgDisp("Hikaru","Habataki City's young master and
+Princess Mari.
 Sounds wonderful, doesn't it～▼");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("D140D07010_21_030");
-MsgDisp("Michiru","We're always cheering for you.
-Okay?");
+MsgDisp("Michiru","We're always cheering for you. Okay?");
 MsgDisp("主人公","(They're both getting so excited...)");
 BGMStop();
 MsgClose();

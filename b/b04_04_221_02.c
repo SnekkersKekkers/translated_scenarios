@@ -59,8 +59,7 @@ noticed.");
         ChMouth(4,4);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040422102_04_050");
-        MsgDisp("Nanatsumori","...Eh?
-That means—");
+        MsgDisp("Nanatsumori","...Eh? That means—");
         MsgDisp("主人公","Umm, I meant a blessing on us.");
         ChEye(4,4);
         ChMouth(4,4);
@@ -84,8 +83,7 @@ statements that I don't really understand.");
         VoicePlay("B040422102_04_090");
         MsgDisp("Nanatsumori","It's seriously bad for the heart.
 I'm sure you don't mean it though.");
-        MsgDisp("主人公","Umm...
-I'm sorry, okay?");
+        MsgDisp("主人公","Umm... I'm sorry, okay?");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,1,1);

@@ -37,8 +37,8 @@ don't go out at night.");
     ScrFadeIn(0);
     VoicePlay("B060100012_01_020");
     MsgDisp("Kazama","Come on, let's go home.
-There's no way we're going our separate ways
-here.");
+There's no way we're going our separate
+ways here.");
     MsgDispSksp(0);
     break ;
     default :

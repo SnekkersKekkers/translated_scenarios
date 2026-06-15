@@ -7,8 +7,7 @@ ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
 ChNanaType(0);
 ChOpen(4,254,0,0,0,#1,#1,0,2,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","Ahh!
-Time flies...
+MsgDisp("主人公","Ahh! Time flies...
 It was so much fun.");
 ChMouth(1,3);
 VoicePlay("Q080B00100_01_000");
@@ -22,8 +21,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q080B00100_01_010");
-MsgDisp("Kazama","Share today's photo when you get back to your
-room.");
+MsgDisp("Kazama","Share today's photo when you get back to
+your room.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -88,8 +87,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("Q080B00100_01_040");
-MsgDisp("Kazama","What?
-That's not what I meant...");
+MsgDisp("Kazama","What? That's not what I meant...");
 MsgDisp("主人公","Okay, let's meet here tomorrow morning.");
 ChEye(1,2);
 ChMouth(1,1);

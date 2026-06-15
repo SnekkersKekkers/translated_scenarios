@@ -28,8 +28,7 @@ ChMotion(7,1);
 VoicePlay("D140C06000_07_010");
 MsgDisp("Mikage","Does he ever show his troubled face in front
 of you?");
-MsgDisp("主人公","Ummm...
-I wonder.");
+MsgDisp("主人公","Ummm... I wonder.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -59,8 +58,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D140C06000_07_030");
 MsgDisp("Mikage","This is good isn't it?
-I think there's still a chance to turn things
-around.");
+I think there's still a chance to turn
+things around.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

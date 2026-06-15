@@ -5,8 +5,7 @@ ChMotion(4,0);
 VoicePlay("G020410301_04_000");
 MsgDisp("Nanatsumori","The firefly lights are so warm, huh.");
 MsgDisp("主人公","You're right.
-Warm, cosy colours in the sky...
-Ah.");
+Warm, cosy colours in the sky... Ah.");
 MsgDisp("主人公","｛Nanatsumori＊｝, it looks like the lights
 from the equipment room!");
 ChEye(4,0);
@@ -14,8 +13,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020410301_04_010");
 MsgDisp("Nanatsumori","Oh, nice memory.
-There were a lot of powerful lights and
-stuff.");
+There were a lot of powerful lights
+and stuff.");
 ChMotion(4,0,1);
 VoicePlay("G020410301_04_020");
 MsgDisp("Nanatsumori","At night, isn't it as sparkly and beautiful
@@ -49,8 +48,7 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020410301_04_070");
-MsgDisp("Nanatsumori","That's it, huh?
-Gah.
+MsgDisp("Nanatsumori","That's it, huh? Gah.
 If it's just that, I'll forgive you...");
 ChEye(4,4);
 ChMouth(4,3);

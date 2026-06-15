@@ -43,8 +43,7 @@ I'm glad I worked so hard in the judo club!)");
     ChMotion(21,0);
     VoicePlay("H3A2100000_21_020");
     MsgDisp("Michiru","Mari...!");
-    MsgDisp("主人公","Ah, ｛みちる＊｝.
-I won!");
+    MsgDisp("主人公","Ah, ｛みちる＊｝. I won!");
     ChEye(21,0);
     ChMouth(21,4);
     ChMotion(21,4);
@@ -57,8 +56,8 @@ I was very nervous, but...");
     ChMotion(21,1);
     VoicePlay("H3A2100000_21_040");
     MsgDisp("Michiru","You were very cool.
-I think I've come to like you even more,
-Mari.");
+I think I've come to like you even
+more, Mari.");
     MsgDisp("主人公","(Hehe!
 I'm glad I worked so hard in the judo club!)");
     BGMStop();

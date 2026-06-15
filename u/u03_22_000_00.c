@@ -45,8 +45,7 @@ Too bad.");
     VoicePlay("U032200000_22_050");
     MsgDisp("Hikaru","It's about time to go now.
 See you later～!");
-    MsgDisp("主人公","Okay.
-See you later, ｛ひかる＊｝.");
+    MsgDisp("主人公","Okay. See you later, ｛ひかる＊｝.");
     break ;
     default :
     DbgAssert(0);

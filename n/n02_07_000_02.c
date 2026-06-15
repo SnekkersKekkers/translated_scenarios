@@ -14,8 +14,8 @@ I think it is.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("N020700002_07_010");
-    MsgDisp("Mikage","Whether you push a little harder or not, it's
-okay.");
+    MsgDisp("Mikage","Whether you push a little harder or not,
+it's okay.");
     MsgDisp("主人公","(Hmm...
 Maybe I should study a little bit harder?)");
     break ;

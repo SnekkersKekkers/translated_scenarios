@@ -29,8 +29,7 @@ Are you heading home?");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I360400003_04_010");
-    MsgDisp("Nanatsumori","Yeah.
-...Hey.");
+    MsgDisp("Nanatsumori","Yeah. ...Hey.");
     MsgDisp("主人公","Yes?");
     VoicePlay("I360400003_04_020");
     MsgDisp("Nanatsumori","I could see the bottom of the sugar pot at my
@@ -78,8 +77,7 @@ I'll bring you a new one right away.");
     VoicePlay("I360400003_04_050");
     MsgDisp("Nanatsumori","The sugar over here is about to hit empty
 too, you know?");
-    MsgDisp("主人公","Huh∋
-I'm sorry I didn't notice...");
+    MsgDisp("主人公","Huh∋ I'm sorry I didn't notice...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
@@ -91,8 +89,7 @@ I'm sorry I didn't notice...");
     MsgDisp("Nanatsumori","Sugar is essential, especially for a coffee
 shop like this.
 Make sure you lift the lids and check.");
-    MsgDisp("主人公","(Sigh...
-I guess I'm a little distracted.
+    MsgDisp("主人公","(Sigh... I guess I'm a little distracted.
 I'll have to check the tables more often.)");
     break ;
     default :

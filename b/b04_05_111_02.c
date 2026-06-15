@@ -27,8 +27,7 @@ Now, will you give me your hand?");
     DateRateSet(3);
     ChEye(5,3);
     VoicePlay("B040511102_05_020");
-    MsgDisp("Hiiragi","Haha.
-I'd say we've reached that level.");
+    MsgDisp("Hiiragi","Haha. I'd say we've reached that level.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,8 +44,7 @@ I'd say we've reached that level.");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040511102_05_030");
-        MsgDisp("Hiiragi","Hmm.
-That's a bit of a stretch, isn't it?");
+        MsgDisp("Hiiragi","Hmm. That's a bit of a stretch, isn't it?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -55,8 +53,7 @@ That's a bit of a stretch, isn't it?");
         ChEye(5,3);
         VoicePlay("B040511102_05_040");
         MsgDisp("Hiiragi","Maybe we should wear costumes next time?");
-        MsgDisp("主人公","Wow!
-Everyone would be surprised, huh?");
+        MsgDisp("主人公","Wow! Everyone would be surprised, huh?");
         ChEye(5,2);
         VoicePlay("B040511102_05_050");
         MsgDisp("Hiiragi","After the surprise wears off, they'd probably
@@ -73,8 +70,8 @@ Theatre Company's Ice Show.");
         ChMotion(5,0);
         VoicePlay("B040511102_05_070");
         MsgDisp("Hiiragi","Your ideas are amazing.
-I could never come up with something like
-that.");
+I could never come up with something
+like that.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040511102_05_080");
@@ -85,8 +82,7 @@ beautiful costume would be wonderful.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040511102_05_090");
-        MsgDisp("Hiiragi","Yeah.
-I'll try it.");
+        MsgDisp("Hiiragi","Yeah. I'll try it.");
         MsgDisp("主人公","Ehh?");
         MsgClose();
         SEPlay("EV_SE_559");

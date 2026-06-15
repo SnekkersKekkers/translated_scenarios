@@ -55,8 +55,7 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("F100530002_22_010");
-MsgDisp("Hikaru","Yanosuke-san, no no, try again.
-Okay～?");
+MsgDisp("Hikaru","Yanosuke-san, no no, try again. Okay～?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -104,8 +103,8 @@ MsgDisp("Hiiragi","Haha.
 I really do enjoy the greeting enforcement
 campaign.");
 MsgDisp("主人公","(I might understand how ｛Hiiragi＊＊＊｝ feels?
-Funny greetings just make you smile, it's
-nice!)");
+Funny greetings just make you smile,
+it's nice!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

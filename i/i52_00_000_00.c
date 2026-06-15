@@ -12,8 +12,8 @@ MsgDisp("","　　　　　　　　　　 ・
 VoicePlay("I520000000_49_010");
 MsgDisp("Manager","Then, would it be alright to have you come in
 every Tuesday and Thursday?");
-MsgDisp("主人公","Yes, it's a pleasure to start working with
-you.");
+MsgDisp("主人公","Yes, it's a pleasure to start working
+with you.");
 VoicePlay("I520000000_49_020");
 MsgDisp("Manager","It's our pleasure as well!
 Well, we're looking forward to it.");

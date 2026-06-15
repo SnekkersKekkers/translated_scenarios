@@ -20,8 +20,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("B330B10401_03_010");
-MsgDisp("Honda","Ah!
-Did you hear something?");
+MsgDisp("Honda","Ah! Did you hear something?");
 ChEye(4,3);
 ChMouth(4,0);
 ChMotion(4,1,1);
@@ -31,8 +30,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0,1);
 VoicePlay("B330B10401_01_000");
-MsgDisp("Kazama","Ha?
-What are you saying!");
+MsgDisp("Kazama","Ha? What are you saying!");
 MsgDisp("主人公","Eh, really?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -45,8 +43,7 @@ ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("B330B10401_04_010");
-MsgDisp("Nanatsumori","Shh.
-I heard something too.");
+MsgDisp("Nanatsumori","Shh. I heard something too.");
 ChEye(1,2);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -132,8 +129,7 @@ ChMouth(1,1);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B10401_01_060");
-MsgDisp("Kazama","Ha?
-I was falsely accused from the start.");
+MsgDisp("Kazama","Ha? I was falsely accused from the start.");
 ChEyeOpenLevel(1,0);
 ChEye(3,0);
 ChMouth(3,4);

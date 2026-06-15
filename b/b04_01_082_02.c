@@ -3,8 +3,8 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040108202_01_000");
-MsgDisp("Kazama","You've heard the rumours about this place,
-right?");
+MsgDisp("Kazama","You've heard the rumours about this
+place, right?");
 MsgSel("That you can hear someone's inner voice?","That if you let it all out, you'll feel better?","Don't you want to see the glowing pink fireflies?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -64,8 +64,7 @@ I really said some careless stuff.");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108202_01_050");
-        MsgDisp("Kazama","Phew.
-Well, I guess you didn't know, did you?");
+        MsgDisp("Kazama","Phew. Well, I guess you didn't know, did you?");
         ChEye(1,4);
         ChMouth(1,4);
         ChMotion(1,2);
@@ -113,8 +112,8 @@ happened.");
         MsgDisp("Kazama","I'm sure we'll both change bit by bit as time
 goes on. Maybe it's actually better to always
 stay together, and not notice?");
-        MsgDisp("主人公","(｛Kazama＊＊｝, you've always cared about
-me...
+        MsgDisp("主人公","(｛Kazama＊＊｝, you've always cared
+about me...
 I'm really happy.)");
         break ;
         default :
@@ -128,8 +127,7 @@ I'm really happy.)");
     ChMouth(1,2);
     ChMotion(1,0,1);
     VoicePlay("B040108202_01_110");
-    MsgDisp("Kazama","Pink?
-That sounds kind of sketchy.
+    MsgDisp("Kazama","Pink? That sounds kind of sketchy.
 Bit of a vibe-killer.");
     MsgDateResultDisp();
     break ;

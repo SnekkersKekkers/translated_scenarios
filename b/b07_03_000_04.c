@@ -3,8 +3,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B070300000_03_190");
-MsgDisp("Honda","I've never really thought about that sort of
-thing.");
+MsgDisp("Honda","I've never really thought about that sort
+of thing.");
 MsgDisp("主人公","You don't listen to music?");
 ChEye(3,0);
 ChMouth(3,0);

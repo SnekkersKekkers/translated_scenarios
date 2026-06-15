@@ -31,8 +31,8 @@ surroundings.
 I'm sorry...");
 ChEyeOpenLevel(5,9);
 MsgDisp("主人公","No problem.
-I had a good time talking to you too, so it's
-fine.");
+I had a good time talking to you too, so
+it's fine.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);

@@ -38,8 +38,7 @@ See ya.");
     VoicePlay("R040400002_04_010");
     MsgDisp("Nanatsumori","I'm going to the cake buffet.
 You should try it, it's delicious.");
-    MsgDisp("主人公","Sure.
-Thank you!");
+    MsgDisp("主人公","Sure. Thank you!");
     break ;
     case 4:
     case 5:
@@ -54,8 +53,7 @@ Thank you!");
     ChMotion(4,0);
     ScrFadeIn(0);
     VoicePlay("R040400002_04_020");
-    MsgDisp("Nanatsumori","Ah...
-The cake buffet is calling me.
+    MsgDisp("Nanatsumori","Ah... The cake buffet is calling me.
 May I go?");
     MsgDisp("主人公","Hehe, go ahead!");
     ChEye(4,4);

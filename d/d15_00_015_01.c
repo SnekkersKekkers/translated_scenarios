@@ -20,8 +20,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D150001501_01_010");
-MsgDisp("Kazama","C'mon.
-What a huge leap.");
+MsgDisp("Kazama","C'mon. What a huge leap.");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,0);
@@ -43,8 +42,7 @@ ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("D150001501_05_020");
-MsgDisp("Hiiragi","Yes.
-She was laughing.");
+MsgDisp("Hiiragi","Yes. She was laughing.");
 MsgDisp("主人公","Ehh∋");
 ChEye(1,0);
 ChMouth(1,3);

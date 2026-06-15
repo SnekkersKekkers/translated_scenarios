@@ -32,8 +32,8 @@ not moving?");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040223202_02_020");
-        MsgDisp("Sassa","I've never had to force myself when I'm with
-you.");
+        MsgDisp("Sassa","I've never had to force myself when I'm
+with you.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,8 +59,7 @@ But, in front of me is your smile.");
         MsgDisp("Sassa","It's a double whammy of stuff I can't handle
 and stuff I love.
 For a full 15 minutes, too.");
-        MsgDisp("主人公","Ehh!
-Then, what should we do next time?");
+        MsgDisp("主人公","Ehh! Then, what should we do next time?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

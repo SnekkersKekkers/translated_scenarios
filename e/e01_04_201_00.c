@@ -5,8 +5,7 @@ VoicePlay("E010420100_02_000");
 MsgDisp("Sassa?","Oh, I come here often.");
 VoicePlay("E010420100_04_000");
 MsgDisp("Nanatsumori?","Maybe I'll come again if I feel like it.");
-MsgDisp("主人公","Huh?
-That voice just now was-");
+MsgDisp("主人公","Huh? That voice just now was-");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);

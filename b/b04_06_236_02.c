@@ -57,8 +57,8 @@ And there's a chance we'll have jobs too.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040623602_06_050");
-        MsgDisp("Himuro","My relationship with you may have changed
-too.");
+        MsgDisp("Himuro","My relationship with you may have
+changed too.");
         ChEye(6,0);
         ChMouth(6,4);
         ChMotion(6,0);
@@ -77,8 +77,7 @@ I can't deal with that.");
         ChMouth(6,4);
         ChMotion(6,1);
         VoicePlay("B040623602_06_080");
-        MsgDisp("Himuro","It's fine if you don't understand.
-But...
+        MsgDisp("Himuro","It's fine if you don't understand. But...
 I hope you're looking forward to it.");
         ChEye(6,0);
         ChMouth(6,4);

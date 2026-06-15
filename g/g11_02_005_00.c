@@ -24,8 +24,7 @@ ChOpen(2,100,1,1,0,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoicePlay("G110200500_02_010");
-MsgDisp("Sassa","Yeah.
-You look like a fine athlete.");
+MsgDisp("Sassa","Yeah. You look like a fine athlete.");
 MsgDisp("主人公","Pant...
 ｛Sassa＊＊｝, you're a bit fast today...");
 ChEye(2,0);

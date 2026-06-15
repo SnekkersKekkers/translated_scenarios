@@ -22,8 +22,7 @@ ChMotion(22,3,1);
 VoicePlay("P740D00000_22_010");
 MsgDisp("Hikaru","Hey hey, Mari you should be a model too.
 We can do it together▼");
-MsgDisp("主人公","(Yay!
-I was praised by these two!)");
+MsgDisp("主人公","(Yay! I was praised by these two!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

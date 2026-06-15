@@ -10,8 +10,7 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("X210300000_03_010");
-MsgDisp("Honda","Yay∈
-You're Rose Queen∋");
+MsgDisp("Honda","Yay∈ You're Rose Queen∋");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -48,8 +47,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("X210300000_03_060");
 MsgDisp("Honda","...But, there's no point in me being so
 confident in myself.");
-MsgDisp("主人公","Hehe.
-｛Honda＊＊｝, thank you.");
+MsgDisp("主人公","Hehe. ｛Honda＊＊｝, thank you.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

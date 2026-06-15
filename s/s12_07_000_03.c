@@ -21,8 +21,7 @@ switch (ChPrmGet(7,6)){
     VoicePlay("S120700003_07_010");
     MsgDisp("Mikage","I'm still just starting to do those 100
 things I want to do.");
-    MsgDisp("主人公","Yep.
-It's still just the beginning.
+    MsgDisp("主人公","Yep. It's still just the beginning.
 At least today we did one thing.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -31,8 +30,8 @@ At least today we did one thing.");
     MsgDisp("Mikage","Ah, you're right.
 We did a shrine visit.");
     MsgDisp("主人公","Yep, today we got to finish it.
-So, what's the number one thing you want to
-do?");
+So, what's the number one thing you want
+to do?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -40,31 +39,28 @@ do?");
     MsgDisp("Mikage","There it is, your bad habit.
 You like to move too quickly. You need to
 have patience, otherwise things are boring.");
-    MsgDisp("主人公","Uhm...
-Then...");
+    MsgDisp("主人公","Uhm... Then...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S120700003_07_040");
     MsgDisp("Mikage","That's right...
 See you later then.");
-    MsgDisp("主人公","Eh?
-Just like that...");
+    MsgDisp("主人公","Eh? Just like that...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("S120700003_07_050");
     MsgDisp("Mikage","Take it easy.
 See you.");
-    MsgDisp("主人公","Yeah.
-Thanks for spending time with me today.");
+    MsgDisp("主人公","Yeah. Thanks for spending time with me today.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S120700003_07_060");
     MsgDisp("Mikage","Of course.
-I'll be waiting to see you at school again,
-okay?");
+I'll be waiting to see you at school
+again, okay?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
@@ -97,15 +93,15 @@ school today too?");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("S120700003_07_080");
-    MsgDisp("Mikage","I know I said I'm going to school, but I'm
-just taking a peek at the gardening club's
-fields.");
+    MsgDisp("Mikage","I know I said I'm going to school, but
+I'm just taking a peek at the gardening
+club's fields.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S120700003_07_090");
-    MsgDisp("Mikage","Earlier, everyone prayed for them to
-grow into real beauties, so don't worry.");
+    MsgDisp("Mikage","Earlier, everyone prayed for them to grow
+into real beauties, so don't worry.");
     MsgDisp("主人公","Hehe, that's a very kind wish from
 ｛Mikage＊＊｝.");
     ChEye(7,0);

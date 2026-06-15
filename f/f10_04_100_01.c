@@ -18,8 +18,7 @@ I'll be finished.");
 MsgDisp("主人公","Hehe, thank you for your hard work.");
 ChMotion(4,0,1);
 VoicePlay("F100410001_04_020");
-MsgDisp("Nanatsumori","Yeah.
-See you then.");
+MsgDisp("Nanatsumori","Yeah. See you then.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4,0,30);
@@ -56,8 +55,7 @@ MsgDisp("主人公","Phew...");
 SEPlay("EV_SE_643");
 MsgDisp("","(*Thud*)");
 VoicePlay("F100410001_04_060");
-MsgDisp("Nanatsumori","Geez...
-You don't have to drop something too.");
+MsgDisp("Nanatsumori","Geez... You don't have to drop something too.");
 MsgDisp("主人公","(I also dropped the log∋)");
 MsgClose();
 ScrFadeOut(0,0);

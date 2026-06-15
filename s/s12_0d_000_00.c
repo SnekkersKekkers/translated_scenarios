@@ -13,10 +13,9 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("S120D00000_21_000");
-MsgDisp("Michiru","Hehe, isn't it fun to have a girls only
-outing?");
-MsgDisp("主人公","Yeah.
-Thanks so much you two!");
+MsgDisp("Michiru","Hehe, isn't it fun to have a girls
+only outing?");
+MsgDisp("主人公","Yeah. Thanks so much you two!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

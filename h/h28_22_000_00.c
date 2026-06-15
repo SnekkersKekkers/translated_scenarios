@@ -47,8 +47,7 @@ Did you come to cheer us on?");
     ChMotion(22,3,1);
     VoicePlay("H282200000_22_040");
     MsgDisp("Hikaru","Hikaru came to cheer Mari on▼");
-    MsgDisp("主人公","Huh?
-I'm the manager, you know?");
+    MsgDisp("主人公","Huh? I'm the manager, you know?");
     ChEye(22,0);
     ChMouth(22,3);
     ChMotion(22,4,1);
@@ -68,8 +67,7 @@ supporting our strong and courageous team♪");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("H282200000_22_070");
-    MsgDisp("Hikaru","Ehe▼
-Go win♪");
+    MsgDisp("Hikaru","Ehe▼ Go win♪");
     MsgDisp("主人公","Yeah!");
     BGMStop();
     MsgClose();

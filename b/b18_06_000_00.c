@@ -7,14 +7,13 @@ ChMotion(6,0);
 VoiceEVSPlay(6);
 VoicePlay("B180600000_06_000");
 MsgDisp("Himuro","｛主人公｝.");
-MsgDisp("主人公","What?
-...Wait, eh—");
+MsgDisp("主人公","What? ...Wait, eh—");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B180600000_06_010");
-MsgDisp("Himuro","I was thinking of calling you that from now
-on.
+MsgDisp("Himuro","I was thinking of calling you that from
+now on.
 Calling you by your last name is too formal.");
 MsgSel("Yeah, that's fine.","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){

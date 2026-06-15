@@ -1,5 +1,4 @@
-MsgDisp("主人公","(Huh?
-What's up with me?
+MsgDisp("主人公","(Huh? What's up with me?
 My heart is racing super fast...)");
 ChEye(7,0);
 ChMouth(7,4);
@@ -12,8 +11,7 @@ ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("B070700001_07_540");
-MsgDisp("Mikage","O-Oi.
-Are you feeling unwell?");
+MsgDisp("Mikage","O-Oi. Are you feeling unwell?");
 MsgDisp("主人公","Ah...");
 ChEye(7,0);
 ChMouth(7,4);
@@ -36,15 +34,13 @@ ChCheek(7,7);
 VoicePlay("B070700001_07_570");
 MsgDisp("Mikage","......When did you learn to do that?
 You're becoming quite the handful.");
-MsgDisp("主人公","...Phew.
-I've calmed down.");
+MsgDisp("主人公","...Phew. I've calmed down.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700001_07_580");
 MsgDisp("Mikage","Sigh, I haven't calmed down yet.");
-MsgDisp("主人公","Eh?
-Are you alright?");
+MsgDisp("主人公","Eh? Are you alright?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

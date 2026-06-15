@@ -28,8 +28,7 @@ It would be fun to spend New Year's with you.");
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("B040502101_05_020");
-    MsgDisp("Hiiragi","Umm...
-I wonder?
+    MsgDisp("Hiiragi","Umm... I wonder?
 You appear to know more about it than I do.");
     MsgDateResultDisp();
     break ;

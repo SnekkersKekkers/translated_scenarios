@@ -13,15 +13,14 @@ StlOpen("ev_01_07");
 StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Eh...
-｛Kazama＊＊｝∋");
+MsgDisp("主人公","Eh... ｛Kazama＊＊｝∋");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("D010100001_01_010");
 MsgDisp("Kazama","Well, I guess I get why.");
 MsgDisp("主人公","Uhm...
-No way, are we in the same class again this
-year?");
+No way, are we in the same class again
+this year?");
 StlEye(1,2);
 StlMouth(1,2);
 Wait(30,1);

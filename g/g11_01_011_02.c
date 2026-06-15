@@ -25,8 +25,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110101102_01_000");
 MsgDisp("Kazama","Ah, right.
-Apparently a customer from Simon called for
-you?");
+Apparently a customer from Simon called
+for you?");
 MsgDisp("主人公","Really?
 I'm happy.");
 ChEye(1,0);

@@ -34,8 +34,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3)
 VoicePlay("B070700000_07_220");
-MsgDisp("Mikage","If I listen to it in the morning, I get ready
-faster.");
+MsgDisp("Mikage","If I listen to it in the morning, I get
+ready faster.");
 MsgDisp("主人公","(Hehe.
 Seems like ｛Mikage＊＊｝ likes songs with a
 nice tempo.)");

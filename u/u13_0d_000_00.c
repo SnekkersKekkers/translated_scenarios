@@ -34,8 +34,8 @@ I wonder what that means...)");
     StlMouth(21,0);
     VoicePlay("U130D00000_21_010");
     MsgDisp("Michiru","Hehe.
-What a mysterious childhood sweetheart
-couple.");
+What a mysterious childhood
+sweetheart couple.");
     MsgDisp("主人公","...Eh?");
     StlEyeOpenLevel(21,0,1);
     VoicePlay("U130D00000_21_020");
@@ -71,10 +71,8 @@ aggressively, he'd see right through me?)");
     StlEye(22,2);
     StlCheek(22,7);
     VoicePlay("U130D00000_22_030");
-    MsgDisp("Hikaru","Aha▼
-No way, Mari.");
-    MsgDisp("主人公","Eh, huh.
-What?");
+    MsgDisp("Hikaru","Aha▼ No way, Mari.");
+    MsgDisp("主人公","Eh, huh. What?");
     StlEyeOpenLevel(21,5,1);
     StlMouth(21,0);
     VoicePlay("U130D00000_21_040");
@@ -89,8 +87,7 @@ sis will get mad if Hikaru does.");
     StlEyeOpenLevel(21,0,1);
     StlNear(0,0,15);
     VoicePlay("U130D00000_21_050");
-    MsgDisp("Michiru","You can't.
-Their love is good as it is.");
+    MsgDisp("Michiru","You can't. Their love is good as it is.");
     StlEye(22,0);
     StlMouth(22,0);
     StlCheek(22,0);
@@ -98,8 +95,7 @@ Their love is good as it is.");
     MsgDisp("Hikaru","That's how it is.
 Ok, Hikaru will keep watching over you two▼");
     StlEyeOpenLevel(21,5,1);
-    MsgDisp("主人公","(?
-Does that mean you two support me?)");
+    MsgDisp("主人公","(? Does that mean you two support me?)");
     break ;
     default :
     DbgAssert(1);

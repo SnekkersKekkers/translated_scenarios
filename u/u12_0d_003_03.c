@@ -10,8 +10,7 @@ in love?");
 StlEye(21,1);
 StlMouth(21,0);
 VoicePlay("U120D00303_21_000");
-MsgDisp("Michiru","Yep.
-I think it's like that too...");
+MsgDisp("Michiru","Yep. I think it's like that too...");
 MsgDisp("主人公","Uh, hmm?");
 StlEye(22,0);
 StlMouth(22,0);

@@ -26,8 +26,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("F010600005_06_020");
     MsgDisp("Himuro","Hah...well, we can go.");
-    MsgDisp("主人公","Yay!
-In that case, let's go.");
+    MsgDisp("主人公","Yay! In that case, let's go.");
     break ;
     case 4:
     case 5:

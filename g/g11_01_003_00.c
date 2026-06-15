@@ -40,8 +40,7 @@ ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G110100300_01_030");
 MsgDisp("Kazama","Fishing is good at this time too.");
-MsgDisp("主人公","Hehe.
-Fish like this time of day too.");
+MsgDisp("主人公","Hehe. Fish like this time of day too.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -67,8 +66,7 @@ ChMotion(1,1);
 VoicePlay("G110100300_01_070");
 MsgDisp("Kazama","...I'm not saying you absolutely can't
 refuse, alright?");
-MsgDisp("主人公","...Hm?
-Yeah, I got it.");
+MsgDisp("主人公","...Hm? Yeah, I got it.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

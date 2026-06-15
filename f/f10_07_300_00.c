@@ -11,8 +11,7 @@ ChOpen(21,254,0,0,0,#1,#1,0,1,0,30);
 ChOpen(7,37,0,0,0,#1,#1,0,0,0,30);
 ChOpen(22,254,0,0,3,#1,#1,0,2,0,30);
 MsgDisp("主人公","｛ひかる＊｝, ｛みちる＊｝.
-Huh...
-｛Mikage＊＊｝ too?");
+Huh... ｛Mikage＊＊｝ too?");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -107,8 +106,7 @@ ChMouth(7,3);
 ChMotion(7,3);
 ChEyeOpenLevel(7,10);
 VoicePlay("F100730000_07_040");
-MsgDisp("Mikage","Ohh?
-Shall we test it out then, ladies?
+MsgDisp("Mikage","Ohh? Shall we test it out then, ladies?
 Then, who wants to go on a date with me?");
 ChEye(22,5);
 ChMouth(22,1);
@@ -148,8 +146,7 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F100730000_21_060");
-MsgDisp("Michiru","...Yeah.
-A surprise attack is unfair.");
+MsgDisp("Michiru","...Yeah. A surprise attack is unfair.");
 MsgDisp("主人公","(That startled me...)");
 BGMStop();
 MsgClose();

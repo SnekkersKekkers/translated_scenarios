@@ -15,5 +15,4 @@ VoicePlay("B320A00001_06_000");
 MsgDisp("Himuro","Normally, the response is \"I wasn't waiting
 long\" right?");
 ChMouth(1,0);
-MsgDisp("主人公","Hehe.
-Thanks for being so thoughtful.");
+MsgDisp("主人公","Hehe. Thanks for being so thoughtful.");

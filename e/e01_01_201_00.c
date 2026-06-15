@@ -7,8 +7,7 @@ VoicePlay("E010120100_01_000");
 MsgDisp("Kazama?","A select shop like ours doesn't have a lot of
 stock, you see.");
 VoicePlay("E010120100_05_000");
-MsgDisp("Hiiragi?","I see.
-Thank you.
+MsgDisp("Hiiragi?","I see. Thank you.
 I will look somewhere else.");
 MsgDisp("主人公","These voices...");
 MsgClose();
@@ -22,8 +21,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010120100_05_020");
-MsgDisp("Hiiragi","Yes.
-For souvenirs for the troupe.");
+MsgDisp("Hiiragi","Yes. For souvenirs for the troupe.");
 MsgDisp("主人公","Did you find anything good?");
 ChEye(5,2);
 ChMouth(5,4);
@@ -95,9 +93,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010120100_01_060");
-MsgDisp("Kazama","He asked me for something with a holly
-pattern that didn't look too Christmas
-themed.");
+MsgDisp("Kazama","He asked me for something with a
+holly pattern that didn't look too
+Christmas themed.");
 MsgDisp("主人公","You found the perfect thing!");
 ChEye(1,2);
 ChMouth(1,3);

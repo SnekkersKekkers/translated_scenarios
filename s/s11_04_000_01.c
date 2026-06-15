@@ -13,8 +13,7 @@ VoicePlay("S110400001_04_010");
 MsgDisp("Nanatsumori","Good Luck.
 At this shrine, it's one level below
 Excellent Luck.");
-MsgDisp("主人公","I see.
-Isn't that a shame...");
+MsgDisp("主人公","I see. Isn't that a shame...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);

@@ -51,16 +51,14 @@ I wonder what type of year this will be?)");
     ChMouth(4,1);
     ChMotion(4,2,1);
     VoicePlay("S120400001_04_040");
-    MsgDisp("Nanatsumori","Ahh.
-It's not enough somehow...");
+    MsgDisp("Nanatsumori","Ahh. It's not enough somehow...");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("S120400001_04_050");
     MsgDisp("Nanatsumori","...Negativity isn't good first thing in the
 New Year.");
-    MsgDisp("主人公","Hehe!
-We'll see each other again soon, right?");
+    MsgDisp("主人公","Hehe! We'll see each other again soon, right?");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

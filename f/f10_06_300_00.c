@@ -7,10 +7,8 @@ MsgDisp("Himuro?","At any rate, please stop that.
 That's all.
 Goodbye.");
 VoicePlay("F100630000_22_000");
-MsgDisp("Hikaru?","Ehhh∋
-Himuro-chan, wait～!");
-MsgDisp("主人公","(Hm?
-These voices...)");
+MsgDisp("Hikaru?","Ehhh∋ Himuro-chan, wait～!");
+MsgDisp("主人公","(Hm? These voices...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(21,254,0,0,4,#1,#1,0,1,0,30);
@@ -36,8 +34,7 @@ ChMotion(21,0);
 VoicePlay("F100630000_21_010");
 MsgDisp("Michiru","I don't think those work...
 Himuro-chan was really troubled.");
-MsgDisp("主人公","Eeh.
-What did you call him?");
+MsgDisp("主人公","Eeh. What did you call him?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

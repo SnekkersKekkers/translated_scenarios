@@ -25,8 +25,7 @@ switch (ChPrmGet(1,6)){
     Wait(10,0);
     ChEyeOpenLevel(1,#1);
     VoicePlay("W080100003_01_020");
-    MsgDisp("Kazama","I see...
-Let's go.");
+    MsgDisp("Kazama","I see... Let's go.");
     break ;
     default :
     DbgAssert(1);

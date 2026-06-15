@@ -38,8 +38,7 @@ Prince Charming?");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040624102_06_030");
-        MsgDisp("Himuro","Hmm...
-Then maybe I'll try horseriding.");
+        MsgDisp("Himuro","Hmm... Then maybe I'll try horseriding.");
         MsgDisp("主人公","Hehe, sounds good.");
         ChEye(6,0);
         ChMouth(6,4);

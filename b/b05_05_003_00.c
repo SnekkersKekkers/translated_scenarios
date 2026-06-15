@@ -85,8 +85,8 @@ StlEyeOpenLevel(5,5,1);
 StlMouth(5,0);
 VoicePlay("B050500300_05_090");
 MsgDisp("Hiiragi","You're making that face again.
-My old stories pretty much always end like
-this.");
+My old stories pretty much always end
+like this.");
 StlEyeOpenLevel(5,#1);
 StlMouth(5,1);
 VoicePlay("B050500300_05_100");

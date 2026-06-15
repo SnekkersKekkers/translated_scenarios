@@ -11,5 +11,5 @@ VoicePlay("B020800012_08_010");
 MsgDisp("Shirahane","But I was really hopin' I could see more of
 the different kinda styles ya like...");
 MsgDisp("主人公","(Oh, shoot!
-I'm wearing the same clothes as the other
-day...)");
+I'm wearing the same clothes as the
+other day...)");

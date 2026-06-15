@@ -44,15 +44,14 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G020220000_02_070");
 MsgDisp("Sassa","But I'll pass him right away.");
-MsgDisp("主人公","Hahah, if you pass him, there won't be
-anyone.");
+MsgDisp("主人公","Hahah, if you pass him, there won't
+be anyone.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("G020220000_02_080");
-MsgDisp("Sassa","True.
-Then I'll take it easy as I chase.");
+MsgDisp("Sassa","True. Then I'll take it easy as I chase.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);

@@ -8,8 +8,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B040330002_03_000");
-MsgDisp("Honda","There's a separate room to raise insects and
-fish.");
+MsgDisp("Honda","There's a separate room to raise insects
+and fish.");
 MsgSel("Are they ｛Honda＊＊｝'s pets?","Won't they run away?","Haa, that's good.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -51,8 +51,8 @@ the lid.");
         DateRateSet(0);
         ChSet(3,2);
         VoicePlay("B040330002_03_030");
-        MsgDisp("Honda","Eh, do you dislike coming to my room that
-much?");
+        MsgDisp("Honda","Eh, do you dislike coming to my room
+that much?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,10 +62,9 @@ much?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040330002_03_040");
-        MsgDisp("Honda","...I see.
-You really dislike them that much?");
-        MsgDisp("主人公","No, it's just that I'm not very good with
-them.");
+        MsgDisp("Honda","...I see. You really dislike them that much?");
+        MsgDisp("主人公","No, it's just that I'm not very good
+with them.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0);

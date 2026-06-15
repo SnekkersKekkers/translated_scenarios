@@ -20,8 +20,7 @@ ChEye(3,5);
 ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("F100320002_03_010");
-MsgDisp("Honda","Ehh?
-What's that?
+MsgDisp("Honda","Ehh? What's that?
 Do I seem like that kind of person?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -85,8 +84,7 @@ ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3,1);
 VoicePlay("F100320002_02_050");
-MsgDisp("Sassa","Haha.
-Oh, please do something else!
+MsgDisp("Sassa","Haha. Oh, please do something else!
 See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

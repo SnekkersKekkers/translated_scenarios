@@ -14,8 +14,7 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S090600000_06_010");
-    MsgDisp("Himuro","Aah.
-...Would you like to draw one?");
+    MsgDisp("Himuro","Aah. ...Would you like to draw one?");
     MsgSel("Let's do it","Let's not, it's crowded");
     switch (MsgSelRsltGet()){
         case 0:
@@ -58,8 +57,7 @@ Let's go home then.");
     ScrFadeIn(0);
     MsgClose();
     ChOpen(6,255,0,0,0,#1,#1,0,0);
-    MsgDisp("主人公","Wow...
-That's a lot of people.");
+    MsgDisp("主人公","Wow... That's a lot of people.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);
@@ -127,8 +125,7 @@ I think I'm okay now.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S090600000_06_100");
-    MsgDisp("Himuro","Eh...
-Oh, okay.");
+    MsgDisp("Himuro","Eh... Oh, okay.");
     MsgDisp("主人公","It's about time to go home.
 ...Ah, fortune telling.");
     MsgSel("Let's do it","Let's not, it's crowded");

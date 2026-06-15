@@ -17,8 +17,7 @@ MsgDisp("Sassa","Just like Ryota said, you're here!");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("E010220000_01_000");
-MsgDisp("Kazama","Pant...
-Pant...");
+MsgDisp("Kazama","Pant... Pant...");
 ChMouth(1,2);
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","｛Sassa＊＊｝, ｛Kazama＊＊｝!
@@ -57,8 +56,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("E010220000_02_040");
-MsgDisp("Sassa","Huh...
-Ah, that's what you mean.");
+MsgDisp("Sassa","Huh... Ah, that's what you mean.");
 ChEyeOpenLevel(1,0);
 ChEye(2,0);
 ChMouth(2,0);
@@ -84,8 +82,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("E010220000_01_040");
-MsgDisp("Kazama","Huh...
-So, got anything good?");
+MsgDisp("Kazama","Huh... So, got anything good?");
 MsgDisp("主人公","Yeah, I looked at a lot of stuff.");
 ChEye(2,0);
 ChMouth(2,4);

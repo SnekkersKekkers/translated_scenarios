@@ -26,16 +26,16 @@ I came for a tour.");
     ChMotion(3,4,1);
     VoicePlay("P530300001_03_010");
     MsgDisp("Honda","Huh?
-You don't look like you're having much fun
-though.");
+You don't look like you're having much
+fun though.");
     MsgDisp("主人公","Ah, I'm just a little anxious...");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("P530300001_03_020");
     MsgDisp("Honda","Why?
-Everyone likes gaming music, and it's also
-fun.");
+Everyone likes gaming music, and it's
+also fun.");
     ChMotion(3,2,1);
     VoicePlay("P530300001_03_030");
     MsgDisp("Honda","As the one performing, you have to enjoy it
@@ -106,8 +106,7 @@ It makes the game more interesting.");
     MsgDisp("Honda","So, even if you mess up the performance, as
 long as everyone enjoys it in the end, isn't
 that good?");
-    MsgDisp("主人公","Hmmm.
-I guess so...");
+    MsgDisp("主人公","Hmmm. I guess so...");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

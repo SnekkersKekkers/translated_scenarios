@@ -116,8 +116,8 @@ Surely you're kidding?");
     ChMotion(7,3);
     VoicePlay("B030723001_07_090");
     MsgDisp("Mikage","Yeah.
-It's only around for a limited time, so let's
-go.");
+It's only around for a limited time, so
+let's go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -133,8 +133,7 @@ go.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B030723001_07_100");
-    MsgDisp("Mikage","Whoa...
-This has a seriously cool atmosphere.");
+    MsgDisp("Mikage","Whoa... This has a seriously cool atmosphere.");
     break ;
     default :
     DbgAssert(0);

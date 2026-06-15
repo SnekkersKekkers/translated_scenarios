@@ -13,8 +13,8 @@ switch (ChPrmGet(6,6)){
     MsgClose();
     ChOpen(6,253,0,0,0,#1,#1,0,0);
     VoicePlay("B010600002_06_000");
-    MsgDisp("Himuro","Acting ahead of time is the natural thing to
-do.");
+    MsgDisp("Himuro","Acting ahead of time is the natural thing
+to do.");
     MsgDisp("主人公","You're an on-the-dot type, huh?");
     MsgDispSksp(1,0);
     ChEye(6,0);
@@ -74,8 +74,7 @@ Enough, I'm leaving you behind.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);
-    MsgDisp("主人公","Wah!
-I'm sorry, I'm sorry!");
+    MsgDisp("主人公","Wah! I'm sorry, I'm sorry!");
     MsgDispSksp(0);
     break ;
     default :

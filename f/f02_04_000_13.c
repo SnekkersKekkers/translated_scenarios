@@ -35,9 +35,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400013_04_040");
-MsgDisp("Nanatsumori","Huh?
-You don't get it? That desire to see if the
-real thing lives up to your imagination.");
+MsgDisp("Nanatsumori","Huh? You don't get it?
+That desire to see if the real thing lives up
+to your imagination.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);

@@ -21,8 +21,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_030");
 MsgDisp("Hikaru","Right right!
-It's super funny when she gets a question
-wrong!");
+It's super funny when she gets a
+question wrong!");
 MsgDisp("主人公","?");
 ChEye(22,3);
 ChMouth(22,3);
@@ -32,9 +32,9 @@ VoicePlay("F032200000_22_040");
 MsgDisp("Hikaru","When it's a touching documentary, watching
 big sis cry out loud is also super funny.
 And then—");
-MsgDisp("主人公","(When ｛ひかる＊｝ watches TV, she mostly
-enjoys watching ｛みちる＊｝'s reactions
-huh...)");
+MsgDisp("主人公","(When ｛ひかる＊｝ watches TV, she
+mostly enjoys watching ｛みちる＊｝'s
+reactions huh...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

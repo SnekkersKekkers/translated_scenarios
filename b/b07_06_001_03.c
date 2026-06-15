@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_180");
-MsgDisp("Himuro","Both Ryota-senpai and Nozomu-senpai are too
-loud.");
+MsgDisp("Himuro","Both Ryota-senpai and Nozomu-senpai are
+too loud.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);

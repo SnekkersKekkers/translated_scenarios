@@ -17,8 +17,8 @@ switch (ChPrmGet(21,6)){
     ChMouth(21,0);
     ChMotion(21,3);
     VoicePlay("H2A2100001_21_010");
-    MsgDisp("Michiru","You might have lost, but everyone did their
-best.
+    MsgDisp("Michiru","You might have lost, but everyone did
+their best.
 It was truly wonderful. Okay?");
     MsgDisp("主人公","(That's right. We might have lost, but I'm
 glad that I stayed as the track and field
@@ -51,8 +51,8 @@ members who did their best, right?");
     ChMotion(21,3);
     VoicePlay("H2A2100001_21_050");
     MsgDisp("Michiru","Good smile.
-Then, give all the players a pat on the back,
-okay?");
+Then, give all the players a pat on the
+back, okay?");
     MsgDisp("主人公","(｛みちる＊｝...
 We might have lost, but I'm glad that I
 stayed as the track and field club manager!)");

@@ -8,8 +8,7 @@ MsgDisp("主人公","Yeah, it is beautiful...");
 ChMotion(4,2,1);
 VoicePlay("G020410000_04_010");
 MsgDisp("Nanatsumori","I don't want to go back to reality.");
-MsgDisp("主人公","Hehe.
-How come?");
+MsgDisp("主人公","Hehe. How come?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -51,8 +50,8 @@ ChEye(4,4);
 ChEyeOpenLevel(4,10);
 VoicePlay("G020410000_04_080");
 MsgDisp("Nanatsumori","I can't take my eyes off you.");
-MsgDisp("主人公","(｛Nanatsumori＊｝, you're being bolder than
-usual∋
+MsgDisp("主人公","(｛Nanatsumori＊｝, you're being bolder
+than usual∋
 Now I'm nervous too...)");
 BGMStop();
 MsgClose();

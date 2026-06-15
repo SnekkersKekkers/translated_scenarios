@@ -6,8 +6,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","It's almost time for exams.
-｛Hiiragi＊＊＊｝, how have your studies been
-going?");
+｛Hiiragi＊＊＊｝, how have your studies
+been going?");
 ChEye(5,2);
 ChMouth(5,2);
 ChMotion(5,2);
@@ -49,7 +49,7 @@ ChEye(5,2);
 ChMotion(5,2);
 VoicePlay("F020500005_05_050");
 MsgDisp("Hiiragi","After all, even if I end up in remedial
-class, I need to at least know what I don't
-know.");
+class, I need to at least know what I
+don't know.");
 MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ attended school normally,
 I'm sure he'd be great at studying.)");

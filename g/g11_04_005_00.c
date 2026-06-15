@@ -40,8 +40,8 @@ BGMVol(0.5,2);
 ScrFadeIn(0);
 VoicePlay("G110400500_04_030");
 MsgDisp("Nanatsumori","My bad.
-I didn't mean to make this hang out so last
-minute.");
+I didn't mean to make this hang out so
+last minute.");
 MsgDisp("主人公","Don't worry about it.
 What did you want to talk about?");
 ChEye(4,1);
@@ -77,8 +77,7 @@ VoicePlay("G110400500_04_070");
 ChEye(4,1);
 ChMouth(4,2);
 ChMotion(4,1);
-MsgDisp("Nanatsumori","Okay, I figured out how to say it!
-Jeez...");
+MsgDisp("Nanatsumori","Okay, I figured out how to say it! Jeez...");
 VoicePlay("G110400500_04_090");
 ChEye(4,1);
 ChMouth(4,1);

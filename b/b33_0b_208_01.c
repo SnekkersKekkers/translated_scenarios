@@ -28,8 +28,8 @@ ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B330B20801_04_000");
-MsgDisp("Nanatsumori","Having you around just makes it even more
-fun.");
+MsgDisp("Nanatsumori","Having you around just makes it even
+more fun.");
 MsgDisp("主人公","Ugh, you're so mean...");
 ChEye(3,0);
 ChMouth(3,3);

@@ -21,8 +21,7 @@ Sounds interesting.");
 VoicePlay("P840200005_46_000");
 MsgDisp("Girl B","Do you think buying both would be worth it?
 Okay, let's try working together.");
-MsgDisp("主人公","Phew...
-｛Sassa＊＊｝, thanks for saving me.");
+MsgDisp("主人公","Phew... ｛Sassa＊＊｝, thanks for saving me.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

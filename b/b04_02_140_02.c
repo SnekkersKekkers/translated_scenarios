@@ -51,8 +51,7 @@ I don't even sweat this much when I practise.");
         VoicePlay("B040214002_02_040");
         MsgDisp("Sassa","Even you were moving your body quite a lot,
 you know?");
-        MsgDisp("主人公","Eh?
-I didn't notice...");
+        MsgDisp("主人公","Eh? I didn't notice...");
         ChEye(2,3);
         ChMouth(2,4);
         ChMotion(2,0);

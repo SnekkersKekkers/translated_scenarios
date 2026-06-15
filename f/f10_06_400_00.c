@@ -13,8 +13,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100640000_06_010");
-MsgDisp("Himuro","Yeah.
-You?");
+MsgDisp("Himuro","Yeah. You?");
 MsgDisp("主人公","I think I—");
 VoiceEVSPlay(1);
 VoicePlay("F100640000_01_000");

@@ -28,8 +28,7 @@ ChMotion(31,4);
 VoicePlay("P733100000_31_020");
 MsgDisp("Goro","That is your cue to battle.
 Please go forth!");
-MsgDisp("主人公","(Yes!
-Alright, let's believe in ourselves!)");
+MsgDisp("主人公","(Yes! Alright, let's believe in ourselves!)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);

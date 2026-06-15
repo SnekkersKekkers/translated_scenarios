@@ -20,15 +20,15 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C20400_07_000");
 MsgDisp("Mikage","I see.
-Since both of you grew up in Habataki City
-huh.");
+Since both of you grew up in Habataki
+City huh.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B330C20400_05_000");
 MsgDisp("Hiiragi","I've still got a long way to go.
-There's quite a lot of places I haven't been
-yet.");
+There's quite a lot of places I haven't
+been yet.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -59,8 +59,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C20400_05_020");
-MsgDisp("Hiiragi","...Then, I'm rather curious about the swan
-boats.");
+MsgDisp("Hiiragi","...Then, I'm rather curious about the
+swan boats.");
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -109,8 +109,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330C20400_06_040");
-MsgDisp("Himuro","Sigh...
-I only hope that no one saw us.");
+MsgDisp("Himuro","Sigh... I only hope that no one saw us.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -148,8 +147,8 @@ SEPlay("EV_SE_626");
 ChClose(6);
 ChMotion(5,0);
 VoicePlay("B330C20400_06_070");
-MsgDisp("Himuro","Let's take the rowboat instead of the swan
-boat.");
+MsgDisp("Himuro","Let's take the rowboat instead of the
+swan boat.");
 MsgDisp("主人公","(Hehe!
 I wonder if ｛Himuro＊＊｝ was embarrassed about
 the swan boat?)");

@@ -42,8 +42,7 @@ VoicePlay("F100440002_03_020");
 MsgDisp("Honda","That's right.
 Mi-kun has an older sister though.
 He has a different level of experience...");
-MsgDisp("主人公","Hehe.
-Can you tell me too?");
+MsgDisp("主人公","Hehe. Can you tell me too?");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,4,1);
@@ -67,8 +66,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100440002_04_040");
 MsgDisp("Nanatsumori","We're not siblings, but it should work.");
-MsgDisp("主人公","(Ugh...
-I'm curious.)");
+MsgDisp("主人公","(Ugh... I'm curious.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

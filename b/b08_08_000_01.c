@@ -19,8 +19,7 @@ ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2);
 VoicePlay("B080800001_08_010");
-MsgDisp("Shirahane","Hm?
-Isn't that your phone?");
+MsgDisp("Shirahane","Hm? Isn't that your phone?");
 MsgDisp("主人公","Ah, it really is.
 Wait a second okay?");
 SEPlay("SYS_SE_PHONE_POWER_ON");

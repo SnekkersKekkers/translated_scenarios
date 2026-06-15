@@ -26,8 +26,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020430101_04_030");
-MsgDisp("Nanatsumori","Yeah.
-You have a lot of friends too.
+MsgDisp("Nanatsumori","Yeah. You have a lot of friends too.
 You're often surrounded by people like that.");
 ChMotion(4,0,1);
 VoicePlay("G020430101_04_040");
@@ -37,8 +36,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("G020430101_04_050");
-MsgDisp("Nanatsumori","Your smile is sparkling brilliantly, you
-know?");
+MsgDisp("Nanatsumori","Your smile is sparkling brilliantly,
+you know?");
 MsgDisp("主人公","I'm somewhat embarrassed...");
 ChEye(4,4);
 ChMouth(4,3);
@@ -52,8 +51,7 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("G020430101_04_070");
-MsgDisp("Nanatsumori","Nah.
-That's a matter for myself.");
+MsgDisp("Nanatsumori","Nah. That's a matter for myself.");
 MsgDisp("主人公","(Friends...
 I guess I might have a lot of them.)");
 BGMStop();

@@ -23,8 +23,8 @@ Have no regrets—");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("Q090300000_03_020");
-    MsgDisp("Honda","Oh, look, we're wasting time, let's get
-going!");
+    MsgDisp("Honda","Oh, look, we're wasting time, let's
+get going!");
     MsgDisp("主人公","S-Sure!");
     break ;
     case 3:
@@ -35,8 +35,7 @@ going!");
     VoicePlay("Q090300000_03_030");
     MsgDisp("Honda","｛主人公｝, good morning.
 I was waiting for you.");
-    MsgDisp("主人公","Eh?
-｛Honda＊＊｝, how early.");
+    MsgDisp("主人公","Eh? ｛Honda＊＊｝, how early.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -64,16 +63,15 @@ Good morning!");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("Q090300000_03_070");
-    MsgDisp("Honda","Mhmhm, I was so excited, I couldn't sleep at
-all.
+    MsgDisp("Honda","Mhmhm, I was so excited, I couldn't sleep
+at all.
 Like the day before a field trip?");
     MsgDisp("主人公","Hehe, isn't it a school trip?");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("Q090300000_03_080");
-    MsgDisp("Honda","Huh?
-Oh yeah, so it's a field trip?");
+    MsgDisp("Honda","Huh? Oh yeah, so it's a field trip?");
     ChEye(3,1);
     ChMouth(3,3);
     ChMotion(3,1,1);

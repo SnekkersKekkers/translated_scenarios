@@ -5,8 +5,8 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040406202_04_000");
-MsgDisp("Nanatsumori","I could stay here all day and never get
-bored.");
+MsgDisp("Nanatsumori","I could stay here all day and never
+get bored.");
 MsgSel("It's a bit chilly in a swimsuit, isn't it?","You might need a table and chair.","I'll join you▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +29,8 @@ I wouldn't know where to look.");
     ChMotion(4,1,1);
     VoicePlay("B040406202_04_020");
     MsgDisp("Nanatsumori","Sounds nice.
-If there was a fluffy sofa, I wouldn't move
-again.");
+If there was a fluffy sofa, I wouldn't
+move again.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -90,8 +90,7 @@ The person I like...");
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040406202_04_090");
-        MsgDisp("Nanatsumori","Crap.
-I'm already daydreaming...");
+        MsgDisp("Nanatsumori","Crap. I'm already daydreaming...");
         MsgDisp("主人公","???");
         ChEye(4,4);
         ChMouth(4,3);

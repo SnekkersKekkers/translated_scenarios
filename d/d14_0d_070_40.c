@@ -5,8 +5,7 @@ ChMotion(22,4,1);
 VoicePlay("D140D07040_22_000");
 MsgDisp("Hikaru","Hey, hey did you see this month's Habatcher
 feature on Minoru-kun's accessories?");
-MsgDisp("主人公","Eh?
-I haven't seen it yet...");
+MsgDisp("主人公","Eh? I haven't seen it yet...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
@@ -18,8 +17,7 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,10);
 VoicePlay("D140D07040_22_010");
-MsgDisp("Hikaru","Huh?
-Is that so?");
+MsgDisp("Hikaru","Huh? Is that so?");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,5);

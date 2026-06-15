@@ -24,8 +24,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("D020800800_08_020");
-MsgDisp("Shirahane","Ah...
-Yeah!
+MsgDisp("Shirahane","Ah... Yeah!
 Please.");
 MsgClose();
 ScrFadeOut(0);
@@ -58,8 +57,7 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,10);
 VoicePlay("D020800800_08_060");
-MsgDisp("Shirahane","...I...
-...I have a goal.");
+MsgDisp("Shirahane","...I... ...I have a goal.");
 MsgDisp("主人公","A goal?");
 VoicePlay("D020800800_08_070");
 MsgDisp("Shirahane","Yeah.

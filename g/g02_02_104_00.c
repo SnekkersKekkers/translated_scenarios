@@ -39,8 +39,8 @@ ChMouth(2,2);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020210400_02_050");
-MsgDisp("Sassa","Somehow, everyone cheered for him to beat
-me...");
+MsgDisp("Sassa","Somehow, everyone cheered for him to
+beat me...");
 MsgDisp("主人公","That must have been a complicated feeling...");
 ChEye(2,0);
 ChMouth(2,0);
@@ -53,9 +53,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G020210400_02_070");
-MsgDisp("Sassa","I almost thought of letting him win, but when
-it comes to competition, I definitely want to
-win.");
+MsgDisp("Sassa","I almost thought of letting him win, but
+when it comes to competition, I definitely
+want to win.");
 MsgDisp("主人公","Yeah, I think that's so like you,
 ｛Sassa＊＊｝.
 It's a good thing.");

@@ -51,8 +51,8 @@ ChMotion(8,0,1);
 ChCheek(8,9);
 VoicePlay("L060800001_08_040");
 MsgDisp("Shirahane","No problem.
-Ah, it's embarrassin', so open it later,
-'kay?");
+Ah, it's embarrassin', so open it
+later, 'kay?");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);

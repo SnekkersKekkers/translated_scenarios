@@ -7,10 +7,8 @@ ChMouth(4,2);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B020401001_04_000");
-MsgDisp("Nanatsumori","Sigh...～
-What a waste.");
-MsgDisp("主人公","Huh?
-Is my swimsuit weird?");
+MsgDisp("Nanatsumori","Sigh...～ What a waste.");
+MsgDisp("主人公","Huh? Is my swimsuit weird?");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,0);

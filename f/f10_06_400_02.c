@@ -18,8 +18,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("F100640002_01_010");
-MsgDisp("Kazama","Eh...
-Inori?");
+MsgDisp("Kazama","Eh... Inori?");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -61,15 +60,14 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F100640002_06_040");
-MsgDisp("Himuro","Even so, it's still okay for me to help,
-right?");
+MsgDisp("Himuro","Even so, it's still okay for me to
+help, right?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F100640002_01_050");
-MsgDisp("Kazama","...Geez.
-Go quickly.");
+MsgDisp("Kazama","...Geez. Go quickly.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -80,8 +78,8 @@ SEPlay("EV_SE_856");
 MsgClose();
 ChClose(6,0,30);
 ChClose(1,0,30);
-MsgDisp("主人公","(Umm...so are both of you going to help
-me...?)");
+MsgDisp("主人公","(Umm...so are both of you going to
+help me...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

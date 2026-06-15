@@ -20,8 +20,8 @@ ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B330B10200_04_000");
 MsgDisp("Nanatsumori","Eh?
-Crap, aren't the little ones going to get
-eaten?");
+Crap, aren't the little ones going to
+get eaten?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,3);

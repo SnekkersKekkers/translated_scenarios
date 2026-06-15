@@ -11,6 +11,5 @@ VoicePlay("B060100005_01_000");
 MsgDisp("Kazama","...I know that you like this place.");
 MsgDispSksp(1,#1);
 ChMotion(1,0);
-MsgDisp("主人公","(Ah!
-I invited him here last time too!)");
+MsgDisp("主人公","(Ah! I invited him here last time too!)");
 MsgDispSksp(0);

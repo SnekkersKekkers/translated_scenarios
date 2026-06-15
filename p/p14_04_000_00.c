@@ -20,8 +20,8 @@ VoicePlay("P140400000_04_020");
 MsgDisp("Nanatsumori","Ah, the freshly-squeezed milk.
 Did you get it?");
 MsgDisp("主人公","Yes, congratulations!
-The freshly squeezed milk is laid out over
-there.");
+The freshly squeezed milk is laid out
+over there.");
 MsgClose();
 ChClose(4,0,30);
 VoicePlay("P140400000_04_030");

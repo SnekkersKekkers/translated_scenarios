@@ -32,8 +32,7 @@ Maybe I should take note of that.)");
     StlEye(21,3);
     StlMouth(21,0);
     VoicePlay("U130D00001_21_010");
-    MsgDisp("Michiru","Hehe.
-He looks at Mari differently lately.");
+    MsgDisp("Michiru","Hehe. He looks at Mari differently lately.");
     MsgDisp("主人公","Eh, he does?");
     StlEye(21,0);
     VoicePlay("U130D00001_21_020");
@@ -78,8 +77,8 @@ act towards Mari.");
     StlCheek(22,0);
     VoicePlay("U130D00001_22_040");
     MsgDisp("Hikaru","He's a rare type of boy these days.
-Where did that brave star of track and field
-go∋");
+Where did that brave star of track and
+field go∋");
     StlEyeOpenLevel(21,0,1);
     VoicePlay("U130D00001_21_040");
     MsgDisp("Michiru","Isn't that because he's thinking carefully
@@ -89,8 +88,7 @@ about how he should treat and cherish Mari?");
     StlEyeOpenLevel(22,0,1);
     StlMouth(22,2);
     VoicePlay("U130D00001_22_050");
-    MsgDisp("Hikaru","Geez...
-He acts like a dad!");
+    MsgDisp("Hikaru","Geez... He acts like a dad!");
     StlEyeOpenLevel(22,5,1);
     MsgDisp("主人公","(Like a dad, huh...
 It's true, when I'm with ｛Sassa＊＊｝ I feel
