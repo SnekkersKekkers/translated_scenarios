@@ -1,0 +1,344 @@
+name: Build and Release Scenarios Fast
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_rebuild:
+        description: 'Force rebuild all files'
+        type: boolean
+        default: false
+      max_parallel:
+        description: 'Compiler worker count'
+        type: string
+        default: '8'
+
+env:
+  TOOLS_REPO: SnekkersKekkers/tmgsscenariospipeline
+  ASSETBUNDLES_REPO: SnekkersKekkers/original_jp_assetbundles
+  DOMAIN: TMGS4
+
+jobs:
+  build-and-release-fast:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout scripts repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        path: scripts
+
+    - name: Checkout scenario tools
+      uses: actions/checkout@v4
+      with:
+        repository: ${{ env.TOOLS_REPO }}
+        path: tools
+        token: ${{ secrets.PAT_TOKEN }}
+
+    - name: Checkout original asset bundles
+      uses: actions/checkout@v4
+      continue-on-error: true
+      with:
+        repository: ${{ env.ASSETBUNDLES_REPO }}
+        path: original_assetbundles
+        token: ${{ secrets.PAT_TOKEN }}
+        ref: main
+
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v2
+
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v2
+
+    - name: Setup .NET 6.0 for UnityAssetReplacer
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '6.0.x'
+
+    - name: Restore NuGet packages
+      working-directory: tools/tmgsscenariotools
+      run: nuget restore TMGSScenarioTools.sln
+
+    - name: Build fast scenario compiler
+      working-directory: tools/tmgsscenariotools
+      run: msbuild FastCLI/FastCLI.csproj /p:Configuration=Release /p:Platform=AnyCPU /restore
+
+    - name: Create output directories
+      shell: pwsh
+      run: |
+        New-Item -ItemType Directory -Force -Path "output/bytes" | Out-Null
+        New-Item -ItemType Directory -Force -Path "output/assetbundles" | Out-Null
+
+    - name: Restore cached bytes
+      uses: actions/cache/restore@v4
+      id: cache-restore
+      with:
+        path: output/bytes
+        key: fast-compiled-bytes-${{ hashFiles('scripts/**/*.c', 'tools/tmgsscenariotools/**/*.cs', 'tools/tmgsscenariotools/**/*.csproj', 'tools/tmgsscenariotools/**/*.ebnf') }}
+        restore-keys: |
+          fast-compiled-bytes-
+
+    - name: Determine files to compile
+      id: files-to-compile
+      shell: pwsh
+      run: |
+        $forceRebuild = "${{ inputs.force_rebuild }}" -eq "true"
+        $exactCacheHit = "${{ steps.cache-restore.outputs.cache-hit }}" -eq "true"
+        $cacheCommitFile = "output/bytes/.cache-commit"
+
+        $allCFiles = @(Get-ChildItem -Path "scripts" -Recurse -Filter "*.c" -File)
+        $filesToCompile = New-Object System.Collections.Generic.List[object]
+
+        Write-Host "Total .c files in repo: $($allCFiles.Count)"
+        Write-Host "Exact cache hit: $exactCacheHit"
+        Write-Host "Force rebuild: $forceRebuild"
+
+        $cachedNames = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::OrdinalIgnoreCase)
+        Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes" -File -ErrorAction SilentlyContinue | ForEach-Object {
+          [void]$cachedNames.Add($_.BaseName)
+        }
+        Write-Host "Cached .bytes files: $($cachedNames.Count)"
+
+        if ($forceRebuild) {
+          foreach ($file in $allCFiles) { $filesToCompile.Add($file) }
+        } elseif ($exactCacheHit) {
+          foreach ($file in $allCFiles) {
+            if (-not $cachedNames.Contains($file.BaseName)) {
+              $filesToCompile.Add($file)
+            }
+          }
+        } elseif ($cachedNames.Count -gt 0 -and (Test-Path $cacheCommitFile)) {
+          $baseCommit = (Get-Content $cacheCommitFile).Trim()
+          Write-Host "Partial cache from commit: $baseCommit"
+
+          $seen = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::OrdinalIgnoreCase)
+          $changedFiles = git -C scripts diff --name-only $baseCommit HEAD -- '*.c' 2>$null
+          if ($changedFiles) {
+            if ($changedFiles -is [string]) { $changedFiles = @($changedFiles) }
+            foreach ($changed in $changedFiles) {
+              $fullPath = Join-Path "scripts" $changed
+              if ((Test-Path $fullPath) -and $seen.Add((Resolve-Path $fullPath).Path)) {
+                $filesToCompile.Add((Get-Item $fullPath))
+              }
+            }
+          }
+
+          foreach ($file in $allCFiles) {
+            if (-not $cachedNames.Contains($file.BaseName) -and $seen.Add($file.FullName)) {
+              $filesToCompile.Add($file)
+            }
+          }
+        } else {
+          foreach ($file in $allCFiles) { $filesToCompile.Add($file) }
+        }
+
+        $filesToCompile |
+          ForEach-Object { $_.FullName } |
+          Set-Content -Path "to_compile.txt" -Encoding UTF8
+
+        echo "count=$($filesToCompile.Count)" >> $env:GITHUB_OUTPUT
+        Write-Host "Total files to compile: $($filesToCompile.Count)"
+
+    - name: Compile scripts to bytes
+      shell: pwsh
+      run: |
+        $toCompileCount = [int]"${{ steps.files-to-compile.outputs.count }}"
+        if ($toCompileCount -eq 0) {
+          Write-Host "All files already cached, nothing to compile."
+          exit 0
+        }
+
+        $cliPath = (Resolve-Path "tools/tmgsscenariotools/FastCLI/bin/Release/TMGSScenarioFastCLI.exe").Path
+        $outputDir = (Resolve-Path "output/bytes").Path
+        $maxParallel = [int]"${{ inputs.max_parallel }}"
+
+        & $cliPath "${{ env.DOMAIN }}" "scripts" $outputDir --file-list "to_compile.txt" --force --quiet --max-parallel $maxParallel
+        if ($LASTEXITCODE -ne 0) {
+          exit $LASTEXITCODE
+        }
+
+    - name: Write cache commit marker
+      shell: pwsh
+      run: |
+        "${{ github.sha }}" | Out-File -FilePath "output/bytes/.cache-commit" -NoNewline
+
+    - name: Save compiled bytes cache
+      uses: actions/cache/save@v4
+      if: steps.cache-restore.outputs.cache-hit != 'true'
+      with:
+        path: output/bytes
+        key: fast-compiled-bytes-${{ hashFiles('scripts/**/*.c', 'tools/tmgsscenariotools/**/*.cs', 'tools/tmgsscenariotools/**/*.csproj', 'tools/tmgsscenariotools/**/*.ebnf') }}
+
+    - name: Verify compilation output
+      shell: pwsh
+      run: |
+        $cFiles = Get-ChildItem -Path "scripts" -Recurse -Filter "*.c" | Measure-Object
+        $bytesFiles = Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes" | Measure-Object
+
+        Write-Host "Source .c files: $($cFiles.Count)"
+        Write-Host "Compiled .bytes files: $($bytesFiles.Count)"
+
+        if ($bytesFiles.Count -eq 0) {
+          Write-Error "No .bytes files found."
+          exit 1
+        }
+
+        if ($bytesFiles.Count -lt $cFiles.Count) {
+          Write-Host "Warning: Expected $($cFiles.Count) .bytes files, found $($bytesFiles.Count)."
+        }
+
+    - name: Restore cached asset bundles
+      uses: actions/cache/restore@v4
+      id: cache-assetbundles-restore
+      with:
+        path: output/assetbundles
+        key: fast-compiled-assetbundles-${{ hashFiles('scripts/**/*.c', 'tools/tmgsscenariotools/**/*.cs', 'tools/tmgsscenariotools/**/*.csproj', 'tools/tmgsscenariotools/**/*.ebnf', 'tools/UnityAssetReplacer/**') }}
+        restore-keys: |
+          fast-compiled-assetbundles-
+
+    - name: Create asset bundles
+      shell: pwsh
+      continue-on-error: true
+      run: |
+        $assetReplacer = (Resolve-Path "tools/UnityAssetReplacer/UnityAssetReplacer.exe" -ErrorAction SilentlyContinue).Path
+
+        if (-not $assetReplacer) {
+          Write-Host "UnityAssetReplacer not found. Skipping asset bundle creation."
+          exit 0
+        }
+
+        if (-not (Test-Path "original_assetbundles")) {
+          Write-Host "Original asset bundles not available. Skipping asset bundle creation."
+          exit 0
+        }
+
+        $availableBundles = @{}
+        Get-ChildItem -Path "original_assetbundles" -Recurse -Filter "*.assetbundle" | ForEach-Object {
+          $availableBundles[$_.BaseName] = $_.FullName
+        }
+
+        $cachedBundles = @{}
+        Get-ChildItem -Path "output/assetbundles" -Recurse -Filter "*.assetbundle" -ErrorAction SilentlyContinue | ForEach-Object {
+          $cachedBundles[$_.BaseName] = $_
+        }
+
+        $workItems = @()
+        $cached = 0
+        $skipped = 0
+        foreach ($bytesFile in Get-ChildItem -Path "output/bytes" -Recurse -Filter "*.bytes") {
+          $name = $bytesFile.BaseName
+          if (-not $availableBundles.ContainsKey($name)) {
+            $skipped++
+            continue
+          }
+
+          $cachedBundle = $cachedBundles[$name]
+          if ($cachedBundle -and $cachedBundle.LastWriteTime -ge $bytesFile.LastWriteTime) {
+            $cached++
+            continue
+          }
+
+          $folder = if ($name -match '^([a-z]+)') { $matches[1] } else { "other" }
+          $workItems += [PSCustomObject]@{
+            Name = $name
+            Folder = $folder
+            BytesDir = $bytesFile.DirectoryName
+            OriginalBundle = $availableBundles[$name]
+          }
+        }
+
+        Write-Host "Asset bundles to process: $($workItems.Count)"
+        Write-Host "Asset bundles from cache: $cached"
+        Write-Host "Skipped without matching original: $skipped"
+
+        if ($workItems.Count -eq 0) {
+          exit 0
+        }
+
+        $outputBase = (Resolve-Path "output/assetbundles").Path
+        $workItems | ForEach-Object { $_.Folder } | Sort-Object -Unique | ForEach-Object {
+          New-Item -ItemType Directory -Force -Path "$outputBase/$_" | Out-Null
+        }
+
+        $maxParallel = [int]"${{ inputs.max_parallel }}"
+        $results = $workItems | ForEach-Object -Parallel {
+          $item = $_
+          $assetReplacer = $using:assetReplacer
+          $outputBase = $using:outputBase
+          $outFile = "$outputBase/$($item.Folder)/$($item.Name).assetbundle"
+
+          try {
+            $null = & $assetReplacer -b $item.OriginalBundle -m "m_Script" -i $item.BytesDir -o $outFile 2>&1
+            [PSCustomObject]@{ Name = $item.Name; Success = (Test-Path $outFile); Error = $null }
+          } catch {
+            [PSCustomObject]@{ Name = $item.Name; Success = $false; Error = $_.ToString() }
+          }
+        } -ThrottleLimit $maxParallel
+
+        $failed = @($results | Where-Object { -not $_.Success })
+        if ($failed.Count -gt 0) {
+          Write-Host "Asset bundle failures:"
+          $failed | ForEach-Object { Write-Host "  $($_.Name): $($_.Error)" }
+        }
+
+        Write-Host "Created asset bundles: $(($results | Where-Object { $_.Success }).Count)"
+
+    - name: Save compiled asset bundles cache
+      uses: actions/cache/save@v4
+      if: steps.cache-assetbundles-restore.outputs.cache-hit != 'true'
+      with:
+        path: output/assetbundles
+        key: fast-compiled-assetbundles-${{ hashFiles('scripts/**/*.c', 'tools/tmgsscenariotools/**/*.cs', 'tools/tmgsscenariotools/**/*.csproj', 'tools/tmgsscenariotools/**/*.ebnf', 'tools/UnityAssetReplacer/**') }}
+
+    - name: Generate release tag
+      id: tag
+      shell: pwsh
+      run: |
+        $timestamp = Get-Date -Format "yyyy.MM.dd-HHmmss"
+        $shortSha = "${{ github.sha }}".Substring(0, 7)
+        $tag = "vfast-$timestamp-$shortSha"
+        echo "tag=$tag" >> $env:GITHUB_OUTPUT
+
+    - name: Create release archive
+      shell: pwsh
+      run: |
+        New-Item -ItemType Directory -Force -Path "release/scenarios_bytes" | Out-Null
+        New-Item -ItemType Directory -Force -Path "release/scenarios_assetbundles" | Out-Null
+
+        Get-ChildItem -Path "output/bytes" -Directory | ForEach-Object {
+          Copy-Item -Recurse $_.FullName -Destination "release/scenarios_bytes/"
+        }
+
+        Push-Location "release"
+        Compress-Archive -Path "scenarios_bytes/*" -DestinationPath "../translated_bytes_fast.zip" -Force
+        Pop-Location
+
+        $assetBundleCount = (Get-ChildItem "output/assetbundles" -Recurse -File -ErrorAction SilentlyContinue | Measure-Object).Count
+        if ($assetBundleCount -gt 0) {
+          Get-ChildItem -Path "output/assetbundles" -Directory | ForEach-Object {
+            Copy-Item -Recurse $_.FullName -Destination "release/scenarios_assetbundles/"
+          }
+          Push-Location "release"
+          Compress-Archive -Path "scenarios_assetbundles/*" -DestinationPath "../translated_assetbundles_fast.zip" -Force
+          Pop-Location
+        }
+
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: ${{ steps.tag.outputs.tag }}
+        name: Fast Release ${{ steps.tag.outputs.tag }}
+        body: |
+          Experimental fast build from commit ${{ github.sha }}
+
+          Files compiled this run: ${{ steps.files-to-compile.outputs.count }}
+          Compiler workers: ${{ inputs.max_parallel }}
+        files: |
+          translated_bytes_fast.zip
+          translated_assetbundles_fast.zip
+        draft: false
+        prerelease: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
