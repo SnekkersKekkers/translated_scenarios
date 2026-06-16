@@ -18,7 +18,7 @@ switch (ChPrmGet(3,6)){
     MsgDisp("主人公","Yeah, what's up?");
     VoicePlay("J040300001_03_010");
     MsgDisp("Honda","It's this Sunday, are you free?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand...");
+    MsgSel("Yeah, I'm free.", "I have something else to do...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

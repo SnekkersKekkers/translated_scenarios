@@ -66,7 +66,7 @@ So, what can I do for you?");
     VoicePlay("J040200000_02_050");
     MsgDisp("Sassa","Yes, it's important.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.","I'm not available that day...");
+    MsgSel("Yeah, I'm free.","I have something else to do...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

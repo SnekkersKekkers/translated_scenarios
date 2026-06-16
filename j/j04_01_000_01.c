@@ -20,7 +20,7 @@ What's up?");
     VoicePlay("J040100001_01_010");
     MsgDisp("Kazama","So, about this Sunday—
 Are you free?");
-    MsgSel("Yeah, I'm free.","I have some business to take care of...");
+    MsgSel("Yeah, I'm free.","I have something else to do...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;
@@ -58,7 +58,7 @@ Maybe I did something bad...)");
     MsgDisp("Kazama","Nothing in particular.
 I was just wondering if you're free
 this Sunday.");
-    MsgSel("Yeah, I'm free.","I have some business to take care of...");
+    MsgSel("Yeah, I'm free.","I have something else to do...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

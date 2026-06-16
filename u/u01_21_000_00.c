@@ -23,7 +23,7 @@ Are you free to talk right now?");
     MsgDisp("Michiru","I know it's sudden but...
 Would you like to go to the shopping mall
 with me?");
-    MsgSel("Yeah, let's go!","Sorry but I can't...");
+    MsgSel("Yeah, let's go!","Sorry. Today isn't good...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("U012100000_21_020");

@@ -7,7 +7,7 @@ ChMotion(4,0);
 VoicePlay("B060400013_04_000");
 MsgDisp("Nanatsumori","...If you're still good on time, could you
 stay with me a bit longer?");
-MsgSel("Yeah, that's fine.","Sorry, today's a bit...");
+MsgSel("Sure, that's fine.","Sorry, today's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,3);

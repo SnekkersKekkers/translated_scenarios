@@ -5,7 +5,7 @@ ChCheek(2,10);
 VoicePlay("B060200013_02_000");
 MsgDisp("Sassa","Hey, you know...
 Do you have a bit more time?");
-MsgSel("Sure, it's fine","Sorry, today's a bit...");
+MsgSel("Sure, that's fine.","Sorry, today's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,3);

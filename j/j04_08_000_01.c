@@ -23,7 +23,7 @@ What's up?");
     MsgDisp("Shirahane","Hey, I was wondering what your plans are for
 this comin' Sunday.
 Are ya free?");
-    MsgSel("Yeah, I'm free.", "I had some business to attend to...");
+    MsgSel("Yeah, I'm free.", "I have something else to do...");
     switch (MsgSelRsltGet()){
         case 0:
         break ;

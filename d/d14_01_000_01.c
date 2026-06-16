@@ -5,7 +5,7 @@ ChMotion(1,0);
 VoicePlay("D140100000_01_010");
 MsgDisp("Kazama","We're going to the school cafeteria, are you
 coming too?");
-MsgSel("Yeah, let's go!","Sorry, I'd like to be by myself today.");
+MsgSel("Yeah, let's go!","Sorry, I want to be alone today.");
 switch (MsgSelRsltGet()){
     case 0:
     break ;

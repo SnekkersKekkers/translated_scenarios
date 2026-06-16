@@ -69,7 +69,7 @@ What's wrong?");
     VoicePlay("J040300000_03_050");
     MsgDisp("Honda","Yeah, listen.
 Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I have to run an errand...");
+    MsgSel("Yeah, I'm free.", "I have something else to do...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEyeOpenLevel(3,#1);

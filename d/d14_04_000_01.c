@@ -4,7 +4,7 @@ VoicePlay("D140400000_04_010");
 MsgDisp("Nanatsumori","We're going to the school cafeteria
 for lunch.
 Do you wanna come with us?");
-MsgSel("Yeah, let's go!","Sorry, I'd like to be by myself for today.");
+MsgSel("Yeah, let's go!","Sorry, I want to be alone today.");
 switch (MsgSelRsltGet()){
     case 0:
     break ;
