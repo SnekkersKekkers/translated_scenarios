@@ -16,7 +16,7 @@ You came to look?");
     VoicePlay("N020600001_06_010");
     MsgDisp("Himuro","I wanted to see what you got.
 Well... it's not bad.");
-    MsgDisp("主人公","(Alright…
+    MsgDisp("主人公","(Alright...
 I'm glad I worked hard.)");
     break ;
     case 3:

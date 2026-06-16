@@ -3,7 +3,7 @@ SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("I520000000_49_000");
 MsgDisp("Manager","Thank you for calling.
-This is Princess Tsubaki Japanese Sweets.");
+This is Himetsubakiya Japanese Sweets.");
 MsgDisp("主人公","I'm calling about your help wanted ad for the
 part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
@@ -20,6 +20,6 @@ Well, we're looking forward to it.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","I'll be working part-time every week at
-Princess Tsubaki Japanese Sweets on Tuesday
+Himetsubakiya Japanese Sweets on Tuesday
 and Thursday. I'll do my best!");
 MsgClose();

@@ -41,7 +41,7 @@ I'll have to work hard at this job!)");
     Wait(15,0);
     ChOpen(21,35,0,0,0,#1,#1,0,0);
     VoicePlay("I532100000_21_030");
-    MsgDisp("Michiru","Mari. Welcome to Princess Tsubaki.");
+    MsgDisp("Michiru","Mari. Welcome to Himetsubakiya.");
     MsgDisp("主人公","Huh, ｛みちる＊｝?
 You work here?");
     ChEye(21,4);

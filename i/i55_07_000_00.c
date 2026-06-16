@@ -30,7 +30,7 @@ My part-time visits.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("I550700000_07_030");
-    MsgDisp("Mikage","Princess Tsubaki, Habataki Books, Simon...
+    MsgDisp("Mikage","Himetsubakiya, Habataki Books, Simon...
 Everyone works part-time in so many
 different places.");
     MsgDisp("主人公","So you're going around visiting everyone?");
@@ -156,7 +156,7 @@ Then, you help me out too.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("I550700000_07_180");
-    MsgDisp("Mikage","Let's have a little Princess Tsubaki party in
+    MsgDisp("Mikage","Let's have a little Himetsubakiya party in
 the science prep room, yeah?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

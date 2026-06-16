@@ -50,4 +50,4 @@ ChEyeOpenLevel(6,0);
 VoicePlay("F020600011_06_050");
 MsgDisp("Himuro","Geez...");
 MsgDisp("主人公","(He's gets really sensitive whenever his
-family is mentioned…)");
+family is mentioned...)");

@@ -13,7 +13,7 @@ ChOpen(8,255,4,2,2,#1,#1,0,1);
 ChOpen(9,35,0,0,0,#1,#1,0,2);
 VoicePlay("E010830000_08_010");
 MsgDisp("Daichi","Ya, I get that, but still!
-It messed me over too, y'know…");
+It messed me over too, y'know...");
 VoicePlay("E010830000_09_010");
 ChEye(9,3);
 ChMouth(9,0);

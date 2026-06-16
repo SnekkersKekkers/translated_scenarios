@@ -109,7 +109,7 @@ tension left me.");
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_110");
     MsgDisp("Nanatsumori","Nah, not in a bad way.
-It's like… healing?
+It's like... healing?
 A kind of feel-good vibe.");
     MsgDisp("主人公","Really?");
     ChEye(4,0);
