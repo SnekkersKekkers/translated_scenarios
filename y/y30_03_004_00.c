@@ -50,12 +50,12 @@ MsgDisp("","When I said that, their eyes changed.
 I couldn't see Mi-kun's well though.");
 MsgDisp("","Yes, Mi-kun.
 What do you think?
-I point my finger like a teacher");
+I point my finger like a teacher.");
 MsgClear();
 VoicePlay("Y300300400_04_020");
 MsgDisp("Nanatsumori","\"Why me....
 Well, I mean she's well attuned with
-trends\"");
+trends.\"");
 VoicePlay("Y300300400_01_020");
 MsgDisp("Kazama","\"No, rather than trends, she's the
 type of person to like traditional

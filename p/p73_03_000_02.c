@@ -52,7 +52,7 @@ You look too real.");
     ChMotion(3,4,1);
     VoicePlay("P730300002_03_050");
     MsgDisp("Honda","Sending you off like this makes me feel like
-I'm your father");
+I'm your father.");
     MsgDisp("主人公","(Hehe!
 This is my last show, I have to finish off
 these last three years well!)");

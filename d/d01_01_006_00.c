@@ -45,7 +45,7 @@ But I managed to get to the auction in time.
 I wonder what's happening here...?)");
 VoicePlay("D010100600_01_000");
 MsgDisp("Kazama?","—Charity Auction Catalogue: Collection
-Number 1");
+Number 1.");
 MsgDisp("主人公","(Huh? That voice, that's...)");
 StlOpen("ev_01_13");
 StlEye(1,0);

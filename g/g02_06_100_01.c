@@ -25,7 +25,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610001_06_030");
 MsgDisp("Himuro","I wonder what we'll be doing by then.");
-MsgDisp("主人公","Hhmmm");
+MsgDisp("主人公","Hmm...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

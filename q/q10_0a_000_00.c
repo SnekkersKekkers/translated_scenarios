@@ -87,7 +87,7 @@ ChOpen(2,254,4,0,4,7,#1,0,2,0,30);
 ScrFadeIn(0);
 VoicePlay("Q100A00000_02_060");
 MsgDisp("Sassa","Well, I guess the search for the heart stone
-ends in a draw");
+ends in a draw.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

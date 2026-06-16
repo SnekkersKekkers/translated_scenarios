@@ -99,7 +99,7 @@ VoicePlay("E010330200_07_060");
 MsgDisp("Mikage","But I might end up borrowing something too.
 It's hard to ignore his recommendations,
 you know?");
-MsgDisp("主人公","Ah... That certainly sounds...difficult");
+MsgDisp("主人公","Ah... That certainly sounds...difficult.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

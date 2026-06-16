@@ -1,5 +1,5 @@
 MsgDisp("","｛Kazama＊＊｝ and ｛Nanatsumori＊｝ laugh
-every time they see us talking together");
+every time they see us talking together.");
 MsgDisp("","\"Well, it's just kind of funny, you know?\"
 ｛Kazama＊＊｝ said, dumbfounded. \"I
 wouldn't say funny, but you can keep up

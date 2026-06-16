@@ -29,7 +29,7 @@ a long time.");
     ChMotion(8,3,1);
     VoicePlay("S120800004_08_020");
     MsgDisp("Shirahane","Thanks for being nice to me, I guess.
-Alright then, see ya");
+Alright then, see ya.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(8,0,30);

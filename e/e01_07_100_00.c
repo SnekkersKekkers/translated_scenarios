@@ -4,7 +4,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Well, then.
 I think it's time to head home.)");
 VoicePlay("E010710000_07_000");
-MsgDisp("Mikage?","Hey");
+MsgDisp("Mikage?","Hey.");
 MsgDisp("主人公","Hm? That voice...");
 MsgClose();
 BGMPlay("BGM_C07_MIKAGE_A",0.01);

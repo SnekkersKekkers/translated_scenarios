@@ -18,7 +18,7 @@ ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("T020701030_07_020");
-MsgDisp("Mikage","I was acting spoiled until the end");
+MsgDisp("Mikage","I was acting spoiled until the end.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

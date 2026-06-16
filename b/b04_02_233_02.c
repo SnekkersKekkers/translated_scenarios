@@ -29,7 +29,7 @@ I wonder why?");
     ChEyeOpenLevel(2,0);
     VoicePlay("B040223302_02_020");
     MsgDisp("Sassa","Yeah, next time I want to jump at the
-same time");
+same time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

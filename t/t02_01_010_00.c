@@ -119,7 +119,7 @@ VoicePlay("T020101000_01_130");
 MsgDisp("Kazama","I couldn't bring myself to tell him I was
 staying here.
 But I...finally told him.");
-MsgDisp("主人公","...Yeah");
+MsgDisp("主人公","...Yeah.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);

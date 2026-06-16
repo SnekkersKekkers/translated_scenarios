@@ -75,7 +75,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D140A06100_02_050");
-MsgDisp("Sassa","That goes for me too, you know");
+MsgDisp("Sassa","That goes for me too, you know.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

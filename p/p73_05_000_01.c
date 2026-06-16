@@ -96,7 +96,7 @@ times as you want.");
     VoicePlay("P730500001_05_100");
     MsgDisp("Hiiragi","I'm also a bit of an actor, so I can tell
 right away whether I can charm the audience
-on stage");
+on stage.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
     ChEye(5,0);
     ChMotion(5,0);

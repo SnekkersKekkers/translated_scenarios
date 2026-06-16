@@ -19,7 +19,7 @@ MsgDisp("","Is it okay to be conceited?");
 MsgDisp("","A successful high school model.
 I...it's not an exaggeration to say
 that there isn't a high school
-student who doesn't know me, NANA");
+student who doesn't know me, NANA.");
 MsgDisp("","I was enveloped in an indescribable
 sense of excitement.");
 MsgClear();
@@ -101,7 +101,7 @@ MsgDisp("","The staff scattered, stepping away.
 The studio instantly fell quiet.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
-MsgDisp("主人公","\"Good work\"");
+MsgDisp("主人公","\"Good work.\"");
 MsgDisp("","She walked up to me, her eyes still
 sparkling as she offered me a coffee
 cup with steam rising out of it.");

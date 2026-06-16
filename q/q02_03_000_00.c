@@ -113,7 +113,7 @@ about the spots we tour?)");
         VoicePlay("Q020300000_03_100");
         MsgDisp("Honda","Oh...is that so?
 I was assuming it would be the two of us
-going around together");
+going around together.");
         ChEye(3,4);
         ChMouth(3,3);
         ChMotion(3,0,1);

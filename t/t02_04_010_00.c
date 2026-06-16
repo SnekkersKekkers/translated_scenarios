@@ -45,7 +45,7 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020401000_04_060");
-MsgDisp("Nanatsumori","...I'm sorry");
+MsgDisp("Nanatsumori","...I'm sorry.");
 MsgDisp("主人公","No, no.");
 ChEye(4,4);
 ChMouth(4,4);

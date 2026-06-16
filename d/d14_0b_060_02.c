@@ -36,7 +36,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D140B06002_03_010");
 MsgDisp("Honda","That's?
-Please continue");
+Please continue.");
 MsgDisp("主人公","Do I have to say it?");
 ChEyeOpenLevel(1,0);
 ChEye(3,2);

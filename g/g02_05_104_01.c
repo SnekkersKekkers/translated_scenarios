@@ -39,7 +39,7 @@ ChEye(5,4);
 VoicePlay("G020510401_05_070");
 MsgDisp("Hiiragi","My father used to often say that, when he got
 drunk, he'd passionately talk to me about
-theories of theatre");
+theories of theatre.");
 ChMotion(5,4);
 VoicePlay("G020510401_05_080");
 MsgDisp("Hiiragi","At that time, I would pay no mind to it, but

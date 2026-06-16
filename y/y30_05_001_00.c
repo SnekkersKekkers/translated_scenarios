@@ -39,7 +39,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("B050500300_05_040");
 MsgDisp("Hiiragi","\"Cheers\"");
-MsgDisp("主人公","\"Hehe, cheers\"");
+MsgDisp("主人公","\"Hehe, cheers.\"");
 SEPlay("EV_SE_730");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・

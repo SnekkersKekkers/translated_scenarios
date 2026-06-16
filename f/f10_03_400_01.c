@@ -86,7 +86,7 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("F100340001_04_010");
 MsgDisp("Nanatsumori","So, what do you need?");
-MsgDisp("主人公","Umm");
+MsgDisp("主人公","Umm.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

@@ -5,7 +5,7 @@ ChOpen(7,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P650700003_07_000");
 MsgDisp("Mikage","Sigh...did you see the customer's faces?
-Everyone had a bitter look");
+Everyone had a bitter look.");
 MsgDisp("主人公","Ahhh... It must've been no good...");
 ChEye(7,2);
 ChMouth(7,0);

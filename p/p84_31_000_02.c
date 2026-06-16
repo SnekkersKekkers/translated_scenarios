@@ -6,7 +6,7 @@ VoicePlay("P843100002_31_000");
 MsgDisp("Goro","You're truly amazing.");
 MsgDisp("主人公","That's...
 Goro-sensei was the one who shared his
-portion of takoyaki with me");
+portion of takoyaki with me.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);

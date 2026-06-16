@@ -22,7 +22,7 @@ ChEyeOpenLevel(2,0);
 VoicePlay("P640200004_02_020");
 MsgDisp("Sassa","It went extraordinarily well with the
 vegetables. I think if you sold the dressing
-too, it would be super popular");
+too, it would be super popular.");
 MsgDisp("主人公","Yay! I'm happy that ｛Sassa＊＊｝ likes it.");
 ChEye(2,0);
 ChMouth(2,4);

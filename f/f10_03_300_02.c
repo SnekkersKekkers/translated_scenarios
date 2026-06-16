@@ -16,7 +16,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100330002_03_010");
 MsgDisp("Honda","Yup, I'm meeting up with Chiru-chan and
-Pika-chan");
+Pika-chan.");
 MsgDisp("主人公","Eh?");
 VoicePlay("F100330002_22_000");
 MsgDisp("Hikaru?","Honda-kun! Mari!");

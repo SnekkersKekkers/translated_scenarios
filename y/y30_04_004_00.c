@@ -5,7 +5,7 @@ ScrFadeIn(0);
 MsgDisp("","It's finally lunch time.");
 MsgDisp("","I wonder how many more reactions I've
 gotten on the photo I posted this
-morning");
+morning.");
 MsgDisp("","I check my phone, and access my
 social media.");
 MsgClear();

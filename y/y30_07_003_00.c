@@ -43,7 +43,7 @@ VoicePlay("Y300700300_07_020");
 MsgDisp("Mikage","\"I don't mind?
 Then, bring some bulbs here next
 time.\"");
-MsgDisp("主人公","\"I'll bring them now\"");
+MsgDisp("主人公","\"I'll bring them now.\"");
 MsgDisp("","Haha, is she walking to get them?
 She really is a funny person.");
 SEPlay("EV_SE_672",0,0.6);

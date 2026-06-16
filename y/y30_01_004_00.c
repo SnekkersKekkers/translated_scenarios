@@ -57,9 +57,9 @@ MsgDisp("","With my comment, even Honda started
 getting ready to leave, dusting off
 his uniform pants as he stood up.");
 VoicePlay("Y300100400_03_010");
-MsgDisp("Honda","\"Ah—, there she is!
+MsgDisp("Honda","\"Ah, there she is!
 Ryo-kun, Mi-kun, look!
-Over here\"");
+Over here!\"");
 MsgClear();
 MsgDisp("","Honda called out to us while holding
 onto the handrails of the rooftop.");

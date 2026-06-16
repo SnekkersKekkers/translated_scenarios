@@ -45,7 +45,7 @@ ChMotion(7,1);
 VoicePlay("G020740001_07_050");
 MsgDisp("Mikage","Ah, since it's come to this, I wonder if I
 should try requesting using Vice Principal
-Himuro's name");
+Himuro's name.");
 MsgDisp("主人公","Eh? Won't you get scolded if you find out?");
 ChEye(7,0);
 ChMouth(7,0);

@@ -17,7 +17,7 @@ ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,0);
 MsgDisp("Himuro","I was prepared for this all along...
-That this might be the end");
+That this might be the end.");
 VoicePlay("T020620000_06_120");
 ChEye(6,4);
 ChMouth(6,4);

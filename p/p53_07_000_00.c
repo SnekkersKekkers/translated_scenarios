@@ -105,7 +105,7 @@ already a success.");
     VoicePlay("P530700000_07_110");
     MsgDisp("Mikage","All that's left is for you to be satisfied
 with yourself.
-Come on, go enjoy it");
+Come on, go enjoy it.");
     MsgDisp("主人公","(Yeah, it's just as ｛Mikage＊＊｝ says.
 Let's go enjoy it!)");
     MsgClose();

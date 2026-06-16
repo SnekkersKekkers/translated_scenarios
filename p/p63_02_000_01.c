@@ -95,7 +95,7 @@ Thank you.");
     ChMotion(2,0);
     VoicePlay("P630200001_02_080");
     MsgDisp("Sassa","Then I'll have a vegetables that's like you,
-and a herbal tea please");
+and a herbal tea please.");
     MsgDisp("主人公","Hehe, yes.
 Then, follow me to your table.");
     MsgClose();

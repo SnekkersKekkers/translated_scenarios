@@ -58,7 +58,7 @@ ChMotion(3,1);
 VoicePlay("G110300100_03_060");
 MsgDisp("Honda","Yes, it was a change of perspective!
 I thought about what it would be like to look
-for this book if I were a customer");
+for this book if I were a customer.");
 VoicePlay("G110300100_03_070");
 MsgDisp("Honda","Then I found it immediately.");
 ChEye(3,0);

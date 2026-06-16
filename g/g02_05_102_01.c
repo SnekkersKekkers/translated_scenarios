@@ -18,7 +18,7 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("G020510201_05_030");
 MsgDisp("Hiiragi","I want memories of you as someone special,
-not just as a classmate");
+not just as a classmate.");
 MsgDisp("主人公","Someone special...");
 ChEye(5,3);
 ChMotion(5,0);

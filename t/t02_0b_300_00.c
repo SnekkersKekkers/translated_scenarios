@@ -143,7 +143,7 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020B21000_04_030");
 MsgDisp("Nanatsumori","Today is the last day.");
-MsgDisp("主人公","Right...today is the last day");
+MsgDisp("主人公","Right...today is the last day.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -230,7 +230,7 @@ ChEyeOpenLevel(3,0);
 VoicePlay("T020B21000_03_070");
 MsgDisp("Honda","Yes yes, I heard you had arrived.
 Now, let's look back on the last three
-years together");
+years together.");
 ChEye(1,2);
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);

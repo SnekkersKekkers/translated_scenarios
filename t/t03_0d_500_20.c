@@ -1,5 +1,5 @@
 MsgDisp("","They both contact me from time to time in
-between their busy schedules");
+between their busy schedules.");
 MsgDisp("","When ｛みちる＊｝ comes back from
 abroad, the three of us get together
 for a girls' sleepover!");

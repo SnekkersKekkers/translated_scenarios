@@ -32,7 +32,7 @@ switch (MsgSelRsltGet()){
         ChMotion(5,4);
         VoicePlay("B040502302_05_030");
         MsgDisp("Hiiragi","You won't know if it's a mushroom unless you
-ask the artist");
+ask the artist.");
         MsgDisp("主人公","Ah, that's right.
 My apologies.");
         ChEye(5,4);

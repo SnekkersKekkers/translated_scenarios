@@ -49,7 +49,7 @@ MsgDisp("","Seems like I was too late...");
 MsgClear();
 VoicePlay("Y300400500_46_000");
 MsgDisp("Nana Sis","\"Hello～!
-Nice to meet you, I'm his sister\"");
+Nice to meet you, I'm his sister.\"");
 MsgDisp("","The final boss abruptly appears —
 With a smile, she introduces herself
 to my sister.");

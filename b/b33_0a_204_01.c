@@ -67,7 +67,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("B330A20401_06_020");
-MsgDisp("Himuro","...\"Angel Road\"");
+MsgDisp("Himuro","...\"Angel Road.\"");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

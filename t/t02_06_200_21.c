@@ -5,7 +5,7 @@ ChMouth(6,1);
 ChMotion(6,5);
 VoicePlay("T020620000_06_170");
 MsgDisp("Himuro","...∋");
-MsgDisp("主人公","That...is my answer");
+MsgDisp("主人公","That...is my answer.");
 VoicePlay("T020620000_06_180");
 ChEye(6,1);
 ChMouth(6,1);

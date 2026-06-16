@@ -119,7 +119,7 @@ ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("D140A03400_06_060");
 MsgDisp("Himuro","It's nothing.
-I don't really mind, you know");
+I don't really mind, you know.");
 MsgDisp("主人公","(Let's all get along and have lunch,
 okay...?)");
 BGMStop();

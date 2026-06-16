@@ -34,7 +34,7 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020510001_05_060");
 MsgDisp("Hiiragi","The student council also has a pending box,
-so let's put this there");
+so let's put this there.");
 MsgDisp("主人公","(I wonder what ｛Hiiragi＊＊＊｝ is intending to
 write and post in the pending box...)");
 BGMStop();

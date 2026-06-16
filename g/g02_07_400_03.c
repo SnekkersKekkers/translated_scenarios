@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020740003_07_000");
 MsgDisp("Mikage","Did I tell you about Molly?");
-MsgDisp("主人公","Yes On the day of the entrance ceremony, you
-even drew a picture on the blackboard");
+MsgDisp("主人公","Yes. On the day of the entrance ceremony, you
+even drew a picture on the blackboard.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

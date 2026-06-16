@@ -220,7 +220,7 @@ ChEyeOpenLevel(1,10);
 MsgClose();
 ScrFadeOut(0,0,30);
 SEPlay("EV_SE_505");
-MsgDisp("","Chuu");
+MsgDisp("","(Smooch)");
 MsgDisp("主人公","∋");
 ChEye(1,4);
 ChMouth(1,3);

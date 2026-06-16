@@ -34,15 +34,15 @@ MsgDisp("","The quiet voices of the female
 students rippled across the
 classroom.");
 MsgDisp("","\"That's a lie! There won't be a
-school play?\" \"That's unheard of\"
-\"No, we worked so hard to prepare\"");
+school play?\" \"That's unheard of\.\"
+\"No, we worked so hard to prepare.\"");
 MsgClear();
 VoicePlay("Y300700200_07_010");
 MsgDisp("Mikage","\"Everyone prepared for this right?
 Don't give up so easily.\"");
-MsgDisp("","\"Even if you say that, Mikagecchi\"
+MsgDisp("","\"Even if you say that, Mikagecchi.\"
 \"We can't just memorise the lines
-now\"");
+now.\"");
 MsgDisp("","The students said that all at once.
 It's a matter of memorising the
 lines...");

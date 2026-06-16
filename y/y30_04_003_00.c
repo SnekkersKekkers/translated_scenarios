@@ -100,7 +100,7 @@ MsgDisp("","The reason I drop by \"Cafe Alucard\"
 so frequently.");
 MsgDisp("","It's true it's because it's close to
 my work though, but I also like this
-'soothing' quality");
+'soothing' quality.");
 MsgDisp("","It's not in the least because I come
 to see her, it's not for that kind of
 impure reason.");

@@ -20,7 +20,7 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020320001_03_030");
 MsgDisp("Honda","So now, I'm honestly confused by this new
-feeling inside me");
+feeling inside me.");
 MsgDisp("主人公","｛Honda＊＊｝, are you jealous of someone?");
 ChEye(3,2);
 ChMouth(3,0);

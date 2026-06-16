@@ -73,7 +73,7 @@ chances of success will increase.");
     ChMotion(7,1);
     VoicePlay("P530700001_07_070");
     MsgDisp("Mikage","You have a mysterious power to make those
-around you feel at ease");
+around you feel at ease.");
     MsgDisp("主人公","Eh, don't you have that power?");
     ChEye(7,0);
     ChMouth(7,0);

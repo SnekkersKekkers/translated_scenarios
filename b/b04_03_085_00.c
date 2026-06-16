@@ -26,7 +26,7 @@ catch them, you know?");
     ChMotion(3,2);
     VoicePlay("B040308500_03_020");
     MsgDisp("Honda","Right now they're trying very hard to catch
-food in the water");
+food in the water.");
     MsgDateResultDisp();
     break ;
     case 2:

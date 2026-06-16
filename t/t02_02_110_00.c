@@ -126,7 +126,7 @@ ChMotion(2,0);
 VoicePlay("T020211000_02_150");
 MsgDisp("Sassa","The only time both sides of me; the
 annoying track-and-field fanatic and that
-regular high school student overlapped");
+regular high school student overlapped.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);

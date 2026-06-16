@@ -78,7 +78,7 @@ some fortune telling?");
         VoicePlay("B040330002_03_060");
         MsgDisp("Honda","Yep yep, yeah, I like the concept based on
 the Five Elements theory and I've read quite
-a few books on it");
+a few books on it.");
         ChMotion(3,4);
         VoicePlay("B040330002_03_070");
         MsgDisp("Honda","But it's more about compatibility, I think.

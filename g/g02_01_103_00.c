@@ -62,7 +62,7 @@ MsgClose();
 ScrFadeOut(0,0,30);
 EfctClose();
 SEPlay("EV_SE_505");
-MsgDisp("","kiss");
+MsgDisp("","(Smooch)");
 ChLayout(1);
 ChEye(1,0);
 ChMouth(1,3);

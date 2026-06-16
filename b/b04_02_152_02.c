@@ -91,7 +91,7 @@ to the side.");
         VoicePlay("B040215202_02_060");
         MsgDisp("Sassa","Yeah, yeah it was perfect.
 Alright, keep it up for the next one!");
-        MsgDisp("主人公","(Hehe. ｛Sassa＊＊｝ taught me well)");
+        MsgDisp("主人公","(Hehe. ｛Sassa＊＊｝ taught me well.)");
         break ;
         default :
         DbgAssert(1);

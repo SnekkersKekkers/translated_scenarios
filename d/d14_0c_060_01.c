@@ -28,7 +28,7 @@ ChMotion(7,1);
 VoicePlay("D140C06001_07_000");
 MsgDisp("Mikage","Aaah, he'll probably say something like \"You
 can't even have a proper conversation
-without me\"");
+without me.\"");
 ChMotion(5,4,1);
 ChEyeOpenLevel(5,9);
 VoicePlay("D140C06001_05_020");

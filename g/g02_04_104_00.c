@@ -9,7 +9,7 @@ account.");
 MsgDisp("主人公","Umm...which one?");
 VoicePlay("G020410400_04_010");
 MsgDisp("Nanatsumori","Not NANA.
-The one where I pose as a girl");
+The one where I pose as a girl.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -19,7 +19,7 @@ ScrFadeIn(0);
 ChMouthOpenLevel(5,0);
 VoicePlay("G110500801_05_000");
 MsgDisp("Hiiragi","......");
-MsgDisp("主人公","Ah...hehe");
+MsgDisp("主人公","Ah...hehe.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is dozing off?
 He seems tired.
 Maybe I'll close his laptop...)");

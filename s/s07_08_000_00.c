@@ -29,7 +29,7 @@ in line!");
     VoicePlay("S070800000_08_020");
     MsgDisp("Shirahane","There are so many people.
 Just what I'd expect from New Year's.");
-    MsgDisp("主人公","Yeah");
+    MsgDisp("主人公","Yeah.");
     ChEye(8,0);
     ChMouth(8,0);
     VoicePlay("S070800000_08_030");

@@ -26,7 +26,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P740500005_05_020");
 MsgDisp("Hiiragi","You looked so beautiful wearing a
-wedding dress");
+wedding dress.");
 ChEye(5,4);
 VoicePlay("P740500005_05_030");
 MsgDisp("Hiiragi","It was difficult to resist the urge to go to

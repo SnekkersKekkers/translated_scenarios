@@ -14,7 +14,7 @@ ScrFadeIn(0);
 VoicePlay("G110300400_03_000");
 MsgDisp("Honda","A new edition of 'The Path of First Love'
 came out.");
-MsgDisp("主人公","Yeah, it's getting more and more popular");
+MsgDisp("主人公","Yeah, it's getting more and more popular.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

@@ -26,7 +26,7 @@ ChMotion(5,0);
 VoicePlay("G020530100_05_040");
 MsgDisp("Hiiragi","If someone like you became student council
 president, Haba High would become even more
-wonderful");
+wonderful.");
 MsgDisp("主人公","Ehh, me as student council president?");
 ChEye(5,0);
 ChMotion(5,4);

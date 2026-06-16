@@ -70,7 +70,7 @@ Even if I put my mind to it—");
 SEVol(0.7);
 SEPlay("EV_SE_GAYA_016",0,0.3);
 SEPlay("EV_SE_864",0,0.8);
-MsgDisp("主人公","(Hehe! Everyone is excited about \"NANA\")");
+MsgDisp("主人公","(Hehe! Everyone is excited about \"NANA.\")");
 VoicePlay("D010400500_39_120");
 MsgDisp("Student C","Hey, Nanatsumori.");
 StlEye(4,1);

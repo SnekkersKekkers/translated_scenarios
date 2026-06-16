@@ -36,7 +36,7 @@ VoicePlay("G020430201_04_050");
 MsgDisp("Nanatsumori","You know, when I see so many fireflies like
 this, I can't help but think that some people
 might end up living a life... like insects.");
-MsgDisp("主人公","I- I see");
+MsgDisp("主人公","I- I see.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -50,7 +50,7 @@ ChMotion(4,2,1);
 VoicePlay("G020430201_04_070");
 MsgDisp("Nanatsumori","I'm a bit slow at making those, so I wonder
 if I'll struggle from now on—...
-Sigh");
+Sigh.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);

@@ -60,7 +60,7 @@ but I'm completely—");
         ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
         ChMotion(4,4,1);
         VoicePlay("B040401102_04_040");
-        MsgDisp("Nanatsumori","Shh");
+        MsgDisp("Nanatsumori","Shh.");
         MsgDisp("主人公","∈");
         ChEye(4,0);
         ChMouth(4,0);

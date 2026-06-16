@@ -50,7 +50,7 @@ ChMotion(3,2);
 VoicePlay("G020330201_03_070");
 MsgDisp("Honda","But unfortunately, it was just that one time.
 They asked me to understand their position
-too, so");
+too, so.");
 MsgDisp("主人公","(He got asked by the teacher to understand
 their position...
 That's so typical of ｛Honda＊＊｝ huh?)");

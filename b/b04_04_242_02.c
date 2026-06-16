@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B040424202_04_000");
-MsgDisp("Nanatsumori","Phew—. Shall we go for a walk after eating?");
+MsgDisp("Nanatsumori","Phew. Shall we go for a walk after eating?");
 MsgSel("Sounds good, let's go!","I still don't want to move...","Walk...?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -75,7 +75,7 @@ Alright, open up....");
         MsgDisp("主人公","(Hehe, he seems happy.)");
         VoicePlay("B040424202_04_090");
         MsgDisp("Nanatsumori","I'm happy...");
-        MsgDisp("主人公","Hehe");
+        MsgDisp("主人公","Hehe.");
         VoiceEVSPlay(4);
         VoicePlay("B040424202_04_100");
         MsgDisp("Nanatsumori","｛主人公｝...");
