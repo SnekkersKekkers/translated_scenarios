@@ -15,7 +15,7 @@ It's from ｛Kazama＊＊｝.");
     MsgDisp("主人公","Hehe, Happy New Year.");
     VoicePlay("S040100000_01_010");
     MsgDisp("Kazama","Let's go and visit the shrine.");
-    MsgSel("Sure, let's go!","Sorry, I'm a bit...");
+    MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040100000_01_020");

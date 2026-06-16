@@ -27,7 +27,7 @@ Mhm, yes I did.
     MsgDisp("Honda","Me too.
 As the well-slept duo, let's go together for
 today's free period!");
-    MsgSel("Sure, I'm coming!","Sorry, it's just...");
+    MsgSel("Yeah, let's go!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(3,3);

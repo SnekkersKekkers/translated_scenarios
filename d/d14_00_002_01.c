@@ -1,3 +1,3 @@
-MsgDisp("主人公","(Today I'll try the ｛学食メニュ—｝.)");
+MsgDisp("主人公","(Today I'll try the ｛学食メニュー｝.)");
 MsgClose();
 ScrFadeOut(0);

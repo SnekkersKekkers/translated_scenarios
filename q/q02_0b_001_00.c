@@ -28,7 +28,7 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("Q020B00100_01_010");
 MsgDisp("Kazama","You're coming, right?");
-MsgSel("Yes, I'm coming!","Sorry, it's just...");
+MsgSel("Yeah, let's go!","Sorry, it's just...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(4,0);

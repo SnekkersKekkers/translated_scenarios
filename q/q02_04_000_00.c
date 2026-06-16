@@ -19,7 +19,7 @@ switch (ChPrmGet(4,6)){
     VoicePlay("Q020400000_04_010");
     MsgDisp("Nanatsumori","For today's free period, do you wanna come
 with me?");
-    MsgSel("Sure, I'm coming!","Sorry, it's just...");
+    MsgSel("Yeah, let's go!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(4,0);

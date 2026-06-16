@@ -22,7 +22,7 @@ Good morning!");
     VoicePlay("Q020200000_02_010");
     MsgDisp("Sassa","What's your plan for today?
 Let's spend the free period together.");
-    MsgSel("Sure, let's go!","Sorry, it's just...");
+    MsgSel("Yeah, let's go!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);

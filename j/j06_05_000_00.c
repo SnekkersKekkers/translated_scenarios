@@ -1,7 +1,7 @@
 ChEyeOpenLevel(5,#1);
 ChMouthOpenLevel(5,#1);
 ChCheek(5,0);
-MsgSel("Yeah, I'm coming!","Uhm, sorry...");
+MsgSel("Yeah, let's go!","Uhm, sorry...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){

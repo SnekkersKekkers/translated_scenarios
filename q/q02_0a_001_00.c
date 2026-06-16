@@ -26,7 +26,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q020A00100_02_010");
 MsgDisp("Sassa","Wanna walk around together?");
-MsgSel("Yeah, sure!","Sorry, I...");
+MsgSel("Yeah, let's go!","Sorry, I...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(1,3);

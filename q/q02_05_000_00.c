@@ -25,7 +25,7 @@ Yes, and you ｛Hiiragi＊＊＊｝?");
     VoicePlay("Q020500000_05_020");
     MsgDisp("Hiiragi","Would you mind spending the free period today
 with me?");
-    MsgSel("Sure, I'm coming!","Sorry, it's just...");
+    MsgSel("Yeah, let's go!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,4);

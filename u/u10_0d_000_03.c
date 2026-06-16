@@ -12,7 +12,7 @@ MsgDisp("主人公","What's up, ｛ひかる＊｝?");
 VoicePlay("U100D00003_22_010");
 MsgDisp("Hikaru","You should have girl talk tonight with Hikaru
 and sis!♪");
-MsgSel("Ok, I'll come!","Sorry, I'm busy...");
+MsgSel("Yeah, let's go!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U100D00003_22_020");

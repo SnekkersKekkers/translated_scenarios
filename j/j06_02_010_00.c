@@ -1,4 +1,4 @@
-MsgSel("Yeah, I'm coming!","Uhm, sorry...");
+MsgSel("Yeah, let's go!","Uhm, sorry...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(2,6)){

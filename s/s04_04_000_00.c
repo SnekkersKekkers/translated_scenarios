@@ -62,7 +62,7 @@ inviting me, did I do something wrong...)");
     VoicePlay("S040400000_04_070");
     MsgDisp("Nanatsumori","I want us to go to the shrine together.
 What do you think?");
-    MsgSel("Sure, let's go!","Sorry, I can't...");
+    MsgSel("Yeah, let's go!","Sorry, I can't...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040400000_04_080");
