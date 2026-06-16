@@ -10,7 +10,7 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,0);
     VoicePlay("B060400012_04_000");
-    MsgDisp("Nanatsumori","I'll walk you.");
+    MsgDisp("Nanatsumori","I'll escort you home.");
     MsgDispSksp(0);
     break ;
     case 3:
