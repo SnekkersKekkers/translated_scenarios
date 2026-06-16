@@ -2,7 +2,7 @@ BGOpen("wf400",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(...Huh? The event hall is packed...)");
-MsgDisp("主人公","(\"Charity Auction Ongoing!\" , huh...
+MsgDisp("主人公","(\"Charity Auction Ongoing!\", huh...
 Wow, it's free to enter!)");
 VoicePlay("D010100600_31_000");
 MsgDisp("Goro?","You, wait a minute.");

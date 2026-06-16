@@ -52,7 +52,7 @@ MsgClear();
 VoicePlay("Y300300100_03_020");
 MsgDisp("Honda","\"Yep yep, I look forward to it!
 Well then.
-Ammonite-kun, I'll come again \"");
+Ammonite-kun, I'll come again\"");
 BGMStop();
 MsgClear();
 MsgClose();

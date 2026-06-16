@@ -79,7 +79,7 @@ MsgDisp("","Right. Lately after work,
 I just have sweets for dinner.");
 MsgDisp("","And that's why they made this choice.");
 MsgClear();
-MsgDisp("","\"Biscuit Kingdom \" in particular was
+MsgDisp("","\"Biscuit Kingdom\" in particular was
 a nice choice.");
 MsgDisp("","On top of the lightly-salted
 biscuits, there's fruits, there's

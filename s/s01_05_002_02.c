@@ -1,3 +1,3 @@
-MsgDisp("主人公","This is ｛Hiiragi＊＊＊｝'s .
+MsgDisp("主人公","This is ｛Hiiragi＊＊＊｝'s.
 Thank goodness, the theatre seems to be doing
 well. I will support them again this year...");
