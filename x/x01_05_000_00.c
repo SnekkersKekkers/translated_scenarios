@@ -5,7 +5,7 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I tried my best this week!)");
 ChOpen(5,254,0,0,3,#1,#1,0,0);
 VoicePlay("X010500000_05_000");
-MsgDisp("Hiiragi","Even I feel as though I've become smarter.
+MsgDisp("Hiiragi","I feel as though you've become smarter.
 I respect how you have established your own
 study methods.");
 MsgDisp("主人公","(Yay!)");
