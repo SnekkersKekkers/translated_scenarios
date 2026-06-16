@@ -91,7 +91,8 @@ You often hear about game cheats, right?");
     ChMotion(3,3,1);
     VoicePlay("P530300001_03_090");
     MsgDisp("Honda","It seems like there are many cases where
-they're just mistakes made during development.");
+they're just mistakes made during
+development.");
     MsgDisp("主人公","Ehhh, is that so?");
     ChEye(3,0);
     ChMouth(3,3);

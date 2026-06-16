@@ -2,7 +2,7 @@ BGOpen("ho210",0);
 SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("I420000000_49_000");
-MsgDisp("Manager","Yes, this is Annalee Flower Shop.");
+MsgDisp("Manager","Yes, this is Flower Shop Annalee.");
 MsgDisp("主人公","I'm calling about your help wanted ad for the
 part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・

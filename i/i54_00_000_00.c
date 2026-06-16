@@ -12,7 +12,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("I540000000_49_010");
 MsgDisp("Manager","Oh my, I see...
-I feel bad for Michiru- No, it's nothing.");
+I feel bad for Michir—No, it's nothing.");
 VoicePlay("I540000000_49_020");
 MsgDisp("Manager","Thank you for your hard work until now.");
 MsgDisp("主人公","Thank you for looking after me. Bye...");

@@ -20,6 +20,6 @@ Well, we're looking forward to it.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","I'll be working part-time every week at
-Himetsubakiya Japanese Sweets on Tuesday
-and Thursday. I'll do my best!");
+Himetsubakiya Japanese Sweets on Tuesday and
+Thursday. I'll do my best!");
 MsgClose();

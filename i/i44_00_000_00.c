@@ -2,7 +2,7 @@ BGOpen("ho210",0);
 SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("I440000000_49_000");
-MsgDisp("Manager","Yes, this is Annalee Flower Shop.");
+MsgDisp("Manager","Yes, this is Flower Shop Annalee.");
 MsgDisp("主人公","It's ｛主人公苗字｝.
 I apologise, but I'd like to quit my
 part-time job...");
@@ -15,6 +15,5 @@ Feel free to come back if the chance arises.");
 MsgDisp("主人公","Thank you for looking after me. Bye...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("","(I quit my part-time job at Annalee
-Flower Shop.)");
+MsgDisp("","(I quit my part-time job at Flower Shop Annalee.)");
 MsgClose();
