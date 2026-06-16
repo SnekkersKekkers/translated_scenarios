@@ -8,7 +8,7 @@ VoicePlay("B030524001_05_000");
 MsgDisp("Hiiragi","Even though we're close to the city, the
 atmosphere is completely different.
 Where should we go?");
-MsgSel("Are there animals?","Want to head to the campsite?");
+MsgSel("I wonder if there are animals?","Want to head to the campsite?");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

@@ -16,7 +16,7 @@ hosting a school play.
 Would you like to join?");
 MsgDisp("主人公","(There's also a club exhibition, I wonder
 what I should do...)");
-MsgSel("I'll focus on the club exhibition","I'll participate in the school play");
+MsgSel("Focus on the Club Exhibition","Participate in the school play");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("P200000001_45_020");

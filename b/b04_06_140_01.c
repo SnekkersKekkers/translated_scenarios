@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040614001_06_000");
 MsgDisp("Himuro","Each time I come here, my heart starts
 thudding.");
-MsgSel("You get palpitations?","That felt like a shock to the system to me.","Really, are you okay?");
+MsgSel("You get palpitations?","That felt like a shock to the system to me.","A-Are you alright?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

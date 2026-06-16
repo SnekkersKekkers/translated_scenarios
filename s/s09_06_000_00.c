@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("S090600000_06_010");
     MsgDisp("Himuro","Aah. ...Would you like to draw one?");
-    MsgSel("Let's do it","Let's not, it's crowded");
+    MsgSel("Let's do it","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(6,2);
@@ -68,7 +68,7 @@ Next year it may be better to come visit at a
 later time.");
     MsgDisp("主人公","After this, let's...
 Ah, fortune telling.");
-    MsgSel("Let's do it","Let's not, it's crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(6,0);
@@ -128,7 +128,7 @@ I think I'm okay now.");
     MsgDisp("Himuro","Eh... Oh, okay.");
     MsgDisp("主人公","It's about time to go home.
 ...Ah, fortune telling.");
-    MsgSel("Let's do it","Let's not, it's crowded");
+    MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(6,2);

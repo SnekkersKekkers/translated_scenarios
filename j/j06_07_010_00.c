@@ -1,4 +1,4 @@
-MsgSel("Yes, I understand. ","I'm sorry. I'll pass.");
+MsgSel("Yes, I understand.","I'm sorry. I'll pass.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Let's see, the meeting place is the

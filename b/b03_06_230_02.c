@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B030623002_06_000");
 MsgDisp("Himuro","There will be a night parade soon.
 Want to watch?");
-MsgSel("Yeah, I want to.","Sorry, not today...");
+MsgSel("Yeah, I want to watch.","Sorry, not today...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

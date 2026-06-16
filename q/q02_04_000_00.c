@@ -70,7 +70,7 @@ Good morning.");
     VoicePlay("Q020400000_04_070");
     MsgDisp("Nanatsumori","Wanna hang out during the free period
 together?");
-    MsgSel("Sure, I'm coming!","Sorry, it's just...");
+    MsgSel("Yeah, let's go!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(4,3);

@@ -17,7 +17,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4);
     VoicePlay("J040300000_03_010");
     MsgDisp("Honda","Hey. Are you free this Sunday?");
-    MsgSel("Yeah, I'm free.", "I'm not available that day...");
+    MsgSel("Yeah, I'm free.", "I'll be a bit busy that day...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEyeOpenLevel(3,#1);

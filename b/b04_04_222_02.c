@@ -9,7 +9,7 @@ ChMotion(4,1,1);
 VoicePlay("B040422202_04_000");
 MsgDisp("Nanatsumori","We keep ending up here, huh...
 Do you like this place?");
-MsgSel("Yeah, I do!","Not really...","If I'm with ｛Nanatsumori＊｝▼");
+MsgSel("Yeah, I like it!","Not really...","If I'm with ｛Nanatsumori＊｝▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

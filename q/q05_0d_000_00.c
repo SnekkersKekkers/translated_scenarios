@@ -22,7 +22,7 @@ ChMotion(22,4,1);
 VoicePlay("Q050D00000_22_010");
 MsgDisp("Hikaru","Hey, for today's free period, wanna come
 with us?");
-MsgSel("Yeah, sure!","Eh...sorry.");
+MsgSel("Yeah, sounds good!","Eh...sorry.");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);

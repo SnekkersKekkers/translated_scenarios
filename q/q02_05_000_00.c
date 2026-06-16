@@ -97,7 +97,7 @@ everyone else.");
     MsgDisp("Hiiragi","While I'm riding this high, I'd like to ask
 you something. Would you like to join me for
 today's free period?");
-    MsgSel("Yes, let's go!","Sorry, I...");
+    MsgSel("Yeah, let's go!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,4);

@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160300000_03_000");
 MsgDisp("Honda","What's going on with me...
 My heart's thumping like crazy.");
-MsgSel("Mine too...","Are you feeling sick?");
+MsgSel("Me too...","Are you feeling sick?");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(3,3);

@@ -41,7 +41,7 @@ but I guess nobody's up for it.");
     ChMotion(7,0);
     VoicePlay("Q020700000_07_030");
     MsgDisp("Mikage","Oh, are you interested?");
-    MsgSel("Yes, I would love to come!","Um, I'll pass.");
+    MsgSel("Yes, please!","Um, I'll pass.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(7,0);

@@ -8,7 +8,7 @@ MsgDisp("Nanatsumori","Pretty old-school, huh.
 I mean, for a hangout spot for us.");
 VoicePlay("B030422000_04_010");
 MsgDisp("Nanatsumori","Castle or exhibit, which do you want to see?");
-MsgSel("I want to see the castle tower","Let's go to the Exhibition Corner.");
+MsgSel("I want to see the Castle Tower.","Let's go to the Exhibition Corner.");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

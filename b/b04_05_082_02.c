@@ -9,7 +9,7 @@ VoicePlay("B040508202_05_000");
 MsgDisp("Hiiragi","They say you can hear the other person's
 inner thoughts here.
 What do you think?");
-MsgSel("Seems interesting!","Might be a bit scary.","I think it's a lie.");
+MsgSel("Seems interesting!","It might be a bit scary.","I think it's a lie.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

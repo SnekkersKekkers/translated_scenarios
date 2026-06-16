@@ -18,7 +18,7 @@ VoicePlay("Q212200000_22_010");
 MsgDisp("Hikaru","Aha▼
 It looks like the pillow fight is about to
 start. Wanna go?");
-MsgSel("Yeah, let's go!","I think we shouldn't...");
+MsgSel("Yeah, let's go!","I don't think we should...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(22,3);

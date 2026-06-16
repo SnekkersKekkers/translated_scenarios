@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040824202_08_000");
 MsgDisp("Shirahane","If we did this at night, we could have a
 campfire...");
-MsgSel("It's definitely fun even during the day!","Won't that be dangerous?","I'm not really into causing a ruckus...");
+MsgSel("It's definitely fun even during the day!","Is it dangerous?","I'm not really into causing a ruckus...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

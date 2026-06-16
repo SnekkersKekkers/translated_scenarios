@@ -6,7 +6,7 @@ VoicePlay("B040608101_06_000");
 MsgDisp("Himuro","\"I wish to die in the spring, under the
 cherry blossoms. On the second month of the
 lunar calendar, when there is a full moon.");
-MsgSel("Umm...?","Why on the second month of the lunar calendar?","Don't die!");
+MsgSel("Uhmm....?","Why on the second month of the lunar calendar?","Don't die!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

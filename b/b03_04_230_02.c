@@ -14,7 +14,7 @@ VoicePlay("B030423002_04_000");
 MsgDisp("Nanatsumori","There's a night parade after this.
 What do you want to do?
 Want to watch?");
-MsgSel("Yeah, I want to watch","Sorry, not today...");
+MsgSel("Yeah, I want to watch.","Sorry, not today...");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);

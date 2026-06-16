@@ -11,7 +11,7 @@ VoicePlay("B040501001_05_000");
 MsgDisp("Hiiragi","Ah, that's nice.
 How about wearing clothes like this once in
 a while?");
-MsgSel("You're right, I think I should buy it!","Is that so...","It doesn't suit me!");
+MsgSel("You're right, I think I should buy it!","I wonder about that...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

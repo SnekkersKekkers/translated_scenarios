@@ -6,7 +6,7 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408402_04_000");
 MsgDisp("Nanatsumori","Hm—...it feels super nice today.");
-MsgSel("It's a perfectly clear autumn day.","Should we do some exercise?","It's an indian summer.");
+MsgSel("It's a perfectly clear autumn day.","Should we do some exercise?","It's a nice Indian Summer.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

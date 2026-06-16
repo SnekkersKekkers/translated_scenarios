@@ -64,7 +64,7 @@ Happy New Years.");
     VoicePlay("S040700000_07_070");
     MsgDisp("Mikage","I'm thinking about visiting the shrine now.
 Are you free?");
-    MsgSel("Yeah, I'd be happy to!","Sorry, I'm a bit...");
+    MsgSel("Yes, I'd love to!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
         VoicePlay("S040700000_07_080");

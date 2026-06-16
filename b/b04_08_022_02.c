@@ -9,7 +9,7 @@ VoicePlay("B040802202_08_000");
 MsgDisp("Shirahane","Come ta think of it, this beach has a boy
 who's super good at surfin'?
 Should I try it too?");
-MsgSel("I'll be cheering for you, do your best!","Who are you trying to imitate?","Seems tough...");
+MsgSel("I'll be cheering for you, do your best!","Who are you trying to imitate?","Seems difficult...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

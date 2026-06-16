@@ -13,7 +13,7 @@ ChCheek(5,7);
 VoicePlay("B180500000_05_010");
 MsgDisp("Hiiragi","I tried to make it as natural as possible...
 But how about this way of addressing you?");
-MsgSel("Yeah, that's fine!","Hmm, it's a bit...");
+MsgSel("Yeah, sounds good!","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChMotion(5,0);

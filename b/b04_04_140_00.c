@@ -6,7 +6,7 @@ ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040414000_04_000");
 MsgDisp("Nanatsumori","Crap... Today's number was hot!");
-MsgSel("Haa, that was awesome!","That was just so-so, huh...","The sound was so loud, my ears are ringing...");
+MsgSel("Ahh, that was awesome!","That was just so-so, huh...","The sound was so loud, my ears are ringing...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

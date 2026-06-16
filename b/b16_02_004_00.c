@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160200400_02_000");
 MsgDisp("Sassa","Are you testing something?");
-MsgSel("Eh, what's wrong?","Not at all.");
+MsgSel("Eh, what's wrong?","It's not like that.");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(2,2);

@@ -15,7 +15,7 @@ VoicePlay("B180600000_06_010");
 MsgDisp("Himuro","I was thinking of calling you that from
 now on.
 Calling you by your last name is too formal.");
-MsgSel("Yeah, that's fine.","Hmm, it's a bit...");
+MsgSel("Sure, that's fine.","Hmm, it's a bit...");
 switch (MsgSelRsltGet()){
     case 0:
     ChEye(6,0);

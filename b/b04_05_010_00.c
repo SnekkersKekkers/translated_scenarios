@@ -9,7 +9,7 @@ ChMotion(5,4);
 VoicePlay("B040501000_05_000");
 MsgDisp("Hiiragi","Ah, what do you think of this one?
 I think it suits you perfectly.");
-MsgSel("You're right, I think I should buy it!","Is that so...","It doesn't suit me!");
+MsgSel("You're right, I think I should buy it!","I wonder about that...","It doesn't suit me!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(6,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040602301_06_000");
 MsgDisp("Himuro","The sea makes me feel so small.");
-MsgSel("What if you're actually just small?","It's not like that","Maybe?");
+MsgSel("What if you're actually just small?","It's not like that.","Maybe?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

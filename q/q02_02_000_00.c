@@ -76,7 +76,7 @@ What's up?");
     MsgDisp("Sassa","What do you mean 'what's up'?
 Of course this is about the free period.
 Let's go together.");
-    MsgSel("Sure, let's go together!","Sorry, it's...");
+    MsgSel("Yeah, let's go!","Sorry, it's just...");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(2,0);
