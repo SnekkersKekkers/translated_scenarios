@@ -70,8 +70,7 @@ That was last week's price.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600006_06_060");
-    MsgDisp("Himuro","No prob.
-There's no problem if you rewrite that.");
+    MsgDisp("Himuro","No big deal.\nThere's no problem if you just rewrite it.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

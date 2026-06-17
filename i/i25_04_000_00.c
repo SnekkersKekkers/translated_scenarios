@@ -94,9 +94,7 @@ too much.");
     ChMotion(4,1);
     ChCheek(4,5);
     VoicePlay("I250400000_04_100");
-    MsgDisp("Nanatsumori","...No prob.
-Want to head to this specialty sweets shop
-with me next time?");
+    MsgDisp("Nanatsumori","...No problem.\nWant to head to this specialty sweets shop\nwith me next time?");
     MsgDisp("主人公","(...Is he inviting me on a date?)");
     break ;
     default :
