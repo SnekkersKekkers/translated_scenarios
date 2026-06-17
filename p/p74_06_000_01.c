@@ -23,8 +23,8 @@ ChMotion(6,3);
 VoicePlay("P740600001_06_020");
 MsgDisp("Himuro","In a way it made me laugh.");
 MsgDisp("主人公","Uuugh...");
-MsgDisp("主人公","(｛Himuro＊＊｝, I guess you're trying to comfort
-me, but Haa, a huge fail...)");
+MsgDisp("主人公","(I guess ｛Himuro＊＊｝ is trying to comfort
+me. Sigh, what a huge fail...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

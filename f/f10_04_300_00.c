@@ -33,7 +33,7 @@ ChEye(21,5);
 ChMouth(21,5);
 ChMotion(21,3);
 VoicePlay("F100430000_21_020");
-MsgDisp("Michiru","Mari! Haa...that startled me.");
+MsgDisp("Michiru","Mari! Sigh...that startled me.");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,0);
