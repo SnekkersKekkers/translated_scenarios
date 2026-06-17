@@ -16,7 +16,7 @@ MsgDisp("Nanatsumori","In return for Valentine's. It was good.");
 MsgDisp("主人公","Thanks to you too.");
 ChMotion(4,1);
 VoicePlay("L060400000_04_020");
-MsgDisp("Nanatsumori","No prob.");
+MsgDisp("Nanatsumori","No problem.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
