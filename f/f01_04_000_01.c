@@ -8,7 +8,7 @@ switch (ChPrmGet(4,6)){
     ChNanaType(0);
     ChOpen(4,254,4,2,1,#1,#1,0,0);
     VoicePlay("F010400001_04_000");
-    MsgDisp("Nanatsumori","Shh! That name, it's totally NG. So.");
+    MsgDisp("Nanatsumori","Shh...! That name is seriously no good.\nLater.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
