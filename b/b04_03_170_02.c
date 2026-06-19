@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040317002_03_000");
 MsgDisp("Honda","Did you know that if you score 100 points in
 karaoke, you get one hour free?");
-MsgSel("The scoring criteria is pretty vague...","Alright, let's get it!","｛Honda＊＊｝, you always get a perfect score right?");
+MsgSel("The scoring criteria is pretty vague...","Alright, let's try our best!","｛Honda＊＊｝, you always get a perfect score, right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

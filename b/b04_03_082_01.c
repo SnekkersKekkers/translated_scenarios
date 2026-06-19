@@ -10,7 +10,7 @@ ChMotion(3,3);
 VoicePlay("B040308201_03_000");
 MsgDisp("Honda","It's not just fireflies, other insects will
 start moving around soon too.");
-MsgSel("Eh, that's a bit scary","Are the fireflies preparing their light?","I wonder if the hasty fireflies will emerge.");
+MsgSel("Eh, that's a bit scary.","Are the fireflies preparing their light?","I wonder if the hasty fireflies will come out?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

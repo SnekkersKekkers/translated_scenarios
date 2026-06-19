@@ -9,7 +9,7 @@ VoicePlay("B040303301_03_000");
 MsgDisp("Honda","I heard there's a popularity poll for the
 deep-sea corner.
 Which creature do you like?");
-MsgSel("The Giant Isopod.","Um, the pretty jellyfish.","Um, the sunfish.");
+MsgSel("The Giant Isopod, I guess?","Um, the pretty jellyfish?","Hmm, the sunfish?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

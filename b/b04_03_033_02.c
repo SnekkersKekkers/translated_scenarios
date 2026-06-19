@@ -9,7 +9,7 @@ VoicePlay("B040303302_03_000");
 MsgDisp("Honda","Seriously, no matter how many times I look at
 the deep-sea corner, I never run out of new
 discoveries!");
-MsgSel("Huh? Even for you ｛Honda＊＊｝?","Even though it's too dark to see anything clearly?","｛Honda＊＊｝, you really like the deep-sea corner.");
+MsgSel("Huh? Even for you, ｛Honda＊＊｝?","Even though it's too dark to see anything clearly?","｛Honda＊＊｝, you really like the deep-sea corner.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

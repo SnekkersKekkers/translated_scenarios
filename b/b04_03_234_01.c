@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040323401_03_000");
 MsgDisp("Honda","Phew...
 Looks like you went easy on me this time.");
-MsgSel("I wanted it to spin faster...","It's most fun at this speed huh","Do you dislike tea cups?");
+MsgSel("I wanted it to spin faster...","It's most fun at this speed.","Do you dislike the tea cups?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(0);

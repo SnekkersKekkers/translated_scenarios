@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040306502_03_000");
 MsgDisp("Honda","A hidden gem.
 We have the best spot this year!");
-MsgSel("As expected of ｛Honda＊＊｝!","We got to hear the \"boom!\" up close","It seems like there's a lot of mosquitoes huh?");
+MsgSel("As expected of you, ｛Honda＊＊｝!","We got to hear the \"boom!\" up close.","There seems to be a lot of mosquitoes.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

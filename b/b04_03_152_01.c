@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040315201_03_000");
 MsgDisp("Honda","My own darts...
 Should I buy some?");
-MsgSel("It's too early for your own darts.","It's dangerous to throw them at home","Then, let's match!");
+MsgSel("It's too early for your own darts.","It's dangerous to throw them at home.","Let's have a match!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

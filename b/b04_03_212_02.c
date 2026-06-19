@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321202_03_000");
 MsgDisp("Honda","It's a talking cockatiel plushie.");
-MsgSel("The golden feather on its head is cute.","It seems a bit loud huh?","It looks a bit like ｛Honda＊＊｝?");
+MsgSel("The golden feather on its head is cute.","It's kind of loud.","Doesn't it look a bit like you, ｛Honda＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

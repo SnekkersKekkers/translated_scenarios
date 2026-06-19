@@ -8,7 +8,7 @@ VoicePlay("B040302102_03_000");
 MsgDisp("Honda","Hm?
 That person we just passed, I think I know
 them from somewhere...");
-MsgSel("A friend of yours?","I haven't passed by anyone...","Maybe they were looking at ｛Honda＊＊｝?");
+MsgSel("A friend of yours?","We haven't passed by anyone...","Maybe they were looking at you?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){

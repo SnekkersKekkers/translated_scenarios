@@ -4,7 +4,7 @@ ChOpen(3,255,0,0,3,#1,#1,0,0);
 VoicePlay("B040302302_03_000");
 MsgDisp("Honda","Everyone is enjoying themselves in their own
 way, reading, running...");
-MsgSel("...and dating too.","｛Honda＊＊｝, do you want to read too?","Let's go for a run!");
+MsgSel("...and dating too?","｛Honda＊＊｝, do you want to read too?","Let's go for a run!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

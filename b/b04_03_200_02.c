@@ -7,7 +7,7 @@ ChMotion(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040320002_03_000");
 MsgDisp("Honda","Habataki Mountain is bright white...");
-MsgSel("You can enjoy the scenery as well as skiing, huh?","Yeah, it's super pretty right?","Seems like this year's snow quality is most suitable for skiing?");
+MsgSel("You can enjoy the scenery while skiing.","Yeah, it's super pretty.","Seems like the snow quality this year is very suitable for skiing.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

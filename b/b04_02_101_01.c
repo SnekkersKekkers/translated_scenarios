@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040210101_02_000");
 MsgDisp("Sassa","Habataki-style pottery?
 How's it different from the regular stuff?");
-MsgSel("It seems like it has a seashell pattern.","It's completely different??","Is it the name?");
+MsgSel("It seems like it has a seashell pattern.","It's completely different?","Is it just the name?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

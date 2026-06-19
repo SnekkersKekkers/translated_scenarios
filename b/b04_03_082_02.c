@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308202_03_000");
 MsgDisp("Honda","Let's walk around the pond.
 Maybe we'll discover something new?");
-MsgSel("Hehe, we're like an expedition team huh?","Will we be able to discover something new?","It'll be good exercise huh");
+MsgSel("Hehe, we're like an expedition team, huh?","Will we be able to discover something new?","It'll be good exercise, I guess.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

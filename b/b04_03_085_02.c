@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308502_03_000");
 MsgDisp("Honda","It looks like it's going to snow in the
 evening.");
-MsgSel("I hope it piles up","If it snowed here, it would look even more magical","Will the fireflies in the pond be okay?");
+MsgSel("I hope it piles up.","If it snowed here, it would look even more magical.","Will the fireflies in the pond be okay?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

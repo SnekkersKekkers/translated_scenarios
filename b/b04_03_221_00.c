@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040322100_03_000");
 MsgDisp("Honda","Castles that still have their original keep,
 like Habataki Castle, are really rare.");
-MsgSel("As expected of Habataki City?","Seems like it was sturdily built.","The cracks in the floor are scary, huh?");
+MsgSel("As expected of Habataki City!","It seems like it was sturdily built.","The cracks in the floor are scary, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

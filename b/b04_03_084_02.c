@@ -7,7 +7,7 @@ ChEyeOpenLevel(3,0);
 ScrFadeIn(0);
 VoicePlay("B040308402_03_000");
 MsgDisp("Honda","I think today's wind is a bit chilly.");
-MsgSel("It's not cold in the slightest","I hope winter comes soon","I want to make a bonfire with the fallen leaves");
+MsgSel("It's not cold in the slightest.","I hope winter comes soon.","I want to make a bonfire with the fallen leaves.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

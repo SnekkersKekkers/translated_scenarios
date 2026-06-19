@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040308500_03_000");
 MsgDisp("Honda","I wonder if there are any firefly larvae?");
-MsgSel("It's cold, so don't put your hand in the water","Aren't they hibernating?","Do you want to try looking?");
+MsgSel("It's cold, so don't put your hand in the water.","Aren't they hibernating?","Do you want to try looking?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

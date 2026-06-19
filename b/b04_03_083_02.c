@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040308302_03_000");
 MsgDisp("Honda","Doesn't it feel about two degrees
 cooler here?");
-MsgSel("Seems like the fireflies are also comfortable with it","It's a mysterious spot","Maybe it's thanks to the spring water?");
+MsgSel("Seems like the fireflies are also comfortable with it.","It's a mysterious spot.","Maybe it's thanks to the spring water?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){

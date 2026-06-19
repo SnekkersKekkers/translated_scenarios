@@ -6,7 +6,7 @@ VoicePlay("B040311001_03_000");
 MsgDisp("Honda","Look, that guy is amazing.
 I wonder how it feels to be able to swim
 like that.");
-MsgSel("You can't help but stare, huh?","Maybe he's a swimmer?","But, the splashing might be annoying");
+MsgSel("You can't help but stare, huh?","Maybe he's a swimmer?","The splashing might be annoying, though.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

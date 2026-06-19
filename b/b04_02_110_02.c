@@ -6,7 +6,7 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040211002_02_000");
 MsgDisp("Sassa","It's time to take a break.");
-MsgSel("Eh...I haven't played enough yet.","Are you already tired?","That's right, let's buy a drink.");
+MsgSel("Eh...I haven't played enough yet!","Are you tired already?","Oh yeah, let's buy drinks.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

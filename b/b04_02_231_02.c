@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040223102_02_000");
 MsgDisp("Sassa","When it comes to rollercoasters, I never know
 when to stop, you know?");
-MsgSel("When your feet begin to stagger","Isn't once enough?","I wish it was longer");
+MsgSel("When you feel unsteady on your feet?","Isn't once enough?","I wish it was longer.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

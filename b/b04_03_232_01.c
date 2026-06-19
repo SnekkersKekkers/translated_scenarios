@@ -8,7 +8,7 @@ VoicePlay("B040323201_03_000");
 MsgDisp("Honda","10 minutes, 33 seconds!
 Isn't this the longest attraction you can
 enjoy at the amusement park?");
-MsgSel("It felt shorter than that though","It's not about the duration, it's about the quality","The haunted house is long too");
+MsgSel("It felt shorter than that, though.","It's not about the duration, it's about the quality.","The Haunted House is long too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

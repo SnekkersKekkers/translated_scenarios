@@ -7,7 +7,7 @@ ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B040315102_03_000");
 MsgDisp("Honda","Oh, the no. 7 and 10 pins are still left.");
-MsgSel("Everyone has days like this.","It's tough even for pros?","Let's knock down one for sure.");
+MsgSel("Everyone has days like this.","It's tough even for pros, isn't it?","Let's knock one down.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

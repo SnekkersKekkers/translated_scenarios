@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040321200_03_000");
 MsgDisp("Honda","Yep yep, they have a full product lineup.
 What do you want?");
-MsgSel("Maybe the bear plushie","The animal encyclopedia is nice","The wooden sword?");
+MsgSel("Maybe the bear plushie.","The animal encyclopedia is nice.","The wooden sword?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
