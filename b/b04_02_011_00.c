@@ -7,7 +7,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040201100_02_000");
 MsgDisp("Sassa","We're really high up.");
-MsgSel("Wow! The horizon looks like it's shining!","I wonder if we can see ｛Sassa＊＊｝'s house from here?","It's so high, I can't move my legs...");
+MsgSel("Wow! The horizon looks like it's shining!","I can see your house from here!","It's so high, I can't move my legs...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

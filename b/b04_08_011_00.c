@@ -9,7 +9,7 @@ ChMotion(8,2,1);
 VoicePlay("B040801100_08_000");
 MsgDisp("Shirahane","This place is so stylish that I feel a lil'
 embarrassed.");
-MsgSel("Wow! The horizon looks like it's shining!","I wonder if we can see ｛Daichi＊＊｝'s house from here?","It's so high, I can't move my legs...");
+MsgSel("Wow! The horizon looks like it's shining!","I can see your house from here!","It's so high, I can't move my legs...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
