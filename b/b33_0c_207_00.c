@@ -59,7 +59,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C20700_05_020");
 MsgDisp("Hiiragi","I see... I'm happy.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, you haven't been to theme parks
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, you haven't been to amusement parks
 much have you?");
 ChEye(7,0);
 ChMouth(7,4);

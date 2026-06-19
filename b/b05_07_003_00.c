@@ -114,7 +114,7 @@ MsgDisp("Mikage","That's right.
 Today you're sticking with me until we've
 used up every ride on this free pass.");
 MsgDisp("主人公","(After bowling, ｛Mikage＊＊｝'s next big
-first is the theme park...
+first is the amusement park...
 Alright, I'll enjoy it with him too!)");
 BGMStop();
 MsgClose();

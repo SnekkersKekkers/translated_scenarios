@@ -31,7 +31,7 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020210306_02_040");
 MsgDisp("Sassa","Oh, did you forget?
-The jacuzzi in the heated pool—.");
+The jacuzzi in the swimming pool—.");
 MsgDisp("主人公","Ahh!
 It felt like we had our own private
 hot spring.");
