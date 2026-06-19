@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(2,255,3,0,3,#1,#1,0,0);
 VoicePlay("B040202301_02_000");
 MsgDisp("Sassa","I just saw a big shadowy fish.");
-MsgSel("Eh, that's scary","I want to try catching it","Did you see wrong?");
+MsgSel("Eh, that's scary.","I want to try catching it.","Did you see wrong?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

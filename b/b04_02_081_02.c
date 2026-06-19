@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040208102_02_000");
 MsgDisp("Sassa","It suddenly blooms, then suddenly fades.
 It's a bit fleeting, huh?");
-MsgSel("That's the beauty of their fall!","They'll bloom again next year though?","Let's take lots of pictures");
+MsgSel("That's the beauty of their fall!","They'll bloom again next year though?","Let's take lots of pictures.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

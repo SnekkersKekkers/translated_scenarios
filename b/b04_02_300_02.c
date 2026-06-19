@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040230002_02_000");
 MsgDisp("Sassa","In situations like this, the mom's usually
 standing at the door, listening in, right?");
-MsgSel("It happens in drama and manga often huh?","I have to greet her once more","｛Sassa＊＊｝, can you go check?");
+MsgSel("It happens in dramas and manga often, huh.","I have to greet her once more.","｛Sassa＊＊｝, can you go check?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

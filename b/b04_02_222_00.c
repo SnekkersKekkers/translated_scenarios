@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040222200_02_000");
 MsgDisp("Sassa","What kind of person do you think this
 exhibition is targeted at?");
-MsgSel("It's always empty...","I think it's interesting though...","I think it's targeted at grown-ups");
+MsgSel("It's always empty.","I think it's interesting though...","I think it's targeted at grown-ups.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
