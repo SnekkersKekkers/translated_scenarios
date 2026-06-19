@@ -16,7 +16,7 @@ MsgDisp("Woman A","Really∋
 Sorry, looks like it's over there!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_TWO");
 SEWait();
-MsgDisp("主人公","('Pony'...could it be...?)");
+MsgDisp("主人公","(\"Pony\"...could it be...?)");
 MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("F110710001_07_000");

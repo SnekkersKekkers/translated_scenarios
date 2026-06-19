@@ -5,7 +5,7 @@ ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("B020400012_04_000");
-MsgDisp("Nanatsumori","The 'it's my favourite' excuse?
+MsgDisp("Nanatsumori","The \"it's my favourite\" excuse?
 Not gonna fly.");
 MsgDisp("主人公","Huh?");
 ChEye(4,0);

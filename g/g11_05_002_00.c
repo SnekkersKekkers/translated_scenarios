@@ -47,14 +47,14 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110500200_05_030");
-MsgDisp("Hiiragi","Not, 'Eh?', the two of us acted together in a
+MsgDisp("Hiiragi","Not, \"Eh?\", the two of us acted together in a
 play, and reunited here.");
 MsgDisp("主人公","This isn't Habataki Castle, but the student
 council room, you know.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500200_05_040");
-MsgDisp("Hiiragi","So it's 'Student Council Room: Flames
-Rising'?");
+MsgDisp("Hiiragi","So it's \"Student Council Room: Flames
+Rising\"?");
 MsgDisp("主人公","Hehe!");
 SEPlay("EV_SE_SCHOOL_002");
 ChEyeOpenLevel(5,0);

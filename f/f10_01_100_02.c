@@ -69,7 +69,7 @@ I wonder what it says?
 I'm not sleepy, but I'll take a look.)");
 SEPlay("EV_SE_662");
 SEWait();
-MsgDisp("主人公","(Um... 'Look at me'?)");
+MsgDisp("主人公","(Um... \"Look at me\"?)");
 MsgDisp("主人公","(from ｛Kazama＊＊｝...
 He's looking at me and laughing!)");
 VoicePlay("F100110002_39_010");

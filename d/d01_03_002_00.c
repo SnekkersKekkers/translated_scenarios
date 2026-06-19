@@ -75,7 +75,7 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("D010300200_03_060");
 MsgDisp("Honda","Ahh, that hurts～
-That laugh was totally a 'yeah, I bet' kind
+That laugh was totally a \"yeah, I bet\" kind
 of laugh.");
 MsgDisp("主人公","Sorry.
 But I think your sister is just being shy.

@@ -17,14 +17,14 @@ ChEye(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020530000_05_020");
-MsgDisp("Hiiragi","Mikage-sensei would probably say, 'Next time,
-take me along.'");
+MsgDisp("Hiiragi","Mikage-sensei would probably say, \"Next time,
+take me along.\"");
 ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("G020530000_05_030");
 MsgDisp("Hiiragi","But Inori-kun wouldn't let it go so easily.
-He'd demand, 'How exactly did you end up
-going there?'");
+He'd demand, \"How exactly did you end up
+going there?\"");
 MsgDisp("主人公","Hehe, yeah.
 Sounds like something he'd say.");
 ChEye(5,4);

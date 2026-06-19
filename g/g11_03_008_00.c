@@ -63,7 +63,7 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G110300800_03_070");
 MsgDisp("Honda","Yep yep, that's fine.
-This is a 'Weevil Picture Book', have at it!");
+This is a \"Weevil Picture Book\", have at it!");
 MsgDisp("主人公","(Weevil...?
 Umm, maybe it's okay after all.)");
 BGMStop();

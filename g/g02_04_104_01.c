@@ -36,7 +36,7 @@ Birthdays and Christmas, we get presents from
 everyone, but that's it.");
 VoicePlay("G020410401_04_050");
 MsgDisp("Nanatsumori","My mom really wants to make a feast, eat
-cake, and have a lively 'Happy Birthday'.");
+cake, and have a lively \"Happy Birthday\".");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

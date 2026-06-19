@@ -4,7 +4,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620301_06_000");
-MsgDisp("Himuro","Recently, I've been thinking about 'love'
+MsgDisp("Himuro","Recently, I've been thinking about \"love\"
 a bit.");
 MsgDisp("主人公","Eh-∋ Why?");
 ChEye(6,0);
@@ -49,7 +49,7 @@ ChMotion(6,0);
 VoicePlay("G020620301_06_060");
 MsgDisp("Himuro","I wonder if there are any useful books as
 references...");
-MsgDisp("主人公","Like a 'how-to' book on love?");
+MsgDisp("主人公","Like a \"how-to\" book on love?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

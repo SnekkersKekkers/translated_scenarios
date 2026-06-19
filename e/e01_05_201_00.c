@@ -59,7 +59,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("E010520100_05_030");
-MsgDisp("Hiiragi","I answered 'No comment'.");
+MsgDisp("Hiiragi","I answered \"No comment\".");
 ChMouth(5,2);
 ChEye(2,0);
 ChMouth(2,0);
@@ -96,7 +96,7 @@ SEWait();
 ChOpen(2,255,5,0,4,#1,#1,0,2);
 VoicePlay("E010520100_02_070");
 MsgDisp("Sassa","That was close...
-I changed my answer to 'No comment' too.");
+I changed my answer to \"No comment\" too.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

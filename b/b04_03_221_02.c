@@ -45,7 +45,7 @@ the castle and wait for reinforcements.");
         VoicePlay("B040322102_03_040");
         MsgDisp("Honda","Yep yep, good question.
 At that time, they would exit through
-Habataki Castle's 'legendary secret passage'.");
+Habataki Castle's \"legendary secret passage\".");
         MsgDisp("主人公","There's a secret passage?
 Amazing.");
         ChMouth(3,3);
@@ -64,8 +64,8 @@ This way.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(3);
         SEWait();
-        MsgDisp("主人公","(｛Honda＊＊｝ ended up calling me 'a
-princess.')");
+        MsgDisp("主人公","(｛Honda＊＊｝ ended up calling me \"a
+princess.\")");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(3,255,0,0,0,#1,#1,0,0,0,0);

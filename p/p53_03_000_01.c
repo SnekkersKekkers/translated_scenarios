@@ -45,7 +45,7 @@ the most.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("P530300001_03_040");
-    MsgDisp("Honda","Don't make that 'this is impossible' face!");
+    MsgDisp("Honda","Don't make that \"this is impossible\" face!");
     MsgDisp("主人公","Hehe, I'm not making that kind of face!");
     SEPlay("EV_SE_038");
     SEWait();
@@ -53,7 +53,7 @@ the most.");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("P530300001_03_050");
-    MsgDisp("Honda","Then, 'game start', right?");
+    MsgDisp("Honda","Then, \"game start\", right?");
     MsgDisp("主人公","Yeah!");
     MsgDisp("主人公","(Thanks to ｛Honda＊＊｝, it seems a bit
 easier. Alright, then I'll also enjoy my

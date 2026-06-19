@@ -33,7 +33,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130201_01_040");
-MsgDisp("Kazama","No, not, 'Huh?'
+MsgDisp("Kazama","No, not, \"Huh?\"
 The very first thing I chose with these eyes
 was you.");
 ChEye(1,0);

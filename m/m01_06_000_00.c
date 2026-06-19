@@ -49,7 +49,7 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("M010600000_06_060");
 MsgDisp("Himuro","Resting at certain times is important too.
-'More haste, less speed' as they say.");
+\"More haste, less speed\" as they say.");
 MsgDisp("主人公","That's true, isn't it...");
 ChEye(6,0);
 ChMouth(6,0);

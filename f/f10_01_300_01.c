@@ -27,7 +27,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 ChOpen(1,254,0,0,1,0,#1,0,0);
 VoicePlay("F100130001_01_010");
-MsgDisp("Kazama","I didn't 'escape'.
+MsgDisp("Kazama","I didn't \"escape\".
 I just did what I needed to.");
 ChEye(22,0);
 ChMouth(22,3);

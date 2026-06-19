@@ -34,14 +34,14 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("F020400002_04_040");
-MsgDisp("Nanatsumori","And now, they're working on a new 'student
-reconstruction' project...");
+MsgDisp("Nanatsumori","And now, they're working on a new \"student
+reconstruction\" project...");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("F020400002_04_050");
 MsgDisp("Nanatsumori","No-good guys become good girls!
 Ugly girls become handsome men! They call it
-the 'Double Extreme Remodelling Project'.");
+the \"Double Extreme Remodelling Project\".");
 MsgDisp("主人公","...Ha! That's not scary at all.");
 ChEye(4,4);
 ChMouth(4,3);

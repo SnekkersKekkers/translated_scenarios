@@ -57,7 +57,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F100140002_01_040");
 MsgDisp("Kazama","One day near kindergarten culmination, you
-read a book called 'The Slimy Ghost' and
+read a book called \"The Slimy Ghost\" and
 started crying.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -85,8 +85,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F100140002_01_060");
 MsgDisp("Kazama","Your brain has fondly remembered chasing me
-around, but has concealed your fear of 'The
-Slimy Ghost'.");
+around, but has concealed your fear of \"The
+Slimy Ghost\".");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

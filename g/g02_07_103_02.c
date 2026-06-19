@@ -48,7 +48,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("G020710302_07_060");
-MsgDisp("Mikage","Let's do a 'coincidental look' again
+MsgDisp("Mikage","Let's do a \"coincidental look\" again
 sometime?");
 MsgDisp("主人公","(Hehe, I might end up having more outfits
 just for when I meet ｛Mikage＊＊｝.)");

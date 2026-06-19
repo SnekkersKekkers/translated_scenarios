@@ -53,7 +53,7 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A20100_02_020");
 MsgDisp("Sassa","You're really claiming you've got that kind
-of 'presence'?");
+of \"presence\"?");
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
 ChEye(2,0);

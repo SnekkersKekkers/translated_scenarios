@@ -8,5 +8,5 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B020602111_06_010");
-MsgDisp("Himuro","Going for that 'out of my league' vibe?");
+MsgDisp("Himuro","Going for that \"out of my league\" vibe?");
 MsgDisp("主人公","(Yay! ｛Himuro＊＊｝ seems to be really happy!)");

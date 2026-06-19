@@ -48,7 +48,7 @@ VoicePlay("B150700200_07_060");
 MsgDisp("Mikage","Actually instead of calming me down, touching
 me too much might have the opposite effect~?");
 MsgDisp("主人公","(Maybe I overdid it today...
-But what does he mean by 'opposite effect'?)");
+But what does he mean by \"opposite effect\"?)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

@@ -51,7 +51,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020720000_07_070");
-MsgDisp("Mikage","With a 'close friend', huh.
+MsgDisp("Mikage","With a \"close friend\", huh.
 I can already hear your inner voice～!");
 ChEye(7,0);
 ChMouth(7,3);

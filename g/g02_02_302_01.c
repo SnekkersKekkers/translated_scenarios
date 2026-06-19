@@ -16,7 +16,7 @@ ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,0);
 VoicePlay("G020230201_02_020");
-MsgDisp("Sassa","What do you mean by 'Eh? '.
+MsgDisp("Sassa","What do you mean by \"Eh? \".
 I took the trouble to say something nice.");
 ChEye(2,0);
 ChMouth(2,0);

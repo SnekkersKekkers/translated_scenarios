@@ -20,8 +20,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020340000_03_020");
 MsgDisp("Honda","They probably will. But the school rules only
-say 'appropriate appearance and attire for
-high school students.'");
+say \"appropriate appearance and attire for
+high school students.\"");
 VoicePlay("G020340000_03_030");
 MsgDisp("Honda","It doesn't specifically say anything about
 dyeing hair or wearing piercings, right?");

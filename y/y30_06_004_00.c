@@ -28,7 +28,7 @@ didn't significantly impact our
 relationship, and I wouldn't treat
 them differently.");
 MsgDisp("","But my classmates saw it as something
-'amazing'.");
+\"amazing\".");
 MsgClear();
 VoicePlay("Y300600400_06_000");
 MsgDisp("Himuro","\"What's so amazing about it?\"");
@@ -77,7 +77,7 @@ MsgDisp("","If they're that curious, they should
 just talk to them.");
 MsgDisp("","Getting along with seniors isn't as
 hard as we juniors make it out to be.");
-MsgDisp("","I wonder what is so 'amazing' about
+MsgDisp("","I wonder what is so \"amazing\" about
 this trivial conversation.");
 MsgClear();
 BGOpen("ad642",0);
@@ -97,8 +97,8 @@ conversation, those were the keywords
 that made me think back to the fact
 that they were my seniors.");
 MsgClear();
-MsgDisp("","So much for 'no significant
-difference'.");
+MsgDisp("","So much for \"no significant
+difference\".");
 MsgDisp("","Isn't the one year gap between us a
 huge one?");
 MsgDisp("","The voices of the three of them grew

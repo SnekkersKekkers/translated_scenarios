@@ -10,7 +10,7 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(31,254,2,0,0,#1,#1,0,0);
 VoicePlay("P533100002_31_000");
-MsgDisp("Goro","'Fourth・Heart'...");
+MsgDisp("Goro","\"Fourth・Heart\"...");
 MsgDisp("主人公","Ah, Goro-sensei!
 You came all this way, huh?");
 ChEye(31,0);
@@ -27,7 +27,7 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("P533100002_31_020");
-MsgDisp("Goro","It's starting, huh? 'Fourth・Heart', my heart
+MsgDisp("Goro","It's starting, huh? \"Fourth・Heart\", my heart
 is throbbing!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

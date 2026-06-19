@@ -12,7 +12,7 @@ MsgDisp("主人公","No, I don't think it's that.");
 ChEye(5,0);
 ChMouth(5,2);
 VoicePlay("B070500001_05_520");
-MsgDisp("Hiiragi","Hm, and what is 'that'?");
+MsgDisp("Hiiragi","Hm, and what is \"that\"?");
 MsgDisp("主人公","I suddenly thought about how me and
 ｛Hiiragi＊＊＊｝...are alone together.");
 ChEye(5,3);

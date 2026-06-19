@@ -130,7 +130,7 @@ ChEye(5,0);
 ChMouth(5,3);
 VoicePlay("T020500000_05_130");
 MsgDisp("Hiiragi","The first time I enjoyed a play was when I
-performed 'Habataki Castle: Flame Rising'
+performed \"Habataki Castle: Flame Rising\"
 with you at the school festival.");
 ChEye(5,4);
 ChMotion(5,2);

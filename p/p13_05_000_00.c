@@ -9,8 +9,8 @@ switch (ChPrmGet(5,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","(Seems like our attraction 'Find Molly in the
-giant maze' is attracting a lot of attention.
+    MsgDisp("主人公","(Seems like our attraction \"Find Molly in the
+giant maze\" is attracting a lot of attention.
 More and more people are gathering...)");
     MsgClose();
     ChOpen(5,254,3,3,2,#1,#1,0,0);

@@ -22,7 +22,7 @@ switch (MsgSelRsltGet()){
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040420002_04_010");
-        MsgDisp("Nanatsumori","That's a big 'if' right there.");
+        MsgDisp("Nanatsumori","That's a big \"if\" right there.");
         MsgDateResultDisp();
         break ;
         case 4:

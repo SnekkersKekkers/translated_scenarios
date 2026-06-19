@@ -16,10 +16,10 @@ Wait(120);
 ScrFadeIn(0);
 Wait(60);
 VoicePlay("T040120000_06_000");
-MsgDisp("Himuro","Well, solely based on quantity, the 'young
-master's meal' was the definite loser.");
+MsgDisp("Himuro","Well, solely based on quantity, the \"young
+master's meal\" was the definite loser.");
 VoicePlay("T040120000_01_010");
-MsgDisp("Kazama","The 'young master's meal'?
+MsgDisp("Kazama","The \"young master's meal\"?
 What's that?");
 VoicePlay("T040120000_02_000");
 MsgDisp("Sassa","...Huh? Is Inori the only one who didn't

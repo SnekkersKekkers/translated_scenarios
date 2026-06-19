@@ -59,8 +59,8 @@ shortly.");
     VoicePlay("P230300000_03_050");
     MsgDisp("Honda","Now, let's go to battle!");
     MsgDisp("主人公","Y-Yeah!");
-    MsgDisp("主人公","('Our version of Kuroda Kanbei and
-Mitsuhime', huh...
+    MsgDisp("主人公","(\"Our version of Kuroda Kanbei and
+Mitsuhime\", huh...
 ｛Honda＊＊｝, are you scheming something??)");
     break ;
     default :

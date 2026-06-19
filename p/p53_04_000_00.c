@@ -32,7 +32,7 @@ Your expression is seriously stiff.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P530400000_04_030");
-    MsgDisp("Nanatsumori","How about I draw the character for 'person'
+    MsgDisp("Nanatsumori","How about I draw the character for \"person\"
 in your palm?
 You play a large instrument, right?");
     MsgDisp("主人公","Eh...

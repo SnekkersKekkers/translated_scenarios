@@ -135,7 +135,7 @@ ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("T020701000_07_160");
-MsgDisp("Mikage","'Like' quickly grew into 'Love' and it
+MsgDisp("Mikage","\"Like\" quickly grew into \"Love\" and it
 filled that void within me.
 There was no space left.");
 ChEye(7,4);

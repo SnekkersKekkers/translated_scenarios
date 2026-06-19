@@ -9,7 +9,7 @@ BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(1,254,0,0,3,#1,#1,0,1);
 ChOpen(7,254,0,0,0,#1,#1,0,2);
 MsgDisp("主人公","｛Kazama＊＊｝, ｛Mikage＊＊｝.
-Are you doing the 'men living alone' course
+Are you doing the \"men living alone\" course
 again today?");
 ChMouth(1,0);
 ChEye(7,0);
@@ -29,7 +29,7 @@ ChMotion(1,3);
 VoicePlay("F100120002_01_010");
 MsgDisp("Kazama","Don't do it.
 It's too stimulating for you.");
-MsgDisp("主人公","...it's 'stimulating'?");
+MsgDisp("主人公","...it's \"stimulating\"?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -53,7 +53,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F100120002_01_030");
-MsgDisp("Kazama","He said it's a 'victory for one's flesh'.");
+MsgDisp("Kazama","He said it's a \"victory for one's flesh\".");
 MsgDisp("主人公","Wha...? ...Surely, you don't agree...
 ｛Kazama＊＊｝?");
 ChMotion(1,0);

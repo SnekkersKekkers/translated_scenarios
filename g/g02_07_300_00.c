@@ -33,7 +33,7 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020730000_07_040");
 MsgDisp("Mikage","Yeah, I can imagine them saying things like
-'It's fine, but I've lost respect for you.'");
+\"It's fine, but I've lost respect for you.\"");
 MsgDisp("主人公","Hehe, that's like them.
 That's ｛Himuro＊＊｝, right?
 Then what about ｛Hiiragi＊＊＊｝?");
@@ -41,9 +41,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020730000_07_050");
-MsgDisp("Mikage","He would say, 'There's a reason for
+MsgDisp("Mikage","He would say, \"There's a reason for
 everything.
-Shall I hear it? ' while approaching.");
+Shall I hear it? \" while approaching.");
 MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ is always thinking of
 those two.");
 ChEye(7,0);

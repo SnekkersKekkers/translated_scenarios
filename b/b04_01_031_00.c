@@ -40,8 +40,8 @@ It's funny.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040103100_01_030");
     MsgDisp("Kazama","Better watch out!
-It says, 'Tiger Sharks are not picky eaters.
-They'll prey on anything.'");
+It says, \"Tiger Sharks are not picky eaters.
+They'll prey on anything.\"");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

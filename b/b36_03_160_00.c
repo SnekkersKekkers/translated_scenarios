@@ -30,7 +30,7 @@ ChMotion(3,4,1);
 VoicePlay("B360316000_03_030");
 MsgDisp("Honda","No, I don't want to make you feel left
 out too.");
-MsgDisp("主人公","What do you mean 'too'?");
+MsgDisp("主人公","What do you mean \"too\"?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);

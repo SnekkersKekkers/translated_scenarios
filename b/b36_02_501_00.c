@@ -43,7 +43,7 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B360250100_02_040");
 MsgDisp("Sassa","After all, Ryota is the only one who can
-remember the 'you' that I don't know.");
+remember the \"you\" that I don't know.");
 MsgDisp("主人公","Eh...");
 ChEye(2,0);
 ChMouth(2,0);

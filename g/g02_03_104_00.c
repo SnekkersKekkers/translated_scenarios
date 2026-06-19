@@ -62,7 +62,7 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310400_03_090");
 MsgDisp("Honda","Maybe trying to find reasons or logical
-explanations for 'liking' someone is
+explanations for \"liking\" someone is
 pointless.");
 MsgDisp("主人公","(｛Honda＊＊｝, seems troubled about love...)");
 BGMStop();

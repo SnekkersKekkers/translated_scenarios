@@ -40,7 +40,7 @@ VoicePlay("G020210000_02_050");
 MsgDisp("Sassa","So, basically, I was saying that I'm in the
 running. No matter the rival that shows up,
 I'm not giving him my place beside you.");
-MsgDisp("主人公","(? 'The fight for me'??
+MsgDisp("主人公","(? \"The fight for me\"??
 What is ｛Sassa＊＊｝ talking about...?)");
 BGMStop();
 MsgClose();

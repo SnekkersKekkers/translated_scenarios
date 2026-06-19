@@ -49,8 +49,8 @@ She really is a funny person.");
 SEPlay("EV_SE_672",0,0.6);
 SEWait();
 MsgClear();
-MsgDisp("","I think the way I call her 'Miss
-Diligent' is seriously a perfect
+MsgDisp("","I think the way I call her \"Miss
+Diligent\" is seriously a perfect
 nickname for her.");
 MsgDisp("","She's more diligent and earnest than
 anyone, but whenever I see her, I

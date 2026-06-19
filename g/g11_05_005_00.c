@@ -62,8 +62,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500500_05_060");
 MsgDisp("Hiiragi","The other day I watched the documentary:
-'Searching for Strange Festivals Around
-Japan' and I enjoyed it.");
+\"Searching for Strange Festivals Around
+Japan\" and I enjoyed it.");
 MsgDisp("主人公","Strange festivals?");
 ChEye(5,0);
 ChMouth(5,1);

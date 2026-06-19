@@ -34,7 +34,7 @@ stomach.");
         ChMotion(5,1);
         VoicePlay("B040502102_05_020");
         MsgDisp("Hiiragi","That's...the kind of thing where you yell
-'You idiot!' right?");
+\"You idiot!\" right?");
         MsgDateResultDisp();
         break ;
         case 4:

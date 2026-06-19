@@ -19,7 +19,7 @@ MsgDisp("主人公","Ummm...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P553200009_32_020");
-MsgDisp("VP Himuro","The song performed today, 'Fourth・Heart' has
+MsgDisp("VP Himuro","The song performed today, \"Fourth・Heart\" has
 several different interpretations.");
 ChEye(32,0);
 ChMouth(32,0);

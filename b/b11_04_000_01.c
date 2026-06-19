@@ -101,7 +101,7 @@ SEPlay("EV_SE_580");
 MsgClose();
 ChClose(34,0,30);
 ChPosition(4,0);
-MsgDisp("主人公","What was that 'whatever' thing again?");
+MsgDisp("主人公","What was that \"whatever\" thing again?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

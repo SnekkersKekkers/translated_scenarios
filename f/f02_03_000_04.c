@@ -47,5 +47,5 @@ ChMotion(3,1);
 VoicePlay("F020300004_03_060");
 MsgDisp("Honda","Mhm. I'm good at telling them apart now.
 The best way to learn is by doing!");
-MsgDisp("主人公","('Doing'...
+MsgDisp("主人公","(\"Doing\"...
 Maybe ｛Honda＊＊｝ put makeup on?)");

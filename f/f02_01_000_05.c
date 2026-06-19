@@ -13,8 +13,8 @@ VoicePlay("F020100005_01_000");
 MsgDisp("Kazama","Why do you sound so grim?
 You've been studying diligently, right?");
 MsgDisp("主人公","I have.
-But ｛Kazama＊＊｝'s idea of 'studying
-diligently' might be different from mine.");
+But ｛Kazama＊＊｝'s idea of \"studying
+diligently\" might be different from mine.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

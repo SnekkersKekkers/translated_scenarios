@@ -43,7 +43,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F020100011_01_040");
-MsgDisp("Kazama","Don't just say 'We can do that!'.
+MsgDisp("Kazama","Don't just say \"We can do that!\".
 ...That is so like you, though.");
 MsgDisp("主人公","(...I guess I'll start with Christmas
 preparations?

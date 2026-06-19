@@ -1,7 +1,7 @@
 BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The original book 'The Path of First Love' I
+MsgDisp("主人公","(The original book \"The Path of First Love\" I
 read with ｛Honda＊＊｝ the other day is really
 popular huh...)");
 MsgClose();
@@ -12,7 +12,7 @@ BGOpen("ev003",0);
 ChOpen(3,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110300400_03_000");
-MsgDisp("Honda","A new edition of 'The Path of First Love'
+MsgDisp("Honda","A new edition of \"The Path of First Love\"
 came out.");
 MsgDisp("主人公","Yeah, it's getting more and more popular.");
 ChEye(3,0);

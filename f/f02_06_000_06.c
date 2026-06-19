@@ -12,7 +12,7 @@ ChMotion(6,0);
 VoicePlay("F020600006_06_000");
 MsgDisp("Himuro","Is that so?");
 MsgDisp("主人公","You're not even going to say anything like,
-'let's do our best'?");
+\"let's do our best\"?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

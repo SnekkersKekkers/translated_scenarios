@@ -4,7 +4,7 @@ business.");
 MsgClear();
 MsgDisp("","Every morning, he sends me a photo of him
 drinking fresh milk. I start my day by
-replying to him with a 'good morning'.");
+replying to him with a \"good morning\".");
 MsgDisp("","To that, he immediately replies \"Send me
 some photos of yourself too, you serious
 girl.\". ｛Mikage＊＊｝ is an early riser,

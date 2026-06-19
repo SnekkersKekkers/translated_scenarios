@@ -114,7 +114,7 @@ StlEye(4,0);
 StlMouth(4,1);
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400100_04_100");
-MsgDisp("Nanatsumori","Ah, that's cool. 'Matcha Whirlwind' is
+MsgDisp("Nanatsumori","Ah, that's cool. \"Matcha Whirlwind\" is
 delicious, so I'm good with it.
 I'll take a refill.");
 VoicePlay("B050400100_46_030");
@@ -169,7 +169,7 @@ ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("B050400100_04_160");
-MsgDisp("Nanatsumori","Instead of that kind of 'heroic display', I
+MsgDisp("Nanatsumori","Instead of that kind of \"heroic display\", I
 should have shown you something...cooler.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,2);

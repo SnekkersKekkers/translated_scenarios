@@ -53,8 +53,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("E010520200_03_030");
-MsgDisp("Honda","Yep yep, he suddenly said 'I'm going to
-challenge the quiz king!' and blocked my way.");
+MsgDisp("Honda","Yep yep, he suddenly said \"I'm going to
+challenge the quiz king!\" and blocked my way.");
 MsgDisp("主人公","Hehe, that's cute.");
 ChEye(5,0);
 ChEye(3,0);

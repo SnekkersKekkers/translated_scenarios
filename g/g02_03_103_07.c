@@ -40,8 +40,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("G020310307_03_060");
-MsgDisp("Honda","This morning she yelled, 'Stop barging into
-my room!'...");
+MsgDisp("Honda","This morning she yelled, \"Stop barging into
+my room!\"...");
 MsgDisp("主人公","Did you go in without knocking again?
 That's not good...");
 ChEye(3,2);

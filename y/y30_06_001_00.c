@@ -24,8 +24,8 @@ high school you hope to go to,
 there's a column to enter the name of
 other schools.");
 MsgDisp("","When I received the paper, I
-immediately circled 'advance onto
-high school'.");
+immediately circled \"advance onto
+high school\".");
 MsgClear();
 VoicePlay("Y300600100_42_000");
 MsgDisp("School Boy","\"Must be nice to be Himuro—, the high
@@ -77,8 +77,8 @@ MsgDisp("","Ironically enough, his words made me
 realise something. When I advance
 onto the high school division—");
 MsgClear();
-MsgDisp("","I'll be labelled as 'that relative of
-Vice Principal Himuro'. It's easy
+MsgDisp("","I'll be labelled as \"that relative of
+Vice Principal Himuro\". It's easy
 to imagine being looked at with
 curiosity.");
 MsgDisp("","That's how strong of an impression,
@@ -91,7 +91,7 @@ MsgDisp("","So by the time I entered middle
 school, I was already quite
 well-known among the teachers.");
 MsgDisp("","But, everyone only looked at the name
-'Himuro' and not me as a person.");
+\"Himuro\" and not me as a person.");
 MsgClear();
 VoicePlay("Y300600100_06_030");
 MsgDisp("Himuro","\"Am I really going to the high school

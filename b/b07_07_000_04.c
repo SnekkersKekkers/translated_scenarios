@@ -27,8 +27,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_210");
-MsgDisp("Mikage","Yeah, songs like 'Heaven and Hell' and 'A
-Clown's Gallop'.
+MsgDisp("Mikage","Yeah, songs like \"Heaven and Hell\" and \"A
+Clown's Gallop\".
 Stuff to get you hyped up.");
 ChEye(7,0);
 ChMouth(7,0);

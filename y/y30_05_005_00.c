@@ -20,7 +20,7 @@ MsgClose();
 ScrFadeOut(0);
 MsgDisp("","Today's performance is Habataki
 Theatre company's new work.
-'Habataki Castle: The Lord's Return'.");
+\"Habataki Castle: The Lord's Return\".");
 MsgDisp("","This play is performed with a double
 cast.");
 MsgClear();
@@ -31,7 +31,7 @@ MsgDisp("","It was just after the new year.
 She was the first to see the full
 dress rehearsal.");
 MsgDisp("","Just now, she said she would watch
-with a 'discerning eye'...though at
+with a \"discerning eye\"...though at
 that time, she thought I wouldn't be
 performing and had a worried, sad,
 and indescribable expression on her

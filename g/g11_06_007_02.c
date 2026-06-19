@@ -79,7 +79,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_070");
-MsgDisp("Himuro","Good with my hands, 'too'...what does
+MsgDisp("Himuro","Good with my hands, \"too\"...what does
 that mean?");
 MsgDisp("主人公","You can surf, you can play the bass, you get
 good grades.

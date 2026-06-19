@@ -9,8 +9,8 @@ switch (ChPrmGet(2,6)){
     BGOpen("sc721",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Seems like our attraction 'Find Molly in the
-giant maze' is attracting a lot of attention
+    MsgDisp("主人公","(Seems like our attraction \"Find Molly in the
+giant maze\" is attracting a lot of attention
 more and more people are gathering...)");
     MsgClose();
     ChOpen(2,254,3,0,0,#1,#1,0,0);
@@ -46,8 +46,8 @@ I'll break the record.");
     BGOpen("sc721",0);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Seems like our attraction 'Find Molly in the
-giant maze' is attracting a lot of attention
+    MsgDisp("主人公","(Seems like our attraction \"Find Molly in the
+giant maze\" is attracting a lot of attention
 more and more people are gathering...)");
     MsgClose();
     ChOpen(2,254,3,0,3,#1,#1,0,0);

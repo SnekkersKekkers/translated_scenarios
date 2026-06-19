@@ -3,8 +3,8 @@ BGOpen("ep000",0);
 ScrFadeIn(0);
 MsgDisp("","｛みちる＊｝ went to Italy with the
 guidance of GORO-sensei. She was advised
-to 'travel around the world and take in as
-many beautiful things as you can!'");
+to \"travel around the world and take in as
+many beautiful things as you can!\"");
 MsgClear();
 MsgDisp("","Instead of studying abroad, she rented a
 small apartment and is now enjoying

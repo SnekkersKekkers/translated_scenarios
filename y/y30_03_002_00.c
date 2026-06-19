@@ -2,7 +2,7 @@ MsgType(3);
 BGMPlay("BGM_C03_HONDA_I",0.01);
 BGOpen("ad320",0);
 ScrFadeIn(0);
-MsgDisp("","The 'Quiz Brain Interhigh' is the
+MsgDisp("","The \"Quiz Brain Interhigh\" is the
 most enjoyable.");
 MsgDisp("","The title of Quiz King, the crown,
 and the gown felt great.

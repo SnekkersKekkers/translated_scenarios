@@ -41,7 +41,7 @@ the world.");
     ChMotion(3,5);
     VoicePlay("B040308200_03_030");
     MsgDisp("Honda","Good! Nice point!
-But it's actually called the 'Heike' firefly.
+But it's actually called the \"Heike\" firefly.
 If there's Genji, why not Heishi too, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

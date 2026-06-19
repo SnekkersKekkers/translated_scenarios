@@ -34,7 +34,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020401000_04_300");
-MsgDisp("Nanatsumori","No, not 'hehe'.
+MsgDisp("Nanatsumori","No, not \"hehe\".
 Come here.");
 BGMStop(2.8);
 MsgClear();

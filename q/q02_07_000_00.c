@@ -104,8 +104,8 @@ free period?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("Q020700000_07_100");
-    MsgDisp("Mikage","How does 'Extracurricular Lesson: Nagasaki
-Chapter' sound to you?");
+    MsgDisp("Mikage","How does \"Extracurricular Lesson: Nagasaki
+Chapter\" sound to you?");
     MsgDisp("主人公","Eh, extracurricular lesson?");
     ChEye(7,0);
     ChMouth(7,3);

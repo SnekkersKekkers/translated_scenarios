@@ -24,7 +24,7 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360302300_03_020");
-MsgDisp("Honda","If anything deserves the word 'breathtaking,'
+MsgDisp("Honda","If anything deserves the word \"breathtaking,\"
 it's a view like this.");
 ChEye(3,4);
 ChMotion(3,4,1);

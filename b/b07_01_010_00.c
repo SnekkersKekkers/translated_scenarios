@@ -86,7 +86,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070101000_01_100");
-MsgDisp("Kazama","Sigh—, fine.
+MsgDisp("Kazama","Sigh, fine.
 Maybe I'm observing you too much.");
 MsgDisp("主人公","But maybe what ｛Kazama＊＊｝ thinks is
 actually right—");

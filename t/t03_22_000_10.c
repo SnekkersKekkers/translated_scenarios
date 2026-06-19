@@ -4,8 +4,8 @@ ScrFadeIn(0);
 MsgDisp("","｛ひかる＊｝ broke into the
 entertainment world with the introduction
 of GORO-sensei! She is now a very popular
-'fashion model who can predict love
-fortunes.'");
+\"fashion model who can predict love
+fortunes.\"");
 MsgClear();
 MsgDisp("","In addition to her busy entertainment
 career, she is also attending a sports

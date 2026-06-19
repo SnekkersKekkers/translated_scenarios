@@ -24,7 +24,7 @@ MsgDisp("Honda","It's simple. I mean, Mi-kun doesn't speak
 loudly at school, do you? And Ryo-kun is
 too cool looking.");
 VoicePlay("T040320000_01_000");
-MsgDisp("Kazama","What do you mean by 'cool-looking'?
+MsgDisp("Kazama","What do you mean by \"cool-looking\"?
 And it's not a matter of making the most
 noise in the first place?");
 VoicePlay("T040320000_04_010");

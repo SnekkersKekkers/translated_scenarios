@@ -80,7 +80,7 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020140003_01_100");
-MsgDisp("Kazama","And it says 'elephant' on the backside in
+MsgDisp("Kazama","And it says \"elephant\" on the backside in
 terrible handwriting.");
 MsgDisp("主人公","Elephant... Why?");
 ChEye(1,0);

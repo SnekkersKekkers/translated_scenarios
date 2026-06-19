@@ -43,7 +43,7 @@ recommendations.");
     VoicePlay("B040101000_01_030");
     MsgDisp("Kazama","Huh...
 Well then, want to show me something that
-'suits you'?");
+\"suits you\"?");
     MsgDateResultDisp();
     break ;
     default :

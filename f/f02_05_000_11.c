@@ -28,10 +28,10 @@ ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("F020500011_05_020");
 MsgDisp("Hiiragi","Kotatsus are wonderful.
-I'll try to find some time for this 'lazy New
-Year's' of yours, then.");
+I'll try to find some time for this \"lazy New
+Year's\" of yours, then.");
 MsgDisp("主人公","Um...it's not really something you need to
-'attempt' to do, you know?");
+\"attempt\" to do, you know?");
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("F020500011_05_030");

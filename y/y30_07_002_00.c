@@ -6,7 +6,7 @@ ScrFadeIn(0);
 VoicePlay("Y300700200_07_000");
 MsgDisp("Mikage","\"I just got a call from a student's
 family. The leading actor for our
-school play, playing 'Xu Xian' will
+school play, playing \"Xu Xian\" will
 be absent due to family
 circumstances.\"");
 SEPlay("EV_SE_GAYA_007");

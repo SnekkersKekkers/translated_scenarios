@@ -47,7 +47,7 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P240D00000_21_020");
 MsgDisp("Michiru","Finishing move!");
-MsgDisp("主人公","'Love heart forever!'
+MsgDisp("主人公","\"Love heart forever!\"
 Take that!");
 SEPlay("EV_SE_810",0,0.8);
 ScrFadeOut(0,1,60);

@@ -11,15 +11,15 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230000_02_010");
 MsgDisp("Sassa","Ryota and Inori.
-Ryota will be like 'Hmph' and get
+Ryota will be like \"Hmph\" and get
 super grumpy.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230000_02_020");
-MsgDisp("Sassa","Inori will say, 'That's surprising, you went
-to a place like that', but in the end, he'll
-cutely say, 'Take me next time.'");
+MsgDisp("Sassa","Inori will say, \"That's surprising, you went
+to a place like that\", but in the end, he'll
+cutely say, \"Take me next time.\"");
 MsgDisp("主人公","Hehe, yeah, it was so natural I could almost
 hear their voices.");
 ChEye(2,0);
@@ -39,7 +39,7 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230000_02_050");
 MsgDisp("Sassa","In front of them, you'd just go with an
-'Umm...' right?");
+\"Umm...\" right?");
 MsgDisp("主人公","Umm...");
 ChEye(2,0);
 ChMouth(2,3);

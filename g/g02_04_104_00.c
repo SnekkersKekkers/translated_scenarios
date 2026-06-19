@@ -37,7 +37,7 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020410400_04_050");
 MsgDisp("Nanatsumori","That being said, it feels like bad timing to
-just come out and say 'Hey, 7▼co is a guy!'");
+just come out and say \"Hey, 7▼co is a guy!\"");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);

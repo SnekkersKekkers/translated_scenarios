@@ -73,7 +73,7 @@ What's up?");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("Q020200000_02_060");
-    MsgDisp("Sassa","What do you mean 'what's up'?
+    MsgDisp("Sassa","What do you mean \"what's up\"?
 Of course this is about the free period.
 Let's go together.");
     MsgSel("Yeah, let's go!","Sorry, it's just...");

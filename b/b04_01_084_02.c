@@ -75,7 +75,7 @@ for you.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108402_01_050");
-        MsgDisp("Kazama","Don't 'Umm...' me right now.");
+        MsgDisp("Kazama","Don't \"Umm...\" me right now.");
         ChEye(1,0);
         ChMouth(1,1);
         ChMotion(1,0);

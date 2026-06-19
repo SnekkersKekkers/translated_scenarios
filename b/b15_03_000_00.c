@@ -23,15 +23,15 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B150300000_03_030");
 MsgDisp("Honda","According to cultural anthropologists,
-there's 'social distance', where you can talk
+there's \"social distance\", where you can talk
 to someone but can't reach them.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300000_03_040");
-MsgDisp("Honda","Then 'personal distance' where you can read
-expressions, and 'intimate distance' where
+MsgDisp("Honda","Then \"personal distance\" where you can read
+expressions, and \"intimate distance\" where
 you can touch easily.");
 MsgDisp("主人公","Um...?");
 ChEye(3,4);
@@ -39,7 +39,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B150300000_03_050");
 MsgDisp("Honda","So based on those definitions, we're at
-'intimate distance' right now. A space
+\"intimate distance\" right now. A space
 usually reserved for very close people.");
 MsgDisp("主人公","Oh... Sorry, that was a bother, wasn't it?");
 ChEye(3,0);

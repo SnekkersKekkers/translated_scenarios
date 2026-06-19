@@ -26,7 +26,7 @@ ChMouth(5,1);
 ChMotion(5,0);
 SEPlay("EV_SE_712",1,0.7,1);
 VoicePlay("G110500701_05_020");
-MsgDisp("Hiiragi","Such as 'cheers'.");
+MsgDisp("Hiiragi","Such as \"cheers\".");
 MsgDisp("主人公","Hehe.");
 ChEye(5,1);
 ChMouth(5,1);

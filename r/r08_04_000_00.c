@@ -88,7 +88,7 @@ StlMouth(4,1);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("R080400000_04_110");
 MsgDisp("Nanatsumori","It's weird.
-Normally people don't answer with 'I see'
+Normally people don't answer with \"I see\"
 to that.");
 StlEye(4,1,0);
 StlMouth(4,0);

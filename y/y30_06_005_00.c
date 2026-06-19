@@ -50,8 +50,8 @@ MsgClear();
 SEPlay("EV_SE_592");
 SEWait();
 MsgDisp("","My junior handed me a sheet of paper,
-on it was written 'Sports Festival
-Programme'.");
+on it was written \"Sports Festival
+Programme\".");
 MsgDisp("","Right, I volunteered to be on the
 sports festival committee this year.");
 MsgClear();
@@ -76,7 +76,7 @@ gave up on that idea.");
 MsgDisp("","Besides, I wasn't sure if I had
 everyone's trust in the first place.");
 MsgDisp("","That's when the opportunity to be on
-the 'sports festival committee' came
+the \"sports festival committee\" came
 up. It was temporary but involved a
 major school event.");
 MsgClear();

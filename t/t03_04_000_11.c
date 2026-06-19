@@ -9,7 +9,7 @@ when he talked about it.");
 MsgDisp("","Since he continues to live alone, I
 sometimes go over to his house to make
 meals and his favourite sweets, but
-recently he often asks me 'Why don't you
-come live here?' I'm happy, but...
+recently he often asks me \"Why don't you
+come live here?\" I'm happy, but...
 embarrassed.");
 MsgClear();

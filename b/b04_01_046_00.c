@@ -25,7 +25,7 @@ hear him in a venue this close.");
     ChEyeOpenLevel(1,8);
     VoicePlay("B040104600_01_010");
     MsgDisp("Kazama","You're the amazing one here, calling that
-performance just 'okay'.");
+performance just \"okay\".");
     MsgDateResultDisp();
     break ;
     case 2:

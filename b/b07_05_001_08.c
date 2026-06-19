@@ -14,7 +14,7 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("B070500001_05_630");
-MsgDisp("Hiiragi","Does the 'you' reflected in my eyes look like
+MsgDisp("Hiiragi","Does the \"you\" reflected in my eyes look like
 she's enjoying herself?");
 MsgDisp("主人公","Huh?");
 ChEye(5,4);

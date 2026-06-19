@@ -57,7 +57,7 @@ together with me?");
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("Q040300000_03_050");
-    MsgDisp("Honda","Getting a 'good morning' from you outside of
+    MsgDisp("Honda","Getting a \"good morning\" from you outside of
 school is pretty refreshing!");
     MsgDisp("主人公","Really?
 I guess it's because we're in a hotel?");

@@ -20,7 +20,7 @@ ChMouth(3,0);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310401_03_030");
-MsgDisp("Honda","And that 'like' is different from what you
+MsgDisp("Honda","And that \"like\" is different from what you
 feel for family or friends.
 It's only for that one special person...");
 ChEye(3,0);

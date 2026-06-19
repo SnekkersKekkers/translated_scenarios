@@ -55,8 +55,8 @@ I'm sure Inori is also happy.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("Q020C00100_05_030");
-    MsgDisp("Hiiragi","Just now, Inori mailed us to 'Make sure to
-have fun for me too.'");
+    MsgDisp("Hiiragi","Just now, Inori mailed us to \"Make sure to
+have fun for me too.\"");
     MsgDisp("主人公","Hehe, I see.");
     ChEye(5,2);
     ChMouth(5,4);

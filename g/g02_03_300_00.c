@@ -3,14 +3,14 @@ MsgClose();
 ChOpen(3,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020330000_03_000");
 MsgDisp("Honda","Speaking of fireflies (hotaru), have you
-heard of 'hotaru-te'?");
+heard of \"hotaru-te\"?");
 MsgDisp("主人公","Hotaru-te...?");
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020330000_03_010");
 MsgDisp("Honda","Yeah, it's porcelain with openwork carvings
 that show patterns in the light. It's called
-'hotaru-te' as they resemble firefly light.");
+\"hotaru-te\" as they resemble firefly light.");
 ChMotion(3,4);
 VoicePlay("G020330000_03_020");
 MsgDisp("Honda","I saw it at Ryo-kun's place the other day.

@@ -12,8 +12,8 @@ ChEye(3,1);
 ChMotion(3,1);
 VoicePlay("G020330201_03_010");
 MsgDisp("Honda","Things like uniform regulations and hair
-standards. They say 'act like high school
-students', but isn't that standard too vague?");
+standards. They say \"act like high school
+students\", but isn't that standard too vague?");
 ChEye(3,4);
 ChMotion(3,2);
 VoicePlay("G020330201_03_020");

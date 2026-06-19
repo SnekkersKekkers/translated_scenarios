@@ -38,7 +38,7 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("G020810304_08_050");
-MsgDisp("Shirahane","'Cause I was always thinkin' about things, my
+MsgDisp("Shirahane","\"Cause I was always thinkin\" about things, my
 older brother and older sister were really
 worried.");
 MsgDisp("主人公","Ahaha, is that so?");

@@ -7,7 +7,7 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("G020120100_01_010");
-MsgDisp("Kazama","No, not 'Huh? '.
+MsgDisp("Kazama","No, not \"Huh? \".
 I'm talking about you.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -56,7 +56,7 @@ ChMotion(1,1);
 VoicePlay("G020120100_01_070");
 MsgDisp("Kazama","I know you better than anyone.
 So I don't need to rely on weird things like
-'hearing how you really feel', but still.");
+\"hearing how you really feel\", but still.");
 MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);

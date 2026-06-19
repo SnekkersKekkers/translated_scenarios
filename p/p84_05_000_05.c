@@ -27,7 +27,7 @@ with it?");
 VoicePlay("P840500005_40_020");
 MsgDisp("Student A","Ummm...");
 VoicePlay("P840500005_48_000");
-MsgDisp("School Girl","I heard that the characters for 'staff room'
+MsgDisp("School Girl","I heard that the characters for \"staff room\"
 were wrong?");
 MsgDisp("主人公","Umm...is that it?");
 VoicePlay("P840500005_41_040");

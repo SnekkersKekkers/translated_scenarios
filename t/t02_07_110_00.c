@@ -159,7 +159,7 @@ ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020711000_07_180");
-MsgDisp("Mikage","'Like' grows into 'love' in an instant and
+MsgDisp("Mikage","\"Like\" grows into \"love\" in an instant and
 overflows, and there's nothing I can do
 about it.");
 MsgDisp("主人公","｛Mikage＊＊｝...");

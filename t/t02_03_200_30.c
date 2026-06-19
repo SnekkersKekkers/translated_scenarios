@@ -23,8 +23,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_390");
 MsgDisp("Honda","Ryo-kun and Mi-kun will get mad at me
-too. They'll be like 'what did you do to
-her?!'.");
+too. They'll be like \"what did you do to
+her?!\".");
 MsgDisp("主人公","Ugh, I'm sorry...");
 ChEye(3,4);
 ChMouth(3,3);

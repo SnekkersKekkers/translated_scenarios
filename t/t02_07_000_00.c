@@ -91,7 +91,7 @@ ChEyeOpenLevel(7,8);
 VoicePlay("T020700000_07_110");
 MsgDisp("Mikage","Even up to Nagasaki.");
 MsgDisp("主人公","Yes.
-I got the 'MVP' award!");
+I got the \"MVP\" award!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

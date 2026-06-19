@@ -16,7 +16,7 @@ ChOpen(4,255,0,0,3,#1,#1,0,1);
 ChOpen(21,255,3,0,4,#1,#1,0,2);
 MsgDisp("主人公","(｛Nanatsumori＊｝ and ｛みちる＊｝!)");
 VoicePlay("E010440000_21_010");
-MsgDisp("Michiru","The 'surprisingly' part was uncalled for.");
+MsgDisp("Michiru","The \"surprisingly\" part was uncalled for.");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("E010440000_04_010");

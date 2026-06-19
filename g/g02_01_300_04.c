@@ -82,8 +82,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020130004_01_100");
 MsgDisp("Kazama","They end with you.
-They stop with a, 'Alright!
-I'll tell her the next time I see her. '");
+They stop with a, \"Alright!
+I'll tell her the next time I see her. \"");
 MsgDisp("主人公","That kinda makes me happy.");
 ChEye(1,4);
 ChMouth(1,3);

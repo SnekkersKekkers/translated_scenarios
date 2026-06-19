@@ -8,8 +8,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(Seems like our attraction 'Find Molly in the
-giant maze' is getting a lot of attention.
+    MsgDisp("主人公","(Seems like our attraction \"Find Molly in the
+giant maze\" is getting a lot of attention.
 More and more people are gathering...)");
     MsgClose();
     ChLayout(1);

@@ -23,11 +23,11 @@ could make everyone understand clearly.");
 VoicePlay("T040520000_06_000");
 MsgDisp("Himuro","That's right.
 The message you want to deliver is just
-'don't run in the halls'.");
+\"don't run in the halls\".");
 VoicePlay("T040520000_05_020");
 MsgDisp("Hiiragi","Yes I've been wasting my time thus far.
 Next month's message has been decided.
-'Say your greetings!'.");
+\"Say your greetings!\".");
 VoicePlay("T040520000_06_010");
 MsgDisp("Himuro","This is great isn't it? I like
 Yanosuke-senpai's simple series of

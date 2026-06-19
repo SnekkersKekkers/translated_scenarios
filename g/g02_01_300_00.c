@@ -15,7 +15,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_010");
 MsgDisp("Kazama","Yep.
 Sassa would probably say something hackneyed,
-like, 'Don't try to get a head start.'");
+like, \"Don't try to get a head start.\"");
 MsgDisp("主人公","Hahah.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -38,8 +38,8 @@ ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_040");
 MsgDisp("Kazama","Inori would...probably say something to ruin
-the mood, like, 'They say fireflies are the
-souls of the dead.'");
+the mood, like, \"They say fireflies are the
+souls of the dead.\"");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

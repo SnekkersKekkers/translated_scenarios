@@ -18,7 +18,7 @@ MsgDisp("Shirahane","This is the first time I've liked a girl
 this much.");
 NSSEye(8,0);
 VoicePlay("T040800000_08_020");
-MsgDisp("Shirahane","It's completely different from 'liking'
+MsgDisp("Shirahane","It's completely different from \"liking\"
 your big brother and big sister.");
 NSSEye(8,4);
 NSSMouth(8,4);

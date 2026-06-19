@@ -24,9 +24,9 @@ ChEye(5,4);
 ChMouth(5,3);
 ChMotion(5,4);
 VoicePlay("G020540001_05_040");
-MsgDisp("Hiiragi","It was a line from 'Habataki Castle: Flames
-Rising'. It was 'Our souls are eternal!
-That way together!'");
+MsgDisp("Hiiragi","It was a line from \"Habataki Castle: Flames
+Rising\". It was \"Our souls are eternal!
+That way together!\"");
 ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,0);

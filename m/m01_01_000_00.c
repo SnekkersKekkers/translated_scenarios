@@ -47,7 +47,7 @@ VoicePlay("M010100000_01_050");
 MsgDisp("Kazama","And it's the pinwheel from our memories.
 Eat this and get well soon.");
 MsgDisp("主人公","Mm.
-If I blow on it like 'huuu' it seems like
+If I blow on it like \"huuu\" it seems like
 it'd turn.");
 ChEye(1,4);
 ChMouth(1,3);

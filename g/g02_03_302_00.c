@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020330200_03_000");
-MsgDisp("Honda","The other day, Ryo-kun told me, 'I admire
-Honda, but I could never be like him.'");
+MsgDisp("Honda","The other day, Ryo-kun told me, \"I admire
+Honda, but I could never be like him.\"");
 MsgDisp("主人公","Eh, what did he mean by that?");
 ChEye(3,0);
 ChMouth(3,4);

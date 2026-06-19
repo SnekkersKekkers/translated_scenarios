@@ -29,7 +29,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("F020100002_01_020");
 MsgDisp("Kazama","A vegetable farm filled with artificial light
 machines to prepare for what's coming.");
-MsgDisp("主人公","...'what's coming'?");
+MsgDisp("主人公","...\"what's coming\"?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

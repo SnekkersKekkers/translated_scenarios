@@ -36,7 +36,7 @@ What's up?");
     ChEyeOpenLevel(6,0);
     ChCheek(6,5);
     VoicePlay("F010600007_06_030");
-    MsgDisp("Himuro","Nothing's 'up'.
+    MsgDisp("Himuro","Nothing's \"up\".
 ...let's walk home together.");
     break ;
     default :

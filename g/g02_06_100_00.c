@@ -16,7 +16,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("G020610000_06_020");
 MsgDisp("Himuro","No...it's just that having a genuine reaction
-like 'beautiful' is a bit surprising to me.");
+like \"beautiful\" is a bit surprising to me.");
 MsgDisp("主人公","Is it?");
 ChEye(6,0);
 ChMouth(6,4);

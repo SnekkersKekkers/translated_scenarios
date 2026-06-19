@@ -47,7 +47,7 @@ MsgDisp("","But, I never thought such a change
 within me would occur. A chemical
 reaction...a thermal reaction?");
 MsgDisp("","An idol my sister likes has a song
-called 'Love is a Chemical Reaction'.");
+called \"Love is a Chemical Reaction\".");
 MsgClear();
 MsgDisp("","I didn't know such a chemical
 reaction would occur within me...
