@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040103201_01_000");
 MsgDisp("Kazama","Looks like there's a fountain, too.
 That sparkling mist from it is nice.");
-MsgSel("It would be nice if a rainbow appeared","I wonder if it's using water from the tanks","We should have brought a lunch");
+MsgSel("It would be nice if a rainbow appeared.","I wonder if it's using water from the tanks.","We should have brought lunch.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

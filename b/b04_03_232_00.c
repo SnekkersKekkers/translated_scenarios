@@ -10,7 +10,7 @@ ScrFadeIn(0);
 VoicePlay("B040323200_03_000");
 MsgDisp("Honda","With a Ferris wheel, you really get to savour
 both the view and the thrill.");
-MsgSel("We'll get to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary..");
+MsgSel("We'll get to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

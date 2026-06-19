@@ -9,7 +9,7 @@ ChMotion(1,1);
 VoicePlay("B040121200_01_000");
 MsgDisp("Kazama","Huh, they've got quite a bit of
 original merch.");
-MsgSel("They have animal cookies!","Cute▼ They even have panda slippers","They have leopard print leggings!");
+MsgSel("They have animal cookies!","Cute▼ They even have panda slippers!","They have leopard print leggings!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

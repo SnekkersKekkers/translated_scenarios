@@ -11,7 +11,7 @@ SEPlay("EV_SE_598");
 Wait(30,0);
 VoicePlay("B040102202_01_000");
 MsgDisp("Kazama","Ooh, that's a nice breeze coming through.");
-MsgSel("Are you going to set sail, Captain?","Hehe, but it isn't a sail boat","That could be a little ominous");
+MsgSel("Are you going to set sail, Captain?","Hehe, but it isn't a sail boat.","That could be a little ominous.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

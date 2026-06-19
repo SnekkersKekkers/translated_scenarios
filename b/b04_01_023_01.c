@@ -2,7 +2,7 @@ MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("B040102301_01_000");
 MsgDisp("Kazama","This place is a classic date staple.");
-MsgSel("The atmosphere is beautiful","It's enjoyable in every season","Can't go wrong with this classic!");
+MsgSel("The atmosphere is beautiful.","It's enjoyable in every season.","Can't go wrong with this classic!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

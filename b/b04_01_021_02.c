@@ -8,7 +8,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B040102102_01_000");
 MsgDisp("Kazama","Listening to the waves is so soothing.");
-MsgSel("The smell of the ocean is nice too!","I can even hear the sea foam bubbles","Yeah, it makes me drowsy");
+MsgSel("The smell of the ocean is nice too!","I can even hear the sea foam bubbles.","Yeah, it makes me drowsy.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

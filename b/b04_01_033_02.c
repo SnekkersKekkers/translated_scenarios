@@ -7,7 +7,7 @@ ChMouth(1,3);
 VoicePlay("B040103302_01_000");
 MsgDisp("Kazama","Look, it's your favourite.
 The Deep Sea Corner.");
-MsgSel("Don't you like it too?","No matter how many times we come here, it's always interesting","Looks like it's time for dinner");
+MsgSel("Don't you like it too?","No matter how many times we come here, it's always interesting.","Looks like it's time for dinner.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

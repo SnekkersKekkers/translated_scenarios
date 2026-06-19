@@ -8,7 +8,7 @@ ChMotion(1,1);
 VoicePlay("B040102201_01_000");
 MsgDisp("Kazama","This boat is great for just cruising around
 Habataki bay.");
-MsgSel("Yeah, it's like we can go anywhere","Yeah, it's like there's a secret to it","Yeah, it's a real luxury liner");
+MsgSel("Yeah, it's like we can go anywhere.","Yeah, it's like there's a secret to it.","Yeah, it's a real luxury liner.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

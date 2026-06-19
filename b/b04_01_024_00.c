@@ -14,7 +14,7 @@ SEStop("EV_SE_517",2);
 VoicePlay("B040102400_01_000");
 MsgDisp("Kazama","That sounds like a harp.
 I wonder how it works.");
-MsgSel("It's such a peaceful and reassuring sound","I want to listen to this forever","An angel's harp?");
+MsgSel("It's such a peaceful and reassuring sound.","I want to listen to this forever.","An angel's harp?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

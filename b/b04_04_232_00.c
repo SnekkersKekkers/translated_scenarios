@@ -7,7 +7,7 @@ ChOpen(4,255,0,0,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423200_04_000");
 MsgDisp("Nanatsumori","Mm. The ferris wheel is nice.");
-MsgSel("We'll get to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary..");
+MsgSel("We'll get to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

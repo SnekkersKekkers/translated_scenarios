@@ -1,6 +1,6 @@
 MsgDisp("主人公","After all, I gotta apply to a company!
 Which company should I interview for?");
-MsgSel("First-rate company.","Second-rate company.","Third-rate company.");
+MsgSel("First-rate company","Second-rate company","Third-rate company");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Of course, a first-rate company!

@@ -7,7 +7,7 @@ ChMotion(1,1,1);
 ScrFadeIn(0);
 VoicePlay("B040103101_01_000");
 MsgDisp("Kazama","This tank is ginormous.");
-MsgSel("Yeah, it's like a movie theatre screen.▼","It's a little scary, being this big","The fish seem to be swimming happily▼");
+MsgSel("Yeah, it's like a movie theatre screen▼","It's a little scary, being this big.","The fish seem to be swimming happily▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

@@ -6,7 +6,7 @@ ChOpen(2,255,2,0,2,7,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040223200_02_000");
 MsgDisp("Sassa","It'll be a full 15 minutes.");
-MsgSel("We'll get to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary..");
+MsgSel("We'll get to enjoy a beautiful view♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

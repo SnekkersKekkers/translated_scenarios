@@ -7,7 +7,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040101102_01_000");
 MsgDisp("Kazama","Should we go all around the circle?");
-MsgSel("We should go in opposite directions and see where we meet up!","Don't walk too close to the edge","Yeah, I think I'm finally adjusting to it.");
+MsgSel("We should go in opposite directions and see where we meet up!","Don't walk too close to the edge.","Yeah, I think I'm finally adjusting to it.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

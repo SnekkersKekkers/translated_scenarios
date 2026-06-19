@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040114002_01_000");
 MsgDisp("Kazama","There are lots of people here, but strangely,
 I don't mind it.");
-MsgSel("It is darkest under the lamp post","No matter what you do, no one will notice, huh?","Yeah, everyone looks like they're dreaming");
+MsgSel("It is darkest under the lamp post?","No matter what you do, no one will notice, huh?","Yeah, everyone looks like they're dreaming.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -3,7 +3,7 @@ ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("B040102300_01_000");
 MsgDisp("Kazama","It's lively here.");
-MsgSel("I can't seem to settle down","Seems popular with young people","The sound of the seagulls is amazing");
+MsgSel("I can't seem to settle down.","Seems popular with young people.","The sound of the seagulls is amazing.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
