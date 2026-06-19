@@ -6,7 +6,7 @@ ChOpen(1,255,0,2,2,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123302_01_000");
 MsgDisp("Kazama","Sigh... I get it, you like this don't you?");
-MsgSel("I like watching ｛Kazama＊＊｝ jump.","It's scary, but that's what makes it addictive...","Maybe...I like it?");
+MsgSel("I like watching you jump.","It's scary, but that's what makes it addictive...","Maybe... I like it?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(1,6)){

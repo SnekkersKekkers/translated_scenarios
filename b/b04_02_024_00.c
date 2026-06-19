@@ -11,7 +11,7 @@ VoicePlay("B040202400_02_000");
 MsgDisp("Sassa","Eh.
 It looks completely different from how it
 sounds. Cute.");
-MsgSel("It's soothing","I wonder how it works","Just like you.");
+MsgSel("It's soothing.","I wonder how it works.","Just like you?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

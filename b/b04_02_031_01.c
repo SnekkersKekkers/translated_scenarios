@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040203101_02_000");
 MsgDisp("Sassa","For us land creatures, this place is like a
 completely different world.");
-MsgSel("Is that fish the boss?","Sardine Tornado!","It looks like it's food time");
+MsgSel("Is that fish the boss?","Sardine Tornado!","It looks like it's food time.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040203301_02_000");
 MsgDisp("Sassa","Hagfish...
 ...Amazing.");
-MsgSel("Whoa, the mucus is so slimy","I wonder if you can eat it?","Let's look at something else");
+MsgSel("Whoa, the mucus is so slimy.","I wonder if you can eat it?","Let's look at something else.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

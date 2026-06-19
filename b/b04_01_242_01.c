@@ -8,7 +8,7 @@ VoicePlay("B040124201_01_000");
 MsgDisp("Kazama","Then, let's start right away.
 I'm counting on you to prepare the
 vegetables.");
-MsgSel("Let's have tomato curry for lunch!","This kitchen knife seems very sharp.","Let's just throw these vegetables into the curry as they are");
+MsgSel("Let's have tomato curry for lunch!","This kitchen knife seems very sharp.","Let's just throw these vegetables into the curry as they are.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

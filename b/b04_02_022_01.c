@@ -6,7 +6,7 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040202201_02_000");
 MsgDisp("Sassa","The tides seem high today.");
-MsgSel("It's windy, huh?","You should hold on","Do you not like being at sea?");
+MsgSel("It's windy, huh?","You should hold on.","Do you not like being at sea?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

@@ -6,7 +6,7 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040124202_01_000");
 MsgDisp("Kazama","The orange of the campfire is so calming.");
-MsgSel("I could look at it forever","The campfire makes anything more delicious","Let's make sure we deal with the fire properly after");
+MsgSel("I could look at it forever.","A campfire makes everything more delicious.","Let's make sure we deal with the fire properly after.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040203202_02_000");
 MsgDisp("Sassa","Apparently during the night the aquarium is
 all lit up.");
-MsgSel("Wow, you know a lot","I wonder if that blinds the fish?","Sounds romantic");
+MsgSel("Wow, you know a lot.","I wonder if that blinds the fish?","That sounds romantic.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(2,6)){

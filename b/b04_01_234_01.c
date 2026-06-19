@@ -6,7 +6,7 @@ ChOpen(1,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123401_01_000");
 MsgDisp("Kazama","This ride is nothing like what it looks like.");
-MsgSel("The coffee will probably spill, won't it?","The cups are super cute aren't they?","Let's go round and round again!");
+MsgSel("The coffee will probably spill, won't it?","The cups are super cute, aren't they?","Let's go round and round again!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

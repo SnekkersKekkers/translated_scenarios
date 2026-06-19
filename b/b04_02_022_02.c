@@ -6,7 +6,7 @@ ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040202202_02_000");
 MsgDisp("Sassa","You like cruise ships, huh?");
-MsgSel("I love them!","Would somewhere else be better?","It makes me feel like I'm on vacation");
+MsgSel("I love them!","Would somewhere else be better?","It makes me feel like I'm on vacation.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

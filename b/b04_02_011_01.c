@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040201101_02_000");
 MsgDisp("Sassa","You feel so close to the sky up here!");
-MsgSel("Those clouds look like fish","What a nice view","I wish I could swim in the sky");
+MsgSel("Those clouds look like fish.","What a nice view.","I wish I could swim in the sky.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

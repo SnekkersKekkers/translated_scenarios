@@ -6,7 +6,7 @@ ChOpen(1,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040123200_01_000");
 MsgDisp("Kazama","It goes around nice and slow, doesn't it?");
-MsgSel("We were able to enjoy some beautiful scenery♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary..");
+MsgSel("We were able to enjoy some beautiful scenery♪","It was so nice I began to feel sleepy...","It was high up, cramped, and scary...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

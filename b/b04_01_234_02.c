@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040123402_01_000");
 MsgDisp("Kazama","That was quite the intense tea time
 wasn't it?");
-MsgSel("Eh, isn't it coffee?","Would you like another helping?","Let's take a little break");
+MsgSel("Eh, isn't it coffee?","Would you like another helping?","Let's take a little break.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
