@@ -40,7 +40,7 @@ ChClose(1);
 Wait(20,0);
 SEPlay("EV_SE_598",0,0.8);
 Wait(5,0);
-MsgDisp("主人公","Woah∈ A huge breeze∈");
+MsgDisp("主人公","Woah∈ A huge breeze...");
 MsgClose();
 ScrFadeOut(0,0);
 StlOpen("ev_01_08");

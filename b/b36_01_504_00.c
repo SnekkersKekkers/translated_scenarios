@@ -8,7 +8,7 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Whoa∋");
+MsgDisp("主人公","Wow, so pretty.");
 ChEye(1,4);
 VoicePlay("B360150400_01_000");
 MsgDisp("Kazama","Looks like it's a good one.

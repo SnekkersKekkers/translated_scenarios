@@ -41,7 +41,7 @@ I'll show him a good performance!)");
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("H480600000_06_040");
     MsgDisp("Himuro","Not nervous?");
-    MsgDisp("主人公","Huh∋ Ah, ｛Himuro＊＊｝.");
+    MsgDisp("主人公","Huh! Ah, ｛Himuro＊＊｝.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

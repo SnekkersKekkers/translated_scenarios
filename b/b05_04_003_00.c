@@ -101,7 +101,7 @@ StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400300_04_120");
 MsgDisp("Nanatsumori","I'm guessing it's \"Don't tell me you're going
 to wear that∋
-You like to crossdress∋\".");
+You like to crossdress\".");
 MsgDisp("主人公","Uh...");
 StlEyeOpenLevel(4,0,1);
 StlMouthOpenLevel(4,0);
