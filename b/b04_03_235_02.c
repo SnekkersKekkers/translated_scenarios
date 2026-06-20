@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040323502_03_000");
 MsgDisp("Honda","I heard a scream just now, I wonder if
 they're alright?");
-MsgSel("Seems like a staff member helped them.","I didn't hear that voice?","Maybe that was my voice?");
+MsgSel("Seems like a staff member helped them.","I didn't hear a voice?","Maybe that was my voice?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

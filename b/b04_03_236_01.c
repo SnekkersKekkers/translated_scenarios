@@ -9,7 +9,7 @@ ScrFadeIn(0);
 VoicePlay("B040323601_03_000");
 MsgDisp("Honda","The possibilities of full-colour LEDs are
 endless!");
-MsgSel("The pink skull bear is cute","Is that fish person's whole body glowing?","Is that meat on the bone?");
+MsgSel("The pink skull bear is cute.","Is that fish person's whole body glowing?","Is that meat on the bone?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

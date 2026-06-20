@@ -34,7 +34,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040410100_04_030");
-    MsgDisp("Nanatsumori","Romance huh..
+    MsgDisp("Nanatsumori","Romance, huh...
 Well, if it was stimulating for you,
 I'm glad.");
     MsgDispSksp(1,0);

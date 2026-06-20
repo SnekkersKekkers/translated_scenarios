@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040411102_04_000");
 MsgDisp("Nanatsumori","I hate the cold, but surprisingly I can stand
 it at the skating rink.");
-MsgSel("It's strangely exciting isn't it?","Why is that?","It's because the couples are all lovey dovey here▼");
+MsgSel("It's strangely exciting, isn't it?","Why is that?","It's because the couples are all lovey dovey here▼");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

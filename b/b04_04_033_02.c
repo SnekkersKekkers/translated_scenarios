@@ -13,7 +13,7 @@ VoicePlay("B040403302_04_000");
 MsgDisp("Nanatsumori","Hmm... As I get used to looking at them,
 these guys start to seem kinda cute...");
 ChEyeOpenLevel(4,#1);
-MsgSel("Yeah, they're creepy cute▼","Hmmm....","They're not cute at all");
+MsgSel("Yeah, they're creepy cute▼","Hmmm...","They're not cute at all.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

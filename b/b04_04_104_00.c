@@ -39,7 +39,7 @@ Why I did, I don't know though...");
     ChEyeOpenLevel(4,10);
     VoicePlay("B040410400_04_030");
     MsgDisp("Nanatsumori","...You. I seriously respect it.
-I'm kind of pathetic—...");
+I'm kind of pathetic...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

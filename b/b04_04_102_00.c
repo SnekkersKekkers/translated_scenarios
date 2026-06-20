@@ -6,7 +6,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040410200_04_000");
-MsgDisp("Nanatsumori","So cool—.
+MsgDisp("Nanatsumori","So cool...
 I'd like to try riding one of these guys
 one day.");
 MsgSel("Is it a boy's dream?","How about getting a licence?","Aren't you going to take a photo?");

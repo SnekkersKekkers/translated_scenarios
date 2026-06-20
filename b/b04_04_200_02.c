@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040420002_04_000");
 MsgDisp("Nanatsumori","Skiwear is tough, isn't it?
 I mean, it makes you look bulky...");
-MsgSel("It's not a problem if you can ski coolly.","I don't care about fashion when skiing","If it's you, ｛Nanatsumori＊｝, you can pull it off!");
+MsgSel("It's not a problem if you can ski coolly.","I don't care about fashion when skiing.","If it's you, ｛Nanatsumori＊｝, you can pull it off!");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){

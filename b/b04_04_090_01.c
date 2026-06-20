@@ -7,7 +7,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040409001_04_000");
 MsgDisp("Nanatsumori","In a way, it kinda feels like the tropics?");
-MsgSel("How about a tropical theme photo?","Actually, it's more like a trip around the world?","Alohaa♪");
+MsgSel("How about a tropical theme photo?","Actually, it's more like a trip around the world.","Alohaa♪");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

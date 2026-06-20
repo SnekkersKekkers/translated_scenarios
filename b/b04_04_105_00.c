@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040410500_04_000");
 MsgDisp("Nanatsumori","An exquisite world...
 It kinda feels like I'm being sucked in.");
-MsgSel("I feel like my senses have been sharpened!","It's difficult to understand.","I think even I could make this");
+MsgSel("I feel like my senses have been sharpened!","It's difficult to understand.","I think even I could make this.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

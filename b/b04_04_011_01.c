@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040401101_04_000");
 MsgDisp("Nanatsumori","If it were evening, the scenery would be
 completely different to now.");
-MsgSel("I want to take a picture of the sky at sunset.","I want to see it too","There would probably be more couples...");
+MsgSel("I want to take a picture of the sky at sunset.","I want to see it too.","There would probably be more couples...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

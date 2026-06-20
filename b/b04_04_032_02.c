@@ -11,7 +11,7 @@ ScrFadeIn(0);
 VoicePlay("B040403202_04_000");
 MsgDisp("Nanatsumori","Huh.
 Seems they hold events here on certain days.");
-MsgSel("It's unfortunate there's no event today.","I hate when it's crowded","They really know how to pull in a crowd.");
+MsgSel("It's unfortunate there's no event today.","I hate when it's crowded.","They really know how to pull in a crowd.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

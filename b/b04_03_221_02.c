@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322102_03_000");
 MsgDisp("Honda","Hey, it's surrounded by a moat.");
-MsgSel("It looks like it could flood the enemy out.","There's pretty koi swimming in it","It's called a water moat, right?");
+MsgSel("It looks like it could flood the enemy out.","There's pretty koi swimming in it.","It's called a water moat, right?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){
