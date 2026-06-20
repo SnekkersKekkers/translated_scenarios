@@ -32,7 +32,7 @@ MsgDisp("主人公","As for me, I inconvenienced everyone...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P553200009_32_040");
-MsgDisp("VP Himuro","I see.. If that is true, then the first thing
+MsgDisp("VP Himuro","I see... If that is true, then the first thing
 you should do is to not be dispirited by
 yourself.");
 ChEye(32,2);

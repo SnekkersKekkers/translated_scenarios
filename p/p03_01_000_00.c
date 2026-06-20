@@ -52,7 +52,7 @@ I'll take that dango set, then.");
     case 5:
     ScrFadeIn(0);
     MsgDisp("主人公","Thank you for waiting.
-Here is your matcha and mitarashi dango..");
+Here is your matcha and mitarashi dango...");
     MsgDisp("主人公","(Phew...
 I didn't think this many customers would
 come...)");

@@ -91,7 +91,7 @@ I didn't say you had to be a full-body bunny.");
         VoicePlay("B040421202_04_090");
         MsgDisp("Nanatsumori","Well...it can't be helped.
 I seriously do want to see it after all.");
-        MsgDisp("主人公","Eh—...");
+        MsgDisp("主人公","Eh...");
         MsgDisp("主人公","Okay, understood.
 Then, I'll wear it.");
         ChEye(4,0);

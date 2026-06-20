@@ -6,7 +6,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040421302_04_000");
-MsgDisp("Nanatsumori","Amazing—...
+MsgDisp("Nanatsumori","Amazing...
 This might be the first time I've been this
 popular with cats.");
 MsgSel("They're really friendly, right?","You normally aren't popular, huh?","I might get jealous...");
@@ -76,7 +76,7 @@ I'll dote on you.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040421302_04_060");
-        MsgDisp("Nanatsumori","Ah—... It escaped.");
+        MsgDisp("Nanatsumori","Ah... It escaped.");
         MsgDisp("主人公","Ah, sorry.");
         ChEye(4,4);
         ChMouth(4,3);

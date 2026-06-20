@@ -28,7 +28,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360105100_01_020");
 MsgDisp("Kazama","So, let's re-do it from the start.");
-MsgDisp("主人公","Hey.. don't you feel bad for everyone?");
+MsgDisp("主人公","Hey... don't you feel bad for everyone?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

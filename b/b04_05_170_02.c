@@ -31,7 +31,7 @@ I love it too.");
         ChEye(5,2);
         ChMotion(5,2);
         VoicePlay("B040517002_05_020");
-        MsgDisp("Hiiragi","Hm—, I wonder what we'll be made to do...
+        MsgDisp("Hiiragi","Hm, I wonder what we'll be made to do...
 It's a bit worrying.");
         MsgDateResultDisp();
         break ;

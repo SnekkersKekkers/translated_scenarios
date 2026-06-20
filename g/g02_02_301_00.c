@@ -30,7 +30,7 @@ ChMouth(2,3);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020230100_02_040");
-MsgDisp("Sassa","Ah—,there you are...over there, in the most
+MsgDisp("Sassa","Ah, there you are...over there, in the most
 crowded spot.");
 ChEye(2,2);
 ChMouth(2,4);

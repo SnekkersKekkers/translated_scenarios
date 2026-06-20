@@ -68,7 +68,7 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B30801_03_030");
-MsgDisp("Honda","Alone with Ryo-kun—.
+MsgDisp("Honda","Alone with Ryo-kun.
 Seems interesting!");
 ChEye(4,0);
 ChMouth(4,3);

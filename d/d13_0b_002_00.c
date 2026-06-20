@@ -74,7 +74,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("D130B00200_04_040");
-MsgDisp("Nanatsumori","Ah—... I see.
+MsgDisp("Nanatsumori","Ah... I see.
 That guy's warning us all the way from
 England.");
 ChEye(3,4);

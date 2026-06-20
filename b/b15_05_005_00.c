@@ -36,7 +36,7 @@ because I bothered him too much.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500500_05_050");
-MsgDisp("Hiiragi","Sigh.. I want to do that too.");
+MsgDisp("Hiiragi","Sigh... I want to do that too.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're going to leave?
 ...I'll stop now.");
 Wait(40,1);

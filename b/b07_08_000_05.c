@@ -3,7 +3,7 @@ ChEye(8,4);
 ChMouth(8,0);
 ChMotion(8,4,1);
 VoicePlay("B070800000_08_230");
-MsgDisp("Shirahane","Hobbies huh—...
+MsgDisp("Shirahane","Hobbies huh...
 Hmm, what is it?
 I've never really thought about it.");
 MsgDisp("主人公","Eh, really?");

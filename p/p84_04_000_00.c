@@ -6,7 +6,7 @@ ChNanaType(0);
 ChOpen(4,254,0,2,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P840400000_04_000");
-MsgDisp("Nanatsumori","Ha—...that was quite a lot to move.");
+MsgDisp("Nanatsumori","Ha...that was quite a lot to move.");
 MsgDisp("主人公","Yeah.
 It's thanks to ｛Nanatsumori＊｝'s help, you
 really saved me!");

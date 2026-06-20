@@ -4,7 +4,7 @@ BGMPlay("BGM_C02_SASSA_B",0.01);
 BGOpen("ad220",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_522");
-MsgDisp("","(*SLOSH*—,*SLOSH*—,*SLOSH*—)");
+MsgDisp("","(*SLOSH*, *SLOSH*, *SLOSH*)");
 MsgDisp("主人公","\"I think I'm getting the hang of it?
 ...here goes!\"");
 MsgClear();

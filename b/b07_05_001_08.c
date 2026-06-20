@@ -32,7 +32,7 @@ ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B070500001_05_660");
 MsgDisp("Hiiragi","Alright, it's my victory.");
-MsgDisp("主人公","(I.. lost...)");
+MsgDisp("主人公","(I lost...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

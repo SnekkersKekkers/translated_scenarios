@@ -38,7 +38,7 @@ It was awesome!");
     VoicePlay("B040414000_04_030");
     MsgDisp("Nanatsumori","Haha, me too. I guess it's because we're
 listening to it live. I can't get enough of
-this reverberation—...!");
+this reverberation...!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

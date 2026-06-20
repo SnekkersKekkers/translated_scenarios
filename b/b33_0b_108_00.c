@@ -24,7 +24,7 @@ MsgDisp("Kazama","｛主人公｝, are you scared?");
 ChEye(4,1);
 ChMouth(4,3);
 VoicePlay("B330B10800_04_000");
-MsgDisp("Nanatsumori","Yeah, I'm sca—...");
+MsgDisp("Nanatsumori","Yeah, I'm scared...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

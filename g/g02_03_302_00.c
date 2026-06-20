@@ -32,7 +32,7 @@ ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G020330200_03_040");
 MsgDisp("Honda","Um, well, it was when Ryo-kun was surrounded
-by girls..");
+by girls...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);

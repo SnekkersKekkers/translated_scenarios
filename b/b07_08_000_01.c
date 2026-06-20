@@ -30,7 +30,7 @@ ChMotion(8,3,1);
 VoicePlay("B070800000_08_050");
 MsgDisp("Shirahane","And so, at those times the lady of the house,
 my older sister is top priority.");
-MsgDisp("主人公","(I see..
+MsgDisp("主人公","(I see...
 ｛Daichi＊＊｝ is interested in everything.)");
 BGMStop();
 MsgClose();

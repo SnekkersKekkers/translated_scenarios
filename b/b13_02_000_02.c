@@ -9,7 +9,7 @@ ChCheek(2,10);
 VoicePlay("B130200002_02_000");
 MsgDisp("Sassa","If something happens, it'll show with how
 short that is.");
-MsgDisp("主人公","Umm.., the yukata?");
+MsgDisp("主人公","Umm... The yukata?");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,2);

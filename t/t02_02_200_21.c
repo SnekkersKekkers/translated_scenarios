@@ -32,7 +32,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChCheek(2,0);
 VoicePlay("T020220021_02_030");
-MsgDisp("Sassa","A-Ah yeah..
+MsgDisp("Sassa","A-Ah yeah...
 That's right isn't it.");
 ChEye(2,4);
 ChMouth(2,4);

@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040418900_04_000");
     MsgDisp("Nanatsumori","No wonder it's a hot topic.
 It was pretty mind blowing.
-That dance was addictive—...");
+That dance was addictive...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

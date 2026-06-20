@@ -4,7 +4,7 @@ ChMotion(5,4);
 VoicePlay("G020520301_05_000");
 MsgDisp("Hiiragi","Ah, please have a look.
 A lot of fireflies are gathering around a
-single one..");
+single one...");
 ChEye(5,4);
 VoicePlay("G020520301_05_010");
 MsgDisp("Hiiragi","Even in the firefly world, there are popular

@@ -40,7 +40,7 @@ It would be nice if it was well-received...)");
     MsgClose();
     ChOpen(3,254,4,0,0,#1,#1,0,0);
     VoicePlay("P630300001_03_030");
-    MsgDisp("Honda","Ah—,Fuu—...
+    MsgDisp("Honda","Ah...
 The aroma of fresh herbs is spreading, huh?");
     MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Welcome!");

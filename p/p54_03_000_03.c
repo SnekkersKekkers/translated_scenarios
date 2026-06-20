@@ -11,7 +11,7 @@ ChOpen(3,254,0,5,4,#1,#1,0,0);
 VoicePlay("P540300003_03_000");
 MsgDisp("Honda","That was an amazing sound coming out of your
 instrument.");
-MsgDisp("主人公","Uuughh..");
+MsgDisp("主人公","Uuughh...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

@@ -28,7 +28,7 @@ Thank you.");
     VoicePlay("P730500000_05_020");
     MsgDisp("Hiiragi","Even if I tell you to relax, it's
 difficult, right?");
-    MsgDisp("主人公","I'm super nervous..
+    MsgDisp("主人公","I'm super nervous...
 This is my first time doing something like a
 fashion show.");
     VoicePlay("P730500000_05_030");

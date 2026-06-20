@@ -26,7 +26,7 @@ I'm good at climbin' trees though?");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("B040824201_08_020");
-    MsgDisp("Shirahane","Hm—.
+    MsgDisp("Shirahane","Hm.
 I mean, gettin' a little dirty is part of
 camping, right?");
     MsgDateResultDisp();

@@ -27,7 +27,7 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30200_01_000");
-MsgDisp("Kazama","Hm—...");
+MsgDisp("Kazama","Hm...");
 MsgDisp("主人公","｛Kazama＊＊｝, what's wrong?");
 ChEye(1,0);
 ChMouth(1,2);

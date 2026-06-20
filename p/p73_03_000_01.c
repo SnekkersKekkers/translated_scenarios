@@ -34,7 +34,7 @@ You have to patient with this kind of work?");
     MsgDisp("Honda","You'll be wearing and walking in the
 fruits of your labour, there's no way I
 can miss that.");
-    MsgDisp("主人公","That's p-pressure—...
+    MsgDisp("主人公","That's p-pressure...
 I'll do my best.");
     SEPlay("EV_SE_038");
     SEWait();

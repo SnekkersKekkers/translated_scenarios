@@ -63,7 +63,7 @@ VoicePlay("G020610304_06_090");
 MsgDisp("Himuro","In the first place, my goal was to make you
 happy, but it got replaced by my desire to
 see your happy face.");
-MsgDisp("主人公","｛Himuro＊＊｝ ――");
+MsgDisp("主人公","｛Himuro＊＊｝ —");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

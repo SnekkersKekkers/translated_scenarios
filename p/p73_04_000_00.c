@@ -23,7 +23,7 @@ I'm nervous..)");
 I'm nervous...");
     VoicePlay("P730400000_04_010");
     MsgDisp("Nanatsumori","I could guess.");
-    MsgDisp("主人公","Eh—....");
+    MsgDisp("主人公","Eh...");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

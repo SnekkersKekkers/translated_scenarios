@@ -30,7 +30,7 @@ ChMotion(3,3);
 VoicePlay("M010300000_03_030");
 MsgDisp("Honda","Yeah yeah.
 They asked me what you were like at school.");
-MsgDisp("主人公","Eh—...
+MsgDisp("主人公","Eh...
 You didn't tell them anything weird, right?");
 ChSet(3,4);
 VoicePlay("M010300000_03_040");

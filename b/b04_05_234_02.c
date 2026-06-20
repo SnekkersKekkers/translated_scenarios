@@ -82,7 +82,7 @@ me. That much is a hard fact.");
         VoicePlay("B040523402_05_090");
         MsgDisp("Hiiragi","That being the case, it's better if you only
 come to the amusement park with me?");
-        MsgDisp("主人公","(Eh.. going to the amusement park with only
+        MsgDisp("主人公","(Eh... going to the amusement park with only
 ｛Hiiragi＊＊＊｝?)");
         break ;
         default :

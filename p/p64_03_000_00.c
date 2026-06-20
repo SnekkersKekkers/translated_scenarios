@@ -13,7 +13,7 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P640300000_03_010");
 MsgDisp("Honda","Yep yep.
-It's a super nice fragrance..");
+It's a super nice fragrance...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

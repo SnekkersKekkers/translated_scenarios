@@ -12,7 +12,7 @@ MsgDisp("Michiru","Even though it was supposed to have been on
 the desk just a moment ago...");
 MsgDisp("主人公","The rulers too...where are they?");
 VoicePlay("P840D00003_46_000");
-MsgDisp("School Girl","Excuse me—, but our class doesn't have
+MsgDisp("School Girl","Excuse me, but our class doesn't have
 enough blackout curtains.");
 MsgDisp("主人公","Eh, blackout curtains?
 Umm, where do we...store them again?");

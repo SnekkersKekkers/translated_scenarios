@@ -4,7 +4,7 @@ MsgClose();
 ChOpen(5,255,2,2,2,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B150500300_05_000");
-MsgDisp("Hiiragi","Phew—...you're a more nimble, mischievous
+MsgDisp("Hiiragi","Phew...you're a more nimble, mischievous
 cat than I thought.");
 MsgDisp("主人公","Huh?");
 ChEye(5,0);
@@ -37,7 +37,7 @@ The me you know is only one part.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500300_05_060");
-MsgDisp("Hiiragi","I.. don't want to show you the rest.");
+MsgDisp("Hiiragi","I... don't want to show you the rest.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMouth(5,4);
 ChMotion(5,0);

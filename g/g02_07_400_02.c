@@ -29,7 +29,7 @@ ChMotion(7,4);
 VoicePlay("G020740002_07_030");
 MsgDisp("Mikage","\"It seems like you've left some of your
 assignments unattended. Settle them.\"... is
-what it told me. I still have those dreams..");
+what it told me. I still have those dreams...");
 MsgDisp("主人公","Hehe, is that so?");
 ChEye(7,2);
 ChMouth(7,0);

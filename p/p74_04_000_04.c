@@ -26,7 +26,7 @@ MsgDisp("主人公","Hm?");
 ChEye(4,3);
 ChMouth(4,3);
 VoicePlay("P740400004_04_030");
-MsgDisp("Nanatsumori","Hm? Ah—...
+MsgDisp("Nanatsumori","Hm? Ah...
 I hope you can become a good bride?");
 MsgDisp("主人公","(Yay, I'm truly glad I devoted myself to the
 handicrafts club these last three years!)");

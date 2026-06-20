@@ -21,7 +21,7 @@ ChEye(8,2);
 ChMouth(8,1);
 ChMotion(8,3,1);
 VoicePlay("D020800200_08_020");
-MsgDisp("Shirahane","Don't laugh! Sigh—...");
+MsgDisp("Shirahane","Don't laugh! Sigh...");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);

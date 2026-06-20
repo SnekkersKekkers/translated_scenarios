@@ -67,7 +67,7 @@ thinking.");
         ChMouth(8,4);
         ChMotion(8,4,1);
         VoicePlay("B040808202_08_050");
-        MsgDisp("Shirahane","Hm—...");
+        MsgDisp("Shirahane","Hm...");
         ChMouth(8,4);
         ChEyeOpenLevel(8,#1);
         VoicePlay("B040808202_08_060");

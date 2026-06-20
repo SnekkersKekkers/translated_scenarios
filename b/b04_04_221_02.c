@@ -89,7 +89,7 @@ I'm sure you don't mean it though.");
         ChMotion(4,1,1);
         VoicePlay("B040422102_04_100");
         MsgDisp("Nanatsumori","T-That's exactly it.
-You're so sneaky—...");
+You're so sneaky...");
         MsgDisp("主人公","Uugh.");
         ChEye(4,3);
         ChMouth(4,3);

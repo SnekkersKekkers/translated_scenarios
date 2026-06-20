@@ -59,7 +59,7 @@ ChMotion(1,0);
 VoicePlay("T020100000_01_060");
 MsgDisp("Kazama","...The first time I saw you was when we
 were digging for sweet potatoes in
-kindergarten..");
+kindergarten...");
 MsgDisp("主人公","Eh...?");
 ChEye(1,2);
 ChMouth(1,3);

@@ -76,7 +76,7 @@ ChEye(22,4);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("F100430001_22_050");
-MsgDisp("Hikaru","How bothersome—...");
+MsgDisp("Hikaru","How bothersome...");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

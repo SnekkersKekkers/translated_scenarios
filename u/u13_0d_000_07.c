@@ -50,7 +50,7 @@ of interest in Habataki celebrities.");
     VoicePlay("U130D00007_21_020");
     MsgDisp("Michiru","He might want to show his cool side to Mari.
 Making lots of friends at school might ignite
-his competitive side..");
+his competitive side...");
     MsgDisp("主人公","(｛Daichi＊＊｝ is competitive, huh...
 If I become friends with him, will I be able
 to see every side of him?)");

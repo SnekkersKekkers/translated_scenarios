@@ -27,7 +27,7 @@ ChEye(8,0);
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("B050800100_08_030");
-MsgDisp("Shirahane","Ah—...but it's this time already.
+MsgDisp("Shirahane","Ah...but it's this time already.
 I guess we should go home soon, though...");
 ChEye(8,4);
 ChMouth(8,0);

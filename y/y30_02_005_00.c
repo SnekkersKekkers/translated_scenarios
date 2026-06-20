@@ -62,7 +62,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 SEWait();
-MsgDisp("","Hah, hah, hah, hah..
+MsgDisp("","Hah, hah, hah, hah...
 The turnaround point is coming into
 view.");
 VoicePlay("Y300200500_02_030");

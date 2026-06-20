@@ -24,7 +24,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220000_02_020");
-MsgDisp("Sassa","Ryota and Inori..");
+MsgDisp("Sassa","Ryota and Inori...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

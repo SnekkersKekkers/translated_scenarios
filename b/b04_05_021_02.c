@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("B040502102_05_010");
-    MsgDisp("Hiiragi","Hmm...Ah—.
+    MsgDisp("Hiiragi","Hmm...Ah.
 Basically you have to breathe from your
 stomach.");
     MsgDispSksp(1,0);

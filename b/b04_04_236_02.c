@@ -14,7 +14,7 @@ ScrFadeIn(0);
 VoicePlay("B040423602_04_000");
 MsgDisp("Nanatsumori","...When I see this, I feel like summer is
 coming to an end.");
-MsgSel("I won't forget this for the rest of my life...","It feels a bit sad, huh?","We've got summer homework huh—...");
+MsgSel("I won't forget this for the rest of my life...","It feels a bit sad, huh?","We've got summer homework huh...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
@@ -121,7 +121,7 @@ your notes.");
         VoicePlay("B040423602_04_140");
         MsgDisp("Nanatsumori","Getting all embarrassed when I'm the one who
 said it...
-So pathetic—...");
+So pathetic...");
         MsgDisp("主人公","(My heart is racing...)");
         break ;
         default :

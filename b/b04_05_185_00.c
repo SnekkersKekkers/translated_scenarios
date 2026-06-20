@@ -35,7 +35,7 @@ But, it has piqued my interest.");
     VoicePlay("B040518500_05_020");
     MsgDisp("Hiiragi","I do not think it is that bad.
 But maybe the original left a strong
-impression..");
+impression...");
     MsgDateResultDisp();
     break ;
     default :

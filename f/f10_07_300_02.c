@@ -37,7 +37,7 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F100730002_21_010");
 MsgDisp("Michiru","Yeah, that's right.
-There's no problem, though..");
+There's no problem, though...");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);

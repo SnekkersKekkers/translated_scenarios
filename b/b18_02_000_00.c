@@ -55,13 +55,13 @@ necessary until we get used to it.");
     ChMotion(2,0);
     ChCheek(2,0);
     VoicePlay("B180200000_02_060");
-    MsgDisp("Sassa","Ahh—. I-Is that right?");
+    MsgDisp("Sassa","Ahh. I-Is that right?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("B180200000_02_070");
     MsgDisp("Sassa","It doesn't really feel right all of a
-sudden—.
+sudden.
 Haha...");
     MsgDisp("主人公","(Did I make him feel bad...?)");
     break ;

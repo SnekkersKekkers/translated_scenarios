@@ -9,7 +9,7 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","Phew..
+MsgDisp("主人公","Phew...
 Don't you feel like letting out a sigh
 of relief?");
 ChEye(4,2);

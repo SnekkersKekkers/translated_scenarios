@@ -72,7 +72,7 @@ MsgDisp("Shirahane","For this girl here too, alright?
 Please bring a wonderful love to both
 of us...");
 VoicePlay("B050800000_08_100");
-MsgDisp("Shirahane","Please, I ask of you... Amen—...");
+MsgDisp("Shirahane","Please, I ask of you... Amen...");
 MsgDisp("主人公","(｛Daichi＊＊｝ is serious...)");
 MsgClose();
 ScrFadeOut(0);

@@ -10,7 +10,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040412100_04_000");
-MsgDisp("Nanatsumori","Ah—, I'm getting excited...");
+MsgDisp("Nanatsumori","Ah, I'm getting excited...");
 MsgSel("Let's find some bargains!","Setting up your own stall would be fun.","It's an environmentally-friendly event, too.");
 switch (MsgSelRsltGet()){
     case 0:

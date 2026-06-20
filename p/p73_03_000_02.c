@@ -37,7 +37,7 @@ up close.");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("P730300002_03_030");
-    MsgDisp("Honda","Ah—, I see!
+    MsgDisp("Honda","Ah, I see!
 Sorry.
 You look too real.");
     SEPlay("EV_SE_038");

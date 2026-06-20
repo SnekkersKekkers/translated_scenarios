@@ -99,7 +99,7 @@ ChCheek(6,10);
 VoicePlay("B110600001_06_050");
 MsgDisp("Himuro","It was nothing.
 But you were the one who dealt with him.
-And with that outfit on..");
+And with that outfit on...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

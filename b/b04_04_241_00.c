@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,0);
     VoicePlay("B040424100_04_010");
-    MsgDisp("Nanatsumori","I smell something..");
+    MsgDisp("Nanatsumori","I smell something...");
     MsgDateResultDisp();
     break ;
     case 1:

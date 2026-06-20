@@ -112,7 +112,7 @@ Shall we go then...");
     ChMouth(4,0);
     ChMotion(4,0,1);
     VoicePlay("B040411002_04_120");
-    MsgDisp("Nanatsumori","I see.. But, don't stare too much.");
+    MsgDisp("Nanatsumori","I see... But, don't stare too much.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

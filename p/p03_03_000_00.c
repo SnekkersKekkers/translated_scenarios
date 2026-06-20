@@ -10,7 +10,7 @@ switch (ChPrmGet(3,6)){
     break ;
     case 3:
     MsgDisp("主人公","Thank you for waiting.
-Here is your matcha and mitarashi dango..");
+Here is your matcha and mitarashi dango...");
     MsgDisp("主人公","(Phew...
 I didn't think this many customers would
 come...)");

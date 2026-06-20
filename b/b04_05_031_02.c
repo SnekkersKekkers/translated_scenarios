@@ -77,7 +77,7 @@ Huh, Yanosuke-sama∈");
 I wonder if that girl is Yanosuke-sama's
 girlfriend?");
         VoicePlay("B040503102_45_010");
-        MsgDisp("Woman A","Eh—, no way.
+        MsgDisp("Woman A","Eh, no way.
 That would be impossible.");
         ChMotion(5,4);
         VoicePlay("B040503102_05_070");

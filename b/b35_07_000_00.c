@@ -2,7 +2,7 @@ BGDateAfterOpen();
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B350700000_07_000");
-MsgDisp("Mikage?","Oi—.");
+MsgDisp("Mikage?","Oi.");
 MsgClose();
 ChOpen(7,255,5,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Huh, ｛Mikage＊＊｝?

@@ -29,7 +29,7 @@ Should I have given him a better chocolate?)");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("L040700001_07_020");
-    MsgDisp("Mikage","Ah—, this.
+    MsgDisp("Mikage","Ah, this.
 They're easy to open for a quick bite.");
     MsgDisp("主人公","Um, yes.");
     ChEye(7,0);

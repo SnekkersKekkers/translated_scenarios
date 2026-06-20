@@ -5,7 +5,7 @@ ChOpen(8,255,0,2,1,#1,#1,4,0);
 ScrFadeIn(0);
 ChMotion(8,4,1);
 VoicePlay("B150800300_08_000");
-MsgDisp("Shirahane","Aah～, it's completely no good..");
+MsgDisp("Shirahane","Aah～ It's completely no good...");
 ChEye(8,2);
 ChMouth(8,4);
 VoicePlay("B150800300_08_010");

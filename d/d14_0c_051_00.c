@@ -97,7 +97,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("D140C05100_07_040");
-MsgDisp("Mikage","Ehhh—, as expected of Yanosuke.
+MsgDisp("Mikage","Ehhh, as expected of Yanosuke.
 I can picture the scene. Nice.");
 ChEye(6,0);
 ChMouth(6,4);

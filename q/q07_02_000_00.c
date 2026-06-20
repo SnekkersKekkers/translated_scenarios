@@ -52,7 +52,7 @@ ScrFadeIn(0);
 MsgClose();
 ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoicePlay("Q070200000_02_050");
-MsgDisp("Sassa","Huh... That's a big building..");
+MsgDisp("Sassa","Huh... That's a big building...");
 MsgDisp("主人公","Such a big tower!
 It's called Domtoren Tower.");
 ChEye(2,0);

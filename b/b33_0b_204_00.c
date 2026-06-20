@@ -36,9 +36,9 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B330B20400_03_010");
 VoiceEVSPlay(3);
-MsgDisp("Honda","Bento huh—.
+MsgDisp("Honda","Bento huh.
 If only we had planned it.
-Right, ｛主人公｝.");
+Right, ｛主人公｝?");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","Eh?");

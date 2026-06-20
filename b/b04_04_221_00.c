@@ -6,7 +6,7 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040422100_04_000");
-MsgDisp("Nanatsumori","Hm—. The view is nice, as I thought.");
+MsgDisp("Nanatsumori","Hm. The view is nice, as I thought.");
 MsgSel("You can take in all of Habataki City at a glance▼","Just the scenery?","I'm happy to see this with ｛Nanatsumori＊｝.");
 switch (MsgSelRsltGet()){
     case 0:

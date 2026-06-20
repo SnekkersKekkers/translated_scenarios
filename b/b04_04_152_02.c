@@ -83,7 +83,7 @@ I got a double bullseye!");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040415202_04_070");
-        MsgDisp("Nanatsumori","Ah—, this feels nice. So?
+        MsgDisp("Nanatsumori","Ah, this feels nice. So?
 Have you decided on a prize for the wager?");
         MsgDisp("主人公","I'm still...");
         ChEye(4,4);
@@ -91,7 +91,7 @@ Have you decided on a prize for the wager?");
         ChMotion(4,2,1);
         VoicePlay("B040415202_04_080");
         MsgDisp("Nanatsumori","Then, I'll think about it.
-That's right—...");
+That's right...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,0,1);

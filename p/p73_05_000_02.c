@@ -73,7 +73,7 @@ I have to make it a success!)");
     ChOpen(5,254,0,4,2,#1,#1,7,0);
     VoicePlay("P730500002_05_060");
     MsgDisp("Hiiragi","...Hu.");
-    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝..");
+    MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝...");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

@@ -8,7 +8,7 @@ MsgDisp("主人公","Why all of a sudden?");
 ChMotion(3,0);
 VoicePlay("G020310201_03_010");
 MsgDisp("Honda","There are a lot of couples around here, so I
-was wondering if people see us the same way..");
+was wondering if people see us the same way...");
 ChMouth(3,0);
 VoicePlay("G020310201_03_020");
 MsgDisp("Honda","Going out with you like this has become so

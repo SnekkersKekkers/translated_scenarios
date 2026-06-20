@@ -46,7 +46,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("G110100602_01_030");
-MsgDisp("Kazama","Sigh—, I wish I didn't ask.");
+MsgDisp("Kazama","Sigh, I wish I didn't ask.");
 MsgDisp("主人公","Umm...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);

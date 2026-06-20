@@ -13,7 +13,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 ChMotion(4,3,1);
 VoicePlay("B040423600_04_000");
-MsgDisp("Nanatsumori","Amazing—...
+MsgDisp("Nanatsumori","Amazing...
 I'm super excited...");
 MsgSel("That float is so cute! I'll take a picture.","Pretty...It's like I'm in a dream.","I can't see anything because people are in the way...");
 switch (MsgSelRsltGet()){

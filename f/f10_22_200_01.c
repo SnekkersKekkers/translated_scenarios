@@ -4,7 +4,7 @@ ScrFadeIn(0);
 VoicePlay("F102220001_31_000");
 MsgDisp("Goro?","Oh my! I wonder why Ikkaku won't wear it?!");
 VoicePlay("F102220001_22_000");
-MsgDisp("Hikaru?","Ah—...
+MsgDisp("Hikaru?","Ah...
 Uncle's fashion designs only suit a select
 few after all...");
 MsgDisp("主人公","(That voice...)");

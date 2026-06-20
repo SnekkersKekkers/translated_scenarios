@@ -33,7 +33,7 @@ ChMotion(6,0);
 VoicePlay("F100610001_06_030");
 MsgDisp("Himuro","They were wondering if it's true that
 Reiichi-san once went to the legendary church
-to meet the princess who was waiting there..");
+to meet the princess who was waiting there...");
 MsgDisp("主人公","Ehh∋");
 ChEye(6,0);
 ChMouth(6,0);

@@ -7,7 +7,7 @@ BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
 ChOpen(8,254,2,0,4,#1,#1,0,0);
 VoicePlay("M010800000_08_000");
-MsgDisp("Shirahane","I'm comin' in—...");
+MsgDisp("Shirahane","I'm comin' in...");
 MsgDisp("主人公","Eh∋ ｛Daichi＊＊｝, why...?");
 ChEye(8,2);
 ChMouth(8,1);

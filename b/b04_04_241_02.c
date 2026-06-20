@@ -59,7 +59,7 @@ Wanna go home?");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,0);
         VoicePlay("B040424102_04_050");
-        MsgDisp("Nanatsumori","Hmm—...what should we do—...");
+        MsgDisp("Nanatsumori","Hmm...what should we do...");
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040424102_04_060");
         MsgDisp("Nanatsumori","Milking...is not my style, and I'm not good

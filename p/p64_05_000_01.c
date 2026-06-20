@@ -27,7 +27,7 @@ My mouth has been...");
 ChEyeOpenLevel(5,9);
 VoicePlay("P640500001_05_040");
 MsgDisp("Hiiragi","Excuse me, could I get a bit of water?");
-MsgDisp("主人公","(Sigh.. I should have sampled a little bit.
+MsgDisp("主人公","(Sigh... I should have sampled a little bit.
 A huge failure...)");
 MsgClose();
 BGMStop();

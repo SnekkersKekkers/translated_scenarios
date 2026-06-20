@@ -9,7 +9,7 @@ VoicePlay("B040421200_04_000");
 MsgDisp("Nanatsumori","Oh.
 They have a pretty good selection of
 items here.");
-MsgSel("I have to get the limited edition stuff","Just looking is fine...","I want a plushie");
+MsgSel("I have to get the limited edition stuff!","Just looking is fine...","I want a plushie.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

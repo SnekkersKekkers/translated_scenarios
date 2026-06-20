@@ -8,7 +8,7 @@ BGMPlay("BGM_PLACE_CASTLE",0.01);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360222101_02_000");
-MsgDisp("Sassa","Phew—...
+MsgDisp("Sassa","Phew...
 Somehow we managed to make it in time for
 the sunset.");
 MsgDisp("主人公","Sigh...yeah.");

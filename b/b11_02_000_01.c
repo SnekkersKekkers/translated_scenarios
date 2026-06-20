@@ -2,7 +2,7 @@ MsgClose();
 ChClose(2,0,0);
 BGMPlay("BGM_PLACE_BEACH",0.01);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh? ｛Sassa＊＊｝ still isn't here yet..");
+MsgDisp("主人公","Huh? ｛Sassa＊＊｝ still isn't here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

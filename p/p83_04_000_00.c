@@ -25,7 +25,7 @@ Yeah, super busy.");
     VoicePlay("P830400000_04_010");
     MsgDisp("Nanatsumori","Well, that's part of management.");
     VoicePlay("P830400000_46_000");
-    MsgDisp("School Girl","Um—.
+    MsgDisp("School Girl","Um.
 The audiovisual room doesn't have enough
 blackout curtains. Could you bring some?");
     MsgDisp("主人公","Yes～. Then I'll be going now!");

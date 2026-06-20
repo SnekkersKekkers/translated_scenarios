@@ -53,7 +53,7 @@ ChMotion(21,2);
 VoicePlay("F102110002_21_070");
 MsgDisp("Michiru","I'm curious to know how the story goes, but
 I'm too scared to read it...");
-MsgDisp("主人公","I see..");
+MsgDisp("主人公","I see...");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,0);

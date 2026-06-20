@@ -13,7 +13,7 @@ MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChOpen(6,255,0,0,0,#1,#1,0,1,0,30);
 ChOpen(32,254,0,0,0,#1,#1,0,2,0,30);
-MsgDisp("主人公","Hello, Himuro-sensei..");
+MsgDisp("主人公","Hello, Himuro-sensei...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("E010630200_32_010");

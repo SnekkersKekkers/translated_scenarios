@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040411000_04_010");
-        MsgDisp("Nanatsumori","Oh—, pretty.
+        MsgDisp("Nanatsumori","Oh, pretty.
 You really are like a mermaid.");
         MsgDispSksp(1,7);
         MsgDateResultDisp();

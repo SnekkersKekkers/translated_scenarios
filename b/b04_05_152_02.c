@@ -43,7 +43,7 @@ Let's add a handicap.");
         ChMouth(5,3);
         ChMotion(5,1);
         VoicePlay("B040515202_05_040");
-        MsgDisp("Hiiragi","Phew—... Well, you got me, huh?");
+        MsgDisp("Hiiragi","Phew... Well, you got me, huh?");
         MsgDisp("主人公","Hehe, shall we have a competition then?");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -57,7 +57,7 @@ ChMotion(6,0);
 VoicePlay("B330A30401_06_020");
 MsgDisp("Himuro","Right.
 But if Nozomu-senpai incorporated that kind
-of Eastern energy..");
+of Eastern energy...");
 ChMouth(1,3);
 MsgDisp("主人公","Yeah, he might set great records!");
 ChEye(2,0);

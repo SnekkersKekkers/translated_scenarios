@@ -97,7 +97,7 @@ A diligent and adorable princess?");
     VoicePlay("P730700001_07_100");
     MsgDisp("Mikage","Then, go off and show your charm.");
     MsgDisp("主人公","...Yes!");
-    MsgDisp("主人公","(A princess.. huh?
+    MsgDisp("主人公","(A princess... huh?
 Alright, let's try to conduct myself
 elegantly!)");
     break ;

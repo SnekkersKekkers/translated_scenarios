@@ -57,7 +57,7 @@ terms of outfits.");
         ChMouth(4,3);
         ChMotion(4,2,1);
         VoicePlay("B040414002_04_060");
-        MsgDisp("Nanatsumori","But, if I could, it would be fun—....");
+        MsgDisp("Nanatsumori","But, if I could, it would be fun...");
         MsgDisp("主人公","Right...");
         ChEye(4,0);
         ChMouth(4,3);

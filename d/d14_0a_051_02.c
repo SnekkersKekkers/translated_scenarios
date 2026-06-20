@@ -97,7 +97,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A05102_06_040");
-MsgDisp("Himuro","Sigh.. please do as you'd like.
+MsgDisp("Himuro","Sigh... please do as you'd like.
 Right?");
 MsgDisp("主人公","Hehe, yeah.
 ｛Kazama＊＊｝ and ｛Sassa＊＊｝ are the ones who

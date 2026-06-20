@@ -19,7 +19,7 @@ MsgDisp("Mikage","Having someone eat your vegetables right in
 front of you is special, like marrying off a
 cute girl, right?");
 VoicePlay("P610700002_45_000");
-MsgDisp("Member A","Eh—, Sensei, do you have kids?");
+MsgDisp("Member A","Eh, Sensei, do you have kids?");
 VoicePlay("P610700004_07_010");
 ChEye(7,0);
 ChMouth(7,0);

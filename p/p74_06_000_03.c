@@ -2,7 +2,7 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I fell..
+MsgDisp("主人公","(I fell...
 The dress was also ruined...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");

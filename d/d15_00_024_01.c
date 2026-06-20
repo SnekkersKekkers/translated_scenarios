@@ -6,7 +6,7 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("D150002401_02_000");
 MsgDisp("Sassa","Everyone's greeting each other.
-Feels like elementary school lunches..");
+Feels like elementary school lunches...");
 MsgDisp("主人公","Hehe, true.");
 ChEye(4,0);
 ChMouth(4,4);

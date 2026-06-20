@@ -10,7 +10,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600700_06_000");
-MsgDisp("Himuro","No, today I'm going to the arcade——");
+MsgDisp("Himuro","No, today I'm going to the arcade—");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);

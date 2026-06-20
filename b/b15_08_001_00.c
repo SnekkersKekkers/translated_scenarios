@@ -17,7 +17,7 @@ ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("B150800100_08_020");
-MsgDisp("Shirahane","Hm—... I wanna explain how, but it's hard.");
+MsgDisp("Shirahane","Hm... I wanna explain how, but it's hard.");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,0,1);

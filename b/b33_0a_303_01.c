@@ -15,7 +15,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30301_01_000");
-MsgDisp("Kazama","Ehhh—.
+MsgDisp("Kazama","Ehhh.
 Looks like a new shop is opening over there.");
 ChEye(2,0);
 ChMouth(2,4);

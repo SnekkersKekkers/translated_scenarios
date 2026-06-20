@@ -18,7 +18,7 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("B150400500_04_030");
-MsgDisp("Nanatsumori","I've gotten used to it.. or rather, I've
+MsgDisp("Nanatsumori","I've gotten used to it... or rather, I've
 already given up.");
 MsgDisp("主人公","?");
 ChEye(4,0);
@@ -40,7 +40,7 @@ SEPlay("EV_SE_551");
 SEWait();
 VoicePlay("B150400500_04_050");
 MsgDisp("Nanatsumori","Sigh...");
-MsgDisp("主人公","Ugh—... ｛Nanatsumori＊｝, it hurts.");
+MsgDisp("主人公","Ugh... ｛Nanatsumori＊｝, it hurts.");
 VoicePlay("B150400500_04_060");
 MsgDisp("Nanatsumori","I bet. I'm holding you with all my strength.");
 MsgDisp("主人公","(What should I do?

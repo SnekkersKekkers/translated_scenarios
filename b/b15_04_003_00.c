@@ -6,7 +6,7 @@ ChOpen(4,253,0,0,1,0,#1,0,0);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B150400300_04_000");
-MsgDisp("Nanatsumori","Sigh—...");
+MsgDisp("Nanatsumori","Sigh...");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);

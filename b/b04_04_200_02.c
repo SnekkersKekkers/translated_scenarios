@@ -39,7 +39,7 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040420002_04_030");
         MsgDisp("Nanatsumori","Sigh.
 Maybe I should get an instructor to
-teach me—...");
+teach me...");
         ChEye(4,1);
         ChMouth(4,1);
         ChEyeOpenLevel(4,0);

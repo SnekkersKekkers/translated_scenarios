@@ -8,7 +8,7 @@ warm, y'know.");
 MsgDisp("主人公","Yes, that's what it feels like.");
 ChMotion(8,2,1);
 VoicePlay("G020840000_08_010");
-MsgDisp("Shirahane","I wonder if it's 'cause of that—...");
+MsgDisp("Shirahane","I wonder if it's 'cause of that...");
 MsgDisp("主人公","Hm?");
 ChEye(8,4);
 ChMouth(8,3);

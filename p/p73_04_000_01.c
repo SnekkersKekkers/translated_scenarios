@@ -17,7 +17,7 @@ I like it but...)");
     ChNanaType(0);
     ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
     VoicePlay("P730400001_04_000");
-    MsgDisp("Nanatsumori","Oh—. Pretty pretty.");
+    MsgDisp("Nanatsumori","Oh. Pretty pretty.");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
 Really?");
     ChMotion(4,1,1);
@@ -31,7 +31,7 @@ It seriously suits you, it's pretty.");
     VoicePlay("P730400001_04_020");
     MsgDisp("Nanatsumori","All that's left is to walk well on
 the runway?");
-    MsgDisp("主人公","Ugh...that's pressure—...");
+    MsgDisp("主人公","Ugh...that's pressure...");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(4,3);

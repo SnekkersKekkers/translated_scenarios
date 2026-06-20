@@ -32,7 +32,7 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B040706400_07_040");
-MsgDisp("Mikage","That's exactly it—.
+MsgDisp("Mikage","That's exactly it.
 Let's go through everything from a to z.");
 SEPlay("EV_SE_626");
 ChClose(7);

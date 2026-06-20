@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040424200_04_010");
-    MsgDisp("Nanatsumori","Oh, oh—.
+    MsgDisp("Nanatsumori","Oh, oh.
 I'd love to say \"leave it to me,\" but I'm a
 total indoors guy...");
     MsgDispSksp(1,0);

@@ -94,7 +94,7 @@ cherish you.");
         ChMouth(8,0);
         ChMotion(8,4,1);
         VoicePlay("B040830002_08_110");
-        MsgDisp("Shirahane","Hehe.. I said it.");
+        MsgDisp("Shirahane","Hehe... I said it.");
         MsgDisp("主人公","(｛Daichi＊＊｝...)");
         break ;
         default :

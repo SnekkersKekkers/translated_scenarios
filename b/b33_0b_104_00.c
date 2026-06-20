@@ -66,7 +66,7 @@ ChMotion(3,1,1);
 VoicePlay("B330B10400_03_020");
 MsgDisp("Honda","They're not just in the water, they're in the
 grass too!
-I wonder where they are—...");
+I wonder where they are...");
 ChMouth(1,2);
 ChMotion(1,0,1);
 ChEye(4,2);

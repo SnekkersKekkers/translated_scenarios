@@ -72,7 +72,7 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A20501_01_020");
-MsgDisp("Kazama","Bravo—.
+MsgDisp("Kazama","Bravo.
 ...Geez, you couldn't even let me win in the
 end, huh?");
 ChEyeOpenLevel(1,#1);

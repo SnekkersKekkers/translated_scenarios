@@ -52,7 +52,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600000_06_070");
-MsgDisp("Himuro","Then that's fine, but..");
+MsgDisp("Himuro","Then that's fine, but...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);

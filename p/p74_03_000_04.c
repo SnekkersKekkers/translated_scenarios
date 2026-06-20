@@ -36,7 +36,7 @@ VoicePlay("P740300004_03_040");
 MsgDisp("Honda","Congratulations on your last cultural
 festival being a success!
 You were truly beautiful.");
-MsgDisp("主人公","(｛Honda＊＊｝,thank you...
+MsgDisp("主人公","(｛Honda＊＊｝, thank you...
 I'm glad I continued with the handicrafts
 club for the last three years...)");
 MsgClose();

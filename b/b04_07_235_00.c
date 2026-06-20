@@ -6,7 +6,7 @@ ChOpen(7,255,0,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040723500_07_000");
 MsgDisp("Mikage","Nice, you made some good noises.");
-MsgSel("It was scary, but it was fun!","I thought my legs were gonna give out..","The tricks were too sloppy! No good, no good!");
+MsgSel("It was scary, but it was fun!","I thought my legs were gonna give out...","The tricks were too sloppy! No good, no good!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);
