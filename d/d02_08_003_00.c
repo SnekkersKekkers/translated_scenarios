@@ -25,13 +25,17 @@ VoicePlay("D020800300_08_020");
 MsgDisp("Shirahane","You know, yesterday I got into a fight
 with my sister.
 The three of us got into a big mess.");
-MsgDisp("主人公","Eh? \n｛Daichi＊＊｝, you live with your\nsiblings?");
+MsgDisp("主人公","Eh? 
+｛Daichi＊＊｝, you live with your
+siblings?");
 ChCheek(8,0);
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("D020800300_08_030");
-MsgDisp("Shirahane","Ya.\nMe and my bro live together in sis'\napartment.");
+MsgDisp("Shirahane","Ya.
+Me and my bro live together in sis'
+apartment.");
 MsgDisp("主人公","You have a brother too!
 I didn't know that...");
 MsgDisp("主人公","(Now that I think about it, isn't there
@@ -39,7 +43,9 @@ also someone named \"Shirahane\" working at
 Habatcher?)");
 ChMotion(8,0,1);
 VoicePlay("D020800300_08_040");
-MsgDisp("Shirahane","Bro and sis usually speak normal Japanese,\nbut when they're home they also speak like\nthis.");
+MsgDisp("Shirahane","Bro and sis usually speak normal Japanese,
+but when they're home they also speak like
+this.");
 MsgDisp("主人公","Oh...");
 ChEye(8,3);
 ChMouth(8,4);

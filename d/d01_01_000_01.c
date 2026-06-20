@@ -34,14 +34,16 @@ MsgClose();
 ChOpen(1,254,0,0,2,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010100001_01_020");
-MsgDisp("Kazama","What do you mean by \"no way\"?\nAre you complaining?");
+MsgDisp("Kazama","What do you mean by \"no way\"?
+Are you complaining?");
 MsgDisp("主人公","I didn't mean it like that, but...");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100001_01_030");
-MsgDisp("Kazama","Huh?\nWhat's with the \"but\"?");
+MsgDisp("Kazama","Huh?
+What's with the \"but\"?");
 MsgClose();
 BGMStop(1.5);
 MsgClose();

@@ -87,7 +87,9 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChCheek(1,5);
 VoicePlay("D020100100_01_070");
-MsgDisp("Kazama","Oh, Grandpa. \nShe wants to write an article\non this place. That's okay, right?");
+MsgDisp("Kazama","Oh, Grandpa. 
+She wants to write an article
+on this place. That's okay, right?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -119,7 +121,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100100_01_080");
-MsgDisp("Kazama","It's fine. \nGrandpa enjoyed it and wanted me to thank\nyou. So, thank you.");
+MsgDisp("Kazama","It's fine. 
+Grandpa enjoyed it and wanted me to thank
+you. So, thank you.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);

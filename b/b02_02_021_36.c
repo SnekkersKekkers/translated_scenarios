@@ -3,13 +3,16 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("B020202136_02_000");
-MsgDisp("Sassa","Those clothes and accessories are trendy\nright now. \nOh...And that colour, too?");
+MsgDisp("Sassa","Those clothes and accessories are trendy
+right now. 
+Oh...And that colour, too?");
 MsgDisp("主人公","Yeah, it's a trendy colour.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B020202136_02_010");
-MsgDisp("Sassa","There's other girls wearing it too, but\nthey're no match for you, huh?");
+MsgDisp("Sassa","There's other girls wearing it too, but
+they're no match for you, huh?");
 MsgDisp("主人公","Huh?");
 ChEye(2,3);
 ChMouth(2,4);

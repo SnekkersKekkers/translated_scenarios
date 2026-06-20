@@ -85,7 +85,8 @@ I remember it clearly.");
 NSSEye(1,0);
 NSSMouth(1,0);
 VoicePlay("D020100000_01_070");
-MsgDisp("Kazama","Isn't the fact that we both have the same\nmemory proof enough?");
+MsgDisp("Kazama","Isn't the fact that we both have the same
+memory proof enough?");
 MsgDisp("主人公","That's true.
 The two of us wouldn't have the same
 dream, I guess?");
@@ -106,7 +107,8 @@ NSSClose();
 SEStop("EV_SE_754",0.01);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
-MsgDisp("主人公","Kyaa∈\nA puddle......");
+MsgDisp("主人公","Kyaa∈
+A puddle......");
 BGOpen("sc010",0);
 MsgClose();
 ChOpen(1,254,0,2,2,#1,#1,0,0);

@@ -1,4 +1,5 @@
 NSSFace(3,3);
 VoicePlay("AP0103110_03_000");
-MsgDisp("Honda","That scarf, as soon as I saw it, I thought\nof your face.");
+MsgDisp("Honda","That scarf, as soon as I saw it, I thought
+of your face.");
 MsgClose();

@@ -4,7 +4,9 @@ switch (ChPrmGet(5,6)){
     case 2:
     case 3:
     MsgDisp("主人公","Uhm...");
-    MsgDisp("主人公","It says...\"I heard you had a party at the\nHanatsubaki Twins' house. They drew me a\npicture of you in pyjamas.\"");
+    MsgDisp("主人公","It says...\"I heard you had a party at the
+Hanatsubaki Twins' house. They drew me a
+picture of you in pyjamas.\"");
     MsgDisp("主人公","(Eehh∋
 What kind of picture did those two draw?)");
     break ;

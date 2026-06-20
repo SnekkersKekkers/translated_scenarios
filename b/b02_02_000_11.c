@@ -3,7 +3,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("B020200011_02_000");
 MsgDisp("Sassa","Ah, that's the present I gave you!");
-MsgDisp("主人公","Yeah, you went through the trouble of\nchoosing it for me, so.");
+MsgDisp("主人公","Yeah, you went through the trouble of
+choosing it for me, so.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,3,1);

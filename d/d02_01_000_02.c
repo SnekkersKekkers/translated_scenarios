@@ -91,7 +91,8 @@ NSSClose();
 SEStop("EV_SE_754",0);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
-MsgDisp("主人公","Kyaa∈ \nA puddle...");
+MsgDisp("主人公","Kyaa∈ 
+A puddle...");
 BGOpen("sc100",0);
 MsgClose();
 ChOpen(1,254,0,3,2,#1,#1,0,0);
@@ -131,7 +132,9 @@ ChMouth(1,1);
 ChMotion(1,3);
 ChCheek(1,5);
 VoicePlay("D020100000_01_250");
-MsgDisp("Kazama","Oy∈ \nDon't just lift your legs up like\nthat here!");
+MsgDisp("Kazama","Oy∈ 
+Don't just lift your legs up like
+that here!");
 MsgDisp("主人公","Ah, sorry.
 I guess it's rude to do that...");
 ChEye(1,0);

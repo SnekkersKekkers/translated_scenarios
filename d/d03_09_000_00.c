@@ -50,7 +50,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900000_09_040");
 MsgDisp("Kuya?","I got kissed on the cheek.");
-MsgDisp("主人公","∈\nI'm really sorry!");
+MsgDisp("主人公","∈
+I'm really sorry!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,1,1);
@@ -106,9 +107,12 @@ switch (MsgSelRsltGet()){
     MsgDisp("主人公","Excuse me!
 What's your name—");
     VoicePlay("D030900000_09_110");
-    MsgDisp("Kuya?","Sorry!\nI have something to do!\nSee you later!");
+    MsgDisp("Kuya?","Sorry!
+I have something to do!
+See you later!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0,0.4);
-    MsgDisp("主人公","Later, huh?\nI wonder if I'll see him again...?");
+    MsgDisp("主人公","Later, huh?
+I wonder if I'll see him again...?");
     MsgDisp("主人公","(Anyway...
 I kissed that guy.
 How embarrassing!)");

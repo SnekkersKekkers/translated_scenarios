@@ -1,6 +1,7 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's almost time for the new fashion\nitems to be released...)");
+MsgDisp("主人公","(It's almost time for the new fashion
+items to be released...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -16,7 +17,9 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(Phew...\nI guess I'm too early...\nI'll just have some tea and go home.)");
+MsgDisp("主人公","(Phew...
+I guess I'm too early...
+I'll just have some tea and go home.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
 MsgClose();

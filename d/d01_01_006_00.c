@@ -129,7 +129,9 @@ VoicePlay("D010100600_01_090");
 MsgDisp("Kazama","Since it's for charity, they picked a high
 schooler like me to do it.
 I used to watch my dad's auctions, so...");
-MsgDisp("主人公","I see.\nWell maybe in the future, ｛Kazama＊＊｝, \nyou can be just like your dad—");
+MsgDisp("主人公","I see.
+Well maybe in the future, ｛Kazama＊＊｝, 
+you can be just like your dad—");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -166,7 +168,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
-MsgDisp("主人公","(｛Kazama＊＊｝, did something happen \nbetween you and your dad...?)");
+MsgDisp("主人公","(｛Kazama＊＊｝, did something happen 
+between you and your dad...?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

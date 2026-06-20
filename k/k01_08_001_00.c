@@ -26,7 +26,8 @@ switch (ChPrmGet(8,6)){
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("K010800100_08_020");
-    MsgDisp("Shirahane","Is it really alright?\nI'm so happy, can I open it?");
+    MsgDisp("Shirahane","Is it really alright?
+I'm so happy, can I open it?");
     MsgDisp("主人公","Of course!");
     break ;
     case 3:
@@ -67,7 +68,8 @@ Can I open 'er up right here?");
     BGMPlay("BGM_C08_DAICHI_A",0.01);
     ChOpen(8,35,3,0,5,#1,#1,4,0);
     VoicePlay("K010800100_08_060");
-    MsgDisp("Shirahane","...! \nW-What's the matter?");
+    MsgDisp("Shirahane","...! 
+W-What's the matter?");
     MsgDisp("主人公","Today is your birthday, right, ｛Daichi＊＊｝?
 I brought you a present.");
     SEPlay("EV_SE_664");

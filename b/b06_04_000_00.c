@@ -13,7 +13,8 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,0,1);
     ScrFadeIn(0);
     VoicePlay("B060400000_04_000");
-    MsgDisp("Nanatsumori","It wasn't bad, to be honest.\nI'm very satisfied.");
+    MsgDisp("Nanatsumori","It wasn't bad, to be honest.
+I'm very satisfied.");
     MsgDispSksp(0);
     break ;
     case 3:

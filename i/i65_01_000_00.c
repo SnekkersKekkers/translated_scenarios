@@ -62,7 +62,9 @@ What's up?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_060");
-    MsgDisp("Kazama","What?\nIs it that weird that I'd come to a gas\nstation?");
+    MsgDisp("Kazama","What?
+Is it that weird that I'd come to a gas
+station?");
     MsgDisp("主人公","Not at all.
 But, are you refuelling something?");
     ChEye(1,0);
@@ -136,7 +138,9 @@ What's up?");
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("I650100000_01_130");
-    MsgDisp("Kazama","What are you going to do if you get caught\nup in something like that when I'm not\nhere?");
+    MsgDisp("Kazama","What are you going to do if you get caught
+up in something like that when I'm not
+here?");
     MsgDisp("主人公","Um, I'll be fine?
 Their cars are crazy, but they're
 nice people.");
@@ -173,7 +177,9 @@ pretty often.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("I650100000_01_180");
-    MsgDisp("Kazama","Listen to me.\nYour powers of attraction work\non all ages. Keep your smiles at just 20%.");
+    MsgDisp("Kazama","Listen to me.
+Your powers of attraction work
+on all ages. Keep your smiles at just 20%.");
     MsgDisp("主人公","Geez! What are you talking about?");
     ChEye(1,0);
     ChMouth(1,1);
@@ -186,7 +192,9 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Geez...\nI can't serve customers with an angry\nface.)");
+    MsgDisp("主人公","(Geez...
+I can't serve customers with an angry
+face.)");
     break ;
     default :
     DbgAssert(1);

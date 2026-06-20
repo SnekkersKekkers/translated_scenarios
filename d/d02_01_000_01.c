@@ -95,7 +95,8 @@ NSSClose();
 SEStop("EV_SE_754",0.01);
 SEPlay("EV_SE_636",0,0.9);
 SEWait();
-MsgDisp("主人公","Kyaa∈ \nA puddle...");
+MsgDisp("主人公","Kyaa∈ 
+A puddle...");
 BGOpen("sc100",0);
 MsgClose();
 ChOpen(1,254,0,3,3,#1,#1,0,0);
