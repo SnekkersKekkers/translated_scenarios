@@ -53,7 +53,7 @@ Thank you!");
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H3A2200000_22_030");
-    MsgDisp("Hikaru","Ah, Hikaru was already in love with Mari▼ 
+    MsgDisp("Hikaru","Ah, Hikaru was already in love with Mari▼
 But even more so now♪");
     MsgDisp("主人公","Hehe!");
     ChEye(22,3);

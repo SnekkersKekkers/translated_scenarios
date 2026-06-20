@@ -9,6 +9,6 @@ You don't think it looks weird?");
 ChEye(5,4);
 ChMotion(5,3);
 VoicePlay("B020502112_05_010");
-MsgDisp("Hiiragi","No, it suits you wonderfully. 
+MsgDisp("Hiiragi","No, it suits you wonderfully.
 A brilliant bit of mixing and matching.");
 MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ seems to be really happy!)");

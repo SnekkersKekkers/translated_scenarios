@@ -2,7 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
-MsgDisp("主人公","(Ah, a message from ｛Kazama＊＊｝. 
+MsgDisp("主人公","(Ah, a message from ｛Kazama＊＊｝.
 \"Let's go home together today\", huh...
 Okay, let's prepare to go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);

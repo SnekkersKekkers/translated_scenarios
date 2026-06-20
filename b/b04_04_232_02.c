@@ -91,7 +91,7 @@ the most harmful thing.");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040423202_04_110");
-        MsgDisp("Nanatsumori","So... before you go making someone flustered 
+        MsgDisp("Nanatsumori","So... before you go making someone flustered
 like that, take a proper look at them first.");
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_120");

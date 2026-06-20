@@ -50,7 +50,7 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("K020601000_06_050");
-MsgDisp("Himuro","Claiming that yourself is a bit arrogant, 
+MsgDisp("Himuro","Claiming that yourself is a bit arrogant,
 don't you think?");
 ChEye(6,0);
 ChMouth(6,4);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,2,1);
 VoicePlay("B040620001_06_000");
 MsgDisp("Himuro","It feels like I'll get a ski tan.");
-MsgSel("Do guys worry about that too? ","Let's become reverse pandas!","Do you want some sunscreen?");
+MsgSel("Do guys worry about that too?","Let's become reverse pandas!","Do you want some sunscreen?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

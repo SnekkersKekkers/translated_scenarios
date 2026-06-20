@@ -2,7 +2,7 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("B020502129_05_000");
-MsgDisp("Hiiragi","It's a frightening thing, getting used to 
+MsgDisp("Hiiragi","It's a frightening thing, getting used to
 something.");
 MsgDisp("主人公","Um, what does that mean?");
 VoicePlay("B020502129_05_010");

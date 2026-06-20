@@ -22,7 +22,7 @@ MsgDisp("主人公","Yeah, that makes me happy.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B020502000_05_030");
-MsgDisp("Hiiragi","Us underclassmen have talked about him for 
+MsgDisp("Hiiragi","Us underclassmen have talked about him for
 years now, and you even got his T-shirt...
 I'm a little jealous.");
 ChEye(5,0);

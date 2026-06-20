@@ -33,7 +33,7 @@ VoicePlay("F022100001_21_030");
 MsgDisp("Michiru","Ah, is there another legend?
 Let me hear it!");
 MsgDisp("主人公","(｛みちる＊｝ seems super interested...
-This one with the bell and pinwheel is 
+This one with the bell and pinwheel is
 different, though...)");
 MsgClose();
 ScrFadeOut(0,0);

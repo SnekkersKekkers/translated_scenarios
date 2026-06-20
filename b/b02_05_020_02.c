@@ -17,8 +17,8 @@ ChEye(5,3);
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("B020502002_05_030");
-MsgDisp("Hiiragi","When you wear it, it gives off an entirely 
-different impression. 
+MsgDisp("Hiiragi","When you wear it, it gives off an entirely
+different impression.
 Thank you for opening my eyes.");
 MsgDisp("主人公","(He seems to like it.
 I'm glad!)");

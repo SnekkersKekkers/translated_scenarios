@@ -12,7 +12,7 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B070100002_01_160");
 MsgDisp("Kazama","Well, it's not so much fun as just easy being
-around them. Nanatsumori doesn't pry, and 
+around them. Nanatsumori doesn't pry, and
 Honda was never the type to anyway.");
 ChEye(1,2);
 ChMouth(1,3);

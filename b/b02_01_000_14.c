@@ -10,7 +10,7 @@ ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020100014_01_010");
-MsgDisp("Kazama","Guess the trouble with us is we click a 
+MsgDisp("Kazama","Guess the trouble with us is we click a
 little TOO well.");
 MsgDisp("主人公","(Hehe.
 Looks like our taste in clothes is similar!)");

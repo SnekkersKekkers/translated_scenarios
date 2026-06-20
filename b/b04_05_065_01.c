@@ -41,7 +41,7 @@ me too.");
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("B040506501_05_030");
-    MsgDisp("Hiiragi","Are you alright? 
+    MsgDisp("Hiiragi","Are you alright?
 Quick, wipe it with this.
 You dressed up so nicely today, after all.");
     MsgDispSksp(1,6);

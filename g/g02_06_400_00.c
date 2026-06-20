@@ -51,7 +51,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020640000_06_060");
 MsgDisp("Himuro","Eggplants are food, but they're black, frying
-makes them purple, yet they're white 
+makes them purple, yet they're white
 inside... I just can't stand them.");
 MsgDisp("主人公","You dislike eggplants?");
 ChEye(6,0);

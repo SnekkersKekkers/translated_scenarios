@@ -13,7 +13,7 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("B020402136_04_010");
 MsgDisp("Nanatsumori","Oh, I noticed all right.
-Great choice of items, perfect coordination. 
+Great choice of items, perfect coordination.
 Pure genius.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ complimented me.♪
 I'm glad I checked what's trending!)");

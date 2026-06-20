@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B040704500_07_000");
 MsgDisp("Mikage","As expected, this is the citizen theatre
 troupe that Habataki City can be proud of.");
-MsgSel("It doesn't seem like I can return to reality...","The stage decorations are pretty. ","I'll give them a tip");
+MsgSel("It doesn't seem like I can return to reality...","The stage decorations are pretty.","I'll give them a tip");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

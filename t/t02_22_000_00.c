@@ -79,8 +79,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("T022200000_22_100");
-MsgDisp("Hikaru","Since Hikaru met Mari, she's had so many 
-first-time experiences with love, fashion, 
+MsgDisp("Hikaru","Since Hikaru met Mari, she's had so many
+first-time experiences with love, fashion,
 and friendship. Every day was exciting.♪");
 ChEye(22,4);
 ChMouth(22,0);

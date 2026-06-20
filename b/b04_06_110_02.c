@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611002_06_000");
 MsgDisp("Himuro","I wonder what's so fun about a water slide.");
-MsgSel("Sliding down is exhilarating! ","Let's find out together!","I don't know...");
+MsgSel("Sliding down is exhilarating!","Let's find out together!","I don't know...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

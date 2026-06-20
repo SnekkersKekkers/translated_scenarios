@@ -24,7 +24,7 @@ StlEyeOpenLevel(7,0,1);
 BGMPlay("BGM_C07_MIKAGE_B",0.01);
 ScrFadeIn(0);
 SEWait();
-MsgDisp("主人公","∈ 
+MsgDisp("主人公","∈
 ｛Mikage＊＊｝...!
 What's wrong?");
 StlEye(7,0);

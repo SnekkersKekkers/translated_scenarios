@@ -12,7 +12,7 @@ VoicePlay("B040723201_07_000");
 MsgDisp("Mikage","Standing with both feet planted firmly on
 the ground.
 That's how a person ought to be.");
-MsgSel("It shook quite a lot, huh?","It feels nicer up in the sky.","It's reassuring, right? ");
+MsgSel("It shook quite a lot, huh?","It feels nicer up in the sky.","It's reassuring, right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

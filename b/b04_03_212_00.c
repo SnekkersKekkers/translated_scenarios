@@ -32,7 +32,7 @@ it's pretty realistic.");
     ChMotion(3,4);
     VoicePlay("B040321200_03_020");
     MsgDisp("Honda","I kind of want that one too.
-Apparently the zoo put it together 
+Apparently the zoo put it together
 themselves!");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);

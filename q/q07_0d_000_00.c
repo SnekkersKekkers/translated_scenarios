@@ -11,7 +11,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q070D00000_22_000");
-MsgDisp("Hikaru","Such a huge windmill～! 
+MsgDisp("Hikaru","Such a huge windmill～!
 Hikaru can't believe it spins in the wind...");
 ChEye(22,0);
 ChMouth(22,3);

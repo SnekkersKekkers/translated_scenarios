@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 MsgDispSksp(1,0);
 VoicePlay("B030510003_05_000");
-MsgDisp("Hiiragi","The complete metamorphosis of insects 
+MsgDisp("Hiiragi","The complete metamorphosis of insects
 astonishes everyone who sees it.
 As an actor, that's what I aspire to.");
 MsgDispSksp(0);

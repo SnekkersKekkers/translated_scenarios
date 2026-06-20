@@ -19,7 +19,7 @@ MsgDisp("Hikaru","Mari! Bonjour!");
 ChMotion(22,0,1);
 VoicePlay("E012250000_22_020");
 MsgDisp("Hikaru","Hikaru was looking at this.");
-MsgDisp("主人公","A flyer? 
+MsgDisp("主人公","A flyer?
 \"French Class Trial\"...");
 ChEye(22,0);
 ChMouth(22,0);

@@ -10,6 +10,6 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B020100004_01_010");
 MsgDisp("Kazama","\"Why\", she asks...
-Well, if you're not sick, then you're way 
+Well, if you're not sick, then you're way
 overdressed.");
 MsgDisp("主人公","(Urgh... I think I have too much on...)");

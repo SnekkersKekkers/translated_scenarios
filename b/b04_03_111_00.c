@@ -37,7 +37,7 @@ I admire you.");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040311100_03_030");
-    MsgDisp("Honda","We're on the same level. 
+    MsgDisp("Honda","We're on the same level.
 We can skate together.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();

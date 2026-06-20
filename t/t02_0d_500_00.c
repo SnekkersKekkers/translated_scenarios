@@ -62,7 +62,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("T020D50000_22_020");
-MsgDisp("Hikaru","Right! 
+MsgDisp("Hikaru","Right!
 But, still Hikaru's really happy
 we became friends!");
 ChEye(21,4);

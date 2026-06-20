@@ -26,7 +26,7 @@ yourself.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040324200_03_020");
-    MsgDisp("Honda","Right right, let's start by lighting a fire 
+    MsgDisp("Honda","Right right, let's start by lighting a fire
 without a match!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

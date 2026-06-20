@@ -47,8 +47,8 @@ Well then, see you after school.");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("U100D00000_22_030");
-    MsgDisp("Hikaru","Hikaru has a lot of things to ask you▼ 
-Are you prepared? 
+    MsgDisp("Hikaru","Hikaru has a lot of things to ask you▼
+Are you prepared?
 A bientot! Mari!");
     MsgDisp("主人公","(A sleepover at ｛みちる＊｝ and
 ｛ひかる＊｝'s home.

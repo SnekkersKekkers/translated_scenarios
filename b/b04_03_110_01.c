@@ -25,7 +25,7 @@ Sigh, I couldn't take my eyes off that.");
     ChMotion(3,1);
     VoicePlay("B040311001_03_020");
     MsgDisp("Honda","Yeah, maybe.
-Because he's on a different level from 
+Because he's on a different level from
 everyone around him.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();

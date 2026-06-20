@@ -123,7 +123,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(4);
 SEPlay("EV_SE_DOOR_014",0.5);
 MsgDisp("主人公","(What an interesting customer...
-The amount of food he ordered, and how 
+The amount of food he ordered, and how
 different he looked when he came back...)");
 MsgDisp("主人公","Alright, time to clean up! ...Hmm?
 There's something on the chair.

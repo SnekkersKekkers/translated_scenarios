@@ -15,7 +15,7 @@ VoicePlay("A000700000_07_040");
 MsgDisp("Mikage","The first name too.
 How do you pronounce it?");
 VoicePlay("A000700000_07_050");
-MsgDisp("Mikage","Alright, that's it! 
+MsgDisp("Mikage","Alright, that's it!
 No mistakes?");
 VoicePlay("A000700000_07_060");
 MsgDisp("Mikage","Okay, you can go then.

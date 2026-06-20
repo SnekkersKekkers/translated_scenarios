@@ -9,6 +9,6 @@ ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("B020500003_05_010");
 MsgDisp("Hiiragi","There isn't anything wrong.
-However, I wonder if those clothes really 
+However, I wonder if those clothes really
 suit you.");
 MsgDisp("主人公","(Hmm... I wish I had worn something else.)");

@@ -17,7 +17,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("P230D00000_22_000");
-MsgDisp("Hikaru","Non non♪ 
+MsgDisp("Hikaru","Non non♪
 \"Flora angel\" is invincible, right?");
 MsgDisp("主人公","Ah...");
 ChEye(21,0);

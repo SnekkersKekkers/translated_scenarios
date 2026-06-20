@@ -107,7 +107,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F100730002_22_040");
 MsgDisp("Hikaru","Yeah, Hikaru's sure uncle will like
-Mikage-sensei▼ 
+Mikage-sensei▼
 Right, Mari?");
 MsgDisp("主人公","Y-Yeah.");
 MsgDisp("主人公","(Goro-sensei's fashion is quite original

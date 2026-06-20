@@ -24,8 +24,8 @@ VoicePlay("K020D00001_22_010");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
-MsgDisp("Hikaru","Happy birthday, Mari♪ 
-Hikaru chose a present with Big Sis. 
+MsgDisp("Hikaru","Happy birthday, Mari♪
+Hikaru chose a present with Big Sis.
 Here you go▼");
 SEPlay("EV_SE_665");
 SEWait();

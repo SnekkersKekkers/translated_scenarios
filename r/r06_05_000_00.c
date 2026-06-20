@@ -10,5 +10,5 @@ SEPlay("EV_SE_668");
 SEWait();
 SEPlay("EV_SE_083");
 MsgDisp("主人公","(\"Double-Sided Head Massager\")");
-MsgDisp("主人公","(I wonder if it has twice the cleaning 
+MsgDisp("主人公","(I wonder if it has twice the cleaning
 power...?)");

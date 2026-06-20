@@ -42,7 +42,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B040206402_02_050");
-MsgDisp("Sassa","Alright, out of respect for that guy, let's 
+MsgDisp("Sassa","Alright, out of respect for that guy, let's
 go buy some toppings!");
 MsgDisp("主人公","(｛Sassa＊＊｝, weren't you about to say
 something?)");

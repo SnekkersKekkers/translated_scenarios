@@ -36,7 +36,7 @@ The actors' performances were powerful too.");
     ChMouth(4,2);
     VoicePlay("B040404500_04_020");
     MsgDisp("Nanatsumori","You're calling it a miss?
-The troupe chairman is the same age as us, 
+The troupe chairman is the same age as us,
 you know?");
     MsgDateResultDisp();
     break ;

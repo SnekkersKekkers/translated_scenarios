@@ -4,7 +4,7 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_150");
-MsgDisp("Hikaru","Hikaru listens to all the popular stuff. 
+MsgDisp("Hikaru","Hikaru listens to all the popular stuff.
 So a lot of pop music～");
 ChMouth(22,3);
 ChMotion(22,4,1);

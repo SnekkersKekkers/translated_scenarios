@@ -67,7 +67,7 @@ No need to make that face about it.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B010200000_02_060");
-    MsgDisp("Sassa","Oh, I know. 
+    MsgDisp("Sassa","Oh, I know.
 Let's make a do-over and meet up here again
 next time.");
     ChEye(2,0);
