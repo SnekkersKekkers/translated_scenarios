@@ -88,8 +88,7 @@ MsgDisp("主人公","Hehe, sure.");
 VoicePlay("D010100400_01_070");
 MsgDisp("Kazama","Welcome.
 Sorry for the wait.");
-MsgDisp("主人公","(Sigh...
-My heart is racing...)");
+MsgDisp("主人公","(Sigh... My heart is racing...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(1,0);

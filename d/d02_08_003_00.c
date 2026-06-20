@@ -43,9 +43,9 @@ also someone named \"Shirahane\" working at
 Habatcher?)");
 ChMotion(8,0,1);
 VoicePlay("D020800300_08_040");
-MsgDisp("Shirahane","Bro and sis usually speak normal Japanese,
-but when they're home they also speak like
-this.");
+MsgDisp("Shirahane","Bro and sis usually speak normal
+Japanese, but when they're home they also
+speak like this.");
 MsgDisp("主人公","Oh...");
 ChEye(8,3);
 ChMouth(8,4);

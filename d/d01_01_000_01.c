@@ -42,8 +42,7 @@ ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D010100001_01_030");
-MsgDisp("Kazama","Huh?
-What's with the \"but\"?");
+MsgDisp("Kazama","Huh? What's with the \"but\"?");
 MsgClose();
 BGMStop(1.5);
 MsgClose();

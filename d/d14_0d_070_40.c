@@ -50,8 +50,8 @@ VoicePlay("D140D07040_22_030");
 MsgDisp("Hikaru","Hikaru totally gets it!
 It would be impossible for Hikaru; that
 multi-faceted sort of life.");
-MsgDisp("主人公","(Multi-faceted? Not a \"Double life\"? Is
-she talking about how ｛Nanatsumori＊｝ 
+MsgDisp("主人公","(Multi-faceted? Not a \"Double life\"?
+Is she talking about how ｛Nanatsumori＊｝
 is different at school than \"NANA\"...?)");
 BGMStop();
 MsgClose();
