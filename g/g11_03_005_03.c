@@ -75,8 +75,8 @@ VoicePlay("G110300503_03_070");
 MsgDisp("Honda","Yaay!");
 VoicePlay("G110300503_42_000");
 MsgDisp("Manager","You two!
-I told you that dating is prohibited in the
-store.");
+I told you that dating is prohibited in
+the store.");
 MsgDisp("主人公","(After all that, Maybe the embarrassment is
 greater...)");
 BGMStop();

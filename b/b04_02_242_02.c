@@ -56,7 +56,8 @@ That's a weird thing to ask.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040224202_02_040");
-        MsgDisp("Sassa","What's wrong? Did something happen?");
+        MsgDisp("Sassa","What's wrong?
+Did something happen?");
         MsgDisp("主人公","No. It's because ｛Sassa＊＊｝ seemed
 interested in camping alone.");
         ChEye(2,0);
@@ -68,8 +69,8 @@ interested in camping alone.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040224202_02_060");
-        MsgDisp("Sassa","Look, it's not just camping, anything's
-more fun when I'm with you.");
+        MsgDisp("Sassa","Look, it's not just camping, anything's more
+fun when I'm with you.");
         MsgDisp("主人公","...Yeah, sorry.");
         ChEye(2,0);
         ChMouth(2,3);

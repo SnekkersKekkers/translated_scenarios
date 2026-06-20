@@ -16,8 +16,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360218001_02_000");
-MsgDisp("Sassa","Hmm...
-To be honest, I don't really know why.
+MsgDisp("Sassa","Hmm... To be honest, I don't really know why.
 Is there something you wanted to watch?");
 SEPlay("EV_SE_018");
 MsgDisp("","(Growl～)");

@@ -17,8 +17,7 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("P840300003_03_010");
-MsgDisp("Honda","Maybe, it never existed in the first
-place?");
+MsgDisp("Honda","Maybe, it never existed in the first place?");
 MsgDisp("主人公","Eh? ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,4);

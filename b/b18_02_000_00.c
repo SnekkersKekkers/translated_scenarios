@@ -60,8 +60,7 @@ necessary until we get used to it.");
     ChMouth(2,0);
     ChMotion(2,2);
     VoicePlay("B180200000_02_070");
-    MsgDisp("Sassa","It doesn't really feel right all of a
-sudden.
+    MsgDisp("Sassa","It doesn't really feel right all of a sudden.
 Haha...");
     MsgDisp("主人公","(Did I make him feel bad...?)");
     break ;

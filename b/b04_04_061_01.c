@@ -7,8 +7,9 @@ ChMotion(4,2);
 ChEyeOpenLevel(4,8);
 ScrFadeIn(0);
 VoicePlay("B040406101_04_000");
-MsgDisp("Nanatsumori","Ah... The beach during summer is hot and
-bright no matter where you look...");
+MsgDisp("Nanatsumori","Ah...
+The beach during summer is hot and bright no
+matter where you look...");
 MsgSel("Here, some sunscreen!","Let's aim for a tan!","It sure feels like summer!");
 switch (MsgSelRsltGet()){
     case 0:

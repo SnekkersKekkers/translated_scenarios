@@ -6,8 +6,7 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408502_04_000");
-MsgDisp("Nanatsumori","Hmm...
-Don't you want something warm?");
+MsgDisp("Nanatsumori","Hmm... Don't you want something warm?");
 MsgSel("Some hot chocolate would be nice.","Am I not warm enough?","A steaming meat bun...");
 switch (MsgSelRsltGet()){
     case 0:
