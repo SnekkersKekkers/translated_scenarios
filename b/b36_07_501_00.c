@@ -24,7 +24,7 @@ MsgDisp("Mikage","I'm on a date today～
 MsgDisp("主人公","Uh...!");
 VoicePlay("B360750100_44_010");
 MsgDisp("Girl A","That's unfair, we're only here for a club
-activity—.");
+activity.");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);

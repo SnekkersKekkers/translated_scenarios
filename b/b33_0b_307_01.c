@@ -49,7 +49,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B30701_03_010");
 MsgDisp("Honda","Ah, you get it?
-I'm happy—!");
+I'm happy!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

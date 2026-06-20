@@ -93,7 +93,7 @@ I have them here.");
     ChMotion(2,1);
     VoicePlay("P830200001_02_070");
     MsgDisp("Sassa","Then, I'll come back later.
-Do your best—!");
+Do your best!");
     MsgDisp("主人公","Thank you, ｛Sassa＊＊｝!");
     MsgClose();
     ScrFadeOut(0,0);

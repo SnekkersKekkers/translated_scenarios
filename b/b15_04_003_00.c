@@ -23,7 +23,7 @@ Get ready.");
 MsgDisp("主人公","Umm...sorry?");
 VoicePlay("B150400300_04_040");
 MsgDisp("Nanatsumori","Yeah, that's even worse.
-It's just provoking me—.");
+It's just provoking me.");
 MsgDisp("主人公","Ugh...
 ｛Nanatsumori＊｝, you're not acting like
 yourself?");

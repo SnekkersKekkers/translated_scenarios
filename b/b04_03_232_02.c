@@ -106,7 +106,7 @@ Come!");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040323202_03_090");
-    MsgDisp("Honda","Right right, that's exactly it—.");
+    MsgDisp("Honda","Right right, that's exactly it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

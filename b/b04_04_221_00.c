@@ -13,7 +13,7 @@ switch (MsgSelRsltGet()){
     DateRateSet(2);
     VoicePlay("B040422100_04_010");
     MsgDisp("Nanatsumori","The city, the sea, the mountains, too.
-You can see it all—.");
+You can see it all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

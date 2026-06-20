@@ -70,7 +70,7 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("B330C20100_07_030");
-MsgDisp("Mikage","Oh, nice save—.");
+MsgDisp("Mikage","Oh, nice save.");
 ChEye(5,0);
 ChEye(6,0);
 ChMouth(6,4);

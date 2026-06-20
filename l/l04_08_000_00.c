@@ -47,7 +47,7 @@ I brought you Valentine's chocolates.");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("L040800000_08_030");
-    MsgDisp("Shirahane","Huh...for me? Yay—!");
+    MsgDisp("Shirahane","Huh...for me? Yay!");
     break ;
     case 4:
     case 5:

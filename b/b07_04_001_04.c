@@ -24,7 +24,7 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B070400001_04_310");
 MsgDisp("Nanatsumori","Now that I think about it, Kazama doesn't
-really talk much about the pas—.");
+really talk much about the past.");
 MsgDisp("主人公","Really?");
 ChEye(4,0);
 ChMouth(4,0);

@@ -8,7 +8,7 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     VoicePlay("P830700001_41_000");
-    MsgDisp("School Boy","Excuse me—.
+    MsgDisp("School Boy","Excuse me—
 Do you have any cardboard～?");
     MsgDisp("主人公","Yeees, it's all gathered behind the gym.
 Please write a note of the quantity you need,
@@ -51,7 +51,7 @@ Please wait a moment.");
     case 4:
     case 5:
     VoicePlay("P830700001_41_030");
-    MsgDisp("School Boy","Excuse me—.
+    MsgDisp("School Boy","Excuse me—
 Do you have any cardboard～?");
     MsgDisp("主人公","Yeees, it's all gathered behind the gym.
 Please write a note of the quantity you need,

@@ -16,7 +16,7 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B330A20101_02_000");
-MsgDisp("Sassa","Ah—... Just this vastness feels nice—.");
+MsgDisp("Sassa","Ah... Just this vastness feels nice.");
 MsgDisp("主人公","Right.
 The wind feels nice too...");
 ChEye(6,0);

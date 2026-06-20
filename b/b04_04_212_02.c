@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040421202_04_010");
-    MsgDisp("Nanatsumori","The rabbit is fine but not the gorilla—");
+    MsgDisp("Nanatsumori","The rabbit is fine but not the gorilla.");
     MsgDispBGSksp(1,3);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

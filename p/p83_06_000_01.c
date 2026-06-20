@@ -8,8 +8,8 @@ switch (ChPrmGet(6,6)){
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830600001_41_000");
-    MsgDisp("School Boy","Excuse me—.
-Could I get more cardboard—?");
+    MsgDisp("School Boy","Excuse me—
+Could I get more cardboard?");
     MsgDisp("主人公","Yes, understood!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -46,8 +46,8 @@ Do you have any spare duct tape?");
     BGOpen("sc605",0);
     ScrFadeIn(0);
     VoicePlay("P830600001_41_020");
-    MsgDisp("School Boy","Excuse me—.
-Could I get more cardboard—?");
+    MsgDisp("School Boy","Excuse me—
+Could I get more cardboard?");
     MsgDisp("主人公","Yes, I got it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -74,7 +74,7 @@ Then, could I get another chair?");
     VoicePlay("P830600001_48_010");
     MsgDisp("School Girl","Excuse me!
 Do you have any spare duct tape?");
-    MsgDisp("主人公","Yes, please wait a moment—!");
+    MsgDisp("主人公","Yes, please wait a moment!");
     ChEye(6,2);
     ChMouth(6,0);
     ChMotion(6,2);

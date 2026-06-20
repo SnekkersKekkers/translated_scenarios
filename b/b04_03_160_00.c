@@ -26,7 +26,7 @@ come out.");
     ChSet(3,3);
     VoicePlay("B040316000_03_020");
     MsgDisp("Honda","Yes, yeees!
-I won't go easy on you okay—?");
+I won't go easy on you okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

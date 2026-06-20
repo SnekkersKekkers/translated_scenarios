@@ -17,6 +17,6 @@ VoicePlay("P633100000_31_010");
 MsgDisp("Goro","I've decided!
 I'll have tea time here.
 Is that okay?");
-MsgDisp("主人公","Yes! One customer, this way please—!");
+MsgDisp("主人公","Yes! One customer, this way please!");
 MsgClose();
 ScrFadeOut(0);

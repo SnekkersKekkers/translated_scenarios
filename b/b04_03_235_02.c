@@ -62,7 +62,7 @@ My voice just came out on its own.");
         ChMouth(3,3);
         ChMotion(3,0);
         VoicePlay("B040323502_03_050");
-        MsgDisp("Honda","Cute—.");
+        MsgDisp("Honda","Cute.");
         MsgDisp("主人公","Eh?");
         ChEye(3,0);
         ChMouth(3,4);

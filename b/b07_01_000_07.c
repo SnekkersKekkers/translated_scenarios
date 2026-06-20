@@ -31,7 +31,7 @@ ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B070100000_01_400");
 MsgDisp("Kazama","What's with that textbook answer?
-You say it so casually—.");
+You say it so casually.");
 MsgDisp("主人公","Eh?
 I think ｛Kazama＊＊｝ will be able to make any
 of his dreams come true though.");

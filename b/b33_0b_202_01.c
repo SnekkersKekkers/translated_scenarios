@@ -14,7 +14,7 @@ ChNanaType(0);
 ChOpen(4,253,0,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330B20201_03_000");
-MsgDisp("Honda","I see, I see—.");
+MsgDisp("Honda","I see, I see.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);

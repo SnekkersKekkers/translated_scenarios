@@ -57,7 +57,7 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 ChCheek(4,0);
 VoicePlay("B150400400_04_090");
-MsgDisp("Nanatsumori","Pfft! You really are a weirdo—.");
+MsgDisp("Nanatsumori","Pfft! You really are a weirdo.");
 MsgDisp("主人公","Uugh...");
 ChEye(4,0);
 ChMouth(4,3);

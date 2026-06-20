@@ -51,7 +51,7 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("D140B06000_03_040");
 MsgDisp("Honda","There's no point in getting embarrassed now.
-That's nice, I'm so jealous—.");
+That's nice, I'm so jealous.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);

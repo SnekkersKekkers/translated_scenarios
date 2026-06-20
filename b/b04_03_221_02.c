@@ -82,7 +82,7 @@ princess.\")");
     ChMotion(3,1);
     VoicePlay("B040322102_03_070");
     MsgDisp("Honda","Alright!
-Let's feed them on the way back—!");
+Let's feed them on the way back!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

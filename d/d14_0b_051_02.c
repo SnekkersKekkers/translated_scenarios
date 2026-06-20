@@ -73,7 +73,7 @@ ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("D140B05102_04_050");
 MsgDisp("Nanatsumori","So it's jealousy.
-What a pain in the ass—.");
+What a pain in the ass.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,0);

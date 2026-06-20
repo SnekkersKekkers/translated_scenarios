@@ -90,7 +90,7 @@ MsgDisp("主人公","I'm glad—!
 The play ended without any problems...");
 ChMotion(4,2);
 VoicePlay("P240400000_04_090");
-MsgDisp("Nanatsumori","I don't agree—.");
+MsgDisp("Nanatsumori","I don't agree.");
 MsgDisp("主人公","Come on.");
 ChEye(4,0);
 ChMotion(4,1,1);

@@ -78,7 +78,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B330A10501_02_010");
-MsgDisp("Sassa","Ahh—, that was delicious—!");
+MsgDisp("Sassa","Ahh! That was delicious!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -110,7 +110,7 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330A10501_06_030");
 MsgDisp("Himuro","It's lunch, though.
-So...a lunch show—?");
+So...a lunch show?");
 MsgDisp("主人公","(It's troubling for me either way∋)");
 MsgClose();
 ScrFadeOut(0,0);

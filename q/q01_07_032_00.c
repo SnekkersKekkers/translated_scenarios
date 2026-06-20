@@ -6,7 +6,7 @@ SEWait();
 MsgClose();
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("Q010703200_07_000");
-MsgDisp("Mikage","Alright, fun's over—!");
+MsgDisp("Mikage","Alright, fun's over!");
 VoicePlay("Q010703200_42_000");
 MsgDisp("School Boy","Crap, it's Mikage-sensei!");
 ChEye(7,0);

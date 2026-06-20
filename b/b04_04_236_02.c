@@ -50,7 +50,7 @@ this summer.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_030");
-        MsgDisp("Nanatsumori","And there it is, totally killing the mood—");
+        MsgDisp("Nanatsumori","And there it is, totally killing the mood.");
         MsgDateResultDisp();
         break ;
         case 4:

@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B360201001_46_000");
 MsgDisp("Clerk","We're currently having some
 limited-time sales.
-These are some great deals—!");
+These are some great deals!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -72,7 +72,7 @@ ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("B360201001_02_070");
 MsgDisp("Sassa","It'd be bad if Ryota and Inori saw us in a
-place like this—.");
+place like this.");
 MsgDisp("主人公","(｛Sassa＊＊｝, you seem to be super happy...)");
 BGMStop();
 MsgClose();

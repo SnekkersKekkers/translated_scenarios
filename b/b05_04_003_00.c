@@ -140,9 +140,9 @@ BGMVol(0.5,2);
 ScrFadeIn(0);
 ChMotion(4,1,1);
 VoicePlay("B050400300_04_180");
-MsgDisp("Nanatsumori","Ah—, being here right before closing
+MsgDisp("Nanatsumori","Actually, being here right before closing
 is great.
-Way easier to haggle for a discount—.");
+Way easier to haggle for a discount.");
 MsgDisp("主人公","｛Nanatsumori＊｝ is good at haggling huh?");
 ChMotion(4,0,1);
 VoicePlay("B050400300_04_190");

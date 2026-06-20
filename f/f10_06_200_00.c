@@ -76,7 +76,7 @@ ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("F100620000_03_050");
 MsgDisp("Honda","Nori-kun is so stubborn～!
-Wait for me—!");
+Wait for me!");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 MsgClose();

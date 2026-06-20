@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B360201000_46_000");
 MsgDisp("Clerk","We're currently having some
 limited-time sales.
-These are some great deals—!");
+These are some great deals!");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

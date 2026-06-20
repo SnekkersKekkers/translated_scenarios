@@ -51,7 +51,7 @@ We can skate together.");
     VoicePlay("B040311100_03_040");
     MsgDisp("Honda","Eh? Is that so.
 I was hoping that you could teach me
-though—.");
+though.");
     MsgDateResultDisp();
     break ;
     default :

@@ -41,7 +41,7 @@ I've been defeated...");
         ChEyeOpenLevel(4,0);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040410102_04_030");
-        MsgDisp("Nanatsumori","Hm—.");
+        MsgDisp("Nanatsumori","Hm.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,1,1);

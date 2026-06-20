@@ -92,7 +92,7 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B330A10201_02_030");
-MsgDisp("Sassa","Oh—!");
+MsgDisp("Sassa","Oh!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,3);

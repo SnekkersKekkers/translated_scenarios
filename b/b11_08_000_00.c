@@ -60,7 +60,7 @@ ChMotion(8,1,1);
 VoicePlay("B110800000_08_030");
 MsgDisp("Shirahane","Sure, I'm the tagalong, but you're the real
 eyesore here.
-Pain, pain, fly away—!");
+Pain, pain, fly away!");
 MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,0);

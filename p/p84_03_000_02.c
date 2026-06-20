@@ -1,6 +1,6 @@
 ScrFadeIn(0);
 VoicePlay("P840300002_48_000");
-MsgDisp("School Girl","Excuse me—...
+MsgDisp("School Girl","Excuse me—..
 I want a vinyl string but...
 ...Do you have any?");
 MsgDisp("主人公","Ah, yes, here you go.");

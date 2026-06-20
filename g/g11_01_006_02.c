@@ -83,7 +83,7 @@ ChMotion(1,1);
 VoicePlay("G110100602_01_070");
 MsgDisp("Kazama","No, that cloud over there also looks
 like him.");
-MsgDisp("主人公","Ehh—?");
+MsgDisp("主人公","Ehh?");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

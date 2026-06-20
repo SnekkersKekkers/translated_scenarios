@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040419200_04_000");
     MsgDisp("Nanatsumori","That kitty was great! It was like he really
 understood how people feel, right?
-I was drawn in by his performance—.");
+I was drawn in by his performance.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -7,7 +7,7 @@ SEWait();
 MsgDisp("主人公","You can't run in the hallways...
 That person dropped their handkerchief∋");
 MsgDisp("主人公","Wait a moment!
-You dropped your handkerchief—!");
+You dropped your handkerchief!");
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE",0.01);
 SEWait();
 MsgClose();

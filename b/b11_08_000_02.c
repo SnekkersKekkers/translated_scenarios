@@ -63,7 +63,7 @@ ChMotion(8,4,1);
 VoicePlay("B110800002_08_030");
 MsgDisp("Shirahane","Sorry, mister.
 We're goin' on a date now.
-See ya—.");
+See ya.");
 MsgDispSksp(0);
 ChEye(35,0);
 ChMouth(35,0);

@@ -5,7 +5,7 @@ ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 ScrFadeIn(0);
 VoicePlay("P640300002_03_000");
-MsgDisp("Honda","Ahh... It was delicious—.");
+MsgDisp("Honda","Ahh... It was delicious.");
 MsgDisp("主人公","Really, that's good.
 You should also check out the vegetable
 sales, okay?");

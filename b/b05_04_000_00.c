@@ -108,14 +108,14 @@ I mean that's really NANA isn't it.");
 VoicePlay("B050400000_48_020");
 MsgDisp("Woman B","But it's kinda suspicious.
 If he was the real deal, he wouldn't stand
-like that—.");
+like that.");
 VoicePlay("B050400000_47_030");
 MsgDisp("Woman A","Got it, he's a NANA fan!
 There are quite a lot of guys who copy NANA's
 hairstyle and fashion right?");
 VoicePlay("B050400000_48_030");
-MsgDisp("Woman B","That's right. Ah—
-That scared me—!");
+MsgDisp("Woman B","That's right. Ah! Geez!
+That scared me!");
 MsgDisp("主人公","(I'm glad...
 Looks like they didn't even discover it was
 \"NANA\".)");

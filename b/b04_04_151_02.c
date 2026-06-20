@@ -18,7 +18,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040415102_04_010");
     MsgDisp("Nanatsumori","Looks like that's how it is in other places.
 I wonder if they'll set up something fun
-here too—.");
+here too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -103,7 +103,7 @@ even now.");
         VoicePlay("B040415102_04_110");
         MsgDisp("Nanatsumori","Alright!
 Shall we continue where we left off?!");
-        MsgDisp("主人公","Okay—!");
+        MsgDisp("主人公","Okay!");
         break ;
         default :
         DbgAssert(1);

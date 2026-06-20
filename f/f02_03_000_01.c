@@ -29,7 +29,7 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F020300001_03_030");
-MsgDisp("Honda","I see—");
+MsgDisp("Honda","I see.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

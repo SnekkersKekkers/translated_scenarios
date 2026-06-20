@@ -73,7 +73,7 @@ year. Sigh, I'm nervous.)");
     VoiceEVSPlay(4);
     VoicePlay("P530400001_04_070");
     MsgDisp("Nanatsumori","｛主人公｝.
-You're stressed, huh—.");
+You're stressed, huh?");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝. Yeah...");
     VoicePlay("P530400001_04_080");
     MsgDisp("Nanatsumori","You're going to perform gaming music?

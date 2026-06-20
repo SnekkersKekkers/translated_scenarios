@@ -73,7 +73,7 @@ Let's do it together.");
         MsgDisp("Hiiragi","One, two?");
         MsgDisp("主人公","Uh, you idiot ocean!");
         VoicePlay("B040502102_05_080");
-        MsgDisp("Hiiragi","I like you—!");
+        MsgDisp("Hiiragi","I like you!");
         MsgDisp("主人公","Ah... Ehh∋");
         SEPlay("EV_SE_544",0.01);
         MsgClose();

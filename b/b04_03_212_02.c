@@ -46,10 +46,10 @@ Its cheerfulness gives me a good feeling.");
         VoicePlay("B040321202_03_030");
         MsgDisp("Honda","Is that so?
 I'll give it a whirl.
-Good morning—.");
+Good morning.");
         ChMouth(3,0);
         SEPlay("EV_SE_796",0,0.9);
-        MsgDisp("Plushie","Good morning—.");
+        MsgDisp("Plushie","Good morning.");
         MsgDisp("主人公","Hehe, its voice is a little off.
 But it's cute.");
         ChEye(3,0);

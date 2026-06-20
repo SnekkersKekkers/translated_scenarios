@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     VoicePlay("B040324201_03_010");
     MsgDisp("Honda","Yep yep.
-I want to try surviving for real—!");
+I want to try surviving for real!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

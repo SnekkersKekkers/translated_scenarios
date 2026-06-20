@@ -9,7 +9,7 @@ switch (ChPrmGet(3,6)){
     break ;
     case 3:
     VoicePlay("P830300001_48_000");
-    MsgDisp("School Girl","Excuse me—.
+    MsgDisp("School Girl","Excuse me—
 I want two permanent marker pens.");
     MsgDisp("主人公","Yes～. Is this okay?");
     VoicePlay("P830300001_48_010");

@@ -19,7 +19,7 @@ I think I was able to make it pretty but...)");
     ChOpen(2,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730200002_02_010");
     MsgDisp("Sassa","It's nice.
-You're a bride this year—");
+You're a bride this year.");
     MsgDisp("主人公","Yeah. It's the handicraft's club tradition,
 the last cultural festival we'll do wedding
 dresses.");

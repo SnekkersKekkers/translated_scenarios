@@ -6,7 +6,7 @@ ChMotion(3,0,1);
 VoicePlay("G020310304_03_000");
 MsgDisp("Honda","If only there was just one way to approach
 things like fireflies, I wouldn't have to
-overthink it—");
+overthink it.");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,4);

@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040324102_03_010");
-    MsgDisp("Honda","I see—. I'm not really good with herbs—.");
+    MsgDisp("Honda","I see. I'm not really good with herbs.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -44,7 +44,7 @@ sausages.");
         ChMotion(3,2);
         VoicePlay("B040324102_03_030");
         MsgDisp("Honda","Is that so?
-I don't really get sentimental like that—.");
+I don't really get sentimental like that.");
         MsgDateResultDisp();
         break ;
         case 4:

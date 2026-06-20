@@ -42,7 +42,7 @@ challenging.");
     VoicePlay("B040316001_03_030");
     MsgDisp("Honda","Oh yeah?
 By my calculations, I can totally get it.
-But you don't believe in me—.");
+But you don't believe in me.");
     MsgDateResultDisp();
     break ;
     default :

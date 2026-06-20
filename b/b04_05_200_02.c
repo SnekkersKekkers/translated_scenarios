@@ -55,7 +55,7 @@ take the lift back.");
         ChClose(5,0,30);
         MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝!");
         VoicePlay("B040520002_05_060");
-        MsgDisp("Hiiragi","Uuwahh—!");
+        MsgDisp("Hiiragi","Uuwahh!");
         MsgClose();
         ScrFadeOut(0,0);
         MsgDisp("","　　　　　　　　　　 ・

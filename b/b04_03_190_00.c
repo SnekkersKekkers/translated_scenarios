@@ -39,7 +39,7 @@ theory is a bit much.");
     ChMotion(3,5);
     VoicePlay("B040319000_03_020");
     MsgDisp("Honda","Uwaah, harsh!
-You're that blunt about it huh—.");
+You're that blunt about it huh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

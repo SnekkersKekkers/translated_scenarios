@@ -60,7 +60,7 @@ hard to keep a distance, isn't it?");
 MsgDisp("主人公","Ah...hehe!");
 ChMotion(4,0,1);
 VoicePlay("B360401100_04_060");
-MsgDisp("Nanatsumori","Well, I wonder what we'll find next time—.");
+MsgDisp("Nanatsumori","Well, I wonder what we'll find next time.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -27,7 +27,7 @@ ChMotion(7,3);
 MsgDisp("Mikage","I do, I do.
 Lots of summer vegetables and you guys.");
 VoicePlay("P610700002_40_030");
-MsgDisp("Member B","We're the same as vegetables—?");
+MsgDisp("Member B","We're the same as vegetables?");
 VoicePlay("P610700004_07_020");
 ChEye(7,0);
 ChMouth(7,3);

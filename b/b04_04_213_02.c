@@ -19,7 +19,7 @@ switch (MsgSelRsltGet()){
     VoicePlay("B040421302_04_010");
     MsgDisp("Nanatsumori","Right.
 ...It would be nice if the cats in my
-neighbourhood were this friendly—.");
+neighbourhood were this friendly.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -84,7 +84,7 @@ I'll dote on you.");
         VoiceEVSPlay(4);
         VoicePlay("B040421302_04_070");
         MsgDisp("Nanatsumori","｛主人公｝.
-Come here—.");
+Come here.");
         MsgDisp("主人公","You're still going with this....");
         ChEye(4,3);
         ChMouth(4,3);

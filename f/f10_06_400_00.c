@@ -47,7 +47,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100640000_01_030");
 MsgDisp("Kazama","What are you talking about?
-Come on, let's go—.");
+Come on, let's go.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

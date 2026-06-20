@@ -17,7 +17,7 @@ switch (MsgSelRsltGet()){
     ChMotion(3,3);
     VoicePlay("B040306501_03_010");
     MsgDisp("Honda","Eh—? What for?
-I wanted you to see it—.");
+I wanted you to see it.");
     MsgDateResultDisp();
     break ;
     case 1:

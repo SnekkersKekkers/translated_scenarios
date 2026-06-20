@@ -76,7 +76,7 @@ ChEye(34,1);
 ChMouth(34,1);
 VoicePlay("B110200001_34_050");
 MsgDisp("Guy","Eh, no way.
-Don't report me to the admins—!");
+Don't report me to the admins!");
 SEPlay("EV_SE_580");
 MsgClose();
 ChClose(34);

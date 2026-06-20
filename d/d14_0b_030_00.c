@@ -68,7 +68,7 @@ ChEyeOpenLevel(1,0);
 VoicePlay("D140B03000_01_020");
 MsgDisp("Kazama","To those who don't want to ruin their
 enjoyable lunchtime with a lecture on dieting
-please say ye—.");
+please say yes.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,2,1);
