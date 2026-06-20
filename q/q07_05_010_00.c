@@ -87,7 +87,7 @@ ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("Q070501000_05_090");
 MsgDisp("Hiiragi","Could you try blowing it?");
-MsgDisp("主人公","Eh...s, sure!");
+MsgDisp("主人公","Eh... S-Sure!");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 Wait(30,1);
@@ -98,7 +98,7 @@ Wait(40,1);
 ChEyeOpenLevel(5,#1);
 VoicePlay("Q070501000_05_100");
 MsgDisp("Hiiragi","I wonder why...
-Your sound, sounds cute.");
+Your sound, it's cute.");
 Wait(40,1);
 ChEye(5,0);
 ChMotion(5,4);
