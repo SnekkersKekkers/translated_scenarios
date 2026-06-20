@@ -45,7 +45,7 @@ of people?");
         ChMouth(2,2);
         ChMotion(2,4);
         VoicePlay("B040224202_02_030");
-        MsgDisp("Sassa","Not at all?
+        MsgDisp("Sassa","No way, right?
 That's a weird thing to ask.");
         MsgDateResultDisp();
         break ;
@@ -56,7 +56,7 @@ That's a weird thing to ask.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040224202_02_040");
-        MsgDisp("Sassa","Why? Did something happen?");
+        MsgDisp("Sassa","What's wrong? Did something happen?");
         MsgDisp("主人公","No. It's because ｛Sassa＊＊｝ seemed
 interested in camping alone.");
         ChEye(2,0);
@@ -68,20 +68,20 @@ interested in camping alone.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040224202_02_060");
-        MsgDisp("Sassa","Hey, it's not just with camping, even in
-other places, it would be more fun with you.");
+        MsgDisp("Sassa","Look, it's not just camping, anything's
+more fun when I'm with you.");
         MsgDisp("主人公","...Yeah, sorry.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040224202_02_070");
-        MsgDisp("Sassa","Ah! You caught me, huh?");
+        MsgDisp("Sassa","Ahh, you set me up, didn't you?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040224202_02_080");
-        MsgDisp("Sassa","You do that sometimes.
-Often at campsites too.
+        MsgDisp("Sassa","You pull that on me sometimes.
+So there's a campsite version too, huh.
 I'll remember that.");
         MsgDisp("主人公","Hehe. But, thank you.");
         ChEye(2,3);

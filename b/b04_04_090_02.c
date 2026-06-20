@@ -9,7 +9,7 @@ VoicePlay("B040409002_04_000");
 MsgDisp("Nanatsumori","It's missing some impact...
 It would be good for them to do a
 flashy event.");
-MsgSel("I think it's fine as it is though...","｛Nanatsumori＊｝ should produce it!","Like setting off some huge fireworks?");
+MsgSel("I think it's fine as it is though...","｛Nanatsumori＊｝ should produce it!","Like setting off some huge flowerworks?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){
@@ -112,8 +112,8 @@ I don't think I can do it.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040409002_04_120");
-    MsgDisp("Nanatsumori","Ah—, \"flowers\" (hana) and \"fireworks\"
-(hanabi). It's a bad pun, but it's catchy.
+    MsgDisp("Nanatsumori","Ah. \"Flowers\" and \"Fireworks\". 
+It's a bad pun, but it's catchy.
 Why not suggest that for real?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

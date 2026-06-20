@@ -6,7 +6,8 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408502_04_000");
-MsgDisp("Nanatsumori","Hmmm—... Don't you want something warm?");
+MsgDisp("Nanatsumori","Hmm...
+Don't you want something warm?");
 MsgSel("Some hot chocolate would be nice.","Am I not warm enough?","A steaming meat bun...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -128,7 +129,7 @@ serious errors, body and mind alike.");
     ChMouth(4,2);
     ChMotion(4,2,1);
     VoicePlay("B040408502_04_130");
-    MsgDisp("Nanatsumori","Ah—....
+    MsgDisp("Nanatsumori","Ah...
 I can't stand it when you give a specific
 example.");
     MsgDispSksp(1,8);
