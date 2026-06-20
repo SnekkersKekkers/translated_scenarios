@@ -35,8 +35,8 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_010");
 MsgDisp("Nanatsumori?","No thanks. I'll have a strawberry parfait,
-macaron special, slice of chocolate cake and
-banana pie, with hot coffee.");
+macaron special, slice of chocolate cake
+and banana pie, with hot coffee.");
 MsgDisp("主人公","R- Right away!!");
 ChEye(4,0);
 ChMouth(4,0);
@@ -72,7 +72,8 @@ SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Eh...?
-Excuse me, the customer who was seated here—");
+Excuse me, the customer who was
+seated here—");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_040");
@@ -205,11 +206,11 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("A020430000_04_170");
 MsgDisp("Nanatsumori","It's worse if you apologise...
-Realising I just shot myself in the foot like
-an idiot.");
-MsgDisp("主人公","｛Nanatsumori＊｝, is it possible that you're
-keeping your model identity a secret from
-people at school?");
+Realising I just shot myself in the foot
+like an idiot.");
+MsgDisp("主人公","｛Nanatsumori＊｝, is it possible that
+you're keeping your model identity a
+secret from people at school?");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("A020430000_04_180");
@@ -220,8 +221,8 @@ MsgDisp("主人公","I see. Then, I'll keep it a secret, okay?");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("A020430000_04_190");
-MsgDisp("Nanatsumori","Rather than keeping it secret, I want you to
-just forget about today.");
+MsgDisp("Nanatsumori","Rather than keeping it secret, I want you
+to just forget about today.");
 MsgDisp("主人公","That's impossible!
 I can't forget...");
 ChEye(4,4);
@@ -233,8 +234,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("A020430000_04_210");
-MsgDisp("Nanatsumori","Well, I suppose if I could be forgotten that
-easily, there'd be no point in being a model.");
+MsgDisp("Nanatsumori","Well, I suppose if I could be forgotten
+that easily, there'd be no point in being
+a model.");
 MsgDisp("主人公","Haha!");
 ChEye(4,4);
 ChMouth(4,3);

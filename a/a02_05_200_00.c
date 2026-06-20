@@ -64,8 +64,8 @@ MsgDisp("Hiiragi","President, we are currently at school.
 My theatre work isn't relevant here.");
 VoicePlay("A020520000_41_030");
 MsgDisp("President","R-Right.
-Of course. Let's work hard to make Habataki
-High even better, then!");
+Of course. Let's work hard to make
+Habataki High even better, then!");
 MsgDisp("主人公","Yes!!");
 ChEye(5,0);
 ChMouth(5,4);
@@ -78,7 +78,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(5);
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝, was it...
-I can't believe the chairman is in the same
-year as me. He seems a bit strict...)");
+I can't believe the chairman is in the
+same year as me. He seems a bit strict...)");
 MsgClose();
 ScrFadeOut(0,0);

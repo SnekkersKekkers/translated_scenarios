@@ -82,7 +82,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
 MsgDisp("主人公","(｛Honda＊＊｝... He says some complicated
-things, but... I'm looking forward to seeing
-him at work and school!)");
+things, but... I'm looking forward to
+seeing him at work and school!)");
 MsgClose();
 ScrFadeOut(0);

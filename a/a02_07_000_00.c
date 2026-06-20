@@ -158,8 +158,8 @@ ChOpen(7,254,0,0,3,#1,#1,0,0);
 BGMPlay("BGM_C07_MIKAGE_C",0.01);
 ScrFadeIn(0);
 VoicePlay("A020700000_07_080");
-MsgDisp("Mikage","Man, I showed you guys something uncool right
-off the bat.");
+MsgDisp("Mikage","Man, I showed you guys something uncool
+right off the bat.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -180,8 +180,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 SEStop("EV_SE_GAYA_017");
 VoicePlay("A020700000_07_110");
-MsgDisp("Mikage","Well, I guess today you get a special edition
-version of me.
+MsgDisp("Mikage","Well, I guess today you get a special
+edition version of me.
 So? Where were we?");
 VoicePlay("A020700000_42_090");
 MsgDisp("Student A","You barely told us your name.");
@@ -202,8 +202,9 @@ VoicePlay("A020700000_07_130");
 MsgDisp("Mikage","...Alright, let me introduce myself again.
 I'm Mikage Kojiro, born on 25 May, I'm a
 cheerful and easy-going type O.");
-MsgDisp("主人公","(Hehe, it's the first time I've had a teacher
-tell us his birthday in his introduction!)");
+MsgDisp("主人公","(Hehe, it's the first time I've had a
+teacher tell us his birthday in his
+introduction!)");
 SEStop("EV_SE_864",1.5)SEStop("EV_SE_GAYA_016",1);
 SEStop("EV_SE_788",1);
 ChEye(7,0);
@@ -219,8 +220,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("A020700000_07_150");
-MsgDisp("Mikage","Right, key info. I teach biology and advise
-the Gardening and Track clubs.
+MsgDisp("Mikage","Right, key info. I teach biology and
+advise the Gardening and Track clubs.
 Though for track, I'm just a figurehead.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -271,8 +272,8 @@ MsgDisp("Student B","So crazy!");
 SEPlay("EV_SE_864");
 SEPlay("EV_SE_GAYA_023",0.2,0.8);
 SEPlay("EV_SE_788",0.2);
-MsgDisp("主人公","(Mikage-sensei... He's a bit eccentric, but
-he seems like an interesting teacher.
+MsgDisp("主人公","(Mikage-sensei... He's a bit eccentric,
+but he seems like an interesting teacher.
 I hope we have a fun year!)");
 SEStop("EV_SE_864",2)SEStop("EV_SE_GAYA_023",2);
 SEStop("EV_SE_788",2);

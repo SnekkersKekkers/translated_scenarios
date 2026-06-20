@@ -1,6 +1,7 @@
 BGOpen("sc200",0);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh... Feels good to get a little exercise!");
+MsgDisp("主人公","Huh...
+Feels good to get a little exercise!");
 VoicePlay("A020210000_02_000");
 MsgDisp("Sassa?","I think so too!");
 MsgDisp("主人公","What?");
@@ -87,7 +88,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("A020210000_02_110");
 MsgDisp("Sassa","Yes, really.
-To the point that I'd recruit you in track!");
+To the point that I'd recruit you
+in track!");
 SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ScrFadeOut(0);
@@ -115,8 +117,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020210000_02_140");
 MsgDisp("Sassa","But you have good sense for this.
-I have a good eye for athletics, so you can
-trust me.");
+I have a good eye for athletics, so you
+can trust me.");
 MsgDisp("主人公","Hehe, alright then.");
 ChEye(2,0);
 ChMouth(2,4);

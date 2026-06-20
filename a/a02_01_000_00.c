@@ -10,13 +10,13 @@ SEWait();
 BGOpen("ho000",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Ahh～ What a beautiful morning.
-I just know good things are gonna happen in
-my high school life!)");
+I just know good things are gonna happen
+in my high school life!)");
 MsgDisp("主人公","(Ryota-kun came by my house yesterday.
 But I wasn't there to see him...)");
 MsgDisp("主人公","(I wonder if his vibe has changed.
-But I bet he's still the same smart, lively
-boy he always was...)");
+But I bet he's still the same smart,
+lively boy he always was...)");
 SEPlay("EV_SE_FOOT_WALK_KEEP_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0,0);
@@ -99,8 +99,8 @@ VoicePlay("A020100000_01_050");
 MsgDisp("Kazama","...N-Not really.
 It's not that weird.");
 MsgDisp("主人公","Oh, that uniform...
-Does that mean you're going to Habataki High
-School too?");
+Does that mean you're going to Habataki
+High School too?");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -111,10 +111,11 @@ MsgDisp("Kazama","Yep. Even I'm surprised by this twist.
 I told your mom yesterday, though.
 Did she not mention it?");
 MsgDisp("主人公","Sorry, ｛Kazama＊＊｝.
-I was so surprised to hear you came back, I
-wasn't really listening...");
+I was so surprised to hear you came back,
+I wasn't really listening...");
 MsgDisp("主人公","Same school again, huh?
-Feels like we're back in elementary school.");
+Feels like we're back in
+elementary school.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -140,8 +141,9 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("A020100000_01_071");
 BGMVol(0.5,0.5);
-MsgDisp("Kazama","In first grade, we used to walk up this same
-street to get to school together, remember?");
+MsgDisp("Kazama","In first grade, we used to walk up this
+same street to get to school together,
+remember?");
 MsgDisp("主人公","Yeah... ...Oh, that reminds me!");
 NSSEye(1,3);
 NSSMouth(1,2);
@@ -166,7 +168,8 @@ VoicePlay("A020100000_01_100");
 MsgDisp("Kazama","It's fine.
 My flight back home got delayed so I just
 kind of stopped by out of the blue.");
-MsgDisp("主人公","Eh∋ So you really just got back yesterday?");
+MsgDisp("主人公","Eh∋
+So you really just got back yesterday?");
 NSSEye(1,0);
 NSSMouth(1,3);
 VoicePlay("A020100000_01_110");
@@ -178,14 +181,15 @@ NSSEye(1,6);
 NSSMouth(1,3);
 NSSEyeOpenLevel(1,5);
 VoicePlay("A020100000_01_120");
-MsgDisp("Kazama","I thought I'd miss the April start here, but
-I managed to make it just in time, somehow.");
+MsgDisp("Kazama","I thought I'd miss the April start here,
+but I managed to make it just in time,
+somehow.");
 NSSEye(1,0);
 NSSMouth(1,0);
 VoicePlay("A020100000_01_130");
-MsgDisp("Kazama","My dad still has work over there, but Grandpa
-runs an antique store here, so I decided to
-live on my own a while.");
+MsgDisp("Kazama","My dad still has work over there, but
+Grandpa runs an antique store here, so I
+decided to live on my own a while.");
 MsgDisp("主人公","You're gonna live in that big house all by
 yourself?
 Well, if you're ever in trouble—");
@@ -206,22 +210,25 @@ MsgDisp("主人公","That one time...?");
 MsgSel("The mysterious church with the ringing bell?","The wishes we made together to the pinwheel?","We had lots of different moments, I wonder which one...");
 switch (MsgSelRsltGet()){
     case 0:
-    MsgDisp("主人公","The mysterious church with the ringing bell?");
+    MsgDisp("主人公","The mysterious church with the
+ringing bell?");
     NSSEye(1,6);
     NSSMouth(1,0);
     VoicePlay("A020100000_01_160");
     MsgDisp("Kazama","Well yeah, that too.
-At that time, together in that church, we—");
+At that time, together in that
+church, we—");
     break ;
     case 1:
-    MsgDisp("主人公","The wishes we made together to the pinwheel?");
+    MsgDisp("主人公","The wishes we made together to the
+pinwheel?");
     NSSEye(1,6);
     NSSMouth(1,3);
     NSSCheek(1,7);
     VoicePlay("A020100000_01_170");
     MsgDisp("Kazama","That's it.
-Just looking at you... I'd say there's a good
-chance that wish'll come true.");
+Just looking at you... I'd say there's a
+good chance that wish'll come true.");
     break ;
     case 2:
     MsgDisp("主人公","We had lots of different moments, I wonder
@@ -298,9 +305,9 @@ Wait(12,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("A020100000_01_200");
-MsgDisp("Kazama","Don't go thinking something dumb like, \"I'm
-curious about that \"Young Master\" stuff\",
-got it?");
+MsgDisp("Kazama","Don't go thinking something dumb like,
+\"I'm curious about that \"Young Master\"
+stuff\", got it?");
 MsgDisp("主人公","∋
 (He read my mind...)");
 ChEye(1,3);

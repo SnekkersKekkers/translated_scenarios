@@ -32,7 +32,8 @@ ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("A020D00000_21_020");
 MsgDisp("Michiru?","I know.");
-MsgDisp("主人公","Huh? I feel like I've seen you two somewh—");
+MsgDisp("主人公","Huh?
+I feel like I've seen you two somewh—");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -44,10 +45,11 @@ ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("A020D00000_21_030");
 MsgDisp("Michiru?","Hikaru...
-Let's not use nicknames before we've properly
-introduced ourselves.");
+Let's not use nicknames before we've
+properly introduced ourselves.");
 MsgDisp("主人公","Wait, Michiru...Hikaru...
-You're the \"Hanatsubaki Twins\" model twins∋");
+You're the \"Hanatsubaki Twins\"
+model twins∋");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -70,15 +72,15 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("A020D00000_21_050");
 MsgDisp("Michiru","Yes.
-A girl full of grace, overflowing with charm,
-like a delicate flower in bloom...");
+A girl full of grace, overflowing with
+charm, like a delicate flower in bloom...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("A020D00000_22_040");
 MsgDisp("Hikaru","Hehe～
-It's subtle, but you give off the same scent
-as us～");
+It's subtle, but you give off the same
+scent as us～");
 MsgDisp("主人公","N-No way...
 I'm nothing like that...");
 ChEye(22,4);
@@ -135,10 +137,10 @@ BGMStop();
 ChClose(21,0,30);
 ChClose(22,0,30);
 MsgDisp("主人公","(The famous \"Hanatsubaki Twins\", from the
-family of world-renowned designer Hanatsubaki
-Goro, go to this school...!?)");
-MsgDisp("主人公","(I can go to Michiru for fashion and Hikaru
-for relationship advice...
+family of world-renowned designer
+Hanatsubaki Goro, go to this school...!?)");
+MsgDisp("主人公","(I can go to Michiru for fashion and
+Hikaru for relationship advice...
 Anyway, why do they call me \"Mari\"?)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -5,8 +5,8 @@ MsgDisp("主人公","I'm ｛主人公苗字｝ and I'll be working here
 starting today.
 Nice to meet you.");
 VoicePlay("A020830000_40_000");
-MsgDisp("Manager","Your shifts are Wednesdays and Fridays every
-week, okay?
+MsgDisp("Manager","Your shifts are Wednesdays and Fridays
+every week, okay?
 I'm counting on you.");
 MsgDisp("主人公","Yes, understood.");
 MsgDisp("主人公","(Alright, let's do our best!)");
@@ -40,12 +40,12 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("A020830000_08_020");
 MsgDisp("Shirahane","You're the new part-timer startin' today,
-right? I'm Shirahane Daichi. I'm in the blue
-necktie year at Hanegasaki Academy.");
+right? I'm Shirahane Daichi. I'm in the
+blue necktie year at Hanegasaki Academy.");
 ChEyeOpenLevel(8,#1);
 MsgDisp("主人公","I'm ｛主人公姓名｝. Blue...
-So that means, the same grade as me, doesn't
-it! I'm from—");
+So that means, the same grade as me,
+doesn't it! I'm from—");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -87,8 +87,8 @@ ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("A020830000_08_060");
 MsgDisp("Shirahane","It's not weird per se.
-Just, suppose I'd call it unexpected, or you
-could say it's got me worried...");
+Just, suppose I'd call it unexpected, or
+you could say it's got me worried...");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
@@ -101,11 +101,11 @@ ChMouth(8,3);
 ChMotion(8,1,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("A020830000_08_080");
-MsgDisp("Shirahane","Then, once more: lookin' forward to workin'
-with you～!");
+MsgDisp("Shirahane","Then, once more: lookin' forward to
+workin' with you～!");
 MsgDisp("主人公","(｛Daichi＊＊｝ from Hanegasaki Academy...
-His smile and unique way of talking are kinda
-cute. I can't wait for work!)");
+His smile and unique way of talking are
+kinda cute. I can't wait for work!)");
 BGMStop()MsgClose();
 ScrFadeOut(0);
 ChClose(8);

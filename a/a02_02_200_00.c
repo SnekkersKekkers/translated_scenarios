@@ -3,9 +3,9 @@ ScrFadeIn(0);
 MsgDisp("主人公","(Let's see...
 The track and field office should be right
 around here...)");
-MsgDisp("主人公","(The club's advisor is Mikage-sensei, but he
-said the club captain is the one doing all
-the work...)");
+MsgDisp("主人公","(The club's advisor is Mikage-sensei, but
+he said the club captain is the one doing
+all the work...)");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -33,8 +33,8 @@ VoicePlay("A020220000_02_010");
 MsgDisp("Sassa?","Hmmm...
 The admissions are usually made through
 Mikage-sensei, though?");
-MsgDisp("主人公","｛Mikage＊＊｝ told me to look for the club
-captain...");
+MsgDisp("主人公","｛Mikage＊＊｝ told me to look for the
+club captain...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -46,8 +46,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("A020220000_02_030");
-MsgDisp("Sassa?","The track team couldn't find an advisor, and
-Mikage-sensei stepped up to help.
+MsgDisp("Sassa?","The track team couldn't find an advisor,
+and Mikage-sensei stepped up to help.
 Everyone's really grateful.");
 MsgDisp("主人公","Oh, I see.");
 ChEye(2,0);
@@ -96,13 +96,13 @@ BGOpen("sc601",0);
 Wait(40);
 ScrFadeIn(0);
 VoicePlay("A020220000_39_000");
-MsgDisp("Manager","On the third Sunday of every month, the club
-holds group practice.
+MsgDisp("Manager","On the third Sunday of every month, the
+club holds group practice.
 Make sure to participate.");
 MsgDisp("主人公","Understood!");
 VoicePlay("A020220000_39_010");
-MsgDisp("Manager","Well then, I'll be counting on you from today
-on, manager!");
+MsgDisp("Manager","Well then, I'll be counting on you from
+today on, manager!");
 MsgDisp("主人公","I'll do my best!");
 MsgClose();
 SEPlay("EV_SE_628");
@@ -131,8 +131,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("A020220000_02_120");
 MsgDisp("Sassa","You probably don't know it.
-There are eight events, and your total score
-across all of them counts.");
+There are eight events, and your total
+score across all of them counts.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,1);

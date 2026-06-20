@@ -7,8 +7,9 @@ BGMPlay("BGM_C06_INORI_I",0.01);
 ChOpen(6,254,2,1,1,0,#1,0,0);
 VoicePlay("A020601000_06_000");
 MsgDisp("Himuro?","......");
-MsgDisp("主人公","(That's the guy who was talking to Vice
-Principal Himuro in the corridor, isn't it?)");
+MsgDisp("主人公","(That's the guy who was talking to
+Vice Principal Himuro in the corridor,
+isn't it?)");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -71,8 +72,8 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("A020601000_06_080");
 MsgDisp("Himuro?","You're gonna ignore my personal identity?
-Is it so much more important to satisfy your
-own curiosity?");
+Is it so much more important to satisfy
+your own curiosity?");
 StlEye(6,0,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0,1);
