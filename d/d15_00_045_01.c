@@ -15,7 +15,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,3);
 VoicePlay("D150004501_04_010");
-MsgDisp("Nanatsumori","It's kind of cool how easily you admit that.");
+MsgDisp("Nanatsumori","It's kind of cool how easily you
+admit that.");
 MsgDisp("主人公","Hehe, it really is.");
 ChEye(5,4);
 ChMouth(5,4);

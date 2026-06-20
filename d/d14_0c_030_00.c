@@ -11,8 +11,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("D140C03000_06_000");
-MsgDisp("Himuro","By the way, I was wondering what it was like
-for you two at meal times.");
+MsgDisp("Himuro","By the way, I was wondering what it was
+like for you two at meal times.");
 ChMouth(5,2);
 MsgDisp("主人公","｛Himuro＊＊｝, what is this all of a sudden?");
 ChEye(6,0);
@@ -26,14 +26,15 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("D140C03000_05_000");
-MsgDisp("Hiiragi","I eat with my family and the theatre troupe.");
+MsgDisp("Hiiragi","I eat with my family and the
+theatre troupe.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D140C03000_07_000");
 MsgDisp("Mikage","I see.
-The food is probably more delicious when you
-eat with so many people.");
+The food is probably more delicious when
+you eat with so many people.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -79,8 +80,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D140C03000_05_030");
 MsgDisp("Hiiragi","Mikage-sensei, we're a big family, but if
-it's alright with you, I'd like to invite you
-for dinner next time.");
+it's alright with you, I'd like to invite
+you for dinner next time.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -105,7 +106,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C03000_07_050");
-MsgDisp("Mikage","Oh, I got the chairman's stamp of approval.");
+MsgDisp("Mikage","Oh, I got the chairman's stamp of
+approval.");
 MsgDisp("主人公","(If ｛Mikage＊＊｝ became an actor...
 Hehe, he might get really popular?)");
 BGMStop();

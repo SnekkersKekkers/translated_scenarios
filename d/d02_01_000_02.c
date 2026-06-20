@@ -14,8 +14,8 @@ VoicePlay("D020100000_01_000");
 MsgDisp("Kazama","Waiting or not, we're going the same way,
 aren't we?");
 MsgDisp("主人公","That's true.
-It really feels like we're back in elementary
-school again.");
+It really feels like we're back in
+elementary school again.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -38,7 +38,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D020100000_01_030");
-MsgDisp("Kazama","\"You've gotten so much taller, haven't you\"?");
+MsgDisp("Kazama","\"You've gotten so much taller,
+haven't you\"?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -71,8 +72,8 @@ NSSOpen(1,254,6,2,#1,#1,0);
 SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("D020100000_01_181");
-MsgDisp("Kazama","Hey, do you remember what I asked you on the
-day of the entrance ceremony?");
+MsgDisp("Kazama","Hey, do you remember what I asked you on
+the day of the entrance ceremony?");
 MsgDisp("主人公","Hm?");
 NSSEye(1,2);
 NSSMouth(1,2);
@@ -82,8 +83,8 @@ NSSEye(1,0);
 NSSMouth(1,2);
 VoicePlay("D020100000_01_200");
 MsgDisp("Kazama","Fine. I'll ask you again.
-It's about that time in first grade, when the
-two of us—");
+It's about that time in first grade, when
+the two of us—");
 MsgClose();
 ScrFadeOut(0,0,30);
 NSSClose();
@@ -151,8 +152,8 @@ ChCheek(1,0);
 Wait(10,0);
 VoicePlay("D020100000_01_270");
 MsgDisp("Kazama","Fine, I get it now. I underestimated your
-natural airheadedness. Can't take my eyes off
-you until graduation...");
+natural airheadedness. Can't take my eyes
+off you until graduation...");
 MsgDisp("主人公","(｛Kazama＊＊｝ reminds me of my dad...)");
 MsgClose();
 ScrFadeOut(0,0);

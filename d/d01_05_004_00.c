@@ -131,7 +131,8 @@ SEWait();
 ChOpen(5,254,0,0,4,#1,#1,0,0);
 VoicePlay("D010500400_05_070");
 MsgDisp("Hiiragi","Yeah.
-There is no point in continuing alone, right?");
+There is no point in continuing
+alone, right?");
 MsgDisp("主人公","Yup. Everyone was really happy, though.");
 ChEye(5,4);
 ChMouth(5,4);

@@ -39,8 +39,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C04002_06_020");
-MsgDisp("Himuro","Sigh...there was something I wanted to talk
-to Kojiro sensei about too today.");
+MsgDisp("Himuro","Sigh...there was something I wanted to
+talk to Kojiro sensei about too today.");
 ChEye(5,0);
 ChMotion(5,4);
 MsgDisp("主人公","I see. What was it?");
@@ -49,7 +49,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C04002_06_030");
-MsgDisp("Himuro","I wanted to talk to Kojiro-sensei, not you.");
+MsgDisp("Himuro","I wanted to talk to Kojiro-sensei,
+not you.");
 ChEye(5,0);
 ChMouth(5,3);
 ChMotion(5,3);
@@ -67,7 +68,8 @@ VoicePlay("D140C04002_05_030");
 MsgDisp("Hiiragi","It's Mikage-sensei.
 Looks like he's finished his work.");
 MsgDisp("主人公","That's good.
-You'll be able to talk to him now won't you?");
+You'll be able to talk to him now
+won't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

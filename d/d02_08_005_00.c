@@ -23,7 +23,8 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800500_08_020");
-MsgDisp("Shirahane","I've gotten good grades since middle school.
+MsgDisp("Shirahane","I've gotten good grades since
+middle school.
 I'm always in the top 3.");
 MsgDisp("主人公","Amazing!
 I have to work hard too.");

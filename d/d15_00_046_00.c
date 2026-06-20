@@ -50,8 +50,8 @@ ChMouth(4,3);
 ChMotion(4,5);
 VoicePlay("D150004600_04_040");
 MsgDisp("Nanatsumori","Himuro-kun, don't sulk so much!
-Next time I'll treat you to new desserts and
-even drinks!");
+Next time I'll treat you to new desserts
+and even drinks!");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

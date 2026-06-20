@@ -34,7 +34,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130A00101_01_010");
-MsgDisp("Kazama","We were betting on who could find you first.");
+MsgDisp("Kazama","We were betting on who could find
+you first.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

@@ -2,8 +2,8 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07031_21_000");
-MsgDisp("Michiru","To Honda-kun, I guess Mari is kind of like a
-little sister.");
+MsgDisp("Michiru","To Honda-kun, I guess Mari is kind of like
+a little sister.");
 MsgDisp("主人公","Eh?");
 ChEye(22,0);
 ChMouth(22,3);
@@ -29,8 +29,8 @@ ChMouth(22,3);
 ChMotion(22,0,1);
 ChEyeOpenLevel(22,6);
 VoicePlay("D140D07031_22_020");
-MsgDisp("Hikaru","Hikaru guesses you could say the same thing
-about big sis, huh?");
+MsgDisp("Hikaru","Hikaru guesses you could say the same
+thing about big sis, huh?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,2);

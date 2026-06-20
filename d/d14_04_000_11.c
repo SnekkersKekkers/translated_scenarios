@@ -20,7 +20,7 @@ ChMotion(7,1);
 ChMotion(4,0,1);
 VoicePlay("D140400000_04_030");
 MsgDisp("Nanatsumori","You don't have to push yourself.
-If it's inconvenient, let's just cancel this
-time. See you.");
+If it's inconvenient, let's just cancel
+this time. See you.");
 BGMStop();
 ChClose(4,0,30);

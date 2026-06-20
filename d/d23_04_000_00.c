@@ -10,8 +10,8 @@ SEWait();
 MsgDisp("主人公","(...Huh?
 I got a text message, who's it from?)");
 MsgDisp("主人公","(...It's from ｛Nanatsumori＊｝!
-\"I read the article.
-It was well-written.\")");
+\"I read the article. It was
+well-written.\")");
 MsgDisp("主人公","(Hehe, looks like he read it right away!
 Let's keep working hard!)");
 MsgClose();

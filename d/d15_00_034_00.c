@@ -42,8 +42,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2);
 VoicePlay("D150003400_04_030");
-MsgDisp("Nanatsumori","There's a deep ruby red strawberry jam next
-to the sauces.
+MsgDisp("Nanatsumori","There's a deep ruby red strawberry jam
+next to the sauces.
 It's super delicious.");
 ChEye(3,2);
 ChMouth(3,3);

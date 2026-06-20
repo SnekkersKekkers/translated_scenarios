@@ -81,8 +81,8 @@ StlMouth(7,0);
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700000_07_060");
 MsgDisp("Mikage","It's Hibiscus tea.
-It's a great source of vitamin C, gives you
-energy, and beautiful skin.");
+It's a great source of vitamin C, gives
+you energy, and beautiful skin.");
 MsgDisp("主人公","Thank you so much.
 It's both sweet and sour...
 And very relaxing.");
@@ -96,8 +96,8 @@ StlMouth(7,0);
 StlEyeOpenLevel(7,0);
 VoicePlay("D010700000_07_080");
 MsgDisp("Mikage","Drink it slowly.
-It will warm your stomach and increase your
-appetite.");
+It will warm your stomach and increase
+your appetite.");
 MsgDisp("主人公","Come to think of it...
 I'm getting a bit hungry now—");
 StlEye(7,0);
@@ -114,8 +114,8 @@ StlEye(7,1);
 StlMouth(7,0);
 VoicePlay("D010700000_07_100");
 MsgDisp("Mikage","It was a compliment.
-There should still be some bread left in the
-cafeteria. Let's go.");
+There should still be some bread left in
+the cafeteria. Let's go.");
 MsgDisp("主人公","Okay...!");
 BGMStop();
 MsgClose();
@@ -123,8 +123,8 @@ ScrFadeOut(0);
 StlClose();
 SEPlay("EV_SE_080");
 MsgDisp("主人公","(Weird...
-Thanks to ｛Mikage＊＊｝, I feel like I got
-some strength back!)");
+Thanks to ｛Mikage＊＊｝, I feel like I
+got some strength back!)");
 MsgClose();
 SEStop("EV_SE_080");
 PlPrmTblAdd(71);

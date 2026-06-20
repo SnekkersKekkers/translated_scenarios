@@ -8,9 +8,9 @@ VoicePlay("D010500600_05_010");
 MsgDisp("Hiiragi?","\"Cheese\"?
 That's an interesting greeting?");
 VoicePlay("D010500600_40_010");
-MsgDisp("School Boy","Since we've been cleaning up all morning, I
-thought it would be better to say hello in a
-more fun way.");
+MsgDisp("School Boy","Since we've been cleaning up all morning,
+I thought it would be better to say hello
+in a more fun way.");
 VoicePlay("D010500600_05_020");
 MsgDisp("Hiiragi?","Oh I see, that makes sense.");
 MsgDisp("主人公","Ah, it's ｛Hiiragi＊＊＊｝.
@@ -26,12 +26,13 @@ ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("D010500600_05_030");
 MsgDisp("Hiiragi","｛主人公｝, cheese.");
-MsgDisp("主人公","Hehe, that's an interesting way to say hello.");
+MsgDisp("主人公","Hehe, that's an interesting way to
+say hello.");
 StlEyeOpenLevel(5,5);
 StlMouth(5,1);
 VoicePlay("D010500600_05_040");
-MsgDisp("Hiiragi","Yes, I'm grateful I get to see your smiling
-first thing this morning.");
+MsgDisp("Hiiragi","Yes, I'm grateful I get to see your
+smiling first thing this morning.");
 StlEye(5,1);
 VoicePlay("D010500600_05_050");
 MsgDisp("Hiiragi","I learned something good.");
@@ -61,13 +62,13 @@ StlEye(5,2);
 StlMouth(5,1);
 VoicePlay("D010500600_05_090");
 MsgDisp("Hiiragi","I wonder what that means.
-Well it seems like they're having fun, so I
-guess it's a good thing.");
+Well it seems like they're having fun, so
+I guess it's a good thing.");
 StlEye(5,0);
 VoicePlay("D010500600_05_100");
 MsgDisp("Hiiragi","Alright then.
-Look, when I slack off, more leaves fall in
-the blink of an eye.");
+Look, when I slack off, more leaves fall
+in the blink of an eye.");
 MsgDisp("主人公","Hehe, good luck.");
 BGMStop();
 MsgClose();

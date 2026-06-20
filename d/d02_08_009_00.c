@@ -36,8 +36,8 @@ MsgDisp("主人公","Hello, ｛Daichi＊＊｝∋");
 VoicePlay("D020800900_08_000");
 MsgDisp("Shirahane","Ah... Yeah.");
 MsgDisp("主人公","What a relief...
-It scared me when I heard that you suddenly
-quit your job...");
+It scared me when I heard that you
+suddenly quit your job...");
 VoicePlay("D020800900_08_010");
 MsgDisp("Shirahane","...I'm sorry.
 I hafta work really hard to catch up.");
@@ -50,17 +50,17 @@ VoicePlay("D020800900_08_030");
 MsgDisp("Shirahane","I'm tired of bein' second place.
 Now I'm gonna be the real topdog.");
 MsgDisp("主人公","Are you talking about the entrance exam?
-But you're an honour student too so what does
-that have to do with me...");
+But you're an honour student too so what
+does that have to do with me...");
 VoicePlay("D020800900_08_040");
-MsgDisp("Shirahane","You're an honour student at Habataki and I'm
-an honour student at Hanegasaki.
+MsgDisp("Shirahane","You're an honour student at Habataki and
+I'm an honour student at Hanegasaki.
 ...Now do you get what I'm sayin?");
 MsgDisp("主人公","Yeah. But why so suddenly?");
 VoicePlay("D020800900_08_050");
 MsgDisp("Shirahane","I just realised.
-In order to be at your side, I need to become
-the perfect man.");
+In order to be at your side, I need to
+become the perfect man.");
 MsgDisp("主人公","...Eh?");
 VoicePlay("D020800900_08_060");
 MsgDisp("Shirahane","I'm gonna be your number one.
@@ -91,28 +91,30 @@ But we can still go on dates, right?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(｛Daichi＊＊｝ seems serious.
-I'll study hard for the entrance exams too!)");
-    MsgDisp("","(I quit my part-time job at \"Stallion Gas\".)");
+I'll study hard for the entrance
+exams too!)");
+    MsgDisp("","(I quit my part-time job at
+\"Stallion Gas\".)");
     break ;
     case 1:
     MsgDisp("主人公","I'm rooting for ｛Daichi＊＊｝!
 Good luck!");
     VoicePlay("D020800900_08_110");
     MsgDisp("Shirahane","Thanks.
-Just knowin' that you're cheerin' me on makes
-me feel energised.");
+Just knowin' that you're cheerin' me on
+makes me feel energised.");
     MsgDisp("主人公","Hehe.");
     VoicePlay("D020800900_08_120");
     MsgDisp("Shirahane","So you're goin' to keep workin'.
 Take it easy, okay?
 I'm not there ta help ya anymore...");
     MsgDisp("主人公","Yeah.
-You taught me a lot already, so I'm going to
-keep working hard!");
+You taught me a lot already, so I'm going
+to keep working hard!");
     VoicePlay("D020800900_08_130");
     MsgDisp("Shirahane","That's it.
-I'll be right there with ya, giving it my all
-studyin' for the entrance exams.");
+I'll be right there with ya, giving it my
+all studyin' for the entrance exams.");
     VoicePlay("D020800900_08_140");
     MsgDisp("Shirahane","Ah...
 But can we go on a date once in a while?

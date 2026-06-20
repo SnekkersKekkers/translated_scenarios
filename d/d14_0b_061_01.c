@@ -53,8 +53,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B06101_01_030");
-MsgDisp("Kazama","Nanatsumori, both of them are super slow, so
-don't worry.");
+MsgDisp("Kazama","Nanatsumori, both of them are super slow,
+so don't worry.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);

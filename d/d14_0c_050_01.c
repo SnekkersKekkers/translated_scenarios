@@ -12,8 +12,8 @@ ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("D140C05001_05_000");
 MsgDisp("Hiiragi","Inori-kun.
-Would you be happy if it weren't the two of
-you for lunch today?");
+Would you be happy if it weren't the two
+of you for lunch today?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -46,9 +46,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D140C05001_05_010");
-MsgDisp("Hiiragi","I was talking to Mikage-sensei about how you
-and Inori-kun have been spending a lot of
-time together.");
+MsgDisp("Hiiragi","I was talking to Mikage-sensei about how
+you and Inori-kun have been spending a lot
+of time together.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -61,8 +61,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D140C05001_07_040");
-MsgDisp("Mikage","That's why, we're going to read the room and
-sit at the table next to you guys.");
+MsgDisp("Mikage","That's why, we're going to read the room
+and sit at the table next to you guys.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

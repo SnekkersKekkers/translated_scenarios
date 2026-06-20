@@ -31,7 +31,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D130A00000_01_010");
 MsgDisp("Kazama","...Right?");
-MsgDisp("主人公","Hey, come on now, what are you talking about?");
+MsgDisp("主人公","Hey, come on now, what are you
+talking about?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -61,8 +62,9 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D130A00000_01_040");
-MsgDisp("Kazama","Sigh...well, what three guys would talk about
-on a day like this is obvious, right?");
+MsgDisp("Kazama","Sigh...well, what three guys would
+talk about on a day like this is
+obvious, right?");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1,0,30);
@@ -75,7 +77,8 @@ MsgClose();
 ChOpen(2,254,4,3,3,0,#1,0,1,0,30);
 ChOpen(6,254,0,0,4,#1,#1,0,2,0,30);
 VoicePlay("D130A00000_02_020");
-MsgDisp("Sassa","Ryota was anxiously looking around for you.");
+MsgDisp("Sassa","Ryota was anxiously looking around
+for you.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
@@ -88,8 +91,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
 BGMStop();
 ChClose(2,0,30);
 ChClose(6,0,30);
-MsgDisp("主人公","(I see, today is Valentine's day so I guess
-he's getting excited over that...)");
+MsgDisp("主人公","(I see, today is Valentine's day so I
+guess he's getting excited over that...)");
 MsgClose();
 ScrFadeOut(0);
 ChLayout(1);

@@ -13,19 +13,19 @@ ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("D020800100_08_010");
 MsgDisp("Shirahane","That's not it.
-Recently I started runnin' 10,000 metres in
-the mornings before work.");
+Recently I started runnin' 10,000 metres
+in the mornings before work.");
 MsgDisp("主人公","Ehh∋ 10,000 metres that's...１０km?
 On top of that, it's twice, so 20km∋");
 ChEye(8,0);
 ChMotion(8,3,1);
 VoicePlay("D020800100_08_020");
 MsgDisp("Shirahane","Ya.
-There's a track and field meet in August and
-I wanted to participate.");
-MsgDisp("主人公","｛Daichi＊＊｝, are you in the track and field
-club? It seems like that would be difficult
-to balance with work...");
+There's a track and field meet in August
+and I wanted to participate.");
+MsgDisp("主人公","｛Daichi＊＊｝, are you in the track and
+field club? It seems like that would be
+difficult to balance with work...");
 ChMouth(8,0);
 ChMotion(8,0,1);
 VoicePlay("D020800100_08_030");
@@ -43,8 +43,8 @@ ChMouth(8,3);
 ChMotion(8,1,1);
 VoicePlay("D020800100_08_050");
 MsgDisp("Shirahane","Sassa! That's him, Sassa-kun!
-I wanted to race against him so during Summer
-I'll be a temporary club member.");
+I wanted to race against him so during
+Summer I'll be a temporary club member.");
 ChEye(8,1);
 ChMouth(8,3);
 ChMotion(8,0,1);
@@ -55,10 +55,10 @@ ChEye(8,4);
 ChMouth(8,4);
 VoicePlay("D020800100_08_070");
 MsgDisp("Shirahane","Hey, I know since you're from Haba Academy
-you must be rooting for Sassa but it would be
-nice if you could come cheer me on too?");
-MsgDisp("主人公","(｛Daichi＊＊｝ and ｛Sassa＊＊｝ at the track
-and field competition...
+you must be rooting for Sassa but it would
+be nice if you could come cheer me on too?");
+MsgDisp("主人公","(｛Daichi＊＊｝ and ｛Sassa＊＊｝ at the
+track and field competition...
 I think I want to watch!)");
 BGMStop();
 MsgClose();

@@ -99,8 +99,8 @@ ChMotion(6,4);
 VoicePlay("D130A00100_06_040");
 MsgDisp("Himuro","Then, if you would please.");
 MsgDisp("主人公","(Ehh∋
-You can't just ask me something like that so
-suddenly...)");
+You can't just ask me something like that
+so suddenly...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

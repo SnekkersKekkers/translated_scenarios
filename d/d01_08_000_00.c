@@ -62,8 +62,8 @@ ChEye(8,3);
 ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("D010800000_08_040");
-MsgDisp("Daichi","Welcome to Hanegasaki High School's cultural
-festival～!");
+MsgDisp("Daichi","Welcome to Hanegasaki High School's
+cultural festival～!");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -85,8 +85,8 @@ StlMouth(9,0);
 ScrFadeIn(0);
 VoicePlay("D010800000_08_050");
 MsgDisp("Daichi","Over there is my class!
-This year we made a disco...but it looks like
-it's already over.");
+This year we made a disco...but it looks
+like it's already over.");
 MsgDisp("主人公","Disco...?
 I would have wanted to see that.");
 StlEyeOpenLevel(9,5,1);
@@ -141,11 +141,12 @@ Come, let's go.");
 StlEyeOpenLevel(9,#1);
 StlEyeOpenLevel(8,0,1);
 VoicePlay("D010800000_08_110");
-MsgDisp("Daichi","In that case, it's time for the final sprint!");
+MsgDisp("Daichi","In that case, it's time for the
+final sprint!");
 StlEye(8,0);
 MsgDisp("主人公","(Ehh!
-Even though I just got here it's already the
-final sprint∋)");
+Even though I just got here it's already
+the final sprint∋)");
 MsgClose();
 ScrFadeOut(0);
 StlClose();
@@ -159,8 +160,8 @@ ChOpen(8,254,0,0,3,#1,#1,0,1);
 ChOpen(9,254,0,0,0,#1,#1,0,2);
 ScrFadeIn(0);
 MsgDisp("主人公","Thank you for walking me back.
-I got to enjoy Hane's festival too, so this
-year was a really special festival!");
+I got to enjoy Hane's festival too, so
+this year was a really special festival!");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,4,1);
@@ -172,8 +173,8 @@ ChMouth(9,0);
 ChMotion(9,3,1);
 VoicePlay("D010800000_09_060");
 MsgDisp("Kuya","Yeah.
-I made so many fun memories at my last school
-festival.");
+I made so many fun memories at my last
+school festival.");
 MsgDisp("主人公","Oh, right, Kuya-san is a senior...");
 ChEye(8,3);
 ChMouth(8,3);

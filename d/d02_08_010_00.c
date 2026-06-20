@@ -50,8 +50,8 @@ ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("D020801000_08_070");
-MsgDisp("Shirahane","We hafta wait until the graduation ceremony
-for the true endin'.");
+MsgDisp("Shirahane","We hafta wait until the graduation
+ceremony for the true endin'.");
 ChEyeOpenLevel(8,0);
 MsgDisp("主人公","(｛Daichi＊＊｝...
 Right, graduation will be soon...)");

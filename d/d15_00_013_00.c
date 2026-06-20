@@ -47,8 +47,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("D150001300_03_030");
-MsgDisp("Honda","Ryo-kun's family must have been suppliers to
-the nobles! Habataki City's own royal
+MsgDisp("Honda","Ryo-kun's family must have been suppliers
+to the nobles! Habataki City's own royal
 cookies! Young Master cookies!!");
 ChEye(1,0);
 ChMouth(1,3);

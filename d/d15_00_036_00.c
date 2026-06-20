@@ -65,8 +65,8 @@ VoicePlay("D150003600_06_030");
 MsgDisp("Himuro","What. Why?
 Iku-senpai already explained himself.
 What's your reasoning?");
-MsgDisp("主人公","(I might get in trouble if I tell ｛Himuro＊＊｝
-that his height suits him.)");
+MsgDisp("主人公","(I might get in trouble if I tell
+｛Himuro＊＊｝ that his height suits him.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

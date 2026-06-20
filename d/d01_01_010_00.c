@@ -74,12 +74,13 @@ StlMouth(1,0);
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
 EnvPlay("SE_ENV_BG_HO000_CO0",1,0.3);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Kazama＊＊｝, you wanted to visit the castle?");
+MsgDisp("主人公","｛Kazama＊＊｝, you wanted to visit
+the castle?");
 StlEye(1,1);
 VoicePlay("D010101000_01_061");
 MsgDisp("Kazama","I guess so.
-...The city changed a lot while I was gone,
-I guess?");
+...The city changed a lot while I was
+gone, I guess?");
 MsgDisp("主人公","That's true.");
 StlEye(1,0);
 StlEyeOpenLevel(1,5,1);
@@ -89,8 +90,8 @@ So I thought that it might bring back some
 memories from the past.");
 StlEye(1,1);
 VoicePlay("D010101000_01_081");
-MsgDisp("Kazama","You know, we probably came here together back
-in kindergarten.");
+MsgDisp("Kazama","You know, we probably came here together
+back in kindergarten.");
 MsgDisp("主人公","Yeah, I wonder how that went...
 Does ｛Kazama＊＊｝ remember?");
 StlEye(1,0);
@@ -115,8 +116,8 @@ We should go out together sometime?");
 StlEye(1,1);
 VoicePlay("D010101000_01_120");
 MsgDisp("Kazama","Right?
-Even if there's a lot we don't remember, we
-just have to make new memories.");
+Even if there's a lot we don't remember,
+we just have to make new memories.");
 StlEye(1,0);
 StlEyeOpenLevel(1,0,1);
 VoicePlay("D010101000_01_130");
@@ -126,9 +127,9 @@ VoicePlay("D010101000_01_140");
 MsgDisp("Kazama","The sound of the bell.
 Like I thought, you can't hear it
 from here...");
-MsgDisp("主人公","Hehe, when you say \"the sound of the bell\",
-do you mean that church bell we both heard a
-long time ago?");
+MsgDisp("主人公","Hehe, when you say \"the sound of the
+bell\", do you mean that church bell we
+both heard a long time ago?");
 StlEye(1,1);
 MsgClose();
 ScrFadeOut(0,0);

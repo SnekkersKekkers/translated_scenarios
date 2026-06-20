@@ -19,8 +19,8 @@ What are you doing here?");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D120C00200_05_000");
-MsgDisp("Hiiragi","I wanted to get Inori-kun's opinion on this
-month's poster.");
+MsgDisp("Hiiragi","I wanted to get Inori-kun's opinion on
+this month's poster.");
 StlEye(6,1,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_000");
@@ -33,8 +33,8 @@ StlEyeOpenLevel(6,0,1);
 VoicePlay("D120C00200_06_010");
 MsgDisp("Himuro","I know what you're trying to say, but it's
 not a good slogan.");
-MsgDisp("主人公","(｛Himuro＊＊｝ is so blunt with his opinions, it
-makes me kind of nervous...)");
+MsgDisp("主人公","(｛Himuro＊＊｝ is so blunt with his opinions,
+it makes me kind of nervous...)");
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D120C00200_06_020");
 MsgDisp("Himuro","It would be better to try to convey the
@@ -76,8 +76,8 @@ VoiceEVSPlay(5);
 VoicePlay("D120C00200_05_030");
 MsgDisp("Hiiragi","｛主人公｝, that's the bell.
 It's time to go back to class.");
-MsgDisp("主人公","Yeah. I have a few more things to do, so why
-don't you go ahead?
+MsgDisp("主人公","Yeah. I have a few more things to do, so
+why don't you go ahead?
 I'll lock the door when I'm done.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -101,8 +101,8 @@ ChClose(6,0,30);
 Wait(20,1);
 SEPlay("EV_SE_DOOR_025");
 SEWait();
-MsgDisp("主人公","(Alright, let me just tidy things up and then
-I'll go to class...
+MsgDisp("主人公","(Alright, let me just tidy things up and
+then I'll go to class...
 Ah──)");
 SEPlay("EV_SE_591");
 Wait(30,1);

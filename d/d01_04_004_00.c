@@ -6,8 +6,8 @@ SEWait();
 MsgDisp("主人公","......");
 MsgDisp("主人公","Like usual, NANA looks really cool in this
 edition of Habatcher.");
-MsgDisp("主人公","(I still can't believe I know such a famous
-person...)");
+MsgDisp("主人公","(I still can't believe I know such a
+famous person...)");
 VoicePlay("D010400400_04_000");
 MsgDisp("Nanatsumori?","Ah... You're still here?");
 MsgClose();
@@ -24,8 +24,8 @@ ChMotion(4,0,1);
 VoicePlay("D010400400_04_020");
 MsgDisp("Nanatsumori","I see...");
 MsgDisp("主人公","Hey, I was wondering...
-For interviews do you usually carry make-up
-or something like that with you?");
+For interviews do you usually carry
+make-up or something like that with you?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -60,7 +60,8 @@ StlEye(4,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,0);
 VoicePlay("D010400400_04_060");
-MsgDisp("Nanatsumori","Well... I'm also good at this sort of thing.");
+MsgDisp("Nanatsumori","Well...
+I'm also good at this sort of thing.");
 StlEye(4,1,0);
 StlMouth(4,0);
 StlEyeOpenLevel(4,5,1);
@@ -101,8 +102,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ahh... That was really fun!");
 VoicePlay("D010400400_04_110");
 MsgDisp("Nanatsumori","That's the most important part.");
-MsgDisp("主人公","You not only carry makeup with you, but you
-also carry wigs, huh?");
+MsgDisp("主人公","You not only carry makeup with you, but
+you also carry wigs, huh?");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("D010400400_04_120");

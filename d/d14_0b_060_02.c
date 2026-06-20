@@ -11,7 +11,8 @@ ChMouthOpenLevel(1,0);
 VoicePlay("D140B06002_01_000");
 MsgDisp("Kazama","......");
 MsgDisp("主人公","...?
-｛Kazama＊＊｝, is there something on my face?");
+｛Kazama＊＊｝, is there something on
+my face?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -44,8 +45,8 @@ ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("D140B06002_03_020");
 MsgDisp("Honda","Aaah!
-Ryo-kun, if we hear the answer, won't we be
-the ones feeling lonely?");
+Ryo-kun, if we hear the answer, won't we
+be the ones feeling lonely?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

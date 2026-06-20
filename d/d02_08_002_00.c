@@ -14,8 +14,8 @@ ChEye(8,2);
 ChMotion(8,2,1);
 VoicePlay("D020800200_08_010");
 MsgDisp("Shirahane","I'm no good with exams.
-And 'cause I'm not good with them, it's hard
-to be motivated.");
+And 'cause I'm not good with them, it's
+hard to be motivated.");
 MsgDisp("主人公","Hahaha!");
 ChEye(8,2);
 ChMouth(8,1);
@@ -26,8 +26,8 @@ ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,2,1);
 VoicePlay("D020800200_08_030");
-MsgDisp("Shirahane","There's a rumour at Hanegaku that there's a
-\"Brain Candy\" that can make you smarter.");
+MsgDisp("Shirahane","There's a rumour at Hanegaku that there's
+a \"Brain Candy\" that can make you smarter.");
 MsgDisp("主人公","Brain Candy?
 That's really interesting!");
 ChEye(8,4);
@@ -51,8 +51,8 @@ ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,4,1);
 VoicePlay("D020800200_08_060");
-MsgDisp("Shirahane","Maybe I need to sneak into Haba High and see
-if I can find it...");
+MsgDisp("Shirahane","Maybe I need to sneak into Haba High and
+see if I can find it...");
 MsgDisp("主人公","(Ehh∋)");
 BGMStop();
 MsgClose();

@@ -14,8 +14,8 @@ VoicePlay("D020100000_01_000");
 MsgDisp("Kazama","Waiting or not, we're going the same way,
 aren't we?");
 MsgDisp("主人公","That's true.
-It really feels like we're back in elementary
-school again.");
+It really feels like we're back in
+elementary school again.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -38,7 +38,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("D020100000_01_030");
-MsgDisp("Kazama","\"You've gotten so much taller, haven't you\"?");
+MsgDisp("Kazama","\"You've gotten so much taller,
+haven't you\"?");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -73,7 +74,8 @@ ScrFadeIn(0);
 VoicePlay("D020100000_01_121");
 MsgDisp("Kazama","Looks like it's going well...
 The wish I made to the pinwheel.");
-MsgDisp("主人公","I see. If ｛Kazama＊＊｝ thinks so, maybe so.");
+MsgDisp("主人公","I see.
+If ｛Kazama＊＊｝ thinks so, maybe so.");
 NSSEye(1,3);
 NSSMouth(1,2);
 NSSMouthOpenLevel(1,0);
@@ -113,8 +115,8 @@ ChOpen(1,254,0,0,3,#1,#1,0,0,0,30);
 ChMotion(1,3);
 VoicePlay("D020100000_01_160");
 MsgDisp("Kazama","Come, give me your hand.
-If you stand there for too long, you'll get
-water in your shoes.");
+If you stand there for too long, you'll
+get water in your shoes.");
 MsgDisp("主人公","Right.
 Thank you.");
 SEPlay("EV_SE_504",0,0.5);
@@ -123,9 +125,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D020100000_01_170");
-MsgDisp("Kazama","Ah, maybe you should just take off your shoes
-and let me carry you until we get to the shoe
-lockers. Here, piggyback ride.");
+MsgDisp("Kazama","Ah, maybe you should just take off your
+shoes and let me carry you until we get to
+the shoe lockers. Here, piggyback ride.");
 MsgDisp("主人公","W-Wait, ｛Kazama＊＊｝∋
 I said I'm fine so...
 Hey, everyone is staring at us∋");

@@ -16,8 +16,8 @@ MsgDisp("主人公","Eh∋ ｛みちる＊｝, ｛ひかる＊｝!
 What's up?");
 ChMotion(22,4,1);
 VoicePlay("D110D00000_22_010");
-MsgDisp("Hikaru","You've built a bed of flowers in your heart's
-garden♪");
+MsgDisp("Hikaru","You've built a bed of flowers in your
+heart's garden♪");
 MsgDisp("主人公","...A bed of flowers?");
 ChEye(21,0);
 ChMouth(21,3);
@@ -60,9 +60,9 @@ ChMouth(22,3);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("D110D00000_22_040");
-MsgDisp("Hikaru","If you water only one side with love or let
-it wilt, it may disrupt the harmony of your
-flower bed!");
+MsgDisp("Hikaru","If you water only one side with love or
+let it wilt, it may disrupt the harmony of
+your flower bed!");
 ChEye(22,0);
 ChMotion(22,0,1);
 ChEye(21,0);
@@ -79,9 +79,9 @@ VoicePlay("D110D00000_22_050");
 MsgDisp("Hikaru","If you're concerned about the state of the
 flower bed, call Hikaru♪
 Hikaru can tell you about \"Mari's Garden\"▼");
-MsgDisp("主人公","(A flower bed of 3 differently coloured roses
-is inside me...? If I want to know more I can
-call ｛ひかる＊｝!)");
+MsgDisp("主人公","(A flower bed of 3 differently coloured
+roses is inside me...? If I want to know
+more I can call ｛ひかる＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

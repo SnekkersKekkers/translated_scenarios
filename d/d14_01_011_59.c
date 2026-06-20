@@ -9,6 +9,6 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D140101159_01_010");
-MsgDisp("Kazama","But you know, the menu item that was said to
-be inspired by the legendary senior is just a
-big heap of pancakes, huh?");
+MsgDisp("Kazama","But you know, the menu item that was said
+to be inspired by the legendary senior is
+just a big heap of pancakes, huh?");

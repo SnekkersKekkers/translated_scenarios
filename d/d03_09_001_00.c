@@ -36,7 +36,8 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900100_09_030");
 MsgDisp("Kuya?","Alright.
-Come with me, I'll help you find your mother.");
+Come with me, I'll help you find
+your mother.");
 MsgDisp("主人公","Uhm!");
 ChEye(9,3);
 ChMouth(9,0);
@@ -95,8 +96,8 @@ son often?");
 ChMotion(9,3,1);
 VoicePlay("D030900100_09_070");
 MsgDisp("Kuya?","Yeah.
-That kid is very energetic and gets separated
-from his mother often.");
+That kid is very energetic and gets
+separated from his mother often.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
@@ -105,20 +106,21 @@ VoicePlay("D030900100_09_080");
 MsgDisp("Kuya?","But today he did a great job.
 He doesn't need me to give him piggyback
 rides anymore.");
-MsgDisp("主人公","Did you always carry him around on your back?");
+MsgDisp("主人公","Did you always carry him around on
+your back?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900100_09_090");
 MsgDisp("Kuya?","That was the only way to stop his crying.
-Sometimes I'd carry him for hours, so I had
-to exercise regularly.");
+Sometimes I'd carry him for hours, so I
+had to exercise regularly.");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900100_09_100");
-MsgDisp("Kuya?","You should \"exercise\" frequently too so you
-can be prepared for anything.
+MsgDisp("Kuya?","You should \"exercise\" frequently too so
+you can be prepared for anything.
 That way you won't have any worries.");
 MsgDisp("主人公","Ah...Right.
 I usually work on my \"fitness\" in

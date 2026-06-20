@@ -61,7 +61,8 @@ VoicePlay("D140B05102_04_040");
 MsgDisp("Nanatsumori","Why are you sulking?");
 ChSet(3,0,1);
 VoicePlay("D140B05102_03_010");
-MsgDisp("Honda","Ryo-kun, did you actually want to watch it?");
+MsgDisp("Honda","Ryo-kun, did you actually want to
+watch it?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);

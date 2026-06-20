@@ -84,10 +84,11 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06001_01_070");
-MsgDisp("Kazama","Tell him to spend his allowance more wisely.
+MsgDisp("Kazama","Tell him to spend his allowance
+more wisely.
 ...Geez.");
-MsgDisp("主人公","(I see, both of them are worried about me and
-｛Sassa＊＊｝...)");
+MsgDisp("主人公","(I see, both of them are worried about me
+and ｛Sassa＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

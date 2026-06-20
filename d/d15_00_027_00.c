@@ -6,8 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("D150002700_02_000");
 MsgDisp("Sassa","Come to think of it.
-I don't think I've ever seen any teachers in
-the cafeteria aside from Mikage-sensei?");
+I don't think I've ever seen any teachers
+in the cafeteria aside from Mikage-sensei?");
 MsgDisp("主人公","Now that you say it...");
 ChEye(7,0);
 ChMouth(7,4);

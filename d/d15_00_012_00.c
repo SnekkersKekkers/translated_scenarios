@@ -5,8 +5,9 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("D150001200_02_000");
-MsgDisp("Sassa","I wonder if we said \"Itadakimasu!\" together
-back when we were in Kindergarten.");
+MsgDisp("Sassa","I wonder if we said \"Itadakimasu!\"
+together back when we were in
+Kindergarten.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEyeOpenLevel(1,8);
@@ -36,13 +37,15 @@ ChMouth(2,3);
 ChMotion(2,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("D150001200_02_020");
-MsgDisp("Sassa","After we finish eating we should go outside
-and play like kindergartners, then.");
+MsgDisp("Sassa","After we finish eating we should go
+outside and play like
+kindergartners, then.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,3);
 VoicePlay("D150001200_01_030");
-MsgDisp("Kazama","...Geez. What the hell are you talking about?");
+MsgDisp("Kazama","...Geez.
+What the hell are you talking about?");
 MsgDisp("主人公","That sounds fun.
 What should we play?");
 ChEye(2,0);
@@ -57,8 +60,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D150001200_01_040");
-MsgDisp("Kazama","Please choose something that doesn't involve
-running.");
+MsgDisp("Kazama","Please choose something that doesn't
+involve running.");
 MsgDisp("主人公","(Hehe!)");
 BGMStop();
 MsgClose();

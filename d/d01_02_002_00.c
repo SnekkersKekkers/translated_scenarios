@@ -49,7 +49,8 @@ StlMouth(2,1);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("D010200200_02_040");
 MsgDisp("Sassa","A challenging physical education book.
-I was reading it so I could show off later.");
+I was reading it so I could show
+off later.");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);
 StlEye(2,1);
@@ -80,13 +81,15 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("D010200200_02_070");
-MsgDisp("Sassa","Ah, it's not a book for health class, okay?");
+MsgDisp("Sassa","Ah, it's not a book for health
+class, okay?");
 MsgClose();
 BGMStop();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
-MsgDisp("主人公","(Hehe. Now I'm curious, what was he reading?
+MsgDisp("主人公","(Hehe.
+Now I'm curious, what was he reading?
 I think it was this book...?)");
 MsgClose();
 ScrFadeOut(0);

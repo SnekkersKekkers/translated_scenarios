@@ -46,8 +46,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D010100900_01_040");
 MsgDisp("Kazama","I see...
-I was in England so I couldn't hear it, but
-you didn't either, huh...");
+I was in England so I couldn't hear it,
+but you didn't either, huh...");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
 MsgDisp("主人公","...?");
@@ -77,8 +77,8 @@ BGMPlay("BGM_C01_RYOUTA_C",0.01);
 ScrFadeIn(0);
 VoicePlay("D010100900_01_060");
 MsgDisp("Kazama","The two of us walking home from school
-together... Shouldn't it be fine since those
-conditions were met?");
+together... Shouldn't it be fine since
+those conditions were met?");
 StlEye(1,1);
 VoicePlay("D010100900_01_070");
 MsgDisp("Kazama","Here, let's listen carefully.");

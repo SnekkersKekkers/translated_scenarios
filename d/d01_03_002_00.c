@@ -30,24 +30,25 @@ StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300200_03_010");
 MsgDisp("Honda","Ah, sorry!
-I only shouted because I thought no one else
-was here.");
+I only shouted because I thought no one
+else was here.");
 StlEye(3,1);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5);
 VoicePlay("D010300200_03_020");
 MsgDisp("Honda","Actually...
-My little sister just got accepted into her
-first choice middle school!");
+My little sister just got accepted into
+her first choice middle school!");
 MsgDisp("主人公","Wow, that's awesome!
 Congrats!");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300200_03_030");
-MsgDisp("Honda","She worked hard, staying up late every night.");
-MsgDisp("主人公","With you as a brother, it must be comforting
-for her to know that you can teach her
-anything.");
+MsgDisp("Honda","She worked hard, staying up late
+every night.");
+MsgDisp("主人公","With you as a brother, it must be
+comforting for her to know that you can
+teach her anything.");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("D010300200_03_040");
@@ -75,8 +76,8 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("D010300200_03_060");
 MsgDisp("Honda","Ahh, that hurts～
-That laugh was totally a \"yeah, I bet\" kind
-of laugh.");
+That laugh was totally a \"yeah, I bet\"
+kind of laugh.");
 MsgDisp("主人公","Sorry.
 But I think your sister is just being shy.
 She actually relies on you.");
@@ -90,8 +91,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D010300200_03_080");
 MsgDisp("Honda","Yepyep, I also bought her a gift to
-celebrate. I left it on her bed, so I wonder
-if she noticed it yet?");
+celebrate. I left it on her bed, so I
+wonder if she noticed it yet?");
 MsgDisp("主人公","A surprise, huh?
 What did you get her?");
 ChEye(3,3);

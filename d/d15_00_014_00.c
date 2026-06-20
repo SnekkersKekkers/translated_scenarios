@@ -34,8 +34,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("D150001400_01_010");
-MsgDisp("Kazama","In that case, we may be able to recreate the
-menu from old scripts.");
+MsgDisp("Kazama","In that case, we may be able to recreate
+the menu from old scripts.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
@@ -56,8 +56,8 @@ ChMouth(4,3);
 ChMotion(4,1);
 VoicePlay("D150001400_04_040");
 MsgDisp("Nanatsumori","Yup.
-Don't forget I'm a big eater who eats a lot
-of food sometimes.");
+Don't forget I'm a big eater who eats a
+lot of food sometimes.");
 MsgDisp("主人公","(Geez.
 But that Habataki Gozen thing sounds kind
 of fun!)");

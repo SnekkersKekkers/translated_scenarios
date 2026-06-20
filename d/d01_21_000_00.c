@@ -4,7 +4,8 @@ BGOpen("sc220",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The culture festival will end soon...)");
-MsgDisp("主人公","(Huh? Over there, is that ｛みちる＊｝?)");
+MsgDisp("主人公","(Huh?
+Over there, is that ｛みちる＊｝?)");
 MsgClose();
 ScrFadeOut(0);
 BGMPlay("BGM_C21_MICHIRU_A",0.01);
@@ -113,15 +114,15 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("D012100000_21_150");
-MsgDisp("Michiru","Because you know, I don't know anything about
-him so I wouldn't have any reason to go out
-with him.");
+MsgDisp("Michiru","Because you know, I don't know anything
+about him so I wouldn't have any reason to
+go out with him.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("D012100000_21_160");
-MsgDisp("Michiru","I thought it would be better for the two of
-us if I gave an honest reply instead of
+MsgDisp("Michiru","I thought it would be better for the two
+of us if I gave an honest reply instead of
 getting his hopes up and making him wait.");
 MsgDisp("主人公","True.
 But ｛みちる＊｝, you look really cute

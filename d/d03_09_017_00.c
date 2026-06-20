@@ -84,9 +84,9 @@ from you and this city.");
 StlEye(9,1);
 StlMouth(9,1);
 VoicePlay("D030901700_09_080");
-MsgDisp("Kuya","It almost feels unreal that just a year ago,
-I was just drifting along like an empty shell
-of a person.");
+MsgDisp("Kuya","It almost feels unreal that just a year
+ago, I was just drifting along like an
+empty shell of a person.");
 MsgDisp("主人公","An empty shell, how so...");
 StlEye(9,1,0);
 StlMouth(9,1);
@@ -150,8 +150,8 @@ ChMotion(9,0,1);
 ScrFadeIn(0);
 VoicePlay("D030901700_09_160");
 MsgDisp("Kuya","I got such a big present this year.
-Time for the final push—I'll study hard to
-get into the same university as you.");
+Time for the final push—I'll study hard
+to get into the same university as you.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);

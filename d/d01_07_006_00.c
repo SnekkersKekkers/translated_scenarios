@@ -47,10 +47,11 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700600_07_050");
-MsgDisp("Mikage","Should we forget the extracurricular lesson
-and just have some fun?");
+MsgDisp("Mikage","Should we forget the extracurricular
+lesson and just have some fun?");
 MsgDisp("主人公","Yes! Yay!
-That means I don't have to submit a report.");
+That means I don't have to submit
+a report.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -118,8 +119,8 @@ ChOpen(7,254,1,2,3,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700600_07_110");
 MsgDisp("Mikage","A complete defeat～");
-MsgDisp("主人公","｛Mikage＊＊｝, is it really your first time
-bowling?");
+MsgDisp("主人公","｛Mikage＊＊｝, is it really your first
+time bowling?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -157,8 +158,8 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D010700600_07_170");
 MsgDisp("Mikage","See you later then.
-Next time when nobody shows up, we can play
-some more～");
+Next time when nobody shows up, we can
+play some more～");
 MsgDisp("主人公","Y-Yes!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

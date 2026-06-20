@@ -20,8 +20,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D100700000_07_020");
-MsgDisp("Mikage","Well, that diligence and absentmindedness is
-part of your charm, huh?");
+MsgDisp("Mikage","Well, that diligence and absentmindedness
+is part of your charm, huh?");
 MsgDisp("主人公","Eh, that...");
 ChEye(7,0);
 ChMouth(7,3);

@@ -63,15 +63,15 @@ StlMouth(3,0);
 StlEyeOpenLevel(3,0);
 VoicePlay("D010300000_03_070");
 MsgDisp("Honda","But you know, Ammonite-kun is special.
-My mother introduced me to him when I was in
-middle school.");
+My mother introduced me to him when I was
+in middle school.");
 MsgDisp("主人公","Your mother?");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("D010300000_03_080");
-MsgDisp("Honda","Yeah. I was always reading books, so she said
-\"The real world's more fun than a book!
-And you can touch the fossils!\"");
+MsgDisp("Honda","Yeah. I was always reading books, so she
+said \"The real world's more fun than a
+book! And you can touch the fossils!\"");
 MsgDisp("主人公","Hehe, she sounds like a good mom.");
 StlEye(3,0);
 StlMouth(3,0);
@@ -87,8 +87,8 @@ StlClose();
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","So ｛Honda＊＊｝'s current lifestyle was born
-from his mother's advice.");
+MsgDisp("主人公","So ｛Honda＊＊｝'s current lifestyle was
+born from his mother's advice.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -100,8 +100,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("D010300000_03_110");
-MsgDisp("Honda","That's why I still come to see Ammonite-kun
-from time to time.");
+MsgDisp("Honda","That's why I still come to see
+Ammonite-kun from time to time.");
 MsgDisp("主人公","I get it.
 For you, this is an important place.
 Thanks for teaching me about it, ｛Honda＊＊｝.");
@@ -115,10 +115,11 @@ ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("D010300000_03_130");
 MsgDisp("Honda","...Wait.
-I think you may be the first person I've told
-this besides my sister...?");
+I think you may be the first person I've
+told this besides my sister...?");
 MsgDisp("主人公","(Thank you, ｛Honda＊＊｝.
-For sharing your precious memories with me.)");
+For sharing your precious memories
+with me.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

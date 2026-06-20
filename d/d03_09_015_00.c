@@ -31,9 +31,9 @@ VoicePlay("D030901500_09_040");
 MsgDisp("Kuya","You too, don't push yourself so hard, either.
 There's more to school life than just
 studying.");
-MsgDisp("主人公","Ah...right. The school festival is happening
-soon so they've started prepping for all the
-plays and events.");
+MsgDisp("主人公","Ah...right. The school festival is
+happening soon so they've started prepping
+for all the plays and events.");
 VoicePlay("D030901500_09_050");
 MsgDisp("Kuya","I see.
 Since it's your last school festival you
@@ -50,7 +50,7 @@ MsgDisp("主人公","Ah... Okay, good night...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Hmm... I wanted to invite Kuya-san to the
-school festival but it would interfere with
-his studies...)");
+school festival but it would interfere
+with his studies...)");
 MsgClose();
 ScrFadeOut(0,0);

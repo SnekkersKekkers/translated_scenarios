@@ -91,8 +91,8 @@ MsgDisp("Himuro","Yeah, that seems alright.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","Ehhh∋");
-MsgDisp("主人公","(I'm happy, but that's not a present exchange
-anymore!)");
+MsgDisp("主人公","(I'm happy, but that's not a present
+exchange anymore!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

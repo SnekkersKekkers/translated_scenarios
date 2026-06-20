@@ -4,7 +4,8 @@ MsgDisp("主人公","(I'm a second-year starting today.
 I wonder what my class will be like?
 Hehe... I'm really excited.)");
 VoicePlay("D010100001_01_000");
-MsgDisp("Kazama?","Don't just stand there grinning to yourself.
+MsgDisp("Kazama?","Don't just stand there grinning to
+yourself.
 ...Honestly, you look kind of suspicious.");
 MsgClose();
 ScrFadeOut(0,0);

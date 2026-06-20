@@ -9,6 +9,6 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("D140701057_07_010");
-MsgDisp("Mikage","A radish sprout meal set actually works as a
-proper dish, huh?
+MsgDisp("Mikage","A radish sprout meal set actually works as
+a proper dish, huh?
 It looks pretty good.");

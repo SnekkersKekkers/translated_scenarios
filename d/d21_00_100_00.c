@@ -2,13 +2,14 @@ BGOpen("ne000",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(...Ah! It's a text message from Goro-sensei.
+MsgDisp("主人公","(...Ah!
+It's a text message from Goro-sensei.
 It says:)");
 MsgDisp("主人公","(\"It seems a new spot has opened up in a
-corner of the Forest Park.
-Please make sure to write about it♪\")");
-MsgDisp("主人公","(Alright, as Habatcher's newest staff member,
-let's get to it!)");
+corner of the Forest Park. Please make
+sure to write about it♪\")");
+MsgDisp("主人公","(Alright, as Habatcher's newest staff
+member, let's get to it!)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -49,8 +50,8 @@ ChMouth(31,4);
 ChMotion(31,2);
 VoicePlay("D210000110_31_020");
 MsgDisp("Goro","That's not all.
-The \"Home of the Fireflies\" has a hidden and
-mysterious power.");
+The \"Home of the Fireflies\" has a hidden
+and mysterious power.");
 MsgDisp("主人公","A mysterious power...?");
 ChEye(31,0);
 ChMouth(31,0);
@@ -78,8 +79,8 @@ ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("D210000110_31_060");
 MsgDisp("Goro","Okay then!
-I'm looking forward to reading an article all
-full of your unique style. Adieu—♪");
+I'm looking forward to reading an article
+all full of your unique style. Adieu—♪");
 MsgClose();
 SEPlay("EV_SE_626");
 ChClose(31);

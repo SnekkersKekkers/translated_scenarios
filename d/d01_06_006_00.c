@@ -51,7 +51,8 @@ ScrFadeIn(0);
 Wait(50,0);
 VoicePlay("D010600600_34_030");
 MsgDisp("Live","What a nice cutback!
-One, two, ...another one, he's going crazy!");
+One, two, ...another one, he's
+going crazy!");
 SEPlay("EV_SE_793",0.2,0.5);
 SEPlay("EV_SE_CLAP_004",0,0.5);
 Wait(50,0);
@@ -103,7 +104,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D010600600_06_030");
 MsgDisp("Himuro","Interview?");
-MsgDisp("主人公","Yeah. I work part-time for Habataki Watcher.
+MsgDisp("主人公","Yeah.
+I work part-time for Habataki Watcher.
 I'd like to get permission for an interview.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -118,7 +120,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("D010600600_06_050");
 MsgDisp("Himuro","Oh. Quite the confident answer.
-Well, if it's on the way home, I don't mind.");
+Well, if it's on the way home, I
+don't mind.");
 MsgDisp("主人公","Really∋
 Thanks!
 Let's get right to it then—");

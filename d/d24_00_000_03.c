@@ -27,9 +27,9 @@ VoicePlay("D240000003_45_000");
 MsgDisp("Mayo","Congratulations!
 You're now a full-fledged reporter.");
 VoicePlay("D240000003_45_010");
-MsgDisp("Mayo","That's right! If you're okay with it, would
-you like to continue working at our company
-in the future?");
+MsgDisp("Mayo","That's right! If you're okay with it,
+would you like to continue working at our
+company in the future?");
 VoicePlay("D240000003_45_020");
 MsgDisp("Mayo","With you, Habatcher will become even more...
 No, with you here, Habataki City will become

@@ -26,7 +26,8 @@ ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D150005601_06_010");
 MsgDisp("Himuro","That's right.
-Yanosuke-senpai's BGM is like delicate silk.");
+Yanosuke-senpai's BGM is like
+delicate silk.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -44,7 +45,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("D150005601_06_020");
-MsgDisp("Himuro","Sometimes more like an early spring breeze.");
+MsgDisp("Himuro","Sometimes more like an early
+spring breeze.");
 MsgDisp("主人公","Ehh? What do you mean?");
 ChEye(5,2);
 ChMouth(5,3);

@@ -28,8 +28,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("D010700500_07_010");
-MsgDisp("Mikage","My favourite Miss Diligent is studying away,
-so I came to help.");
+MsgDisp("Mikage","My favourite Miss Diligent is studying
+away, so I came to help.");
 MsgClose();
 ScrFadeOut(0);
 ChClose(7,0,0);
@@ -43,7 +43,8 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("D010700500_07_020");
-MsgDisp("Mikage","—So, which part of it don't you understand?");
+MsgDisp("Mikage","—So, which part of it don't you
+understand?");
 MsgDisp("主人公","Uhm...
 I guess I don't even know what I
 don't know...");
@@ -83,14 +84,15 @@ ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700500_07_070");
 MsgDisp("Mikage","Got it?
-The best thing about you is that you approach
-everything diligently.");
+The best thing about you is that you
+approach everything diligently.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("D010700500_07_080");
 MsgDisp("Mikage","There's nothing wrong with that.
-It's a good thing, so keep trying your best.");
+It's a good thing, so keep trying
+your best.");
 MsgDisp("主人公","｛Mikage＊＊｝...
 You're right, thank you so much!");
 ChEye(7,0);
@@ -102,8 +104,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
-MsgDisp("主人公","(Thanks to ｛Mikage＊＊｝, I learned a few
-studying tricks!)");
+MsgDisp("主人公","(Thanks to ｛Mikage＊＊｝, I learned a
+few studying tricks!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChPrmTblAdd(7,0);

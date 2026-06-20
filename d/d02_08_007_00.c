@@ -26,7 +26,8 @@ MsgDisp("主人公","Yep.");
 VoicePlay("D020800700_08_020");
 MsgDisp("Shirahane","Well right now, I'm in Kyoto for Hane's
 school trip.");
-MsgDisp("主人公","Eh? ｛Daichi＊＊｝, isn't that your hometown?");
+MsgDisp("主人公","Eh?
+｛Daichi＊＊｝, isn't that your hometown?");
 VoicePlay("D020800700_08_030");
 MsgDisp("Shirahane","That's right.
 It's like visiting home! Haha!");

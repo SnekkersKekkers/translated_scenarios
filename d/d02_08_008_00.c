@@ -6,7 +6,8 @@ ScrFadeIn(0);
 VoicePlay("D020800800_08_000");
 MsgDisp("Shirahane","......");
 MsgDisp("主人公","(Huh?
-Is ｛Daichi＊＊｝ not feeling well today...)");
+Is ｛Daichi＊＊｝ not feeling well
+today...)");
 SEPlay("EV_SE_519");
 SEWait();
 VoicePlay("D020800800_36_000");
@@ -61,8 +62,8 @@ MsgDisp("Shirahane","...I... ...I have a goal.");
 MsgDisp("主人公","A goal?");
 VoicePlay("D020800800_08_070");
 MsgDisp("Shirahane","Yeah.
-So I need to draw the line, for my own sake
-and for yours.");
+So I need to draw the line, for my own
+sake and for yours.");
 MsgDisp("主人公","(｛Daichi＊＊｝ isn't his usual self.
 I wonder what his goal is...?)");
 MsgClose();

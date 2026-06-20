@@ -14,7 +14,8 @@ ChMotion(4,1,1);
 VoicePlay("D010400300_04_020");
 MsgDisp("Nanatsumori","Want to come with me to the agency?");
 MsgDisp("主人公","Eh?
-By agency do you mean your modelling agency∋");
+By agency do you mean your modelling
+agency∋");
 ChEye(4,1);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -77,8 +78,9 @@ birthday project!");
 MsgDisp("主人公","(It's true...
 ｛Nanatsumori＊｝ looks so lovely and
 handsome!)");
-MsgDisp("主人公","(And that outfit, it's a remake of something
-worn by the legendary Hazuki Kei...Amazing!)");
+MsgDisp("主人公","(And that outfit, it's a remake of
+something worn by the legendary Hazuki
+Kei...Amazing!)");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("D010400300_04_050");

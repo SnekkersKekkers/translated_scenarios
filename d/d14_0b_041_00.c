@@ -44,17 +44,17 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("D140B04100_04_040");
 MsgDisp("Nanatsumori","That's gotta be it.
-No wonder he's nowhere to be found and out of
-contact.");
+No wonder he's nowhere to be found and out
+of contact.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("D140B04100_03_030");
 MsgDisp("Honda","Ehhh.
-It must be convenient to have your house so
-close by. ...Right?");
-MsgDisp("主人公","(It's convenient, but forgetting something is
-rough... I'm sure ｛Kazama＊＊｝ is super
+It must be convenient to have your house
+so close by. ...Right?");
+MsgDisp("主人公","(It's convenient, but forgetting something
+is rough... I'm sure ｛Kazama＊＊｝ is super
 frustrated right about now.)");
 BGMStop();
 MsgClose();

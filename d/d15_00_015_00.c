@@ -12,7 +12,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("D150001500_05_000");
-MsgDisp("Hiiragi","Before I enjoy it, I enjoy it with my eyes.");
+MsgDisp("Hiiragi","Before I enjoy it, I enjoy it with
+my eyes.");
 MsgDisp("主人公","Hehe!");
 ChEye(5,3);
 ChMouth(5,3);

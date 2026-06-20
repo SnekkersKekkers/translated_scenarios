@@ -21,9 +21,9 @@ ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900500_09_010");
-MsgDisp("Kuya","Yeah. On the way here I ran into a pregnant
-woman about to have a baby, I went with her
-to the hospital.");
+MsgDisp("Kuya","Yeah. On the way here I ran into a
+pregnant woman about to have a baby, I
+went with her to the hospital.");
 MsgDisp("主人公","That's...
 Thank goodness!");
 ChEye(9,3);
@@ -60,10 +60,11 @@ ChMotion(9,0,1);
 ScrFadeIn(0);
 ChMotion(9,4,1);
 VoicePlay("D030900500_09_050");
-MsgDisp("Kuya","Phew... It took us a while to get here, huh.");
+MsgDisp("Kuya","Phew...
+It took us a while to get here, huh.");
 MsgDisp("主人公","Yeah...
-I think I understand now, why Kuya-san is a
-\"Jack of All Trades\".");
+I think I understand now, why Kuya-san is
+a \"Jack of All Trades\".");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -85,8 +86,9 @@ ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900500_09_080");
-MsgDisp("Kuya","If you take it too seriously, it'll make you
-anxious, so I try to just take it easy.");
+MsgDisp("Kuya","If you take it too seriously, it'll
+make you anxious, so I try to just take
+it easy.");
 MsgDisp("主人公","I see...");
 ChEye(9,3);
 ChMouth(9,0);
@@ -120,10 +122,11 @@ ChMouth(9,0);
 ChMotion(9,3,1);
 VoicePlay("D030900500_09_110");
 MsgDisp("Kuya","That's it.
-They have one of a kind food, but I don't see
-them here often.");
+They have one of a kind food, but I don't
+see them here often.");
 VoicePlay("D030900500_09_120");
-MsgDisp("Kuya","Thanks to you I finally get to eat from them.");
+MsgDisp("Kuya","Thanks to you I finally get to eat
+from them.");
 MsgDisp("主人公","That's not really something I can take
 credit for...");
 ChEye(9,3);
@@ -132,8 +135,8 @@ ChMotion(9,1,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900500_09_130");
 MsgDisp("Kuya","If you hadn't asked me on a date today, I
-wouldn't have found that food truck or this
-\"Soft Cream Bread\", right?");
+wouldn't have found that food truck or
+this \"Soft Cream Bread\", right?");
 MsgDisp("主人公","...But this is an interview?");
 ChEye(9,3);
 ChMouth(9,0);
@@ -154,7 +157,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,10);
 VoicePlay("D030900500_09_160");
-MsgDisp("Kuya","This soft cream bread is interesting, right?
+MsgDisp("Kuya","This soft cream bread is
+interesting, right?
 Doesn't it appeal to your \"art\"istic side?");
 MsgDisp("主人公","Hmm... For me it's a bit much...");
 ChEye(9,3);

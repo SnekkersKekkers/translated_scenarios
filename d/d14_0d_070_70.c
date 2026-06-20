@@ -2,7 +2,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("D140D07070_21_000");
-MsgDisp("Michiru","Mikage-sensei is mysterious, don't you think?");
+MsgDisp("Michiru","Mikage-sensei is mysterious, don't
+you think?");
 MsgDisp("主人公","Mysterious...
 You mean his hairstyle?");
 ChEye(22,0);
@@ -33,7 +34,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("D140D07070_21_020");
-MsgDisp("Michiru","Hehe, I guess it's time for us to have lunch.");
+MsgDisp("Michiru","Hehe, I guess it's time for us to
+have lunch.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

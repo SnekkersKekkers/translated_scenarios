@@ -1,8 +1,8 @@
 SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Ah, it's from Habatcher's editorial
-department. It says...\"Can you please cover
-the event at Habataki Farm\"...)");
+department. It says...\"Can you please
+cover the event at Habataki Farm\"...)");
 MsgDisp("主人公","(Yeah! Of course I'll go.)");
 MsgClose();
 Wait(40,0);

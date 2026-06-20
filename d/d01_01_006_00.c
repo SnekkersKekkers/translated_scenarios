@@ -14,15 +14,15 @@ ChEye(31,4);
 ChMouth(31,4);
 ChMotion(31,3);
 VoicePlay("D010100600_31_010");
-MsgDisp("Goro","Yes, you're just the kind of girl I thought
-you were.");
+MsgDisp("Goro","Yes, you're just the kind of girl I
+thought you were.");
 MsgDisp("主人公","? Uhm, what do you mean...?");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("D010100600_31_020");
-MsgDisp("Goro","Geez, if you worry like that, you won't get
-anything done!");
+MsgDisp("Goro","Geez, if you worry like that, you won't
+get anything done!");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,5);
@@ -152,9 +152,9 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("D010100600_01_120");
-MsgDisp("Kazama","Because, you know. I think everything has a
-proper value. I don't like it when things are
-under or overpriced.");
+MsgDisp("Kazama","Because, you know. I think everything has
+a proper value. I don't like it when
+things are under or overpriced.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

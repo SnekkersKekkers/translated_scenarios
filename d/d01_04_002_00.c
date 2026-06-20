@@ -9,9 +9,9 @@ Wait(50,0);
 MsgDisp("主人公","(Oh, a text message.
 ...Ah, it's from ｛Nanatsumori＊｝.
 Is it an invitation for lunch?)");
-MsgDisp("主人公","(\"Where? Music now.
-In the room. Really... Really, the room.
-The corner...\" Is this code...∋)");
+MsgDisp("主人公","(\"Where? Music now. In the room. Really...
+Really, the room. The corner...\"
+Is this code...∋)");
 MsgDisp("主人公","Music in the room.
 He probably means the music room?
 Let's go!");

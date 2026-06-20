@@ -69,7 +69,8 @@ ChMotion(4,1,1);
 VoicePlay("D010400600_04_070");
 MsgDisp("Nanatsumori","That was my sister.
 You know, the one we talked about before?");
-MsgDisp("主人公","Ah... The one who's always toying with you—");
+MsgDisp("主人公","Ah...
+The one who's always toying with you—");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
@@ -91,11 +92,12 @@ little kid.");
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("D010400600_04_110");
-MsgDisp("Nanatsumori","It's my fault for not contacting her as much
-as I should.
+MsgDisp("Nanatsumori","It's my fault for not contacting her as
+much as I should.
 But isn't it time for her to let it go?");
 MsgDisp("主人公","Hehe.
-She sounds like a really sweet older sister.");
+She sounds like a really sweet
+older sister.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

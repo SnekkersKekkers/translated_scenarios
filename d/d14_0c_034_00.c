@@ -19,15 +19,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("D140C03400_07_000");
-MsgDisp("Mikage","Yeah. What's this all of a sudden, Yanosuke?");
+MsgDisp("Mikage","Yeah.
+What's this all of a sudden, Yanosuke?");
 VoicePlay("D140C03400_05_010");
 MsgDisp("Hiiragi","You don't have any pets, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C03400_06_000");
-MsgDisp("Himuro","Now that you mention it, I don't think I've
-heard anything on that.");
+MsgDisp("Himuro","Now that you mention it, I don't think
+I've heard anything on that.");
 MsgDisp("主人公","Molly-chan lives at your parent's
 house, right?");
 ChEye(7,0);
@@ -79,8 +80,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("D140C03400_06_020");
-MsgDisp("Himuro","Sigh...to Kojiro-sensei, we look like plants
-and animals?");
+MsgDisp("Himuro","Sigh...to Kojiro-sensei, we look like
+plants and animals?");
 ChMotion(5,4);
 ChEye(7,0);
 ChMouth(7,3);
@@ -90,7 +91,8 @@ MsgDisp("Mikage","Hahaha!
 Everyone's cute, lively and steadily growing.
 Wouldn't you say you're alike?");
 MsgDisp("主人公","(I know he cares for us but...
-To be the same as an animal or vegetable...)");
+To be the same as an animal or
+vegetable...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

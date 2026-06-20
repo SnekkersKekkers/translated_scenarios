@@ -29,8 +29,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D020100100_01_030");
 MsgDisp("Kazama","Hmm, I get it.
-Grandpa loves that sort of thing, so let me
-ask him about it.");
+Grandpa loves that sort of thing, so let
+me ask him about it.");
 MsgClose();
 SEPlay("EV_SE_856");
 ChClose(1);
@@ -74,8 +74,8 @@ I'm ｛主人公姓名｝.");
 ChMouth(36,0);
 VoicePlay("D020100100_36_010");
 MsgDisp("Grandpa","Yes, I know you.
-For a long time now, you have been quite the
-famous person in our family.");
+For a long time now, you have been quite
+the famous person in our family.");
 ChEye(1,0);
 ChMouth(1,2);
 ChCheek(1,5);
@@ -132,8 +132,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
 MsgDisp("主人公","(Okay, I got a good interview...)");
-MsgDisp("主人公","(Come to think of it, his Grandpa said I was
-a famous person.
+MsgDisp("主人公","(Come to think of it, his Grandpa said I
+was a famous person.
 I wonder what he meant by that...)");
 MsgClose();
 ScrFadeOut(0,0);

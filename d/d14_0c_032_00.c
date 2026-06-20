@@ -17,7 +17,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("D140C03200_06_000");
-MsgDisp("Himuro","Yes. ...Is there something wrong with that?");
+MsgDisp("Himuro","Yes.
+...Is there something wrong with that?");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(7,0);
@@ -29,8 +30,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C03200_06_010");
-MsgDisp("Himuro","I've been told that eating too much is bad so
-many times to the point I'm sick of it.");
+MsgDisp("Himuro","I've been told that eating too much is bad
+so many times to the point I'm sick of it.");
 MsgDisp("主人公","But, you really can't eat too much though?");
 ChEye(6,2);
 ChMouth(6,0);
@@ -43,8 +44,8 @@ ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("D140C03200_05_000");
 MsgDisp("Hiiragi","I see.
-But, is it really that good to the point you
-can't stop eating it?");
+But, is it really that good to the point
+you can't stop eating it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
@@ -104,8 +105,8 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("D140C03200_05_030");
 MsgDisp("Hiiragi","Stealth marketing?");
-MsgDisp("主人公","(｛Mikage＊＊｝'s parents really do dabble
-in everything...)");
+MsgDisp("主人公","(｛Mikage＊＊｝'s parents really do
+dabble in everything...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

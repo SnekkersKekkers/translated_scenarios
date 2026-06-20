@@ -19,7 +19,8 @@ Wait(80,0);
 ScrFadeIn(0);
 SEWait();
 MsgDisp("主人公","No one's here so...
-I'll have the rooftop all to myself today♪");
+I'll have the rooftop all to
+myself today♪");
 VoicePlay("D010600100_06_000");
 MsgDisp("Himuro?","Unfortunately, that's not the case.");
 MsgDisp("主人公","Eh?");
@@ -27,8 +28,8 @@ BGMPlay("BGM_C06_INORI_A",0.01);
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(6,254,0,0,0,#1,#1,0,0);
-MsgDisp("主人公","Ah, ｛Himuro＊＊｝, are you having your lunch up
-here too?");
+MsgDisp("主人公","Ah, ｛Himuro＊＊｝, are you having your lunch
+up here too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -71,8 +72,8 @@ StlMouth(6,0);
 StlEyeOpenLevel(6,5,1);
 VoicePlay("D010600100_06_050");
 MsgDisp("Himuro","That's some fine prejudice.");
-MsgDisp("主人公","But in terms of nutrition, maybe it would be
-better to add some side dishes?");
+MsgDisp("主人公","But in terms of nutrition, maybe it would
+be better to add some side dishes?");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600100_06_060");
@@ -82,11 +83,12 @@ MsgDisp("主人公","(He sounds like a little kid...)");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("D010600100_06_070");
-MsgDisp("Himuro","The dehydrated eggs and vegetables regained
-some moisture from soaking in the broth.");
+MsgDisp("Himuro","The dehydrated eggs and vegetables
+regained some moisture from soaking in
+the broth.");
 MsgDisp("主人公","Geez.
-Right, maybe you would like to have the side
-from my lunch?");
+Right, maybe you would like to have the
+side from my lunch?");
 StlEye(6,1);
 StlMouth(6,0);
 VoicePlay("D010600100_06_080");

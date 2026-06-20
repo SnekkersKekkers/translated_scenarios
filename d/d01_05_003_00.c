@@ -2,8 +2,8 @@ BGOpen("sc130",1);
 ScrFadeIn(0);
 VoicePlay("D010500300_44_000");
 MsgDisp("Girl A","Hey, did you know?
-There's a limited time one day sale ongoing
-at the shopping mall!");
+There's a limited time one day sale
+ongoing at the shopping mall!");
 VoicePlay("D010500300_45_000");
 MsgDisp("Girl B","Really∋
 Let's go there then!");
@@ -22,8 +22,8 @@ BGOpen("wf000",1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("D010500300_05_000");
-MsgDisp("Hiiragi?","Why on Earth would you be leaving the theatre
-company?");
+MsgDisp("Hiiragi?","Why on Earth would you be leaving the
+theatre company?");
 MsgDisp("主人公","(Eh, that voice...)");
 VoicePlay("D010500300_33_020");
 MsgDisp("Troupe A","We're not cut out to be actors.");
@@ -92,13 +92,13 @@ VoicePlay("D010500300_05_070");
 MsgDisp("Hiiragi","...I didn't want you to see me like this.");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_080");
-MsgDisp("Hiiragi","...Just a year ago those two smiled and told
-me how much they love the theatre.");
+MsgDisp("Hiiragi","...Just a year ago those two smiled and
+told me how much they love the theatre.");
 StlEyeOpenLevel(5,0,1);
 VoicePlay("D010500300_05_090");
-MsgDisp("Hiiragi","And yet, being with me made them give up on
-their dreams, saying they're not cut out for
-it... that it's not fun anymore...");
+MsgDisp("Hiiragi","And yet, being with me made them give up
+on their dreams, saying they're not cut
+out for it... that it's not fun anymore...");
 MsgDisp("主人公","......");
 StlEye(5,0);
 VoicePlay("D010500300_05_100");
@@ -108,17 +108,17 @@ realising it.");
 StlEyeOpenLevel(5,0);
 StlMouth(5,0);
 VoicePlay("D010500300_05_110");
-MsgDisp("Hiiragi","Isn't that ironic for a person whose job is
-to convey hope on stage...
+MsgDisp("Hiiragi","Isn't that ironic for a person whose job
+is to convey hope on stage...
 How hilarious that I'm the troupe leader.");
 StlEye(5,1);
 StlMouth(5,1);
 VoicePlay("D010500300_05_120");
 MsgDisp("Hiiragi","...Sigh, my apologies...
 Am I that way to you too?");
-MsgDisp("主人公","Of course not. ｛Hiiragi＊＊＊｝ is always working
-hard for everyone's sake, the Student Council
-and the Theatre Company.");
+MsgDisp("主人公","Of course not. ｛Hiiragi＊＊＊｝ is always
+working hard for everyone's sake, the
+Student Council and the Theatre Company.");
 StlEyeOpenLevel(5,5);
 VoicePlay("D010500300_05_130");
 MsgDisp("Hiiragi","For everyone's sake...
@@ -148,8 +148,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("D010500300_05_160");
 MsgDisp("Hiiragi","Please try to forget today.
-If you don't, I don't know how I can show my
-face to you again.");
+If you don't, I don't know how I can show
+my face to you again.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMouth(5,0);
 ChMotion(5,4);

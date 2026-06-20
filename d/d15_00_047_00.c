@@ -43,8 +43,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("D150004700_07_030");
 MsgDisp("Mikage","Right?
-Today is the faculty meeting so I'll put it
-on the agenda.");
+Today is the faculty meeting so I'll put
+it on the agenda.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2);

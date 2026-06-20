@@ -26,7 +26,8 @@ ChEyeOpenLevel(5,0);
 VoicePlay("D140C04001_05_010");
 MsgDisp("Hiiragi","Surely he's hungry?");
 MsgDisp("主人公","Hehe.
-You both sure do like ｛Himuro＊＊｝, don't you?");
+You both sure do like ｛Himuro＊＊｝,
+don't you?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -51,7 +52,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("D140C04001_07_030");
-MsgDisp("Mikage","Ohh, you're pressing down with the questions.");
+MsgDisp("Mikage","Ohh, you're pressing down with the
+questions.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
 ChMouth(5,4);
@@ -87,7 +89,8 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("D140C04001_07_050");
 MsgDisp("Mikage","｛主人公｝, Yanosuke, Inori...
-I think you're all diligent and interesting.");
+I think you're all diligent and
+interesting.");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);

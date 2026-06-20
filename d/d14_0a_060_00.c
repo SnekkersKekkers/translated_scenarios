@@ -5,7 +5,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140A06000_06_000");
-MsgDisp("Himuro","It feels weird that Ryota-senpai isn't here.");
+MsgDisp("Himuro","It feels weird that Ryota-senpai
+isn't here.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -42,8 +43,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 ChEyeOpenLevel(2,7);
 VoicePlay("D140A06000_02_020");
-MsgDisp("Sassa","Inori, are you using Ryota's absence to make
-your move?");
+MsgDisp("Sassa","Inori, are you using Ryota's absence to
+make your move?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -57,7 +58,8 @@ MsgDisp("Sassa","Haha, that's fine.
 This is our appeal time.
 Don't mind if we do.");
 MsgDisp("主人公","(Ehh∋
-What do you mean by \"Don't mind if we do\"??)");
+What do you mean by \"Don't mind if
+we do\"??)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -67,7 +67,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("D140A06100_06_040");
-MsgDisp("Himuro","Yes, it'll be helpful for future reference.");
+MsgDisp("Himuro","Yes, it'll be helpful for future
+reference.");
 MsgDisp("主人公","Ehhh∋
 Development between ｛Kazama＊＊｝ and me...
 We've been close forever though?");

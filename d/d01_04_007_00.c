@@ -97,7 +97,8 @@ SEWait();
 ScrFadeIn(0);
 VoicePlay("D010400700_04_090");
 MsgDisp("Nanatsumori","It's a promise then.
-When you don't feel well, it affects me too.");
+When you don't feel well, it affects
+me too.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,2);
 ChMouth(4,2);

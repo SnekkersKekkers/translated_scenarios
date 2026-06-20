@@ -22,8 +22,8 @@ You're still an athlete, even though it's
 your first year. Warm up properly.");
 ChMotion(2,2);
 VoicePlay("D010200100_40_010");
-MsgDisp("Member","But Captain, I guess Sassa doesn't even need
-to warm up.
+MsgDisp("Member","But Captain, I guess Sassa doesn't even
+need to warm up.
 ...Right?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -125,8 +125,8 @@ MsgDisp("Sassa","I... I just want to be the best.
 I'm a track and field idiot...");
 VoicePlay("D010200100_40_090");
 MsgDisp("Member","How is that fine?
-It's our last year. If you win them all, then
-the losers won't get any recognition.");
+It's our last year. If you win them all,
+then the losers won't get any recognition.");
 VoicePlay("D010200100_39_100");
 MsgDisp("Manager","Whatever, it's fine.
 Sassa, get dressed and let's go.");
@@ -149,8 +149,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("D010200100_02_090");
 MsgDisp("Sassa","Yeah.
-I thought it would be a big deal to win all
-of the events, but it wasn't at all.");
+I thought it would be a big deal to win
+all of the events, but it wasn't at all.");
 MsgDisp("主人公","No, that's not true.
 I think it's really amazing.");
 ChEye(2,2);

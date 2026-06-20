@@ -1,7 +1,8 @@
 BGOpen("sc130",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The weather is really nice today.
-I'll go for a little walk before I go home.)");
+I'll go for a little walk before I
+go home.)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -10,8 +11,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 BGOpen("wf000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I walked around a lot, maybe I should start
-to head back now?)");
+MsgDisp("主人公","(I walked around a lot, maybe I should
+start to head back now?)");
 SEPlay("EV_SE_511",0,0.9);
 Wait(30,0);
 VoicePlay("D200000000_34_000");
@@ -66,11 +67,11 @@ ChMouth(31,4);
 ChMotion(31,2);
 VoicePlay("D200000000_31_060");
 MsgDisp("Goro","Hello♪
-But right now I'm Goro Hanatsubaki, special
-advisor of Habatcher!");
+But right now I'm Goro Hanatsubaki,
+special advisor of Habatcher!");
 MsgDisp("主人公","Uhm...Habatcher?
-That's Habataki City's information magazine
-\"Habataki Watcher\", right?...");
+That's Habataki City's information
+magazine \"Habataki Watcher\", right?...");
 ChEye(31,3);
 ChMouth(31,3);
 ChMotion(31,3);
@@ -98,9 +99,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("D200000000_31_100");
-MsgDisp("Goro","You are the one who will take those diamonds
-and polish them into a wonderful and shining
-person♪");
+MsgDisp("Goro","You are the one who will take those
+diamonds and polish them into a wonderful
+and shining person♪");
 MsgDisp("主人公","Ehh∋
 I'm not sure if I'm the kind of person who
 can do that—");
@@ -115,9 +116,9 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,0);
 VoicePlay("D200000000_31_120");
-MsgDisp("Goro","Whenever you're in the mood, just walk around
-Habataki City and then write a nice article
-about it.");
+MsgDisp("Goro","Whenever you're in the mood, just walk
+around Habataki City and then write a nice
+article about it.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
@@ -129,8 +130,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(31);
 MsgDisp("主人公","(H-He's gone...)");
-MsgDisp("主人公","(I guess I'm a member of Habataki's Editorial
-Team now...?
+MsgDisp("主人公","(I guess I'm a member of Habataki's
+Editorial Team now...?
 What should I do?)");
 MsgClose();
 ScrFadeOut(0,0);

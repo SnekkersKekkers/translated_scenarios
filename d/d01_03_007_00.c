@@ -35,8 +35,8 @@ MsgDisp("Honda","Yepyep, this is the best!");
 StlEye(3,0);
 StlEyeOpenLevel(3,5,1);
 VoicePlay("D010300700_03_010");
-MsgDisp("Honda","This crown and cape really make me look like
-a Quiz King, huh?");
+MsgDisp("Honda","This crown and cape really make me look
+like a Quiz King, huh?");
 VoicePlay("D010300700_43_030");
 MsgDisp("Moderator","Yes, it really suits you.
 Is there anyone you would like to thank?");
@@ -87,13 +87,14 @@ SEPlay("EV_SE_544");
 ChOpen(3,255,1,0,3,#1,#1,0,0);
 VoicePlay("D010300700_03_040");
 MsgDisp("Honda","Sorry for bothering you!");
-MsgDisp("主人公","Ehh∋ ｛Honda＊＊｝, what are you doing here?");
+MsgDisp("主人公","Ehh∋
+｛Honda＊＊｝, what are you doing here?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D010300700_03_050");
-MsgDisp("Honda","Rightright, I actually got crowned the Quiz
-King today.");
+MsgDisp("Honda","Rightright, I actually got crowned the
+Quiz King today.");
 MsgDisp("主人公","I saw it on TV!
 Congratulations, you were amazing.");
 ChEye(3,0);

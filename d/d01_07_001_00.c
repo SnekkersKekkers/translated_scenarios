@@ -2,8 +2,8 @@ BGOpen("sc310",0);
 MsgClose();
 ScrFadeIn(0);
 MsgDisp("主人公","(Huh... My favourite pen is missing!
-Maybe I left it during my last class in the
-science lab?)");
+Maybe I left it during my last class in
+the science lab?)");
 SEPlay("EV_SE_FOOT_RUN_KEEP_ALONE",0,0.6);
 MsgClose();
 ScrFadeOut(0);
@@ -17,7 +17,8 @@ ScrFadeIn(0);
 MsgDisp("主人公","Ah, here it is!");
 VoicePlay("D010700100_07_000");
 MsgDisp("Mikage?","Woah, you did it!");
-MsgDisp("主人公","(Hm? That voice coming from the prep room...)");
+MsgDisp("主人公","(Hm?
+That voice coming from the prep room...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -63,8 +64,8 @@ She did such a great job～");
 StlEye(7,0);
 VoicePlay("D010700100_07_050");
 MsgDisp("Mikage","Look at her eyes.
-They look just like Molly's. Pitch black and
-huge...Right?");
+They look just like Molly's. Pitch black
+and huge...Right?");
 MsgDisp("主人公","Yeah!");
 StlEyeOpenLevel(7,5);
 VoicePlay("D010700100_07_060");
@@ -81,10 +82,10 @@ ChOpen(7,37,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("D010700100_07_070");
 MsgDisp("Mikage","Huh...
-Come to think of it, why did you come running
-over here?");
-MsgDisp("主人公","I came to get something I forgot and then I
-heard your voice so...");
+Come to think of it, why did you come
+running over here?");
+MsgDisp("主人公","I came to get something I forgot and then
+I heard your voice so...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -98,16 +99,17 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("D010700100_07_090");
 MsgDisp("Mikage","Thank you, you're going to make me cry.
-Molly was actually the first kid I delivered.");
+Molly was actually the first kid I
+delivered.");
 MsgDisp("主人公","Oh, really?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 ChEyeOpenLevel(7,0);
 VoicePlay("D010700100_07_100");
-MsgDisp("Mikage","Yep, and while the ranch heir was off having
-fun with you guys, Molly unexpectedly became
-a mother.");
+MsgDisp("Mikage","Yep, and while the ranch heir was off
+having fun with you guys, Molly
+unexpectedly became a mother.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

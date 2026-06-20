@@ -31,8 +31,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D020500000_05_010");
 MsgDisp("Hiiragi","Thank you so much.
-I really wanted you to be the first customer
-to see it.");
+I really wanted you to be the first
+customer to see it.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -54,8 +54,8 @@ BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 EnvPlay("SE_ENV_BG_EV004_CO0",1);
 ScrFadeIn(0);
 VoicePlay("D020500000_05_030");
-MsgDisp("Hiiragi","It is just a dress rehearsal, but I think you
-will be able to follow the story.");
+MsgDisp("Hiiragi","It is just a dress rehearsal, but I think
+you will be able to follow the story.");
 VoicePlay("D020500000_05_040");
 MsgDisp("Hiiragi","Let's begin, then.");
 MsgClose();
@@ -107,10 +107,11 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D020500000_05_080");
 MsgDisp("Hiiragi","Making a production we're proud of and
-meeting the viewer's expectations, hopefully
-we were able to achieve both.");
+meeting the viewer's expectations,
+hopefully we were able to achieve both.");
 MsgDisp("主人公","Yeah... But what about ｛Hiiragi＊＊＊｝?
-I can't believe ｛Hiiragi＊＊＊｝ isn't in it...");
+I can't believe ｛Hiiragi＊＊＊｝ isn't
+in it...");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -133,7 +134,8 @@ Wait(5,1);
 ChOpen(5,40,0,4,4,#1,#1,0,0,0,30);
 SEWait();
 VoicePlay("D020500000_05_110");
-MsgDisp("Hiiragi","You... There you go, making that face again.");
+MsgDisp("Hiiragi","You...
+There you go, making that face again.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -158,8 +160,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("D020500000_05_140");
 MsgDisp("Hiiragi","I can't relax yet, though.
-Depending on the reviews, I may truly have to
-give up the lead role.");
+Depending on the reviews, I may truly have
+to give up the lead role.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

@@ -25,8 +25,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("D140A03200_06_010");
-MsgDisp("Himuro","I was just thinking that kind of approach was
-typical for you Ryota-senpai.
+MsgDisp("Himuro","I was just thinking that kind of approach
+was typical for you Ryota-senpai.
 You should be more direct.");
 ChEye(1,0);
 ChEyeOpenLevel(1,8);
@@ -89,7 +89,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("D140A03200_01_060");
 MsgDisp("Kazama","You guys...");
 MsgDisp("主人公","(Heheh, yeah.
-These three really do get along after all.)");
+These three really do get along
+after all.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

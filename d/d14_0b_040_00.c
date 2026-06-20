@@ -23,7 +23,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("D140B04000_03_010");
-MsgDisp("Honda","But, he told us to go have lunch as a three.
+MsgDisp("Honda","But, he told us to go have lunch as
+a three.
 Ryo-kun sure is kind.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,2);

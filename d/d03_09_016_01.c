@@ -21,8 +21,8 @@ ChEyeOpenLevel(9,8);
 ChCheek(9,4);
 VoicePlay("D030901600_09_060");
 MsgDisp("Kuya","I'm honoured.
-Then I'll try to be as fine of a man as those
-guys think I am.");
+Then I'll try to be as fine of a man as
+those guys think I am.");
 ChMotion(9,4,1);
 VoicePlay("D030901600_09_070");
 MsgDisp("Kuya","...But, can I ask you a favour.

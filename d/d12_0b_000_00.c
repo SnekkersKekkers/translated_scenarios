@@ -13,8 +13,8 @@ SEWait();
 ChMouth(1,3);
 VoicePlay("D120B00000_01_000");
 MsgDisp("Kazama","...Ah.
-This issue of Habatcher is running a special
-feature on Nanatsumori.");
+This issue of Habatcher is running a
+special feature on Nanatsumori.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,4,1);
@@ -36,8 +36,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("D120B00000_03_000");
 MsgDisp("Honda","That's right.
-Ryo-kun is well-known, so the people around
-him pay attention to him, right?");
+Ryo-kun is well-known, so the people
+around him pay attention to him, right?");
 ChMouth(4,2);
 ChMotion(4,0,1);
 ChEye(1,4);
@@ -50,8 +50,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("D120B00000_03_010");
 MsgDisp("Honda","\"The Young Master of Habataki City\".
-Some girls always have their antennas up for
-everything Ryo-kun says and does.");
+Some girls always have their antennas up
+for everything Ryo-kun says and does.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -178,8 +178,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("D120B00000_04_080");
-MsgDisp("Nanatsumori","Even if you're not always aware of it, try to
-remember that the people around you are
+MsgDisp("Nanatsumori","Even if you're not always aware of it, try
+to remember that the people around you are
 always watching.");
 ChEye(1,2);
 ChMouth(1,0);
@@ -202,7 +202,8 @@ ChMouth(1,2);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("D120B00000_01_080");
-MsgDisp("Kazama","The treatment didn't work on one of us, huh?");
+MsgDisp("Kazama","The treatment didn't work on one of
+us, huh?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);

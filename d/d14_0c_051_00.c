@@ -43,7 +43,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("D140C05100_06_020");
-MsgDisp("Himuro","Before you and Yanosuke-senpai got so close.");
+MsgDisp("Himuro","Before you and Yanosuke-senpai got
+so close.");
 MsgDisp("主人公","Eh∋");
 ChEye(5,3);
 ChMotion(5,0);
@@ -53,9 +54,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("D140C05100_07_020");
-MsgDisp("Mikage","I understand how Inori feels. In times like
-this, isn't it best for the cosy pair to
-provide us with a conversation topic?");
+MsgDisp("Mikage","I understand how Inori feels. In times
+like this, isn't it best for the cosy pair
+to provide us with a conversation topic?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);
@@ -90,8 +91,8 @@ Wait(90,1);
 ChMotion(5,2);
 VoicePlay("D140C05100_05_040");
 MsgDisp("Hiiragi","It was a clear day, and it felt nice.
-When you showed up at the meeting place, your
-clothes were more mature than usual—");
+When you showed up at the meeting place,
+your clothes were more mature than usual—");
 MsgDisp("主人公","∋");
 ChEye(7,0);
 ChMouth(7,0);

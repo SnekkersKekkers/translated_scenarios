@@ -28,8 +28,9 @@ ChMouth(7,3);
 ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("D100710000_07_030");
-MsgDisp("Mikage","...You, lately you've been starting to look
-more and more like a caring wife, huh?");
+MsgDisp("Mikage","...You, lately you've been starting
+to look more and more like a caring
+wife, huh?");
 MsgDisp("主人公","Ehh∋");
 ChEye(7,0);
 ChMouth(7,0);

@@ -7,8 +7,8 @@ ChMotion(3,0);
 VoicePlay("D150003500_03_000");
 MsgDisp("Honda","Hey, Yano-kun.
 Do you have foods you like or dislike?");
-MsgDisp("主人公","I don't think ｛Hiiragi＊＊＊｝ has ever mentioned
-disliking anything.");
+MsgDisp("主人公","I don't think ｛Hiiragi＊＊＊｝ has ever
+mentioned disliking anything.");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,2);

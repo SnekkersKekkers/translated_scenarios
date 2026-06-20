@@ -68,8 +68,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900900_09_070");
 MsgDisp("Kuya","...Haha. You're really an interesting kid,
-you know? Every time we meet, I'm dazzled by
-your energy.");
+you know? Every time we meet, I'm dazzled
+by your energy.");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,2,1);
@@ -144,18 +144,19 @@ I'll try.");
     MsgDisp("主人公","Ehh∋");
     ChMotion(9,0,1);
     VoicePlay("D030900900_09_160");
-    MsgDisp("Kuya","I'll take a gap year and then try to attend
-the same university as you.
+    MsgDisp("Kuya","I'll take a gap year and then try to
+attend the same university as you.
 A first-rate university.");
     ChEye(9,2);
     ChMouth(9,0);
     ChMotion(9,1,1);
     VoicePlay("D030900900_09_170");
-    MsgDisp("Kuya","Right now it's completely impossible for me.
+    MsgDisp("Kuya","Right now it's completely impossible
+for me.
 I'm missing everything I need.");
     MsgDisp("主人公","That...
-Do you mean you're going to study hard from
-now on?");
+Do you mean you're going to study hard
+from now on?");
     ChEye(9,3);
     ChMouth(9,0);
     ChMotion(9,4,1);
@@ -184,12 +185,12 @@ Thank you.");
     ChMotion(9,2,1);
     ChEyeOpenLevel(9,0);
     VoicePlay("D030900900_09_210");
-    MsgDisp("Kuya","Haha... The \"Jack of All Trades\" will be on
-hiatus for a while.
+    MsgDisp("Kuya","Haha... The \"Jack of All Trades\" will be
+on hiatus for a while.
 Let's both do our best at studying, yeah?");
-    MsgDisp("主人公","(This is a surprise but... I want to support
-Kuya-san in his goals! I need to prioritise
-my \"studies\" over interviews.)");
+    MsgDisp("主人公","(This is a surprise but... I want to
+support Kuya-san in his goals! I need to
+prioritise my \"studies\" over interviews.)");
     break ;
     case 1:
     MsgDisp("主人公","I can't answer that right now.

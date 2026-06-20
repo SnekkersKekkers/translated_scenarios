@@ -13,8 +13,8 @@ ChCheek(4,0);
 MsgDisp("主人公","Mmm, lunch was delicious!");
 ChMouth(1,2);
 VoicePlay("D140B03400_01_000");
-MsgDisp("Kazama","Come to think of it, you had home economics
-today, didn't you?");
+MsgDisp("Kazama","Come to think of it, you had home
+economics today, didn't you?");
 MsgDisp("主人公","Yeah.");
 ChMouth(1,0);
 VoicePlay("D140B03400_01_010");
@@ -80,8 +80,8 @@ ChMotion(4,1,1);
 VoicePlay("D140B03400_04_030");
 MsgDisp("Nanatsumori","I'm ready to eat now.");
 MsgDisp("主人公","(Everyone's eyes are serious...
-I was going to save it for after lunch, but
-maybe I should bring it out now?)");
+I was going to save it for after lunch,
+but maybe I should bring it out now?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -1,5 +1,5 @@
-MsgDisp("主人公","Come to think of it, there's something I want
-to ask you two...");
+MsgDisp("主人公","Come to think of it, there's something I
+want to ask you two...");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
@@ -28,8 +28,8 @@ MsgDisp("Michiru","Hehe. Why do you want to know?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
-MsgDisp("主人公","I mean, your faces are the splitting image of
-each other, but your hair colour is
+MsgDisp("主人公","I mean, your faces are the splitting image
+of each other, but your hair colour is
 different. I wonder why that is?");
 ChEye(21,0);
 ChMouth(21,0);

@@ -48,7 +48,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("D140B03200_03_020");
 MsgDisp("Honda","I see.
-Since you guys are childhood friends, right?");
+Since you guys are childhood
+friends, right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

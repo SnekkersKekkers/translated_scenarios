@@ -5,7 +5,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D140A06102_02_000");
-MsgDisp("Sassa","Today is a lunch between childhood friends.");
+MsgDisp("Sassa","Today is a lunch between childhood
+friends.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -39,8 +40,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("D140A06102_02_020");
-MsgDisp("Sassa","But, he's only like that when he's enjoying
-himself.");
+MsgDisp("Sassa","But, he's only like that when he's
+enjoying himself.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -66,8 +67,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06102_01_050");
 MsgDisp("Kazama","He's our junior, so he's probably being
-considerate to us in ways we don't even know,
-but I could never imitate that.");
+considerate to us in ways we don't even
+know, but I could never imitate that.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -96,8 +97,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140A06102_01_070");
-MsgDisp("Kazama","Well, he said he's a step ahead of me so it's
-fine, right?");
+MsgDisp("Kazama","Well, he said he's a step ahead of me so
+it's fine, right?");
 MsgDisp("主人公","(Um...they're definitely talking about the
 relationship between ｛Himuro＊＊｝ and me.)");
 BGMStop();

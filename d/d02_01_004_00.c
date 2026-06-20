@@ -5,8 +5,8 @@ SEPlay("EV_SE_787");
 SEWait();
 MsgDisp("主人公","(Huh, it's a message from ｛Kazama＊＊｝...)");
 MsgDisp("主人公","(It says...
-\"I'm going to go visit my parents.
-I'll be back in time for graduation\"...)");
+\"I'm going to go visit my parents. I'll be
+back in time for graduation\"...)");
 MsgDisp("主人公","(Ehh∋ But his parents are in England...)");
 MsgDisp("主人公","(｛Kazama＊＊｝...)");
 MsgClose();

@@ -2,8 +2,8 @@ BGOpen("ho000",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_787");
 SEWait();
-MsgDisp("主人公","(Ah, it's an email from Habatcher's Editorial
-Department.)");
+MsgDisp("主人公","(Ah, it's an email from Habatcher's
+Editorial Department.)");
 MsgDisp("主人公","(Let's see...
 \"Fishing tournament at Habataki Campsite.\"
 Might as well go cover it!)");
@@ -41,16 +41,17 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010100700_01_020");
-MsgDisp("Kazama","Interview me if you want, but I'm serious, so
-don't get in my way.
+MsgDisp("Kazama","Interview me if you want, but I'm serious,
+so don't get in my way.
 Make a fuss and the fish will run.");
 MsgDisp("主人公","Got it.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("D010100700_48_000");
-MsgDisp("Staff","All fishing tournament participants, please
-gather at the area behind the campsite.");
+MsgDisp("Staff","All fishing tournament participants,
+please gather at the area behind the
+campsite.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -76,7 +77,8 @@ SEPlay("EV_SE_606");
 ScrFadeIn(0);
 Wait(60,0);
 MsgDisp("主人公","(Woah, amazing...
-Looks like ｛Kazama＊＊｝ caught another fish!)");
+Looks like ｛Kazama＊＊｝ caught
+another fish!)");
 StlEyeOpenLevel(1,5);
 VoicePlay("D010100700_01_050");
 MsgDisp("Kazama","Yes, got it!");

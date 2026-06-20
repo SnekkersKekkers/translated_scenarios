@@ -13,8 +13,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("D140B04002_03_000");
 MsgDisp("Honda","I thought about inviting him.
-But he looked so peaceful sleeping, I ended
-up leaving him there.");
+But he looked so peaceful sleeping, I
+ended up leaving him there.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -47,16 +47,16 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("D140B04002_01_020");
 MsgDisp("Kazama","Hmm...
-It seems like he's dreaming most of the time
-during recess.");
+It seems like he's dreaming most of the
+time during recess.");
 MsgDisp("主人公","Hehe!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("D140B04002_03_030");
 MsgDisp("Honda","But...
-But next time, I'll have to wake him up and
-bring him along.");
+But next time, I'll have to wake him up
+and bring him along.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

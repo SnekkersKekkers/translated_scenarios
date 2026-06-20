@@ -61,8 +61,8 @@ MsgDisp("Kuya","Hmm.
 You can interview me, but I don't think it
 will be very interesting...");
 MsgDisp("主人公","Hehe.
-Okay, here comes the first question: How did
-you become a \"Jack Of All Trades\"?");
+Okay, here comes the first question: How
+did you become a \"Jack Of All Trades\"?");
 ChEye(9,0);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -78,8 +78,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900400_09_070");
 MsgDisp("Kuya","Yeah.");
-MsgDisp("主人公","Okay, here's the second question: Why is it
-rewarding to be a \"Jack Of All Trades\"?");
+MsgDisp("主人公","Okay, here's the second question: Why is
+it rewarding to be a \"Jack Of All Trades\"?");
 ChEye(9,2);
 ChMouth(9,4);
 ChMotion(9,0,1);
@@ -92,7 +92,8 @@ VoicePlay("D030900400_09_090");
 MsgDisp("Kuya","...I never thought about it like that.
 Does there have to be something rewarding
 about it? What do you think?");
-MsgDisp("主人公","(Umm... I'm being asked questions instead...)");
+MsgDisp("主人公","(Umm...
+I'm being asked questions instead...)");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -106,18 +107,19 @@ MsgSel("Ask for a close coverage interview","Let's end here");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Understood.
-Kuya-san, if you don't mind, maybe we can do
-a close coverage interview?");
+Kuya-san, if you don't mind, maybe we can
+do a close coverage interview?");
     ChEye(9,3);
     ChMouth(9,4);
     ChMotion(9,4,1);
     ChEyeOpenLevel(9,10);
     VoicePlay("D030900400_09_110");
     MsgDisp("Kuya","A close coverage interview?
-Does that mean we'll be doing this forever?");
+Does that mean we'll be doing this
+forever?");
     MsgDisp("主人公","Well...
-It's not for forever but next time, Kuya-san
-and I can cover more topics.");
+It's not for forever but next time,
+Kuya-san and I can cover more topics.");
     ChEye(9,3);
     ChMouth(9,0);
     ChMotion(9,0,1);

@@ -17,8 +17,8 @@ StlMouth(5,0);
 SEPlay("EV_SE_849");
 ScrFadeIn(0);
 VoicePlay("D010500700_05_000");
-MsgDisp("Hiiragi","I guess I've been playing table tennis since
-I was little──");
+MsgDisp("Hiiragi","I guess I've been playing table tennis
+since I was little──");
 SEStop("EV_SE_849",0);
 SEPlay("EV_SE_850");
 VoicePlay("D010500700_05_010");
@@ -30,7 +30,8 @@ MsgDisp("Students","Woah, amazing!");
 SEStop("EV_SE_GAYA_025",2);
 VoicePlay("D010500700_40_020");
 MsgDisp("School Boy","It's not over yet!
-I bet you can't return this serve! ...Here!");
+I bet you can't return this serve!
+...Here!");
 SEPlay("EV_SE_851",0,0.8);
 Wait(30,0);
 SEPlay("EV_SE_849",0.5);
@@ -51,8 +52,8 @@ Wait(15,0);
 MsgDisp("主人公","Ahh∋");
 SEPlay("EV_SE_GAYA_016");
 VoicePlay("D010500700_40_030");
-MsgDisp("School Boy","Ahahaha, don't just suddenly smash it towards
-the girls!");
+MsgDisp("School Boy","Ahahaha, don't just suddenly smash it
+towards the girls!");
 SEStop("EV_SE_GAYA_016",1.5);
 BGMVol(0.5,2);
 MsgClose();
@@ -109,8 +110,8 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("D010500700_05_110");
-MsgDisp("Hiiragi","Next time I'll try harder to not hit you in
-the head, okay?");
+MsgDisp("Hiiragi","Next time I'll try harder to not hit you
+in the head, okay?");
 MsgDisp("主人公","Hehe, thank you.");
 ChEye(5,4);
 ChMouth(5,4);

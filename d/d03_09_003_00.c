@@ -4,11 +4,12 @@ ScrFadeIn(0);
 MsgDisp("主人公","(I wonder if that \"Kuya\" person is here.
 I'd love to get an interview but I'd
 especially like to thank him...)");
-MsgDisp("主人公","(Will he show up again if there is someone in
-trouble like last time?)");
+MsgDisp("主人公","(Will he show up again if there is someone
+in trouble like last time?)");
 MsgDisp("主人公","(But such a convenient thing like that
 definitely won't happen, huh...)");
-MsgDisp("主人公","Sigh... \"Kuya\"-san, I wonder where you are?");
+MsgDisp("主人公","Sigh...
+\"Kuya\"-san, I wonder where you are?");
 VoicePlay("D030900300_09_000");
 MsgDisp("Kuya?","You called?");
 MsgDisp("主人公","Eh?");
@@ -93,7 +94,8 @@ ChMouth(9,0);
 ChMotion(9,0,1);
 VoicePlay("D030900300_09_100");
 MsgDisp("Kuya","I am Shirahane Kuya.
-A second year student at Hanegasaki Academy.");
+A second year student at Hanegasaki
+Academy.");
 MsgDisp("主人公","I'm ｛主人公姓名｝.
 A first year at Habataki High School.
 Uhm...Shirahane-san?");
@@ -117,20 +119,20 @@ ChMotion(9,4,1);
 ChEyeOpenLevel(9,7);
 VoicePlay("D030900300_09_130");
 MsgDisp("Kuya","I'm glad to hear that.
-For some reason, I tend to encounter people
-in troublesome situations a lot.");
+For some reason, I tend to encounter
+people in troublesome situations a lot.");
 VoicePlay("D030900300_09_140");
 MsgDisp("Kuya","I said before that it's my \"job,\" right?
-With this sort of power, I became a Jack of
-All Trades, helping people in need.");
+With this sort of power, I became a Jack
+of All Trades, helping people in need.");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,0);
 VoicePlay("D030900300_09_150");
 MsgDisp("Kuya","But...
-I guess today I have a situation of my own to
-deal with? It's a strange feeling.");
+I guess today I have a situation of my own
+to deal with? It's a strange feeling.");
 MsgDisp("主人公","Hehe.");
 ChEye(9,3);
 ChMouth(9,0);
@@ -145,8 +147,8 @@ ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,4,1);
 VoicePlay("D030900300_09_170");
-MsgDisp("Kuya","Good luck. As a journalist you have to have a
-keen sense for \"style\".
+MsgDisp("Kuya","Good luck. As a journalist you have to
+have a keen sense for \"style\".
 I'll cheer you on from the shadows.");
 MsgDisp("主人公","Thank you so much.
 Uhm, actually, I was wondering if I could

@@ -14,8 +14,8 @@ SEWait();
 ChOpen(2,30,3,0,4,#1,#1,0,0);
 VoicePlay("D120A00200_02_000");
 MsgDisp("Sassa","Yo, are you running too?");
-MsgDisp("主人公","Hehe, even if I don't, ｛Sassa＊＊｝ will still
-come in first place, right?");
+MsgDisp("主人公","Hehe, even if I don't, ｛Sassa＊＊｝ will
+still come in first place, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -36,8 +36,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("D120A00200_02_020");
-MsgDisp("Sassa","I'd like to run with him, but I'm not sure if
-we're in the same race?");
+MsgDisp("Sassa","I'd like to run with him, but I'm not sure
+if we're in the same race?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
@@ -46,8 +46,8 @@ VoicePlay("D120A00200_01_010");
 MsgDisp("Kazama","You guys don't remember.
 We raced plenty back in kindergarten.");
 VoicePlay("D120A00200_47_010");
-MsgDisp("Broadcast","Students participating in the men's 100m dash
-please gather at the starting gate.");
+MsgDisp("Broadcast","Students participating in the men's 100m
+dash please gather at the starting gate.");
 MsgDisp("主人公","Good luck to the two of you!");
 MsgClose();
 ScrFadeOut(0);
@@ -130,8 +130,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("D120A00200_02_060");
 MsgDisp("Sassa","Thank you!
-It's been a while since I raced with Ryota,
-so it was fun.");
+It's been a while since I raced with
+Ryota, so it was fun.");
 VoicePlay("D120A00200_42_050");
 MsgDisp("School Boy","As expected of the Track and Field
 Club's Ace!");
@@ -170,14 +170,15 @@ ChCheek(1,0);
 VoicePlay("D120A00200_01_060");
 MsgDisp("Kazama","Geez, how annoying.
 Why aren't you with Sassa?");
-MsgDisp("主人公","It was like interviewing a hero, everyone was
-surrounding him.");
+MsgDisp("主人公","It was like interviewing a hero, everyone
+was surrounding him.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D120A00200_01_070");
-MsgDisp("Kazama","I see. So you're doing the loser interview?");
+MsgDisp("Kazama","I see.
+So you're doing the loser interview?");
 MsgDisp("主人公","How's it feel taking the silver medal?");
 ChEye(1,0);
 ChMouth(1,3);

@@ -37,8 +37,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("D150003401_03_030");
-MsgDisp("Honda","Really? I'm looking closely at creatures that
-decompose soil.
+MsgDisp("Honda","Really? I'm looking closely at creatures
+that decompose soil.
 Earthworms, springtails, mites...");
 MsgDisp("主人公","Ehh...");
 ChEye(4,1);

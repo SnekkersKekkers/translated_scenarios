@@ -55,7 +55,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("D010100200_01_040");
 MsgDisp("Kazama","You were watching?
-That wasn't just shopping, it was a rescue.");
+That wasn't just shopping, it was
+a rescue.");
 MsgDisp("主人公","A rescue?");
 BGMPlay("BGM_C01_RYOUTA_C",0.01);
 Wait(50,0);
@@ -64,16 +65,16 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("D010100200_01_050");
-MsgDisp("Kazama","Exactly. I rescued it from being carelessly
-laid on the ground by people who don't
-understand its worth.");
+MsgDisp("Kazama","Exactly. I rescued it from being
+carelessly laid on the ground by people
+who don't understand its worth.");
 MsgDisp("主人公","It is pretty nice.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("D010100200_01_060");
-MsgDisp("Kazama","The value can only be decided by someone who
-understands it.
+MsgDisp("Kazama","The value can only be decided by someone
+who understands it.
 Earlier it was only worth 1 Rich.");
 MsgDisp("主人公","I see, but now it's 5 Rich.");
 ChEye(1,4);

@@ -48,7 +48,8 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,6);
 VoicePlay("D030901400_09_030");
 MsgDisp("Kuya","Ahh...
-Today is a normal date with Kuya Shirahane.");
+Today is a normal date with Kuya
+Shirahane.");
 ChMotion(9,1,1);
 VoicePlay("D030901400_09_040");
 MsgDisp("Kuya","I won't be wearing the Hanegasaki
@@ -130,8 +131,8 @@ ChEyeOpenLevel(9,10);
 VoicePlay("D030901400_09_120");
 MsgDisp("Kuya","Huh...? Is that maybe a bit weird?");
 MsgDisp("主人公","No...
-Kuya-san, are you going to stop being a \"Jack
-of All Trades\"?");
+Kuya-san, are you going to stop being a
+\"Jack of All Trades\"?");
 ChEye(9,3);
 ChMouth(9,4);
 ChMotion(9,1,1);
@@ -151,8 +152,8 @@ Come, today will be a nice change of pace.
 Let's eat some ice cream together!");
 MsgDisp("主人公","Okay!");
 MsgDisp("主人公","(It definitely feels like Kuya-san is
-changing. I get the feeling he's become more
-dependable...?)");
+changing. I get the feeling he's become
+more dependable...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -37,8 +37,8 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("D140A03400_06_010");
 MsgDisp("Himuro","Well, yeah.
-His possessiveness is so strong it's almost
-refreshing.");
+His possessiveness is so strong it's
+almost refreshing.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -93,7 +93,8 @@ ChMouth(2,3);
 ChMotion(2,2);
 VoicePlay("D140A03400_02_030");
 MsgDisp("Sassa","Sorry.
-I mean, I guess I'm also a childhood friend.");
+I mean, I guess I'm also a
+childhood friend.");
 ChEye(1,2);
 ChMouth(1,0);
 ChEyeOpenLevel(1,0);

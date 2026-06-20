@@ -41,7 +41,8 @@ VoicePlay("D140B04102_01_020");
 MsgDisp("Kazama","Hey, let's end it for today already.
 I give up...");
 MsgDisp("主人公","Today ｛Nanatsumori＊｝ isn't here so
-｛Kazama＊＊｝ is the only listener isn't he?");
+｛Kazama＊＊｝ is the only listener
+isn't he?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0,1);
@@ -89,7 +90,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("D140B04102_01_070");
 MsgDisp("Kazama","Sigh...
-I now realise the importance of Nanatsumori.");
+I now realise the importance of
+Nanatsumori.");
 MsgDisp("主人公","(Hehe, good work, ｛Kazama＊＊｝.
 Next time let's invite ｛Nanatsumori＊｝ too
 and go as a four.)");
