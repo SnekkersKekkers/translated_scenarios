@@ -27,7 +27,7 @@ VoicePlay("C022200000_22_040");
 MsgDisp("Hikaru","Those wounds can turn into a ticking time
 bomb. A boy near Mari is like that right now.
 ...Did you notice?");
-MsgDisp("主人公","Eh?");
+MsgDisp("主人公","Eh∋");
 VoicePlay("C022200000_22_050");
 MsgDisp("Hikaru","Hikaru thinks Mari knows, but if annoyance
 \"boils up\" long enough suddenly one day...

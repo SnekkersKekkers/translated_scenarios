@@ -24,7 +24,7 @@ ScrFadeIn(0);
 ChMotion(22,4,1);
 VoicePlay("F122200001_22_010");
 MsgDisp("Hikaru","Hey, Mari.
-It's almost Valentine's Day, you know～");
+It's almost Valentine's Day, you know～♪");
 MsgDisp("主人公","Yes, that's right.");
 ChEye(22,0);
 ChMouth(22,2);

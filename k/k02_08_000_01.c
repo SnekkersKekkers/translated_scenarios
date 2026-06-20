@@ -11,7 +11,7 @@ MsgClose();
 BGMPlay("BGM_C08_DAICHI_A",0.01);
 ChOpen(8,255,0,4,0,#1,#1,5,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Oh, ｛Daichi＊＊｝!?");
+MsgDisp("主人公","Oh, ｛Daichi＊＊｝∋");
 ChMotion(8,2,1);
 VoicePlay("K020800001_08_000");
 MsgDisp("Shirahane","Sorry for suddenly comin' over.");

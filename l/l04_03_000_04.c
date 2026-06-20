@@ -7,7 +7,7 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,5);
     VoicePlay("L040300004_03_000");
     MsgDisp("Honda","Amazing!
-It's handmade!?");
+It's handmade∋");
     MsgDisp("主人公","Hehe, I did my best.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -64,7 +64,7 @@ He seems happy.)");
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("L040300004_03_080");
-    MsgDisp("Honda","Wah, it's handmade!!");
+    MsgDisp("Honda","Wah, it's handmade∈");
     MsgDisp("主人公","Yeah, I did my best to make it!");
     ChEye(3,0);
     ChMouth(3,3);

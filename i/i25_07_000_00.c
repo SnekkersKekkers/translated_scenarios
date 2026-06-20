@@ -77,7 +77,7 @@ Excuse me.");
     ChMotion(7,4);
     VoicePlay("I250700000_07_080");
     MsgDisp("Mikage","Maybe I'll get a part-time job somewhere too?");
-    MsgDisp("主人公","Huh!?");
+    MsgDisp("主人公","Huh∋");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

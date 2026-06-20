@@ -4,5 +4,5 @@ ChMouth(6,0);
 ChMotion(6,5);
 VoicePlay("SS1006041_06_000");
 MsgDisp("Himuro","∋
-What are you doing?");
+What are you doing∋");
 MsgClose();

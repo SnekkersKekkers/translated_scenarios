@@ -6,7 +6,7 @@ switch (ChPrmGet(22,6)){
     ChMouth(22,3);
     ChMotion(22,0);
     VoicePlay("F012200005_22_000");
-    MsgDisp("Hikaru","Okay, let's make a stop～");
+    MsgDisp("Hikaru","Okay, let's make a stop～♪");
     MsgDisp("主人公","Yay! Well then, let's go!");
     break ;
     case 3:
@@ -14,7 +14,7 @@ switch (ChPrmGet(22,6)){
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("F012200005_22_010");
-    MsgDisp("Hikaru","Okay! Girl talk time～");
+    MsgDisp("Hikaru","Okay! Girl talk time～♪");
     MsgDisp("主人公","Hehe. Then, let's go!");
     break ;
     case 4:

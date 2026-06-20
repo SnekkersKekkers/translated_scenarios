@@ -24,7 +24,7 @@ I'm glad I did my best!)");
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("O030300000_03_010");
-    MsgDisp("Honda","We're first place...!?");
+    MsgDisp("Honda","We're first place∋");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1);
@@ -44,7 +44,7 @@ I got first place with ｛Honda＊＊｝!)");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("O030300000_03_040");
-    MsgDisp("Honda","We got first in the three-legged race!?");
+    MsgDisp("Honda","We got first in the three-legged race∋");
     ChSet(3,3);
     VoicePlay("O030300000_03_050");
     MsgDisp("Honda","This never would've happened if it wasn't

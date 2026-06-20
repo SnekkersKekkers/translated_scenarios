@@ -62,7 +62,7 @@ watch that.");
     VoicePlay("O080100000_01_060");
     MsgDisp("Kazama","It's dangerous if I don't watch.
 But wait, what do you mean it's
-embarrassing!?");
+embarrassing∋");
     break ;
     default :
     DbgAssert(1);

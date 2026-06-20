@@ -48,7 +48,7 @@ Your present.");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("K010300100_03_040");
-    MsgDisp("Honda","Wah! You remembered!?");
+    MsgDisp("Honda","Wah! You remembered∋");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,0);

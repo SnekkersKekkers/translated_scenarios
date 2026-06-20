@@ -20,7 +20,7 @@ Treat me well this year.");
     MsgDisp("主人公","｛Sassa＊＊｝, Happy New Year.");
     VoicePlay("S030200000_02_040");
     MsgDisp("Sassa","Happy New Year!
-I'm counting on you this year too.");
+I'm counting on you this year too∈");
     VoicePlay("S030200000_02_050");
     MsgDisp("Sassa","Ah, are you calling me for a shrine visit?");
     MsgDisp("主人公","Yep, that's right.

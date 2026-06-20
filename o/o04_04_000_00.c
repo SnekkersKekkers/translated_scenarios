@@ -12,7 +12,7 @@ switch (ChPrmGet(4,6)){
     ScrFadeIn(0);
     VoicePlay("O040400000_04_000");
     MsgDisp("Nanatsumori","We won?
-Seriously!?");
+Seriously∋");
     MsgDisp("主人公","(We did it!
 I'm glad we tried our best.)");
     break ;

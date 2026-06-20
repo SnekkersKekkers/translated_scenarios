@@ -156,7 +156,7 @@ Ready... set...!!");
 ScrFadeOut(0,1);
 BGMStop(4);
 VoicePlay("A010000000_01_170");
-MsgDisp("Together","Pfffshhh!!");
+MsgDisp("Together","Pfffshhh∈");
 MsgClose();
 BGOpen("pr000",0);
 SEPlay("EV_SE_597",0.3,0.1);

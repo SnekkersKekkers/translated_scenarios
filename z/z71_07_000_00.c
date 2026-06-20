@@ -101,7 +101,7 @@ She's Mikagecchi's girlfriend, right?");
 SEPlay("EV_SE_GAYA_016");
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
 SEPlay("EV_SE_863",0,0.4)VoicePlay("Z710700000_45_010");
-MsgDisp("Girl B","What!?");
+MsgDisp("Girl B","What∋");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

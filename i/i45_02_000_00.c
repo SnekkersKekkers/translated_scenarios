@@ -156,7 +156,7 @@ I'm feeling a little strange.");
     ChMotion(2,4);
     VoicePlay("I450200000_02_160");
     MsgDisp("Sassa","I can't, I gotta run.");
-    MsgDisp("主人公","Huh!?");
+    MsgDisp("主人公","Huh∋");
     MsgClose();
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     BGMStop();

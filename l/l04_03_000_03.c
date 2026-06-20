@@ -30,7 +30,7 @@ myself.)");
     ChMouth(3,5);
     ChMotion(3,5);
     VoicePlay("L040300003_03_030");
-    MsgDisp("Honda","Wah, handmade!?");
+    MsgDisp("Honda","Wah, handmade∋");
     MsgDisp("主人公","I did my best.");
     ChEye(3,0);
     ChMouth(3,3);

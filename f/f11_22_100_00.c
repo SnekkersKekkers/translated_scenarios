@@ -5,7 +5,7 @@ ChOpen(22,254,0,3,3,0,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("F112210000_22_000");
 MsgDisp("Hikaru","Ahh... Ahh... Ahh...
-Super duper satisfied～");
+Super duper satisfied～♪");
 MsgDisp("主人公","Oh, ｛ひかる＊｝.
 What's with the good mood?");
 ChEye(22,0);
@@ -13,7 +13,7 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F112210000_22_010");
 MsgDisp("Hikaru","Ah, Mari!
-Just now, someone gave Hikaru a takoyaki～");
+Just now, someone gave Hikaru a takoyaki～♪");
 MsgDisp("主人公","Was it from a guy?");
 ChEye(22,3);
 ChMouth(22,3);

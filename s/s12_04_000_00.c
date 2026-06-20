@@ -71,7 +71,7 @@ shrine visit?");
     ChMotion(4,1,1);
     VoicePlay("S120400000_04_070");
     MsgDisp("Nanatsumori","Wait up!");
-    MsgDisp("主人公","Huh?");
+    MsgDisp("主人公","Huh∋");
     ChEye(4,4);
     ChMouth(4,3);
     ChMotion(4,0,1);

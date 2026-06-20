@@ -6,7 +6,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,5);
     ChMotion(3,5);
     VoicePlay("L040300006_03_000");
-    MsgDisp("Honda","Wawah!?");
+    MsgDisp("Honda","Wawah∋");
     MsgDisp("主人公","Huh?");
     ChEye(3,4);
     ChMouth(3,4);

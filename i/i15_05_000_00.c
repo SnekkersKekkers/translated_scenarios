@@ -112,7 +112,7 @@ suddenly came to my mind, and-");
     VoicePlay("I150500000_05_140");
     MsgDisp("Hiiragi","Haha, if you think about it, I suppose you
 were the thing I was searching for?");
-    MsgDisp("主人公","Huh!?");
+    MsgDisp("主人公","Huh∋");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I150500000_05_150");

@@ -18,7 +18,7 @@ Let's give up, okay?");
     VoicePlay("O030101000_01_000");
     MsgDisp("Kazama","There you are.
 Hurry, let's tie our legs together.");
-    MsgDisp("主人公","Huh, ｛Kazama＊＊｝!?");
+    MsgDisp("主人公","Huh, ｛Kazama＊＊｝∋");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);

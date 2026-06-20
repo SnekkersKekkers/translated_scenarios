@@ -13,7 +13,7 @@ ChEye(22,5);
 ChMouth(22,5);
 ChMotion(22,5,1);
 VoicePlay("L020D00006_22_010");
-MsgDisp("Hikaru","No way!?");
+MsgDisp("Hikaru","No way∋");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);

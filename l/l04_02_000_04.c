@@ -90,7 +90,7 @@ Thanks.");
     ChMotion(2,3);
     VoicePlay("L040200004_02_090");
     MsgDisp("Sassa","Today, I'll carry it around to show off.");
-    MsgDisp("主人公","What!?");
+    MsgDisp("主人公","What∋");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
