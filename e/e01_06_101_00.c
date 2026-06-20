@@ -71,8 +71,8 @@ ChOpen(6,255,0,0,0,#1,#1,0,0);
 VoicePlay("E010610100_06_080");
 MsgDisp("Himuro","My little brother returned home safely.
 Mom just contacted me.");
-MsgDisp("主人公","Eh, really?
-That's good!");
+MsgDisp("主人公","Eh, really∋
+That's good...!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

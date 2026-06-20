@@ -38,7 +38,7 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F112210001_22_040");
-MsgDisp("Hikaru","Hehe～ So Hikaru's very happy～");
+MsgDisp("Hikaru","Hehe▼ So Hikaru's very happy～♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);

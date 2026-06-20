@@ -38,7 +38,7 @@ Are you going home now?");
     ChMouth(22,3);
     ChMotion(22,4,1);
     VoicePlay("F012200007_22_030");
-    MsgDisp("Hikaru","That's right～
+    MsgDisp("Hikaru","That's right～♪
 Hey, hey, we should go together▼");
     break ;
     default :
@@ -86,7 +86,7 @@ switch (MsgSelRsltGet()){
         ChMouth(22,3);
         ChMotion(22,3,1);
         VoicePlay("F012200007_22_060");
-        MsgDisp("Hikaru","Oh, okay!
+        MsgDisp("Hikaru","Oh, okay♪
 Then let's take a detour▼");
         break ;
         case 4:

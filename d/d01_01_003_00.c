@@ -73,7 +73,7 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("D010100300_01_070");
 MsgDisp("Kazama","You're such a good detective on the lookout
-like that.
+like that∋
 I didn't do anything wrong, okay?");
 MsgDisp("主人公","It's not like that!");
 ChEye(1,2);

@@ -73,7 +73,7 @@ all though.");
     MsgDisp("Honda","What? Why are you apologising?
 This is no one's fault.");
     VoicePlay("J030301001_03_100");
-    MsgDisp("Honda","Okay, well, let's make plans again soon.
+    MsgDisp("Honda","Okay, well, let's make plans again soon∈
 That'll blow away these disappointed
 feelings!");
     MsgDisp("主人公","Hehe, yeah.");

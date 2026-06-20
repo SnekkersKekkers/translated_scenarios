@@ -43,7 +43,7 @@ Here's your present, ｛Sassa＊＊｝!");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("K010200100_02_030");
-    MsgDisp("Sassa","Really!?
+    MsgDisp("Sassa","Really∋
 I'm so happy, thank you!");
     MsgDisp("主人公","I hope you like it...");
     break ;

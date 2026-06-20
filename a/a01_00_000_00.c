@@ -177,7 +177,7 @@ ScrFadeOut(0,1);
 BGOpen("pr010",0);
 ScrFadeIn(0);
 VoicePlay("A010000000_01_190");
-MsgDisp("Ryota","Eh!? Well, maybe, I guess that's true...?
+MsgDisp("Ryota","Eh∋ Well, maybe, I guess that's true...?
 ...So, what did you wish for?");
 MsgDisp("主人公","That's... a secret.
 It's embarrassing.");

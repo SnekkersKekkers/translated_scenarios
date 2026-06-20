@@ -25,7 +25,7 @@ Here, a present.");
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("K010300100_03_010");
-    MsgDisp("Honda","Huh, you remembered!?
+    MsgDisp("Honda","Huh, you remembered∋
 Thank you!");
     ChSet(3,3);
     VoicePlay("K010300100_03_020");
