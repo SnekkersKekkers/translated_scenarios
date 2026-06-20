@@ -17,8 +17,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020620000_06_010");
-MsgDisp("Himuro","Let me say this first, I haven't sorted
-out my feelings either.");
+MsgDisp("Himuro","Let me say this first, I haven't sorted out
+my feelings either.");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -54,17 +54,17 @@ ChMouth(6,3);
 ChMotion(6,3);
 VoicePlay("T020620000_06_060");
 MsgDisp("Himuro","What's with that face?
-You're the only one who didn't notice
-until the very end.");
+You're the only one who didn't notice until
+the very end.");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("T020620000_06_070");
-MsgDisp("Himuro","But, I was drawn to that air-headed,
-crazy, and simple-minded side of you.");
+MsgDisp("Himuro","But, I was drawn to that air-headed, crazy,
+and simple-minded side of you.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020620000_06_080");
-MsgDisp("Himuro","...So even after you graduate, I want you
-to stay by my side like you always have.");
+MsgDisp("Himuro","...So even after you graduate, I want you to
+stay by my side like you always have.");

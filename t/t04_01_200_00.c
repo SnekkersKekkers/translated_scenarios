@@ -5,10 +5,10 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("T040120000_01_000");
-MsgDisp("Kazama","That's right, we all used to go to the
-school cafeteria together, right? Even
-though we didn't ask for it, that lady
-would give us extra large portions.");
+MsgDisp("Kazama","That's right, we all used to go to the school
+cafeteria together, right? Even though we
+didn't ask for it, that lady would give us
+extra large portions.");
 MsgClose();
 StlOpen("ev_01_26");
 BGMPlay("BGM_PROLOGUE",0.01);
@@ -22,11 +22,11 @@ VoicePlay("T040120000_01_010");
 MsgDisp("Kazama","The \"young master's meal\"?
 What's that?");
 VoicePlay("T040120000_02_000");
-MsgDisp("Sassa","...Huh? Is Inori the only one who didn't
-get any extras? Don't be sulky.");
+MsgDisp("Sassa","...Huh?
+Is Inori the only one who didn't get any
+extras? Don't be sulky.");
 VoicePlay("T040120000_06_010");
-MsgDisp("Himuro","Huh?
-Why me?
+MsgDisp("Himuro","Huh? Why me?
 I don't understand.");
 MsgDisp("主人公","｛Himuro＊＊｝ doesn't eat that much.
 ...right?");

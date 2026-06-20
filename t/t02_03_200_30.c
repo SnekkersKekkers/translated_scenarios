@@ -22,9 +22,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_390");
-MsgDisp("Honda","Ryo-kun and Mi-kun will get mad at me
-too. They'll be like \"what did you do to
-her?!\".");
+MsgDisp("Honda","Ryo-kun and Mi-kun will get mad at me too.
+They'll be like \"what did you do to her?!\".");
 MsgDisp("主人公","Ugh, I'm sorry...");
 ChEye(3,4);
 ChMouth(3,3);
@@ -35,23 +34,21 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_410");
-MsgDisp("Honda","I'm so glad I got to step out of the world
-of books and meet you, Ryo-kun, and
-Mi-kun.");
+MsgDisp("Honda","I'm so glad I got to step out of the world of
+books and meet you, Ryo-kun, and Mi-kun.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,4);
 ChMotion(3,4,1);
 VoicePlay("T020320000_03_420");
-MsgDisp("Honda","Meeting you has made me excited for my
-future.
+MsgDisp("Honda","Meeting you has made me excited for
+my future.
 Thank you so much.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,0,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020320000_03_430");
-MsgDisp("Honda","Huu...
-That's all!");
+MsgDisp("Honda","Huu... That's all!");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

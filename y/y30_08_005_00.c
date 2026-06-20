@@ -4,39 +4,36 @@ BGOpen("ad850",0);
 ScrFadeIn(0);
 MsgDisp("","I've gotten too accustomed to waitin'
 for her at the gates of Haba High.");
-MsgDisp("","I wonder why...my heart's beatin'
-fast.");
+MsgDisp("","I wonder why...my heart's beatin' fast.");
 MsgDisp("","Even the glances I get from people
-passin' by in different school
-uniforms have started to feel kind of
-fun!");
+passin' by in different school uniforms
+have started to feel kind of fun!");
 MsgClear();
 VoicePlay("Y300800500_48_000");
 MsgDisp("Girl A","\"That uniform, it's Hane School's
-right? I wonder if he has a
-girlfriend at Haba High?\"");
+right? I wonder if he has a girlfriend
+at Haba High?\"");
 VoicePlay("Y300800500_46_000");
-MsgDisp("Girl B","\"Isn't that amazing?
-For him to wait so proudly at the
-school gates, I'm a bit jealous...\"");
+MsgDisp("Girl B","\"Isn't that amazing? For him to wait so
+proudly at the school gates, I'm a bit
+jealous...\"");
 MsgDisp("","Hehe, it makes me feel kind of funny.");
 MsgClear();
 VoicePlay("Y300800500_41_020");
 MsgDisp("Student B","\"Maybe he's here challenging a club
 member somewhere for a duel?\"");
 VoicePlay("Y300800500_40_030");
-MsgDisp("Student A","\"Seriously?
-Well, the track team should be fine
-though.\"");
-MsgDisp("","...Hmm, now I'm curious.
-Is the track and field club at Haba
-High really that amazin'?");
+MsgDisp("Student A","\"Seriously? Well, the track team should
+be fine though.\"");
+MsgDisp("","...Hmm, now I'm curious. Is the track
+and field club at Haba High really that
+amazin'?");
 MsgClear();
-MsgDisp("","For a while, I just stood there by
-the gate, quietly enjoyin' all the
-whispers swirlin' around me.");
-MsgDisp("","But...she's late.
-Maybe, she already went home today∋");
+MsgDisp("","For a while, I just stood there by the
+gate, quietly enjoyin' all the whispers
+swirlin' around me.");
+MsgDisp("","But...she's late. Maybe, she already
+went home today∋");
 MsgDisp("","Feeling anxious, I looked restlessly
 around the entrance and the school
 buildin'.");
@@ -47,38 +44,36 @@ MsgDisp("VP Himuro","\"What are you doing here?\"");
 VoicePlay("Y300800500_08_000");
 MsgDisp("Daichi","\"Waa∈\"");
 MsgDisp("","A voice suddenly called out from
-right behind me — I nearly jumped
-out of my skin.");
-MsgDisp("","Whoa, this teacher is really tall...
-And the look in his eyes is kinda
-scary?");
+right behind me — I nearly jumped out
+of my skin.");
+MsgDisp("","Whoa, this teacher is really tall... And
+the look in his eyes is kinda scary?");
 MsgClear();
 VoicePlay("Y300800500_32_010");
-MsgDisp("VP Himuro","\"You're a student of Hanegasaki
-Academy. What business do you have at
-Habataki High School?\"");
+MsgDisp("VP Himuro","\"You're a student of Hanegasaki Academy.
+What business do you have at Habataki
+High School?\"");
 VoicePlay("Y300800500_08_010");
 MsgDisp("Daichi","\"Eh, um...\"");
 MsgDisp("","I was so intimidated by the tall,
-glasses-wearin' teacher I couldn't
-get my words out properly. With this,
-I must seriously look like a
-suspicious person...");
+glasses-wearin' teacher I couldn't get
+my words out properly. With this, I must
+seriously look like a suspicious
+person...");
 MsgClear();
 VoicePlay("Y300800500_08_020");
-MsgDisp("Daichi","\"I'm just waitin' for my friend.
-I'm not a shady person...\"");
+MsgDisp("Daichi","\"I'm just waitin' for my friend. I'm not
+a shady person...\"");
 BGOpen("ad852",0);
 MsgDisp("","When I said that, the teacher's eyes
-squinted slightly.
-I think he was smilin'.");
+squinted slightly. I think he was
+smilin'.");
 MsgClear();
 VoicePlay("Y300800500_32_020");
-MsgDisp("VP Himuro","\"I see...very well. But, if your
-friend continues to run late, you too
-should give up and go home.\"");
-MsgDisp("","\"Yes.\"
-I answered.");
+MsgDisp("VP Himuro","\"I see...very well. But, if your friend
+continues to run late, you too should
+give up and go home.\"");
+MsgDisp("","\"Yes.\" I answered.");
 MsgDisp("","What...he's actually a nice teacher!");
 MsgClear();
 BGOpen("ad850",0);
@@ -87,14 +82,12 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClear();
 MsgDisp("","As the crowd thinned out, I heard a
-familiar set of footsteps
-approachin'.");
-MsgDisp("主人公","\"｛Daichi＊＊｝, what are you doing
-here?\"");
+familiar set of footsteps approachin'.");
+MsgDisp("主人公","\"｛Daichi＊＊｝, what are you
+doing here?\"");
 VoicePlay("Y300800500_08_030");
-MsgDisp("Daichi","\"Figured it'd be real nice if I got
-to see ya, so I waited here.
-Heheh!\"");
+MsgDisp("Daichi","\"Figured it'd be real nice if I got to
+see ya, so I waited here. Heheh!\"");
 MsgDisp("","Alright, today we got to walk home
 together♪");
 BGMStop();

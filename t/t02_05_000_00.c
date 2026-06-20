@@ -16,8 +16,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("T020500000_05_010");
-MsgDisp("Hiiragi","I stubbornly believed that if I came here,
-I would meet you.
+MsgDisp("Hiiragi","I stubbornly believed that if I came here, I
+would meet you.
 ...It's a bad habit.");
 ChEyeOpenLevel(5,10);
 MsgDisp("主人公","Eh?");
@@ -38,8 +38,8 @@ ChMouth(5,0);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("T020500000_05_030");
-MsgDisp("Hiiragi","By that time, I think you already caught
-onto the fact it had fallen apart.");
+MsgDisp("Hiiragi","By that time, I think you already caught onto
+the fact it had fallen apart.");
 MsgDisp("主人公","Eh...?");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -55,18 +55,17 @@ ChMouth(5,0);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("T020500000_05_050");
-MsgDisp("Hiiragi","But simultaneously, my own academic
-ability was barely even adequate. As a
-Haba Student I also didn't possess a
-reason of being.");
+MsgDisp("Hiiragi","But simultaneously, my own academic ability
+was barely even adequate. As a Haba Student I
+also didn't possess a reason of being.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,4);
 ChMouth(5,0);
 VoicePlay("T020500000_05_060");
-MsgDisp("Hiiragi","To compensate for that disparity, even if
-it was just a little, I would actively
+MsgDisp("Hiiragi","To compensate for that disparity, even if it
+was just a little, I would actively
 participate in the student council...");
 MsgDisp("主人公","Is that so...
 I'm sorry I never noticed.");
@@ -78,15 +77,14 @@ ChMouth(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("T020500000_05_070");
 MsgDisp("Hiiragi","By taking on everything myself, I was
-unconsciously blaming you and those around
-me.");
+unconsciously blaming you and those
+around me.");
 ChEye(5,4);
 ChMouth(5,0);
 ChEyeOpenLevel(5,8);
 VoicePlay("T020500000_05_080");
-MsgDisp("Hiiragi","So much so that I began to drive the
-members of the Habataki Theatre Company
-into despair.");
+MsgDisp("Hiiragi","So much so that I began to drive the members
+of the Habataki Theatre Company into despair.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -95,9 +93,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020500000_05_090");
-MsgDisp("Hiiragi","But, you didn't give up on me, and little
-by little you pulled me back as I headed
-in the wrong direction.");
+MsgDisp("Hiiragi","But, you didn't give up on me, and little by
+little you pulled me back as I headed in the
+wrong direction.");
 ChEyeOpenLevel(5,0);
 VoicePlay("T020500000_05_100");
 MsgDisp("Hiiragi","Gently.
@@ -109,8 +107,8 @@ Wait(12,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020500000_05_110");
-MsgDisp("Hiiragi","...Since I was born, I have never once
-liked theatre.");
+MsgDisp("Hiiragi","...Since I was born, I have never once liked
+theatre.");
 MsgDisp("主人公","Eh?");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
@@ -146,8 +144,8 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("T020500000_05_150");
-MsgDisp("Hiiragi","And there's one more thing...that I've
-come to like.");
+MsgDisp("Hiiragi","And there's one more thing...that I've come
+to like.");
 Wait(60,0);
 ChMotion(5,0);
 Wait(16,0);
@@ -162,10 +160,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("T020500000_05_170");
-MsgDisp("Hiiragi","Right now, you are the compass that
-defines my actions. Wherever your smile
-is, is the direction in which I'm moving
-towards.");
+MsgDisp("Hiiragi","Right now, you are the compass that defines
+my actions. Wherever your smile is, is the
+direction in which I'm moving towards.");
 ChMotion(5,0,1);
 Wait(16,0);
 ChEye(5,4);

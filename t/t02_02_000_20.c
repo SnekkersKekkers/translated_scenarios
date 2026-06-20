@@ -11,8 +11,8 @@ ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("T020200020_02_000");
 MsgDisp("Sassa","Eh...");
-MsgDisp("主人公","I was also happy to have the opportunity
-to help ｛Sassa＊＊｝ achieve his dream.");
+MsgDisp("主人公","I was also happy to have the opportunity to
+help ｛Sassa＊＊｝ achieve his dream.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -20,20 +20,18 @@ ChCheek(2,0);
 VoicePlay("T020200020_02_010");
 MsgDisp("Sassa","You really feel that way, huh?
 I didn't force or drag you into it?");
-MsgDisp("主人公","Yes.
-So don't try to give up on your own.");
+MsgDisp("主人公","Yes. So don't try to give up on your own.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200020_02_020");
-MsgDisp("Sassa","...Yeah.
-I promise.");
+MsgDisp("Sassa","...Yeah. I promise.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020200020_02_030");
-MsgDisp("Sassa","Maybe it was already decided from the
-first day I ran alongside you...");
+MsgDisp("Sassa","Maybe it was already decided from the first
+day I ran alongside you...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

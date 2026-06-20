@@ -11,18 +11,16 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 BGMPlay("BGM_C01_RYOUTA_KOKU",0.01);
 ChOpen(1,254,0,0,3,#1,#1,0,0,0,120);
-MsgDisp("主人公","｛Kazama＊＊｝...!
-Why...");
+MsgDisp("主人公","｛Kazama＊＊｝...! Why...");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020101000_01_010");
-MsgDisp("Kazama","I hurriedly came to school from the
-airport. Then...I heard the bell ring.");
-MsgDisp("主人公","Eh∋
-Me too.");
+MsgDisp("Kazama","I hurriedly came to school from the airport.
+Then... I heard the bell ring.");
+MsgDisp("主人公","Eh∋ Me too.");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -48,18 +46,16 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("T020101000_01_050");
-MsgDisp("Kazama","I was supposed to train at my grandpa's
-shop for three years and then go back to
-England.");
+MsgDisp("Kazama","I was supposed to train at my grandpa's shop
+for three years and then go back to England.");
 MsgDisp("主人公","Eh...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020101000_01_060");
-MsgDisp("Kazama","But on the day of the entrance ceremony,
-when I saw your dazzling face on that
-hill, that promise was blown away in an
-instant.");
+MsgDisp("Kazama","But on the day of the entrance ceremony, when
+I saw your dazzling face on that hill, that
+promise was blown away in an instant.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -85,8 +81,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020101000_01_090");
 MsgDisp("Kazama","...Digging for sweet potatoes in
-kindergarten. A big smile stained with mud
-from that day.");
+kindergarten.
+A big smile stained with mud from that day.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -100,8 +96,8 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("T020101000_01_110");
-MsgDisp("Kazama","We were in this church, you were blowing
-on my pinwheel toy, with an intent look on
+MsgDisp("Kazama","We were in this church, you were blowing on
+my pinwheel toy, with an intent look on
 your face.");
 MsgDisp("主人公","......");
 ChEye(1,2);
@@ -109,8 +105,8 @@ ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020101000_01_120");
-MsgDisp("Kazama","Ever since that day, I've been deceiving
-my Dad and my Grandpa.");
+MsgDisp("Kazama","Ever since that day, I've been deceiving my
+Dad and my Grandpa.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -143,9 +139,9 @@ Wait(30);
 SEPlay("EV_SE_544");
 ChOpen(1,254,7,4,2,#1,#1,0,0);
 VoicePlay("T020101000_01_160");
-MsgDisp("Kazama","Since the day we met, and even in the time
-we spent apart and even when we reunited,
-I have loved you just the same.");
+MsgDisp("Kazama","Since the day we met, and even in the time we
+spent apart and even when we reunited, I have
+loved you just the same.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);

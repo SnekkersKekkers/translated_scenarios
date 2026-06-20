@@ -48,9 +48,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_060");
-MsgDisp("Hikaru","Both Hikaru and Big sis since we were
-born, we had no hardships and we've been
-able to live however we wanted.");
+MsgDisp("Hikaru","Both Hikaru and Big sis since we were born,
+we had no hardships and we've been able to
+live however we wanted.");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -62,8 +62,8 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("T022200000_22_080");
-MsgDisp("Hikaru","...Hikaru actually got bored when there
-were no hardships and it was all just happy.
+MsgDisp("Hikaru","...Hikaru actually got bored when there were
+no hardships and it was all just happy.
 Aha▼");
 ChEye(22,0);
 ChEyeOpenLevel(22,10);
@@ -72,9 +72,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_090");
-MsgDisp("Hikaru","Hikaru thought that even when she
-entered high school, she would just
-continue to go with the flow like this.");
+MsgDisp("Hikaru","Hikaru thought that even when she entered
+high school, she would just continue to go
+with the flow like this.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -88,8 +88,8 @@ ChMotion(22,0,1);
 VoicePlay("T022200000_22_110");
 MsgDisp("Hikaru","Really...thank you.");
 MsgDisp("主人公","｛ひかる＊｝...
-I'm also happy to have had so many
-memories with ｛ひかる＊｝.");
+I'm also happy to have had so many memories
+with ｛ひかる＊｝.");
 ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,2,1);
@@ -97,8 +97,7 @@ ChCheek(22,8);
 VoicePlay("T022200000_22_120");
 MsgDisp("Hikaru","Mari...
 Hikaru feels like she's going to cry...");
-MsgDisp("主人公","Hehe.
-Here's a handkerchief.");
+MsgDisp("主人公","Hehe. Here's a handkerchief.");
 ChEye(22,2);
 ChMouth(22,0);
 ChEyeOpenLevel(22,0);
@@ -110,24 +109,23 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_140");
-MsgDisp("Hikaru","Mari...
-Hikaru's so happy...!");
+MsgDisp("Hikaru","Mari... Hikaru's so happy...!");
 MsgDisp("主人公","｛ひかる＊｝...");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("T022200000_22_150");
-MsgDisp("Hikaru","Sorry for calling you \"Mari\"
-without permission when we first met.");
+MsgDisp("Hikaru","Sorry for calling you \"Mari\" without
+permission when we first met.");
 MsgDisp("主人公","Ah...that's right.
 Why was that?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_160");
-MsgDisp("Hikaru","Hikaru called you that because the image
-of cuteness and happiness suddenly came to
-mind when Hikaru saw you.");
+MsgDisp("Hikaru","Hikaru called you that because the image of
+cuteness and happiness suddenly came to mind
+when Hikaru saw you.");
 MsgDisp("主人公","I-I see.");
 ChEye(22,0);
 ChMouth(22,0);
@@ -143,8 +141,7 @@ ChMotion(22,5,1);
 ChEyeOpenLevel(22,0);
 ChCheek(22,10);
 VoicePlay("T022200000_22_180");
-MsgDisp("Hikaru","Yay♪
-Mari, I love you～▼");
+MsgDisp("Hikaru","Yay♪ Mari, I love you～▼");
 BGMStop(6);
 MsgClose();
 ScrFadeOut(0,1,120);

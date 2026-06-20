@@ -22,8 +22,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020111000_01_220");
 MsgDisp("Kazama","Thanks to this, I was able to see a little
-bit of my own work, not just my dad's or
-my grandpa's.");
+bit of my own work, not just my dad's or my
+grandpa's.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 ChMotion(1,0,1);
 Wait(12,0);

@@ -30,8 +30,7 @@ ChEye(5,3);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020500020_05_030");
-MsgDisp("Hiiragi","Yes.
-But, there's another step up.");
+MsgDisp("Hiiragi","Yes. But, there's another step up.");
 MsgDisp("主人公","Eh?");
 BGMStop(2.8);
 MsgClear();

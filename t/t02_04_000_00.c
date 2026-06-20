@@ -26,13 +26,13 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("T020400000_04_020");
 MsgDisp("Nanatsumori","...Hey.
-The fact that you're here makes me wonder
-if I can have a little bit of hope.");
+The fact that you're here makes me wonder if
+I can have a little bit of hope.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("T020400000_04_030");
-MsgDisp("Nanatsumori","If I can really believe in the legendary
-rumour.");
+MsgDisp("Nanatsumori","If I can really believe in the
+legendary rumour.");
 MsgDisp("主人公","Eh...");
 ChEye(4,4);
 ChMouth(4,4);
@@ -49,8 +49,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020400000_04_060");
-MsgDisp("Nanatsumori","Haha.
-I guess you just realised?");
+MsgDisp("Nanatsumori","Haha. I guess you just realised?");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2);
@@ -65,12 +64,12 @@ VoicePlay("T020400000_04_080");
 MsgDisp("Nanatsumori","From that day on, was when I truly fell in
 love with you.");
 VoicePlay("T020400000_04_090");
-MsgDisp("Nanatsumori","To be honest, when I first met you I
-thought you were a pain.");
+MsgDisp("Nanatsumori","To be honest, when I first met you I thought
+you were a pain.");
 ChMotion(4,2,1);
 VoicePlay("T020400000_04_100");
-MsgDisp("Nanatsumori","But...before I knew it, the tables had
-turned.
+MsgDisp("Nanatsumori","But...before I knew it, the tables
+had turned.
 The one who was causing trouble was me.");
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -85,8 +84,8 @@ MsgDisp("Nanatsumori","But, you were always getting closer to me
 with a smile on your face.
 Always, and always...");
 VoicePlay("T020400000_04_130");
-MsgDisp("Nanatsumori","Your kindness and warmth gradually
-dispelled the darkness in my heart.");
+MsgDisp("Nanatsumori","Your kindness and warmth gradually dispelled
+the darkness in my heart.");
 MsgClear();
 ChClose(4);
 ChCustomLayout(4,5,0,-2.8);
@@ -95,8 +94,8 @@ SEPlay("EV_SE_544");
 ChNanaType(0);
 ChOpen(4,40,0,4,4,#1,#1,0,0,0,120);
 VoicePlay("T020400000_04_140");
-MsgDisp("Nanatsumori","When I saw my hometown's
-Christmas lights last Christmas, I made a decision.");
+MsgDisp("Nanatsumori","When I saw my hometown's Christmas lights
+last Christmas, I made a decision.");
 VoicePlay("T020400000_04_150");
 MsgDisp("Nanatsumori","That I would tell you my feelings.
 Here, in this place.");

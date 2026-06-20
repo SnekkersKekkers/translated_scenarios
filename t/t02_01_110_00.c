@@ -8,8 +8,7 @@ SEPlay("EV_SE_872",0.5);
 Wait(49,0);
 ChOpen(1,254,0,2,2,8,#1,0,0);
 MsgDisp("主人公","｛Kazama＊＊｝∋
-The graduation ceremony is already
-over...?");
+The graduation ceremony is already over...?");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -47,24 +46,23 @@ ChEye(1,2);
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020111000_01_030");
-MsgDisp("Kazama","...Actually, I originally came here to
-give up on you.");
+MsgDisp("Kazama","...Actually, I originally came here to give
+up on you.");
 MsgDisp("主人公","Eh...?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("T020111000_01_040");
-MsgDisp("Kazama","I was supposed to train at my grandpa's
-shop for three years and then return to
-England.");
+MsgDisp("Kazama","I was supposed to train at my grandpa's shop
+for three years and then return to England.");
 ChEye(1,4);
 ChMouth(1,4);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020111000_01_050");
 MsgDisp("Kazama","But on the day of the entrance ceremony, I
-saw your dazzling face and that promise
-was blown away in an instant.");
+saw your dazzling face and that promise was
+blown away in an instant.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -80,15 +78,15 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020111000_01_070");
-MsgDisp("Kazama","And then, even after you left me to stand
-by someone else's side—");
+MsgDisp("Kazama","And then, even after you left me to stand by
+someone else's side—");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020111000_01_080");
-MsgDisp("Kazama","I felt like I was being reminded of the
-time we were suddenly separated by 9000
+MsgDisp("Kazama","I felt like I was being reminded of the time
+we were suddenly separated by 9000
 kilometres.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -97,8 +95,7 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020111000_01_090");
 MsgDisp("Kazama","And then I finally realised.
-If I give up on you, I'm not myself
-anymore.");
+If I give up on you, I'm not myself anymore.");
 MsgDisp("主人公","Eh...");
 ChEye(1,4);
 ChEyeOpenLevel(1,0);
@@ -116,8 +113,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020111000_01_110");
 MsgDisp("Kazama","...Digging for sweet potatoes in
-kindergarten. A big smile stained with mud
-from that day.");
+kindergarten.
+A big smile stained with mud from that day.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -131,8 +128,8 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("T020111000_01_130");
-MsgDisp("Kazama","In that church, you blew on my pinwheel
-toy, with an intent look on your face.");
+MsgDisp("Kazama","In that church, you blew on my pinwheel toy,
+with an intent look on your face.");
 Wait(60,0);
 ChEyeOpenLevel(1,0);
 Wait(12,0);

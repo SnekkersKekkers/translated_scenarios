@@ -12,8 +12,7 @@ ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 MsgDisp("Himuro","You alone changed me, without a doubt.");
-MsgDisp("主人公","Yes...
-I got it.");
+MsgDisp("主人公","Yes... I got it.");
 VoicePlay("T020600000_06_500");
 ChEye(6,0);
 ChMouth(6,0);

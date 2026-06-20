@@ -1,15 +1,14 @@
 MsgDisp("","It seems that ｛Honda＊＊｝ is attending a
-first-rate university and has already
-begun his research.");
+first-rate university and has already begun
+his research.");
 MsgClear();
 MsgDisp("","｛Honda＊＊｝'s research theme is people.
-It's amazing he's in a genome analysis
-lab even as a first-year student.");
-MsgDisp("","Although it's difficult research,
-｛Honda＊＊｝ explains it in a fascinating
-way that piques my interest. So when I
-told him I'd be happy to help out even if
-it was just a little, he said, \"You're the
-reason I get excited! Let me see!\" while
-getting closer to me.");
+It's amazing he's in a genome analysis lab
+even as a first-year student.");
+MsgDisp("","Although it's difficult research, ｛Honda＊＊｝
+explains it in a fascinating way that piques
+my interest. So when I told him I'd be happy
+to help out even if it was just a little, he
+said, \"You're the reason I get excited! Let
+me see!\" while getting closer to me.");
 MsgClear();

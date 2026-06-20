@@ -14,14 +14,12 @@ ChMotion(3,4,1);
 VoicePlay("T020311000_03_160");
 MsgDisp("Honda","Is that okay?
 I was expecting to be turned down...");
-MsgDisp("主人公","Huh?
-Why?");
+MsgDisp("主人公","Huh? Why?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020311000_03_170");
-MsgDisp("Honda","No.
-I see, I did it!");
+MsgDisp("Honda","No. I see, I did it!");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -36,8 +34,8 @@ Wait(120,0);
 StlOpen("ev_03_18");
 ScrFadeIn(0);
 VoicePlay("T020311000_03_190");
-MsgDisp("Honda","I found you, the one I love, from now on
-I'll always be by your side.");
+MsgDisp("Honda","I found you, the one I love, from now on I'll
+always be by your side.");
 VoicePlay("T020311000_03_200");
 MsgDisp("Honda","This is important, so I'll say it again
 and again.");

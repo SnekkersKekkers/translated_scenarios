@@ -11,8 +11,7 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
 ChCheek(6,10);
-MsgDisp("Himuro","Huh?
-What is that...");
+MsgDisp("Himuro","Huh? What is that...");
 VoicePlay("T020620000_06_190");
 ChEye(6,0);
 ChMouth(6,2);
@@ -30,9 +29,9 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChCheek(6,0);
-MsgDisp("Himuro","Seriously, being with you makes me feel
-all out of sorts...If those guys knew, I
-wonder how much teasing I'd get...");
+MsgDisp("Himuro","Seriously, being with you makes me feel all
+out of sorts... If those guys knew, I wonder
+how much teasing I'd get...");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020620000_06_220");
 ChEye(6,0);

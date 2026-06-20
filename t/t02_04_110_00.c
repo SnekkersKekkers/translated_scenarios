@@ -7,8 +7,7 @@ SEPlay("EV_SE_872",0.5);
 Wait(50,0);
 ChNanaType(0);
 ChOpen(4,254,0,4,0,#1,#1,0,0);
-MsgDisp("主人公","Eh...
-｛Nanatsumori＊｝∋");
+MsgDisp("主人公","Eh... ｛Nanatsumori＊｝∋");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("T020411000_04_010");
@@ -57,21 +56,21 @@ VoicePlay("T020411000_04_040");
 MsgDisp("Nanatsumori","......");
 ChMouthOpenLevel(4,#1);
 VoicePlay("T020411000_04_050");
-MsgDisp("Nanatsumori","I know it's unfair to bring you back here
-but...");
+MsgDisp("Nanatsumori","I know it's unfair to bring you back
+here but...");
 ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,2);
 VoicePlay("T020411000_04_060");
 MsgDisp("Nanatsumori","I can't stand it.
-Everything that's going to happen in that
-church.");
+Everything that's going to happen in
+that church.");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_070");
-MsgDisp("Nanatsumori","Even if it means twisting your fate, I
-can't give up.");
+MsgDisp("Nanatsumori","Even if it means twisting your fate, I can't
+give up.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,2);
 ChMouth(4,4);
@@ -99,9 +98,8 @@ MsgDisp("Nanatsumori","...I like you.");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("T020411000_04_110");
-MsgDisp("Nanatsumori","Even if it means using under-handed
-tactics, I don't want to hand you over to
-anyone.");
+MsgDisp("Nanatsumori","Even if it means using under-handed tactics,
+I don't want to hand you over to anyone.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,3,1);

@@ -35,8 +35,7 @@ Wait(16,0);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020500022_05_030");
-MsgDisp("Hiiragi","Yes.
-I get to be with you...
+MsgDisp("Hiiragi","Yes. I get to be with you...
 I couldn't be happier.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
@@ -46,8 +45,8 @@ ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 ChCheek(5,0);
 VoicePlay("T020500022_05_040");
-MsgDisp("Hiiragi","But, I can't just keep getting beaten by
-you—");
+MsgDisp("Hiiragi","But, I can't just keep getting beaten
+by you—");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

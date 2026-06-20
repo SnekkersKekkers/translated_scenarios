@@ -25,17 +25,17 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020401000_04_030");
-MsgDisp("Nanatsumori","The prince must overcome many challenges
-to be united with the princess. After
-that, they will pledge their love to each
-other once again.");
+MsgDisp("Nanatsumori","The prince must overcome many challenges to
+be united with the princess. After that,
+they will pledge their love to each other
+once again.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("T020401000_04_040");
 MsgDisp("Nanatsumori","But...
-I didn't overcome these trials for you
-like the prince in the legend.");
+I didn't overcome these trials for you like
+the prince in the legend.");
 ChEye(4,4);
 ChMouth(4,0);
 VoicePlay("T020401000_04_050");
@@ -50,8 +50,8 @@ MsgDisp("主人公","No, no.");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("T020401000_04_070");
-MsgDisp("Nanatsumori","Really...You were always so kind and
-always dealt with my selfish requests and
+MsgDisp("Nanatsumori","Really... You were always so kind and always
+dealt with my selfish requests and
 troublesome matters with a smile.");
 ChEye(4,4);
 ChMouth(4,3);

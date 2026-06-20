@@ -9,88 +9,82 @@ MsgClear();
 MsgDisp("主人公","\"Hehe, I'll be watching with a
 critical eye!\"");
 VoicePlay("Y300500500_33_000");
-MsgDisp("Troupe A","Yes, whether the chairman or I play
-the lead role, the ticket price is
-the same. We won't let the audience
-regret their decision!");
+MsgDisp("Troupe A","Yes, whether the chairman or I play the
+lead role, the ticket price is the same.
+We won't let the audience regret their
+decision!");
 VoicePlay("Y300500500_05_010");
 MsgDisp("Hiiragi","Yes.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("","Today's performance is Habataki
-Theatre company's new work.
-\"Habataki Castle: The Lord's Return\".");
-MsgDisp("","This play is performed with a double
-cast.");
+MsgDisp("","Today's performance is Habataki Theatre
+company's new work. \"Habataki Castle:
+The Lord's Return\".");
+MsgDisp("","This play is performed with a
+double cast.");
 MsgClear();
 BGOpen("ad551",0);
 BGMPlay("BGM_C05_HIIRAGI_KOKU",0.01);
 ScrFadeIn(0);
-MsgDisp("","It was just after the new year.
-She was the first to see the full
-dress rehearsal.");
-MsgDisp("","Just now, she said she would watch
-with a \"discerning eye\"...though at
-that time, she thought I wouldn't be
-performing and had a worried, sad,
-and indescribable expression on her
-face.");
+MsgDisp("","It was just after the new year. She was
+the first to see the full dress
+rehearsal.");
+MsgDisp("","Just now, she said she would watch with
+a \"discerning eye\"...though at that
+time, she thought I wouldn't be
+performing and had a worried, sad, and
+indescribable expression on her face.");
 MsgClear();
 MsgDisp("","Now that I think about it, I've seen
-that expression of hers many times
-over the three years at Habataki
-Academy.");
+that expression of hers many times over
+the three years at Habataki Academy.");
 VoicePlay("Y300500500_05_020");
-MsgDisp("Hiiragi","\"So I've only caused her worry...
-I won't cause her to have that sad
+MsgDisp("Hiiragi","\"So I've only caused her worry... I
+won't cause her to have that sad
 expression on her face anymore.\"");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ad550",0);
 ScrFadeIn(0);
-MsgDisp("","From our graduation to today's
-opening night, I've been busy to a
-dizzying extent. But at the same
-time, I've been happy.");
-MsgDisp("","The theatre company members who
-looked in the same direction and
-pushed each other to improve.
-The support of the people of
-Habataki City.");
+MsgDisp("","From our graduation to today's opening
+night, I've been busy to a dizzying
+extent. But at the same time, I've
+been happy.");
+MsgDisp("","The theatre company members who looked
+in the same direction and pushed each
+other to improve. The support of the
+people of Habataki City.");
 MsgClear();
 MsgDisp("","And her.");
-MsgDisp("","She supported me with everything.
-Even though her new life was
-difficult, she stayed close to me,
-with her warm, lovely smile.");
+MsgDisp("","She supported me with everything. Even
+though her new life was difficult, she
+stayed close to me, with her warm,
+lovely smile.");
 MsgClear();
 MsgDisp("","Today, for the opening performance, I
-placed a single purple rose on each
-of the guest seats as a token of
-gratitude.");
-MsgDisp("","Gratitude for the guests.
-Love and respect for her.");
+placed a single purple rose on each of
+the guest seats as a token of gratitude.");
+MsgDisp("","Gratitude for the guests. Love and
+respect for her.");
 VoicePlay("Y300500500_43_010");
-MsgDisp("Troupe B","\"It's opening tiiime.
-The guests are coming in.\"");
+MsgDisp("Troupe B","\"It's opening tiiime. The guests are
+coming in.\"");
 MsgClear();
 VoicePlay("Y300500500_05_030");
 MsgDisp("Hiiragi","\"To the guests in attendance, I
 apologise.\"");
 MsgDisp("","\"Even now, on the eve of our first
-performance, my thoughts keep
-turning to her.\"");
+performance, my thoughts keep turning
+to her.\"");
 MsgClear();
 MsgDisp("","On stage, I will carefully become the
-lord of Habataki Castle, but...I
-don't think I can completely set
-aside the feelings I have for her
-within my heart.");
-MsgDisp("","Though I carry these feelings with
-me, I will perform with everything I
-have.");
+lord of Habataki Castle, but...I don't
+think I can completely set aside the
+feelings I have for her within my heart.");
+MsgDisp("","Though I carry these feelings with me, I
+will perform with everything I have.");
 MsgDisp("","Please forgive me.");
 MsgClear();
 MsgClose();

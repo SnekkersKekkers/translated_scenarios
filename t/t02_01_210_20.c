@@ -27,16 +27,16 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020121000_01_220");
 MsgDisp("Kazama","That's right.
-It's thanks to everyone's help that my
-wish came true.");
+It's thanks to everyone's help that my wish
+came true.");
 MsgDisp("主人公","The pinwheel wish...");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("T020121000_01_240");
-MsgDisp("Kazama","May we always be happy and healthy, and
-may we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and may
+we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020121000_01_250");
@@ -54,16 +54,16 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("T020121000_01_270");
-MsgDisp("Kazama","...Ah, that's right. This. It looks
-similar to your hair accessory doesn't it?");
+MsgDisp("Kazama","...Ah, that's right. This.
+It looks similar to your hair accessory
+doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020121000_01_280");
-MsgDisp("Kazama","I found and bought it when I was in
-England.");
+MsgDisp("Kazama","I found and bought it when I was in England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020121000_01_290");
-MsgDisp("Kazama","—I promised to definitely give it to
-you one day.");
+MsgDisp("Kazama","—I promised to definitely give it to you
+one day.");
 MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);

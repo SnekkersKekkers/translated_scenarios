@@ -20,8 +20,7 @@ SEPlay("EV_SE_597",0.5,0.2);
 Wait(70,0);
 SEPlay("EV_SE_795",0.2,0.25);
 Wait(100,0);
-MsgDisp("主人公","(...Eh∋
-Now...)");
+MsgDisp("主人公","(...Eh∋ Now...)");
 Wait(100,0);
 SEStop("EV_SE_795",2.8);
 MsgDisp("主人公","(Church bells...)");
@@ -31,8 +30,7 @@ I heard it again!");
 MsgDisp("主人公","(Ehh∈ ｛Kazama＊＊｝?)");
 VoicePlay("T010000100_01_010");
 MsgDisp("Ryota","Over here!
-I think I heard it over here!
-Come!");
+I think I heard it over here! Come!");
 SEPlay("EV_SE_FOOT_008",0,0.1);
 Wait(5,0);
 SEPlay("EV_SE_688",0,0.1);

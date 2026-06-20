@@ -2,8 +2,7 @@ ChEye(7,5);
 ChMouth(7,1);
 ChMotion(7,5,1);
 VoicePlay("T020720022_07_000");
-MsgDisp("Mikage","Oi-∋
-W-What's wrong?");
+MsgDisp("Mikage","Oi-∋ W-What's wrong?");
 MsgDisp("主人公","I also like ｛Mikage＊＊｝.
 Did you...receive my feelings?");
 ChEye(7,2);
@@ -13,8 +12,7 @@ ChCheek(7,6);
 VoicePlay("T020720022_07_010");
 MsgDisp("Mikage","Yes, I received them.
 Thank you.");
-MsgDisp("主人公","Hehe.
-Were you surprised?");
+MsgDisp("主人公","Hehe. Were you surprised?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
@@ -22,8 +20,7 @@ ChCheek(7,0);
 VoicePlay("T020720022_07_020");
 MsgDisp("Mikage","What's that?
 Haha, that'll be hard to tell them.");
-MsgDisp("主人公","Eh∋
-You...don't need to tell them.");
+MsgDisp("主人公","Eh∋ You...don't need to tell them.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -37,14 +34,12 @@ ChMotion(7,1);
 VoicePlay("T020720022_07_040");
 MsgDisp("Mikage","It means I'm not just one-sidedly
 surrendering anymore, you know?");
-MsgDisp("主人公","Yes.
-I got it.");
+MsgDisp("主人公","Yes. I got it.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("T020720022_07_050");
-MsgDisp("Mikage","Huh?
-Where did my Miss Diligent go...?");
+MsgDisp("Mikage","Huh? Where did my Miss Diligent go...?");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

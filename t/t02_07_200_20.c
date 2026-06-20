@@ -11,8 +11,7 @@ ChMouth(7,3);
 ChMotion(7,0);
 ChCheek(7,0);
 VoicePlay("T020720020_07_010");
-MsgDisp("Mikage","Yes.
-I have to thank them too.");
+MsgDisp("Mikage","Yes. I have to thank them too.");
 MsgDisp("主人公","Hehe, that's right isn't it?");
 ChEye(7,0);
 ChMouth(7,3);

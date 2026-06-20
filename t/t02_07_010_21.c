@@ -17,8 +17,8 @@ ChMouth(7,3);
 ChMotion(7,2);
 ChCheek(7,6);
 VoicePlay("T020701022_07_020");
-MsgDisp("Mikage","Yeah, just now your feelings were pretty
-clear.");
+MsgDisp("Mikage","Yeah, just now your feelings were
+pretty clear.");
 ChEye(7,0);
 VoicePlay("T020701022_07_030");
 MsgDisp("Mikage","Thank you my precious Miss Diligent.");

@@ -21,9 +21,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 MsgDisp("Himuro","I thought I'd never see you again.
 That this was the last time.");
-MsgDisp("主人公","No.
-Let's stay together forever from now on,
-okay?");
+MsgDisp("主人公","No. Let's stay together forever from now
+on, okay?");
 VoicePlay("T020611000_06_140");
 ChEye(6,4);
 ChMouth(6,3);

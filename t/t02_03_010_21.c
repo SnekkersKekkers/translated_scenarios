@@ -7,8 +7,7 @@ ChMotion(3,0,1);
 ChCheek(3,10);
 VoicePlay("T020301000_03_200");
 MsgDisp("Honda","...Just now...
-It was soft and, I could smell
-you...and—");
+It was soft and, I could smell you...and—");
 MsgDisp("主人公","Don't say any more now...");
 ChEye(3,2);
 ChMouth(3,0);
@@ -21,14 +20,12 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("T020301000_03_220");
 MsgDisp("Honda","But this means it's OK, right?");
-MsgDisp("主人公","Yeah.
-I want to be with you forever.");
+MsgDisp("主人公","Yeah. I want to be with you forever.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("T020301000_03_230");
-MsgDisp("Honda","Yay!
-Now, let's do that again.");
+MsgDisp("Honda","Yay! Now, let's do that again.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

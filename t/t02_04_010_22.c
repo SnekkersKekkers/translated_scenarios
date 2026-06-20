@@ -5,8 +5,7 @@ ChMouth(4,1);
 ChMotion(4,5);
 ChCheek(4,10);
 VoicePlay("T020401000_04_260");
-MsgDisp("Nanatsumori","Wai-...
-Oi!");
+MsgDisp("Nanatsumori","Wai-... Oi!");
 MsgDisp("主人公","I've always liked ｛Nanatsumori＊｝ too.");
 ChEye(4,4);
 ChMouth(4,4);
@@ -20,15 +19,15 @@ ChMotion(4,0,1);
 ChMouthOpenLevel(4,#1);
 VoicePlay("T020401000_04_280");
 MsgDisp("Nanatsumori","Ah, I see...
-You say cute things And your actions are
-bold...");
+You say cute things And your actions
+are bold...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 ChCheek(4,0);
 VoicePlay("T020401000_04_290");
-MsgDisp("Nanatsumori","Wouldn't it have been better if you had
-been the one to confess, instead of me?");
+MsgDisp("Nanatsumori","Wouldn't it have been better if you had been
+the one to confess, instead of me?");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);
 ChMouth(4,3);

@@ -41,8 +41,8 @@ ChMouth(6,3);
 ChMotion(6,3);
 ChEyeOpenLevel(6,8);
 MsgDisp("Himuro","...They do seem very calm.
-But you never know, it could catch them
-off guard if they're like that.");
+But you never know, it could catch them off
+guard if they're like that.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

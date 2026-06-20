@@ -17,8 +17,7 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,5);
 VoicePlay("T020501022_05_010");
-MsgDisp("Hiiragi","That's a typical response from you, isn't
-it?");
+MsgDisp("Hiiragi","That's a typical response from you, isn't it?");
 MsgDisp("主人公","Is it?");
 ChEyeOpenLevel(5,9);
 VoicePlay("T020501022_05_020");
@@ -43,8 +42,8 @@ Wait(120,0);
 StlOpen("ev_05_17");
 ScrFadeIn(0);
 VoicePlay("T020501022_05_040");
-MsgDisp("Hiiragi","From now on, I will be sure to return the
-favour.");
+MsgDisp("Hiiragi","From now on, I will be sure to return
+the favour.");
 MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);

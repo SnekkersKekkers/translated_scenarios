@@ -5,8 +5,7 @@ ChMouth(3,4);
 ChEyeOpenLevel(3,0);
 ChCheek(3,10);
 VoicePlay("T020320000_03_160");
-MsgDisp("Honda","...Sigh, ...
-I'm happy.
+MsgDisp("Honda","...Sigh, ... I'm happy.
 I wonder what this feeling is...");
 MsgDisp("主人公","I'm happy too.
 ｛Honda＊＊｝, thank you for finding me.");
@@ -35,9 +34,9 @@ Wait(120,0);
 StlOpen("ev_03_17");
 ScrFadeIn(0);
 VoicePlay("T020320000_03_200");
-MsgDisp("Honda","I've experienced a lot of different
-emotions, but this might be the first time
-I've felt something like this.");
+MsgDisp("Honda","I've experienced a lot of different emotions,
+but this might be the first time I've felt
+something like this.");
 VoicePlay("T020320000_03_210");
 MsgDisp("Honda","But we still have a long way to go.
 I'll teach you a lot more.");

@@ -18,8 +18,8 @@ ChEye(6,0);
 ChMouth(6,0);
 VoicePlay("T020601000_06_020");
 MsgDisp("Himuro","To be honest, I was worried.
-What would I do if you graduated without
-me seeing you again?");
+What would I do if you graduated without me
+seeing you again?");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -37,29 +37,28 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_050");
 MsgDisp("Himuro","At first, I was very frustrated.
-Things weren't going as I expected, and I
-had no time to spare...");
+Things weren't going as I expected, and I had
+no time to spare...");
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_060");
-MsgDisp("Himuro","And that's when I first realised how
-painful it is to chase after someone.");
+MsgDisp("Himuro","And that's when I first realised how painful
+it is to chase after someone.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020601000_06_070");
-MsgDisp("Himuro","To be honest, I was desperate. Even though
-we met many times, I would always just
-promise myself I would do it next time.");
+MsgDisp("Himuro","To be honest, I was desperate.
+Even though we met many times, I would always
+just promise myself I would do it next time.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020601000_06_080");
 MsgDisp("Himuro","Thinking about it now...
-I think, even back then I was charmed by
-you.");
+I think, even back then I was charmed by you.");
 MsgDisp("主人公","Me...?");
 MsgClear();
 ChClose(6);
@@ -68,15 +67,13 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(6,254,7,4,0,#1,#1,0,0,0,120);
 VoicePlay("T020601000_06_090");
-MsgDisp("Himuro","Yes.
-I've always liked you.");
+MsgDisp("Himuro","Yes. I've always liked you.");
 MsgDisp("主人公","!");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020601000_06_100");
-MsgDisp("Himuro","Sigh...
-Why did you have to be my senior?");
+MsgDisp("Himuro","Sigh... Why did you have to be my senior?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);

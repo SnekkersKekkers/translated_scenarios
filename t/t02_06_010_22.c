@@ -5,8 +5,7 @@ ChMouth(6,1);
 ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("T020601000_06_250");
-MsgDisp("Himuro","Ha∋
-Wait...!");
+MsgDisp("Himuro","Ha∋ Wait...!");
 MsgDisp("主人公","Do you get it now?
 I also like ｛Himuro＊＊｝!");
 VoicePlay("T020601000_06_260");

@@ -15,17 +15,14 @@ MsgDisp("Nanatsumori","I wanted that answer.
 ...Thank you.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020400000_04_200");
-MsgDisp("Nanatsumori","I've moved on from being an ambiguous
-person. From now on, I want to cherish you
-as a man.");
-MsgDisp("主人公","Thank you.
-I too...");
+MsgDisp("Nanatsumori","I've moved on from being an ambiguous person.
+From now on, I want to cherish you as a man.");
+MsgDisp("主人公","Thank you. I too...");
 ChMouth(4,0);
 ChMotion(4,1,1);
 ChCheek(4,0);
 VoicePlay("T020400000_04_210");
-MsgDisp("Nanatsumori","Wait.
-If we make a vow here...");
+MsgDisp("Nanatsumori","Wait. If we make a vow here...");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);
@@ -34,8 +31,8 @@ Wait(120,0);
 StlOpen("ev_04_17");
 ScrFadeIn(0);
 VoicePlay("T020400000_04_220");
-MsgDisp("Nanatsumori","I, Nanatsumori Minoru promise to love you
-for the rest of my life.");
+MsgDisp("Nanatsumori","I, Nanatsumori Minoru promise to love you for
+the rest of my life.");
 VoiceEVSPlay(4);
 VoicePlay("T020400000_04_230");
 MsgDisp("Nanatsumori","｛主人公｝, I love you.");

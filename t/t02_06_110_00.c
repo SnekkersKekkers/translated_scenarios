@@ -5,8 +5,7 @@ MsgDisp("Himuro?","Wait.");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(6,254,0,0,1,#1,#1,0,0);
-MsgDisp("主人公","Eh...
-｛Himuro＊＊｝?");
+MsgDisp("主人公","Eh... ｛Himuro＊＊｝?");
 ChEye(6,4);
 ChMouth(6,1);
 ChMotion(6,0);
@@ -63,16 +62,15 @@ ChMouth(6,4);
 ChEyeOpenLevel(6,7);
 VoicePlay("T020611000_06_060");
 MsgDisp("Himuro","I feel so stupid.
-Doing something like this wouldn't change
-the outcome.");
+Doing something like this wouldn't change the
+outcome.");
 Wait(60,0);
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020611000_06_070");
-MsgDisp("Himuro","But...
-I can't give up.
+MsgDisp("Himuro","But... I can't give up.
 Because of all the time we spent together.");
 MsgClear();
 ChClose(6);
@@ -89,8 +87,8 @@ ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020611000_06_090");
-MsgDisp("Himuro","No matter how childish or cowardly it is,
-I need you.");
+MsgDisp("Himuro","No matter how childish or cowardly it is, I
+need you.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);

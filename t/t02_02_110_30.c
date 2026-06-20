@@ -10,8 +10,7 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211030_02_000");
-MsgDisp("Sassa","I see...
-I'm the one who should apologise.
+MsgDisp("Sassa","I see... I'm the one who should apologise.
 I have nothing but gratitude for you.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 BGMPlay("BGM_C02_SASSA_C",0.01);
@@ -21,23 +20,21 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020211030_02_010");
-MsgDisp("Sassa","Thanks to you, I was able to become
-friends with everyone in the track and
-field club.");
+MsgDisp("Sassa","Thanks to you, I was able to become friends
+with everyone in the track and field club.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211030_02_020");
-MsgDisp("Sassa","Finally, I can start working towards my
-dream.");
+MsgDisp("Sassa","Finally, I can start working towards
+my dream.");
 MsgDisp("主人公","......");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020211030_02_030");
 MsgDisp("Sassa","I can't run with you, but...it's okay.
-I'm not just a track and field idiot
-anymore.");
+I'm not just a track and field idiot anymore.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,3);

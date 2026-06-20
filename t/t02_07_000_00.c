@@ -33,19 +33,19 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("T020700000_07_040");
-MsgDisp("Mikage","Is that so? Thank you. And lastly, could
-you let me attend my graduation ceremony
-too?");
+MsgDisp("Mikage","Is that so?
+Thank you. And lastly, could you let me
+attend my graduation ceremony too?");
 MsgDisp("主人公","｛Mikage＊＊｝'s graduation ceremony?
-Are you resigning as a teacher from Haba
-High?");
+Are you resigning as a teacher from
+Haba High?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020700000_07_050");
-MsgDisp("Mikage","Yes, the space of memories that was
-supposed to be empty is now full.
+MsgDisp("Mikage","Yes, the space of memories that was supposed
+to be empty is now full.
 Thanks to you.");
 MsgDisp("主人公","Me...?");
 ChEye(7,0);
@@ -53,24 +53,22 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020700000_07_060");
 MsgDisp("Mikage","Yes, you've buried all of my excuses for
-running away from the family business. So
-I guess I'll just have to graduate and go
-home.");
+running away from the family business. So I
+guess I'll just have to graduate and go home.");
 MsgDisp("主人公","Will you work on the farm?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020700000_07_070");
-MsgDisp("Mikage","Yes.
-Molly-chan and the others are waiting.");
+MsgDisp("Mikage","Yes. Molly-chan and the others are waiting.");
 MsgDisp("主人公","Molly and her baby...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("T020700000_07_080");
-MsgDisp("Mikage","Yeah, we celebrated the birth together in
-the science prep room, didn't we?");
+MsgDisp("Mikage","Yeah, we celebrated the birth together in the
+science prep room, didn't we?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
@@ -90,8 +88,7 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020700000_07_110");
 MsgDisp("Mikage","Even up to Nagasaki.");
-MsgDisp("主人公","Yes.
-I got the \"MVP\" award!");
+MsgDisp("主人公","Yes. I got the \"MVP\" award!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -106,8 +103,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020700000_07_130");
-MsgDisp("Mikage","On the night of the christmas party, I
-became sure of my own feelings.");
+MsgDisp("Mikage","On the night of the christmas party, I became
+sure of my own feelings.");
 MsgDisp("主人公","｛Mikage＊＊｝'s ...feelings?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -133,8 +130,8 @@ ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020700000_07_160");
-MsgDisp("Mikage","What filled my void wasn't memories, but
-the feeling of loving you.");
+MsgDisp("Mikage","What filled my void wasn't memories, but the
+feeling of loving you.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);

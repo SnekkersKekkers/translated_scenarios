@@ -1,7 +1,6 @@
 ChEye(4,4);
 ChMouth(4,4);
-MsgDisp("主人公","Yes...!
-I also like ｛Nanatsumori＊｝.");
+MsgDisp("主人公","Yes...! I also like ｛Nanatsumori＊｝.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -14,8 +13,8 @@ ChMotion(4,1,1);
 ChCheek(4,0);
 VoicePlay("T020401000_04_140");
 MsgDisp("Nanatsumori","Phew...
-That was probably the most nervous I've
-ever been in my life.");
+That was probably the most nervous I've ever
+been in my life.");
 MsgDisp("主人公","Hehe.");
 ChEye(4,4);
 ChMouth(4,3);
@@ -27,15 +26,13 @@ into happiness.");
 ChMotion(4,2,1);
 ChEyeOpenLevel(4,0);
 VoicePlay("T020401000_04_160");
-MsgDisp("Nanatsumori","Ah, if I get any happier, I might break
-down.");
+MsgDisp("Nanatsumori","Ah, if I get any happier, I might break down.");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 ChEyeOpenLevel(4,10);
 VoicePlay("T020401000_04_170");
-MsgDisp("Nanatsumori","Hmm...
-I see.
+MsgDisp("Nanatsumori","Hmm... I see.
 I don't have to hold back anymore.");
 ChEye(4,0);
 ChMouth(4,3);

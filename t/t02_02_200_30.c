@@ -5,14 +5,12 @@ BGMStop();
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
-MsgDisp("主人公","I'm sorry.
-I...");
+MsgDisp("主人公","I'm sorry. I...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220030_02_000");
-MsgDisp("Sassa","I see...
-Don't apologise.");
+MsgDisp("Sassa","I see... Don't apologise.");
 BGMPlay("BGM_C02_SASSA_C",0.01);
 ChEye(2,2);
 ChMouth(2,4);
@@ -30,16 +28,17 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220030_02_030");
-MsgDisp("Sassa","I can't run with you, but...It's okay. I'm
-not just a track and field fanatic
-anymore.");
+MsgDisp("Sassa","I can't run with you, but...
+It's okay. I'm not just a track and field
+fanatic anymore.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("T020220030_02_040");
-MsgDisp("Sassa","It would make me happy if you watched me
-run sometime. Phew...See you then.");
+MsgDisp("Sassa","It would make me happy if you watched me run
+sometime.
+Phew... See you then.");
 ChEye(2,4);
 BGMStop(3.6);
 MsgClose();

@@ -9,13 +9,12 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("T020300030_03_000");
 MsgDisp("Honda","It's not sudden for me.
-Outside of my family, you're the only
-person who has changed me.");
+Outside of my family, you're the only person
+who has changed me.");
 ChEye(3,4);
 ChMouth(3,4);
 VoicePlay("T020300030_03_010");
-MsgDisp("Honda","If I hadn't met you, I wouldn't be here
-now.");
+MsgDisp("Honda","If I hadn't met you, I wouldn't be here now.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);

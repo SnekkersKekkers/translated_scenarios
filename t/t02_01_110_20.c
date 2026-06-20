@@ -19,8 +19,8 @@ ChEyeOpenLevel(1,8);
 ChCheek(1,0);
 VoicePlay("T020111000_01_170");
 MsgDisp("Kazama","I was the one who was cowardly.
-I lied to myself, and most of all, I was
-rude to you.");
+I lied to myself, and most of all, I was rude
+to you.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

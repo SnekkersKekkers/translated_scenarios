@@ -4,8 +4,7 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020720030_07_000");
-MsgDisp("Mikage","I see.
-I'm sorry for making you apologise.");
+MsgDisp("Mikage","I see. I'm sorry for making you apologise.");
 BGMPlay("BGM_C07_MIKAGE_B",0.01);
 ChEye(7,2);
 ChMouth(7,0);
@@ -24,8 +23,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 ChCheek(7,3);
 VoicePlay("T020720030_07_030");
-MsgDisp("Mikage","Thanks to you, I could move on from Haba
-High.
+MsgDisp("Mikage","Thanks to you, I could move on from
+Haba High.
 Thank you.");
 MsgDisp("主人公","Me too, I was very happy in the last three
 years I spent with ｛Mikage＊＊｝.");
@@ -33,14 +32,12 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("T020720030_07_040");
-MsgDisp("Mikage","Don't make me cry, my precious Miss
-Diligent.");
+MsgDisp("Mikage","Don't make me cry, my precious Miss Diligent.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("T020720030_07_050");
-MsgDisp("Mikage","...Thank you for filling that void within
-me.");
+MsgDisp("Mikage","...Thank you for filling that void within me.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

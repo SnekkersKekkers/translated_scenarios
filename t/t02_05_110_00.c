@@ -42,8 +42,8 @@ ChMouth(5,0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("T020511000_05_030");
-MsgDisp("Hiiragi","I should have done this as soon as you
-left me and went to someone else.");
+MsgDisp("Hiiragi","I should have done this as soon as you left
+me and went to someone else.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 Wait(40,0);
 ChMotion(5,0);
@@ -53,9 +53,9 @@ ChEye(5,4);
 ChMouth(5,0);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_040");
-MsgDisp("Hiiragi","...I was able to enter the school thanks
-to Habataki City, my father, the chairman
-of the board, and many other people.");
+MsgDisp("Hiiragi","...I was able to enter the school thanks to
+Habataki City, my father, the chairman of the
+board, and many other people.");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -64,9 +64,9 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_050");
 MsgDisp("Hiiragi","But, I could graduate thanks to you.");
-MsgDisp("主人公","That...That's because ｛Hiiragi＊＊＊｝ worked
-really hard both at the theatre company
-and at his school life.");
+MsgDisp("主人公","That... That's because ｛Hiiragi＊＊＊｝ worked
+really hard both at the theatre company and
+at his school life.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -75,18 +75,17 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("T020511000_05_060");
 MsgDisp("Hiiragi","No, I didn't attend elementary or middle
-school properly, so I couldn't even
-graduate, let alone advance to the next
-grade.");
+school properly, so I couldn't even graduate,
+let alone advance to the next grade.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("T020511000_05_070");
-MsgDisp("Hiiragi","Every day I felt ashamed of myself for
-being a worthless student.");
+MsgDisp("Hiiragi","Every day I felt ashamed of myself for being
+a worthless student.");
 MsgDisp("主人公","No. I think everyone is grateful that you
 worked so hard at the student council even
-though being the head of the theatre
-company is tough.");
+though being the head of the theatre company
+is tough.");
 ChMotion(5,2);
 Wait(12,0);
 ChEyeOpenLevel(5,9);
@@ -102,10 +101,9 @@ MsgDisp("Hiiragi","I can't manage my studies.
 This is just a means of escape for me.");
 ChMouth(5,0);
 VoicePlay("T020511000_05_100");
-MsgDisp("Hiiragi","To atone at the very least, the only thing
-I could do to keep myself together was to
-participate in student council
-activities...");
+MsgDisp("Hiiragi","To atone at the very least, the only thing I
+could do to keep myself together was to
+participate in student council activities...");
 MsgDisp("主人公","......");
 ChEye(5,2);
 ChMouth(5,4);
@@ -125,9 +123,8 @@ Wait(16,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020511000_05_130");
-MsgDisp("Hiiragi","I was really happy when you started
-talking to me and laughed together with
-me.");
+MsgDisp("Hiiragi","I was really happy when you started talking
+to me and laughed together with me.");
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,2);
@@ -146,8 +143,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("T020511000_05_150");
 MsgDisp("Hiiragi","But when you went to be with someone else
-other than me, I tried to pretend I didn't
-notice.");
+other than me, I tried to pretend I
+didn't notice.");
 ChEye(5,4);
 ChMouth(5,0);
 ChEyeOpenLevel(5,0);
@@ -164,9 +161,9 @@ ChEye(5,4);
 ChMouth(5,3);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_180");
-MsgDisp("Hiiragi","If you're smiling...If the one I love;
-you, are smiling, then nothing is wrong.
-It's alright.");
+MsgDisp("Hiiragi","If you're smiling...
+If the one I love; you, are smiling, then
+nothing is wrong. It's alright.");
 MsgDisp("主人公","...!");
 Wait(60,0);
 ChEyeOpenLevel(5,0);
@@ -176,8 +173,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,10);
 VoicePlay("T020511000_05_190");
-MsgDisp("Hiiragi","You were my only light as I struggled
-blindly through school and theatre.");
+MsgDisp("Hiiragi","You were my only light as I struggled blindly
+through school and theatre.");
 MsgClear();
 ChClose(5);
 ChCustomLayout(5,5,0,-2.6);

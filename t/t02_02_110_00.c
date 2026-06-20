@@ -6,8 +6,7 @@ MsgDisp("Sassa?","｛主人公｝, wait.");
 SEPlay("EV_SE_872",0.5);
 Wait(46,0);
 ChOpen(2,254,7,4,0,#1,#1,0,0);
-MsgDisp("主人公","Eh...
-｛Sassa＊＊｝?");
+MsgDisp("主人公","Eh... ｛Sassa＊＊｝?");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -71,15 +70,15 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020211000_02_070");
-MsgDisp("Sassa","But then when I entered high school, I was
-no longer able to win all the events in
-the octathlon.");
+MsgDisp("Sassa","But then when I entered high school, I was no
+longer able to win all the events in the
+octathlon.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020211000_02_080");
-MsgDisp("Sassa","It's not a matter of winning or losing in
-one event, but the total number of points.");
+MsgDisp("Sassa","It's not a matter of winning or losing in one
+event, but the total number of points.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -92,15 +91,15 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020211000_02_100");
-MsgDisp("Sassa","...But outside of athletics, I'm having
-fun and laughing with my friends...");
+MsgDisp("Sassa","...But outside of athletics, I'm having fun
+and laughing with my friends...");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020211000_02_110");
-MsgDisp("Sassa","I was beginning to lose track of which
-side was the true me.");
+MsgDisp("Sassa","I was beginning to lose track of which side
+was the true me.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,4);
 ChMouth(2,0);
@@ -124,16 +123,16 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211000_02_150");
-MsgDisp("Sassa","The only time both sides of me; the
-annoying track-and-field fanatic and that
-regular high school student overlapped.");
+MsgDisp("Sassa","The only time both sides of me; the annoying
+track-and-field fanatic and that regular high
+school student overlapped.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211000_02_160");
-MsgDisp("Sassa","From then on, I naturally became friends
-with my seniors and the other members of
-the track and field club.");
+MsgDisp("Sassa","From then on, I naturally became friends with
+my seniors and the other members of the track
+and field club.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -144,8 +143,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020211000_02_180");
 MsgDisp("Sassa","So I gave up on the idea.
-That if you went to someone else, it would
-be your choice.");
+That if you went to someone else, it would be
+your choice.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
@@ -160,8 +159,8 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("T020211000_02_200");
 MsgDisp("Sassa","Right here.
-My feelings for you are so big...they
-can't ever be buried.");
+My feelings for you are so big...they can't
+ever be buried.");
 MsgDisp("主人公","!");
 MsgClear();
 ChClose(2);

@@ -26,20 +26,18 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020300060_03_030");
-MsgDisp("Honda","I will always love this world with you in
-it.");
+MsgDisp("Honda","I will always love this world with you in it.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020300060_03_040");
-MsgDisp("Honda","Meeting you has made me excited for my
-future.
+MsgDisp("Honda","Meeting you has made me excited for
+my future.
 Thank you.");
 ChSet(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020300060_03_050");
-MsgDisp("Honda","Phew...
-That's it!");
+MsgDisp("Honda","Phew... That's it!");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

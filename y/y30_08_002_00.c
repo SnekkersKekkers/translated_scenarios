@@ -2,43 +2,38 @@ MsgType(3);
 BGMPlay("BGM_C08_DAICHI_B",0.01);
 BGOpen("ad820",0);
 ScrFadeIn(0);
-MsgDisp("","Heheh!
-I finally did it!");
+MsgDisp("","Heheh! I finally did it!");
 MsgClear();
 MsgDisp("","Modern Japanese is a subject where I
-always stumble at the trick
-questions, and never get full marks.");
+always stumble at the trick questions,
+and never get full marks.");
 MsgDisp("","Full marks! 100 points, perfect score!");
 MsgClear();
-MsgDisp("","I can get full marks in other
-subjects, but only in modern japanese
-do I misinterpret the same kind of
-parts.");
-MsgDisp("","Because of that, I'd never once
-scored perfect on every subject
-at finals.");
+MsgDisp("","I can get full marks in other subjects,
+but only in modern japanese do I
+misinterpret the same kind of parts.");
+MsgDisp("","Because of that, I'd never once scored
+perfect on every subject at finals.");
 MsgClear();
-MsgDisp("","Holding my modern japanese test paper
-in one hand, I'm currently headin' ta
+MsgDisp("","Holding my modern japanese test paper in
+one hand, I'm currently headin' ta
 Habataki High School.");
 MsgDisp("","In order ta show that girl.");
 MsgClear();
-MsgDisp("","...It's childish, huh?
-Maybe, if I go to show it to her,
-I'll get laughed at.");
+MsgDisp("","...It's childish, huh? Maybe, if I go to
+show it to her, I'll get laughed at.");
 MsgDisp("","I've become a bit worried.");
 MsgDisp("","If she thinks I'm just a kid—");
 MsgClear();
-MsgDisp("","I didn't think too deeply about going
-to Hanegasaki High School.");
+MsgDisp("","I didn't think too deeply about going to
+Hanegasaki High School.");
 MsgDisp("","Reason bein', my big bro went there.
-It's said ta be a good school.
-There's interestin' teachers too.");
+It's said ta be a good school. There's
+interestin' teachers too.");
 MsgDisp("","That's why, that's the reason.");
 MsgClear();
-MsgDisp("","Even if I'm sayin' so myself, my
-grades are top class an' I can do
-sports too.");
+MsgDisp("","Even if I'm sayin' so myself, my grades
+are top class an' I can do sports too.");
 MsgDisp("","In other words — a true scholar-
 athlete.");
 MsgDisp("","...If, I had enrolled at Habataki
@@ -55,17 +50,15 @@ thinkin' about that and just go to
 Haba High!\"");
 MsgClear();
 VoicePlay("Y300800200_08_000");
-MsgDisp("Shirahane","\"Yeah, that's right!
-There's no point in thinkin' about
-that now.\"");
-MsgDisp("","Life at Hanegasaki High School is
-really fun too!");
+MsgDisp("Shirahane","\"Yeah, that's right! There's no point in
+thinkin' about that now.\"");
+MsgDisp("","Life at Hanegasaki High School is really
+fun too!");
 MsgClear();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 SEWait();
 MsgDisp("","I dashed towards Haba High.");
-MsgDisp("","I need ta hurry, or she might go
-home!");
+MsgDisp("","I need ta hurry, or she might go home!");
 MsgDisp("","That would be bad!");
 MsgClear();
 MsgClose();

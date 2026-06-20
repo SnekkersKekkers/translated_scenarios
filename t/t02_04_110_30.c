@@ -1,8 +1,7 @@
 ChEye(4,2);
 ChMouth(4,4);
 BGMStop();
-MsgDisp("主人公","I'm sorry...
-I...");
+MsgDisp("主人公","I'm sorry... I...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
@@ -15,11 +14,10 @@ Wait(40,0);
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_190");
 MsgDisp("Nanatsumori","I'm sorry.
-I didn't mean to cause you to make that
-face...");
+I didn't mean to cause you to make
+that face...");
 VoicePlay("T020411000_04_200");
-MsgDisp("Nanatsumori","I won't interfere with your destiny
-anymore.");
+MsgDisp("Nanatsumori","I won't interfere with your destiny anymore.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,3,1);

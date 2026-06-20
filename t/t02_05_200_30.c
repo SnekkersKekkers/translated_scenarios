@@ -27,12 +27,12 @@ Wait(16,0);
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("T020520030_05_030");
-MsgDisp("Hiiragi","Hey, don't make that face. It's alright,
-I'm the chairman who graduated from the
-prestigious Haba High, you know?");
+MsgDisp("Hiiragi","Hey, don't make that face.
+It's alright, I'm the chairman who graduated
+from the prestigious Haba High, you know?");
 VoicePlay("T020520030_05_040");
-MsgDisp("Hiiragi","...My grades were just barely passing,
-though.");
+MsgDisp("Hiiragi","...My grades were just barely
+passing, though.");
 MsgDisp("主人公","Hehe, yeah...");
 ChEye(5,4);
 ChMotion(5,0);

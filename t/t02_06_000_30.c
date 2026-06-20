@@ -29,9 +29,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","Back then, I was so selfish and
-arrogant...It must have been the worst
-first impression.");
+MsgDisp("Himuro","Back then, I was so selfish and arrogant...
+It must have been the worst first impression.");
 VoicePlay("T020600000_06_450");
 ChEye(6,2);
 ChMouth(6,1);
@@ -44,11 +43,11 @@ VoicePlay("T020600000_06_460");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","Even so...do you think my feelings are
-sudden?");
+MsgDisp("Himuro","Even so...do you think my feelings
+are sudden?");
 VoicePlay("T020600000_06_470");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","Or did you feel nothing through all the
-time we spent together?");
+MsgDisp("Himuro","Or did you feel nothing through all the time
+we spent together?");

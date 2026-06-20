@@ -23,8 +23,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("T020320000_03_020");
-MsgDisp("Honda","I've been searching for something to
-devote my life to.");
+MsgDisp("Honda","I've been searching for something to devote
+my life to.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -36,8 +36,8 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020320000_03_040");
-MsgDisp("Honda","I used to desperately search through
-books, but I never found it.");
+MsgDisp("Honda","I used to desperately search through books,
+but I never found it.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -49,28 +49,27 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_060");
-MsgDisp("Honda","But you know, I didn't notice you for a
-while.");
+MsgDisp("Honda","But you know, I didn't notice you for
+a while.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("T020320000_03_070");
-MsgDisp("Honda","If it weren't for Ryo-kun and Mi-kun I
-might not have noticed even now.");
+MsgDisp("Honda","If it weren't for Ryo-kun and Mi-kun I might
+not have noticed even now.");
 MsgDisp("主人公","｛Kazama＊＊｝ and ｛Nanatsumori＊｝?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("T020320000_03_080");
 MsgDisp("Honda","Yes.
-I often talked about you with them, and
-the four of us hung out together.");
+I often talked about you with them, and the
+four of us hung out together.");
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_090");
-MsgDisp("Honda","Because of that relationship, I realised
-that you were the one I could devote my
-life to.");
+MsgDisp("Honda","Because of that relationship, I realised that
+you were the one I could devote my life to.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -80,8 +79,7 @@ MsgDisp("Honda","That's why I want to spend my whole life
 studying you.");
 ChEye(3,0);
 ChEyeOpenLevel(3,10);
-MsgDisp("主人公","Eh∋
-S-Study me?");
+MsgDisp("主人公","Eh∋ S-Study me?");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -99,8 +97,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_130");
-MsgDisp("Honda","But with you by my side, I won't get lost
-in a book anymore.");
+MsgDisp("Honda","But with you by my side, I won't get lost in
+a book anymore.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -108,8 +106,8 @@ ChEyeOpenLevel(3,0);
 ChCheek(3,5);
 VoicePlay("T020320000_03_140");
 MsgDisp("Honda","Because you're here, within my reach.
-The one I'll devote my life to is right
-here where I can see and touch you.");
+The one I'll devote my life to is right here
+where I can see and touch you.");
 ChEye(3,0);
 ChEyeOpenLevel(3,10);
 MsgDisp("主人公","｛Honda＊＊｝...");

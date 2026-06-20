@@ -12,7 +12,8 @@ ScrFadeIn(0);
 MsgDispHide();
 VoicePlay("T040211000_02_000");
 MsgDisp("Sassa","The very centre of my heart belongs to you.
-It's a place no one else can enter—a place that's only yours.");
+It's a place no one else can enter—a place
+that's only yours.");
 MsgClose();
 ScrFadeOut(0,0,300);
 StlClose();

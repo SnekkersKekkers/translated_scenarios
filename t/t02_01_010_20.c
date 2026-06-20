@@ -12,8 +12,8 @@ Thank you for always thinking of me.");
 ChEye(1,4);
 ChMouth(1,2);
 ChCheek(1,6);
-MsgDisp("主人公","I'm sorry I've disappointed ｛Kazama＊＊｝
-so much by forgetting so many things.");
+MsgDisp("主人公","I'm sorry I've disappointed ｛Kazama＊＊｝ so
+much by forgetting so many things.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -33,8 +33,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("T020101000_01_220");
-MsgDisp("Kazama","May we always be happy and healthy, and
-may we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and may
+we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020101000_01_230");
@@ -52,16 +52,16 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("T020101000_01_250");
-MsgDisp("Kazama","...Ah, that's right. This. It looks
-similar to your hair accessory doesn't it?");
+MsgDisp("Kazama","...Ah, that's right. This.
+It looks similar to your hair accessory
+doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020101000_01_260");
-MsgDisp("Kazama","I found and bought it when I was in
-England.");
+MsgDisp("Kazama","I found and bought it when I was in England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020101000_01_270");
-MsgDisp("Kazama","—I promised to definitely give it to
-you one day.");
+MsgDisp("Kazama","—I promised to definitely give it to you
+one day.");
 MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);

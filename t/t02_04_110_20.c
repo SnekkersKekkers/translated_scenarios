@@ -17,10 +17,9 @@ ChMouth(4,4);
 ChMotion(4,0,1);
 ChEyeOpenLevel(4,10);
 VoicePlay("T020411000_04_150");
-MsgDisp("Nanatsumori","I was afraid that if I confessed to you
-like this, you'd hate me.");
-MsgDisp("主人公","No.
-I think I was actually waiting for
+MsgDisp("Nanatsumori","I was afraid that if I confessed to you like
+this, you'd hate me.");
+MsgDisp("主人公","No. I think I was actually waiting for
 ｛Nanatsumori＊｝...");
 ChEye(4,4);
 ChMouth(4,4);

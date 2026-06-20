@@ -14,14 +14,12 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("T020420000_04_190");
-MsgDisp("Nanatsumori","Why?
-Is that normal?");
+MsgDisp("Nanatsumori","Why? Is that normal?");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_200");
-MsgDisp("Nanatsumori","I mean, my first kiss was stolen from
-me...");
+MsgDisp("Nanatsumori","I mean, my first kiss was stolen from me...");
 MsgDisp("主人公","Already.");
 ChEye(4,2);
 ChMouth(4,3);
@@ -34,8 +32,7 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_220");
-MsgDisp("Nanatsumori","Haha, no.
-Let's fix that!");
+MsgDisp("Nanatsumori","Haha, no. Let's fix that!");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

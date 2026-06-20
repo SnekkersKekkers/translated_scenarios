@@ -34,9 +34,9 @@ MsgDisp("Honda","I've always been looking for you.");
 MsgDisp("主人公","Always?");
 ChMotion(3,1,1);
 VoicePlay("T020301000_03_040");
-MsgDisp("Honda","Right. I was always looking for something
-I could devote my life to. And it turns
-out that was you.");
+MsgDisp("Honda","Right. I was always looking for something I
+could devote my life to.
+And it turns out that was you.");
 MsgDisp("主人公","...!");
 ChEye(3,4);
 ChMouth(3,4);
@@ -48,8 +48,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("T020301000_03_060");
-MsgDisp("Honda","In middle school I would frantically
-search through books but...
+MsgDisp("Honda","In middle school I would frantically search
+through books but...
 I couldn't find anything.");
 ChMouth(3,0);
 VoicePlay("T020301000_03_070");
@@ -64,14 +64,13 @@ VoicePlay("T020301000_03_080");
 MsgDisp("Honda","The thing I can devote my life to, and
 that's you.
 I want to study you.");
-MsgDisp("主人公","Eh∋
-You want to study me?");
+MsgDisp("主人公","Eh∋ You want to study me?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("T020301000_03_090");
-MsgDisp("Honda","Haha, thanks to you, I realised that
-people are most important to me.
+MsgDisp("Honda","Haha, thanks to you, I realised that people
+are most important to me.
 My family, my friends...you.");
 ChEye(3,4);
 ChMouth(3,3);

@@ -1,8 +1,7 @@
 ChEye(4,4);
 ChMouth(4,4);
 BGMStop();
-MsgDisp("主人公","I'm sorry...
-I...");
+MsgDisp("主人公","I'm sorry... I...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
@@ -31,8 +30,7 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("T020420000_04_350");
-MsgDisp("Nanatsumori","Let's leave with a smile so they don't
-worry.");
+MsgDisp("Nanatsumori","Let's leave with a smile so they don't worry.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,3,1);

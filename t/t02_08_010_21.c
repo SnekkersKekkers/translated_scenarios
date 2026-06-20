@@ -7,8 +7,7 @@ ChMouth(8,1);
 ChMotion(8,1,1);
 ChEyeOpenLevel(8,10);
 ChCheek(8,10);
-MsgDisp("Shirahane","Hey...
-Ehh-∋");
+MsgDisp("Shirahane","Hey... Ehh-∋");
 MsgDisp("主人公","This is my answer.
 ...Did you get it?");
 VoicePlay("T020801000_08_250");

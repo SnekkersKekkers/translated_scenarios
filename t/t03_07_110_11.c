@@ -5,10 +5,10 @@ MsgClear();
 MsgDisp("","Every morning, he sends me a photo of him
 drinking fresh milk. I start my day by
 replying to him with a \"good morning\".");
-MsgDisp("","To that, he immediately replies \"Send me
-some photos of yourself too, you serious
-girl.\". ｛Mikage＊＊｝ is an early riser,
-but I've only just woken up, so I can't
-send him photos from the morning! The
-replies often go like this.");
+MsgDisp("","To that, he immediately replies \"Send me some
+photos of yourself too, you serious girl.\".
+｛Mikage＊＊｝ is an early riser, but I've
+only just woken up, so I can't send him
+photos from the morning! The replies often go
+like this.");
 MsgClear();

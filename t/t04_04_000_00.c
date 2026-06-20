@@ -19,8 +19,7 @@ That was basically a proposal.");
 NSSMouth(4,2);
 VoicePlay("T040400000_04_020");
 MsgDisp("Nanatsumori","That was hasty...");
-MsgDisp("主人公","Hehe.
-I was so happy.");
+MsgDisp("主人公","Hehe. I was so happy.");
 NSSEye(4,4);
 NSSMouth(4,4);
 NSSEyeOpenLevel(4,10);
@@ -29,20 +28,20 @@ VoicePlay("T040400000_04_030");
 MsgDisp("Nanatsumori","｛主人公｝...");
 NSSMouth(4,3);
 VoicePlay("T040400000_04_040");
-MsgDisp("Nanatsumori","I see. Oh well! It doesn't matter how many
-times I propose!");
+MsgDisp("Nanatsumori","I see. Oh well!
+It doesn't matter how many times I propose!");
 MsgDisp("主人公","Eh?");
 VoicePlay("T040400000_04_050");
 MsgDisp("Nanatsumori","Because, isn't that right?
-There's no limit to the number of times
-you can pledge your love.");
+There's no limit to the number of times you
+can pledge your love.");
 NSSEye(4,3);
 NSSMouth(4,3);
 NSSEyeOpenLevel(4,10);
 VoicePlay("T040400000_04_060");
 MsgDisp("Nanatsumori","But when it's really, really time, I'll be
-pouring out even more love than I have
-today. ...Be prepared, okay?");
+pouring out even more love than I have today.
+...Be prepared, okay?");
 SEStop("EV_SE_754",5.5);
 BGMStop();
 MsgClose();

@@ -5,8 +5,7 @@ ChMouth(6,1);
 ChMotion(6,5);
 ChCheek(6,10);
 VoicePlay("T020600000_06_320");
-MsgDisp("Himuro","Ha∋
-Wait...!");
+MsgDisp("Himuro","Ha∋ Wait...!");
 MsgDisp("主人公","I also like ｛Himuro＊＊｝!");
 VoicePlay("T020600000_06_330");
 ChEye(6,3);
@@ -17,14 +16,12 @@ VoicePlay("T020600000_06_340");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,4);
-MsgDisp("Himuro","No, it's absurd to just suddenly hug
-someone.");
+MsgDisp("Himuro","No, it's absurd to just suddenly hug someone.");
 VoicePlay("T020600000_06_350");
 ChEye(6,0);
 ChEyeOpenLevel(6,8);
 MsgDisp("Himuro","What would you do if I tried to avoid you?");
-MsgDisp("主人公","Eh∋
-That would be troubling too...");
+MsgDisp("主人公","Eh∋ That would be troubling too...");
 VoicePlay("T020600000_06_360");
 ChEye(6,4);
 ChMouth(6,3);
@@ -35,8 +32,7 @@ VoicePlay("T020600000_06_370");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","Actually, I don't intend to let you go
-again.");
+MsgDisp("Himuro","Actually, I don't intend to let you go again.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

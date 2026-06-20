@@ -14,8 +14,8 @@ BGMPlay("BGM_HANYOU_D",0.01);
 ChOpen(1,254,0,4,3,#1,#1,0,0);
 MsgDisp("主人公","｛Kazama＊＊｝!
 You're back!");
-MsgDisp("主人公","But...the graduation ceremony is already
-over.");
+MsgDisp("主人公","But...the graduation ceremony is
+already over.");
 ChClose(1,0,30);
 ChLayout(0);
 SEPlay("EV_SE_544");
@@ -23,8 +23,7 @@ ChOpen(1,254,0,2,3,8,#1,0,0,0,30);
 VoicePlay("T020A30000_01_010");
 MsgDisp("Kazama","Sorry.
 I did try to hurry though.");
-MsgDisp("主人公","Yeah.
-I'm glad we could graduate together...");
+MsgDisp("主人公","Yeah. I'm glad we could graduate together...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);
@@ -76,8 +75,7 @@ ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("T020A30000_02_010");
 MsgDisp("Sassa","Huh?");
-MsgDisp("主人公","｛Sassa＊＊｝, congratulations on
-graduating!");
+MsgDisp("主人公","｛Sassa＊＊｝, congratulations on graduating!");
 ChEye(1,2);
 ChMouth(1,3);
 ChEye(2,3);
@@ -94,15 +92,15 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("T020A30000_01_070");
 MsgDisp("Kazama","In the end, it's the three of us together.
-Childhood friends, or should I say,
-long-term liabilities?");
+Childhood friends, or should I say, long-term
+liabilities?");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("T020A30000_02_030");
 MsgDisp("Sassa","Maybe.
-Well then, shall these long-term
-liabilities go home together?");
+Well then, shall these long-term liabilities
+go home together?");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・
@@ -110,8 +108,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 VoicePlay("T020A30000_06_000");
-MsgDisp("Himuro?","Have the childhood friends finished
-talking?");
+MsgDisp("Himuro?","Have the childhood friends finished talking?");
 MsgClose();
 BGOpen("sc130",1);
 ChLayout(2);
@@ -126,8 +123,7 @@ ChPosition(2,1);
 ChOpen(6,254,0,0,4,#1,#1,0,2);
 ScrFadeIn(0);
 VoicePlay("T020A30000_06_010");
-MsgDisp("Himuro","Senpais, congratulations on your
-graduation.");
+MsgDisp("Himuro","Senpais, congratulations on your graduation.");
 MsgDisp("主人公","｛Himuro＊＊｝, thank you.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -146,8 +142,7 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020A30000_06_020");
 MsgDisp("Himuro","You're so transparent, Nozomu-senpai.
-You weren't even thinking about me,
-were you?");
+You weren't even thinking about me, were you?");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -205,8 +200,7 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020A30000_06_060");
-MsgDisp("Himuro","Then, here's a request for the three of
-you.");
+MsgDisp("Himuro","Then, here's a request for the three of you.");
 ChEye(1,0);
 ChEye(2,0);
 ChMouth(2,4);
@@ -237,8 +231,8 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("T020A30000_06_080");
 MsgDisp("Himuro","If that's the case...
-I'll forgive you guys for leaving me out
-of the loop.");
+I'll forgive you guys for leaving me out of
+the loop.");
 ChMotion(1,0);
 MsgDisp("主人公","Hehe, that's good.
 Now, let's all go home together.");

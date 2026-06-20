@@ -2,30 +2,29 @@ MsgType(3);
 BGMPlay("BGM_C06_INORI_C",0.01);
 BGOpen("ad650",0);
 ScrFadeIn(0);
-MsgDisp("","It's strange, but I started wanting
-to make memories in my third year of
-high school.");
+MsgDisp("","It's strange, but I started wanting to
+make memories in my third year of high
+school.");
 MsgClear();
-MsgDisp("","I did not start thinking about the
-time left I had until graduation like
-my other classmates were.");
-MsgDisp("","Nor is it that I regret having
-neglected my classmates and juniors
-until now.");
-MsgDisp("","It's just that to that person— I
-didn't want to make her worry.");
+MsgDisp("","I did not start thinking about the time
+left I had until graduation like my
+other classmates were.");
+MsgDisp("","Nor is it that I regret having neglected
+my classmates and juniors until now.");
+MsgDisp("","It's just that to that person— I didn't
+want to make her worry.");
 MsgClear();
 MsgDisp("","It's been two months since she
 graduated.");
 MsgDisp("","Even so, things hadn't changed much.
-Whenever we went out on weekends,
-she would always ask the same thing.");
-MsgDisp("","How's school life going?
-Are you enjoying it?");
+Whenever we went out on weekends, she
+would always ask the same thing.");
+MsgDisp("","How's school life going? Are you
+enjoying it?");
 MsgClear();
-MsgDisp("","Did she think she'd left me behind?
-She seemed to feel guilty about
-graduating before me.");
+MsgDisp("","Did she think she'd left me behind? She
+seemed to feel guilty about graduating
+before me.");
 MsgDisp("","She really was a kind person.");
 BGMStop();
 MsgClear();
@@ -35,12 +34,11 @@ BGOpen("ad651",0);
 EnvPlay("SE_ENV_BG_SC510_CS0",1);
 ScrFadeIn(0);
 VoicePlay("Y300600500_40_000");
-MsgDisp("School Boy","\"Ah, Himuro-senpai!
-Just the person I needed.\"");
-MsgDisp("","Just as I was coming out the
-staffroom, having finished some
-business, a junior suddenly called
-out to me.");
+MsgDisp("School Boy","\"Ah, Himuro-senpai! Just the person I
+needed.\"");
+MsgDisp("","Just as I was coming out the staffroom,
+having finished some business, a junior
+suddenly called out to me.");
 VoicePlay("Y300600500_40_010");
 MsgDisp("School Boy","\"Could you do a final check of the
 programme order?\"");
@@ -49,66 +47,60 @@ MsgDisp("Himuro","Of course.");
 MsgClear();
 SEPlay("EV_SE_592");
 SEWait();
-MsgDisp("","My junior handed me a sheet of paper,
-on it was written \"Sports Festival
+MsgDisp("","My junior handed me a sheet of paper, on
+it was written \"Sports Festival
 Programme\".");
-MsgDisp("","Right, I volunteered to be on the
-sports festival committee this year.");
+MsgDisp("","Right, I volunteered to be on the sports
+festival committee this year.");
 MsgClear();
 BGMPlay("BGM_C06_INORI_KOKU",0.01);
 EnvStop(3);
 MsgDisp("","When I told her about it, she was so
 surprised her eyes went wide.");
-MsgDisp("","I was the same.
-I still can't believe I took on such
-a troublesome task.");
+MsgDisp("","I was the same. I still can't believe I
+took on such a troublesome task.");
 MsgDisp("","But, I have no regrets at all.");
 MsgClear();
 MsgDisp("","At first, I just wanted something I
-could report to her.
-Anything was fine.");
+could report to her. Anything was fine.");
 MsgClear();
 MsgDisp("","I considered running for class
 representative, but I didn't have the
-confidence to lead the class or see
-it through for a whole year, so I
-gave up on that idea.");
+confidence to lead the class or see it
+through for a whole year, so I gave up
+on that idea.");
 MsgDisp("","Besides, I wasn't sure if I had
 everyone's trust in the first place.");
-MsgDisp("","That's when the opportunity to be on
-the \"sports festival committee\" came
-up. It was temporary but involved a
-major school event.");
+MsgDisp("","That's when the opportunity to be on the
+\"sports festival committee\" came up. It
+was temporary but involved a major
+school event.");
 MsgClear();
 MsgDisp("","Since then, not only students on the
-committee, but my classmates would
-talk to me to check on my progress.");
+committee, but my classmates would talk
+to me to check on my progress.");
 MsgDisp("","\"Good luck with the preparations.\"
 \"Thank you for staying up late.\"");
 MsgDisp("","I was often met with words of
-encouragement, and late as it was,
-I finally felt like I belonged to
-this school.");
+encouragement, and late as it was, I
+finally felt like I belonged to this
+school.");
 MsgClear();
 MsgDisp("","The importance and value of sharing
-time— that was something taught to
-me completely by her.");
-MsgDisp("","When I told her about my committee
-work, it became exactly the kind of
-reassuring news I had hoped to give
-her.");
+time— that was something taught to me
+completely by her.");
+MsgDisp("","When I told her about my committee work,
+it became exactly the kind of reassuring
+news I had hoped to give her.");
 MsgClear();
 VoicePlay("Y300600500_06_010");
 MsgDisp("Himuro","\"Yeah, good. With this order,
-progression will be smooth.
-Excellent.\"");
+progression will be smooth. Excellent.\"");
 VoicePlay("Y300600500_40_020");
-MsgDisp("School Boy","\"Is it really?!
-I'm glad!
-Thank you very much, senpai!\"");
+MsgDisp("School Boy","\"Is it really?! I'm glad! Thank you very
+much, senpai!\"");
 MsgDisp("","I couldn't help but smile back at the
-junior who was smiling so
-delightfully.");
+junior who was smiling so delightfully.");
 MsgClear();
 VoicePlay("Y300600500_40_030");
 MsgDisp("School Boy","\"Umm...actually, I always thought
@@ -116,31 +108,28 @@ Himuro-senpai was a scary person.\"");
 VoicePlay("Y300600500_06_020");
 MsgDisp("Himuro","\"Eh?\"");
 VoicePlay("Y300600500_40_040");
-MsgDisp("School Boy","\"But, that was completely wrong.
-You're reliable, and cool!\"");
+MsgDisp("School Boy","\"But, that was completely wrong. You're
+reliable, and cool!\"");
 VoicePlay("Y300600500_06_030");
-MsgDisp("Himuro","T...
-Thank you.");
+MsgDisp("Himuro","T... Thank you.");
 MsgClear();
-MsgDisp("","After bowing his head, the junior
-held the programme as if it was
-precious, and headed up the stairs.");
+MsgDisp("","After bowing his head, the junior held
+the programme as if it was precious, and
+headed up the stairs.");
 MsgDisp("","Seriously, to think the day has come
-where I'd be told something like
-that...");
-MsgDisp("","I stood still there, with my eyes
-closed until I could no longer hear
-his footsteps.");
+where I'd be told something like that...");
+MsgDisp("","I stood still there, with my eyes closed
+until I could no longer hear his
+footsteps.");
 MsgClear();
 MsgDisp("","The summer breeze blew through the
 familiar hallway window.");
-MsgDisp("","This might be the first time this
-place has ever looked so bright
-and clear.");
+MsgDisp("","This might be the first time this place
+has ever looked so bright and clear.");
 MsgClear();
-MsgDisp("","...If I could tell you about this,
-I know you'd light up with
-that smile of yours.");
+MsgDisp("","...If I could tell you about this, I
+know you'd light up with that smile
+of yours.");
 MsgDisp("","I want to see you soon.");
 BGMStop();
 MsgClear();

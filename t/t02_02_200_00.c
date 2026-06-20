@@ -17,8 +17,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220000_02_010");
-MsgDisp("Sassa","The pair of them told me to try coming
-here.");
+MsgDisp("Sassa","The pair of them told me to try coming here.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -29,8 +28,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020220000_02_030");
-MsgDisp("Sassa","They told me to come here while running
-and trying to beat my fastest time.");
+MsgDisp("Sassa","They told me to come here while running and
+trying to beat my fastest time.");
 MsgDisp("主人公","Hehe, I see how it is.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -76,8 +75,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020220000_02_100");
 MsgDisp("Sassa","Set a big goal, and just run towards it.
-Don't worry about what others think, just
-run.");
+Don't worry about what others think,
+just run.");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -94,24 +93,23 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220000_02_130");
-MsgDisp("Sassa","I didn't listen to the advice of my
-seniors or teammates. I wasn't happy even
-if we won. I was a nasty jerk.");
+MsgDisp("Sassa","I didn't listen to the advice of my seniors
+or teammates. I wasn't happy even if we won.
+I was a nasty jerk.");
 MsgDisp("主人公","Eh...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020220000_02_140");
-MsgDisp("Sassa","But outside of club activities I would
-have fun with Ryota and Inori. I didn't
-like that kind of difference either.");
+MsgDisp("Sassa","But outside of club activities I would have
+fun with Ryota and Inori.
+I didn't like that kind of difference either.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220000_02_150");
-MsgDisp("Sassa","...You used to run with me a lot,
-remember?");
+MsgDisp("Sassa","...You used to run with me a lot, remember?");
 MsgDisp("主人公","Yes.");
 ChEye(2,4);
 ChMouth(2,4);
@@ -125,9 +123,9 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020220000_02_170");
-MsgDisp("Sassa","The only time both sides of me; the
-annoying track-and-field fanatic and that
-regular high school student overlapped.");
+MsgDisp("Sassa","The only time both sides of me; the annoying
+track-and-field fanatic and that regular high
+school student overlapped.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -138,10 +136,9 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220000_02_190");
-MsgDisp("Sassa","I don't want to be some track and field
-idiot isolated from everyone else, I
-want to make my dreams come true as Nozomu
-Sassa.");
+MsgDisp("Sassa","I don't want to be some track and field idiot
+isolated from everyone else, I want to make
+my dreams come true as Nozomu Sassa.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 MsgClear();
 ChClose(2);
@@ -150,16 +147,15 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(2,254,7,4,0,#1,#1,0,0,0,120);
 VoicePlay("T020220000_02_200");
-MsgDisp("Sassa","It was the time we spent together that
-made me realise that.");
+MsgDisp("Sassa","It was the time we spent together that made
+me realise that.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoiceEVSPlay(2);
 VoicePlay("T020220000_02_210");
 MsgDisp("Sassa","｛主人公｝, I want to run with you.
-I want to make my dreams come true with
-you.");
+I want to make my dreams come true with you.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

@@ -1,8 +1,7 @@
 ChEye(4,4);
 ChMouth(4,4);
 BGMStop();
-MsgDisp("主人公","I'm sorry...
-I...");
+MsgDisp("主人公","I'm sorry... I...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0);

@@ -6,8 +6,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("T020500030_05_000");
-MsgDisp("Hiiragi","No.
-Please don't apologise.
+MsgDisp("Hiiragi","No. Please don't apologise.
 Your smile is my guide.");
 BGMPlay("BGM_C05_HIIRAGI_C",0.01);
 ChMotion(5,0);
@@ -15,12 +14,12 @@ Wait(12,0);
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("T020500030_05_010");
-MsgDisp("Hiiragi","Please follow the path that can make you
-smile.");
+MsgDisp("Hiiragi","Please follow the path that can make
+you smile.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 VoicePlay("T020500030_05_020");
-MsgDisp("Hiiragi","Thanks to you, I now know what I should do
-in the theatre company.");
+MsgDisp("Hiiragi","Thanks to you, I now know what I should do in
+the theatre company.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -37,9 +36,9 @@ ChEyeOpenLevel(5,0);
 Wait(16,0);
 ChMouth(5,4);
 VoicePlay("T020500030_05_040");
-MsgDisp("Hiiragi","...That's good. You were able to smile a
-little in the end...I'm not wrong about
-this direction.");
+MsgDisp("Hiiragi","...That's good.
+You were able to smile a little in the end...
+I'm not wrong about this direction.");
 Wait(40,0);
 ChEye(5,0);
 ChMouth(5,4);

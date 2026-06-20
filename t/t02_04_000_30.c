@@ -1,8 +1,7 @@
 ChEye(4,4);
 ChMouth(4,4);
 BGMStop();
-MsgDisp("主人公","I'm sorry...
-I...");
+MsgDisp("主人公","I'm sorry... I...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -25,8 +24,8 @@ You've already helped me enough.");
 ChEye(4,2);
 ChMotion(4,2,1);
 VoicePlay("T020400000_04_400");
-MsgDisp("Nanatsumori","There's no need to wish for anything more
-now.");
+MsgDisp("Nanatsumori","There's no need to wish for anything
+more now.");
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("T020400000_04_410");

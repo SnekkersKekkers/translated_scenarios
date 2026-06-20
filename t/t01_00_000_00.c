@@ -1,7 +1,6 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Today marks the end of my high school
-life.
+MsgDisp("主人公","(Today marks the end of my high school life.
 Tomorrow is the graduation ceremony...)");
 MsgClose();
 ScrFadeOut(0);
@@ -26,25 +25,24 @@ SEStop("EV_SE_CLAP_004",3.5);
 SEStop("EV_SE_GAYA_021",3.5);
 VoicePlay("T010000000_49_000");
 MsgDisp("Host","Thank you very much, Principal.
-Next, I would like to ask the Vice
-Principal to continue.");
+Next, I would like to ask the Vice Principal
+to continue.");
 VoicePlay("T010000000_32_000");
-MsgDisp("VP Himuro","Congratulations on your graduation,
-everyone.");
+MsgDisp("VP Himuro","Congratulations on your graduation, everyone.");
 VoicePlay("T010000000_32_010");
 MsgDisp("VP Himuro","I remember how your eyes were brimming
 with hope the moment we welcomed you into
 our school.");
 VoicePlay("T010000000_32_020");
-MsgDisp("VP Himuro","Now there is not only hope but also a
-certain confidence in you.");
+MsgDisp("VP Himuro","Now there is not only hope but also a certain
+confidence in you.");
 VoicePlay("T010000000_32_030");
-MsgDisp("VP Himuro","It is proof to the fact the three years
-you spent in your fellow classmates'
-company was worth it—");
+MsgDisp("VP Himuro","It is proof to the fact the three years you
+spent in your fellow classmates' company was
+worth it—");
 VoicePlay("T010000000_32_040");
-MsgDisp("VP Himuro","It means you're ready to face the
-challenges that lie ahead.");
+MsgDisp("VP Himuro","It means you're ready to face the challenges
+that lie ahead.");
 VoicePlay("T010000000_32_050");
 MsgDisp("VP Himuro","Don't worry. The school you spent the last
 three years in will remain with you
@@ -70,8 +68,7 @@ SEWait();
 BGOpen("sc301",0);
 ScrFadeIn(0);
 MsgDisp("主人公","Today is the day to say goodbye to this
-classroom where we all spent time
-together.");
+classroom where we all spent time together.");
 MsgClose();
 ScrFadeOut(0);
 BGOpen("sc511",0);
@@ -100,9 +97,9 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc211",0);
 ScrFadeIn(0);
-MsgDisp("主人公","I had wonderful days at Habataki High
-School. I will never forget them. Thank
-you...");
+MsgDisp("主人公","I had wonderful days at Habataki High School.
+I will never forget them.
+Thank you...");
 BGMStop(3);
 MsgClose();
 ScrFadeOut(0);

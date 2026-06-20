@@ -6,18 +6,16 @@ Wait(60,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("T020500021_05_000");
 MsgDisp("Hiiragi","Does that mean you'll be with me?");
-MsgDisp("主人公","Yes.
-I also like ｛Hiiragi＊＊＊｝.");
+MsgDisp("主人公","Yes. I also like ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
 ChMouth(5,4);
 VoicePlay("T020500021_05_010");
-MsgDisp("Hiiragi","If my confession made you smile, I
-couldn't be happier.");
-MsgDisp("主人公","If I'm with ｛Hiiragi＊＊＊｝, I'm always
-smiling.
+MsgDisp("Hiiragi","If my confession made you smile, I couldn't
+be happier.");
+MsgDisp("主人公","If I'm with ｛Hiiragi＊＊＊｝, I'm always smiling.
 Thank you.");
 ChMotion(5,0);
 Wait(12,0);

@@ -18,16 +18,14 @@ VoicePlay("T020121000_01_380");
 MsgDisp("Kazama","...Hey, what should I tell Honda and
 Nanatsumori?
 About your kiss.");
-MsgDisp("主人公","Ah, you don't need to tell them about
-that.");
+MsgDisp("主人公","Ah, you don't need to tell them about that.");
 ChMotion(1,0,1);
 Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020121000_01_390");
-MsgDisp("Kazama","I see...
-So that wish really came true.");
+MsgDisp("Kazama","I see... So that wish really came true.");
 MsgDisp("主人公","The pinwheel wish?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -35,8 +33,8 @@ ChMotion(1,3);
 ChCheek(1,0);
 ChMotion(1,0);
 VoicePlay("T020121000_01_410");
-MsgDisp("Kazama","May we always be happy and healthy, and
-may we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and may
+we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020121000_01_420");
@@ -54,16 +52,16 @@ StlEye(1,0);
 StlMouth(1,0);
 ScrFadeIn(0);
 VoicePlay("T020121000_01_440");
-MsgDisp("Kazama","...Ah, that's right. This. It looks
-similar to your hair accessory doesn't it?");
+MsgDisp("Kazama","...Ah, that's right. This.
+It looks similar to your hair accessory
+doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020121000_01_450");
-MsgDisp("Kazama","I found and bought it when I was in
-England.");
+MsgDisp("Kazama","I found and bought it when I was in England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020121000_01_460");
-MsgDisp("Kazama","—I promised to definitely give it to
-you one day.");
+MsgDisp("Kazama","—I promised to definitely give it to you
+one day.");
 MsgDisp("主人公","｛Kazama＊＊｝...
 Thank you.");
 StlEyeOpenLevel(1,0,1);

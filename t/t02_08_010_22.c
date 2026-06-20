@@ -9,7 +9,8 @@ ChMotion(8,5,1);
 ChEyeOpenLevel(8,10);
 ChCheek(8,10);
 MsgDisp("Shirahane","Wa-∋");
-MsgDisp("主人公","This, is my answer. ...did you receive it?");
+MsgDisp("主人公","This, is my answer.
+...did you receive it?");
 VoicePlay("T020801000_08_310");
 ChEye(8,0);
 ChMouth(8,4);
@@ -27,14 +28,14 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,3,1);
 MsgDisp("Shirahane","Sigh...
-I wonder if I'll be like this even when I
-go to university.");
+I wonder if I'll be like this even when I go
+to university.");
 VoicePlay("T020801000_08_340");
 ChEye(8,4);
 ChMouth(8,3);
 ChMotion(8,0,1);
-MsgDisp("Shirahane","But, I'll be the one to wrap up the happy
-endin'.");
+MsgDisp("Shirahane","But, I'll be the one to wrap up the
+happy endin'.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

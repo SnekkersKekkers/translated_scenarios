@@ -11,8 +11,7 @@ ChMotion(7,2);
 ChCheek(7,0);
 VoicePlay("T020711020_07_010");
 MsgDisp("Mikage","Is that okay??");
-MsgDisp("主人公","Eh...
-What's wrong?");
+MsgDisp("主人公","Eh... What's wrong?");
 ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,0);

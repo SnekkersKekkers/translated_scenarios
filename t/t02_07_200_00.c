@@ -18,8 +18,7 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("T020720000_07_010");
 MsgDisp("Mikage","It was them.
-Yanosuke and Inori gave me the push I
-needed.");
+Yanosuke and Inori gave me the push I needed.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -44,8 +43,8 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020720000_07_050");
-MsgDisp("Mikage","I came to Haba High to fill in the void
-left from my high school days.");
+MsgDisp("Mikage","I came to Haba High to fill in the void left
+from my high school days.");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -54,8 +53,8 @@ VoicePlay("T020720000_07_060");
 MsgDisp("Mikage","I'm not the kind of person who's fit to be
 called a teacher...");
 MsgDisp("主人公","That...
-I was really happy in the last three years
-I spent with ｛Mikage＊＊｝.");
+I was really happy in the last three years I
+spent with ｛Mikage＊＊｝.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0,1);
@@ -89,9 +88,9 @@ ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("T020720000_07_110");
-MsgDisp("Mikage","My fondness for you has grown into love in
-an instant. It's overflowing and I just
-can't do anything about it.");
+MsgDisp("Mikage","My fondness for you has grown into love in an
+instant. It's overflowing and I just can't do
+anything about it.");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -104,16 +103,16 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020720000_07_130");
 MsgDisp("Mikage","Those guys laughed at me.
-They said that if I continued like this,
-I'd never be able to graduate.");
+They said that if I continued like this, I'd
+never be able to graduate.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020720000_07_140");
 MsgDisp("Mikage","It made me realise that if I leave my
-feelings for you at Haba School, I can't
-move forward.");
+feelings for you at Haba School, I can't move
+forward.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);

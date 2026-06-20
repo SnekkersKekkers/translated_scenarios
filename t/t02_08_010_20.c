@@ -13,8 +13,7 @@ ChMouth(8,0);
 ChMotion(8,4,1);
 ChEyeOpenLevel(8,0);
 ChCheek(8,10);
-MsgDisp("Shirahane","Hehe...
-I really like ya too.");
+MsgDisp("Shirahane","Hehe... I really like ya too.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("T020801000_08_190");
 ChEye(8,4);
@@ -43,8 +42,8 @@ ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
-MsgDisp("Shirahane","I'm a beginner boyfriend, but I hope
-you'll be okay with that.");
+MsgDisp("Shirahane","I'm a beginner boyfriend, but I hope you'll
+be okay with that.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

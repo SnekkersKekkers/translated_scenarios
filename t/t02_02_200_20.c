@@ -26,8 +26,8 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220020_02_020");
-MsgDisp("Sassa","Ah, no.
-It'd be troublesome if they came here.");
+MsgDisp("Sassa","Ah, no. It'd be troublesome if they
+came here.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);

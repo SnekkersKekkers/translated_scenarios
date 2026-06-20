@@ -17,15 +17,14 @@ BGOpen("ad431",0);
 ScrFadeIn(0);
 MsgDisp("主人公","\"Welcome!\"");
 MsgClear();
-MsgDisp("","Yep.
-Your smile is nice today too.");
-MsgDisp("","While being satisfied with the
-pleasant reception, I headed towards
-my favourite seat.");
+MsgDisp("","Yep. Your smile is nice today too.");
+MsgDisp("","While being satisfied with the pleasant
+reception, I headed towards my
+favourite seat.");
 MsgClear();
-MsgDisp("","I started to pick up the menu placed
-on the small table of the teahouse,
-but then I stopped.");
+MsgDisp("","I started to pick up the menu placed on
+the small table of the teahouse, but
+then I stopped.");
 MsgDisp("","I should try that once in a while.");
 MsgClear();
 MsgDisp("","　　　　　　　　　　 ・
@@ -35,15 +34,13 @@ MsgClear();
 MsgDisp("主人公","\"Have you decided what to order?\"");
 MsgDisp("","...Alright.");
 VoicePlay("Y300400300_04_000");
-MsgDisp("Nanatsumori","\"A hot drink, and I'll leave the
-sweets to your recommendation.\"");
+MsgDisp("Nanatsumori","\"A hot drink, and I'll leave the sweets
+to your recommendation.\"");
 MsgClear();
 MsgDisp("","For an instant, her eyes widened, but
 soon her usual smile returned.");
 MsgDisp("主人公","\"Certainly!\"");
-MsgDisp("","Crap.
-This communication.
-Feels nice...!");
+MsgDisp("","Crap. This communication. Feels nice...!");
 MsgClear();
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -52,8 +49,7 @@ MsgClear();
 MsgDisp("","I waited for \"Today's Special\" while
 enjoying some freshly-brewed coffee.");
 MsgDisp("","Even though I said it's special, I'm
-just thinking of it that way by
-myself.");
+just thinking of it that way by myself.");
 MsgClear();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -75,39 +71,37 @@ MsgDisp("","\"Banana＆chocolate sundae—\" and
 MsgDisp("","I see...that's how it is!");
 MsgClear();
 MsgDisp("","I seriously get it.");
-MsgDisp("","Right. Lately after work,
-I just have sweets for dinner.");
+MsgDisp("","Right. Lately after work, I just have
+sweets for dinner.");
 MsgDisp("","And that's why they made this choice.");
 MsgClear();
-MsgDisp("","\"Biscuit Kingdom\" in particular was
-a nice choice.");
-MsgDisp("","On top of the lightly-salted
-biscuits, there's fruits, there's
-sweets and side dishes in an hors
-d'oeuvre style dessert.");
+MsgDisp("","\"Biscuit Kingdom\" in particular was a
+nice choice.");
+MsgDisp("","On top of the lightly-salted biscuits,
+there's fruits, there's sweets and side
+dishes in an hors d'oeuvre style
+dessert.");
 MsgDisp("","Ah...It seems like the manager's
-noticed, and used the food that fills
-me up well as the topping...");
+noticed, and used the food that fills me
+up well as the topping...");
 MsgClear();
 MsgDisp("","I bow my head to the manager standing
-inside the counter, and he responds
-with a smile.");
+inside the counter, and he responds with
+a smile.");
 MsgDisp("","She's also smiling nearby.");
-MsgDisp("","I'm seriously grateful to those
-two...");
+MsgDisp("","I'm seriously grateful to those two...");
 MsgClear();
-MsgDisp("","The reason I drop by \"Cafe Alucard\"
-so frequently.");
-MsgDisp("","It's true it's because it's close to
-my work though, but I also like this
+MsgDisp("","The reason I drop by \"Cafe Alucard\" so
+frequently.");
+MsgDisp("","It's true it's because it's close to my
+work though, but I also like this
 \"soothing\" quality.");
-MsgDisp("","It's not in the least because I come
-to see her, it's not for that kind of
+MsgDisp("","It's not in the least because I come to
+see her, it's not for that kind of
 impure reason.");
 MsgClear();
-MsgDisp("","Not particularly...
-It's not like I'm making excuses to
-anyone or anything.");
+MsgDisp("","Not particularly... It's not like I'm
+making excuses to anyone or anything.");
 BGMStop();
 MsgClear();
 MsgClose();

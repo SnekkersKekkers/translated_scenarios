@@ -24,15 +24,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 MsgDisp("Himuro","I have to complain to those two.
-For causing you trouble, and hurting my
-heart.");
+For causing you trouble, and hurting
+my heart.");
 VoicePlay("T020620000_06_350");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 MsgDisp("Himuro","I want them to take responsibility.");
-MsgDisp("主人公","Ehh∋
-That—");
+MsgDisp("主人公","Ehh∋ That—");
 VoicePlay("T020620000_06_360");
 ChEye(6,0);
 ChMouth(6,4);
@@ -45,13 +44,12 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
-MsgDisp("Himuro","Everyone has graduated and from
-tomorrow...
+MsgDisp("Himuro","Everyone has graduated and from tomorrow...
 I'll be alone again.");
 VoicePlay("T020620000_06_380");
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","But, I have all the memories from
-before...so it'll be alright.");
+MsgDisp("Himuro","But, I have all the memories from before...so
+it'll be alright.");
 VoicePlay("T020620000_06_390");
 ChEye(6,4);
 ChMouth(6,3);

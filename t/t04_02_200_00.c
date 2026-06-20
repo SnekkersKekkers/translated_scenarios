@@ -5,16 +5,15 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("T040220000_02_000");
-MsgDisp("Sassa","Hey, do you remember that time Inori
-taught everyone how to surf?");
+MsgDisp("Sassa","Hey, do you remember that time Inori taught
+everyone how to surf?");
 MsgClose();
 StlOpen("ev_02_21");
 BGMPlay("BGM_PROLOGUE",0.01);
 Wait(120);
 ScrFadeIn(0);
 Wait(60);
-MsgDisp("主人公","Hehe.
-Good job everyone.");
+MsgDisp("主人公","Hehe. Good job everyone.");
 VoicePlay("T040220000_01_000");
 MsgDisp("Kazama","You're laughing carefree aren't you.");
 VoicePlay("T040220000_02_010");

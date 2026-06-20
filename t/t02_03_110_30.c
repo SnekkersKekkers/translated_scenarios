@@ -37,8 +37,9 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020311000_03_250");
-MsgDisp("Honda","Hey, don't make that look. Look up. Even
-if we're not together, let's do our best.");
+MsgDisp("Honda","Hey, don't make that look.
+Look up. Even if we're not together, let's do
+our best.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,3,1);

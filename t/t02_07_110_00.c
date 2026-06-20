@@ -2,8 +2,7 @@ BGOpen("ex170",0);
 ScrFadeIn(0);
 VoiceEVSPlay(7);
 VoicePlay("T020711000_07_000");
-MsgDisp("Mikage?","｛主人公｝, would you like to go out with
-me?");
+MsgDisp("Mikage?","｛主人公｝, would you like to go out with me?");
 SEPlay("EV_SE_872",0.5);
 Wait(47,0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
@@ -45,8 +44,8 @@ ChMotion(7,0);
 VoicePlay("T020711000_07_030");
 MsgDisp("Mikage","I'm going to graduate from Haba High along
 with you guys.");
-MsgDisp("主人公","You're going to resign from being a
-teacher at Haba High?");
+MsgDisp("主人公","You're going to resign from being a teacher
+at Haba High?");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,2);
@@ -59,15 +58,15 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020711000_07_050");
-MsgDisp("Mikage","I came to Haba High to fill in the void
-left from my high school days.");
+MsgDisp("Mikage","I came to Haba High to fill in the void left
+from my high school days.");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_060");
-MsgDisp("Mikage","I'm not the kind of person who's suited to
-be called a teacher...");
+MsgDisp("Mikage","I'm not the kind of person who's suited to be
+called a teacher...");
 ChEye(7,2);
 ChEyeOpenLevel(7,10);
 MsgDisp("主人公","That...
@@ -84,8 +83,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020711000_07_080");
-MsgDisp("Mikage","Thanks to you, I no longer have an excuse
-to run away from the family business.");
+MsgDisp("Mikage","Thanks to you, I no longer have an excuse to
+run away from the family business.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -115,8 +114,7 @@ ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_120");
-MsgDisp("Mikage","The void in my heart might have been
-filled.
+MsgDisp("Mikage","The void in my heart might have been filled.
 It was that much fun......");
 ChEye(7,4);
 ChEyeOpenLevel(7,10);
@@ -125,21 +123,20 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("T020711000_07_130");
-MsgDisp("Mikage","I see...
-I'm glad.");
+MsgDisp("Mikage","I see... I'm glad.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020711000_07_140");
-MsgDisp("Mikage","But then the void was filled and there was
-no space left—");
+MsgDisp("Mikage","But then the void was filled and there was no
+space left—");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_150");
-MsgDisp("Mikage","My feelings for you are getting stronger
-and stronger.");
+MsgDisp("Mikage","My feelings for you are getting stronger and
+stronger.");
 MsgDisp("主人公","Feelings for me...?");
 ChEye(7,2);
 ChMouth(7,4);
@@ -153,8 +150,7 @@ ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020711000_07_170");
-MsgDisp("Mikage","Yes, I...
-I love you.");
+MsgDisp("Mikage","Yes, I... I love you.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -176,8 +172,8 @@ ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020711000_07_200");
 MsgDisp("Mikage","I felt a little relieved.
-But, the regret festering within me was
-many times worse...");
+But, the regret festering within me was many
+times worse...");
 ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
@@ -190,8 +186,8 @@ ChCustomLayout(7,6,0,-2.8);
 Wait(60);
 ChOpen(7,254,2,1,4,#1,#1,0,0,0,120);
 VoicePlay("T020711000_07_220");
-MsgDisp("Mikage","If I leave my feelings for you at
-Haba High, I can't go any further.");
+MsgDisp("Mikage","If I leave my feelings for you at Haba High,
+I can't go any further.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);

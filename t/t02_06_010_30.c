@@ -1,8 +1,7 @@
 ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 BGMStop();
-MsgDisp("主人公","I'm sorry...
-I...");
+MsgDisp("主人公","I'm sorry... I...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -14,8 +13,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","Ah...
-I see.");
+MsgDisp("Himuro","Ah... I see.");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
@@ -44,8 +42,7 @@ VoicePlay("T020601000_06_360");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
-MsgDisp("Himuro","Then you can hurry up and come crying to
-me.");
+MsgDisp("Himuro","Then you can hurry up and come crying to me.");
 VoicePlay("T020601000_06_370");
 ChEye(6,0);
 ChMouth(6,3);

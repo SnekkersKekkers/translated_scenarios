@@ -1,16 +1,15 @@
 ChEyeOpenLevel(6,#1);
 ChCheek(6,0);
 BGMStop();
-MsgDisp("主人公","I'm sorry...
-I...");
+MsgDisp("主人公","I'm sorry... I...");
 ChEye(6,2);
 ChMouth(6,4);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020600000_06_530");
 MsgDisp("Himuro","Ah...
-I see I guess, that was just my own
-selfish expectation.");
+I see I guess, that was just my own selfish
+expectation.");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 BGMPlay("BGM_C06_INORI_B",0.01);
 Wait(40,0);
@@ -45,8 +44,8 @@ VoicePlay("T020600000_06_580");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,0);
-MsgDisp("Himuro","I will never forget the memories I have
-with you from our school life.");
+MsgDisp("Himuro","I will never forget the memories I have with
+you from our school life.");
 VoicePlay("T020600000_06_590");
 ChEye(6,2);
 ChMouth(6,3);

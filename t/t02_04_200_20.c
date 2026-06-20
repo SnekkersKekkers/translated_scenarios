@@ -21,8 +21,7 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("T020420000_04_130");
-MsgDisp("Nanatsumori","I see...
-Haha!");
+MsgDisp("Nanatsumori","I see... Haha!");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("T020420000_04_140");
@@ -31,7 +30,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_150");
-MsgDisp("Nanatsumori","But, before that. ...come here.");
+MsgDisp("Nanatsumori","But, before that.
+...come here.");
 MsgDisp("主人公","Yes.");
 BGMStop(2.8);
 MsgClear();
@@ -41,8 +41,9 @@ Wait(120,0);
 StlOpen("ev_04_17");
 ScrFadeIn(0);
 VoicePlay("T020420000_04_160");
-MsgDisp("Nanatsumori","I love you. From now on please continue
-looking at me...Look only at me.");
+MsgDisp("Nanatsumori","I love you.
+From now on please continue looking at me...
+Look only at me.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

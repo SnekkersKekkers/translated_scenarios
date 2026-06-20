@@ -12,28 +12,27 @@ ChMouth(6,1);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 ChCheek(6,10);
-MsgDisp("Himuro","But still— Is it normal to hug someone
-in this situation?");
+MsgDisp("Himuro","But still—
+Is it normal to hug someone in this
+situation?");
 VoicePlay("T020620000_06_260");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
-MsgDisp("Himuro","Sigh...
-I really can't read your actions.");
+MsgDisp("Himuro","Sigh... I really can't read your actions.");
 VoicePlay("T020620000_06_270");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
-MsgDisp("Himuro","Come to think about it, on the way home
-from hanging out together, you often used
-to surprise me like this...");
+MsgDisp("Himuro","Come to think about it, on the way home from
+hanging out together, you often used to
+surprise me like this...");
 VoicePlay("T020620000_06_280");
 ChEye(6,2);
 ChMouth(6,0);
-MsgDisp("Himuro","I couldn't understand it, it bothered
-me...
+MsgDisp("Himuro","I couldn't understand it, it bothered me...
 I almost asked those two for advice.");
 MsgDisp("主人公","Eh∋");
 VoicePlay("T020620000_06_290");
@@ -46,8 +45,8 @@ VoicePlay("T020620000_06_300");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","I need to be the only one to be aware of
-your innocence.");
+MsgDisp("Himuro","I need to be the only one to be aware of your
+innocence.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

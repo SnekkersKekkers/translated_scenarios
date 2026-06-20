@@ -19,8 +19,8 @@ MsgDisp("主人公","Eh?");
 NSSEye(6,6);
 NSSMouth(6,3);
 VoicePlay("T040600000_06_020");
-MsgDisp("Himuro","Of course, it wasn't all good, and there
-were many troubles...");
+MsgDisp("Himuro","Of course, it wasn't all good, and there were
+many troubles...");
 NSSEye(6,4);
 NSSMouth(6,3);
 VoicePlay("T040600000_06_030");
@@ -29,8 +29,8 @@ alongside you.");
 NSSEye(6,4);
 NSSMouth(6,3);
 VoicePlay("T040600000_06_040");
-MsgDisp("Himuro","And it is because of that, I'm very happy
-now.");
+MsgDisp("Himuro","And it is because of that, I'm very
+happy now.");
 MsgDisp("主人公","Yes...me too.");
 NSSEye(6,4);
 NSSMouth(6,4);

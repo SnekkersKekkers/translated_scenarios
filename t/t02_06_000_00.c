@@ -31,8 +31,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("T020600000_06_040");
 MsgDisp("Himuro","I'll truly get what I deserve.
-I've been treating you horribly all this
-time...");
+I've been treating you horribly all
+this time...");
 MsgDisp("主人公","That's not...");
 ChEye(6,2);
 ChMouth(6,0);
@@ -40,29 +40,28 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 Wait(60,0);
 VoicePlay("T020600000_06_050");
-MsgDisp("Himuro","Back then, I felt trapped by my own
-surname.");
+MsgDisp("Himuro","Back then, I felt trapped by my own surname.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020600000_06_060");
 MsgDisp("Himuro","The expectations tied to the Himuro name
-were too high, and I couldn't bear them
-all on my own...");
+were too high, and I couldn't bear them all
+on my own...");
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020600000_06_070");
-MsgDisp("Himuro","I just kept rejecting everything and
-everyone around me.");
+MsgDisp("Himuro","I just kept rejecting everything and everyone
+around me.");
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020600000_06_080");
 MsgDisp("Himuro","It was stupid of me, wasn't it...
-If I'd stayed that way, I'd surely be
-alone right now.");
+If I'd stayed that way, I'd surely be alone
+right now.");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -77,16 +76,16 @@ ChMouth(6,4);
 ChMotion(6,0);
 ChEyeOpenLevel(6,9);
 VoicePlay("T020600000_06_100");
-MsgDisp("Himuro","You didn't expect anything of me, and
-didn't force anything onto me.
+MsgDisp("Himuro","You didn't expect anything of me, and didn't
+force anything onto me.
 You just always stayed by my side.");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020600000_06_110");
-MsgDisp("Himuro","It all seemed so nonchalant at first, it
-even annoyed me sometimes.");
+MsgDisp("Himuro","It all seemed so nonchalant at first, it even
+annoyed me sometimes.");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,2);
@@ -100,8 +99,8 @@ ChMotion(6,3,1);
 ChEyeOpenLevel(6,9);
 VoicePlay("T020600000_06_130");
 MsgDisp("Himuro","I felt like that last summer.
-Do you remember when I invited you out to
-the sea in the morning?");
+Do you remember when I invited you out to the
+sea in the morning?");
 MsgDisp("主人公","Yes.");
 ChEye(6,4);
 ChMouth(6,4);

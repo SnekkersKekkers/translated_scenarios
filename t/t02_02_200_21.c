@@ -7,14 +7,13 @@ ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("T020220021_02_000");
 MsgDisp("Sassa","...You kissed me?");
-MsgDisp("主人公","Yes...
-I also love ｛Sassa＊＊｝.");
+MsgDisp("主人公","Yes... I also love ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220021_02_010");
-MsgDisp("Sassa","Seriously...will you continue to run with
-me from now on?");
+MsgDisp("Sassa","Seriously...will you continue to run with me
+from now on?");
 MsgDisp("主人公","Yes!
 Let's try to achieve ｛Sassa＊＊｝'s dream
 together.");
@@ -23,10 +22,9 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("T020220021_02_020");
 MsgDisp("Sassa","Nothing could make me happier!
-I'm going to tell them both that you
-answered with a kiss!!");
-MsgDisp("主人公","Eh∋
-That's a little...");
+I'm going to tell them both that you answered
+with a kiss!!");
+MsgDisp("主人公","Eh∋ That's a little...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -52,8 +50,7 @@ MsgDisp("Sassa","Show your face...");
 VoiceEVSPlay(2);
 VoicePlay("T020220021_02_060");
 MsgDisp("Sassa","｛主人公｝...
-Yes...
-I love you.");
+Yes... I love you.");
 StlEffect(1,1,60);
 Wait(60,0);
 SEPlay("EV_SE_695");

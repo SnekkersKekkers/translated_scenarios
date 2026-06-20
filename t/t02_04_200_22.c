@@ -6,7 +6,8 @@ ChMotion(4,5);
 ChCheek(4,10);
 VoicePlay("T020420000_04_240");
 MsgDisp("Nanatsumori","Hey...∋");
-MsgDisp("主人公","I was also pushed! ...to ｛Nanatsumori＊｝.");
+MsgDisp("主人公","I was also pushed!
+...to ｛Nanatsumori＊｝.");
 ChMouth(4,4);
 ChMotion(4,0,1);
 ChCheek(4,0);
@@ -24,8 +25,7 @@ ChMotion(4,2,1);
 ChEyeOpenLevel(4,0);
 ChCheek(4,6);
 VoicePlay("T020420000_04_270");
-MsgDisp("Nanatsumori","Aah.
-So cute!");
+MsgDisp("Nanatsumori","Aah. So cute!");
 MsgDisp("主人公","Hehe!");
 ChEye(4,4);
 ChMouth(4,4);
@@ -46,8 +46,7 @@ StlOpen("ev_04_17");
 ScrFadeIn(0);
 VoicePlay("T020420000_04_300");
 VoiceEVSPlay(4);
-MsgDisp("Nanatsumori","I will treasure you for the rest of my
-life.
+MsgDisp("Nanatsumori","I will treasure you for the rest of my life.
 I love you, ｛主人公｝...");
 StlEffect(1,1,60);
 Wait(60,0);
