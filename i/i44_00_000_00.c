@@ -15,5 +15,6 @@ Feel free to come back if the chance arises.");
 MsgDisp("主人公","Thank you for looking after me. Bye...");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("","(I quit my part-time job at Flower Shop Annalee.)");
+MsgDisp("","(I quit my part-time job at Flower Shop
+Annalee.)");
 MsgClose();

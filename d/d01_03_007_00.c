@@ -6,9 +6,9 @@ Time to take a break and watch some TV—)");
 SEPlay("EV_SE_721",0,0.6);
 SEWait();
 VoicePlay("D010300700_43_000");
-MsgDisp("Moderator","Correct answer∈
-And the winner of the \"Quiz∈ Brain Interhigh\"
-is Habataki Academy's second year student—");
+MsgDisp("Moderator","Correct answer∈ And the winner of the
+\"Quiz∈ Brain Interhigh\" is Habataki
+Academy's second year student—");
 MsgDisp("主人公","(Eh...)");
 MsgClose();
 ScrFadeOut(0);
@@ -50,8 +50,8 @@ VoicePlay("D010300700_43_040");
 MsgDisp("Moderator","Honda-kun, you and your family seem
 very close!");
 VoicePlay("D010300700_43_050");
-MsgDisp("Moderator","The live broadcast of this year's \"Quiz∈ Brain
-Interhigh\" will end here.
+MsgDisp("Moderator","The live broadcast of this year's \"Quiz∈
+Brain Interhigh\" will end here.
 Tune in again next year～!");
 StlEye(3,0);
 StlMouth(3,0);

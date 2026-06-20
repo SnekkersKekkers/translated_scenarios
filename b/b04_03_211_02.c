@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321102_03_000");
 MsgDisp("Honda","Looks like they're doing a night zoo.");
-MsgSel("Seems somewhat fun!","Is it dangerous?","I wonder if you'll even be able to see properly");
+MsgSel("It seems kinda fun!","Is it dangerous?","I wonder if you'll even be able to see properly?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

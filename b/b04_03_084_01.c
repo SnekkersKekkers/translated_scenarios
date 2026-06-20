@@ -8,7 +8,7 @@ VoicePlay("B040308401_03_000");
 MsgDisp("Honda","Hey, look.
 The leaves from the broadleaf trees are
 falling into the pond.");
-MsgSel("The colour-changing leaves are pretty!","I wonder if it'll dirty the pond water?","The firefly habitat is wonderful in the fall too");
+MsgSel("The colour-changing leaves are pretty!","I wonder if it'll dirty the pond water?","The firefly habitat is wonderful in the fall too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -58,7 +58,8 @@ VoicePlay("G020130200_01_070");
 MsgDisp("Kazama","There you go again.
 You're such a glutton, like a little
 firefly grub.");
-MsgDisp("主人公","Knock it off! \"Grub\" is gross!");
+MsgDisp("主人公","Knock it off!
+\"Grub\" is gross!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

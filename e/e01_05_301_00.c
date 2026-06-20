@@ -17,8 +17,8 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("E010530100_04_010");
-MsgDisp("Nanatsumori","You just made a face that said \"again? \".
-...Well, I guess \"again\" is right.");
+MsgDisp("Nanatsumori","You just made a face that said
+\"again?\". ...Well, I guess \"again\" is right.");
 MsgDisp("主人公","Hehe. Shall we look for it together?");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChPosition(4,2);

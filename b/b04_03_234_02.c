@@ -5,9 +5,9 @@ ChOpen(3,255,0,0,0,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323402_03_000");
-MsgDisp("Honda","I really like the structure of the planetary
-gear mechanism itself.");
-MsgSel("If you think about difficult things, you might end up motion-sick ","If you like it, how about another round?","Planetary gear mechanism??");
+MsgDisp("Honda","I really like the structure of the Planetary
+Gear Mechanism itself.");
+MsgSel("If you think about difficult things, you might end up motion-sick.","If you like it, how about another round?","The Planetary Gear Mechanism??");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(3,6)){

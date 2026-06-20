@@ -27,8 +27,8 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,3);
 VoicePlay("P533100002_31_020");
-MsgDisp("Goro","It's starting, huh? \"Fourth・Heart\", my heart
-is throbbing!");
+MsgDisp("Goro","It's starting, huh?
+\"Fourth・Heart\", my heart is throbbing!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);

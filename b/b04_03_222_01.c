@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040322201_03_000");
 MsgDisp("Honda","There's a souvenir corner over here.");
-MsgSel("Even castle stamps","Even castle tile rice crackers","This set of three postcards is a bit strange, isn't it?");
+MsgSel("There's even Castle Stamps.","They have Castle Rice Crackers, too.","This postcard set is a bit strange, isn't it?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
@@ -38,9 +38,9 @@ built. The motif is a bellflower.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040322201_03_030");
-    MsgDisp("Honda","Haha, the view from the castle tower and the
-stone walls, and the last one is a secret.
-...Shall I buy one?");
+    MsgDisp("Honda","Haha, there's the view from the castle tower,
+and the stone walls, but the last one is a
+secret. ...Shall I buy it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

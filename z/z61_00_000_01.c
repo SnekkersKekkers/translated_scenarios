@@ -1,4 +1,4 @@
-MsgSel("Aim for university.","Aim for a job.","Hear about other people's choice.");
+MsgSel("Aim for university","Aim for a job","Hear about other people's choice");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","(Alright!

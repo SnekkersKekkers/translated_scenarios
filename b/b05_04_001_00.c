@@ -114,9 +114,9 @@ StlEye(4,0);
 StlMouth(4,1);
 StlEyeOpenLevel(4,5);
 VoicePlay("B050400100_04_100");
-MsgDisp("Nanatsumori","Ah, that's cool. \"Matcha Whirlwind\" is
-delicious, so I'm good with it.
-I'll take a refill.");
+MsgDisp("Nanatsumori","Ah, that's cool.
+\"Matcha Whirlwind\" is delicious, so I'm good
+with it. I'll take a refill.");
 VoicePlay("B050400100_46_030");
 MsgDisp("Clerk","C-Certainly!
 One order of the \"Matcha whirlwind\"～!");

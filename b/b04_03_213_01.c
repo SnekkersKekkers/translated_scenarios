@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040321301_03_000");
 MsgDisp("Honda","Huh, there's an animal that wasn't here
 last time?");
-MsgSel("Amazing! You have a good memory","The kitten sleeping on the sofa?","The doggy by the entrance is just a statue, right?");
+MsgSel("Amazing! You have a good memory.","The kitten sleeping on the sofa?","The doggy by the entrance is just a statue, right?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);
