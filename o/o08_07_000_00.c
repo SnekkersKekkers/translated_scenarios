@@ -6,7 +6,7 @@ switch (ChPrmGet(7,6)){
     case 1:
     case 2:
     MsgDisp("主人公","(Next is...
-Ah, ｛Mikage＊＊｝!?)");
+Ah, ｛Mikage＊＊｝∋)");
     MsgClose();
     ChOpen(7,37,0,0,0,#1,#1,0,0);
     VoicePlay("O080700000_07_000");
@@ -47,7 +47,7 @@ I want to do this.");
     MsgDisp("Mikage","I guess so.
 I heard that Vice Principal Himuro also
 participated in the past.");
-    MsgDisp("主人公","Huh!? Is that true?");
+    MsgDisp("主人公","Huh∋ Is that true?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

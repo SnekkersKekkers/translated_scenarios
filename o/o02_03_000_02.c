@@ -14,7 +14,7 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("O020300002_03_000");
-    MsgDisp("Honda","Huh, it ended!?
+    MsgDisp("Honda","Huh, it ended∋
 Since we're already here, we should've seen
 it through.");
     MsgDisp("主人公","(A draw, huh...

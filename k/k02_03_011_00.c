@@ -21,7 +21,7 @@ VoicePlay("K020301100_03_010");
 MsgDisp("Honda","Then...here!
 It's your birthday today, right?
 So here's your present.");
-MsgDisp("主人公","Oh!? You remembered?");
+MsgDisp("主人公","Oh∋ You remembered?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4);

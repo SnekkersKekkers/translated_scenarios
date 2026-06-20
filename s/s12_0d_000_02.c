@@ -45,7 +45,7 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("S120D00002_22_020");
-MsgDisp("Hikaru","Let's play a lot this year!
+MsgDisp("Hikaru","Let's play a lot this year♪
 A bientot!");
 MsgClose();
 SEPlay("EV_SE_856");

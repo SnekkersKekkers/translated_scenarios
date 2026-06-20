@@ -74,7 +74,7 @@ teasing, but he looked super happy!)");
     MsgDisp("Kazama","You incorporated my tastes, so I know it's
 handmade, but...
 It's so good you could sell it.");
-    MsgDisp("主人公","Really!?
+    MsgDisp("主人公","Really∋
 Thank you.");
     ChEye(1,4);
     ChMouth(1,3);

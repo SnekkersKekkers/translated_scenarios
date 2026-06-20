@@ -7,7 +7,7 @@ Right, Hikaru will give you this.");
 MsgDisp("主人公","Lipstick?");
 ChMotion(22,3,1);
 VoicePlay("U032200000_22_010");
-MsgDisp("Hikaru","Yep, it smells good.
+MsgDisp("Hikaru","Yep, it smells good♪
 Thanks for hanging out with Hikaru today.");
 MsgSel("Accept Camellia Lipstick","Don't accept it");
 switch (MsgSelRsltGet()){

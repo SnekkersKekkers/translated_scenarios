@@ -79,7 +79,7 @@ today...");
     MsgDisp("Shirahane","So I'll go brag 'bout this chocolate before
 the manager scolds me.
 Thanks, ｛主人公｝.");
-    MsgDisp("主人公","(Huh!? Will he be fine...
+    MsgDisp("主人公","(Huh∋ Will he be fine...
 But, he seemed really happy.
 Thank goodness!)");
     break ;

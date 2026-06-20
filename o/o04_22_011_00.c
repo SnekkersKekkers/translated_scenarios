@@ -24,7 +24,7 @@ Maybe Hikaru will get a little serious♪");
     case 5:
     ChMotion(22,4,1);
     VoicePlay("O042201100_22_020");
-    MsgDisp("Hikaru","Mari's on the enemy team!?
+    MsgDisp("Hikaru","Mari's on the enemy team∋
 But Hikaru's going to get serious!");
     break ;
     default :

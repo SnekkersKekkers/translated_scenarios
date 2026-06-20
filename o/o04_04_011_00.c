@@ -28,7 +28,7 @@ Go easy on us...");
     ScrFadeIn(0);
     ChMotion(4,1,1);
     VoicePlay("O040401100_04_020");
-    MsgDisp("Nanatsumori","Seriously!?
+    MsgDisp("Nanatsumori","Seriously∋
 Why are you on the other team!?
 You're normally on mine.");
     break ;

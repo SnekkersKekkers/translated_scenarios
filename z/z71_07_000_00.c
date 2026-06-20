@@ -25,7 +25,7 @@ SEPlay("EV_SE_863",0,0.6);
 Wait(30,1);
 MsgDisp("主人公","(Ah!
 ｛Mikage＊＊｝ is my homeroom teacher again
-this year!?)");
+this year∋)");
 VoicePlay("Z710700000_44_000");
 MsgDisp("Girl A","Even though the overalls were cool.");
 ChEye(7,2);

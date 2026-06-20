@@ -59,7 +59,7 @@ I heard people line up for it everyday!");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("L040300002_03_070");
-    MsgDisp("Honda","What!? You can't!");
+    MsgDisp("Honda","What∋ You can't!");
     MsgDisp("主人公","Hehe.");
     ChEye(3,0);
     ChMouth(3,3);

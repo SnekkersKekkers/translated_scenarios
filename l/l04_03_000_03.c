@@ -14,7 +14,7 @@ decorations from?");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300003_03_010");
-    MsgDisp("Honda","What!? You did, for me?
+    MsgDisp("Honda","What∋ You did, for me?
 I feel a little bad.");
     ChEye(3,0);
     ChMouth(3,3);
@@ -97,7 +97,7 @@ I'll savour it, okay?");
 Before I eat it, can we take a picture with
 the chocolate?");
     MsgDisp("主人公","(｛Honda＊＊｝ seemed really happy!
-I did it!!)");
+I did it∈)");
     break ;
     default :
     DbgAssert(1);

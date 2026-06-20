@@ -8,7 +8,7 @@ ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,2,1);
 VoicePlay("L010D00107_22_000");
-MsgDisp("Hikaru","Um!? It's certainly amazing...?");
+MsgDisp("Hikaru","Um∋ It's certainly amazing...?");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);

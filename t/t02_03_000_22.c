@@ -10,7 +10,8 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 ChCheek(3,5);
 VoicePlay("T020300022_03_010");
-MsgDisp("Honda","So, can I stay with you forever?");
+MsgDisp("Honda","Really∋
+So, can I stay with you forever?");
 MsgDisp("主人公","Hehe, yes.
 Please take care of me.");
 ChEye(3,0);

@@ -13,7 +13,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("K020400000_04_000");
 MsgDisp("Nanatsumori","Evening.");
-MsgDisp("主人公","｛Nanatsumori＊｝!?
+MsgDisp("主人公","｛Nanatsumori＊｝∋
 Um, what's up?");
 ChEye(4,2);
 ChMouth(4,3);

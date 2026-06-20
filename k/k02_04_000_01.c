@@ -13,7 +13,7 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 VoicePlay("K020400001_04_000");
 MsgDisp("Nanatsumori","Hey. Sorry for coming so late.");
-MsgDisp("主人公","｛Nanatsumori＊｝!?
+MsgDisp("主人公","｛Nanatsumori＊｝∋
 What's up so suddenly?");
 SEPlay("EV_SE_665");
 SEWait();

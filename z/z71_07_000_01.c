@@ -12,9 +12,9 @@ BGMPlay("BGM_C07_MIKAGE_A",0.01);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 SEPlay("EV_SE_GAYA_023",0.01,0.5);
-SEPlay("EV_SE_863")MsgDisp("主人公","(Huh!?
+SEPlay("EV_SE_863")MsgDisp("主人公","(Huh∋
 ｛Mikage＊＊｝ is my teacher again
-this year!?)");
+this year∈)");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

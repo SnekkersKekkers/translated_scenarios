@@ -17,7 +17,7 @@ Finishing blow!");
 VoicePlay("P240D01000_46_000");
 MsgDisp("White","A beginner of love...?
 Love hunter, White angel! 
-\"Love Heart Forever\".");
+\"Love Heart Forever∈\"");
 SEPlay("EV_SE_809");
 Wait(100,0);
 BGMStop(2);

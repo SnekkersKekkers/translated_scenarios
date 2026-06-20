@@ -63,7 +63,7 @@ Our bodies too, perfect...");
     ChMotion(4,1,1);
     ChCheek(4,10);
     VoicePlay("O030400000_04_060");
-    MsgDisp("Nanatsumori","Nothing!!
+    MsgDisp("Nanatsumori","Nothing∋
 What am I saying...");
     ChEye(4,2);
     ChMouth(4,3);
