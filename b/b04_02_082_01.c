@@ -24,7 +24,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040208201_02_020");
-    MsgDisp("Sassa","Ehhh—, you know?
+    MsgDisp("Sassa","You know?
 It seems like there's even a world tournament
 for it. Next time let's do it at a river.");
     MsgDispSksp(1,0);

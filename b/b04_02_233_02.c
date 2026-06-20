@@ -62,7 +62,7 @@ I'm sorry.");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040223302_02_050");
-        MsgDisp("Sassa","I'm kind of insensitive, huh—");
+        MsgDisp("Sassa","I'm kind of insensitive, huh?");
         MsgDisp("主人公","I didn't mean to blame you like that...
 ｛Sassa＊＊｝ is always kind and looking out
 for me.");

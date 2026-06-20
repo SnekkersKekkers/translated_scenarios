@@ -81,7 +81,7 @@ It seems kinda cool.");
         MsgDisp("Kazama","No, don't look too close, actually. it's
 dangerous.
 Yeah, dangerous. That's why you're banned.");
-        MsgDisp("主人公","Hey.. what do you mean souvenirs are banned?");
+        MsgDisp("主人公","Hey... what do you mean souvenirs are banned?");
         ChEye(1,4);
         ChMouth(1,0);
         ChMotion(1,0);

@@ -12,5 +12,5 @@ VoicePlay("B020402135_04_010");
 MsgDisp("Nanatsumori","That's serious skill.
 Combining those two is perfect.
 I should take notes.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ complimented me.♪
+MsgDisp("主人公","(｛Nanatsumori＊｝ complimented me♪
 I'm glad I checked what's trending!)");

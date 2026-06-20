@@ -36,7 +36,7 @@ It stands out. ...Just my opinion.");
     ChCheek(1,7);
     VoicePlay("B040111001_01_020");
     MsgDisp("Kazama","You don't need to be that bold.
-People are looking..
+People are looking...
 Especially at you.");
     MsgDateResultDisp();
     break ;

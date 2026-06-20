@@ -16,7 +16,7 @@ another sleepover?");
 VoicePlay("U160D00001_22_001");
 StlEye(22,2);
 StlMouth(22,0);
-MsgDisp("Hikaru","Agreed.♪");
+MsgDisp("Hikaru","Agreed♪");
 MsgDisp("主人公","Eh, but, my love life...");
 VoicePlay("U160D00001_22_010");
 StlEye(22,0);

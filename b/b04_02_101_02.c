@@ -27,7 +27,7 @@ not what I meant.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040210102_02_020");
-    MsgDisp("Sassa","Ehhh—,nice.
+    MsgDisp("Sassa","Huh, that's nice.
 That's the best outcome.
 Well, I completely don't get it though.");
     MsgDispSksp(1,0);

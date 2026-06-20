@@ -83,7 +83,7 @@ No. Put yourself in my shoes for once!");
         ChMotion(1,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040120002_01_080");
-        MsgDisp("Kazama","Pheww—, I'm not angry—.
+        MsgDisp("Kazama","Sigh. I'm not angry—
 It's just that the stuff you randomly throw
 out there hits me right where it hurts.");
         MsgDisp("主人公","I'm sorry...
@@ -94,7 +94,7 @@ I won't say it anymore, okay?");
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040120002_01_090");
-        MsgDisp("Kazama","Ahhh—, it's fine.
+        MsgDisp("Kazama","It's fine.
 Just stay the way you are.");
         ChEye(1,2);
         ChMouth(1,2);

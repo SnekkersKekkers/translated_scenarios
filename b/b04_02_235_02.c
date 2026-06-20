@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040223502_02_010");
     MsgDisp("Sassa","But the fact that rules don't apply to them,
-is the scary part—.");
+that's the scary part.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

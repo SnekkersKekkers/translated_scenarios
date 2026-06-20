@@ -14,5 +14,5 @@ ChMotion(5,0);
 VoicePlay("B020502136_05_010");
 MsgDisp("Hiiragi","Yes. You're always keeping up with trends.
 As expected from the fashion master.");
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝ complimented me.♪
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝ complimented me♪
 I'm glad I checked what's trending!)");

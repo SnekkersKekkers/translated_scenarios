@@ -37,7 +37,7 @@ Even I could watch it without getting bored.");
     VoicePlay("B040219100_02_020");
     MsgDisp("Sassa","Right right.
 Those experts who popped out every now and
-again? That was painful—.");
+again? That was painful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

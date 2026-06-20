@@ -18,7 +18,7 @@ StlEye(22,2);
 VoicePlay("U140D00004_22_010");
 MsgDisp("Hikaru","That's great!
 If we're with Mari, we'll be the first ones
-to discover all the new trends.▼");
+to discover all the new trends▼");
 StlEye(21,0);
 MsgDisp("主人公","(I'm so happy they noticed me checking out
 what's trending!)");

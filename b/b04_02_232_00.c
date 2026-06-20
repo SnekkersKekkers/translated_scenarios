@@ -14,7 +14,7 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223200_02_010");
-    MsgDisp("Sassa","Well, that's the only thing to do here—.");
+    MsgDisp("Sassa","Well, that's the only thing to do here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -28,7 +28,7 @@ Just like last night's dream...
 How strange...)");
 Wait(30,1);
 EfctOpen(6);
-MsgDisp("主人公","(Whoa—! The sun's so bright!)");
+MsgDisp("主人公","(Whoa! The sun's so bright!)");
 MsgClose();
 ScrFadeOut(0,1);
 EfctClose();
@@ -44,7 +44,7 @@ EfctOpen(6);
 BGMPlay("BGM_C01_RYOUTA_I",0.01);
 ScrFadeIn(0);
 MsgDisp("主人公","∋
-Wait... No way... Ryo—!?
+Wait... No way... Ryo—
 ｛Kazama＊＊｝?");
 StlEye(1,1);
 StlMouth(1,1);

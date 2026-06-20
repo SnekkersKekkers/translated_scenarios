@@ -6,7 +6,7 @@ ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("B020400013_04_000");
 MsgDisp("Nanatsumori","Nice...");
-MsgDisp("主人公","I'm wearing a yukata today.▼
+MsgDisp("主人公","I'm wearing a yukata today▼
 Same as you, right?");
 ChEye(4,0);
 ChMouth(4,4);

@@ -106,7 +106,7 @@ a higher gear without even trying.");
         ChMotion(2,3);
         VoicePlay("B040208502_02_120");
         MsgDisp("Sassa","A little more seriously.");
-        MsgDisp("主人公","｛Sassa＊＊｝, keep at it!∈");
+        MsgDisp("主人公","｛Sassa＊＊｝, keep at it∈");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3,1);
