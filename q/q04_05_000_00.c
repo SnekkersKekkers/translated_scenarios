@@ -15,7 +15,7 @@ free period?");
     break ;
     case 3:
     MsgDisp("主人公","(Hmmm, ｛Hiiragi＊＊＊｝ is...there!)");
-    MsgDisp("主人公","｛Hiiragi＊＊＊｝ !");
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(5,254,0,0,4,#1,#1,0,0);

@@ -36,7 +36,7 @@ ChMotion(5,0);
 VoicePlay("Q120C00000_05_030");
 MsgDisp("Hiiragi","Thanks to you and Mikage-sensei, my first
 school trip became the best memory for me.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝ ...");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);

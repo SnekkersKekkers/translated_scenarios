@@ -40,7 +40,7 @@ VoicePlay("Q070200000_02_040");
 MsgDisp("Sassa","I think so too.
 Getting to go sightseeing in Nagasaki with
 you... I'm really lucky.");
-MsgDisp("主人公","(｛Sassa＊＊｝ ...)");
+MsgDisp("主人公","(｛Sassa＊＊｝...)");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

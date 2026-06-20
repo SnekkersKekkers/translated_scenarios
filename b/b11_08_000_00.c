@@ -33,7 +33,7 @@ BGMPlay("BGM_C08_DAICHI_A",0.01);
 MsgClose();
 ChOpen(8,253,0,3,4,10,#1,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Daichi＊＊｝ !");
+MsgDisp("主人公","｛Daichi＊＊｝!");
 MsgDispSksp(1,5);
 VoicePlay("B110800000_08_010");
 MsgDisp("Shirahane","That girl is my girlfriend.");

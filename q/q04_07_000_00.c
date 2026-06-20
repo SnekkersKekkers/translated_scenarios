@@ -13,7 +13,7 @@ You look excited.");
 around with me?");
     break ;
     case 3:
-    MsgDisp("主人公","｛Mikage＊＊｝ !");
+    MsgDisp("主人公","｛Mikage＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
@@ -34,7 +34,7 @@ with me?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛Mikage＊＊｝ !");
+    MsgDisp("主人公","｛Mikage＊＊｝!");
     MsgClose();
     SEPlay("EV_SE_544");
     ChOpen(7,254,0,0,0,#1,#1,0,0);

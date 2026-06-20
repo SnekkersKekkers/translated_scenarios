@@ -58,7 +58,7 @@ VoicePlay("B360450101_04_060");
 MsgDisp("Nanatsumori","You've got a lot of memories from your
 childhood engraved into it, right?
 I don't want to destroy those things either.");
-MsgDisp("主人公","｛Nanatsumori＊｝ ...you're kind.");
+MsgDisp("主人公","｛Nanatsumori＊｝... You're kind.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

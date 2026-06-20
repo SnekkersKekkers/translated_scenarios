@@ -37,7 +37,7 @@ StlEye(5,0,1);
 SEPlay("EV_SE_777",0,0.9);
 Wait(150,1);
 SEStop("EV_SE_777",0.1);
-MsgDisp("主人公","｛Hiiragi＊＊＊｝ !");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝!");
 StlEye(5,3);
 VoicePlay("Q070501000_05_020");
 MsgDisp("Hiiragi","Eh...");
