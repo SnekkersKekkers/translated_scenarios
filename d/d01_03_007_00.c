@@ -7,7 +7,7 @@ SEPlay("EV_SE_721",0,0.6);
 SEWait();
 VoicePlay("D010300700_43_000");
 MsgDisp("Moderator","Correct answer∈
-And the winner of the \"Quiz Brain Interhigh\"
+And the winner of the \"Quiz∈ Brain Interhigh\"
 is Habataki Academy's second year student—");
 MsgDisp("主人公","(Eh...)");
 MsgClose();
