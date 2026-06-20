@@ -33,7 +33,7 @@ use of the original work huh?");
     ChEye(3,1);
     ChMouth(3,4);
     VoicePlay("B040318500_03_020");
-    MsgDisp("Honda","Ah—, was it that bad?
+    MsgDisp("Honda","Ah. Was it that bad?
 Adapting it to film is definitely
 hard, though.");
     MsgDateResultDisp();

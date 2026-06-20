@@ -41,7 +41,7 @@ It's hard and sturdy, with beautiful grain!");
     ChMouth(3,4);
     ChMotion(3,5);
     VoicePlay("B040322101_03_030");
-    MsgDisp("Honda","Ah—, that, huh～
+    MsgDisp("Honda","Ah— That, huh～
 I'll look into it properly next time.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -75,7 +75,7 @@ other places, it would be more fun with you.");
         ChMouth(2,3);
         ChMotion(2,3);
         VoicePlay("B040224202_02_070");
-        MsgDisp("Sassa","Aah—, you tricked me huh!");
+        MsgDisp("Sassa","Ah! You caught me, huh?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);

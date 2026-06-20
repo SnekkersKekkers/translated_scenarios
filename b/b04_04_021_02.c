@@ -68,7 +68,7 @@ My heart was racing every day.");
         MsgDisp("Nanatsumori","It was, it was.
 I wondered when you would blurt out my true
 identity.");
-        MsgDisp("主人公","Eh.. So that's what you were thinking...");
+        MsgDisp("主人公","Eh... So that's what you were thinking...");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,3);

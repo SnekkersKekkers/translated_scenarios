@@ -66,7 +66,7 @@ thing was...");
         ChMouth(3,1);
         ChMotion(3,5);
         VoicePlay("B040310102_03_050");
-        MsgDisp("Honda","Ah—, this won't do!");
+        MsgDisp("Honda","Ah! This won't do!");
         MsgDisp("主人公","W-What's wrong?");
         ChEye(3,2);
         ChMouth(3,2);

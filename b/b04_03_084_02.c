@@ -127,7 +127,7 @@ have to lay eggs quickly...");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040308402_03_140");
-    MsgDisp("Honda","Leaf bonfires are nice, huh—.
+    MsgDisp("Honda","Leaf bonfires are nice, huh?
 I love them too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

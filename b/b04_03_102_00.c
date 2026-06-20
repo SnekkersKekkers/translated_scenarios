@@ -29,7 +29,7 @@ Let's learn from scratch.");
     ChMotion(3,5);
     VoicePlay("B040310200_03_020");
     MsgDisp("Honda","Ehh∋
-You're starting all the way back there—.
+You're starting all the way back there?
 Such initiative. I should take notes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

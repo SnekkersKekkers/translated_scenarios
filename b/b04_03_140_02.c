@@ -44,7 +44,7 @@ songs would be good too.");
         ChMouth(3,4);
         ChMotion(3,5);
         VoicePlay("B040314002_03_030");
-        MsgDisp("Honda","Eh—, that's harsh.
+        MsgDisp("Honda","Eh? That's harsh.
 I'm not really good with group stuff, though.");
         MsgDateResultDisp();
         break ;
@@ -114,8 +114,8 @@ things, so I don't think that would happen.");
         ChMotion(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040314002_03_130");
-        MsgDisp("Honda","Always, huh—.
-Just the two of us, forever—.
+        MsgDisp("Honda","Always, huh?
+Just the two of us, forever.
 Yeah, this is the best!");
         MsgDisp("主人公","(...Hm? Is he happy with some other meaning?)");
         break ;

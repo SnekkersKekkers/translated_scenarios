@@ -24,7 +24,7 @@ switch (MsgSelRsltGet()){
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("B040403101_04_010");
-    MsgDisp("Nanatsumori","Well, it is fluffy but..
+    MsgDisp("Nanatsumori","Well, it is fluffy but...
 Look at the size of that chick!
 Pay attention to that too∈");
     MsgDispSksp(1,0);
@@ -51,7 +51,7 @@ Damn! That's funny, I'll take a picture.");
     VoicePlay("B040403101_04_030");
     MsgDisp("Nanatsumori","Your reasoning for it being scary is that
 it's big?
-I don't understand—...");
+I don't understand...");
     MsgDateResultDisp();
     break ;
     default :

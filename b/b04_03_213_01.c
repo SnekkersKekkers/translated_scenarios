@@ -40,7 +40,7 @@ Huh? It looks a bit like you?");
     ChMouth(3,3);
     ChMotion(3,5);
     VoicePlay("B040321301_03_030");
-    MsgDisp("Honda","Urk—, how did you find out?
+    MsgDisp("Honda","Ah— How did you find out?
 I meant it as a joke!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

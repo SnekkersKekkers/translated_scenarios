@@ -5,7 +5,7 @@ ChOpen(3,255,4,4,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323400_03_000");
-MsgDisp("Honda","Ah—, hey, it's spinning too much...");
+MsgDisp("Honda","Ah— Hey, it's spinning too much...");
 MsgSel("I'm getting so excited, just like a kid!","I could really feel the centrifugal force.","My head...is spinning...");
 switch (MsgSelRsltGet()){
     case 0:

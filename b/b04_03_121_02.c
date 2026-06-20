@@ -37,7 +37,7 @@ for big sales.");
         ChMouth(3,4);
         ChMotion(3,0,1);
         VoicePlay("B040312102_03_020");
-        MsgDisp("Honda","Hmm—.
+        MsgDisp("Honda","Hmm.
 It seems like only a few stalls here are
 aiming to make a profit.");
         ChEye(3,0);

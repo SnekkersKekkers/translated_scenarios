@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,1);
     ChMotion(3,5);
     VoicePlay("B040323301_03_010");
-    MsgDisp("Honda","Ehh—, is that necessary?");
+    MsgDisp("Honda","Ehh— Is that necessary?");
     MsgDateResultDisp();
     break ;
     case 1:

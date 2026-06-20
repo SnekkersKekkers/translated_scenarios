@@ -51,7 +51,7 @@ You sure are strangely excited, aren't you?");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040408102_04_030");
-        MsgDisp("Nanatsumori","Ah—, definitely...
+        MsgDisp("Nanatsumori","Ah, definitely...
 There's probably a lot of drunkards there...");
         MsgDateResultDisp();
         break ;

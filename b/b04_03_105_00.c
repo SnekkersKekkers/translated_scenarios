@@ -16,7 +16,7 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,3);
     VoicePlay("B040310500_03_010");
-    MsgDisp("Honda","I see—. You're already on that side huh—.
+    MsgDisp("Honda","I see. You're already on that side, huh?
 Sorry, it might be impossible for me.");
     MsgDateResultDisp();
     break ;

@@ -42,7 +42,7 @@ Yes, I'll learn how to swim first.");
         ChMouth(3,2);
         ChMotion(3,1);
         VoicePlay("B040311002_03_030");
-        MsgDisp("Honda","Eh—. You don't have to put it like that.
+        MsgDisp("Honda","Eh? You don't have to put it like that.
 I'm starting to float a little you know?");
         ChEye(3,4);
         ChMouth(3,4);

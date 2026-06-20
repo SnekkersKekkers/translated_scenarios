@@ -35,7 +35,7 @@ next to me.");
     VoicePlay("B040318200_03_020");
     MsgDisp("Honda","Hmmm... I knew it wouldn't be popular with
 the general public, but I thought you would
-like it—...");
+like it.");
     MsgDateResultDisp();
     break ;
     default :

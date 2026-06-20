@@ -15,7 +15,7 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     ChEyeOpenLevel(4,0);
     VoicePlay("B040408200_04_010");
-    MsgDisp("Nanatsumori","Hmm—.
+    MsgDisp("Nanatsumori","Hmm.
 If I'm gonna nap, I would need a proper bed.");
     MsgDateResultDisp();
     break ;

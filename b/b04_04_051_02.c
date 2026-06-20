@@ -83,7 +83,7 @@ into my ears.");
         MsgDisp("主人公","Yeah...");
         VoicePlay("B040405102_04_080");
         MsgDisp("Nanatsumori","There are also lots of love stories.");
-        MsgDisp("主人公","Yeah..");
+        MsgDisp("主人公","Yeah...");
         ChMotion(4,0,1);
         VoicePlay("B040405102_04_090");
         MsgDisp("Nanatsumori","The beautiful story of a man and a woman

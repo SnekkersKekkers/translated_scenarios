@@ -27,7 +27,7 @@ I wanted you to see it.");
     ChMotion(3,5);
     VoicePlay("B040306501_03_020");
     MsgDisp("Honda","Eh! Do you have an eidetic memory?
-Ah—, now I want to know more about you!");
+Ah! Now I want to know more about you!");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -37,7 +37,7 @@ Then, you can be my windbreak too!");
     DateRateSet(1);
     ChMotion(4,2,1);
     VoicePlay("B040406301_04_030");
-    MsgDisp("Nanatsumori","I don't know what you mean—...");
+    MsgDisp("Nanatsumori","I don't know what you mean...");
     MsgDateResultDisp();
     break ;
     default :

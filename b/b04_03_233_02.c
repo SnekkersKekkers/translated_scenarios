@@ -20,7 +20,7 @@ switch (MsgSelRsltGet()){
         ChMouth(3,1);
         ChMotion(3,0);
         VoicePlay("B040323302_03_010");
-        MsgDisp("Honda","Aahh—.
+        MsgDisp("Honda","Aahh—
 Don't interfere when I'm trying to
 convince myself!");
         MsgDateResultDisp();

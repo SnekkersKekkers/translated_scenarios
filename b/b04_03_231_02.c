@@ -51,7 +51,7 @@ it myself.");
         ChMouth(3,1);
         ChMotion(3,5);
         VoicePlay("B040323102_03_040");
-        MsgDisp("Honda","Urk—, no. If you're having fun, it's fine
+        MsgDisp("Honda","Ah— No. If you're having fun, it's fine
 with me too.");
         ChEye(3,0);
         ChMouth(3,4);

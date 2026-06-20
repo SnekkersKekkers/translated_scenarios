@@ -87,7 +87,7 @@ sweets and side dishes in an hors
 d'oeuvre style dessert.");
 MsgDisp("","Ah...It seems like the manager's
 noticed, and used the food that fills
-me up well as the topping..");
+me up well as the topping...");
 MsgClear();
 MsgDisp("","I bow my head to the manager standing
 inside the counter, and he responds

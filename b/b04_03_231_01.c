@@ -27,7 +27,7 @@ Time to find out all over again!");
     ChEye(3,1);
     ChSet(3,2);
     VoicePlay("B040323101_03_020");
-    MsgDisp("Honda","Ehhh—...
+    MsgDisp("Honda","Ehhh—
 You want to see my face frozen in fear?");
     MsgDateResultDisp();
     break ;
