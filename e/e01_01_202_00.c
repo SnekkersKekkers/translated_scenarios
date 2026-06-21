@@ -35,7 +35,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("E010120200_01_020");
-MsgDisp("Kazama","None of your business──");
+MsgDisp("Kazama","None of your business—");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);

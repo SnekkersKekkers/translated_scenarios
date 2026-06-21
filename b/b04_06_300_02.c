@@ -48,7 +48,7 @@ Senpai.");
         ChMouth(6,1);
         ChMotion(6,0);
         VoicePlay("B040630002_06_030");
-        MsgDisp("Himuro","...Ha?");
+        MsgDisp("Himuro","...Huh?");
         MsgDateResultDisp();
         break ;
         case 4:

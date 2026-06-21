@@ -19,7 +19,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700009_07_010");
 MsgDisp("Mikage","You can make tea, or enjoy them as fresh
-herbs──");
+herbs—");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);

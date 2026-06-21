@@ -63,7 +63,7 @@ MsgDispSksp(0);
 ChEye(33,1);
 ChMouth(33,1);
 VoicePlay("B110400000_33_060");
-MsgDisp("Guy","Ha?");
+MsgDisp("Guy","Huh?");
 MsgDispSksp(1,5);
 ChEye(4,0);
 ChMouth(4,0);

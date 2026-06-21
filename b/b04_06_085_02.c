@@ -85,7 +85,7 @@ around you will worry. Don't forget.");
         ChMouth(6,1);
         ChMotion(6,1);
         VoicePlay("B040608502_06_080");
-        MsgDisp("Himuro","...Ha?
+        MsgDisp("Himuro","...Huh?
 What was the point of saying thanks
 just now?");
         MsgDisp("主人公","Ehhh?");

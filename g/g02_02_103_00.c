@@ -48,7 +48,7 @@ ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("G020210300_02_050");
 MsgDisp("Sassa","See, when you get bashful like that, it
-makes me want to──");
+makes me want to—");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,0);

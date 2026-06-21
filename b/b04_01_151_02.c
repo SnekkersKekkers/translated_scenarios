@@ -71,7 +71,7 @@ isn't he?");
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040115102_01_060");
-        MsgDisp("Kazama","Ha? Don't lump me in with you.
+        MsgDisp("Kazama","Huh? Don't lump me in with you.
 When it's about food, anything is fine
 for me.");
         MsgDisp("主人公","Eh? Then what?");

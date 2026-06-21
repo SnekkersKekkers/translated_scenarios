@@ -41,7 +41,7 @@ It made me laugh a bit.");
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040608400_06_030");
-    MsgDisp("Himuro","Ha? I don't get what you mean.");
+    MsgDisp("Himuro","Huh? I don't get what you mean.");
     MsgDateResultDisp();
     break ;
     default :

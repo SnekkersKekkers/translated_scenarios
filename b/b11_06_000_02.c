@@ -77,7 +77,7 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("B110600002_06_030");
-MsgDisp("Himuro","...Ha?
+MsgDisp("Himuro","...Huh?
 Why would I be in a rebellious phase?");
 MsgDispSksp(0);
 ChEye(35,2);

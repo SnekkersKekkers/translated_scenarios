@@ -29,7 +29,7 @@ ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,1);
 VoicePlay("B070700001_07_650");
-MsgDisp("Mikage","So are yours──");
+MsgDisp("Mikage","So are yours—");
 MsgClose();
 Wait(40,1);
 SEPlay("EV_SE_551");

@@ -54,7 +54,7 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10500_06_020");
-MsgDisp("Himuro","Ha? I can sing.
+MsgDisp("Himuro","Huh? I can sing.
 Come on, pick a song.");
 ChEye(1,0);
 ChEyeOpenLevel(1,8);

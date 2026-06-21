@@ -94,7 +94,7 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B330C10401_06_040");
-MsgDisp("Himuro","Ha? What are you saying?
+MsgDisp("Himuro","Huh? What are you saying?
 Let's go to the gazebo.");
 MsgClose();
 SEPlay("EV_SE_626");

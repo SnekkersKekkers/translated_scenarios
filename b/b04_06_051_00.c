@@ -28,7 +28,7 @@ liked it.");
     ChMouth(6,0);
     ChMotion(6,1);
     VoicePlay("B040605100_06_020");
-    MsgDisp("Himuro","Ha? Were you dreaming?");
+    MsgDisp("Himuro","Huh? Were you dreaming?");
     MsgDateResultDisp();
     break ;
     case 2:

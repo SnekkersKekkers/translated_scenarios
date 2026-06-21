@@ -34,7 +34,7 @@ ChEyeOpenLevel(5,0);
 VoicePlay("B360522101_05_040");
 MsgDisp("Hiiragi","If I had invited Inori-kun and
 Mikage-sensei as well, we would have made
-it on time──");
+it on time—");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);

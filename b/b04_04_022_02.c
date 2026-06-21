@@ -33,7 +33,7 @@ blowing from a photograph.");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040402202_04_020");
-        MsgDisp("Nanatsumori","Ha? Why are you sulking?");
+        MsgDisp("Nanatsumori","Huh? Why are you sulking?");
         MsgDateResultDisp();
         break ;
         case 4:

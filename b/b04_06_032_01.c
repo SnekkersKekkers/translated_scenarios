@@ -28,7 +28,7 @@ of place.");
     ChMouth(6,1);
     ChMotion(6,0);
     VoicePlay("B040603201_06_020");
-    MsgDisp("Himuro","Ha?
+    MsgDisp("Himuro","Huh?
 Actually I think that'll give the
 opposite effect.");
     MsgDispSksp(1,0);

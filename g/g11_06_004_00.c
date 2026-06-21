@@ -54,7 +54,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600400_06_050");
-MsgDisp("Himuro","Ha? Don't you want to be able to swim?");
+MsgDisp("Himuro","Huh? Don't you want to be able to swim?");
 MsgDisp("主人公","It's not that but...");
 ChEye(6,2);
 ChMouth(6,0);

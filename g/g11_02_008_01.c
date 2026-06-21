@@ -86,7 +86,7 @@ ChMouth(2,1);
 ChMotion(2,1);
 VoicePlay("G110200801_02_090");
 MsgDisp("Sassa","Yes, that's it.
-Once in a while your touch──");
+Once in a while your touch—");
 ChEye(2,0);
 ChMouth(2,1);
 ChMotion(2,0);

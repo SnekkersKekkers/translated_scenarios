@@ -103,7 +103,7 @@ SEPlay("EV_SE_DOOR_025");
 SEWait();
 MsgDisp("主人公","(Alright, let me just tidy things up and
 then I'll go to class...
-Ah──)");
+Ah—)");
 SEPlay("EV_SE_591");
 Wait(30,1);
 MsgDisp("主人公","(That's the poster from earlier!

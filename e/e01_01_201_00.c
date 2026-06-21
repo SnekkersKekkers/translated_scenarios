@@ -44,7 +44,7 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("E010120100_01_020");
-MsgDisp("Kazama","You, why are you──");
+MsgDisp("Kazama","You, why are you—");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

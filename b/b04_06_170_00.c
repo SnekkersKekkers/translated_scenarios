@@ -25,7 +25,7 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     ChEyeOpenLevel(6,7);
     VoicePlay("B040617000_06_020");
-    MsgDisp("Himuro","...Ha?");
+    MsgDisp("Himuro","...Huh?");
     MsgDateResultDisp();
     break ;
     case 2:

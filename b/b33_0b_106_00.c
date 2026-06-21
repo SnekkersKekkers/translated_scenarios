@@ -119,7 +119,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 ChCheek(1,5);
 VoicePlay("B330B10600_01_050");
-MsgDisp("Kazama","Ha? What are you saying.");
+MsgDisp("Kazama","Huh? What are you saying.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);

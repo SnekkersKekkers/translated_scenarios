@@ -58,7 +58,7 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070101000_01_060");
 MsgDisp("Kazama","But, but if that time for you is now
-then──");
+then—");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -96,7 +96,7 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
 VoicePlay("B070101000_01_110");
-MsgDisp("Kazama","Stop it, if you say anything more off──");
+MsgDisp("Kazama","Stop it, if you say anything more off—");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);

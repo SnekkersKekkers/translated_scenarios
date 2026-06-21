@@ -94,7 +94,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30301_06_030");
-MsgDisp("Himuro","Ha? That's fine.
+MsgDisp("Himuro","Huh? That's fine.
 Someone who changed their answer from
 \"sauna\" shouldn't be talking.");
 ChEye(1,0);

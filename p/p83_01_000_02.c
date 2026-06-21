@@ -24,7 +24,7 @@ Hey, I'm patrolling the school you know?");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("P830100002_01_010");
-    MsgDisp("Kazama","Ha?
+    MsgDisp("Kazama","Huh?
 Will you be alright patrolling the school
 by yourself?");
     MsgDisp("主人公","Of course. I've spent three years managing

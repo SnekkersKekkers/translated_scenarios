@@ -69,7 +69,7 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B330C30501_06_020");
-MsgDisp("Himuro","Ha? I can do it.");
+MsgDisp("Himuro","Huh? I can do it.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

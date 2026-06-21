@@ -67,7 +67,7 @@ came here on a date...");
         ChMouth(6,1);
         ChMotion(6,0);
         VoicePlay("B040603202_06_050");
-        MsgDisp("Himuro","...Ha?");
+        MsgDisp("Himuro","...Huh?");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,1);

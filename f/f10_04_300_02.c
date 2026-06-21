@@ -86,7 +86,7 @@ ChEye(4,2);
 ChMouth(4,5);
 ChMotion(4,0,1);
 VoicePlay("F100430002_04_040");
-MsgDisp("Nanatsumori","Ha? Not yet...No!
+MsgDisp("Nanatsumori","Huh? Not yet...No!
 Don't look at me like that.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

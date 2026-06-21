@@ -74,7 +74,7 @@ couldn't see my surroundings...");
         ChMotion(5,0);
         VoicePlay("B040506502_05_070");
         MsgDisp("Hiiragi","Thank you. And...
-If, from now on too──");
+If, from now on too—");
         SEPlay("EV_SE_022",1);
         SEWait();
         MsgDisp("主人公","Eh...");

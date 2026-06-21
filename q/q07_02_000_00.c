@@ -181,7 +181,7 @@ ChMotion(2,0);
 VoicePlay("Q070200000_02_200");
 MsgDisp("Sassa","Thank you.
 When I think about you watching over me
-like that──");
+like that—");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

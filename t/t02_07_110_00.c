@@ -180,7 +180,7 @@ ChEye(7,2);
 ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("T020711000_07_210");
-MsgDisp("Mikage","I tried to back away── but, I'm sorry.");
+MsgDisp("Mikage","I tried to back away— but, I'm sorry.");
 MsgClear();
 ChClose(7);
 SEPlay("EV_SE_628",0,0.7,0.4);

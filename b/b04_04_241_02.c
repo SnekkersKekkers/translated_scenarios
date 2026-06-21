@@ -52,7 +52,7 @@ Wanna go home?");
         ChMotion(4,1,1);
         ChEyeOpenLevel(4,10);
         VoicePlay("B040424102_04_040");
-        MsgDisp("Nanatsumori","Ha? Me?");
+        MsgDisp("Nanatsumori","Huh? Me?");
         MsgDisp("主人公","Yeah.");
         ChEye(4,0);
         ChMouth(4,0);

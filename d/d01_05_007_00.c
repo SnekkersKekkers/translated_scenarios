@@ -18,7 +18,7 @@ SEPlay("EV_SE_849");
 ScrFadeIn(0);
 VoicePlay("D010500700_05_000");
 MsgDisp("Hiiragi","I guess I've been playing table tennis
-since I was little──");
+since I was little—");
 SEStop("EV_SE_849",0);
 SEPlay("EV_SE_850");
 VoicePlay("D010500700_05_010");

@@ -23,7 +23,7 @@ Little lost lamb.");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P130600000_06_010");
-    MsgDisp("Himuro","Ha? What are you saying?");
+    MsgDisp("Himuro","Huh? What are you saying?");
     MsgDisp("主人公","Never mind that, come in, come in!
 Dear customer, entry for one!");
     ChEye(6,0);

@@ -34,7 +34,7 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("D140A05101_02_010");
-MsgDisp("Sassa","Ha? The two of you...");
+MsgDisp("Sassa","Huh? The two of you...");
 MsgDisp("主人公","Eh...");
 ChEye(2,0);
 ChMouth(2,4);

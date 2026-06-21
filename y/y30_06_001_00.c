@@ -42,7 +42,7 @@ MsgDisp("School Boy","\"Not only do you get in through
 connections, but you'd get all kinds
 of special treatment too, right?\"");
 VoicePlay("Y300600100_06_000");
-MsgDisp("Himuro","\"...Ha?\"");
+MsgDisp("Himuro","\"...Huh?\"");
 VoicePlay("Y300600100_42_020");
 MsgDisp("School Boy","\"You know, like getting the test
 questions leaked to you or

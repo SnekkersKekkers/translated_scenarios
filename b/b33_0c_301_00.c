@@ -49,7 +49,7 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30100_06_020");
-MsgDisp("Himuro","Ha?");
+MsgDisp("Himuro","Huh?");
 MsgDisp("主人公","Huh?");
 ChEye(5,0);
 ChMouth(5,4);
