@@ -9,9 +9,9 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110305_01_010");
-MsgDisp("Kazama","When I headed to England that first year of
-primary school, after I lost you, every day
-felt painfully long.");
+MsgDisp("Kazama","When I headed to England that first year
+of primary school, after I lost you, every
+day felt painfully long.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,2);
 ChMouth(1,0);
@@ -38,8 +38,8 @@ MsgDisp("Kazama","And each day started to feel long again so
 I started putting together a plan to come
 back here.");
 MsgDisp("主人公","You're amazing, ｛Kazama＊＊｝...
-The way you made what you came up with into
-reality, I mean.");
+The way you made what you came up with
+into reality, I mean.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -51,8 +51,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110305_01_060");
-MsgDisp("Kazama","And since I came back, each day just goes by
-so fast.
+MsgDisp("Kazama","And since I came back, each day just goes
+by so fast.
 Like, it makes me wish I could stop time.");
 MsgDisp("主人公","Yeah, time flies when you're having fun.");
 ChEye(1,0);
@@ -86,9 +86,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110305_01_100");
-MsgDisp("Kazama","But the next time I get that kind of chance,
-I'm gonna take advantage of it, no matter
-where we are.");
+MsgDisp("Kazama","But the next time I get that kind of
+chance, I'm gonna take advantage of it, no
+matter where we are.");
 MsgDisp("主人公","What∋");
 ChEye(1,0);
 ChMouth(1,3);

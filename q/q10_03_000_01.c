@@ -9,8 +9,8 @@ MsgDisp("Honda","Hmm, what should I do.");
 MsgDisp("主人公","Is it the souvenirs...?");
 ChMotion(3,0,1);
 VoicePlay("Q100300001_03_010");
-MsgDisp("Honda","Yeah it is, my little sister told me to \"Buy
-me a cute one\".");
+MsgDisp("Honda","Yeah it is, my little sister told me to
+\"Buy me a cute one\".");
 MsgDisp("主人公","Your little sister really is funny.");
 ChEye(3,4);
 ChMouth(3,4);
@@ -37,8 +37,8 @@ ChClose(3);
 SEWait();
 VoicePlay("Q100300001_03_050");
 MsgDisp("Honda","Mhmhm, it's well made.
-There's some coarse grains at the bottom, and
-it's mouth-watering.");
+There's some coarse grains at the bottom,
+and it's mouth-watering.");
 VoicePlay("Q100300001_03_060");
 MsgDisp("Honda","Wait a bit!
 I'm gonna buy a keyholder of this mascot.");

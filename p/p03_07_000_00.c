@@ -26,8 +26,8 @@ It's been a great success.");
     MsgDisp("Mikage","You feel like the daughter of a dango shop
 owner. Your strategy of wearing that is
 working well.");
-    MsgDisp("主人公","It's not just about the clothes, it's about
-the taste too, you know?");
+    MsgDisp("主人公","It's not just about the clothes, it's
+about the taste too, you know?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -56,8 +56,8 @@ Did you come to check on us?");
     ChMotion(7,0);
     VoicePlay("P030700000_07_040");
     MsgDisp("Mikage","No, just thought I'd take a break.
-I'll come back a little later so I'm not in
-the way.");
+I'll come back a little later so I'm not
+in the way.");
     MsgDisp("主人公","No, please feel free to try our dango!");
     ChEye(7,0);
     ChMouth(7,0);

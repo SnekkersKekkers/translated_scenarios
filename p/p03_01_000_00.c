@@ -34,8 +34,8 @@ face of the shop...");
     MsgDisp("Kazama","You start your shift, and suddenly it's like
 this. Aren't I always telling you this?
 About your power of attraction.");
-    MsgDisp("主人公","I think it's the power of the dango set made
-by our cooking team, though?");
+    MsgDisp("主人公","I think it's the power of the dango set
+made by our cooking team, though?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
@@ -75,7 +75,8 @@ Please have a seat at this table.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("P030100000_01_060");
-    MsgDisp("Kazama","Hey, don't get too serious about this, okay?");
+    MsgDisp("Kazama","Hey, don't get too serious about
+this, okay?");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,2);
@@ -83,8 +84,8 @@ Please have a seat at this table.");
     ChEyeOpenLevel(1,8);
     ChCheek(1,5);
     VoicePlay("P030100000_01_070");
-    MsgDisp("Kazama","Even though you normally stand out already,
-look, today you're wearing that.");
+    MsgDisp("Kazama","Even though you normally stand out
+already, look, today you're wearing that.");
     ChMotion(1,0);
     MsgDisp("主人公","Ah, do you like it?
 This uniform is pretty cute.");

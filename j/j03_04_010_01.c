@@ -63,7 +63,8 @@ What do you think?");
     VoicePlay("J030401001_04_070");
     MsgDisp("Nanatsumori","Sorry.
 I have an errand I can't miss.");
-    MsgDisp("主人公","Oh. Well, then I guess I can't blame you...");
+    MsgDisp("主人公","Oh.
+Well, then I guess I can't blame you...");
     VoicePlay("J030401001_04_080");
     MsgDisp("Nanatsumori","Don't make that sound.
 I'll make it up to you next time.

@@ -18,7 +18,8 @@ Are you going home now?");
     ChMouth(2,3);
     ChMotion(2,3);
     VoicePlay("F010200007_02_010");
-    MsgDisp("Sassa","Yeah, I was hoping you would go home with me.
+    MsgDisp("Sassa","Yeah, I was hoping you would go home
+with me.
 What do you think?");
     break ;
     case 4:
@@ -127,8 +128,8 @@ The timing must be bad.");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
-        MsgDisp("主人公","(He went to the trouble of inviting me, so I
-feel guilty...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, so
+I feel guilty...)");
         break ;
         case 4:
         case 5:
@@ -149,8 +150,8 @@ Maybe another time.");
         BGMStop();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
-        MsgDisp("主人公","(He went to the trouble of inviting me, so I
-feel guilty...)");
+        MsgDisp("主人公","(He went to the trouble of inviting me, so
+I feel guilty...)");
         break ;
         default :
         DbgAssert(1);

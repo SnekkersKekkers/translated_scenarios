@@ -36,8 +36,8 @@ See you.");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     ChClose(2);
     MsgDisp("主人公","(｛Sassa＊＊｝ is amazing.
-He's working hard towards his goals already
-this year. I will too...!)");
+He's working hard towards his goals
+already this year. I will too...!)");
     break ;
     case 4:
     case 5:
@@ -56,9 +56,9 @@ this year. I will too...!)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("S120200001_02_030");
-    MsgDisp("Sassa","I actually wish I could spend more time with
-you. But it's not good to sprint so quickly
-beyond the starting point.");
+    MsgDisp("Sassa","I actually wish I could spend more time
+with you. But it's not good to sprint so
+quickly beyond the starting point.");
     MsgDisp("主人公","In ｛Sassa＊＊｝'s mind, even this is like a
 track event.");
     ChEye(2,0);
@@ -97,8 +97,8 @@ It's like some kind of challenge.");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("S120200001_02_080");
-    MsgDisp("Sassa","I think I'll try to build up my stamina for
-an all-out date.
+    MsgDisp("Sassa","I think I'll try to build up my stamina
+for an all-out date.
 See you.");
     MsgClose();
     MsgClose();

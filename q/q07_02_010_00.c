@@ -6,8 +6,8 @@ BGOpen("sc801",0);
 ScrFadeIn(0);
 VoicePlay("Q070201000_48_000");
 MsgDisp("Tour Guide","We'll make a toilet break here for 15
-minutes. Oh...just in time, the sunset over
-the bay is beautiful!");
+minutes. Oh...just in time, the sunset
+over the bay is beautiful!");
 VoicePlay("Q070201000_38_000");
 MsgDisp("Students","Yessss.");
 VoicePlay("Q070201000_44_000");
@@ -40,7 +40,8 @@ What a beautiful sunset.");
 StlEye(2,0);
 StlMouth(2,1);
 VoicePlay("Q070201000_02_020");
-MsgDisp("Sassa","You can see the sunset perfectly from here.");
+MsgDisp("Sassa","You can see the sunset perfectly
+from here.");
 MsgDisp("主人公","It's really beautiful...");
 StlEye(2,2);
 StlMouth(2,1);
@@ -75,8 +76,8 @@ StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("Q070201000_02_060");
 MsgDisp("Sassa","...Yeah.
-I'll never forget this moment for the rest of
-my life...");
+I'll never forget this moment for the rest
+of my life...");
 MsgDisp("主人公","Me too...");
 StlEye(2,1);
 StlMouth(2,1);

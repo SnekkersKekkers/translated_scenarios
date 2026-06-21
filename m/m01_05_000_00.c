@@ -24,7 +24,8 @@ BGMPlay("BGM_C05_HIIRAGI_A");
 ChOpen(5,255,2,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("M010500000_05_030");
-MsgDisp("Hiiragi","I apologise, especially when you are unwell.
+MsgDisp("Hiiragi","I apologise, especially when you
+are unwell.
 To get so caught up in talking...");
 MsgDisp("主人公","No, it's okay.
 I'm more or less better now.");
@@ -40,12 +41,13 @@ MsgDisp("主人公","Understand something?");
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("M010500000_05_060");
-MsgDisp("Hiiragi","Despite knowing you were absent, my eyes were
-seeking you out.");
+MsgDisp("Hiiragi","Despite knowing you were absent, my eyes
+were seeking you out.");
 ChEye(5,2);
 ChMotion(5,1);
 VoicePlay("M010500000_05_070");
-MsgDisp("Hiiragi","I became a wandering-eyed and strange person.");
+MsgDisp("Hiiragi","I became a wandering-eyed and
+strange person.");
 MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, that doesn't sound
 like you.");
 ChEye(5,0);

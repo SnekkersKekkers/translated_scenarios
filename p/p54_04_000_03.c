@@ -3,7 +3,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh... Maybe I didn't practise enough...)");
+MsgDisp("主人公","(Sigh...
+Maybe I didn't practise enough...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChLayout(1);
@@ -22,8 +23,9 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P540400003_04_020");
-MsgDisp("Nanatsumori","It seemed like a lot of people were looking
-forward to it, so the venue was buzzing.");
+MsgDisp("Nanatsumori","It seemed like a lot of people were
+looking forward to it, so the venue was
+buzzing.");
 MsgDisp("主人公","(Sigh...
 I should have practised more properly...)");
 MsgClose();

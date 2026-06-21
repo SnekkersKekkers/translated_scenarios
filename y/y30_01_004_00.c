@@ -9,26 +9,28 @@ VoicePlay("Y300100400_01_000");
 MsgDisp("Kazama","\"...Why?\"");
 BGOpen("ad141",0);
 VoicePlay("Y300100400_03_000");
-MsgDisp("Honda","\"Yep yep. Nice, Ryo-kun. So a question
-popped into your head?\"");
+MsgDisp("Honda","\"Yep yep. Nice, Ryo-kun. So a
+question popped into your head?\"");
 MsgClear();
 MsgDisp("","After school, when I listen to Honda
 talk, in the blink of an eye it's
 already evening.");
-MsgDisp("","Honda really is strange. It's as if he
-senses when we're losing interest, and
-he'll change the topic by throwing more
-material in there.");
+MsgDisp("","Honda really is strange. It's as if
+he senses when we're losing interest,
+and he'll change the topic by
+throwing more material in there.");
 MsgDisp("","Is he innately good at the art of
 conversation?");
 MsgClear();
 BGOpen("ad142",0);
 VoicePlay("Y300100400_04_000");
-MsgDisp("Nanatsumori","\"Kazama, Why are you feeding him... Even
-though it was supposed to end...\"");
+MsgDisp("Nanatsumori","\"Kazama, Why are you feeding him...
+Even though it was supposed to
+end...\"");
 MsgDisp("","It's just as Nanatsumori says. But,
-strangely even to myself I end up saying
-things that Honda would be happy about.");
+strangely even to myself I end up
+saying things that Honda would be
+happy about.");
 MsgDisp("","That's also one of the amazing things
 about Honda.");
 MsgClear();
@@ -42,16 +44,17 @@ MsgDisp("","When I said that, both of them sighed
 in disappointment. I probably looked
 the same.");
 MsgClear();
-MsgDisp("","When we're up on the rooftop like this,
-she'll normally just suddenly appear.");
+MsgDisp("","When we're up on the rooftop like
+this, she'll normally just suddenly
+appear.");
 MsgDisp("","Hoping for that, I didn't expressly
-invite her today. If this was going to
-happen, I should've just asked her
+invite her today. If this was going
+to happen, I should've just asked her
 upfront.");
 MsgClear();
 MsgDisp("","With my comment, even Honda started
-getting ready to leave, dusting off his
-uniform pants as he stood up.");
+getting ready to leave, dusting off
+his uniform pants as he stood up.");
 VoicePlay("Y300100400_03_010");
 MsgDisp("Honda","\"Ah, there she is! Ryo-kun, Mi-kun,
 look! Over here!\"");
@@ -67,10 +70,10 @@ MsgDisp("","Looking from the rooftop towards the
 school gates, we should see her
 small back.");
 MsgDisp("","With her bag in her right hand, her
-retreating figure had a characteristic
-bounce in her step.");
-MsgDisp("","As I was about to call out, Honda shook
-his head.");
+retreating figure had a
+characteristic bounce in her step.");
+MsgDisp("","As I was about to call out, Honda
+shook his head.");
 MsgClear();
 VoicePlay("Y300100400_03_020");
 MsgDisp("Honda","\"It's a telekinesis experiment. Whose

@@ -7,8 +7,8 @@ switch (ChPrmGet(4,6)){
     case 2:
     case 3:
     MsgDisp("主人公","(Uwaah...there's so many people in the
-audience. It seems like it's more than last
-year. Sigh, I'm nervous.)");
+audience. It seems like it's more than
+last year. Sigh, I'm nervous.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -47,7 +47,8 @@ Isn't that why you chose game music?");
     ChMotion(4,1,1);
     VoicePlay("P530400001_04_050");
     MsgDisp("Nanatsumori","Right, that face.
-The face of a hero stepping onto the field.");
+The face of a hero stepping onto
+the field.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Then, I'm off!");
@@ -56,14 +57,15 @@ The face of a hero stepping onto the field.");
     ChMotion(4,0,1);
     VoicePlay("P530400001_04_060");
     MsgDisp("Nanatsumori","Knock 'em dead!");
-    MsgDisp("主人公","(Alright, for everyone who came all this way
-to listen, let's deliver a good performance!)");
+    MsgDisp("主人公","(Alright, for everyone who came all this
+way to listen, let's deliver a good
+performance!)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(Uwaah...there's so many people in the
-audience. It seems like it's more than last
-year. Sigh, I'm nervous.)");
+audience. It seems like it's more than
+last year. Sigh, I'm nervous.)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -84,8 +86,8 @@ The kind that entertains people.");
     VoicePlay("P530400001_04_090");
     MsgDisp("Nanatsumori","You're the one who creates that world, so
 it's hopeless if you're like this.");
-    MsgDisp("主人公","But if I think about everyone who knows this
-song, failure is scary....");
+    MsgDisp("主人公","But if I think about everyone who knows
+this song, failure is scary....");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);

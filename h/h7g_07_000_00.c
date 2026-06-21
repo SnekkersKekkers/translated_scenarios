@@ -32,8 +32,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("H8G0700000_07_040");
-MsgDisp("Mikage","If that's the path you choose for yourself,
-then go for it.
+MsgDisp("Mikage","If that's the path you choose for
+yourself, then go for it.
 I'll be cheering you on, okay?");
 MsgDisp("主人公","Yes...! Thank you very much.");
 MsgDisp("主人公","(I'm happy that my efforts and achievements

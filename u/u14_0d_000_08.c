@@ -23,6 +23,6 @@ Hikaru will try her best to do that too▼");
 StlEye(21,3);
 VoicePlay("U140D00008_21_010");
 MsgDisp("Michiru","Hehe. I'm cheering for both of you.");
-MsgDisp("主人公","(I'm so happy they noticed how hard I've been
-working on my club activities!)");
+MsgDisp("主人公","(I'm so happy they noticed how hard I've
+been working on my club activities!)");
 MsgClose();

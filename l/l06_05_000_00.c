@@ -12,7 +12,8 @@ What is it?");
 ChMouth(5,4);
 VoicePlay("L060500000_05_010");
 MsgDisp("Hiiragi","I thank you for last month.
-Please have this, though it's nothing much.");
+Please have this, though it's
+nothing much.");
 SEPlay("EV_SE_664");
 SEWait();
 MsgDisp("主人公","Th-Thank you for your consideration...");

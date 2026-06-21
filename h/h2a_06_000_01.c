@@ -51,8 +51,8 @@ manager...)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H2A0600001_06_050");
-    MsgDisp("Himuro","...I know how much thought you put into the
-team and how hard you work for them.");
+    MsgDisp("Himuro","...I know how much thought you put into
+the team and how hard you work for them.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,2);

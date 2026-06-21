@@ -13,9 +13,9 @@ ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("T020200022_02_010");
 MsgDisp("Sassa","Really, I'm so happy!");
-MsgDisp("主人公","I was also happy to have had the opportunity
-to pursue my dream alongside ｛Sassa＊＊｝ for
-three years.");
+MsgDisp("主人公","I was also happy to have had the
+opportunity to pursue my dream alongside
+｛Sassa＊＊｝ for three years.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -46,8 +46,8 @@ Wait(120,0);
 StlOpen("ev_02_17");
 ScrFadeIn(0);
 VoicePlay("T020200022_02_050");
-MsgDisp("Sassa","I'm not going to just let myself get beaten
-anymore.
+MsgDisp("Sassa","I'm not going to just let myself get
+beaten anymore.
 Look at me.");
 VoicePlay("T020200022_02_060");
 MsgDisp("Sassa","I wanted to touch you too.

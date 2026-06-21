@@ -10,11 +10,11 @@ switch (ChPrmGet(2,6)){
     VoiceEVSPlay(2);
     VoicePlay("N020200002_02_000");
     MsgDisp("Sassa","｛主人公｝.
-Huh, by the way, while looking at the list, I
-couldn't find your name.");
+Huh, by the way, while looking at the
+list, I couldn't find your name.");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
-Umm well, maybe it's because it's somewhere
-in the middle.");
+Umm well, maybe it's because it's
+somewhere in the middle.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
@@ -81,8 +81,8 @@ Yeah, I did so-so.");
     ChMotion(2,0);
     VoicePlay("N020200002_02_080");
     MsgDisp("Sassa","Maybe it's just my imagination.
-But, I don't think you're a so-so person like
-your results.");
+But, I don't think you're a so-so person
+like your results.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

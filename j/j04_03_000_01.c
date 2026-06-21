@@ -64,9 +64,9 @@ What's wrong?");
 That's right.");
         MsgDisp("主人公","Um, were you inviting me somewhere?");
         VoicePlay("J040300001_03_080");
-        MsgDisp("Honda","Oh, yeah. I got so excited on my own that I
-didn't even consider the possibility that our
-schedules might not match.");
+        MsgDisp("Honda","Oh, yeah. I got so excited on my own that
+I didn't even consider the possibility
+that our schedules might not match.");
         VoicePlay("J040300001_03_090");
         MsgDisp("Honda","Well, see you next time.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

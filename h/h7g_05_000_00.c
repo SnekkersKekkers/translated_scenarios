@@ -11,8 +11,8 @@ What is it?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("H7G0500000_05_010");
-MsgDisp("Hiiragi","I believe that I heard you won a gold award
-at the handicraft club's contest?");
+MsgDisp("Hiiragi","I believe that I heard you won a gold
+award at the handicraft club's contest?");
 ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("H7G0500000_05_020");
@@ -34,7 +34,7 @@ Well, then.");
 MsgClose();
 ChClose(5);
 MsgDisp("主人公","(I'd be happy if I could be of use to
-｛Hiiragi＊＊＊｝... I'm glad I worked so hard for
-the handicrafts club!)");
+｛Hiiragi＊＊＊｝... I'm glad I worked so hard
+for the handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -28,7 +28,8 @@ I understand.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,9);
     VoicePlay("I450500000_05_030");
-    MsgDisp("Hiiragi","I've come to arrange for celebratory flowers.
+    MsgDisp("Hiiragi","I've come to arrange for celebratory
+flowers.
 Here is the delivery slip.");
     SEPlay("EV_SE_662");
     SEWait();
@@ -96,8 +97,8 @@ Welcome.");
     VoicePlay("I450500000_05_120");
     MsgDisp("Hiiragi","I had some free time today, and as such I
 have come to see the beautiful flowers.");
-    MsgDisp("主人公","You can buy them too, rather than just look
-at them, you know?");
+    MsgDisp("主人公","You can buy them too, rather than just
+look at them, you know?");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,4);

@@ -1,7 +1,8 @@
 MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 VoicePlay("G020110200_01_000");
-MsgDisp("Kazama","...So hey, the two of us go out a lot, right?");
+MsgDisp("Kazama","...So hey, the two of us go out a
+lot, right?");
 MsgDisp("主人公","That's true.
 I wonder how many times this makes it.");
 ChEye(1,0);
@@ -33,8 +34,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110200_01_040");
 MsgDisp("Kazama","It's my fault.
-My younger self would be pissed if he could
-see me now.");
+My younger self would be pissed if he
+could see me now.");
 MsgDisp("主人公","｛Kazama＊＊｝?");
 ChEye(1,0);
 ChMouth(1,3);

@@ -19,8 +19,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("H6G2100000_21_020");
 MsgDisp("Michiru","As I expected of Mari.
-You have the power to make beautiful things
-shine even brighter.");
+You have the power to make beautiful
+things shine even brighter.");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);

@@ -3,15 +3,16 @@ BGOpen("sc620",0);
 ScrFadeIn(0);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 VoicePlay("H180700000_07_000");
-MsgDisp("Mikage","So this is the Koshien, it's pretty amazing.");
+MsgDisp("Mikage","So this is the Koshien, it's pretty
+amazing.");
 MsgDisp("主人公","Ah, ｛Mikage＊＊｝!
 Did you come to support us?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("H180700000_07_010");
-MsgDisp("Mikage","Yeah, I never thought I'd be able to step on
-the ground at Koshien.
+MsgDisp("Mikage","Yeah, I never thought I'd be able to step
+on the ground at Koshien.
 It's thanks to you, you know?");
 MsgDisp("主人公","Don't go onto the ground, okay?");
 ChEye(7,0);

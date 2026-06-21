@@ -38,14 +38,15 @@ MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400400_04_030");
-MsgDisp("Nanatsumori","You've got to keep the fashionistas informed.");
+MsgDisp("Nanatsumori","You've got to keep the fashionistas
+informed.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,1);
 VoicePlay("G110400400_04_040");
 MsgDisp("Nanatsumori","Just like you the other day.
-Taking pics for people who want the new items
-and keep up with the trends.");
+Taking pics for people who want the new
+items and keep up with the trends.");
 MsgDisp("主人公","I see, wow, I'm looking forward to it.");
 ChMotion(4,2);
 VoicePlay("G110400400_04_050");

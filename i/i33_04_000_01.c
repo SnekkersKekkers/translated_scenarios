@@ -121,8 +121,8 @@ Hey, what are you worried about?");
     ChCheek(4,0);
     VoicePlay("I330400001_04_150");
     MsgDisp("Nanatsumori","Listen up.
-There are a lot of good-looking guys here, so
-don't be fooled, okay?");
+There are a lot of good-looking guys here,
+so don't be fooled, okay?");
     MsgDisp("主人公","???");
     ChEye(4,0);
     ChMouth(4,1);

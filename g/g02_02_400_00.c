@@ -31,7 +31,8 @@ ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("G020240000_02_040");
 MsgDisp("Sassa","Hey, have you ever seen so many colours?");
-MsgDisp("主人公","This place is known for mysterious legends.
+MsgDisp("主人公","This place is known for mysterious
+legends.
 Maybe these fireflies are special?");
 ChEye(2,4);
 ChMouth(2,4);
@@ -54,8 +55,8 @@ VoicePlay("G020240000_02_070");
 MsgDisp("Sassa","I hope I can update it every time I
 come here.
 Firefly record.");
-MsgDisp("主人公","(Hehe, I'd be happy if ｛Sassa＊＊｝ could gain
-another wonderful memory.)");
+MsgDisp("主人公","(Hehe, I'd be happy if ｛Sassa＊＊｝ could
+gain another wonderful memory.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

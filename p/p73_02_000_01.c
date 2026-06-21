@@ -42,7 +42,8 @@ You made it, and you're wearing it too?");
     ChMotion(2,0);
     VoicePlay("P730200001_02_040");
     MsgDisp("Sassa","How should I put it...it's like a
-player-coach, like a playing manager, right?");
+player-coach, like a playing
+manager, right?");
     MsgDisp("主人公","Umm...");
     SEPlay("EV_SE_038");
     SEWait();
@@ -51,7 +52,8 @@ player-coach, like a playing manager, right?");
     ChMotion(2,4);
     VoicePlay("P730200001_02_050");
     MsgDisp("Sassa","That's my bad.
-It looks like I came to put pressure on you.");
+It looks like I came to put pressure
+on you.");
     MsgDisp("主人公","No, thank you for coming.
 Then, I'll do my best.");
     MsgDisp("主人公","(I'll give ｛Sassa＊＊｝ a good show!)");
@@ -94,8 +96,8 @@ I'm happy, but embarrassed.");
     ChMotion(2,1);
     VoicePlay("P730200001_02_090");
     MsgDisp("Sassa","Not at all.
-You're a splendid princess who's not afraid
-to appear anywhere.");
+You're a splendid princess who's not
+afraid to appear anywhere.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Ah, I already have to go.");
@@ -103,8 +105,8 @@ to appear anywhere.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("P730200001_02_100");
-    MsgDisp("Sassa","Alright, I'll also be cheering you on from a
-good seat.
+    MsgDisp("Sassa","Alright, I'll also be cheering you on from
+a good seat.
 Have fun!");
     MsgDisp("主人公","(Alright, let's live up to ｛Sassa＊＊｝'s
 expectations!)");

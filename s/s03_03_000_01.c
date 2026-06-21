@@ -20,8 +20,8 @@ What should I wear?)");
     MsgDisp("主人公","Yay. Okay then, let's meet up at—");
     VoicePlay("S030300001_03_030");
     MsgDisp("Honda","I'm going to pick you up.
-I'll be there soon so get ready and wait for
-me, okay? See you!");
+I'll be there soon so get ready and wait
+for me, okay? See you!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(I need to get ready before ｛Honda＊＊｝

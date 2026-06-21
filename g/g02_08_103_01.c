@@ -23,7 +23,8 @@ ChMouth(8,3);
 ChCheek(8,6);
 VoicePlay("G020810301_08_030");
 MsgDisp("Shirahane","You always look sparklin' too, you know?");
-MsgDisp("主人公","｛Daichi＊＊｝ is the one who always shines?");
+MsgDisp("主人公","｛Daichi＊＊｝ is the one who
+always shines?");
 ChEye(8,0);
 ChMouth(8,4);
 ChMotion(8,0,1);

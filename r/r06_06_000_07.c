@@ -11,8 +11,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("R060600007_06_000");
     MsgDisp("Himuro","Would anyone normally pick something
 like this?");
-    MsgDisp("主人公","(Darn, I don't think he's really happy with
-my gift...)");
+    MsgDisp("主人公","(Darn, I don't think he's really happy
+with my gift...)");
     break ;
     case 3:
     case 4:
@@ -24,8 +24,8 @@ my gift...)");
     VoicePlay("R060600007_06_010");
     MsgDisp("Himuro","How do I put this...
 ...No, never mind.");
-    MsgDisp("主人公","(Darn, I don't think he's really happy with
-my gift...)");
+    MsgDisp("主人公","(Darn, I don't think he's really happy
+with my gift...)");
     break ;
     default :
     DbgAssert(1);

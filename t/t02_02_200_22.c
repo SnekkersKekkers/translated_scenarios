@@ -33,7 +33,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,0);
 VoicePlay("T020220022_02_040");
-MsgDisp("Sassa","I mean, you do always get the better of me.");
+MsgDisp("Sassa","I mean, you do always get the better
+of me.");
 MsgDisp("主人公","That's because I couldn't express it well
 in words.");
 ChEye(2,4);
@@ -41,8 +42,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020220022_02_050");
 MsgDisp("Sassa","I understood it anyways.
-From now on, I can pursue my dreams with you,
-the one I love.");
+From now on, I can pursue my dreams with
+you, the one I love.");
 MsgDisp("主人公","Yes.");
 ChEye(2,4);
 ChMouth(2,4);

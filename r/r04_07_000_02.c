@@ -29,14 +29,15 @@ I should say hello...properly.");
     ChMotion(7,4);
     VoicePlay("R040700002_07_010");
     MsgDisp("Mikage","Sigh, school life is tough.
-At the end of the day, I'm still a teacher.");
+At the end of the day, I'm still a
+teacher.");
     MsgDisp("主人公","Huh?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2,1);
     VoicePlay("R040700002_07_020");
-    MsgDisp("Mikage","I'm gonna go say hi to the Principal and Vice
-Principal.");
+    MsgDisp("Mikage","I'm gonna go say hi to the Principal and
+Vice Principal.");
     MsgDisp("主人公","Sure, see you later.");
     break ;
     case 4:
@@ -49,8 +50,8 @@ Principal.");
     ChMouth(7,3);
     ChMotion(7,2,1);
     VoicePlay("R040700002_07_030");
-    MsgDisp("Mikage","Phew... It's not good for me to have such a
-beauty all to myself.
+    MsgDisp("Mikage","Phew... It's not good for me to have such
+a beauty all to myself.
 I'm gonna go say hi to the higher ups.");
     MsgDisp("主人公","Sure, see you later.");
     break ;

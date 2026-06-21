@@ -7,17 +7,18 @@ switch (ChPrmGet(7,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(We're cooking the vegetables everyone grew
-and running a herbal tea pavement cafe. My
-last cultural festival, the culmination of
-the club's efforts...)");
+    MsgDisp("主人公","(We're cooking the vegetables everyone
+grew and running a herbal tea pavement
+cafe. My last cultural festival, the
+culmination of the club's efforts...)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700002_07_000");
     MsgDisp("Mikage","Oh, this is an extremely stylish cafe this
 year, huh?");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
-There's also a lot of customers who've come.");
+There's also a lot of customers
+who've come.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -35,10 +36,10 @@ An order for the organic vegetables set～!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(We're cooking the vegetables everyone grew
-and running a herbal tea pavement cafe. My
-last cultural festival, the culmination of
-the club's efforts...)");
+    MsgDisp("主人公","(We're cooking the vegetables everyone
+grew and running a herbal tea pavement
+cafe. My last cultural festival, the
+culmination of the club's efforts...)");
     MsgClose();
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630700002_07_030");

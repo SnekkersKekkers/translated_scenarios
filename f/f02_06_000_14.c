@@ -17,8 +17,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("F020600014_06_010");
-MsgDisp("Himuro","Well, you entered this school, so it's only
-natural you'd leave it, too.");
+MsgDisp("Himuro","Well, you entered this school, so it's
+only natural you'd leave it, too.");
 MsgDisp("主人公","｛Himuro＊＊｝, won't you miss me?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -42,7 +42,7 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600014_06_050");
-MsgDisp("Himuro","No matter how much you're going to miss me,
-it won't change the fact that we can't
+MsgDisp("Himuro","No matter how much you're going to miss
+me, it won't change the fact that we can't
 graduate together.");
 MsgDisp("主人公","(｛Himuro＊＊｝...)");

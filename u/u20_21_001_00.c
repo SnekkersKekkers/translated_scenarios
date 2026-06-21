@@ -7,12 +7,12 @@ MsgClose();
 ChOpen(21,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("U202100100_21_000");
-MsgDisp("Michiru","The items on display were wonderful but the
-souvenirs were...
+MsgDisp("Michiru","The items on display were wonderful but
+the souvenirs were...
 Novelty, weren't they?");
 MsgDisp("主人公","Yeah.
-Combining works of art with stationery is a
-really fashionable idea!");
+Combining works of art with stationery is
+a really fashionable idea!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);

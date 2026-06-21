@@ -7,8 +7,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("F020400003_04_000");
-MsgDisp("Nanatsumori","Apparently, there's a legendary church on the
-Haba High campus.
+MsgDisp("Nanatsumori","Apparently, there's a legendary church on
+the Haba High campus.
 And a handful of rumours surrounding it.");
 MsgDisp("主人公","Right.");
 ChEye(4,0);

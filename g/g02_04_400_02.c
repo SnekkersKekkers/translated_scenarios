@@ -42,14 +42,16 @@ MsgDisp("Nanatsumori","Crap... Whats with this atmosphere...
 My mouth is running off on its own.");
 VoicePlay("G020440002_04_070");
 MsgDisp("Nanatsumori","Together until morning?
-What is that, how pompous, fishy, sleazy...");
+What is that, how pompous, fishy,
+sleazy...");
 MsgDisp("主人公","Um, ｛Nanatsumori＊｝?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440002_04_080");
 MsgDisp("Nanatsumori","Forget what I said just now!
-This must be because of the firefly habitat.");
+This must be because of the firefly
+habitat.");
 MsgDisp("主人公","???");
 ChEye(4,4);
 ChMouth(4,4);

@@ -18,8 +18,8 @@ Congratulations.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500000_05_010");
-    MsgDisp("Hiiragi","I heard the baseball club had gotten a good
-result in their practice match?");
+    MsgDisp("Hiiragi","I heard the baseball club had gotten a
+good result in their practice match?");
     MsgDisp("主人公","Yeah, I'm also happy!");
     ChEye(5,4);
     VoicePlay("X110500000_05_020");

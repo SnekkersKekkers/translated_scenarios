@@ -68,10 +68,11 @@ Welcome.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I550600000_06_080");
-    MsgDisp("Himuro","What do you recommend for this time of year?");
+    MsgDisp("Himuro","What do you recommend for this time
+of year?");
     MsgDisp("主人公","Our fruit daifuku, I suppose.
-It's popular because of the crisp and tasty
-seasonal fruit inside.");
+It's popular because of the crisp and
+tasty seasonal fruit inside.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -99,8 +100,8 @@ Well, work hard.");
     BGMStop();
     ChClose(6);
     MsgDisp("主人公","(I guess he's having a snack?
-｛Himuro＊＊｝ eating Japanese sweets might be a
-little surprising...)");
+｛Himuro＊＊｝ eating Japanese sweets might be
+a little surprising...)");
     break ;
     case 4:
     case 5:
@@ -119,7 +120,8 @@ Welcome.");
     VoicePlay("I550600000_06_130");
     MsgDisp("Himuro","This place is always busy.");
     MsgDisp("主人公","Yes, I'm thankful for that.
-But ｛Himuro＊＊｝, do you come here that often?");
+But ｛Himuro＊＊｝, do you come here
+that often?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,1);
@@ -137,7 +139,8 @@ What's your budget?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I550600000_06_160");
-    MsgDisp("Himuro","Enough for four people to snack on over tea.");
+    MsgDisp("Himuro","Enough for four people to snack on
+over tea.");
     MsgDisp("主人公","Understood!");
     MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
@@ -154,8 +157,8 @@ How are these?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("I550600000_06_180");
-    MsgDisp("Himuro","The serious expression you had when choosing
-was nice, too.");
+    MsgDisp("Himuro","The serious expression you had when
+choosing was nice, too.");
     MsgDisp("主人公","Hm?");
     ChEye(6,0);
     ChMouth(6,0);

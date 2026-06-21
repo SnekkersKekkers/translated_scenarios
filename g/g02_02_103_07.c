@@ -2,7 +2,8 @@ MsgClose();
 ChOpen(2,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020210307_02_000");
 MsgDisp("Sassa","Yeah, that's right.
-I ran into you at the library before, right?");
+I ran into you at the library
+before, right?");
 MsgDisp("主人公","Ah...you were reading that difficult book
 called \"Exercise Theory\", right?");
 ChEye(2,0);
@@ -27,9 +28,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020210307_02_040");
-MsgDisp("Sassa","That time, meeting you in the library instead
-of on the sports ground or in the classroom
-felt fresh and fun.");
+MsgDisp("Sassa","That time, meeting you in the library
+instead of on the sports ground or in the
+classroom felt fresh and fun.");
 MsgDisp("主人公","Yeah, I get that too.");
 ChEye(2,0);
 ChMouth(2,3);

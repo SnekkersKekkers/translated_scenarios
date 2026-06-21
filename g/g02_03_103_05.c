@@ -10,8 +10,8 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("G020310305_03_010");
 MsgDisp("Honda","Yes, even though it's based on eye
-estimation, I decided on a time and an area
-to count. More than last time alone.");
+estimation, I decided on a time and an
+area to count. More than last time alone.");
 MsgDisp("主人公","The fireflies here are also one of
 ｛Honda＊＊｝'s observation subjects, huh?");
 ChEye(3,0);
@@ -31,8 +31,8 @@ MsgDisp("主人公","Guso-kun...that was unfortunate, huh...");
 ChFace(3,4);
 ChMotion(3,2,1);
 VoicePlay("G020310305_03_040");
-MsgDisp("Honda","Yeah, and I've been watching him since I was
-little too...");
+MsgDisp("Honda","Yeah, and I've been watching him since I
+was little too...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -40,7 +40,8 @@ VoicePlay("G020310305_03_050");
 MsgDisp("Honda","Oh, it's not just living things.
 This town is full of fascinating things to
 observe.");
-MsgDisp("主人公","Hehe! Then ｛Honda＊＊｝ is busy everyday, huh?");
+MsgDisp("主人公","Hehe!
+Then ｛Honda＊＊｝ is busy everyday, huh?");
 ChSet(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310305_03_060");

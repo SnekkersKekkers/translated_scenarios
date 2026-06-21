@@ -14,8 +14,8 @@ The places I want to go to are weird.");
     ChMotion(3,4,1);
     VoicePlay("Q040300002_03_010");
     MsgDisp("Honda","Yepyep.
-If you're interested, I'll tell you all about
-it one day, okay?");
+If you're interested, I'll tell you all
+about it one day, okay?");
     MsgClose();
     BGMStop();
     MsgClose();
@@ -23,8 +23,8 @@ it one day, okay?");
     ChClose(3);
     Wait(30);
     MsgDisp("主人公","(What a shame...
-But I wonder just where does ｛Honda＊＊｝ want
-to go to?)");
+But I wonder just where does ｛Honda＊＊｝
+want to go to?)");
     break ;
     case 3:
     break ;

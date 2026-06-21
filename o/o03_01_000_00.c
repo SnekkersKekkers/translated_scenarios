@@ -34,8 +34,8 @@ Isn't that great?");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("O030100000_01_030");
-    MsgDisp("Kazama","Just this event is enough to make it a good
-sports festival.");
+    MsgDisp("Kazama","Just this event is enough to make it a
+good sports festival.");
     MsgDisp("主人公","(｛Kazama＊＊｝ seems happy that we won
 first place.)");
     break ;
@@ -54,8 +54,8 @@ First place!");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("O030100000_01_050");
-    MsgDisp("Kazama","Seems like sometimes we're connected with a
-red rope in reality too huh?");
+    MsgDisp("Kazama","Seems like sometimes we're connected with
+a red rope in reality too huh?");
     MsgDisp("主人公","Hehe. You mean a red thread, right?");
     ChEye(1,0);
     ChMouth(1,3);

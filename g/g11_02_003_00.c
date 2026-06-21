@@ -53,8 +53,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200300_02_040");
-MsgDisp("Sassa","When we stand in line like this, it reminds
-me of the three-legged race.");
+MsgDisp("Sassa","When we stand in line like this, it
+reminds me of the three-legged race.");
 MsgDisp("主人公","Eh? From the sports festival?");
 ChEye(2,1);
 ChMouth(2,0);
@@ -87,7 +87,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("G110200300_02_080");
-MsgDisp("Sassa","I see. Then, I'm going to run a little more.
+MsgDisp("Sassa","I see.
+Then, I'm going to run a little more.
 See you.");
 MsgClose();
 BGMStop();

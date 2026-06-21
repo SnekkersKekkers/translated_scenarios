@@ -17,8 +17,8 @@ ChMotion(2,4);
 ChCheek(2,10);
 VoicePlay("T020211020_02_010");
 MsgDisp("Sassa","Thank you.
-I can chase my dreams together with you, my
-beloved.");
+I can chase my dreams together with you,
+my beloved.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,1);

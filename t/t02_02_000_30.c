@@ -29,8 +29,8 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200030_02_030");
-MsgDisp("Sassa","I'm definitely stronger now than I was when I
-was just running.");
+MsgDisp("Sassa","I'm definitely stronger now than I was
+when I was just running.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -57,8 +57,8 @@ ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("T020200030_02_070");
-MsgDisp("Sassa","I'll think it through, but I'll run as hard
-as I can.
+MsgDisp("Sassa","I'll think it through, but I'll run as
+hard as I can.
 See you, manager.");
 BGMStop(3.6);
 MsgClose();

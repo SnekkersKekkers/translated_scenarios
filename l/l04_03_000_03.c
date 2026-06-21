@@ -37,8 +37,8 @@ myself.)");
     ChMotion(3,1);
     VoicePlay("L040300003_03_040");
     MsgDisp("Honda","Yeah, I can see that!
-Because this has my taste and preferences in
-it, too! It's almost a waste to eat it.");
+Because this has my taste and preferences
+in it, too! It's almost a waste to eat it.");
     MsgDisp("主人公","Hehe, make sure to eat it, okay?");
     ChEye(3,3);
     ChMotion(3,4);
@@ -72,14 +72,15 @@ How are they?");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300003_03_090");
-    MsgDisp("Honda","I've been waiting for this since morning, but
-now that I have the chocolate, I'm
+    MsgDisp("Honda","I've been waiting for this since morning,
+but now that I have the chocolate, I'm
 speechless. Weird, huh?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,0);
     VoicePlay("L040300003_03_100");
-    MsgDisp("Honda","Do people stop thinking if they're too happy?");
+    MsgDisp("Honda","Do people stop thinking if they're
+too happy?");
     MsgDisp("主人公","Hehe, seems that way.");
     ChEye(3,3);
     ChMouth(3,3);
@@ -94,8 +95,8 @@ I'll savour it, okay?");
     ChMotion(3,5);
     VoicePlay("L040300003_03_120");
     MsgDisp("Honda","I got it!
-Before I eat it, can we take a picture with
-the chocolate?");
+Before I eat it, can we take a picture
+with the chocolate?");
     MsgDisp("主人公","(｛Honda＊＊｝ seemed really happy!
 I did it∈)");
     break ;

@@ -18,14 +18,14 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("F100330001_21_000");
-MsgDisp("Michiru","She said \"Please tell me the trendy colours
-for next season.\".");
+MsgDisp("Michiru","She said \"Please tell me the trendy
+colours for next season.\".");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F100330001_21_010");
-MsgDisp("Michiru","Honda's sister seems to be very interested in
-fashion.
+MsgDisp("Michiru","Honda's sister seems to be very interested
+in fashion.
 Hehe.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -60,7 +60,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F100330001_21_030");
-MsgDisp("Michiru","Hmm, you're a good big brother, aren't you?");
+MsgDisp("Michiru","Hmm, you're a good big brother,
+aren't you?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -72,9 +73,9 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("F100330001_03_030");
-MsgDisp("Honda","Really? But after watching me, she said she
-didn't want to be the same as me, so didn't
-get them pierced in the end?");
+MsgDisp("Honda","Really? But after watching me, she said
+she didn't want to be the same as me, so
+didn't get them pierced in the end?");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

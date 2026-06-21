@@ -38,8 +38,8 @@ shining the brightest.");
     ChSet(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("R040300001_03_040");
-    MsgDisp("Honda","This place looks like a castle, so you look
-like a real princess!");
+    MsgDisp("Honda","This place looks like a castle, so you
+look like a real princess!");
     MsgDisp("主人公","Really?
 Thank you!");
     ChEye(3,0);
@@ -70,8 +70,8 @@ she would shine the brightest here.");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("R040300001_03_080");
-    MsgDisp("Honda","It's not just the dress either, you yourself
-are sparkling.");
+    MsgDisp("Honda","It's not just the dress either, you
+yourself are sparkling.");
     MsgDisp("主人公","No way...you're giving me too much credit.");
     ChEye(3,3);
     ChMouth(3,3);

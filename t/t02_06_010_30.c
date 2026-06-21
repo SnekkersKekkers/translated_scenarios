@@ -42,7 +42,8 @@ VoicePlay("T020601000_06_360");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
-MsgDisp("Himuro","Then you can hurry up and come crying to me.");
+MsgDisp("Himuro","Then you can hurry up and come crying
+to me.");
 VoicePlay("T020601000_06_370");
 ChEye(6,0);
 ChMouth(6,3);

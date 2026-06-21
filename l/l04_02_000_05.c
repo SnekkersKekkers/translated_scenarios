@@ -32,7 +32,8 @@ I'll eat it at home.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Did I add something that he doesn't like...?
+    MsgDisp("主人公","(Did I add something that he doesn't
+like...?
 But, he seemed pleased enough.)");
     break ;
     case 3:
@@ -68,7 +69,8 @@ Alright.");
     MsgClose();
     ChClose(2);
     Wait(30);
-    MsgDisp("主人公","(Did I add something that he doesn't like...?
+    MsgDisp("主人公","(Did I add something that he doesn't
+like...?
 But, he seemed pleased enough.)");
     break ;
     case 4:

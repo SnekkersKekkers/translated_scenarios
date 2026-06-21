@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝ is studying hard in
-the library...?
+MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝ is studying hard
+in the library...?
 I'll go check it out.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -22,11 +22,11 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100510002_05_010");
 MsgDisp("Hiiragi","Yes.
-After I found the middle school textbook, I
-stopped spacing out.");
+After I found the middle school textbook,
+I stopped spacing out.");
 MsgDisp("主人公","I'm glad.
-If you keep progressing like this, you'll be
-alright.");
+If you keep progressing like this, you'll
+be alright.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -60,9 +60,9 @@ ChOpen(5,254,4,4,2,#1,#1,0,0);
 Wait(30,0);
 ScrFadeIn(0);
 VoicePlay("F100510002_05_050");
-MsgDisp("Hiiragi","I see... I finally understand the meaning of
-the \"past progressive tense\" we learned about
-in English class this morning.");
+MsgDisp("Hiiragi","I see... I finally understand the meaning
+of the \"past progressive tense\" we learned
+about in English class this morning.");
 MsgDisp("主人公","Hehe, I'm glad.
 I'm sure you'll gradually understand more
 and more.");
@@ -83,8 +83,8 @@ ChEyeOpenLevel(5,0);
 VoicePlay("F100510002_05_070");
 MsgDisp("Hiiragi","You really are such a kind person...
 Please don't make me cry.");
-MsgDisp("主人公","Hehe. You shouldn't cry over something like
-this, okay?
+MsgDisp("主人公","Hehe. You shouldn't cry over something
+like this, okay?
 There is still lots to learn, after all.");
 ChEye(5,4);
 ChMouth(5,4);

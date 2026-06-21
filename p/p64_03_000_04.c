@@ -17,15 +17,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P640300004_03_020");
-MsgDisp("Honda","The appearance is also pretty, it's a shame
-it'll end after the cultural festival.");
+MsgDisp("Honda","The appearance is also pretty, it's a
+shame it'll end after the cultural
+festival.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P640300004_03_030");
 MsgDisp("Honda","Oh, I know!
-How about serving the vegetables you grew in
-the school cafeteria?");
+How about serving the vegetables you grew
+in the school cafeteria?");
 MsgDisp("主人公","(Yay! I was praised by ｛Honda＊＊｝.)");
 MsgClose();
 ScrFadeOut(0,0);

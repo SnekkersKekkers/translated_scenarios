@@ -17,8 +17,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,8);
 VoicePlay("T020621000_06_010");
-MsgDisp("Himuro","...It feels a bit weird, us being here face
-to face.");
+MsgDisp("Himuro","...It feels a bit weird, us being here
+face to face.");
 ChMouth(6,4);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
@@ -30,16 +30,17 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,10);
 VoicePlay("T020621000_06_030");
-MsgDisp("Himuro","...But since entering high school, it's just
-been a series of unbelievable events for me.");
+MsgDisp("Himuro","...But since entering high school, it's
+just been a series of unbelievable events
+for me.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020621000_06_040");
 MsgDisp("Himuro","Meeting upperclassmen I respect and even
-going out together, and getting along with my
-teachers...");
+going out together, and getting along with
+my teachers...");
 MsgDisp("主人公","Are you talking about ｛Hiiragi＊＊＊｝ and
 ｛Mikage＊＊｝?");
 ChEye(6,0);
@@ -48,8 +49,8 @@ ChMotion(6,3);
 ChEyeOpenLevel(6,10);
 VoicePlay("T020621000_06_050");
 MsgDisp("Himuro","Yes.
-I wasn't even sure I could make friends with
-people in my own grade...");
+I wasn't even sure I could make friends
+with people in my own grade...");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -61,8 +62,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("T020621000_06_070");
-MsgDisp("Himuro","...More than those two though, what's always
-surprised me is you.");
+MsgDisp("Himuro","...More than those two though, what's
+always surprised me is you.");
 MsgClear();
 ChClose(6);
 ChCustomLayout(6,5,0,-2.5);
@@ -78,9 +79,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("T020621000_06_090");
-MsgDisp("Himuro","Meeting the two of them and truly starting my
-high school life, it was all possible because
-of you.");
+MsgDisp("Himuro","Meeting the two of them and truly starting
+my high school life, it was all possible
+because of you.");
 ChEye(6,4);
 ChMouth(6,4);
 ChMotion(6,0);

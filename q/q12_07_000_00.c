@@ -43,8 +43,8 @@ extracurricular lesson.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("Q120700000_07_040");
-    MsgDisp("Mikage","Alright, there's no bell ringing but this is
-still the end.");
+    MsgDisp("Mikage","Alright, there's no bell ringing but this
+is still the end.");
     MsgDisp("主人公","Ok! Thank you very much for today!");
     ChEye(7,0);
     ChMouth(7,0);
@@ -73,8 +73,10 @@ Nagasaki version is now over.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("Q120700000_07_080");
-    MsgDisp("Mikage","Thanks for hanging out with me for two days.");
-    MsgDisp("主人公","Me too, thank you even for the MVP award...");
+    MsgDisp("Mikage","Thanks for hanging out with me for
+two days.");
+    MsgDisp("主人公","Me too, thank you even for the MVP
+award...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
@@ -89,7 +91,8 @@ Don't get soggy.");
     MsgDisp("Mikage","Ah yes, the MVP award.
 If you see the tulips every year, you get
 reminded of this school trip.");
-    MsgDisp("主人公","Yes. Will you also remember, ｛Mikage＊＊｝?");
+    MsgDisp("主人公","Yes.
+Will you also remember, ｛Mikage＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

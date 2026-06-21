@@ -5,16 +5,17 @@ ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G020330100_03_000");
 MsgDisp("Honda","Your surroundings always seem so lively.
-It doesn't seem like there's much space for
-me to jump in.");
+It doesn't seem like there's much space
+for me to jump in.");
 MsgDisp("主人公","Why's that?
-I think it's totally fine for you to join in.");
+I think it's totally fine for you to
+join in.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020330100_03_010");
-MsgDisp("Honda","I've tried that before, but I still remember
-the atmosphere back then.");
+MsgDisp("Honda","I've tried that before, but I still
+remember the atmosphere back then.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -50,7 +51,8 @@ ChMotion(3,4);
 ChMotion(3,1);
 VoicePlay("G020330100_03_060");
 MsgDisp("Honda","So I'll hold back for a while!
-I'll refrain from that unless it's with you!");
+I'll refrain from that unless it's
+with you!");
 MsgDisp("主人公","(Can he really hold back...
 It might be tough for ｛Honda＊＊｝?)");
 BGMStop();

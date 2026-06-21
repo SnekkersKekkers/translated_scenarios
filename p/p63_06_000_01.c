@@ -7,8 +7,8 @@ switch (ChPrmGet(6,6)){
     case 3:
     BGOpen("sc723",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Seems like lots of customers are coming this
-year...)");
+    MsgDisp("主人公","(Seems like lots of customers are coming
+this year...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600001_06_000");
@@ -41,8 +41,8 @@ cookies.▼");
     case 5:
     BGOpen("sc723",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(Seems like lots of customers are coming this
-year...)");
+    MsgDisp("主人公","(Seems like lots of customers are coming
+this year...)");
     MsgClose();
     ChOpen(6,254,0,0,0,#1,#1,0,0);
     VoicePlay("P630600001_06_030");
@@ -61,8 +61,8 @@ Welcome.");
     VoicePlay("P630600001_06_050");
     MsgDisp("Himuro","Then, what did you do?");
     MsgDisp("主人公","Pretty much I helped grow the vegetables
-we're selling around there, and made the herb
-tea and cookies.");
+we're selling around there, and made the
+herb tea and cookies.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

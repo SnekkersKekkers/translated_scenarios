@@ -18,8 +18,8 @@ More and more people are gathering...)");
     VoicePlay("P130400000_04_000");
     MsgDisp("Nanatsumori","Cow...");
     MsgDisp("主人公","Ah, ｛Nanatsumori＊｝.
-It's a maze with Mikage-sensei's family cow,
-Molly! Won't you try it?");
+It's a maze with Mikage-sensei's family
+cow, Molly! Won't you try it?");
     VoicePlay("P130400000_04_010");
     MsgDisp("Nanatsumori","What happens if you reach the goal safely?");
     MsgDisp("主人公","You get to drink freshly-squeezed milk!");
@@ -35,8 +35,8 @@ give it a shot.");
     case 4:
     case 5:
     MsgDisp("主人公","It's a maze～
-If you can reach the finish line, you get to
-drink freshly squeezed milk～");
+If you can reach the finish line, you get
+to drink freshly squeezed milk～");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);
@@ -50,8 +50,8 @@ By all means, please enter～!");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P130400000_04_040");
-    MsgDisp("Nanatsumori","Enough about the cow Molly, what's with the
-freshly squeezed milk?");
+    MsgDisp("Nanatsumori","Enough about the cow Molly, what's with
+the freshly squeezed milk?");
     MsgDisp("主人公","It's super delicious?");
     ChEye(4,0);
     ChMouth(4,3);

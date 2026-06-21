@@ -2,8 +2,8 @@ BGMStop();
 BGOpen("sc605",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This year I'm in charge of patrolling each
-exhibit.
+MsgDisp("主人公","(This year I'm in charge of patrolling
+each exhibit.
 I have to check carefully...!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -19,8 +19,8 @@ ChEye(31,2);
 ChMouth(31,2);
 ChMotion(31,4);
 VoicePlay("P833100002_31_010");
-MsgDisp("Goro","Right. Hey, you're a third year, so you must
-know all the best spots.
+MsgDisp("Goro","Right. Hey, you're a third year, so you
+must know all the best spots.
 Could you show me the highlights?");
 MsgDisp("主人公","Yes, I'll do it while patrolling the
 exhibits, but I can show you around!");

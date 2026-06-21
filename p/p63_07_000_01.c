@@ -69,8 +69,8 @@ There's quite a lot of kinds huh?");
 Then, I'll have the blend for sound
 sleep please.");
     MsgDisp("主人公","Yes.
-Then one original blend herbal tea for sound
-sleep then!");
+Then one original blend herbal tea for
+sound sleep then!");
     break ;
     default :
     DbgAssert(1);

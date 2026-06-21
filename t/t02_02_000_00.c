@@ -35,8 +35,9 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020200000_02_040");
-MsgDisp("Sassa","But in my first year, I learned that when I
-ran at full speed, someone would feel bad.");
+MsgDisp("Sassa","But in my first year, I learned that
+when I ran at full speed, someone would
+feel bad.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,2);
 ChMouth(2,0);
@@ -49,8 +50,8 @@ ChMouth(2,0);
 ChMotion(2,2);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020200000_02_060");
-MsgDisp("Sassa","Plus, even when I won, I would act frustrated
-in front of the loser...");
+MsgDisp("Sassa","Plus, even when I won, I would act
+frustrated in front of the loser...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -74,16 +75,17 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020200000_02_100");
-MsgDisp("Sassa","You know, during the Inter-High in my second
-year, I was thinking about giving up.");
+MsgDisp("Sassa","You know, during the Inter-High in my
+second year, I was thinking about
+giving up.");
 MsgDisp("主人公","Eh...∋");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("T020200000_02_110");
 MsgDisp("Sassa","But you supported me, and in the end, my
-seniors encouraged me. Ultimately, I was the
-only one who stuck to my guns...");
+seniors encouraged me. Ultimately, I was
+the only one who stuck to my guns...");
 MsgDisp("主人公","No, Senpai said it too.
 ｛Sassa＊＊｝'s dream is everyone's dream.");
 ChEye(2,4);
@@ -93,16 +95,16 @@ VoicePlay("T020200000_02_120");
 MsgDisp("Sassa","I was so happy...
 Since that day, I was able to run with
 passion again.");
-MsgDisp("主人公","That's right, your times improved greatly by
-third year.");
+MsgDisp("主人公","That's right, your times improved greatly
+by third year.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020200000_02_130");
-MsgDisp("Sassa","In the end, it was impossible to win all the
-events, but I managed to complete it.");
-MsgDisp("主人公","Yes...as for that time, thank you for letting
-me wear that gold medal.");
+MsgDisp("Sassa","In the end, it was impossible to win all
+the events, but I managed to complete it.");
+MsgDisp("主人公","Yes...as for that time, thank you for
+letting me wear that gold medal.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -121,8 +123,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020200000_02_160");
-MsgDisp("Sassa","But since retirement, I can't train with you
-every day anymore?");
+MsgDisp("Sassa","But since retirement, I can't train with
+you every day anymore?");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -147,9 +149,9 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020200000_02_200");
-MsgDisp("Sassa","Look, on Christmas Eve, it was really hard to
-run in the suit, but you still got a good
-time, right?");
+MsgDisp("Sassa","Look, on Christmas Eve, it was really hard
+to run in the suit, but you still got a
+good time, right?");
 MsgDisp("主人公","Hehe.
 It's been a while since we were able to
 practise together.");

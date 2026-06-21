@@ -81,8 +81,8 @@ Like the day before a field trip?");
 I'm looking forward to our last free time.");
     ChSet(3,3);
     VoicePlay("Q090300000_03_100");
-    MsgDisp("Honda","I wonder what discoveries can you and I make
-together?
+    MsgDisp("Honda","I wonder what discoveries can you and I
+make together?
 Off we go!");
     break ;
     default :

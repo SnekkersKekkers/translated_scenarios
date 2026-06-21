@@ -17,11 +17,11 @@ MsgDisp("Hiiragi","Well, at least I am motivated.");
 MsgDisp("主人公","Um, what's wrong with that?");
 ChMotion(5,1);
 VoicePlay("F020500005_05_010");
-MsgDisp("Hiiragi","When the difference in academic ability is so
-great, motivation alone rarely equates to
-good performance.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're busy, so you don't have
-much of a choice.");
+MsgDisp("Hiiragi","When the difference in academic ability is
+so great, motivation alone rarely equates
+to good performance.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, you're busy, so you don't
+have much of a choice.");
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,#1);
@@ -33,8 +33,8 @@ ChEye(5,0);
 ChMouth(5,0);
 ChMotion(5,3);
 VoicePlay("F020500005_05_030");
-MsgDisp("Hiiragi","So even if it is just a veneer of success, I
-want to achieve something.
+MsgDisp("Hiiragi","So even if it is just a veneer of success,
+I want to achieve something.
 Even just one or two points.");
 MsgDisp("主人公","I see I still have things to learn from
 ｛Hiiragi＊＊＊｝.");

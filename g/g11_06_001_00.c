@@ -18,9 +18,10 @@ ScrFadeIn(0);
 VoicePlay("G110600100_06_000");
 MsgDisp("Himuro","...So, what?
 Why did you come all the way here?");
-MsgDisp("主人公","Ah...I wanted to apologise for something that
-happened at the sports festival. I'm sorry.
-That we came last in the three legged race.");
+MsgDisp("主人公","Ah...I wanted to apologise for something
+that happened at the sports festival. I'm
+sorry. That we came last in the three
+legged race.");
 ChEye(6,3);
 ChMouth(6,3);
 ChMotion(6,2);
@@ -44,14 +45,14 @@ ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600100_06_040");
 MsgDisp("Himuro","I did doubt my physical ability for a bit.
-Maybe I wasn't that good at exercise...that's
-what I thought.");
+Maybe I wasn't that good at
+exercise...that's what I thought.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600100_06_050");
-MsgDisp("Himuro","So when I was able to surf as normal today, I
-was relieved.");
+MsgDisp("Himuro","So when I was able to surf as normal
+today, I was relieved.");
 MsgDisp("主人公","I guess it's my fault after all.");
 ChEye(6,0);
 ChMouth(6,0);

@@ -21,8 +21,8 @@ I'll come right away.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_650");
-    MsgDisp("Honda","Everyone makes mistakes, so I'll look forward
-to you improving in the future.");
+    MsgDisp("Honda","Everyone makes mistakes, so I'll look
+forward to you improving in the future.");
     MsgDisp("主人公","(Sigh, I caused trouble for them...
 Like ｛Honda＊＊｝ said, I'll make sure I
 improve!)");
@@ -39,8 +39,8 @@ reserved it?");
     ChOpen(3,35,0,0,4,#1,#1,0,0);
     VoicePlay("I260300000_03_660");
     MsgDisp("Honda","What happened?");
-    MsgDisp("主人公","I gave the item they ordered to someone else
-by accident...");
+    MsgDisp("主人公","I gave the item they ordered to someone
+else by accident...");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);

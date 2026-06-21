@@ -7,9 +7,9 @@ switch (ChPrmGet(2,6)){
     case 3:
     BGOpen("sc722",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're serving homemade herbal tea
-and cookies. It would be nice if it was well
-received though...)");
+    MsgDisp("主人公","(This year we're serving homemade herbal
+tea and cookies. It would be nice if it
+was well received though...)");
     MsgClose();
     ChOpen(2,254,2,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
@@ -30,8 +30,8 @@ We grew it.");
     ChMotion(2,0);
     VoicePlay("P630200000_02_020");
     MsgDisp("Sassa","Ehhh, is it tasty?");
-    MsgDisp("主人公","We can prepare a blend that's easy to drink
-for your first time trying it♪");
+    MsgDisp("主人公","We can prepare a blend that's easy to
+drink for your first time trying it♪");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -55,9 +55,9 @@ One herbal tea set please!");
     case 5:
     BGOpen("sc722",0);
     ScrFadeIn(0);
-    MsgDisp("主人公","(This year we're serving homemade herbal tea
-and cookies. It would be nice if it was well
-received though...)");
+    MsgDisp("主人公","(This year we're serving homemade herbal
+tea and cookies. It would be nice if it
+was well received though...)");
     MsgClose();
     ChOpen(2,254,3,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
@@ -74,7 +74,8 @@ received though...)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P630200000_02_070");
-    MsgDisp("Sassa","Yeah. There's a familiar feel, it's calming.");
+    MsgDisp("Sassa","Yeah.
+There's a familiar feel, it's calming.");
     MsgDisp("主人公","The herbal tea's blend also has a
 relaxing effect.");
     ChEye(2,0);

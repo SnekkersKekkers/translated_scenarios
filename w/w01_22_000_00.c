@@ -11,12 +11,14 @@ MsgDisp("主人公","｛ひかる＊｝.
 What's up?");
 ChMotion(22,3,1);
 VoicePlay("W012200000_22_010");
-MsgDisp("Hikaru","Let's go to the amusement park this Sunday♪
+MsgDisp("Hikaru","Let's go to the amusement park this
+Sunday♪
 Hikaru got a bunch of tickets.");
 MsgDisp("主人公","｛ひかる＊｝, you want to go with me?");
 ChMotion(22,4,1);
 VoicePlay("W012200000_22_020");
-MsgDisp("Hikaru","Ehehe, Hikaru will invite other people too.
+MsgDisp("Hikaru","Ehehe, Hikaru will invite other
+people too.
 Come on, come on, let's go～!");
 MsgSel("Yeah, let's go!","Sorry, I have some errands to run.");
 switch (MsgSelRsltGet()){

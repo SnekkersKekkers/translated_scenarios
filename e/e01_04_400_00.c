@@ -50,8 +50,8 @@ VoicePlay("E010440000_04_040");
 MsgDisp("Nanatsumori","You should join the conversation next time
 instead of eavesdropping.");
 MsgDisp("主人公","Y-Yeah.
-But you two are on another league so I felt
-hesitant...");
+But you two are on another league so I
+felt hesitant...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);

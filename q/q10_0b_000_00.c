@@ -83,8 +83,8 @@ ChMouth(1,3);
 ChMotion(1,3,1);
 VoicePlay("Q100B00000_01_030");
 MsgDisp("Kazama","Wait a sec.
-I heard that the udon from the Goto Islands
-are delicious.");
+I heard that the udon from the Goto
+Islands are delicious.");
 ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,0,1);

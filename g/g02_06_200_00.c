@@ -56,15 +56,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620000_06_080");
 MsgDisp("Himuro","Because I met you a year too late.
-I wish I had another year to build the kind
-of relationship I want with you.");
+I wish I had another year to build the
+kind of relationship I want with you.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620000_06_090");
-MsgDisp("Himuro","I wish I could lengthen the time I spend with
-you by another year...");
+MsgDisp("Himuro","I wish I could lengthen the time I spend
+with you by another year...");
 MsgDisp("主人公","(｛Himuro＊＊｝...)");
 BGMStop();
 MsgClose();

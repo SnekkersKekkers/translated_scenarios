@@ -22,6 +22,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
 MsgDisp("主人公","(Sigh... I failed...
-I should have practised more in preparation.)");
+I should have practised more in
+preparation.)");
 MsgClose();
 ScrFadeOut(0);

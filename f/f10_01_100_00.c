@@ -63,8 +63,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110000_01_050");
-MsgDisp("Kazama","Next time you get sleepy, I'll be counting on
-you again.");
+MsgDisp("Kazama","Next time you get sleepy, I'll be counting
+on you again.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

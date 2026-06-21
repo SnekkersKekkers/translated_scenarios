@@ -23,8 +23,8 @@ Could I get more cardboard?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P830600001_06_010");
-    MsgDisp("Himuro","I came to get another chair, but should I do
-that later?");
+    MsgDisp("Himuro","I came to get another chair, but should I
+do that later?");
     MsgDisp("主人公","It's alright!
 I'm doing things one by one.");
     ChEye(6,0);

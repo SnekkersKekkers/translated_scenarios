@@ -56,7 +56,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110601100_06_070");
 MsgDisp("Himuro","Whatever.
-I just figured it'd get... a little lonely.");
+I just figured it'd get... a
+little lonely.");
 MsgDisp("主人公","Huh.");
 ChEye(6,2);
 ChMouth(6,0);

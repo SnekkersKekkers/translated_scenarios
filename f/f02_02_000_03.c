@@ -13,8 +13,8 @@ ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("F020200003_02_010");
 MsgDisp("Sassa","Yeah, about Mikage-sensei.
-There's a rumour he's gathering ostriches and
-breeding them.");
+There's a rumour he's gathering ostriches
+and breeding them.");
 MsgDisp("主人公","Huh? He's keeping ostriches?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -26,14 +26,14 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200003_02_030");
-MsgDisp("Sassa","Yeah, so he's gathering ostriches of superior
-breeding.");
+MsgDisp("Sassa","Yeah, so he's gathering ostriches of
+superior breeding.");
 ChEye(2,1);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("F020200003_02_040");
-MsgDisp("Sassa","But...if the ostriches are too slow, I heard
-Mikage-sensei eats them.");
+MsgDisp("Sassa","But...if the ostriches are too slow, I
+heard Mikage-sensei eats them.");
 MsgDisp("主人公","Huh∋");
 ChEye(2,1);
 ChMouth(2,3);

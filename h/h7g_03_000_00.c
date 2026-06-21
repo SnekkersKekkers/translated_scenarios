@@ -30,15 +30,15 @@ ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("H8G0300000_03_030");
 MsgDisp("Honda","Wow, you really are amazing.
-To get results like that, your work must have
-been extraordinary.");
+To get results like that, your work must
+have been extraordinary.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("H8G0300000_03_040");
-MsgDisp("Honda","To you, it might seem like any other result,
-but to me, I think it's a really big
-accomplishment.");
+MsgDisp("Honda","To you, it might seem like any other
+result, but to me, I think it's a really
+big accomplishment.");
 MsgDisp("主人公","｛Honda＊＊｝...
 Thank you.");
 ChEye(3,0);

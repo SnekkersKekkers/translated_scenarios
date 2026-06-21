@@ -23,7 +23,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P740600003_06_020");
 MsgDisp("Himuro","Let bygones be bygones?
-Even if you regret it now, it won't fix it.");
+Even if you regret it now, it won't
+fix it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

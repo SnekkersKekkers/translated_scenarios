@@ -40,9 +40,9 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("E010810100_08_040");
-MsgDisp("Shirahane","The other day, I helped the basketball club
-with their practice match. We all went
-together to celebrate their victory.");
+MsgDisp("Shirahane","The other day, I helped the basketball
+club with their practice match. We all
+went together to celebrate their victory.");
 MsgDisp("主人公","Ah, that's right.
 Congratulations!");
 ChEye(8,3);
@@ -75,8 +75,8 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("E010810100_08_080");
 MsgDisp("Shirahane","It's alright.
-I enjoy sports, so I'm happy to contribute to
-Hane High's victories.");
+I enjoy sports, so I'm happy to contribute
+to Hane High's victories.");
 ChMotion(8,1,1);
 VoicePlay("E010810100_08_090");
 MsgDisp("Shirahane","I'll be goin' to the baseball club's

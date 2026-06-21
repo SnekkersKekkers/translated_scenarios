@@ -53,7 +53,8 @@ See you later then.");
     VoicePlay("S120700003_07_050");
     MsgDisp("Mikage","Take it easy.
 See you.");
-    MsgDisp("主人公","Yeah. Thanks for spending time with me today.");
+    MsgDisp("主人公","Yeah.
+Thanks for spending time with me today.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -84,9 +85,9 @@ next year...)");
     ChMouth(7,0);
     ChMotion(7,0,1);
     VoicePlay("S120700003_07_070");
-    MsgDisp("Mikage","Ah, my apologies for dragging you around so
-much today. But thanks to you, the year is
-off to a great start.");
+    MsgDisp("Mikage","Ah, my apologies for dragging you around
+so much today. But thanks to you, the year
+is off to a great start.");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝, do you have to go to
 school today too?");
     ChEye(7,0);
@@ -124,8 +125,8 @@ See you.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","Ah, thank you so much!");
-    MsgDisp("主人公","(I hope I can be with ｛Mikage＊＊｝ on New
-Year's next year too.
+    MsgDisp("主人公","(I hope I can be with ｛Mikage＊＊｝ on
+New Year's next year too.
 Alright, let's try our best this year!)");
     break ;
     default :

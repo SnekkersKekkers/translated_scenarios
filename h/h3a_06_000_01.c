@@ -18,15 +18,15 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("H3A0600001_06_010");
     MsgDisp("Himuro","There's no helping it.
-It just means your opponent was trying harder
-than you.");
+It just means your opponent was trying
+harder than you.");
     MsgDisp("主人公","Yeah...");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H3A0600001_06_020");
-    MsgDisp("Himuro","But if you ask me, it's amazing enough just
-to make it here, you know?
+    MsgDisp("Himuro","But if you ask me, it's amazing enough
+just to make it here, you know?
 I think you should be more proud.");
     MsgDisp("主人公","(That's true...
 I lost, but I'm glad I stayed in the judo

@@ -18,8 +18,8 @@ What's up?");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I650300000_03_010");
-    MsgDisp("Honda","I was just passing by when I remembered that
-you work part-time here.");
+    MsgDisp("Honda","I was just passing by when I remembered
+that you work part-time here.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -47,8 +47,8 @@ Good luck!");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("I650300000_03_050");
-    MsgDisp("Honda","I heard you were working part-time here, so I
-thought I'd check on you.");
+    MsgDisp("Honda","I heard you were working part-time here,
+so I thought I'd check on you.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,0,1);
@@ -85,31 +85,31 @@ The customers just keep on coming.
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("I650300000_03_090");
-    MsgDisp("Honda","Working at a gas station must be pretty hard
-work, so I thought that all the staff here
-would be male.");
+    MsgDisp("Honda","Working at a gas station must be pretty
+hard work, so I thought that all the staff
+here would be male.");
     MsgDisp("主人公","Aah, I see what you mean.
-But my work mostly just involves cleaning the
-car windows.");
+But my work mostly just involves cleaning
+the car windows.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("I650300000_03_100");
-    MsgDisp("Honda","But weren't you the one carrying tyres around
-earlier?");
+    MsgDisp("Honda","But weren't you the one carrying tyres
+around earlier?");
     MsgDisp("主人公","You saw?");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,1,1);
     VoicePlay("I650300000_03_110");
     MsgDisp("Honda","Yeah. Aren't they pretty heavy?
-You know, you'll hurt your back if you carry
-them leaning forward like that.");
+You know, you'll hurt your back if you
+carry them leaning forward like that.");
     ChMotion(3,4,1);
     VoicePlay("I650300000_03_120");
     MsgDisp("Honda","It's better to use a trolley to roll them
-instead of carrying them around, even if it's
-more tedious...");
+instead of carrying them around, even if
+it's more tedious...");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,0,1);
@@ -121,7 +121,8 @@ not really my place to say anything.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I650300000_03_140");
-    MsgDisp("Honda","Yeah. Just do your best without getting hurt!");
+    MsgDisp("Honda","Yeah.
+Just do your best without getting hurt!");
     MsgDisp("主人公","(｛Honda＊＊｝ is so nice...
 I'll have to make sure I don't worry
 ｛Honda＊＊｝ too much.)");

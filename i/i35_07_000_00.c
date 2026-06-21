@@ -19,8 +19,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,1);
     VoicePlay("I350700000_07_010");
     MsgDisp("Mikage","I see, keep at it.
-There's fun to be had here that you can't get
-at school.");
+There's fun to be had here that you can't
+get at school.");
     MsgDisp("主人公","Yes, and I also get paid here.");
     ChEye(7,0);
     ChMouth(7,3);
@@ -51,8 +51,8 @@ I'll show you to your seat.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I350700000_07_040");
-    MsgDisp("Mikage","To see you hard at work, and to receive some
-of that energy.");
+    MsgDisp("Mikage","To see you hard at work, and to receive
+some of that energy.");
     MsgDisp("主人公","Hm, energy...?
 Is something the matter?");
     ChEye(7,0);
@@ -122,7 +122,8 @@ Welcome!");
     VoicePlay("I350700000_07_110");
     MsgDisp("Mikage","Nice smile.
 Feels like we're at school.");
-    MsgDisp("主人公","I wouldn't say \"welcome\" at school, though.");
+    MsgDisp("主人公","I wouldn't say \"welcome\" at
+school, though.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -143,7 +144,8 @@ Would you like to have a cake with it?");
     ChMotion(7,3);
     VoicePlay("I350700000_07_140");
     MsgDisp("Mikage","I get it, I'll have a cake set, then.");
-    MsgDisp("主人公","Yes! Thank you for your continued patronage.");
+    MsgDisp("主人公","Yes!
+Thank you for your continued patronage.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

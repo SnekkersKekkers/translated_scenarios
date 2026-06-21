@@ -48,7 +48,8 @@ expense?");
     ChMotion(5,0);
     VoicePlay("L040500002_05_050");
     MsgDisp("Hiiragi","How harsh.
-Like a director who makes actors shed tears.");
+Like a director who makes actors
+shed tears.");
     ChEye(5,4);
     ChMouth(5,4);
     VoicePlay("L040500002_05_060");
@@ -59,7 +60,8 @@ the taste.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Thank goodness, ｛Hiiragi＊＊＊｝ seems happy!)");
+    MsgDisp("主人公","(Thank goodness, ｛Hiiragi＊＊＊｝
+seems happy!)");
     break ;
     case 4:
     case 5:
@@ -75,7 +77,8 @@ It's from one of the finest shops.");
     ChMouth(5,4);
     VoicePlay("L040500002_05_080");
     MsgDisp("Hiiragi","I see, my thanks.
-For working part-time or saving up for this.");
+For working part-time or saving up
+for this.");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,3);
@@ -96,8 +99,8 @@ important. You gave me your time.");
     ChEye(5,3);
     ChMotion(5,4);
     VoicePlay("L040500002_05_110");
-    MsgDisp("Hiiragi","And...would you give me your time to eat this
-as well?
+    MsgDisp("Hiiragi","And...would you give me your time to eat
+this as well?
 Let us eat it together.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

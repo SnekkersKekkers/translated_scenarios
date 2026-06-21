@@ -1,8 +1,8 @@
 BGOpen("sc310",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(There's still time left of break, so maybe
-I'll go to the library?)");
+MsgDisp("主人公","(There's still time left of break, so
+maybe I'll go to the library?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -26,7 +26,8 @@ BGMPlay("BGM_C02_SASSA_A",0.01);
 ScrFadeIn(0);
 VoicePlay("F100210002_02_010");
 MsgDisp("Sassa","Yo, so it's you.
-Were you able to borrow that top-ranked book?");
+Were you able to borrow that
+top-ranked book?");
 MsgDisp("主人公","It looks like you couldn't borrow the
 \"Exercise Learning Theory in Practice\",
 ｛Sassa＊＊｝?");
@@ -41,8 +42,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100210002_02_030");
-MsgDisp("Sassa","I'm a track-and-field idiot, but I still use
-my head a bit.");
+MsgDisp("Sassa","I'm a track-and-field idiot, but I still
+use my head a bit.");
 MsgDisp("主人公","But, it seems like a difficult book.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -55,9 +56,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100210002_02_050");
-MsgDisp("Sassa","Well, when it's written in a book like this,
-it kind of backs up what you're already
-doing, and it's a bit of a relief.");
+MsgDisp("Sassa","Well, when it's written in a book like
+this, it kind of backs up what you're
+already doing, and it's a bit of a relief.");
 MsgDisp("主人公","Wow...you're amazing, ｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,3);

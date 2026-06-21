@@ -30,7 +30,8 @@ ChNanaType(1);
 ChOpen(4,100,1,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110400700_04_020");
-MsgDisp("Nanatsumori","Two hotcakes and a cup of hot coffee, please.");
+MsgDisp("Nanatsumori","Two hotcakes and a cup of hot
+coffee, please.");
 MsgDisp("主人公","Coming right up.");
 MsgClose();
 ScrFadeOut(0);

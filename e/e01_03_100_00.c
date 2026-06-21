@@ -33,15 +33,15 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010310000_03_040");
-MsgDisp("Honda","Yeah, it's got a good reputation for its soy
-sauce tonkotsu, and fatty backbone chaccha
-type ramen.");
+MsgDisp("Honda","Yeah, it's got a good reputation for its
+soy sauce tonkotsu, and fatty backbone
+chaccha type ramen.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("E010310000_03_050");
-MsgDisp("Honda","The chaccha type one seems interesting, don't
-you think?");
+MsgDisp("Honda","The chaccha type one seems interesting,
+don't you think?");
 MsgDisp("主人公","Yeah, seems fun and delicious.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -56,7 +56,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010310000_03_070");
 MsgDisp("Honda","Is that so? Why?");
-MsgDisp("主人公","Because I won't be able to eat dinner then.
+MsgDisp("主人公","Because I won't be able to eat
+dinner then.
 Are you gonna be able to, ｛Honda＊＊｝?");
 ChEye(3,0);
 ChMouth(3,3);

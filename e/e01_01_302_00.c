@@ -27,8 +27,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("E010130200_01_020");
-MsgDisp("Kazama","My grandpa gave me a ticket, so I thought I'd
-go see the rakugo show.");
+MsgDisp("Kazama","My grandpa gave me a ticket, so I thought
+I'd go see the rakugo show.");
 MsgDisp("主人公","Eh. So, that ticket...");
 ChEye(1,3);
 ChMouth(1,3);
@@ -98,7 +98,8 @@ ChEye(4,0);
 SEPlay("EV_SE_662");
 SEWait();
 MsgDisp("主人公","｛Kazama＊＊｝ said he's going too.
-Aren't you two just brought together by fate?");
+Aren't you two just brought together
+by fate?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

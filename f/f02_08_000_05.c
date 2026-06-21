@@ -28,9 +28,9 @@ ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,0,1);
 VoicePlay("F020800005_08_030");
-MsgDisp("Shirahane","No matter how much I study for subjects I'm
-not good at, I always end up fallin' for
-trick questions...");
+MsgDisp("Shirahane","No matter how much I study for subjects
+I'm not good at, I always end up fallin'
+for trick questions...");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);

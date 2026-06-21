@@ -36,8 +36,8 @@ manager...)");
 Yeah, we lost...");
     ChMotion(22,2,1);
     VoicePlay("H2A2200001_22_030");
-    MsgDisp("Hikaru","Hikaru never thought the Haba High track and
-field team would lose.
+    MsgDisp("Hikaru","Hikaru never thought the Haba High track
+and field team would lose.
 The world really is full of surprises.");
     ChEye(22,0);
     ChMouth(22,0);

@@ -41,9 +41,9 @@ One customer, please follow me—!");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(This year the Gardening Club's programme is
-a cafe. I have to prepare herbal tea and
-cookies though...)");
+    MsgDisp("主人公","(This year the Gardening Club's programme
+is a cafe. I have to prepare herbal tea
+and cookies though...)");
     MsgClose();
     ChLayout(1);
     ChNanaType(0);

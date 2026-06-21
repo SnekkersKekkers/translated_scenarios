@@ -14,7 +14,8 @@ VoicePlay("F100410002_04_010");
 MsgDisp("Nanatsumori","You're making such a scary face,
 what's wrong?");
 MsgDisp("主人公","Yeah.
-I feel like...something is calling out to me.");
+I feel like...something is calling out
+to me.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -46,12 +47,13 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F100410002_04_070");
-MsgDisp("Nanatsumori","If I lose it every time I see you, I wouldn't
-be able to keep up.");
+MsgDisp("Nanatsumori","If I lose it every time I see you, I
+wouldn't be able to keep up.");
 BGMVol(0.5,1);
 SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);
-MsgDisp("主人公","It's about time to go back to the classroom.
+MsgDisp("主人公","It's about time to go back to the
+classroom.
 Let's go, ｛Nanatsumori＊｝!");
 ChEye(4,1);
 ChMouth(4,3);
@@ -67,7 +69,8 @@ MsgDisp("主人公","...Ah∈");
 MsgDisp("主人公","There's a bus pass on the ground where
 ｛Nanatsumori＊｝ was standing...
 ｛Nanatsumori＊｝ ∈");
-MsgDisp("主人公","(Why on earth does he drop it every time～∋)");
+MsgDisp("主人公","(Why on earth does he drop it every
+time～∋)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

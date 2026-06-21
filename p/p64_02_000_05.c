@@ -17,7 +17,8 @@ ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P640200005_02_020");
-MsgDisp("Sassa","I know that, but the herbs were so strong...");
+MsgDisp("Sassa","I know that, but the herbs were so
+strong...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -30,8 +31,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("P640200005_02_040");
-MsgDisp("Sassa","It's a shame because the store is wonderful,
-and the vegetables are delicious.");
+MsgDisp("Sassa","It's a shame because the store is
+wonderful, and the vegetables are
+delicious.");
 MsgDisp("主人公","I see...");
 ChEye(2,0);
 ChMouth(2,4);

@@ -53,8 +53,8 @@ What's the matter?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P830600002_06_040");
-    MsgDisp("Himuro","Haven't you seen a mother looking for her own
-child around here?");
+    MsgDisp("Himuro","Haven't you seen a mother looking for her
+own child around here?");
     MsgDisp("主人公","Eh, did you find a lost child?");
     ChEye(6,0);
     ChMouth(6,0);
@@ -64,7 +64,8 @@ child around here?");
 This is the kid.");
     VoicePlay("P830600002_45_000");
     MsgDisp("Girl","Uuugh...*sniff*...");
-    MsgDisp("主人公","It's alright, we'll find your Mom soon okay?");
+    MsgDisp("主人公","It's alright, we'll find your Mom
+soon okay?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

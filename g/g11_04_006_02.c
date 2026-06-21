@@ -32,8 +32,9 @@ VoicePlay("G110400602_04_040");
 MsgDisp("Nanatsumori","Don't tell me, do I have something on
 my face∋");
 MsgDisp("主人公","No. Not at all.");
-MsgDisp("主人公","I can't forget how you dressed as a girl the
-other day after school, ｛Nanatsumori＊｝...");
+MsgDisp("主人公","I can't forget how you dressed as a girl
+the other day after school,
+｛Nanatsumori＊｝...");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("G110400602_04_050");

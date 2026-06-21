@@ -24,7 +24,8 @@ improved significantly.");
     ChMouth(6,3);
     ChMotion(6,3);
     VoicePlay("X120600000_06_010");
-    MsgDisp("Himuro","Reiichi-san praised your musical performance.
+    MsgDisp("Himuro","Reiichi-san praised your musical
+performance.
 You did it.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;

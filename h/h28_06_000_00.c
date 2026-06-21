@@ -16,14 +16,15 @@ Did you come to cheer us on?");
     ChMotion(6,0);
     VoicePlay("H280600000_06_010");
     MsgDisp("Himuro","Pretty much.
-Just so it's clear, I came to cheer you on,
-not to comfort you.");
+Just so it's clear, I came to cheer you
+on, not to comfort you.");
     ChEye(6,0);
     ChMouth(6,4);
     ChMotion(6,3);
     VoicePlay("H280600000_06_020");
-    MsgDisp("Himuro","I'll be expecting lots from the team members
-that you've supported up until now.");
+    MsgDisp("Himuro","I'll be expecting lots from the team
+members that you've supported up
+until now.");
     MsgDisp("主人公","...Yeah!");
     MsgDisp("主人公","(Alright, let's do our best...!)");
     break ;
@@ -60,7 +61,8 @@ team, right?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H280600000_06_070");
-    MsgDisp("Himuro","No? Then make sure that you get some results.
+    MsgDisp("Himuro","No?
+Then make sure that you get some results.
 I'll be looking forward to it.");
     MsgDisp("主人公","(Alright, I'm going to do my best to
 cheer too!)");

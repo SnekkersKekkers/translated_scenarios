@@ -3,20 +3,22 @@ BGMPlay("BGM_C03_HONDA_C",0.01);
 BGOpen("ad330",0);
 ScrFadeIn(0);
 VoicePlay("Y300300300_03_000");
-MsgDisp("Honda","\"Today was a huge failure... Sigh, she
-must have been really surprised too.\"");
+MsgDisp("Honda","\"Today was a huge failure... Sigh,
+she must have been really
+surprised too.\"");
 MsgClear();
-MsgDisp("","While I was working at my part time job,
-a chemical change occurred within me. It
-happens from time to time when I'm with
-her, a reaction in the deepest parts of
-my chest.");
-MsgDisp("","It's happened before too. before I let
-\"I like you\" slip out of my mouth.");
+MsgDisp("","While I was working at my part time
+job, a chemical change occurred
+within me. It happens from time to
+time when I'm with her, a reaction in
+the deepest parts of my chest.");
+MsgDisp("","It's happened before too. before
+I let \"I like you\" slip out of
+my mouth.");
 MsgClear();
 VoicePlay("Y300300300_03_010");
-MsgDisp("Honda","\"Ah. But today I said \"love\" didn't I...
-Seriously, I'm losing it.\"");
+MsgDisp("Honda","\"Ah. But today I said \"love\" didn't
+I... Seriously, I'm losing it.\"");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -27,18 +29,19 @@ MsgDisp("Manager","\"Honda-kun, you're a great help, but
 dating is prohibited during work.\"");
 MsgDisp("","I got a thorough scolding from the
 manager in the office.");
-MsgDisp("","She laughed, but during work, I clasped
-her hand didn't I...?");
+MsgDisp("","She laughed, but during work, I
+clasped her hand didn't I...?");
 MsgDisp("","Sigh, next shift I have to apologise
-properly. Both to her and the manager.");
+properly. Both to her and the
+manager.");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
 BGOpen("ad330",0);
 ScrFadeIn(0);
 MsgDisp("","A long time ago, when I discovered
-things I didn't know or didn't realise,
-I would be super happy.");
+things I didn't know or didn't
+realise, I would be super happy.");
 MsgDisp("","But, I never thought such a change
 within me would occur. A chemical
 reaction...a thermal reaction?");
@@ -49,8 +52,9 @@ MsgDisp("","I didn't know such a chemical
 reaction would occur within me...
 Occur within me...");
 VoicePlay("Y300300300_03_020");
-MsgDisp("Honda","\"To think it would be that interesting!
-As I thought, she's the best!\"");
+MsgDisp("Honda","\"To think it would be that
+interesting! As I thought, she's
+the best!\"");
 VoicePlay("Y300300300_44_000");
 MsgDisp("Honda Sis","\"Hey, bro, shut up!\"");
 MsgClear();

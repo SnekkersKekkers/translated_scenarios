@@ -42,7 +42,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F020600011_06_040");
-MsgDisp("Himuro","That doesn't mean it's because we're Himuros.");
+MsgDisp("Himuro","That doesn't mean it's because we're
+Himuros.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

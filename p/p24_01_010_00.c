@@ -15,8 +15,8 @@ ChOpen(1,30,0,0,0,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("P240101000_01_000");
 MsgDisp("Kazama","How is it holding up?
-The pumpkin carriage we painstakingly put our
-labour into.");
+The pumpkin carriage we painstakingly put
+our labour into.");
 MsgDisp("主人公","Yeah, seems fine.");
 VoicePlay("P240101000_45_010");
 MsgDisp("Wizard","Then, wear this dress that fits your glass
@@ -33,10 +33,10 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P240101000_01_020");
-MsgDisp("Kazama","Cinderella is most charming when she's in her
-everyday appearance.");
-MsgDisp("主人公","But what about her beautiful dress and glass
-slippers?");
+MsgDisp("Kazama","Cinderella is most charming when she's in
+her everyday appearance.");
+MsgDisp("主人公","But what about her beautiful dress and
+glass slippers?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -49,15 +49,15 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("P240101000_01_040");
-MsgDisp("Kazama","Right, you are valuable just as you are now,
-right in front of me.");
+MsgDisp("Kazama","Right, you are valuable just as you are
+now, right in front of me.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P240101000_01_050");
-MsgDisp("Kazama","You may have wanted to play Cinderella, but
-I'm enjoying that the two of us are here
-fretting over a Pumpkin carriage.");
+MsgDisp("Kazama","You may have wanted to play Cinderella,
+but I'm enjoying that the two of us are
+here fretting over a Pumpkin carriage.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 VoicePlay("P240101000_39_030");
 MsgDisp("Prince","To the beautiful lady over there, please
@@ -76,13 +76,14 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("P240101000_01_070");
-MsgDisp("Kazama","I wonder, but him checking the slippers makes
-me dubious.");
+MsgDisp("Kazama","I wonder, but him checking the slippers
+makes me dubious.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P240101000_01_080");
-MsgDisp("Kazama","If it were me, there'd be no need for that.
+MsgDisp("Kazama","If it were me, there'd be no need
+for that.
 I would know it's you right away.");
 MsgDisp("主人公","(｛Kazama＊＊｝...)");
 BGMStop();

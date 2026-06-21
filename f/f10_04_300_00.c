@@ -2,8 +2,8 @@ BGOpen("sc210",0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("F100430000_04_000");
-MsgDisp("Nanatsumori?","You twins are on the cover again for the next
-feature?
+MsgDisp("Nanatsumori?","You twins are on the cover again for the
+next feature?
 I seriously respect that...");
 VoicePlay("F100430000_21_000");
 MsgDisp("Michiru?","Right.

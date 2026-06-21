@@ -22,8 +22,8 @@ Did you come to support us?");
     ChMotion(21,4);
     VoicePlay("H182100000_21_010");
     MsgDisp("Michiru","Yes.
-Mari and everyone else is going to show up on
-this big stage, after all. Right?");
+Mari and everyone else is going to show up
+on this big stage, after all. Right?");
     MsgDisp("主人公","It's the team that will actually be
 playing, though.
 I'll do my best to support them too!");
@@ -57,8 +57,8 @@ Did you come to support us?");
     VoicePlay("H182100000_21_040");
     MsgDisp("Michiru","Mari is here, after all.");
     MsgDisp("主人公","Hehe, I'm the manager, you know?
-The members of the baseball team are the ones
-doing their best.");
+The members of the baseball team are the
+ones doing their best.");
     ChEye(21,0);
     ChMouth(21,3);
     ChMotion(21,3);

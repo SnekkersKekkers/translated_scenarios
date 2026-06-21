@@ -21,7 +21,8 @@ ChOpen(1,254,0,2,3,8,#1,0,0,0,30);
 VoicePlay("T020B21000_01_010");
 MsgDisp("Kazama","Sorry.
 I did try to hurry though.");
-MsgDisp("主人公","Yeah. I'm glad we could graduate together...");
+MsgDisp("主人公","Yeah.
+I'm glad we could graduate together...");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
 ChEye(1,4);
@@ -65,7 +66,8 @@ SEPlay("EV_SE_544");
 ChOpen(3,254,1,3,3,#1,#1,0,2);
 VoicePlay("T020B21000_03_000");
 MsgDisp("Honda","Welcome back, Ryo-kun!
-I'm glad we were able to graduate together.");
+I'm glad we were able to graduate
+together.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -111,7 +113,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 ChOpen(1,254,0,0,3,#1,#1,0,0,0,30);
 ChOpen(3,254,0,0,0,#1,#1,0,2,0,30);
 VoicePlay("T020B21000_01_080");
-MsgDisp("Kazama","I'm late, but I made it just in time, right?");
+MsgDisp("Kazama","I'm late, but I made it just in
+time, right?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -223,8 +226,8 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020B21000_03_070");
 MsgDisp("Honda","Yes yes, I heard you had arrived.
-Now, let's look back on the last three years
-together.");
+Now, let's look back on the last three
+years together.");
 ChEye(1,2);
 ChMouth(1,2);
 ChEyeOpenLevel(1,0);

@@ -1,7 +1,8 @@
 BGOpen("sc310",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, ｛みちる＊｝, ｛ひかる＊｝ and...
+MsgDisp("主人公","(Ah, ｛みちる＊｝,
+｛ひかる＊｝ and...
 ｛Sassa＊＊｝?)");
 BGMPlay("BGM_HANYOU_A",0.01);
 MsgClose();

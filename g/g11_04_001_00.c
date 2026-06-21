@@ -1,7 +1,7 @@
 BGOpen("sc000",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Ah, this month's feature of Habatcher is on
-limited time sweets.)");
+MsgDisp("主人公","(Ah, this month's feature of Habatcher is
+on limited time sweets.)");
 MsgDisp("主人公","Hehe! I'm gonna try to eat some by myself.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -31,14 +31,14 @@ Are you working today?");
 VoicePlay("G110400100_04_010");
 MsgDisp("Nanatsumori","Yeah. I'm on break right now.
 What are you doing here?");
-MsgDisp("主人公","I'm looking for some limited time sweets that
-were on Habatcher this month▼");
+MsgDisp("主人公","I'm looking for some limited time sweets
+that were on Habatcher this month▼");
 ChEye(4,2);
 VoicePlay("G110400100_04_020");
 MsgDisp("Nanatsumori","I see...");
 VoicePlay("G110400100_04_030");
-MsgDisp("Nanatsumori","We don't have any more, but do you wanna hear
-my review on it?");
+MsgDisp("Nanatsumori","We don't have any more, but do you wanna
+hear my review on it?");
 MsgDisp("主人公","Huh?
 Could it be that you already,
 ｛Nanatsumori＊｝...");
@@ -51,7 +51,8 @@ MsgDisp("主人公","Incredible...");
 ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("G110400100_04_060");
-MsgDisp("Nanatsumori","You're welcome to sit with me if you'd like.");
+MsgDisp("Nanatsumori","You're welcome to sit with me if
+you'd like.");
 MsgDisp("主人公","Sure! In that case...");
 MsgDisp("主人公","Excuse me!
 A \"Seasonal All Fruit Tart\" please!");

@@ -38,7 +38,8 @@ Is this a date?)");
         VoicePlay("J060100000_01_020");
         MsgDisp("Kazama","Copy that.
 Where do you want to meet up?");
-        MsgDisp("主人公","How about we meet at the ｛待ち合わせ場所｝?");
+        MsgDisp("主人公","How about we meet at the
+｛待ち合わせ場所｝?");
         ChEye(1,4);
         ChMouth(1,3);
         ChMotion(1,0);
@@ -93,7 +94,8 @@ It's a little bit...");
         ChMotion(1,3);
         ChEyeOpenLevel(1,8);
         VoicePlay("J060100000_01_070");
-        MsgDisp("Kazama","I don't know what you mean by \"a little bit\".");
+        MsgDisp("Kazama","I don't know what you mean by \"a
+little bit\".");
         MsgDisp("主人公","You don't talk like that anymore...");
         ChEye(1,0);
         ChMouth(1,1);
@@ -138,7 +140,8 @@ See you later?");
         ChMotion(1,2);
         ChEyeOpenLevel(1,7);
         VoicePlay("J060100000_01_120");
-        MsgDisp("Kazama","If we're together, who cares where we are...");
+        MsgDisp("Kazama","If we're together, who cares where
+we are...");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();

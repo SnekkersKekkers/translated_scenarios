@@ -64,8 +64,8 @@ this Sunday.");
         break ;
         case 1:
         VoicePlay("J040100001_01_060");
-        MsgDisp("Kazama","...Good grief, who said you could go making
-plans without checking with me.");
+        MsgDisp("Kazama","...Good grief, who said you could go
+making plans without checking with me.");
         MsgDisp("主人公","Uh, I'm sorry...");
         VoicePlay("J040100001_01_070");
         MsgDisp("Kazama","Just kidding.

@@ -35,7 +35,8 @@ field club manager!)");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H2A0600000_06_030");
-    MsgDisp("Himuro","I didn't think you guys would actually win.");
+    MsgDisp("Himuro","I didn't think you guys would
+actually win.");
     MsgDisp("主人公","｛Himuro＊＊｝!
 Hehe, awesome, right?");
     ChEye(6,0);
@@ -47,8 +48,8 @@ Hehe, awesome, right?");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("H2A0600000_06_050");
-    MsgDisp("Himuro","But well, I guess without your support, this
-result wouldn't have happened.");
+    MsgDisp("Himuro","But well, I guess without your support,
+this result wouldn't have happened.");
     MsgDisp("主人公","I hope so...");
     ChEye(6,0);
     ChMouth(6,0);

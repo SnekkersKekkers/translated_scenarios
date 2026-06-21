@@ -32,7 +32,8 @@ I'll look 'em up and give 'em a call.");
     ChEye(8,4);
     ChMotion(8,0,1);
     VoicePlay("I660800006_08_030");
-    MsgDisp("Shirahane","It's rare seein' ya make a mistake like that.
+    MsgDisp("Shirahane","It's rare seein' ya make a mistake
+like that.
 Be careful from now on, yeah?");
     MsgDisp("主人公","(I let my guard down...
 I'll have to get it together...!)");
@@ -56,7 +57,8 @@ I'll have to get it together...!)");
     ChMouth(8,0);
     ChMotion(8,0,1);
     VoicePlay("I660800006_08_050");
-    MsgDisp("Shirahane","This. It's that customer's membership card.
+    MsgDisp("Shirahane","This.
+It's that customer's membership card.
 I was makin' it just now.");
     MsgDisp("主人公","I didn't know...
 I'm sorry.");
@@ -80,8 +82,8 @@ you, ｛Daichi＊＊｝...");
     ChMouth(8,3);
     ChMotion(8,3,1);
     VoicePlay("I660800006_08_080");
-    MsgDisp("Shirahane","Then from now on, you should jus' keep makin'
-eye contact with me!
+    MsgDisp("Shirahane","Then from now on, you should jus' keep
+makin' eye contact with me!
 Yeah?");
     MsgDisp("主人公","(｛Daichi＊＊｝ seems happy...
 I should pay attention to my surroundings

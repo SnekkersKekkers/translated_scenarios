@@ -28,8 +28,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 MsgDisp("Himuro","But...
-I just wanted to hold on to the time I spent
-with you, with everyone.");
+I just wanted to hold on to the time I
+spent with you, with everyone.");
 VoicePlay("T020621000_06_410");
 ChEye(6,2);
 ChMouth(6,0);

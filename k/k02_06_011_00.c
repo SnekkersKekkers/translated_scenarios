@@ -38,7 +38,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,5);
 VoicePlay("K020601100_06_040");
-MsgDisp("Himuro","I see. I'm happy to see your reaction, too.");
+MsgDisp("Himuro","I see.
+I'm happy to see your reaction, too.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

@@ -61,8 +61,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600800_06_060");
-MsgDisp("Himuro","...Well, if you keep this up, I don't think
-there's anything to worry about.");
+MsgDisp("Himuro","...Well, if you keep this up, I don't
+think there's anything to worry about.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

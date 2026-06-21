@@ -37,8 +37,8 @@ MsgDisp("主人公","Eh?");
 ChMotion(5,0,1);
 ChCheek(5,0);
 VoicePlay("G020510100_05_070");
-MsgDisp("Hiiragi","I have no intention of handing over the lead
-role to anyone.
+MsgDisp("Hiiragi","I have no intention of handing over the
+lead role to anyone.
 That's my declaration.");
 MsgDisp("主人公","(Today I feel like ｛Hiiragi＊＊＊｝, is a bit
 different to usual...)");

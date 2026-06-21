@@ -14,8 +14,8 @@ ChEye(22,4);
 ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("F022200005_22_010");
-MsgDisp("Hikaru","And if you fail you can't take part in club
-activities or have a job～...
+MsgDisp("Hikaru","And if you fail you can't take part in
+club activities or have a job～...
 Sigh...");
 ChEye(22,0);
 ChMouth(22,0);
@@ -29,8 +29,8 @@ ChEye(22,0);
 ChMouth(22,4);
 ChMotion(22,0,1);
 VoicePlay("F022200005_22_030");
-MsgDisp("Hikaru","Then, how exactly does one score 50 points in
-one sitting?");
+MsgDisp("Hikaru","Then, how exactly does one score 50 points
+in one sitting?");
 MsgDisp("主人公","(......)");
 MsgClose();
 ScrFadeOut(0,0);

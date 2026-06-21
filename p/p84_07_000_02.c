@@ -25,8 +25,8 @@ MsgDisp("Mikage","...Nevertheless, for only one piece to be
 left, seems like that was a great
 calculations.");
 MsgDisp("主人公","Yes.
-It was a coincidence but I was surprised it
-was like my estimate.");
+It was a coincidence but I was surprised
+it was like my estimate.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -45,8 +45,8 @@ Wait a minute.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);
-MsgDisp("主人公","(I'm truly happy that I prepared properly and
-we were able to do it just as
+MsgDisp("主人公","(I'm truly happy that I prepared properly
+and we were able to do it just as
 planned...hurray!)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -41,7 +41,8 @@ But it was a tie.");
 In terms of art, your team is victorious.
 Your side profile was powerful and dignified.");
     MsgDisp("主人公","(In terms of art??
-Tug of war isn't about that kind of thing...)");
+Tug of war isn't about that kind of
+thing...)");
     break ;
     default :
     DbgAssert(1);

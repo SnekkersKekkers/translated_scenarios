@@ -48,20 +48,22 @@ VoicePlay("E010830000_09_030");
 ChEye(9,2);
 ChMouth(9,0);
 ChMotion(9,4,1);
-MsgDisp("Kuya","I was asked for directions, and while I was
-showing them, the movie ended...");
+MsgDisp("Kuya","I was asked for directions, and while I
+was showing them, the movie ended...");
 MsgDisp("主人公","I see.");
 VoicePlay("E010830000_08_040");
 ChEye(8,2);
 ChMouth(8,2);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
-MsgDisp("Daichi","Sigh... I was really looking forward ta it...");
+MsgDisp("Daichi","Sigh...
+I was really looking forward ta it...");
 ChEyeOpenLevel(8,#1);
 VoicePlay("E010830000_09_040");
 ChMotion(9,0,1);
 MsgDisp("Kuya","C'mon, I said m'sorry...
-How 'bout we go see it again some other day?");
+How 'bout we go see it again some
+other day?");
 ChEye(8,0);
 ChMouth(8,4);
 MsgDisp("主人公","......");
@@ -110,7 +112,8 @@ ChMouth(9,0);
 ChMotion(9,4,1);
 ChEyeOpenLevel(9,8);
 MsgDisp("Kuya","Haha!
-I guess Dai-chan hasn't changed much at all.");
+I guess Dai-chan hasn't changed much
+at all.");
 MsgDisp("主人公","Hehe! You two really get along well.");
 ChEyeOpenLevel(9,#1);
 VoicePlay("E010830000_08_080");

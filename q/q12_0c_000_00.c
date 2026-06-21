@@ -19,7 +19,8 @@ ChMotion(5,4);
 VoicePlay("Q120C00000_05_010");
 MsgDisp("Hiiragi","\"Until home is the trip\"...
 Is it that thing?");
-MsgDisp("主人公","Hehe. ｛Mikage＊＊｝ really likes promises.");
+MsgDisp("主人公","Hehe.
+｛Mikage＊＊｝ really likes promises.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

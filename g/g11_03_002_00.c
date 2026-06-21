@@ -48,8 +48,8 @@ VoicePlay("G110300200_03_030");
 MsgDisp("Honda","This one.
 It has really interesting explanations.");
 MsgDisp("主人公","Hee, thank you.
-If it's ｛Honda＊＊｝'s recommendation, it must
-be good right?");
+If it's ｛Honda＊＊｝'s recommendation, it
+must be good right?");
 ChEye(3,2);
 ChMouth(3,1);
 ChMotion(3,2);
@@ -60,16 +60,16 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G110300200_03_050");
-MsgDisp("Honda","After all, I lost to you in the end-of-term
-test last time...");
+MsgDisp("Honda","After all, I lost to you in the
+end-of-term test last time...");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300200_03_060");
 MsgDisp("Honda","This might be a tactic to throw you off?");
 MsgDisp("主人公","Ehhhh∋");
-MsgDisp("主人公","(But I'm kind of happy that ｛Honda＊＊｝ sees
-me as a rival?)");
+MsgDisp("主人公","(But I'm kind of happy that ｛Honda＊＊｝
+sees me as a rival?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

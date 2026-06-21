@@ -59,7 +59,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("G020620202_06_080");
-MsgDisp("Himuro","But I have no intention of giving up to him.");
+MsgDisp("Himuro","But I have no intention of giving up
+to him.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

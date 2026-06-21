@@ -28,17 +28,17 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G110300900_03_010");
 MsgDisp("Honda","The manager has put me in charge of these
-bookshelves, so I'm thinking about changing
-up the books on display.");
+bookshelves, so I'm thinking about
+changing up the books on display.");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300900_03_020");
-MsgDisp("Honda","When customers look at the cover, it catches
-their eye, right?");
+MsgDisp("Honda","When customers look at the cover, it
+catches their eye, right?");
 MsgDisp("主人公","Amazing.
-This is ｛Honda＊＊｝'s recommendations corner,
-right? '");
+This is ｛Honda＊＊｝'s recommendations
+corner, right? '");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);
@@ -50,10 +50,10 @@ ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300900_03_040");
 MsgDisp("Honda","In the future, wouldn't it be so fun if we
-could gather all the books we like and open a
-bookstore together?");
-MsgDisp("主人公","A bookstore that only sells books selected by
-｛Honda＊＊｝...
+could gather all the books we like and
+open a bookstore together?");
+MsgDisp("主人公","A bookstore that only sells books selected
+by ｛Honda＊＊｝...
 I bet it would be really popular.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -68,8 +68,8 @@ ChMotion(3,1);
 VoicePlay("G110300900_03_060");
 MsgDisp("Honda","Right?");
 MsgDisp("主人公","(I have a feeling he's saying something
-amazing... But, if we could open that store,
-I think it would be really fun...)");
+amazing... But, if we could open that
+store, I think it would be really fun...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

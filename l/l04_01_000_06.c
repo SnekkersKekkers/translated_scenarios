@@ -26,8 +26,8 @@ They wouldn't sell something like this.");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("L040100006_01_030");
-    MsgDisp("Kazama","But, just between me and you, it's not good
-to play with food.");
+    MsgDisp("Kazama","But, just between me and you, it's not
+good to play with food.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -94,8 +94,8 @@ But well, the result is kind of...");
     MsgDisp("Kazama","It's kind of like your alter ego.
 I like it.");
     MsgDisp("主人公","｛Kazama＊＊｝...thank you.
-But, calling me and the chocolate alike is a
-little...");
+But, calling me and the chocolate alike is
+a little...");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);

@@ -72,7 +72,8 @@ Did you come to watch?");
     ChMotion(6,1);
     VoicePlay("P730600001_06_060");
     MsgDisp("Himuro","What?
-Is there a problem with me coming to watch?");
+Is there a problem with me coming
+to watch?");
     MsgDisp("主人公","No! I'm happy that you did...");
     ChEye(6,0);
     ChMouth(6,0);

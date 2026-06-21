@@ -53,8 +53,8 @@ Let me walk you back.");
     ChEyeOpenLevel(8,10);
     VoicePlay("S120800002_08_040");
     MsgDisp("Shirahane","...Is it all over now?");
-    MsgDisp("主人公","Have you finished everything you wanted to do
-for our shrine visit?");
+    MsgDisp("主人公","Have you finished everything you wanted to
+do for our shrine visit?");
     ChEye(8,2);
     ChMouth(8,4);
     ChMotion(8,2,1);

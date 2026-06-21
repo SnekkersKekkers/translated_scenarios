@@ -13,7 +13,8 @@ VoicePlay("S110400000_04_010");
 MsgDisp("Nanatsumori","Half Luck.
 At this shrine's fortune ranking, it's the
 last one in the Good Luck group.");
-MsgDisp("主人公","Oh I see, but it's still good to have right?");
+MsgDisp("主人公","Oh I see, but it's still good to
+have right?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -31,9 +32,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("S110400000_04_040");
-MsgDisp("Nanatsumori","Cold buns will taste better when you reheat
-them. And even if something is cold, it can
-still taste good.");
+MsgDisp("Nanatsumori","Cold buns will taste better when you
+reheat them. And even if something is
+cold, it can still taste good.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ is really optimistic...)");
 MsgClose();
 ScrFadeOut(0,0);

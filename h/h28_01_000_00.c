@@ -19,8 +19,8 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","I came to see the track team that you've
 invested so much into.");
     MsgDisp("主人公","I see.
-Everyone's feeling great, so I think we can
-aim for first place overall!");
+Everyone's feeling great, so I think we
+can aim for first place overall!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,1);
@@ -33,8 +33,8 @@ you guys would definitely win.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("H280100000_01_030");
-    MsgDisp("Kazama","If you do win first place overall, will you
-get a medal too?");
+    MsgDisp("Kazama","If you do win first place overall, will
+you get a medal too?");
     MsgDisp("主人公","Maybe?");
     ChEye(1,3);
     ChMouth(1,3);
@@ -64,8 +64,8 @@ Did you come to cheer us on?");
 Even though I did, there's not much I can
 really do for you, though.");
     MsgDisp("主人公","That's not true.
-If you cheer us on, the team will become more
-motivated!");
+If you cheer us on, the team will become
+more motivated!");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -78,7 +78,8 @@ Maybe I should've done track too?");
     ChMotion(1,4);
     VoicePlay("H280100000_01_080");
     MsgDisp("Kazama","I was just thinking that the team must be
-pretty happy, having such dedicated support.");
+pretty happy, having such dedicated
+support.");
     ChMotion(1,0);
     MsgDisp("主人公","｛Kazama＊＊｝...");
     ChEye(1,3);

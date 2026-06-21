@@ -52,8 +52,8 @@ that can't make up her mind!");
     StlMouth(22,1);
     VoicePlay("U130D00000_22_020");
     MsgDisp("Hikaru","If Mari attacked like one of those
-over-the-top heroines, Kazama-kun would lose
-easily, wouldn't he?");
+over-the-top heroines, Kazama-kun would
+lose easily, wouldn't he?");
     StlEye(22,0);
     MsgDisp("主人公","(If I go after ｛Kazama＊＊｝ more
 aggressively, he'd see right through me?)");
@@ -82,8 +82,8 @@ I just thought it's amusing to watch.");
     StlMouth(22,1);
     StlCheek(22,5);
     VoicePlay("U130D00000_22_040");
-    MsgDisp("Hikaru","Hikaru wants to push you two a bit more, but
-sis will get mad if Hikaru does.");
+    MsgDisp("Hikaru","Hikaru wants to push you two a bit more,
+but sis will get mad if Hikaru does.");
     StlEyeOpenLevel(21,0,1);
     StlNear(0,0,15);
     VoicePlay("U130D00000_21_050");
@@ -93,7 +93,8 @@ sis will get mad if Hikaru does.");
     StlCheek(22,0);
     VoicePlay("U130D00000_22_050");
     MsgDisp("Hikaru","That's how it is.
-Ok, Hikaru will keep watching over you two▼");
+Ok, Hikaru will keep watching over
+you two▼");
     StlEyeOpenLevel(21,5,1);
     MsgDisp("主人公","(? Does that mean you two support me?)");
     break ;

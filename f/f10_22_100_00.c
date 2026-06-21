@@ -14,8 +14,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102210000_22_010");
 MsgDisp("Hikaru","Oh, Mari.
-Hikaru got some really cute flowers from the
-gardening club♪");
+Hikaru got some really cute flowers from
+the gardening club♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -37,7 +37,8 @@ BGMStop();
 ChClose(22);
 MsgDisp("主人公","(Maybe I'll go see it later... Hm?)");
 VoicePlay("F102210000_40_000");
-MsgDisp("Garden Club","The flowers are missing from the flowerbed!
+MsgDisp("Garden Club","The flowers are missing from the
+flowerbed!
 Who took them without permission∋");
 MsgDisp("主人公","(Eh? It couldn't be...)");
 MsgClose();

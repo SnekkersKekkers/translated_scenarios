@@ -40,8 +40,8 @@ We were so close to winning, but...");
     ChMotion(7,0);
     VoicePlay("O020700002_07_030");
     MsgDisp("Mikage","That's true.
-But your face when you're doing your best is
-really cool.");
+But your face when you're doing your best
+is really cool.");
     MsgDisp("主人公","(Sigh...
 I wanted to show you a win, not a draw.)");
     break ;

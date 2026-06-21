@@ -30,9 +30,9 @@ ChOpen(6,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600803_06_020");
 MsgDisp("Himuro","...Hey have you ever wanted flowers?");
-MsgDisp("主人公","Mmm, I guess I would be happy if I received
-them? ...Could it be that you're planning on
-giving some to me?");
+MsgDisp("主人公","Mmm, I guess I would be happy if I
+received them? ...Could it be that you're
+planning on giving some to me?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -52,15 +52,16 @@ ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600803_06_050");
 MsgDisp("Himuro","Hmmm? Then, wait for a bit.
-I'll make you the best failed attempt ever.");
+I'll make you the best failed
+attempt ever.");
 MsgDisp("主人公","Best failed attempt?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
 VoicePlay("G110600803_06_060");
-MsgDisp("Himuro","Yeah. The best bouquets get turned into goods
-to sell. But, it would be offensive to give a
-half-hearted one.");
+MsgDisp("Himuro","Yeah. The best bouquets get turned into
+goods to sell. But, it would be offensive
+to give a half-hearted one.");
 MsgDisp("主人公","So, what would make it a failure?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -76,8 +77,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G110600803_06_080");
-MsgDisp("Himuro","Well, I don't want you to expect failure, so
-forget what I asked you today.");
+MsgDisp("Himuro","Well, I don't want you to expect failure,
+so forget what I asked you today.");
 MsgDisp("主人公","Hehe, I got it!");
 MsgDisp("主人公","(I'm looking forward to it...!)");
 BGMStop();

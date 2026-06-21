@@ -21,7 +21,8 @@ VoicePlay("P640400004_04_020");
 MsgDisp("Nanatsumori","Seriously?
 I think I really like it.");
 MsgDisp("主人公","Hehe, I'm glad.
-Would you like another serving of herbal tea?");
+Would you like another serving of
+herbal tea?");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -31,7 +32,8 @@ ChEye(4,3);
 ChMouth(4,3);
 VoicePlay("P640400004_04_040");
 MsgDisp("Nanatsumori","I'll also buy some vegetables.
-I want one of everything that you handmade.");
+I want one of everything that you
+handmade.");
 MsgDisp("主人公","(｛Nanatsumori＊｝ seems pleased!
 I'm glad I gave it my all in the Gardening
 Club for the last three years!)");

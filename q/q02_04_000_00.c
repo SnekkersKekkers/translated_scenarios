@@ -84,9 +84,11 @@ together?");
         ChMotion(4,2,1);
         VoicePlay("Q020400000_04_090");
         MsgDisp("Nanatsumori","Nothing.
-I hope we can make great memories together.");
+I hope we can make great memories
+together.");
         MsgDisp("主人公","(Hehe!
-I'm sure this free period will be a blast!)");
+I'm sure this free period will be
+a blast!)");
         break ;
         case 1:
         ChEye(4,2);

@@ -8,8 +8,8 @@ switch (ChPrmGet(6,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110600001_06_000");
-    MsgDisp("Himuro","All the athletes at the track and field meet
-were in good shape.
+    MsgDisp("Himuro","All the athletes at the track and field
+meet were in good shape.
 Thank you for your hard work.");
     MsgDisp("主人公","Yeah, thanks!");
     MsgDisp("主人公","(I'm glad we got good results!)");
@@ -21,8 +21,8 @@ Thank you for your hard work.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110600001_06_010");
-    MsgDisp("Himuro","Apparently all the athletes at the track and
-field meet got good record times.");
+    MsgDisp("Himuro","Apparently all the athletes at the track
+and field meet got good record times.");
     MsgDisp("主人公","｛Himuro＊＊｝.
 Yeah, that's right!");
     ChEye(6,3);

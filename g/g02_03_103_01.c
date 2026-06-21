@@ -28,8 +28,8 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020310301_03_030");
 MsgDisp("Honda","But she said just being tidy isn't enough.
-Apparently, there are other things I should
-have done.");
+Apparently, there are other things I
+should have done.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -51,15 +51,15 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020310301_03_070");
-MsgDisp("Honda","So, the fact that I'm bringing this up means
-that before long...");
+MsgDisp("Honda","So, the fact that I'm bringing this up
+means that before long...");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310301_03_080");
 MsgDisp("Honda","I'd be happy if you could come over again.
-I'll make sure to welcome you properly next
-time. Absolutely!");
+I'll make sure to welcome you properly
+next time. Absolutely!");
 MsgDisp("主人公","Hehe, yeah!");
 MsgDisp("主人公","(I wonder how he'll host me next time?
 I can't wait!)");

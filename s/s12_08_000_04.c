@@ -21,9 +21,9 @@ visit huh...");
     ChMouth(8,3);
     ChMotion(8,0,1);
     VoicePlay("S120800004_08_010");
-    MsgDisp("Shirahane","Even though we attended different schools, it
-still feels like we've been together for such
-a long time.");
+    MsgDisp("Shirahane","Even though we attended different schools,
+it still feels like we've been together
+for such a long time.");
     ChEye(8,3);
     ChMouth(8,3);
     ChMotion(8,3,1);

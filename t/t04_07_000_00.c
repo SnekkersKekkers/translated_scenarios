@@ -20,7 +20,8 @@ NSSEye(7,6);
 NSSMouth(7,2);
 VoicePlay("T040700000_07_020");
 MsgDisp("Mikage","Hm? But wait?
-It'll be difficult to attend the reunion...");
+It'll be difficult to attend the
+reunion...");
 MsgDisp("主人公","Hehe! Why is that?
 I'm looking forward to it.");
 NSSEye(7,3);
@@ -30,8 +31,8 @@ MsgDisp("Mikage","You're laughing huh?");
 NSSEye(7,4);
 NSSMouth(7,0);
 VoicePlay("T040700000_07_040");
-MsgDisp("Mikage","At this rate, I'll have to take you back with
-me to Mikage farm.");
+MsgDisp("Mikage","At this rate, I'll have to take you back
+with me to Mikage farm.");
 SEStop("EV_SE_754",5.5);
 BGMStop();
 MsgClose();

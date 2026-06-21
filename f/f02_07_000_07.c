@@ -49,22 +49,22 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700007_07_050");
-MsgDisp("Mikage","Even if I go to school every day, it's boring
-without you guys.");
+MsgDisp("Mikage","Even if I go to school every day, it's
+boring without you guys.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700007_07_060");
 MsgDisp("Mikage","If I really liked school, that wouldn't be
 the case.");
-MsgDisp("主人公","That's because what you like is spending time
-with everyone at school.");
+MsgDisp("主人公","That's because what you like is spending
+time with everyone at school.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700007_07_070");
 MsgDisp("Mikage","That's exactly it.
 That's why summer break is a bit boring.");
-MsgDisp("主人公","(So what ｛Mikage＊＊｝ is looking forward
-to in the summer break is for school to start
-again...)");
+MsgDisp("主人公","(So what ｛Mikage＊＊｝ is looking
+forward to in the summer break is for
+school to start again...)");

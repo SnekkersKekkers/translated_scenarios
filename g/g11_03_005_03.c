@@ -38,15 +38,15 @@ ChOpen(3,35,4,0,4,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("G110300503_03_020");
-MsgDisp("Honda","Hey, I'm sorry for what I said to you at work
-the other day. I was being reckless and said
-some rash things.");
+MsgDisp("Honda","Hey, I'm sorry for what I said to you at
+work the other day. I was being reckless
+and said some rash things.");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("G110300503_03_030");
-MsgDisp("Honda","I was scolded by my little sister and my Mom
-at home too.");
+MsgDisp("Honda","I was scolded by my little sister and my
+Mom at home too.");
 MsgDisp("主人公","Ehh∋ You talked about it at home?
 That's embarrassing...");
 ChEye(3,2);
@@ -60,7 +60,8 @@ ChMotion(3,4,1);
 VoicePlay("G110300503_03_050");
 MsgDisp("Honda","Both of them said you're probably a bit
 embarrassed when you're with me.");
-MsgDisp("主人公","But, you also have plenty of fun too, right?");
+MsgDisp("主人公","But, you also have plenty of fun
+too, right?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
@@ -77,8 +78,8 @@ VoicePlay("G110300503_42_000");
 MsgDisp("Manager","You two!
 I told you that dating is prohibited in
 the store.");
-MsgDisp("主人公","(After all that, Maybe the embarrassment is
-greater...)");
+MsgDisp("主人公","(After all that, Maybe the embarrassment
+is greater...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

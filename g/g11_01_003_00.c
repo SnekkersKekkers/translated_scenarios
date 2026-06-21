@@ -51,8 +51,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100300_01_050");
 MsgDisp("Kazama","How many more times can I see you when we
-come home from school? If you think about it,
-it's truly precious, right?");
+come home from school? If you think about
+it, it's truly precious, right?");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -73,8 +73,8 @@ ChMotion(1,1);
 VoicePlay("G110100300_01_080");
 MsgDisp("Kazama","...Then, it's decided.");
 MsgDisp("主人公","(Huh? ｛Kazama＊＊｝...
-I wonder if he's worried about not being able
-to go home with me last time...?)");
+I wonder if he's worried about not being
+able to go home with me last time...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

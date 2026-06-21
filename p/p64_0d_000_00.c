@@ -5,7 +5,8 @@ ChMouth(22,0);
 ChMotion(22,2,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("P640D00000_22_000");
-MsgDisp("Hikaru","The fresh herbs tickle Hikaru's nostrils～...");
+MsgDisp("Hikaru","The fresh herbs tickle Hikaru's
+nostrils～...");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,2);

@@ -20,8 +20,8 @@ Heh, it's me.");
     MsgDisp("主人公","Mm-hmm.
 What's up?");
     VoicePlay("J040800001_08_010");
-    MsgDisp("Shirahane","Hey, I was wondering what your plans are for
-this comin' Sunday.
+    MsgDisp("Shirahane","Hey, I was wondering what your plans are
+for this comin' Sunday.
 Are ya free?");
     MsgSel("Yeah, I'm free.", "I have something else to do...");
     switch (MsgSelRsltGet()){
@@ -36,7 +36,8 @@ Are ya free?");
 Well, I'll see you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(I wonder what that was about this Sunday...)");
+        MsgDisp("主人公","(I wonder what that was about this
+Sunday...)");
         break ;
         default :
         DbgAssert(0);

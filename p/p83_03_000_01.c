@@ -15,7 +15,8 @@ I want two permanent marker pens.");
     VoicePlay("P830300001_48_010");
     MsgDisp("School Girl","Thank you very much～!");
     MsgDisp("主人公","(Phew...
-I don't have time to catch a breath huh...)");
+I don't have time to catch a
+breath huh...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -34,8 +35,8 @@ Yeah, because I'm managing.");
 Once you reach a stopping place, let's eat
 together at a food stall?");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Alriiight, I'll hold on a little longer, and
-do my best!)");
+    MsgDisp("主人公","(Alriiight, I'll hold on a little longer,
+and do my best!)");
     break ;
     case 4:
     case 5:
@@ -71,8 +72,8 @@ festival too.");
     ChMouth(3,3);
     ChMotion(3,5,1);
     VoicePlay("P830300001_03_050");
-    MsgDisp("Honda","Ah, but in return, when you can take a break,
-let's walk around together, okay?");
+    MsgDisp("Honda","Ah, but in return, when you can take a
+break, let's walk around together, okay?");
     MsgDisp("主人公","Yeah, thank you!");
     MsgDisp("主人公","(So that I can enjoy the cultural festival
 with ｛Honda＊＊｝, Let's hold on a little

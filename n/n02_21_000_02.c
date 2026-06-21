@@ -9,8 +9,8 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("N022100002_21_010");
-MsgDisp("Michiru","I think Mari can aim even higher with a bit
-more effort.");
+MsgDisp("Michiru","I think Mari can aim even higher with a
+bit more effort.");
 MsgDisp("主人公","(Even higher...
 I have to study a bit harder.)");
 MsgClose();

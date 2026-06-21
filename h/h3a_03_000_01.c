@@ -27,15 +27,16 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("H3A0300001_03_030");
-MsgDisp("Honda","If you did this or that, you could've won or
-turned it around - that thinking is
+MsgDisp("Honda","If you did this or that, you could've won
+or turned it around - that thinking is
 disrespectful of your hard work.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("H3A0300001_03_040");
-MsgDisp("Honda","But you should give yourself some credit for
-working hard these past three years, okay?");
+MsgDisp("Honda","But you should give yourself some
+credit for working hard these past
+three years, okay?");
 MsgDisp("主人公","Yeah... ｛Honda＊＊｝, thank you.");
 ChEye(3,3);
 ChMouth(3,3);

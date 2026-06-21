@@ -16,8 +16,8 @@ switch (ChPrmGet(21,6)){
     VoicePlay("H482100000_21_000");
     MsgDisp("Michiru","Mari, I came to support you.");
     MsgDisp("主人公","Ah, ｛みちる＊｝.
-Thanks! I'm rivals with ｛ひかる＊｝ now,
-though...");
+Thanks! I'm rivals with ｛ひかる＊｝
+now, though...");
     ChEye(21,4);
     ChMouth(21,0);
     ChMotion(21,4);
@@ -55,8 +55,8 @@ Did you come to cheer me on?");
     ChMotion(21,3);
     VoicePlay("H482100000_21_040");
     MsgDisp("Michiru","Right?
-Are you nervous? Nervousness is the enemy of
-a beautiful performance.");
+Are you nervous? Nervousness is the enemy
+of a beautiful performance.");
     MsgDisp("主人公","Y-Yeah.
 I'm fine...!");
     ChClose(21);

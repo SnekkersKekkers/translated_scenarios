@@ -7,7 +7,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,0);
     VoicePlay("F010700003_07_000");
     MsgDisp("Mikage","Oh, that's fine.
-If you'll give me a moment, I'll get ready!");
+If you'll give me a moment, I'll
+get ready!");
     MsgDisp("主人公","Yes, thank you!");
     break ;
     case 3:

@@ -11,8 +11,8 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("R060300007_03_000");
-    MsgDisp("Honda","Hmm, if you don't think about who this gift
-will go to, it's a pretty safe gift.");
+    MsgDisp("Honda","Hmm, if you don't think about who this
+gift will go to, it's a pretty safe gift.");
     MsgDisp("主人公","(Darn, he doesn't seem very happy with my
 gift...)");
     break ;

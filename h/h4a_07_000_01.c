@@ -25,17 +25,17 @@ Did you hear your applause properly?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("H4A0700001_07_020");
-    MsgDisp("Mikage","It sounded louder than the applause for any
-of the other contestants, you know?");
+    MsgDisp("Mikage","It sounded louder than the applause for
+any of the other contestants, you know?");
     MsgDisp("主人公","Really...?
 I'm happy about that...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("H4A0700001_07_030");
-    MsgDisp("Mikage","Right? You might not have been satisfied with
-your performance, but your effort was clear
-to the audience.");
+    MsgDisp("Mikage","Right? You might not have been satisfied
+with your performance, but your effort was
+clear to the audience.");
     MsgDisp("主人公","Yes...!");
     ChEye(7,0);
     ChMouth(7,3);
@@ -43,8 +43,8 @@ to the audience.");
     VoicePlay("H4A0700001_07_040");
     MsgDisp("Mikage","Well, thanks to you, my hands are bright
 red, though.");
-    MsgDisp("主人公","(｛Mikage＊＊｝ cheered for me a lot...that
-makes me happy.
+    MsgDisp("主人公","(｛Mikage＊＊｝ cheered for me a
+lot...that makes me happy.
 But I wanted to win...)");
     break ;
     default :

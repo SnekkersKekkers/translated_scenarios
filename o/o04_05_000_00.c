@@ -32,8 +32,8 @@ The ball toss is quite fun.");
     Wait(10,0);
     VoicePlay("O040500000_05_020");
     MsgDisp("Hiiragi","We've done it!
-It is our victory! I believe that most of the
-balls you tossed went in.");
+It is our victory! I believe that most of
+the balls you tossed went in.");
     MsgDisp("主人公","(Yeah, we won with our teamwork!)");
     break ;
     default :

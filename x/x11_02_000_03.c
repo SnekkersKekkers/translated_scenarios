@@ -43,8 +43,8 @@ practice.");
     ChMotion(2,4);
     VoicePlay("X110200003_02_030");
     MsgDisp("Sassa","I'd like to go and support you to see your
-new technique, but it's not safe if someone
-like me is peeking in...");
+new technique, but it's not safe if
+someone like me is peeking in...");
     MsgDisp("主人公","Huh, that's not true, though, ｛Sassa＊＊｝
 must be busy with track and field
 practice, right?");

@@ -33,4 +33,5 @@ ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("F020800004_08_030");
 MsgDisp("Shirahane","Hehe!");
-MsgDisp("主人公","(｛Daichi＊＊｝ really has such a nice laugh.)");
+MsgDisp("主人公","(｛Daichi＊＊｝ really has such a
+nice laugh.)");

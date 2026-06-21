@@ -10,8 +10,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700014_07_000");
-MsgDisp("Mikage","That's right...the three years I spent with
-you guys really were fun.");
+MsgDisp("Mikage","That's right...the three years I spent
+with you guys really were fun.");
 MsgDisp("主人公","Yes. ｛Mikage＊＊｝, thank you very much.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -47,18 +47,18 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F020700014_07_050");
-MsgDisp("Mikage","You managed to enjoy school events with your
-childish homeroom teacher, right～");
+MsgDisp("Mikage","You managed to enjoy school events with
+your childish homeroom teacher, right～");
 MsgDisp("主人公","Yes. Miraculously, I was able to do many
-things with my wonderful homeroom teacher for
-these three years.");
+things with my wonderful homeroom teacher
+for these three years.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F020700014_07_060");
 MsgDisp("Mikage","That's my prized Miss Diligent for you.
-Cherish what you could do, and remember it as
-many times as you need to in your life.");
+Cherish what you could do, and remember it
+as many times as you need to in your life.");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -71,8 +71,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F020700014_07_080");
 MsgDisp("Mikage","I said something good before graduation.
-Even if I repeat it on the day, act like it's
-your first time hearing it, okay?");
-MsgDisp("主人公","(There's only a little more time where I can
-be with ｛Mikage＊＊｝...
+Even if I repeat it on the day, act like
+it's your first time hearing it, okay?");
+MsgDisp("主人公","(There's only a little more time where I
+can be with ｛Mikage＊＊｝...
 It is lonely after all...)");

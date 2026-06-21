@@ -22,16 +22,18 @@ I heard you decided on a new move?");
     VoicePlay("X110600003_06_010");
     MsgDisp("Himuro","Your performance was captivating.
 You have a certain charm.");
-    MsgDisp("主人公","Could it be that you came to see the rhythmic
-gymnastics club's joint practice?");
+    MsgDisp("主人公","Could it be that you came to see the
+rhythmic gymnastics club's joint practice?");
     ChEye(6,3);
     ChMouth(6,3);
     ChMotion(6,3);
     ChEyeOpenLevel(6,0);
     VoicePlay("X110600003_06_020");
     MsgDisp("Himuro","Yeah. I'm glad I went to see it.
-I'll be cheering you on from now on as well.");
-    MsgDisp("主人公","(Yay! Let's keep doing our best from now on!)");
+I'll be cheering you on from now on
+as well.");
+    MsgDisp("主人公","(Yay!
+Let's keep doing our best from now on!)");
     break ;
     default :
     DbgAssert(1);

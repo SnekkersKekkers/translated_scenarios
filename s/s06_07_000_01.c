@@ -13,7 +13,8 @@ switch (ChPrmGet(7,6)){
     ChMotion(7,1);
     VoicePlay("S060700001_07_010");
     MsgDisp("Mikage","Inside, you're a real beauty too, right?");
-    MsgDisp("主人公","(Yay! Wearing a kimono was the right choice!)");
+    MsgDisp("主人公","(Yay!
+Wearing a kimono was the right choice!)");
     break ;
     case 3:
     ChEye(7,0);
@@ -35,9 +36,10 @@ You look gorgeous in a kimono, huh?");
     ChMotion(7,0);
     VoicePlay("S060700001_07_040");
     MsgDisp("Mikage","I saw something nice early this year.
-It's a good omen that good things will happen
-this year too.");
-    MsgDisp("主人公","(Yay! I was praised by ｛Mikage＊＊｝...!)");
+It's a good omen that good things will
+happen this year too.");
+    MsgDisp("主人公","(Yay!
+I was praised by ｛Mikage＊＊｝...!)");
     break ;
     case 4:
     case 5:
@@ -59,21 +61,24 @@ It was worth it to wear the kimono.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("S060700001_07_070");
-    MsgDisp("Mikage","The kimono is definitely beautiful, but a
-real beauty looks fine in whatever they wear.");
+    MsgDisp("Mikage","The kimono is definitely beautiful, but
+a real beauty looks fine in whatever
+they wear.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S060700001_07_080");
-    MsgDisp("Mikage","Even in a wooden box or covered in mud, they
-are still great vegetables, aren't they?");
+    MsgDisp("Mikage","Even in a wooden box or covered in
+mud, they are still great vegetables,
+aren't they?");
     MsgDisp("主人公","Uhm, vegetables...?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S060700001_07_090");
     MsgDisp("Mikage","Ahh, I'm so proud.");
-    MsgDisp("主人公","(｛Mikage＊＊｝ seems really happy about it.
+    MsgDisp("主人公","(｛Mikage＊＊｝ seems really happy
+about it.
 But vegetables...?)");
     break ;
     default :

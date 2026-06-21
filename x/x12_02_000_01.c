@@ -14,8 +14,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("X120200001_02_000");
-    MsgDisp("Sassa","Thanks to the Gardening Club, the flower beds
-at school are always so beautiful.
+    MsgDisp("Sassa","Thanks to the Gardening Club, the flower
+beds at school are always so beautiful.
 We're all grateful. Thank you!");
     MsgDisp("主人公","(Yay!
 I'm glad I gave it my all in the Gardening
@@ -27,9 +27,9 @@ Club activities.)");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("X120200001_02_010");
-    MsgDisp("Sassa","I wasn't interested in things like flowers,
-but seeing the ones you grew strangely puts
-me at ease. It's nice.");
+    MsgDisp("Sassa","I wasn't interested in things like
+flowers, but seeing the ones you grew
+strangely puts me at ease. It's nice.");
     MsgDisp("主人公","(Yay!
 I'm glad I gave it my all in the
 gardening club!)");

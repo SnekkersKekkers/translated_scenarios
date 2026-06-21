@@ -22,14 +22,14 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("H7G0200000_02_020");
 MsgDisp("Sassa","Hm, I see.
-I guess it'd take a calm person like you to
-make such delicate works.");
+I guess it'd take a calm person like you
+to make such delicate works.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("H7G0200000_02_030");
-MsgDisp("Sassa","I wanted to come lift you into the air, but
-maybe I'll hold back this time.");
+MsgDisp("Sassa","I wanted to come lift you into the air,
+but maybe I'll hold back this time.");
 MsgDisp("主人公","Huh∋");
 ChEye(2,3);
 ChMouth(2,3);
@@ -40,9 +40,9 @@ MsgDisp("Sassa","Haha, just kidding.
 But I really think you've accomplished
 something amazing. Congrats.");
 MsgDisp("主人公","Thank you, ｛Sassa＊＊｝.");
-MsgDisp("主人公","(I don't want to get lifted, but I'm happy to
-be congratulated... I'm glad I worked so hard
-for the handicrafts club!)");
+MsgDisp("主人公","(I don't want to get lifted, but I'm happy
+to be congratulated... I'm glad I worked
+so hard for the handicrafts club!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

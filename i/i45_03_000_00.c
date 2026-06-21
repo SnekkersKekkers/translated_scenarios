@@ -18,8 +18,9 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("I450300000_03_010");
-    MsgDisp("Honda","When I was passing by, I thought I saw
-someone I knew so I came to peek in a little.");
+    MsgDisp("Honda","When I was passing by, I thought I
+saw someone I knew so I came to peek
+in a little.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,2,1);
@@ -55,22 +56,22 @@ full-fledged worker soon!)");
     ChMouth(3,0);
     ChMotion(3,2,1);
     VoicePlay("I450300000_03_060");
-    MsgDisp("Honda","Wow...this shop has some pretty rare flowers,
-doesn't it?");
+    MsgDisp("Honda","Wow...this shop has some pretty rare
+flowers, doesn't it?");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("I450300000_03_070");
-    MsgDisp("Honda","Ah, speaking of rare flowers, have you heard
-of the blue rose?");
+    MsgDisp("Honda","Ah, speaking of rare flowers, have you
+heard of the blue rose?");
     MsgDisp("主人公","I haven't seen many...");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,3,1);
     VoicePlay("I450300000_03_080");
-    MsgDisp("Honda","Right, right. I don't think a lot of people
-have seen it. So it used to be a symbol of
-\"things that don't exist\"-");
+    MsgDisp("Honda","Right, right. I don't think a lot of
+people have seen it. So it used to be a
+symbol of \"things that don't exist\"-");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -88,8 +89,8 @@ A customer's here.");
 I'll get going, okay?
 See you.");
     MsgDisp("主人公","(He came to check on me, right?
-But you know, I feel like ｛Honda＊＊｝ might
-know more about flowers than me...)");
+But you know, I feel like ｛Honda＊＊｝
+might know more about flowers than me...)");
     break ;
     case 4:
     case 5:
@@ -100,8 +101,8 @@ know more about flowers than me...)");
     MsgDisp("Honda","You're working hard.
 Already got the hang of it?");
     MsgDisp("主人公","Perfectly!
-Is what I want to say, but there's so much to
-remember...");
+Is what I want to say, but there's so much
+to remember...");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
@@ -113,10 +114,11 @@ from what I've seen, though?");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I450300000_03_130");
-    MsgDisp("Honda","If it was me, I'd start talking too much and
-wasting their time.");
-    MsgDisp("主人公","What you talk about is interesting, so maybe
-it'd end up being popular, ｛Honda＊＊｝.");
+    MsgDisp("Honda","If it was me, I'd start talking too much
+and wasting their time.");
+    MsgDisp("主人公","What you talk about is interesting, so
+maybe it'd end up being popular,
+｛Honda＊＊｝.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,4,1);
@@ -128,15 +130,15 @@ taking you seriously, you know?");
     ChMotion(3,1,1);
     VoicePlay("I450300000_03_150");
     MsgDisp("Honda","But, rather than having a bunch of people
-listen to me talk, I'm already satisfied if
-it's just you.");
+listen to me talk, I'm already satisfied
+if it's just you.");
     MsgDisp("主人公","Huh...");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("I450300000_03_160");
-    MsgDisp("Honda","Let's take our time talking when you're not
-working, okay?
+    MsgDisp("Honda","Let's take our time talking when you're
+not working, okay?
 Well, do your best!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

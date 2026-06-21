@@ -30,8 +30,8 @@ ChMouth(22,0);
 ChMotion(22,4,1);
 ChCheek(22,5);
 VoicePlay("F032200000_22_390");
-MsgDisp("Hikaru","Hey, if Hikaru falls in love, can Hikaru ask
-Mari for lots of advice?");
+MsgDisp("Hikaru","Hey, if Hikaru falls in love, can Hikaru
+ask Mari for lots of advice?");
 MsgDisp("主人公","Of course!
 I'm looking forward to it!");
 BGMStop();

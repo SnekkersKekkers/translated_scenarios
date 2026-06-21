@@ -25,17 +25,17 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("G020310300_03_030");
-MsgDisp("Honda","To be honest, I considered just pretending it
-never happened and hoping you'd forget about
-it, but that's just not like me.");
+MsgDisp("Honda","To be honest, I considered just pretending
+it never happened and hoping you'd forget
+about it, but that's just not like me.");
 ChMotion(3,0);
 VoicePlay("G020310300_03_040");
-MsgDisp("Honda","I wanted to properly apologise face-to-face,
-and most importantly—");
+MsgDisp("Honda","I wanted to properly apologise
+face-to-face, and most importantly—");
 ChSet(3,2);
 VoicePlay("G020310300_03_050");
-MsgDisp("Honda","I really hate the idea of it being forgotten
-as if it never happened...");
+MsgDisp("Honda","I really hate the idea of it being
+forgotten as if it never happened...");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,4);
 ChMouth(3,4);
@@ -67,8 +67,8 @@ VoicePlay("G020310300_03_090");
 MsgDisp("Honda","Phew, I feel so much better...
 It's like I can finally breathe
 normally again.");
-MsgDisp("主人公","(｛Honda＊＊｝, you were worrying about it that
-much...thank you.)");
+MsgDisp("主人公","(｛Honda＊＊｝, you were worrying about it
+that much...thank you.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

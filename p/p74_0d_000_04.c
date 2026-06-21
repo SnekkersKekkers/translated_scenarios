@@ -23,8 +23,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("P740D00004_21_010");
-MsgDisp("Michiru","I want to keep supporting Mari until she puts
-on her real wedding dress.");
+MsgDisp("Michiru","I want to keep supporting Mari until she
+puts on her real wedding dress.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -38,8 +38,8 @@ MsgDisp("Hikaru","Ah...but, also Hikaru doesn't want to hand
 her away to anyone.
 Eheh▼");
 MsgDisp("主人公","(Hehe!
-I'm glad I devoted myself to the handicrafts
-club these last three years!)");
+I'm glad I devoted myself to the
+handicrafts club these last three years!)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

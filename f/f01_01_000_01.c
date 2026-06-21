@@ -8,7 +8,8 @@ switch (ChPrmGet(1,6)){
     ChOpen(1,254,0,0,2,8,#1,0,0);
     VoicePlay("F010100001_01_000");
     MsgDisp("Kazama","...it's no good.");
-    MsgDisp("主人公","(Yep. I guess I shouldn't call him that...)");
+    MsgDisp("主人公","(Yep.
+I guess I shouldn't call him that...)");
     break ;
     case 3:
     MsgDisp("主人公","｛Kazama＊＊｝.");
@@ -37,8 +38,8 @@ Why'd you say that?");
     ChEyeOpenLevel(1,8);
     VoicePlay("F010100001_01_030");
     MsgDisp("Kazama","I don't like it at all.
-I thought there might be a reason, but there
-doesn't seem like there is.");
+I thought there might be a reason, but
+there doesn't seem like there is.");
     MsgDisp("主人公","(Yeah, I shouldn't call him that...)");
     break ;
     default :

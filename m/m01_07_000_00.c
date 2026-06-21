@@ -35,8 +35,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("M010700000_07_060");
 MsgDisp("Mikage","Listen. I love how you put your all into
-everything. But there's a difference between
-doing your best and overdoing it.");
+everything. But there's a difference
+between doing your best and overdoing it.");
 MsgDisp("主人公","Yes... I understand.");
 ChEye(7,0);
 ChMouth(7,3);
@@ -52,5 +52,6 @@ ChClose(7);
 Wait(50,1);
 SEStop("EV_SE_690",0.5);
 SEPlay("EV_SE_DOOR_008",0,0.5);
-MsgDisp("主人公","(｛Mikage＊＊｝ came for a get well visit...
+MsgDisp("主人公","(｛Mikage＊＊｝ came for a get well
+visit...
 Okay, I have to get better fast!)");

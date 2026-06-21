@@ -9,13 +9,14 @@ VoicePlay("G020540000_05_010");
 MsgDisp("Hiiragi","A 10-year-old boy came with his mother,
 wanting to join the troupe.");
 MsgDisp("主人公","Amazing!
-But can elementary school students join the
-theatre troupe?");
+But can elementary school students join
+the theatre troupe?");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("G020540000_05_020");
 MsgDisp("Hiiragi","Of course, there's no problem at all.
-I've been doing this since I was 2 years old.");
+I've been doing this since I was 2
+years old.");
 MsgDisp("主人公","It'd be amazing if they could join.");
 ChEye(5,4);
 ChMotion(5,0);
@@ -26,12 +27,13 @@ their small child to us.");
 VoicePlay("G020540000_05_040");
 MsgDisp("Hiiragi","We are gaining recognition as a community
 theatre group in Habataki City.");
-MsgDisp("主人公","It's the results of ｛Hiiragi＊＊＊｝'s hard work.");
+MsgDisp("主人公","It's the results of ｛Hiiragi＊＊＊｝'s
+hard work.");
 ChEye(5,3);
 VoicePlay("G020540000_05_050");
-MsgDisp("Hiiragi","Yes, I hope to continue working hard so that
-the citizens of Habataki City will continue
-to recognise us.");
+MsgDisp("Hiiragi","Yes, I hope to continue working hard so
+that the citizens of Habataki City will
+continue to recognise us.");
 MsgDisp("主人公","And you've found a candidate for a future
 leading actor?");
 ChEye(5,4);

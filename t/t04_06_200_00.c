@@ -30,8 +30,8 @@ StlEye(6,1);
 StlMouth(6,1);
 VoicePlay("T040620000_06_010");
 MsgDisp("Himuro","As expected of Nozomu-senpai.
-It looks like we can move on to practising in
-the ocean now.");
+It looks like we can move on to practising
+in the ocean now.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("T040620000_06_020");
@@ -45,7 +45,8 @@ StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
 VoicePlay("T040620000_06_030");
-MsgDisp("Himuro","Unfortunately, there are only two students.");
+MsgDisp("Himuro","Unfortunately, there are only two
+students.");
 StlEye(1,0);
 StlMouth(1,0);
 VoicePlay("T040620000_01_010");
@@ -61,8 +62,9 @@ BGMStop(5);
 ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040620000_06_050");
-MsgDisp("Himuro","Those two couldn't wait to show off their
-best side to you, ...and of course, me too.");
+MsgDisp("Himuro","Those two couldn't wait to show off
+their best side to you, ...and of
+course, me too.");
 MsgClose();
 ScrFadeOut(0,0,300);
 Wait(300,0);

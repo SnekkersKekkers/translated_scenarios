@@ -26,8 +26,8 @@ MsgDisp("Sassa","It's alright.
 I'm sorry, too.");
 VoicePlay("C010200000_02_050");
 MsgDisp("Sassa","I'm kind of an idiot, so.
-If you spell things out for me like you did
-today it'll be a big help.");
+If you spell things out for me like you
+did today it'll be a big help.");
 VoicePlay("C010200000_02_060");
 MsgDisp("Sassa","Next time let's have a more fun talk!
 See ya.");

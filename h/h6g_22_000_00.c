@@ -20,7 +20,8 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("H6G2200000_22_020");
-MsgDisp("Hikaru","Mari's really good at growing flowers. Aha▼");
+MsgDisp("Hikaru","Mari's really good at growing flowers.
+Aha▼");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);

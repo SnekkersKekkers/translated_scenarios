@@ -5,63 +5,71 @@ BGOpen("ad720",0);
 ScrFadeIn(0);
 VoicePlay("Y300700200_07_000");
 MsgDisp("Mikage","\"I just got a call from a student's
-family. The leading actor for our school
-play, playing \"Xu Xian\" will be absent
-due to family circumstances.\"");
+family. The leading actor for our
+school play, playing \"Xu Xian\" will
+be absent due to family
+circumstances.\"");
 SEPlay("EV_SE_GAYA_007");
 Wait(50,0);
-MsgDisp("","The school play is the highlight of the
-cultural festival. If the lead actor
-isn't here, we can't start.");
+MsgDisp("","The school play is the highlight of
+the cultural festival. If the lead
+actor isn't here, we can't start.");
 MsgClear();
 SEStop("EV_SE_GAYA_007",1);
 VoicePlay("Y300700200_44_000");
 MsgDisp("Girl A","\"Mikage-sensei, what should we do?\"");
-MsgDisp("","My worried looking students raised their
-voices. Among them, the girl playing the
-heroine looked at me silently.");
+MsgDisp("","My worried looking students raised
+their voices. Among them, the girl
+playing the heroine looked at me
+silently.");
 MsgDisp("","My chest hurts. Of course, for the
 absent student, but also for the girl
-who worked so hard. I wanted her to have
-her moment in the spotlight.");
+who worked so hard. I wanted her to
+have her moment in the spotlight.");
 MsgClear();
 VoicePlay("Y300700200_45_000");
-MsgDisp("Girl B","\"No way, is the school play going to be
-cancelled...?\"");
-MsgDisp("","The quiet voices of the female students
-rippled across the classroom.");
-MsgDisp("","\"That's a lie! There won't be a school
-play?\" \"That's unheard of\.\" \"No, we
-worked so hard to prepare.\"");
+MsgDisp("Girl B","\"No way, is the school play going to
+be cancelled...?\"");
+MsgDisp("","The quiet voices of the female
+students rippled across the
+classroom.");
+MsgDisp("","\"That's a lie! There won't be a
+school play?\" \"That's unheard of\.\"
+\"No, we worked so hard to prepare.\"");
 MsgClear();
 VoicePlay("Y300700200_07_010");
-MsgDisp("Mikage","\"Everyone prepared for this right? Don't
-give up so easily.\"");
-MsgDisp("","\"Even if you say that, Mikagecchi.\" \"We
-can't just memorise the lines now.\"");
-MsgDisp("","The students said that all at once. It's
-a matter of memorising the lines...");
+MsgDisp("Mikage","\"Everyone prepared for this right?
+Don't give up so easily.\"");
+MsgDisp("","\"Even if you say that,
+Mikagecchi.\" \"We can't just
+memorise the lines now.\"");
+MsgDisp("","The students said that all at once.
+It's a matter of memorising the
+lines...");
 MsgClear();
-MsgDisp("主人公","\"Um, ｛Mikage＊＊｝...You accompanied
-me for all my practices, so do you
-remember the lines?\"");
-MsgDisp("","Everyone in the class's eyes looked at
-me, all at once.");
+MsgDisp("主人公","\"Um, ｛Mikage＊＊｝...You
+accompanied me for all my practices,
+so do you remember the lines?\"");
+MsgDisp("","Everyone in the class's eyes looked
+at me, all at once.");
 VoicePlay("Y300700200_07_020");
-MsgDisp("Mikage","\"Wait, wait. we can't do that. How would
-the teacher even be the lead part?\"");
+MsgDisp("Mikage","\"Wait, wait. we can't do that.
+How would the teacher even be the
+lead part?\"");
 MsgClear();
-MsgDisp("","\"Why is it bad?\" \"This is an emergency.\"");
+MsgDisp("","\"Why is it bad?\" \"This is an
+emergency.\"");
 SEPlay("EV_SE_713");
 Wait(30,0);
 SEPlay("EV_SE_815",0,0.8);
 Wait(20,0);
 SEPlay("EV_SE_621");
 Wait(30,0);
-MsgDisp("","The male students of the class stood on
-their seats.");
+MsgDisp("","The male students of the class stood
+on their seats.");
 VoicePlay("Y300700200_07_030");
-MsgDisp("Mikage","\"I understand you guys' feelings but...\"");
+MsgDisp("Mikage","\"I understand you guys' feelings
+but...\"");
 SEPlay("EV_SE_788",1.5,0.7,0.2);
 SEPlay("EV_SE_GAYA_007",0.5,0.7,0.2);
 MsgDisp("","Even I am not that shameless.");
@@ -86,8 +94,8 @@ SEWait();
 EnvPlay("SE_ENV_BG_SC300_CS0",0.5,0.5);
 ScrFadeIn(0);
 VoicePlay("Y300700200_32_010");
-MsgDisp("VP Himuro","\"The school play is the highlight of the
-cultural festival. Respecting the
+MsgDisp("VP Himuro","\"The school play is the highlight of
+the cultural festival. Respecting the
 feelings of your students, make a
 decision Mikage-sensei.\"");
 VoicePlay("Y300700200_07_050");
@@ -113,9 +121,9 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ScrFadeOut(0);
 SEWait();
 MsgDisp("","Vice Principal Himuro, who placed his
-hand gently on my shoulder as I nodded
-slightly, had eyes that were a little
-warmer than usual.");
+hand gently on my shoulder as I
+nodded slightly, had eyes that were a
+little warmer than usual.");
 MsgClear();
 EnvStop(1);
 MsgClose();
@@ -124,8 +132,8 @@ BGOpen("ad720",0);
 BGMPlay("BGM_C07_MIKAGE_I",0.01);
 ScrFadeIn(0);
 VoicePlay("Y300700200_07_070");
-MsgDisp("Mikage","\"If everyone wishes for it, I'll do it.
-Is it okay?\"");
+MsgDisp("Mikage","\"If everyone wishes for it, I'll do
+it. Is it okay?\"");
 SEPlay("EV_SE_741",1);
 SEPlay("EV_SE_793",1,0.6);
 VoicePlay("Y300700200_42_020");
@@ -136,8 +144,8 @@ the lead!\"");
 SEStop("EV_SE_741",2);
 SEStop("EV_SE_793",2);
 MsgClear();
-MsgDisp("","A sparkling smile looked at me from the
-window seat.");
+MsgDisp("","A sparkling smile looked at me from
+the window seat.");
 MsgDisp("","Sigh... I can't back out now...");
 BGMStop();
 MsgClear();

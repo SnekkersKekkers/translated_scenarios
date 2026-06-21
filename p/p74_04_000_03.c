@@ -20,8 +20,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P740400003_04_010");
 MsgDisp("Nanatsumori","Hn.
-It's not like you wear a dress everyday, so
-these happenings are unavoidable.");
+It's not like you wear a dress everyday,
+so these happenings are unavoidable.");
 MsgDisp("主人公","But...");
 ChMotion(4,1,1);
 VoicePlay("P740400003_04_020");

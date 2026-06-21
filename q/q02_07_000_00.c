@@ -33,8 +33,8 @@ Did something happen?");
     ChMotion(7,1);
     VoicePlay("Q020700000_07_020");
     MsgDisp("Mikage","Yeah. I was thinking of doing an
-\"Extracurricular lesson: Nagasaki Chapter!\",
-but I guess nobody's up for it.");
+\"Extracurricular lesson: Nagasaki
+Chapter!\", but I guess nobody's up for it.");
     MsgDisp("主人公","Extracurricular lesson: Nagasaki Chapter?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -57,7 +57,8 @@ I'm still recruiting, but at this rate
         ChMotion(7,1);
         VoicePlay("Q020700000_07_050");
         MsgDisp("Mikage","Well, let's enjoy.");
-        MsgDisp("主人公","(Extracurricular lesson: Nagasaki Chapter...
+        MsgDisp("主人公","(Extracurricular lesson: Nagasaki
+Chapter...
 Hehe, I'm excited!)");
         break ;
         case 1:
@@ -119,8 +120,8 @@ Chapter\" sound to you?");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("Q020700000_07_120");
-        MsgDisp("Mikage","Well, even if there is only one participant,
-the event will go ahead.");
+        MsgDisp("Mikage","Well, even if there is only one
+participant, the event will go ahead.");
         MsgDisp("主人公","Hehe, I'm looking forward to it.");
         ChEye(7,0);
         ChMouth(7,0);

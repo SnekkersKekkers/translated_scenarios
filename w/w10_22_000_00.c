@@ -6,4 +6,5 @@ BGMPlay("BGM_PLACE_AMUSEMENT",0.01);
 ScrFadeIn(0);
 VoicePlay("W102200000_22_000");
 MsgDisp("Hikaru","Ahh～ We had a lot of fun today!
-Hikaru thinks it's time to call it a night.");
+Hikaru thinks it's time to call it
+a night.");

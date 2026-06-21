@@ -17,8 +17,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("U202200200_22_010");
-MsgDisp("Hikaru","If it's with Mari then Hikaru would gladly be
-mistaken for a couple♪");
+MsgDisp("Hikaru","If it's with Mari then Hikaru would gladly
+be mistaken for a couple♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,0,1);

@@ -7,7 +7,8 @@ switch (ChPrmGet(3,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","(It's almost time for the real performance.
+    MsgDisp("主人公","(It's almost time for the real
+performance.
 I'm getting nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -25,8 +26,8 @@ I'm a bit nervous...");
     MsgDisp("Honda","Eh, is that right?
 Even though you like the song?");
     MsgDisp("主人公","Umm...yeah.
-I was thinking it would be awful if it were a
-failure.");
+I was thinking it would be awful if it
+were a failure.");
     ChEye(3,4);
     ChMouth(3,0);
     ChMotion(3,1,1);
@@ -55,7 +56,8 @@ Alright, I'll do my best.)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(It's almost time for the real performance.
+    MsgDisp("主人公","(It's almost time for the real
+performance.
 I'm getting nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -101,9 +103,10 @@ Maybe I calmed down a little?");
 That sounded like the buzzer for a
 wrong answer.");
     MsgDisp("主人公","Hehe, are you okay?
-Even though you specifically wanted to relax?");
-    MsgDisp("主人公","(Huh...thanks to ｛Honda＊＊｝, It seems like
-I'm not anxious anymore.
+Even though you specifically wanted
+to relax?");
+    MsgDisp("主人公","(Huh...thanks to ｛Honda＊＊｝, It seems
+like I'm not anxious anymore.
 Yeah, I'll give it my best.)");
     break ;
     default :

@@ -27,7 +27,8 @@ Treat me well this year.");
     ChClose(6);
     Wait(30);
     MsgDisp("主人公","(A New Year...
-I wonder what kind of year this will be...)");
+I wonder what kind of year this
+will be...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

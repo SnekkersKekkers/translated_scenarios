@@ -37,7 +37,8 @@ See you.");
     ChMotion(4,1);
     VoicePlay("S120400002_04_020");
     MsgDisp("Nanatsumori","Phew.
-We finally got out of that crowd of people.");
+We finally got out of that crowd
+of people.");
     MsgDisp("主人公","Hehe! Are you tired?");
     ChEye(4,2);
     ChMouth(4,3);
@@ -75,8 +76,8 @@ Let's get you home.");
     ChMotion(4,1,1);
     VoicePlay("S120400002_04_070");
     MsgDisp("Nanatsumori","Yeah, maybe it's just me.
-I was finally brave enough to go out in the
-freezing cold.");
+I was finally brave enough to go out in
+the freezing cold.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);

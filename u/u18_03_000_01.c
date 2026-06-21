@@ -4,20 +4,22 @@ switch (ChPrmGet(3,6)){
     case 2:
     case 3:
     MsgDisp("主人公","Uhm...");
-    MsgDisp("主人公","It says...\"Chiru-chan and Pika-chan asked me
-how I feel about you.
+    MsgDisp("主人公","It says...\"Chiru-chan and Pika-chan asked
+me how I feel about you.
 Hehe, what do you think I answered?");
-    MsgDisp("主人公","(Ehhh∋ What kind of things did you guys ask?
+    MsgDisp("主人公","(Ehhh∋
+What kind of things did you guys ask?
 How did ｛Honda＊＊｝ answer...?)");
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","Uhm...");
-    MsgDisp("主人公","It says...\"Chiru-chan and Pika-chan told me
-they would tell me a secret about you.
+    MsgDisp("主人公","It says...\"Chiru-chan and Pika-chan told
+me they would tell me a secret about you.
 You should tell me it first.");
     MsgDisp("主人公","(Ehhh∋ What did you guys talk about?
-But ｛Honda＊＊｝ can't keep secrets anyway...)");
+But ｛Honda＊＊｝ can't keep secrets
+anyway...)");
     break ;
     default :
     DbgAssert(1);

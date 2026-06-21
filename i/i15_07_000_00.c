@@ -22,15 +22,15 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I150700000_07_010");
-    MsgDisp("Mikage","I think I might end up buying everything you
-recommend, so I'm going home.");
+    MsgDisp("Mikage","I think I might end up buying everything
+you recommend, so I'm going home.");
     MsgDisp("主人公","Huh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("I150700000_07_020");
-    MsgDisp("Mikage","Well, keep up the fun times at school and at
-your part-time job.");
+    MsgDisp("Mikage","Well, keep up the fun times at school and
+at your part-time job.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
@@ -53,7 +53,8 @@ Are you looking for something?");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("I150700000_07_040");
-    MsgDisp("Mikage","You're really looking like a shopkeeper, huh?");
+    MsgDisp("Mikage","You're really looking like a
+shopkeeper, huh?");
     MsgDisp("主人公","Um, because I am one?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -72,13 +73,14 @@ Then, I'll buy something to apologise.");
     ChOpen(7,255,1,2,0,#1,#1,0,0);
     VoicePlay("I150700000_07_060");
     MsgDisp("Mikage","I bought too much...");
-    MsgDisp("主人公","Thank you very much for your large purchase.");
+    MsgDisp("主人公","Thank you very much for your large
+purchase.");
     ChEye(7,2);
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("I150700000_07_070");
-    MsgDisp("Mikage","You...when was it that you became so good at
-business...");
+    MsgDisp("Mikage","You...when was it that you became so good
+at business...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);

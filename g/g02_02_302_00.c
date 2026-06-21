@@ -7,7 +7,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230200_02_010");
-MsgDisp("Sassa","If they eat together, they're just like us.");
+MsgDisp("Sassa","If they eat together, they're just
+like us.");
 MsgDisp("主人公","Like us?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -41,8 +42,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("G020230200_02_060");
 MsgDisp("Sassa","Next time we go to the school cafeteria,
-let's have udon. My excitement goes up when
-we have the same dish.");
+let's have udon. My excitement goes up
+when we have the same dish.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -62,8 +63,8 @@ ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("G020230200_02_090");
 MsgDisp("Sassa","What should I do...");
-MsgDisp("主人公","Umm, how about you think about it slowly when
-it comes time to eat?");
+MsgDisp("主人公","Umm, how about you think about it slowly
+when it comes time to eat?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -71,8 +72,8 @@ VoicePlay("G020230200_02_100");
 MsgDisp("Sassa","No way.
 If I don't decide now, we won't have the
 same thing.");
-MsgDisp("主人公","(｛Sassa＊＊｝ really likes planning everything
-out, doesn't he?)");
+MsgDisp("主人公","(｛Sassa＊＊｝ really likes planning
+everything out, doesn't he?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

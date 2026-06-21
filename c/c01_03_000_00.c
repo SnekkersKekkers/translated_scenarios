@@ -33,5 +33,6 @@ MsgDisp("Honda","Then... Later, yeah?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
 MsgDisp("主人公","(Thank goodness...
-Looks like we were able to make up somehow.)");
+Looks like we were able to make up
+somehow.)");
 MsgClose();

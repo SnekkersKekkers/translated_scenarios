@@ -21,7 +21,7 @@ imagination.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(31);
-MsgDisp("主人公","(Ughn, I want Goro-sensei to hear a perfect
-performance...)");
+MsgDisp("主人公","(Ughn, I want Goro-sensei to hear a
+perfect performance...)");
 MsgClose();
 ScrFadeOut(0);

@@ -16,8 +16,8 @@ switch (ChPrmGet(3,6)){
     VoicePlay("O030300001_03_000");
     MsgDisp("Honda","I think we did well enough by not coming
 last, right?");
-    MsgDisp("主人公","(Hm, I wish we could've been a little more in
-sync...)");
+    MsgDisp("主人公","(Hm, I wish we could've been a little more
+in sync...)");
     break ;
     case 3:
     ChEye(3,0);

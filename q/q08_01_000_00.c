@@ -21,8 +21,8 @@ we did.");
     ChMouth(1,4);
     ChMotion(1,0);
     VoicePlay("Q080100000_01_010");
-    MsgDisp("Kazama","Well, how about spending the next free period
-together too?");
+    MsgDisp("Kazama","Well, how about spending the next free
+period together too?");
     MsgDisp("主人公","Of course I want to!");
     ChEye(1,0);
     ChMouth(1,3);

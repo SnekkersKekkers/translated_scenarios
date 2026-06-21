@@ -14,7 +14,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("K020101000_01_000");
-MsgDisp("Kazama","You should thank me for everything at once.");
+MsgDisp("Kazama","You should thank me for everything
+at once.");
 MsgDisp("主人公","Huh? All at once?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -38,15 +39,15 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("K020101000_01_030");
 MsgDisp("Kazama","Here's your present.
-Sorry. I've been holding onto it for a while,
-so the ribbon got crushed.");
+Sorry. I've been holding onto it for a
+while, so the ribbon got crushed.");
 MsgDisp("主人公","Okay. Thank you...!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("K020101000_01_040");
-MsgDisp("Kazama","That's why you should thank me for everything
-at once.");
+MsgDisp("Kazama","That's why you should thank me for
+everything at once.");
 MsgDisp("主人公","Yeah. Thank you.
 Please treat me well this year too.");
 ChEye(1,4);
@@ -57,8 +58,8 @@ MsgDisp("Kazama","Come on, you're thanking me again.
 See you.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(I went to the shrine with ｛Kazama＊＊｝, and
-even celebrated my birthday with him.
+MsgDisp("主人公","(I went to the shrine with ｛Kazama＊＊｝,
+and even celebrated my birthday with him.
 It's a great start to the new year.)");
 MsgClose();
 ScrFadeOut(0,0);

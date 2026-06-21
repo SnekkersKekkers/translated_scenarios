@@ -24,8 +24,8 @@ You got an impressive ranking.");
 No, I can't even see you from there.");
     ChEye(5,0);
     VoicePlay("N020500001_05_030");
-    MsgDisp("Hiiragi","I'll work hard enough to at least see where
-you are.
+    MsgDisp("Hiiragi","I'll work hard enough to at least see
+where you are.
 See you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -47,8 +47,8 @@ the top.");
     ChMotion(5,4);
     VoicePlay("N020500001_05_050");
     MsgDisp("Hiiragi","Wow. But...
-If I'm being honest, you're fully capable of
-doing even better, aren't you?");
+If I'm being honest, you're fully capable
+of doing even better, aren't you?");
     MsgDisp("主人公","Huh.");
     ChMotion(5,0);
     VoicePlay("N020500001_05_060");

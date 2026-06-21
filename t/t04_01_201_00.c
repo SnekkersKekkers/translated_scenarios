@@ -25,8 +25,8 @@ VoicePlay("T040120100_04_000");
 MsgDisp("Nanatsumori","Kazama's unnaturalness is a part of
 everyday life.");
 VoicePlay("T040120100_04_010");
-MsgDisp("Nanatsumori","Well, it's easier to see your face when we're
-facing each other, right?");
+MsgDisp("Nanatsumori","Well, it's easier to see your face when
+we're facing each other, right?");
 VoicePlay("T040120100_03_010");
 MsgDisp("Honda","Your face is facing me too.");
 VoicePlay("T040120100_01_020");
@@ -42,8 +42,8 @@ ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040120100_01_030");
 MsgDisp("Kazama","After All, we would all take turns to sit
-next to you. But I was the one who got to sit
-next to you the most, right?");
+next to you. But I was the one who got to
+sit next to you the most, right?");
 MsgClose();
 ScrFadeOut(0,0,300);
 Wait(300,0);

@@ -54,7 +54,8 @@ Gardening Club...)");
     MsgClose();
     ChOpen(1,254,0,0,3,#1,#1,0,0);
     VoicePlay("P630100002_01_040");
-    MsgDisp("Kazama","Ehh, your outfit also suits you, doesn't it?");
+    MsgDisp("Kazama","Ehh, your outfit also suits you,
+doesn't it?");
     MsgDisp("主人公","Ah, ｛Kazama＊＊｝!
 Welcome～!
 I'm a cafe maid.");
@@ -65,8 +66,8 @@ I'm a cafe maid.");
     MsgDisp("Kazama","That's fine, but your energy is that of a
 greengrocers.");
     MsgDisp("主人公","Hehe, yeah.
-After all, we're selling the vegetables as a
-souvenir.");
+After all, we're selling the vegetables as
+a souvenir.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -74,8 +75,8 @@ souvenir.");
     MsgDisp("Kazama","Is that so.
 Then, can I have something from the cafe
 first? What's your recommendation?");
-    MsgDisp("主人公","Actually, if you want to taste the vegetables
-as they are, maybe a salad?");
+    MsgDisp("主人公","Actually, if you want to taste the
+vegetables as they are, maybe a salad?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

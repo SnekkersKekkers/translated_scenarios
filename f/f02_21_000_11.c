@@ -22,15 +22,16 @@ ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F022100011_21_020");
-MsgDisp("Michiru","I had such a fulfilling year that I'm scared
-of what next year will bring.");
+MsgDisp("Michiru","I had such a fulfilling year that I'm
+scared of what next year will bring.");
 MsgDisp("主人公","Hehe!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F022100011_21_030");
 MsgDisp("Michiru","Mari.
-Thank you for being my friend this year too.");
+Thank you for being my friend this
+year too.");
 MsgDisp("主人公","(｛みちる＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

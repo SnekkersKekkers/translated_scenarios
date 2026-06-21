@@ -20,7 +20,8 @@ MsgDisp("Michiru","I've been feeling like I'm about to sneeze
 for a while now.
 Hmm...");
 MsgDisp("主人公","Ah, I know that feeling.
-When you still can't quite get it out, right?");
+When you still can't quite get it
+out, right?");
 ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,2);

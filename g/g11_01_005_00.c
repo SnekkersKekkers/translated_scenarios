@@ -2,8 +2,7 @@ BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to head home.)");
-MsgDisp("主人公","(...Huh? 
-｛Kazama＊＊｝ is over there.
+MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there.
 Let's chat a bit before we head home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -24,9 +23,10 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100500_01_000");
 MsgDisp("Kazama","Speaking of, what will you do with the
-wedding dresses from the cultural festival?");
-MsgDisp("主人公","It'll be on display on the mannequin in the
-clubroom for a while.");
+wedding dresses from the cultural
+festival?");
+MsgDisp("主人公","It'll be on display on the mannequin in
+the clubroom for a while.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -59,7 +59,8 @@ MsgDisp("Kazama","After you graduate, why not have my
 grandpa take care of it at his shop until
 the real thing?");
 MsgDisp("主人公","Ehh∋
-The real thing, you mean my actual wedding?");
+The real thing, you mean my actual
+wedding?");
 ChEye(1,1);
 ChMouth(1,0);
 ChMotion(1,1);

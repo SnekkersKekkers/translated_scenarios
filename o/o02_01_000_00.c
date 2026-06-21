@@ -31,8 +31,8 @@ You had a lot of fun, huh?");
     ChMotion(1,3);
     VoicePlay("O020100000_01_020");
     MsgDisp("Kazama","I see, my bad.
-But you know, it was nice seeing you cling to
-the rope like a kitten.");
+But you know, it was nice seeing you cling
+to the rope like a kitten.");
     MsgDisp("主人公","(Geez.
 I just won, but it doesn't feel like he's
 praising me at all...)");

@@ -16,7 +16,8 @@ If you will excuse me.");
     MsgDisp("Hiiragi","...Oh, that day is booked.");
     MsgDisp("主人公","I see... Too bad, but what can you do.");
     VoicePlay("J030500001_05_030");
-    MsgDisp("Hiiragi","I'm sorry, especially since you invited me.");
+    MsgDisp("Hiiragi","I'm sorry, especially since you
+invited me.");
     MsgDisp("主人公","No, don't worry about it.
 Well, I'll see you later?");
     VoicePlay("J030500001_05_040");
@@ -36,8 +37,8 @@ Well, I'll see you later?");
 I'll ask you out again.");
     VoicePlay("J030500001_05_070");
     MsgDisp("Hiiragi","Yes, next time for sure...
-Actually, I shouldn't make promises I can't
-keep. Well then.");
+Actually, I shouldn't make promises I
+can't keep. Well then.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Ugh...too bad!)");

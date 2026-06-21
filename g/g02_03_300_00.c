@@ -56,8 +56,8 @@ ChEyeOpenLevel(3,0);
 VoicePlay("G020330000_03_080");
 MsgDisp("Honda","I'm the one getting inspired one-sidedly.
 I'm really glad I met them!");
-MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ and ｛Nanatsumori＊｝ would
-say the same thing wouldn't they?)");
+MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ and ｛Nanatsumori＊｝
+would say the same thing wouldn't they?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

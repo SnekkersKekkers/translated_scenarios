@@ -18,9 +18,10 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("P740400001_04_010");
 MsgDisp("Nanatsumori","It can't be helped.
-You were stressed to the max. I'm glad you're
-not injured.");
-MsgDisp("主人公","(Sigh... MAybe I didn't practise enough...)");
+You were stressed to the max. I'm glad
+you're not injured.");
+MsgDisp("主人公","(Sigh...
+MAybe I didn't practise enough...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

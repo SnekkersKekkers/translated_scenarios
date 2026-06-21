@@ -18,8 +18,8 @@ Should I come and pick you up?");
 Let's go visit the shrine then.");
     MsgDisp("主人公","Yeah! Let's meet up then...");
     VoicePlay("S030500001_05_030");
-    MsgDisp("Hiiragi","If it's okay, when you're done getting ready,
-I'll pick you up.");
+    MsgDisp("Hiiragi","If it's okay, when you're done getting
+ready, I'll pick you up.");
     MsgDisp("主人公","Eh, really?
 Thank you.
 I'll be ready and waiting then.");
@@ -38,7 +38,8 @@ Now's the perfect time for us to go.
 Let's get going.");
     MsgDisp("主人公","Yay! Where should we meet up?");
     VoicePlay("S030500001_05_060");
-    MsgDisp("Hiiragi","If you don't mind, I'll come and pick you up.
+    MsgDisp("Hiiragi","If you don't mind, I'll come and pick
+you up.
 I'll head there slowly, so don't rush.");
     MsgDisp("主人公","Sure, thank you.
 Okay then, see you soon.");

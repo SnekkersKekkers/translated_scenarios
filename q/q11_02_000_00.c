@@ -57,8 +57,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q110200000_02_070");
-MsgDisp("Sassa","I mean, wouldn't it be great if we could be a
-perfect match?");
+MsgDisp("Sassa","I mean, wouldn't it be great if we could
+be a perfect match?");
 MsgDisp("主人公","(Pff, no matter what flavour of castella I
 see, I guess it'll make me think of
 ｛Sassa＊＊｝?)");

@@ -28,8 +28,8 @@ We'll do our best!");
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("H180200000_02_020");
-    MsgDisp("Sassa","They have the goddess of victory sitting on
-their bench.
+    MsgDisp("Sassa","They have the goddess of victory sitting
+on their bench.
 You'll definitely win.");
     MsgDisp("主人公","(Alright, I'll do my best until the end as
 manager!)");

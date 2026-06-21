@@ -14,8 +14,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("H8G0600000_06_010");
 MsgDisp("Himuro","You mean to say you really don't know?
-I heard you got the gold award in the design
-contest.");
+I heard you got the gold award in the
+design contest.");
 MsgDisp("主人公","Ah, yes.
 I did it!");
 ChEye(6,0);

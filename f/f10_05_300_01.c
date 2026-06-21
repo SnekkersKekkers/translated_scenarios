@@ -12,22 +12,24 @@ ChMotion(5,4);
 VoicePlay("F100530001_05_000");
 MsgDisp("Hiiragi","Farewell.
 Take care.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you for your hard work.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you for your
+hard work.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("F100530001_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
-An important job of the student council is to
-enforce greetings.");
+An important job of the student council is
+to enforce greetings.");
 MsgDisp("主人公","You really do like them, don't you?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("F100530001_05_020");
 MsgDisp("Hiiragi","Yes.
-Everyone greets me in all sorts of fun ways.");
+Everyone greets me in all sorts of
+fun ways.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -83,7 +85,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F100530001_21_020");
-MsgDisp("Michiru","Mari isn't enjoying it, she must be troubled.");
+MsgDisp("Michiru","Mari isn't enjoying it, she must be
+troubled.");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);

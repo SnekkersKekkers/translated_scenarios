@@ -13,8 +13,8 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","Happy New Year.");
     MsgDisp("主人公","Happy New Year!");
     VoicePlay("S040400000_04_010");
-    MsgDisp("Nanatsumori","Hey, if you're free right now, would you like
-to come with me to the shrine?");
+    MsgDisp("Nanatsumori","Hey, if you're free right now, would you
+like to come with me to the shrine?");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -37,8 +37,9 @@ That's disappointing.");
 See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through the trouble of
-inviting me, did I do something wrong...)");
+        MsgDisp("主人公","(Even though he went through the trouble
+of inviting me, did I do something
+wrong...)");
         break ;
         default :
         DbgAssert(0);
@@ -96,8 +97,8 @@ New Year's is a really busy day, I guess.");
 It's cold, so try not to get sick. Bye...");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through all the trouble
-of inviting me...
+        MsgDisp("主人公","(Even though he went through all the
+trouble of inviting me...
 Did I make a bad choice...)");
         break ;
         default :

@@ -27,8 +27,8 @@ ChMouth(21,2);
 ChMotion(21,2);
 VoicePlay("F102110000_21_030");
 MsgDisp("Michiru","But there's nothing I can do. Sigh...");
-MsgDisp("主人公","Um, if it's of any help, you can consult me
-about it?");
+MsgDisp("主人公","Um, if it's of any help, you can consult
+me about it?");
 ChEye(21,2);
 ChMouth(21,3);
 ChMotion(21,0);

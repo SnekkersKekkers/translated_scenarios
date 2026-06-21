@@ -15,7 +15,8 @@ Sounds fun, but it's a no from me.");
     ChMotion(7,0);
     VoicePlay("Q040700002_07_010");
     MsgDisp("Mikage","Look. It is a school trip after all.
-Make sure to make memories with friends, kay?");
+Make sure to make memories with
+friends, kay?");
     MsgClose();
     BGMStop();
     MsgClose();

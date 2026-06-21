@@ -11,8 +11,8 @@ switch (ChPrmGet(5,6)){
     MsgClose();
     ChOpen(5,255,0,4,4,#1,#1,0,0);
     VoicePlay("W090500002_05_010");
-    MsgDisp("Hiiragi","So this was one of the recommended spots of
-Habataki City, huh.");
+    MsgDisp("Hiiragi","So this was one of the recommended spots
+of Habataki City, huh.");
     break ;
     case 4:
     case 5:

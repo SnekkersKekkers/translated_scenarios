@@ -37,9 +37,9 @@ So that you might choose me.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 ChEye(5,4);
 VoicePlay("G020510400_05_060");
-MsgDisp("Hiiragi","Someday, if I can see this place simply as a
-beautiful scenery, maybe that's when I'll
-have gained confidence in myself?");
+MsgDisp("Hiiragi","Someday, if I can see this place simply as
+a beautiful scenery, maybe that's when
+I'll have gained confidence in myself?");
 ChMotion(5,4);
 VoicePlay("G020510400_05_070");
 MsgDisp("Hiiragi","For now it's no good.

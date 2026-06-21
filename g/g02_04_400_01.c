@@ -26,9 +26,10 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("G020440001_04_030");
-MsgDisp("Nanatsumori","After all, that kind of thing is... common.");
-MsgDisp("主人公","I think it's the freedom to express yourself
-in many ways.");
+MsgDisp("Nanatsumori","After all, that kind of thing
+is... common.");
+MsgDisp("主人公","I think it's the freedom to express
+yourself in many ways.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,3,1);
@@ -39,8 +40,8 @@ MsgDisp("主人公","Yeah!");
 ChMotion(4,0,1);
 VoicePlay("G020440001_04_050");
 MsgDisp("Nanatsumori","That's it.
-Self-expression to make yourself pretty and
-beautiful. I have that desire.");
+Self-expression to make yourself pretty
+and beautiful. I have that desire.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
@@ -53,8 +54,8 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020440001_04_070");
 MsgDisp("Nanatsumori","Hey.
-Isn't it true that girls want boys that dress
-up like girls?");
+Isn't it true that girls want boys that
+dress up like girls?");
 MsgDisp("主人公","Huuuh∋");
 ChEye(4,0);
 ChMouth(4,2);
@@ -65,10 +66,10 @@ ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("G020440001_04_090");
-MsgDisp("Nanatsumori","Then, maybe it's just my sister who is that
-kind of person...");
-MsgDisp("主人公","(What is ｛Nanatsumori＊｝'s older sister doing
-with ｛Nanatsumori＊｝...∋)");
+MsgDisp("Nanatsumori","Then, maybe it's just my sister who is
+that kind of person...");
+MsgDisp("主人公","(What is ｛Nanatsumori＊｝'s older sister
+doing with ｛Nanatsumori＊｝...∋)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

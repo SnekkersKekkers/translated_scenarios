@@ -35,8 +35,8 @@ Ahh, I just wanna go home.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("F010700004_07_020");
-    MsgDisp("Mikage","Thank you for inviting me, but...well, Vice
-Principal Himuro called me to talk.");
+    MsgDisp("Mikage","Thank you for inviting me, but...well,
+Vice Principal Himuro called me to talk.");
     MsgDisp("主人公","｛Mikage＊＊｝...are you okay?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -53,7 +53,8 @@ That's an option, right?");
     MsgDisp("Mikage","You're right...
 Besides, we don't know for sure he'll be
 scolding me.");
-    MsgDisp("主人公","Yes, I'm sure it'll be a good conversation.");
+    MsgDisp("主人公","Yes, I'm sure it'll be a good
+conversation.");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);

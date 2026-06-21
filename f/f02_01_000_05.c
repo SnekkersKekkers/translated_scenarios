@@ -59,5 +59,6 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("F020100005_01_060");
 MsgDisp("Kazama","Yeah, yeah.");
-MsgDisp("主人公","(...But I think there's a difference between
-studying for class and studying for exams...)");
+MsgDisp("主人公","(...But I think there's a difference
+between studying for class and studying
+for exams...)");

@@ -43,8 +43,8 @@ perfect score.");
     ChEyeOpenLevel(3,0);
     VoicePlay("S060300001_03_050");
     MsgDisp("Honda","I get to go with you to the shrine while
-you're wearing a kimono, I feel like I've won
-the lottery!");
+you're wearing a kimono, I feel like I've
+won the lottery!");
     MsgDisp("主人公","(What a relief.
 ｛Honda＊＊｝ seems to be really happy!)");
     break ;
@@ -54,7 +54,8 @@ the lottery!");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("S060300001_03_060");
-    MsgDisp("Honda","So, the first outfit of the year is a kimono.");
+    MsgDisp("Honda","So, the first outfit of the year is
+a kimono.");
     MsgDisp("主人公","Yeah... What do you think?");
     ChFace(3,3);
     ChMotion(3,5,1);

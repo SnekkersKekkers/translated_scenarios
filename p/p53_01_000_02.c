@@ -9,8 +9,8 @@ switch (ChPrmGet(1,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Things are looking more calm this year.
-Maybe it's because I've been working hard for
-the past three years??)");
+Maybe it's because I've been working hard
+for the past three years??)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -34,8 +34,8 @@ nervous face.");
 But you seem to have a lot of confidence.
 Do you think you can give a good performance?");
     MsgDisp("主人公","Yeah.
-It's the last cultural festival so I am going
-to have fun!");
+It's the last cultural festival so I am
+going to have fun!");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(1,2);
@@ -47,9 +47,9 @@ Somehow, I'm starting to feel nervous.");
     MsgDisp("主人公","Hehe. Well, I'll be going then!");
     ChEye(1,4);
     ChMouth(1,3);
-    MsgDisp("主人公","(Now, this is the culmination of three years
-of hard work. Let's do our best, so we don't
-have any regrets!)");
+    MsgDisp("主人公","(Now, this is the culmination of three
+years of hard work. Let's do our best, so
+we don't have any regrets!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(1,0,0);
@@ -59,8 +59,8 @@ have any regrets!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Things are looking more calm this year.
-Maybe it's because I've been working hard for
-the past three years?)");
+Maybe it's because I've been working hard
+for the past three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -94,7 +94,8 @@ I fell in love all over again.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("P530100002_01_080");
-    MsgDisp("Kazama","I've always thought you had charm to spare.
+    MsgDisp("Kazama","I've always thought you had charm
+to spare.
 But it seems like you have guts too?");
     SEPlay("EV_SE_038");
     SEWait();

@@ -18,12 +18,13 @@ Ah, ｛Hiiragi＊＊＊｝.");
     MsgDisp("主人公","Yes. Are you shopping, ｛Hiiragi＊＊＊｝?");
     ChMouth(5,4);
     VoicePlay("I150500000_05_010");
-    MsgDisp("Hiiragi","Yes, our troupe is quite large, so there is
-much we need.");
+    MsgDisp("Hiiragi","Yes, our troupe is quite large, so there
+is much we need.");
     MsgDisp("主人公","It seems hard.");
     ChMotion(5,4);
     VoicePlay("I150500000_05_020");
-    MsgDisp("Hiiragi","Not at all, shopping is quite fun, is it not?");
+    MsgDisp("Hiiragi","Not at all, shopping is quite fun, is
+it not?");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("I150500000_05_030");
@@ -59,12 +60,15 @@ I had just heard of General Store Simon...");
 Welcome!");
     VoicePlay("I150500000_05_060");
     MsgDisp("Hiiragi","Good day.
-You are working hard at your part-time job.");
+You are working hard at your
+part-time job.");
     MsgDisp("主人公","Yes.
-Are you looking for something, ｛Hiiragi＊＊＊｝?");
+Are you looking for something,
+｛Hiiragi＊＊＊｝?");
     ChEye(5,4);
     VoicePlay("I150500000_05_070");
-    MsgDisp("Hiiragi","No. I'm having fun simply watching this shop.");
+    MsgDisp("Hiiragi","No. I'm having fun simply watching
+this shop.");
     ChEye(5,2);
     ChMouth(5,4);
     ChMotion(5,4);
@@ -85,7 +89,8 @@ window-shopper.");
     MsgDisp("Hiiragi","Aroma diffuser?
 I see, so you add fragrant oils in.
 What a wonderful item...");
-    MsgDisp("主人公","(Hehe. ｛Hiiragi＊＊＊｝ really likes shopping.)");
+    MsgDisp("主人公","(Hehe.
+｛Hiiragi＊＊＊｝ really likes shopping.)");
     break ;
     case 4:
     case 5:
@@ -98,7 +103,8 @@ What a wonderful item...");
     VoicePlay("I150500000_05_110");
     MsgDisp("Hiiragi","Good day.
 I'll be intruding for a bit.");
-    MsgDisp("主人公","Are you looking for something specific today?");
+    MsgDisp("主人公","Are you looking for something
+specific today?");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("I150500000_05_120");
@@ -116,9 +122,9 @@ were the thing I was searching for?");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I150500000_05_150");
-    MsgDisp("Hiiragi","As I have fulfilled my objective, I will go
-ahead and take a look around the store before
-heading home.");
+    MsgDisp("Hiiragi","As I have fulfilled my objective, I will
+go ahead and take a look around the store
+before heading home.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

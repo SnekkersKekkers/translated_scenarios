@@ -9,8 +9,8 @@ switch (ChPrmGet(1,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Wow... There are a lot of customers this
-year. It seems like there are more than last
-year. Sigh, I'm nervous...)");
+year. It seems like there are more than
+last year. Sigh, I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -25,8 +25,8 @@ Did you come to support us?");
     ChMotion(1,1);
     VoicePlay("P530100001_01_010");
     MsgDisp("Kazama","Wow, this is a huge success.
-Surely, there's no way we can make a mistake
-here right?");
+Surely, there's no way we can make a
+mistake here right?");
     MsgDisp("主人公","Ah, no...");
     ChEye(1,2);
     ChMouth(1,2);
@@ -39,8 +39,8 @@ I was just kidding.");
     ChMotion(1,0);
     VoicePlay("P530100001_01_030");
     MsgDisp("Kazama","The people in the venue, they are all
-complete amateurs. So, they won't notice if
-you make a small mistake.");
+complete amateurs. So, they won't notice
+if you make a small mistake.");
     MsgDisp("主人公","That's not true...");
     ChEye(1,0);
     ChMouth(1,2);
@@ -52,8 +52,8 @@ you make a small mistake.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100001_01_050");
-    MsgDisp("Kazama","Everyone, just think of these as vegetables
-grown by Mikage-sensei, okay?");
+    MsgDisp("Kazama","Everyone, just think of these as
+vegetables grown by Mikage-sensei, okay?");
     MsgDisp("主人公","Huh? Hehe, then ｛Kazama＊＊｝ too?");
     ChEye(1,0);
     ChMouth(1,1);
@@ -67,8 +67,8 @@ grown by Mikage-sensei, okay?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P530100001_01_070");
-    MsgDisp("Kazama","Think of everyone else as vegetables, and go
-harvest them, okay?");
+    MsgDisp("Kazama","Think of everyone else as vegetables, and
+go harvest them, okay?");
     MsgDisp("主人公","Hehe, yeah!");
     MsgDisp("主人公","(Alright, ｛Kazama＊＊｝ thanks to that, I
 think I was able to relax a bit?
@@ -82,8 +82,8 @@ I'll do my best—!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Wow... There are a lot of customers this
-year. It seems like there are more than last
-year. Sigh, I'm nervous...)");
+year. It seems like there are more than
+last year. Sigh, I'm nervous...)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

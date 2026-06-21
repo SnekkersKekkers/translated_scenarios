@@ -40,8 +40,8 @@ What should I wear?");
         MsgDisp("Hiiragi","See you later then.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he took the time to invite me,
-did I do something wrong?...)");
+        MsgDisp("主人公","(Even though he took the time to invite
+me, did I do something wrong?...)");
         break ;
         default :
         DbgAssert(0);
@@ -68,8 +68,8 @@ I'm happy to hear it.");
     MsgDisp("主人公","Hehe, I'm happy to hear ｛Hiiragi＊＊＊｝'s
 voice too.");
     VoicePlay("S040500000_05_070");
-    MsgDisp("Hiiragi","How about we both go and cheerfully say hello
-to the gods?");
+    MsgDisp("Hiiragi","How about we both go and cheerfully say
+hello to the gods?");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -94,14 +94,14 @@ Now then, what should I wear?)");
         MsgDisp("Hiiragi","Oh I see, it's impossible.");
         MsgDisp("主人公","Yeah...sorry.");
         VoicePlay("S040500000_05_110");
-        MsgDisp("Hiiragi","Just hearing your voice is already half of my
-New Year's goal.");
+        MsgDisp("Hiiragi","Just hearing your voice is already half of
+my New Year's goal.");
         VoicePlay("S040500000_05_120");
         MsgDisp("Hiiragi","I hope to see you again this year.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through the trouble of
-inviting me...
+        MsgDisp("主人公","(Even though he went through the trouble
+of inviting me...
 Did I make the wrong choice...?)");
         break ;
         default :

@@ -30,8 +30,8 @@ Is it popular?");
     ChMotion(6,0,1);
     VoicePlay("L040600001_06_020");
     MsgDisp("Himuro","Thanks.
-Though it looks like you're doing this out of
-obligation.");
+Though it looks like you're doing this out
+of obligation.");
     MsgDisp("主人公","What?");
     ChEye(6,0);
     ChMouth(6,0);

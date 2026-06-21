@@ -7,8 +7,8 @@ switch (ChPrmGet(5,6)){
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,0,0,0,#1,#1,0,0);
     VoicePlay("F010500001_05_000");
-    MsgDisp("Hiiragi","Excuse me, but what exactly are you trying to
-accomplish by calling me that?
+    MsgDisp("Hiiragi","Excuse me, but what exactly are you trying
+to accomplish by calling me that?
 Goodbye.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

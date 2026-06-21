@@ -21,8 +21,8 @@ You came?");
     VoicePlay("P630600000_06_010");
     MsgDisp("Himuro","It's because I had some spare time.
 ...Then, what are you doing?");
-    MsgDisp("主人公","We're serving tea and cookies made with the
-herbs grown by the club.");
+    MsgDisp("主人公","We're serving tea and cookies made with
+the herbs grown by the club.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

@@ -64,7 +64,8 @@ He seemed really happy!)");
     MsgDisp("Shirahane","A real handmade chocolate...
 You thought of me, huh?
 Your heart's in these.");
-    MsgDisp("主人公","Yeah. I made it just for you, ｛Daichi＊＊｝.");
+    MsgDisp("主人公","Yeah.
+I made it just for you, ｛Daichi＊＊｝.");
     ChMouth(8,4);
     ChMotion(8,2,1);
     VoicePlay("L040800003_08_080");

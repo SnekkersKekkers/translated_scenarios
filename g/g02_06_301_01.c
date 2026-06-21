@@ -29,8 +29,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020630101_06_040");
 MsgDisp("Himuro","...If I think about it, you're more like a
-flower. Like when butterflies and bees flock
-around the smell of nectar.");
+flower. Like when butterflies and bees
+flock around the smell of nectar.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -50,8 +50,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630101_06_070");
 MsgDisp("Himuro","It's called \"water cooler talk\".
-If we want to chat and get water, we'll all
-flock to you, the well.");
+If we want to chat and get water, we'll
+all flock to you, the well.");
 MsgDisp("主人公","Umm, then maybe being a flower is better.");
 ChEye(6,0);
 ChMouth(6,3);

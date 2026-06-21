@@ -33,7 +33,8 @@ Are you free?");
     ChMotion(3,2);
     ChEyeOpenLevel(3,0);
     VoicePlay("L040300000_03_020");
-    MsgDisp("Honda","No! I won't. It'd be awkward if I was wrong.");
+    MsgDisp("Honda","No!
+I won't. It'd be awkward if I was wrong.");
     MsgDisp("主人公","Hehe! Here you go.
 Valentine's chocolate.");
     SEPlay("EV_SE_665");

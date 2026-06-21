@@ -19,8 +19,8 @@ ChMotion(21,4);
 VoicePlay("P630D00000_21_000");
 MsgDisp("Michiru","A nice fragrance...is it herbal tea?");
 MsgDisp("主人公","Right.
-We used the herbs the horticulture club grew
-to make tea and cookies.");
+We used the herbs the horticulture club
+grew to make tea and cookies.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);

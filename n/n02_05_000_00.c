@@ -37,8 +37,8 @@ See you.");
     MsgClose();
     ChOpen(5,254,0,0,3,#1,#1,0,0);
     VoicePlay("N020500000_05_040");
-    MsgDisp("Hiiragi","Since you got the top rank, I want you to be
-my private tutor.");
+    MsgDisp("Hiiragi","Since you got the top rank, I want you to
+be my private tutor.");
     MsgDisp("主人公","Hehe...
 As long as you don't mind tough study
 sessions!");
@@ -55,9 +55,9 @@ could ever reach that.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("N020500000_05_070");
-    MsgDisp("Hiiragi","Usually, your greatness is hidden behind your
-kindness, but this time you haven't hidden it
-at all.");
+    MsgDisp("Hiiragi","Usually, your greatness is hidden behind
+your kindness, but this time you haven't
+hidden it at all.");
     MsgDisp("主人公","(I'm glad I did my best!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -77,7 +77,8 @@ Thank you!");
     ChMotion(5,3);
     VoicePlay("N020500000_05_090");
     MsgDisp("Hiiragi","I will start paying more attention again.
-I might be taking advantage of my position.");
+I might be taking advantage of my
+position.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝, you might be just trying
 too hard.");
     ChEye(5,4);

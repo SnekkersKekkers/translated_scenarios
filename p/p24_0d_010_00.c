@@ -37,8 +37,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P240D01000_21_000");
 MsgDisp("Michiru","Hehe.
-But it's our makeup that makes the stage so
-exciting, right?");
+But it's our makeup that makes the stage
+so exciting, right?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -66,8 +66,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("P240D01000_22_030");
 MsgDisp("Hikaru","You know, even if we don't go on stage,
-Hikaru and the others are always Cupids for
-love. But only for Mari♪");
+Hikaru and the others are always Cupids
+for love. But only for Mari♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

@@ -23,8 +23,8 @@ I lost.");
     ChMotion(2,0);
     VoicePlay("H3A0200001_02_010");
     MsgDisp("Sassa","Guess so.
-I do sports too, so I get that you don't want
-any encouragement right now.");
+I do sports too, so I get that you don't
+want any encouragement right now.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

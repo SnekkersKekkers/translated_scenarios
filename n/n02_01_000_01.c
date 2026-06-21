@@ -35,8 +35,8 @@ But you've given me some good motivation.");
     ChMotion(1,1);
     VoicePlay("N020100001_01_040");
     MsgDisp("Kazama","I can't afford to slack off either.");
-    MsgDisp("主人公","Haha, there's no way I can compete with you,
-｛Kazama＊＊｝.");
+    MsgDisp("主人公","Haha, there's no way I can compete with
+you, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -51,8 +51,8 @@ suddenly jump into first place?");
     ChMotion(1,0);
     VoicePlay("N020100001_01_060");
     MsgDisp("Kazama","I'm just joking.
-But it's true that with you at this level, it
-motivates me to compete.");
+But it's true that with you at this level,
+it motivates me to compete.");
     MsgDisp("主人公","(That's right...
 I'll really have to do better than this.)");
     break ;
@@ -69,7 +69,8 @@ Have you seen the results?");
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("N020100001_01_080");
-    MsgDisp("Kazama","You really have to aim much higher than this.");
+    MsgDisp("Kazama","You really have to aim much higher
+than this.");
     MsgDisp("主人公","You think so?");
     ChEye(1,4);
     ChMouth(1,3);
@@ -83,8 +84,8 @@ There's no mistaking it at this point.");
     ChMotion(1,3);
     VoicePlay("N020100001_01_100");
     MsgDisp("Kazama","That's the spirit!
-Let's give those top rankers a run for their
-money, the two of us.");
+Let's give those top rankers a run for
+their money, the two of us.");
     MsgDisp("主人公","(Alright, I've got to work even harder!)");
     break ;
     default :

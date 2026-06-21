@@ -23,16 +23,16 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("F032100000_21_150");
-MsgDisp("Michiru","Recently, there is a sport that the two of us
-have been watching regularly...");
+MsgDisp("Michiru","Recently, there is a sport that the two of
+us have been watching regularly...");
 MsgDisp("主人公","Wow, what sport?");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("F032100000_21_160");
 MsgDisp("Michiru","Their hair is beautifully arranged, their
-only clothing made of silk. Two competitors
-clashing with power and skill.");
+only clothing made of silk. Two
+competitors clashing with power and skill.");
 MsgDisp("主人公","(That's...)");
 BGMStop();
 MsgClose();

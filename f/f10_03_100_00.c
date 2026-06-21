@@ -33,16 +33,16 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100310000_03_030");
-MsgDisp("Honda","That means those two umbrellas are taken home
-regularly.");
+MsgDisp("Honda","That means those two umbrellas are taken
+home regularly.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("F100310000_03_040");
 MsgDisp("Honda","But I always see them, that's why I was
-observing it. I wondered if the owners would
-show up during lunch break.");
+observing it. I wondered if the owners
+would show up during lunch break.");
 MsgDisp("主人公","So, did they?");
 ChEye(3,0);
 ChMouth(3,3);

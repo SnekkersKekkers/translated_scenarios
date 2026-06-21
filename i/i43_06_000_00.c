@@ -2,7 +2,8 @@ BGOpen("ar200",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","My name is ｛主人公苗字｝.
-It's my pleasure to work here starting today.");
+It's my pleasure to work here
+starting today.");
 VoicePlay("I430600000_49_000");
 MsgDisp("Manager","Your shifts are every week on Wednesday
 and Friday.
@@ -45,8 +46,8 @@ Go do yours, too.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I430600000_06_040");
-    MsgDisp("Himuro","Don't think you can rely on me or be spoiled
-just 'cause I know you.");
+    MsgDisp("Himuro","Don't think you can rely on me or be
+spoiled just 'cause I know you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -108,8 +109,8 @@ I don't want to clean up your messes.");
     ChMotion(6,1);
     ChEyeOpenLevel(6,0);
     VoicePlay("I430600000_06_110");
-    MsgDisp("Himuro","Looking forward to it, as long as you don't
-hold me back.");
+    MsgDisp("Himuro","Looking forward to it, as long as you
+don't hold me back.");
     MsgDisp("主人公","I'll do my best!");
     ChEye(6,0);
     ChMouth(6,0);
@@ -127,7 +128,8 @@ hold me back.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I430600000_06_140");
-    MsgDisp("Himuro","There are lots of places you can work, right?");
+    MsgDisp("Himuro","There are lots of places you can
+work, right?");
     MsgDisp("主人公","Um, that's-");
     ChEye(6,0);
     ChMouth(6,0);

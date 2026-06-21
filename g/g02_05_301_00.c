@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(5,255,4,0,4,#1,#1,0,0);
 VoicePlay("G020530100_05_000");
-MsgDisp("Hiiragi","There are an incredible number of fireflies
-out tonight.");
+MsgDisp("Hiiragi","There are an incredible number of
+fireflies out tonight.");
 MsgDisp("主人公","Yeah, it's overwhelming, huh.");
 ChMotion(5,0);
 VoicePlay("G020530100_05_010");
@@ -25,8 +25,8 @@ ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("G020530100_05_040");
 MsgDisp("Hiiragi","If someone like you became student council
-president, Haba High would become even more
-wonderful.");
+president, Haba High would become even
+more wonderful.");
 MsgDisp("主人公","Ehh, me as student council president?");
 ChEye(5,0);
 ChMotion(5,4);

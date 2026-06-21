@@ -2,7 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yay, seems like it somewhat of a success!)");
+MsgDisp("主人公","(Yay, seems like it somewhat of a
+success!)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -15,8 +16,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P740100002_01_010");
-MsgDisp("Kazama","When I see that smile, I can't say bad things
-about it.
+MsgDisp("Kazama","When I see that smile, I can't say bad
+things about it.
 I'm super glad it was like a pro show.");
 MsgDisp("主人公","Yay!
 ｛Kazama＊＊｝ praised me, I'll try

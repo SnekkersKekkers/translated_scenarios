@@ -8,8 +8,8 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230201_02_010");
-MsgDisp("Sassa","It's not about what you see but who you see
-it with?
+MsgDisp("Sassa","It's not about what you see but who you
+see it with?
 Right?");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
@@ -26,15 +26,16 @@ VoicePlay("G020230201_02_030");
 MsgDisp("Sassa","I'm saying it looks beautiful because I'm
 seeing it with you.");
 MsgDisp("主人公","Y-Yeah.
-But the fireflies here are always beautiful?");
+But the fireflies here are always
+beautiful?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020230201_02_040");
 MsgDisp("Sassa","Ehhh—?
-I don't know who else you've been seeing them
-with, but.");
+I don't know who else you've been seeing
+them with, but.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -57,8 +58,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020230201_02_080");
-MsgDisp("Sassa","Actually, I've been practising what to say to
-you here since yesterday.");
+MsgDisp("Sassa","Actually, I've been practising what to say
+to you here since yesterday.");
 MsgDisp("主人公","Hehe, training just like you do for
 track, huh?");
 ChEye(2,0);
@@ -67,8 +68,8 @@ ChMotion(2,3);
 VoicePlay("G020230201_02_090");
 MsgDisp("Sassa","Exactly.
 Always plan ahead, that's my motto.");
-MsgDisp("主人公","(He's always thinking about so much different
-things for me...
+MsgDisp("主人公","(He's always thinking about so much
+different things for me...
 Thank you, ｛Sassa＊＊｝)");
 BGMStop();
 MsgClose();

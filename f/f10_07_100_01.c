@@ -30,8 +30,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F100710001_07_030");
-MsgDisp("Mikage","I've already finished changing for the day,
-so I'm all set.
+MsgDisp("Mikage","I've already finished changing for the
+day, so I'm all set.
 How do I look?");
 MsgDisp("主人公","Hehe, yes.
 It looks good.");
@@ -48,16 +48,17 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100710001_07_050");
 MsgDisp("Mikage","Ohh, you really get it.
-The contrast between suits and coveralls is
-what's great. You've got good taste.");
+The contrast between suits and coveralls
+is what's great. You've got good taste.");
 MsgDisp("主人公","You bike to work in overalls in the
 morning, right?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F100710001_07_060");
-MsgDisp("Mikage","Yeah, I can just go straight to the gardening
-club's field, so it's efficient, right?");
+MsgDisp("Mikage","Yeah, I can just go straight to the
+gardening club's field, so it's
+efficient, right?");
 MsgDisp("主人公","Is that the suit over there?");
 ChEye(7,0);
 ChMouth(7,0);

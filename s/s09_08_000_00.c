@@ -42,8 +42,8 @@ Let's get in line.");
     ChOpen(8,255,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("S090800000_08_030");
-    MsgDisp("Shirahane","Look there, that crowd of people is probably
-where they're doin' fortunes.");
+    MsgDisp("Shirahane","Look there, that crowd of people is
+probably where they're doin' fortunes.");
     MsgDisp("主人公","Fortunes, huh...");
     MsgSel("Let's draw fortunes.","It's too crowded.");
     switch (MsgSelRsltGet()){
@@ -124,8 +124,8 @@ That means I can't get a bad result!");
         VoicePlay("S090800000_08_130");
         MsgDisp("Shirahane","Alright!
 Onto the next!");
-        MsgDisp("主人公","(I wonder why he was so worried about drawing
-fortunes?)");
+        MsgDisp("主人公","(I wonder why he was so worried about
+drawing fortunes?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

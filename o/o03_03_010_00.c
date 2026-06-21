@@ -8,8 +8,8 @@ switch (ChPrmGet(3,6)){
     SEWait();
     ChOpen(3,30,0,0,0,#1,#1,0,0);
     VoicePlay("O030301000_03_000");
-    MsgDisp("Honda","Could it be that you're still looking for a
-partner?");
+    MsgDisp("Honda","Could it be that you're still looking for
+a partner?");
     MsgDisp("主人公","Ah, ｛Honda＊＊｝.
 Yeah, I haven't found one yet.");
     ChEye(3,0);
@@ -69,8 +69,8 @@ What are you talking about?");
     ChMotion(3,0);
     VoicePlay("O030301000_03_070");
     MsgDisp("Honda","You already have a partner for the
-three-legged race, right? So I was going to
-ask that person to switch with me.");
+three-legged race, right? So I was going
+to ask that person to switch with me.");
     MsgDisp("主人公","Um, I don't have a partner yet, you know?");
     ChEye(3,5);
     ChMouth(3,4);

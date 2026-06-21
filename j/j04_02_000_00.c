@@ -30,7 +30,8 @@ switch (ChPrmGet(2,6)){
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("J040200000_02_030");
-        MsgDisp("Sassa","Next time, I'll ask you on a day you're free.");
+        MsgDisp("Sassa","Next time, I'll ask you on a day
+you're free.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
@@ -100,7 +101,8 @@ See you later.");
         ChClose(2);
         Wait(30);
         MsgDisp("主人公","(He invited me to join him...
-I wonder what he wanted this coming Sunday?)");
+I wonder what he wanted this coming
+Sunday?)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

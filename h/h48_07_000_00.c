@@ -19,8 +19,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("H480700000_07_020");
-MsgDisp("Mikage","Then I'll cheer quietly, so I don't disrupt
-your performance.");
+MsgDisp("Mikage","Then I'll cheer quietly, so I don't
+disrupt your performance.");
 MsgDisp("主人公","Yes, thank you very much.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -31,8 +31,8 @@ can, okay?
 Good luck.");
 MsgDisp("主人公","Yes, I'll be doing my best as well!");
 MsgDisp("主人公","(Alright!
-I'll give a performance worth showing off to
-｛Mikage＊＊｝!)");
+I'll give a performance worth showing off
+to ｛Mikage＊＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

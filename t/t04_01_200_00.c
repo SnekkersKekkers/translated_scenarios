@@ -5,10 +5,10 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("T040120000_01_000");
-MsgDisp("Kazama","That's right, we all used to go to the school
-cafeteria together, right? Even though we
-didn't ask for it, that lady would give us
-extra large portions.");
+MsgDisp("Kazama","That's right, we all used to go to the
+school cafeteria together, right? Even
+though we didn't ask for it, that lady
+would give us extra large portions.");
 MsgClose();
 StlOpen("ev_01_26");
 BGMPlay("BGM_PROLOGUE",0.01);

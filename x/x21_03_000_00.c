@@ -32,14 +32,14 @@ ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("X210300000_03_040");
 MsgDisp("Honda","Being Rose Queen isn't about appearance
-alone, but also brains and beauty— the face
-of Habataki High School.");
+alone, but also brains and beauty— the
+face of Habataki High School.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("X210300000_03_050");
-MsgDisp("Honda","I can proudly say that you have the charm to
-own that title of \"Rose Queen\".");
+MsgDisp("Honda","I can proudly say that you have the charm
+to own that title of \"Rose Queen\".");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

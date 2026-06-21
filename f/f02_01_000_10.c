@@ -12,8 +12,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F020100010_01_000");
 MsgDisp("Kazama","Why are you getting nervous now?");
-MsgDisp("主人公","Well, Haba High's school festival is centred
-around the play, right?
+MsgDisp("主人公","Well, Haba High's school festival is
+centred around the play, right?
 I want it to be a success.");
 ChEye(1,4);
 ChMouth(1,3);

@@ -1,21 +1,23 @@
 MsgClose();
 ChOpen(2,255,4,0,2,#1,#1,0,0);
 VoicePlay("G020210201_02_000");
-MsgDisp("Sassa","There are so many of them, but where do they
-hide during the day?");
+MsgDisp("Sassa","There are so many of them, but where do
+they hide during the day?");
 MsgDisp("主人公","They're probably somewhere in the spring.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020210201_02_010");
 MsgDisp("Sassa","Yeah.
-You have to shine brightly to be noticed...");
+You have to shine brightly to be
+noticed...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210201_02_020");
 MsgDisp("Sassa","I realised I need to do the same.
-I need to make myself more noticeable to you.");
+I need to make myself more noticeable
+to you.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -24,7 +26,8 @@ VoicePlay("G020210201_02_030");
 MsgDisp("Sassa","It's fun just going out together, but I have
 to go like it's a competition every time.
 Otherwise you'll never notice me.");
-MsgDisp("主人公","There's no way I wouldn't notice ｛Sassa＊＊｝?");
+MsgDisp("主人公","There's no way I wouldn't notice
+｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,3);

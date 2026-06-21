@@ -7,8 +7,8 @@ ChOpen(21,35,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("I562100006_21_000");
 MsgDisp("Michiru","Hey, Mari.
-Could you please put these extra straw rice
-cakes in the showcase?");
+Could you please put these extra straw
+rice cakes in the showcase?");
 MsgDisp("主人公","Ah, sure.
 There- ah∈");
 ChEye(21,5);
@@ -21,7 +21,8 @@ ChMotion(21,4);
 VoicePlay("I562100006_21_010");
 MsgDisp("Michiru","Wait...are you okay?");
 MsgDisp("主人公","I'm fine.
-But all the warabi mochi fell on the floor...");
+But all the warabi mochi fell on the
+floor...");
 ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);

@@ -26,7 +26,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("X210100000_01_030");
-MsgDisp("Kazama","I've already known for 10 years before this.
+MsgDisp("Kazama","I've already known for 10 years
+before this.
 All of your great qualities.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -52,8 +53,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("X210100000_01_060");
-MsgDisp("Kazama","That's why, it is only right that you became
-Rose Queen.");
+MsgDisp("Kazama","That's why, it is only right that you
+became Rose Queen.");
 MsgDisp("主人公","Thank you.
 I'm happy to hear ｛Kazama＊＊｝ say it
 like that.");
@@ -72,7 +73,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
 VoicePlay("X210100000_01_080");
-MsgDisp("Kazama","And that's why, you should keep me in mind.");
+MsgDisp("Kazama","And that's why, you should keep me
+in mind.");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

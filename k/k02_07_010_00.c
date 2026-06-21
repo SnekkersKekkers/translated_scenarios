@@ -49,7 +49,8 @@ ChMouth(7,3);
 ChMotion(7,2);
 ChEyeOpenLevel(7,7);
 VoicePlay("K020701000_07_050");
-MsgDisp("Mikage","Yeah. As long as I live, I won't forget it.");
+MsgDisp("Mikage","Yeah.
+As long as I live, I won't forget it.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -58,7 +59,8 @@ VoicePlay("K020701000_07_060");
 MsgDisp("Mikage","Well, then.
 Sorry I kept you this late.
 Looking forward to this year.");
-MsgDisp("主人公","Yes, please take care of me again this year!");
+MsgDisp("主人公","Yes, please take care of me again
+this year!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(7);

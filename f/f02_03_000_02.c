@@ -6,7 +6,8 @@ ChMotion(3,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Hey, did you know?
-The campus church is surrounded by rumours.");
+The campus church is surrounded by
+rumours.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
@@ -24,8 +25,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("F020300002_03_020");
-MsgDisp("Honda","To be honest, I was interested in the legends
-of the church.
+MsgDisp("Honda","To be honest, I was interested in the
+legends of the church.
 So I investigated.");
 ChEye(3,2);
 ChMouth(3,4);
@@ -40,8 +41,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("F020300002_03_040");
 MsgDisp("Honda","Yeah yeah!
-So I'm really excited about the legend you've
-got! What's it about?");
+So I'm really excited about the legend
+you've got! What's it about?");
 MsgDisp("主人公","Um, so you know the stained glass in
 the church?
 I want to know—");
@@ -50,7 +51,8 @@ ChMouth(3,3);
 ChMotion(3,5);
 VoicePlay("F020300002_03_050");
 MsgDisp("Honda","I know, I know!
-You want to know about the secret society∋");
+You want to know about the secret
+society∋");
 ChMotion(3,4);
 VoicePlay("F020300002_03_060");
 MsgDisp("Honda","The stained glass is a secret code, and a
@@ -62,5 +64,5 @@ VoicePlay("F020300002_03_070");
 MsgDisp("Honda","Unfortunately, that one's been debunked too.
 At this point, finding new legends is a real
 struggle...");
-MsgDisp("主人公","(...we kept talking about something like that
-as we walked home.)");
+MsgDisp("主人公","(...we kept talking about something like
+that as we walked home.)");

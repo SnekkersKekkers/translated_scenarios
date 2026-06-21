@@ -17,8 +17,8 @@ switch (ChPrmGet(2,6)){
     ChMouth(2,2);
     ChMotion(2,2);
     VoicePlay("H2A0200001_02_000");
-    MsgDisp("Sassa","So at the very end, the championship was just
-out of reach...");
+    MsgDisp("Sassa","So at the very end, the championship was
+just out of reach...");
     ChEye(2,2);
     ChMouth(2,0);
     ChMotion(2,0);

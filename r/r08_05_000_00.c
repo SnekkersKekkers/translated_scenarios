@@ -8,21 +8,22 @@ ChOpen(5,34,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoiceEVSPlay(5);
 VoicePlay("R080500000_05_000");
-MsgDisp("Hiiragi","｛主人公｝, this is the last party here, huh.");
+MsgDisp("Hiiragi","｛主人公｝, this is the last party
+here, huh.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝, were you able to enjoy it?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("R080500000_05_010");
 MsgDisp("Hiiragi","Yes.
-I get invited to many parties because of my
-job, but this one was special.");
+I get invited to many parties because of
+my job, but this one was special.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("R080500000_05_020");
-MsgDisp("Hiiragi","At Habataki High, I learned how important it
-is that I have fun.");
+MsgDisp("Hiiragi","At Habataki High, I learned how important
+it is that I have fun.");
 MsgDisp("主人公","Yeah...");
 ChEye(5,4);
 ChMouth(5,4);
@@ -53,8 +54,8 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("R080500000_05_060");
-MsgDisp("Hiiragi","But this year, I purely enjoyed the party as
-a guest.");
+MsgDisp("Hiiragi","But this year, I purely enjoyed the party
+as a guest.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -113,13 +114,13 @@ MsgDisp("主人公","Huh... Huuuh∋");
 StlEye(5,0);
 StlMouth(5,0);
 VoicePlay("R080500000_05_130");
-MsgDisp("Hiiragi","This holiday ornament that has been with me
-since I was a child is my other half.");
+MsgDisp("Hiiragi","This holiday ornament that has been with
+me since I was a child is my other half.");
 StlEyeOpenLevel(5,5,1);
 StlMouth(5,2);
 VoicePlay("R080500000_05_140");
-MsgDisp("Hiiragi","I am the light that guards and guides you; my
-soul is yours for all eternity.");
+MsgDisp("Hiiragi","I am the light that guards and guides you;
+my soul is yours for all eternity.");
 SEPlay("EV_SE_741",0.5,0.7);
 SEPlay("EV_SE_842",0,0.3);
 VoicePlay("R080500000_39_030");
@@ -145,9 +146,11 @@ ChOpen(5,34,4,4,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("R080500000_05_150");
 MsgDisp("Hiiragi","My apologies.
-I guess I can't fully be a guest after all.");
+I guess I can't fully be a guest
+after all.");
 MsgDisp("主人公","Hehe!
-It was a little embarrassing but it was fun.");
+It was a little embarrassing but it
+was fun.");
 ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -162,7 +165,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(And just like that, my last Christmas Eve of
-my high school life is over...)");
+MsgDisp("主人公","(And just like that, my last Christmas Eve
+of my high school life is over...)");
 MsgClose();
 ChPrmTblAdd(5,0);

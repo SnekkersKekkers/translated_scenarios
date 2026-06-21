@@ -7,7 +7,8 @@ VoicePlay("E010630200_06_000");
 MsgDisp("Himuro?","Reiichi-san, what do you think of that
 Japanese sweet shop over there?");
 VoicePlay("E010630200_32_000");
-MsgDisp("VP Himuro?","I think if it's that product, it'll be good.");
+MsgDisp("VP Himuro?","I think if it's that product, it'll
+be good.");
 MsgDisp("主人公","(That voice...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
@@ -50,7 +51,8 @@ ChMotion(6,0);
 ChPosition(6,0);
 VoicePlay("E010630200_06_030");
 MsgDisp("Himuro","Ah- ... He's gone.");
-MsgDisp("主人公","It's unusual to see Himuro-sensei shopping.");
+MsgDisp("主人公","It's unusual to see Himuro-sensei
+shopping.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -129,7 +131,7 @@ ChClose(6,0,30);
 ChClose(32,0,30);
 ChPosition(6,0);
 MsgDisp("主人公","(Hehe!
-In front of Himuro-sensei, ｛Himuro＊＊｝ kinda
-looks like a lost cat.)");
+In front of Himuro-sensei, ｛Himuro＊＊｝
+kinda looks like a lost cat.)");
 MsgClose();
 ScrFadeOut(0,0);

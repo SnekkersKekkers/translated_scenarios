@@ -1,14 +1,14 @@
 BGOpen("sc816",2);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's past lights out time, I have to go to
-bed early...)");
+MsgDisp("主人公","(It's past lights out time, I have to go
+to bed early...)");
 SEPlay("EV_SE_670");
 SEWait();
 SEPlay("EV_SE_579");
 MsgDisp("主人公","(Eh∋
-Who could it be at this hour......wait, from
-｛Himuro＊＊｝?)");
+Who could it be at this hour......wait,
+from ｛Himuro＊＊｝?)");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEStop("EV_SE_579",0);
 SEWait();

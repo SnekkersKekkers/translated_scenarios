@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("F020400002_04_000");
-MsgDisp("Nanatsumori","Apparently, there's a legendary church on the
-Haba High campus.
+MsgDisp("Nanatsumori","Apparently, there's a legendary church on
+the Haba High campus.
 And a handful of rumours surrounding it.");
 MsgDisp("主人公","Right.");
 ChEye(4,0);
@@ -48,7 +48,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("F020400002_04_060");
 MsgDisp("Nanatsumori","You can't do anything but laugh, right?
-Still, it would be amazing if something like
-that were real...");
+Still, it would be amazing if something
+like that were real...");
 MsgDisp("主人公","(What?
-｛Nanatsumori＊｝, you look weirdly happy...)");
+｛Nanatsumori＊｝, you look weirdly
+happy...)");

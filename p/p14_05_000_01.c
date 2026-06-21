@@ -18,16 +18,16 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("P140500001_05_020");
 MsgDisp("Hiiragi","I see.
-It's a user-friendly design, but whether it's
-a maze you can get lost in...");
+It's a user-friendly design, but whether
+it's a maze you can get lost in...");
 MsgDisp("主人公","Ugh...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P140500001_05_030");
-MsgDisp("Hiiragi","Hmm, it's quite innovative to make you worry
-after you've reached the goal.");
+MsgDisp("Hiiragi","Hmm, it's quite innovative to make you
+worry after you've reached the goal.");
 MsgDisp("主人公","(Hmm...
 I should have done more preparation...)");
 MsgClose();

@@ -36,7 +36,8 @@ Of course.");
 I felt like I gained a lot more from going
 with you than I would have alone.");
     MsgDisp("主人公","That's my line.
-｛Honda＊＊｝'s commentary felt very luxurious.");
+｛Honda＊＊｝'s commentary felt very
+luxurious.");
     ChEye(3,3);
     ChMouth(3,3);
     ChMotion(3,3,1);

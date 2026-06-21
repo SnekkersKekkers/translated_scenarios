@@ -34,23 +34,24 @@ SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoiceEVSPlay(2);
 VoicePlay("G110200602_02_020");
-MsgDisp("Sassa","｛主人公｝, thanks to you, I've been able to
-practise to my fullest these days.");
+MsgDisp("Sassa","｛主人公｝, thanks to you, I've been able
+to practise to my fullest these days.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200602_02_030");
 MsgDisp("Sassa","This is my last Inter-High.
-Maybe I can give my seniors some good news.");
+Maybe I can give my seniors some
+good news.");
 MsgDisp("主人公","That's right.
-If ｛Sassa＊＊｝ can give it his all until the
-end, I'm sure they'll be very happy.");
+If ｛Sassa＊＊｝ can give it his all until
+the end, I'm sure they'll be very happy.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200602_02_040");
-MsgDisp("Sassa","I'm only doing this for myself, but everyone
-is cheering me on.
+MsgDisp("Sassa","I'm only doing this for myself, but
+everyone is cheering me on.
 I couldn't be happier.");
 ChEye(2,0);
 ChMouth(2,0);
@@ -78,6 +79,7 @@ SEStop("EV_SE_FOOT_037",2);
 MsgClose();
 ScrFadeOut(0,0);
 MsgDisp("主人公","(｛Sassa＊＊｝...
-There isn't long until the last Inter-High!)");
+There isn't long until the last
+Inter-High!)");
 MsgClose();
 ChClose(2,0,0);

@@ -9,8 +9,8 @@ switch (ChPrmGet(7,6)){
     VoicePlay("Q090700000_07_000");
     MsgDisp("Mikage","Good morning, you look excited.");
     MsgDisp("主人公","Yes.
-Extracurricular lesson Nagasaki edition, I'm
-looking forward to it.");
+Extracurricular lesson Nagasaki edition,
+I'm looking forward to it.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -50,13 +50,14 @@ forward to it.");
     ChMotion(7,2);
     VoicePlay("Q090700000_07_060");
     MsgDisp("Mikage","Is that so.
-Now I'll have to live up to that expectation.");
+Now I'll have to live up to that
+expectation.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("Q090700000_07_070");
-    MsgDisp("Mikage","Extracurricular lesson Nagasaki version, the
-last day has begun!");
+    MsgDisp("Mikage","Extracurricular lesson Nagasaki version,
+the last day has begun!");
     MsgDisp("主人公","Yes!");
     break ;
     default :

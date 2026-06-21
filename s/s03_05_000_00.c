@@ -24,7 +24,8 @@ Happy New Year!");
 Holiday Greeting Cards are good but talking
 directly like this is also good, isn't it?");
     MsgDisp("主人公","Hehe, yep.
-I wonder if we can go to the shrine together.");
+I wonder if we can go to the shrine
+together.");
     break ;
     case 4:
     case 5:
@@ -33,8 +34,8 @@ I wonder if we can go to the shrine together.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝? I...");
     VoicePlay("S030500000_05_050");
     MsgDisp("Hiiragi","Yup. Happy New Year.
-I'm looking forward to spending time with you
-again this year.");
+I'm looking forward to spending time with
+you again this year.");
     MsgDisp("主人公","Same here!
 ｛Hiiragi＊＊＊｝, do you have time today?
 Would you like to visit the shrine?");

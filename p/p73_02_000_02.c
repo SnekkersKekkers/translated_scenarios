@@ -20,9 +20,9 @@ I think I was able to make it pretty but...)");
     VoicePlay("P730200002_02_010");
     MsgDisp("Sassa","It's nice.
 You're a bride this year.");
-    MsgDisp("主人公","Yeah. It's the handicraft's club tradition,
-the last cultural festival we'll do wedding
-dresses.");
+    MsgDisp("主人公","Yeah. It's the handicraft's club
+tradition, the last cultural festival
+we'll do wedding dresses.");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -38,8 +38,9 @@ dresses.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200002_02_040");
-    MsgDisp("Sassa","You look so good that I don't care about all
-the things I was going to talk to you about.");
+    MsgDisp("Sassa","You look so good that I don't care about
+all the things I was going to talk to
+you about.");
     MsgDisp("主人公","Thank you...");
     SEPlay("EV_SE_038");
     SEWait();
@@ -84,9 +85,9 @@ decided.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P730200002_02_080");
-    MsgDisp("Sassa","Sorry to everyone else. but when you're this
-lovely and cute, you're already overall
-victorious.");
+    MsgDisp("Sassa","Sorry to everyone else. but when you're
+this lovely and cute, you're already
+overall victorious.");
     MsgDisp("主人公","It's not a matter of win or lose?
 But, thank you.");
     SEPlay("EV_SE_038");

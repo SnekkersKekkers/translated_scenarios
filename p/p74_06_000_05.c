@@ -16,8 +16,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P740600005_06_010");
-MsgDisp("Himuro","...Even if you fell today, isn't it still a
-good thing?");
+MsgDisp("Himuro","...Even if you fell today, isn't it still
+a good thing?");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,0);

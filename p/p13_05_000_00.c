@@ -33,7 +33,8 @@ drink freshly squeezed milk?");
     ChEyeOpenLevel(5,9);
     VoicePlay("P130500000_05_020");
     MsgDisp("Hiiragi","Wow, that's overwhelming...
-At any rate, I'll take the challenge, please.");
+At any rate, I'll take the
+challenge, please.");
     MsgDisp("主人公","Yay♪ Entry for one please～!");
     MsgClose();
     ScrFadeOut(0,0);
@@ -42,8 +43,8 @@ At any rate, I'll take the challenge, please.");
     case 5:
     ScrFadeIn(0);
     MsgDisp("主人公","It's a maze～
-If you can reach the finish line, you get to
-drink freshly squeezed milk～");
+If you can reach the finish line, you get
+to drink freshly squeezed milk～");
     MsgClose();
     ChOpen(5,254,0,3,2,#1,#1,0,0);
     VoicePlay("P130500000_05_030");

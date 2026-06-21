@@ -17,8 +17,8 @@ Is that okay?");
     BGMStop();
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(Going out with ｛Mikage＊＊｝, just the two
-of us... It's almost like a date.
+    MsgDisp("主人公","(Going out with ｛Mikage＊＊｝, just the
+two of us... It's almost like a date.
 My heart's racing a bit!)");
     SEStop("EV_SE_GAYA_018",1);
     break ;

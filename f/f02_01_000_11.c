@@ -13,18 +13,18 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100011_01_000");
 MsgDisp("Kazama","What's with...
-Well, aren't there a lot of things going on
-over winter break?");
+Well, aren't there a lot of things going
+on over winter break?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F020100011_01_010");
-MsgDisp("Kazama","Christmas, New Year's Eve, and visiting the
-shrine on New Year's Day?");
+MsgDisp("Kazama","Christmas, New Year's Eve, and visiting
+the shrine on New Year's Day?");
 MsgDisp("主人公","That's for sure.
-Winter vacation is short, but there are a lot
-of big events going on...");
+Winter vacation is short, but there are a
+lot of big events going on...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

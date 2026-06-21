@@ -3,8 +3,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0);
 VoicePlay("G020440003_04_000");
-MsgDisp("Nanatsumori","I'm bad with bugs, but fireflies at night are
-a different story.");
+MsgDisp("Nanatsumori","I'm bad with bugs, but fireflies at night
+are a different story.");
 MsgDisp("主人公","Hehe.");
 ChMotion(4,1,1);
 VoicePlay("G020440003_04_010");
@@ -20,8 +20,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("G020440003_04_030");
 MsgDisp("Nanatsumori","To look beautiful to others, you cover up
-parts to be invisible and dress other parts
-to the fullest.");
+parts to be invisible and dress other
+parts to the fullest.");
 ChEye(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020440003_04_040");
@@ -32,11 +32,11 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("G020440003_04_050");
-MsgDisp("Nanatsumori","It's really amazing how fireflies manage to
-captivate even humans.");
+MsgDisp("Nanatsumori","It's really amazing how fireflies manage
+to captivate even humans.");
 MsgDisp("主人公","Yeah, you're right!
-...Ah, ｛Nanatsumori＊｝, a firefly landed on
-your shoulder.");
+...Ah, ｛Nanatsumori＊｝, a firefly landed
+on your shoulder.");
 ChEye(4,5);
 ChMouth(4,5);
 ChMotion(4,5,1);

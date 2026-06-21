@@ -30,7 +30,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
-MsgDisp("Himuro","Sigh...you'll betray me even at the very end.");
+MsgDisp("Himuro","Sigh...you'll betray me even at the
+very end.");
 MsgDisp("主人公","Hehe.");
 VoicePlay("T020601000_06_230");
 ChEye(6,4);

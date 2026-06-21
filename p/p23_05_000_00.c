@@ -40,15 +40,15 @@ nervous.");
     ChMotion(5,4);
     VoicePlay("P230500000_05_030");
     MsgDisp("Hiiragi","Yes.
-After all, this play was built on the efforts
-of you and everyone else.");
+After all, this play was built on the
+efforts of you and everyone else.");
     ChEye(5,0);
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("P230500000_05_040");
-    MsgDisp("Hiiragi","For the sake of everyone who said they were
-anticipating it, we will definitely make this
-play a success.");
+    MsgDisp("Hiiragi","For the sake of everyone who said they
+were anticipating it, we will definitely
+make this play a success.");
     MsgDisp("主人公","That's right...");
     ChEye(5,4);
     ChMouth(5,4);

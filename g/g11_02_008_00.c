@@ -32,8 +32,8 @@ ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200800_02_030");
 MsgDisp("Sassa","Yeah.
-My times were good, but I also took first in
-all 4 events I registered for.");
+My times were good, but I also took first
+in all 4 events I registered for.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -44,12 +44,12 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G110200800_02_050");
-MsgDisp("Sassa","It feels like I was made for first place at
-sports day.
+MsgDisp("Sassa","It feels like I was made for first place
+at sports day.
 Is that childish?");
 MsgDisp("主人公","Not at all.
-I think it's amazing you can keep that place
-for so long.");
+I think it's amazing you can keep that
+place for so long.");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
@@ -73,6 +73,7 @@ ChClose(2,0,0);
 BGOpen("ex110",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(He's gone...huh?
-Wasn't this supposed to be a cooldown run?)");
+Wasn't this supposed to be a
+cooldown run?)");
 MsgClose();
 ScrFadeOut(0,0);

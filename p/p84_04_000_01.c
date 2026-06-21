@@ -25,7 +25,8 @@ VoicePlay("P840400001_04_020");
 MsgDisp("Nanatsumori","Come on, get another one quickly.
 It's already been some time since it was
 requested.");
-MsgDisp("主人公","I see! Umm, the spare blackout curtain—Ah!");
+MsgDisp("主人公","I see!
+Umm, the spare blackout curtain—Ah!");
 SEPlay("EV_SE_685");
 ChEye(4,1);
 ChMouth(4,1);

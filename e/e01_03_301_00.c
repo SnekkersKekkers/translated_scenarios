@@ -32,16 +32,16 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010330100_05_010");
-MsgDisp("Hiiragi","Good afternoon. Yes, I was at a loss because
-I had so many things to buy.
+MsgDisp("Hiiragi","Good afternoon. Yes, I was at a loss
+because I had so many things to buy.
 Honda-kun taught me an effective strategy.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("E010330100_03_020");
-MsgDisp("Honda","Yep yep. Yano-kun has a lot of shopping to do
-so the strategy will make a big difference on
-how long it all takes.");
+MsgDisp("Honda","Yep yep. Yano-kun has a lot of shopping to
+do so the strategy will make a big
+difference on how long it all takes.");
 MsgDisp("主人公","That's true.
 As expected of ｛Honda＊＊｝.");
 ChSet(3,0);
@@ -69,7 +69,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010330100_03_030");
 MsgDisp("Honda","Okay, next up is you.
-How can we make your shopping more efficient?");
+How can we make your shopping more
+efficient?");
 MsgDisp("主人公","Eh? But I'm already done for today.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -91,7 +92,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(3);
-MsgDisp("主人公","(Hmm, but I'd prefer to take my time when it
-comes to choosing clothes and accessories...)");
+MsgDisp("主人公","(Hmm, but I'd prefer to take my time when
+it comes to choosing clothes and
+accessories...)");
 MsgClose();
 ScrFadeOut(0,0);

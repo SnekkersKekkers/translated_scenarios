@@ -79,7 +79,8 @@ I hope you'll like your present.");
     VoicePlay("K010100100_01_050");
     MsgDisp("Kazama","Well, I'm already happy enough that you
 remembered.");
-    MsgDisp("主人公","Gosh. Alright already, open up your present.");
+    MsgDisp("主人公","Gosh.
+Alright already, open up your present.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

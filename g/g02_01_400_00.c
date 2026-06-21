@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(1,255,7,0,0,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020140000_01_000");
-MsgDisp("Kazama","When I think about how each of these lights
-is a life, that's a bit scary.");
+MsgDisp("Kazama","When I think about how each of these
+lights is a life, that's a bit scary.");
 MsgDisp("主人公","Yeah, but that might be why they're
 beautiful.");
 ChMotion(1,0);
@@ -43,8 +43,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020140000_01_060");
-MsgDisp("Kazama","But how do you decide your life partner out
-of all your options?");
+MsgDisp("Kazama","But how do you decide your life partner
+out of all your options?");
 MsgDisp("主人公","Ummm, ｛Kazama＊＊｝?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -59,9 +59,9 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020140000_01_080");
-MsgDisp("Kazama","And I'm sure the fireflies here would have a
-bit of an easier time too if you'd tell them
-the rules and criteria...");
+MsgDisp("Kazama","And I'm sure the fireflies here would have
+a bit of an easier time too if you'd tell
+them the rules and criteria...");
 MsgDisp("主人公","(｛Kazama＊＊｝...
 It doesn't sound like you're talking about
 fireflies...)");

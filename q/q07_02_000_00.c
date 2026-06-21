@@ -17,7 +17,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_010");
-MsgDisp("Sassa","Yeah. We came at the right time, didn't we?
+MsgDisp("Sassa","Yeah.
+We came at the right time, didn't we?
 This kind of thing is important.");
 MsgDisp("主人公","Hehe, yes.");
 ChEye(2,0);
@@ -90,7 +91,8 @@ ChClose(2);
 MsgClose();
 ScrFadeOut(0);
 SEWait();
-MsgDisp("主人公","(After this, we'll move on to Nagasaki City.
+MsgDisp("主人公","(After this, we'll move on to
+Nagasaki City.
 Let's enjoy Huis ten Bosch until the end!)");
 BGMStop(2);
 Wait(60,0);
@@ -113,8 +115,8 @@ ChMotion(2,0);
 VoicePlay("Q070200000_02_110");
 MsgDisp("Sassa","Let's take a rest here, then.");
 MsgDisp("主人公","Yeah.
-The building and the flowerbeds are beautiful
-and relaxing.");
+The building and the flowerbeds are
+beautiful and relaxing.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -126,8 +128,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_130");
-MsgDisp("Sassa","There were no planes back then, so I guess it
-was hard to return home.");
+MsgDisp("Sassa","There were no planes back then, so I guess
+it was hard to return home.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -141,8 +143,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q070200000_02_150");
-MsgDisp("Sassa","It's like how I'd quit Track and Field if I
-don't win all my matches during the
+MsgDisp("Sassa","It's like how I'd quit Track and Field if
+I don't win all my matches during the
 Inter-High.");
 MsgDisp("主人公","Eh? ...｛Sassa＊＊｝?");
 ChEye(2,0);
@@ -178,17 +180,17 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_200");
 MsgDisp("Sassa","Thank you.
-When I think about you watching over me like
-that──");
+When I think about you watching over me
+like that──");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q070200000_02_210");
-MsgDisp("Sassa","Like the merchants who came here...maybe I'm
-also going to push myself into a corner, with
-no way out.");
-MsgDisp("主人公","(I'd be happy if I could help ｛Sassa＊＊｝ in
-any way...)");
+MsgDisp("Sassa","Like the merchants who came here...maybe
+I'm also going to push myself into a
+corner, with no way out.");
+MsgDisp("主人公","(I'd be happy if I could help ｛Sassa＊＊｝
+in any way...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

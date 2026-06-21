@@ -1,8 +1,8 @@
-MsgDisp("","We'll be spending less time together than we
-did in high school, but that's okay.");
+MsgDisp("","We'll be spending less time together than
+we did in high school, but that's okay.");
 MsgDisp("","One day, when we make our vows to each
-other, I hope we will be blessed with grand
-wedding bells.");
+other, I hope we will be blessed with
+grand wedding bells.");
 MsgDisp("","I will remember the sound of the bells on
 that day and pledge my eternal love!");
 MsgClear();

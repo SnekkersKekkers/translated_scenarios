@@ -20,8 +20,8 @@ Thanks.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Could it be that I put something in that he
-doesn't like...?)");
+    MsgDisp("主人公","(Could it be that I put something in that
+he doesn't like...?)");
     break ;
     case 3:
     ChEye(4,0);
@@ -46,8 +46,8 @@ Thank you.");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Could it be that I put something in that he
-doesn't like...?)");
+    MsgDisp("主人公","(Could it be that I put something in that
+he doesn't like...?)");
     break ;
     case 4:
     case 5:
@@ -79,8 +79,8 @@ I won't lose, alright?");
     BGMStop();
     MsgClose();
     ChClose(4);
-    MsgDisp("主人公","(Could it be that I put something in that he
-doesn't like...?)");
+    MsgDisp("主人公","(Could it be that I put something in that
+he doesn't like...?)");
     break ;
     default :
     DbgAssert(1);

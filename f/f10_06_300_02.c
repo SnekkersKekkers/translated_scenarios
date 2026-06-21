@@ -27,7 +27,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100630002_22_010");
 MsgDisp("Hikaru","Get this, Mari!
-Inorinrin is going to call Hikaru \"Pikarin\"!");
+Inorinrin is going to call Hikaru
+\"Pikarin\"!");
 MsgDisp("主人公","Eh, really?
 I'm glad.");
 ChEye(6,0);
@@ -41,8 +42,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F100630002_06_030");
-MsgDisp("Himuro","Also, once I call you that, you can't call me
-by that stupid name like \"Inorinrin\".
+MsgDisp("Himuro","Also, once I call you that, you can't call
+me by that stupid name like \"Inorinrin\".
 Is that okay?");
 ChEye(21,0);
 ChMouth(21,0);
@@ -68,8 +69,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100630002_22_030");
 MsgDisp("Hikaru","Ah, wait a minute!
-If you're going to call Hikaru anything, it
-should be something cuter, right～?");
+If you're going to call Hikaru anything,
+it should be something cuter, right～?");
 ChEye(6,3);
 ChMouth(6,0);
 ChMotion(6,5);
@@ -109,14 +110,15 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F100630002_22_060");
-MsgDisp("Hikaru","Ah! You were quick to call Hikaru that! Yay♪");
+MsgDisp("Hikaru","Ah! You were quick to call Hikaru that!
+Yay♪");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("F100630002_06_070");
 MsgDisp("Himuro","...Ha∋
-I didn't really call you that just now, I was
-just repeating it to yo—");
+I didn't really call you that just now, I
+was just repeating it to yo—");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
@@ -131,7 +133,8 @@ VoicePlay("F100630002_06_080");
 MsgDisp("Himuro","Eh! No∋
 That's not what I meant...!");
 MsgDisp("主人公","(Even ｛Himuro＊＊｝ is no match for
-｛みちる＊｝ and ｛ひかる＊｝, huh?)");
+｛みちる＊｝ and
+｛ひかる＊｝, huh?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

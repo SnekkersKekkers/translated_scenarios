@@ -19,15 +19,15 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020310200_03_030");
-MsgDisp("Honda","I've always felt comfortable with how things
-are now. You show interest in what I say, and
-I really enjoy our chats.");
+MsgDisp("Honda","I've always felt comfortable with how
+things are now. You show interest in what
+I say, and I really enjoy our chats.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020310200_03_040");
-MsgDisp("Honda","But after she asked, I realised I don't want
-things to stay the same.
+MsgDisp("Honda","But after she asked, I realised I don't
+want things to stay the same.
 I want to get closer to you.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -53,11 +53,12 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("G020310200_03_080");
-MsgDisp("Honda","But honestly, I'd be really happy if we could
-take our relationship to a new level!");
+MsgDisp("Honda","But honestly, I'd be really happy if
+we could take our relationship to a
+new level!");
 MsgDisp("主人公","Yeah, thanks ｛Honda＊＊｝.");
-MsgDisp("主人公","(I see, that's what ｛Honda＊＊｝ is thinking
-about...)");
+MsgDisp("主人公","(I see, that's what ｛Honda＊＊｝ is
+thinking about...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

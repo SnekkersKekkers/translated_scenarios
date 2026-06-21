@@ -49,7 +49,8 @@ I'm happy!");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100002_01_040");
-    MsgDisp("Kazama","Too bad the tuxedo wouldn't make it in time.");
+    MsgDisp("Kazama","Too bad the tuxedo wouldn't make it
+in time.");
     MsgDisp("主人公","Hehe, I'll have to go by myself for today!");
     MsgDisp("主人公","(Thanks to ｛Kazama＊＊｝, I think my nerves
 have lessened.
@@ -93,8 +94,9 @@ Thank you.");
     ChMotion(1,3,1);
     ChCheek(1,0);
     VoicePlay("P730100002_01_080");
-    MsgDisp("Kazama","Rather than a runway, wouldn't it be better
-to just go down the aisle like this?");
+    MsgDisp("Kazama","Rather than a runway, wouldn't it be
+better to just go down the aisle
+like this?");
     SEPlay("EV_SE_038");
     SEWait();
     ChMotion(1,0);

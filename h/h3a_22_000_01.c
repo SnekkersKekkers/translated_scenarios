@@ -48,8 +48,8 @@ Hikaru almost started crying.");
     ChEyeOpenLevel(22,0);
     VoicePlay("H3A2200001_22_040");
     MsgDisp("Hikaru","You might've lost the match, but Hikaru
-still has the strong and cool Mari burned in
-her mind.");
+still has the strong and cool Mari burned
+in her mind.");
     ChEye(22,4);
     ChMouth(22,0);
     ChMotion(22,0,1);

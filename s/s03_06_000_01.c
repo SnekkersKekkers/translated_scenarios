@@ -36,8 +36,8 @@ Now, what to wear?)");
     MsgDisp("Himuro","Of course I'll go.");
     MsgDisp("主人公","Really? Yay!");
     VoicePlay("S030600001_06_050");
-    MsgDisp("Himuro","I'm going to pick you up, so take your time
-and get ready.");
+    MsgDisp("Himuro","I'm going to pick you up, so take your
+time and get ready.");
     MsgDisp("主人公","Okay, got it.
 Thank you so much!");
     SEPlay("SYS_SE_PHONE_POWER_ON");

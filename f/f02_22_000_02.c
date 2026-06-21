@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChMotion(22,3,1);
 VoicePlay("F022200002_22_000");
 MsgDisp("Hikaru","Hey hey.
-The new rumour about the church on our school
-grounds is crazy...");
+The new rumour about the church on our
+school grounds is crazy...");
 MsgDisp("主人公","(A new rumour huh...)");
 ChEye(22,0);
 ChMouth(22,3);
@@ -21,9 +21,9 @@ ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F022200002_22_020");
-MsgDisp("Hikaru","Apparently at that church, they hold a men's
-fashion show on full moon nights, and a
-women's one on new moon nights.");
+MsgDisp("Hikaru","Apparently at that church, they hold a
+men's fashion show on full moon nights,
+and a women's one on new moon nights.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -50,8 +50,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200002_22_060");
 MsgDisp("Hikaru","What's more, the models are from another
-dimension. Rumour says legendary high school
-model Hazuki Kei is there too!");
+dimension. Rumour says legendary high
+school model Hazuki Kei is there too!");
 MsgDisp("主人公","......");
 ChEye(22,2);
 ChMouth(22,3);
@@ -66,7 +66,7 @@ VoicePlay("F022200002_22_080");
 MsgDisp("Hikaru","That's right though.
 Hikaru can believe that uncle part, but
 Hazuki Kei? No way!");
-MsgDisp("主人公","(I know it's just a rumour, but it gives the
-illusion that it could be true...)");
+MsgDisp("主人公","(I know it's just a rumour, but it gives
+the illusion that it could be true...)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -1,7 +1,7 @@
 BGOpen("sc608",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Phew, finally, the calculation of the club
-expenses is finished...)");
+MsgDisp("主人公","(Phew, finally, the calculation of the
+club expenses is finished...)");
 SEPlay("EV_SE_DOOR_013");
 SEWait();
 MsgClose();
@@ -12,7 +12,8 @@ ChOpen(2,41,3,0,4,#1,#1,0,0);
 VoiceEVSPlay(2);
 VoicePlay("G110200801_02_000");
 MsgDisp("Sassa","｛主人公｝, so, you were here.");
-MsgDisp("主人公","Yeah, I was in charge of the club expenses.
+MsgDisp("主人公","Yeah, I was in charge of the club
+expenses.
 But... It's over.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -71,13 +72,14 @@ ChEye(2,0);
 ChMouth(2,1);
 ChMotion(2,0);
 VoicePlay("G110200801_02_070");
-MsgDisp("Sassa","Just now when I came to the clubroom to talk
-to you, it was a bit crazy.");
+MsgDisp("Sassa","Just now when I came to the clubroom to
+talk to you, it was a bit crazy.");
 ChEye(2,0);
 ChMouth(2,1);
 ChMotion(2,0);
 VoicePlay("G110200801_02_080");
-MsgDisp("Sassa","It seems like this'll drag on for a while...");
+MsgDisp("Sassa","It seems like this'll drag on for a
+while...");
 MsgDisp("主人公","Umm... The high-altitude training?");
 ChEye(2,2);
 ChMouth(2,1);

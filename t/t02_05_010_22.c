@@ -17,7 +17,8 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,5);
 VoicePlay("T020501022_05_010");
-MsgDisp("Hiiragi","That's a typical response from you, isn't it?");
+MsgDisp("Hiiragi","That's a typical response from you,
+isn't it?");
 MsgDisp("主人公","Is it?");
 ChEyeOpenLevel(5,9);
 VoicePlay("T020501022_05_020");

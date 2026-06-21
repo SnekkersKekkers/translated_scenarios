@@ -23,7 +23,8 @@ something like this, right?");
 MsgDisp("主人公","Hm, probably?");
 ChMotion(3,0);
 VoicePlay("K010300101_03_030");
-MsgDisp("Honda","And yet, you understand my taste this well...");
+MsgDisp("Honda","And yet, you understand my taste
+this well...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

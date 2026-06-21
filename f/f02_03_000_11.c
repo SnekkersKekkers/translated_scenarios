@@ -17,8 +17,8 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("F020300011_03_010");
-MsgDisp("Honda","Every year, I get pestered by the kids in my
-neighbourhood and end up making them.");
+MsgDisp("Honda","Every year, I get pestered by the kids in
+my neighbourhood and end up making them.");
 ChMotion(3,4);
 VoicePlay("F020300011_03_020");
 MsgDisp("Honda","But there's less snow each year.
@@ -37,8 +37,8 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("F020300011_03_040");
 MsgDisp("Honda","Right, right.
-And, when you make them year after year, you
-start to appreciate the craft.");
+And, when you make them year after year,
+you start to appreciate the craft.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

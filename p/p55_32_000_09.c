@@ -19,8 +19,8 @@ MsgDisp("主人公","Ummm...");
 ChEye(32,0);
 ChMouth(32,0);
 VoicePlay("P553200009_32_020");
-MsgDisp("VP Himuro","The song performed today, \"Fourth・Heart\" has
-several different interpretations.");
+MsgDisp("VP Himuro","The song performed today, \"Fourth・Heart\"
+has several different interpretations.");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
@@ -33,18 +33,18 @@ ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("P553200009_32_040");
 MsgDisp("VP Himuro","I see... If that is true, then the first
-thing you should do is to not be dispirited
-by yourself.");
+thing you should do is to not be
+dispirited by yourself.");
 ChEye(32,2);
 ChMouth(32,2);
 VoicePlay("P553200009_32_050");
 MsgDisp("VP Himuro","Come join your hearts with the juniors who
-watched you from behind, and the friends you
-walked together with.");
+watched you from behind, and the friends
+you walked together with.");
 MsgDisp("主人公","Yes...!");
 MsgDisp("主人公","(Even though I failed in the end...
-I'm glad I continued with the wind music club
-for these last three years.)");
+I'm glad I continued with the wind music
+club for these last three years.)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(32,0,0);

@@ -4,8 +4,8 @@ BGMPlay("BGM_C05_HIIRAGI_B",0.01);
 ChOpen(5,100,0,0,0,#1,#1,0,0);
 SEPlay("EV_SE_712");
 ScrFadeIn(0);
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, your typing on the computer has
-become much faster.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, your typing on the computer
+has become much faster.");
 ChMouth(5,1);
 VoicePlay("G110500702_05_000");
 MsgDisp("Hiiragi","Really?
@@ -41,8 +41,8 @@ ChMotion(5,2);
 ChEyeOpenLevel(5,8);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500702_05_030");
-MsgDisp("Hiiragi","The day we went to the firefly's habitat and
-got that power.");
+MsgDisp("Hiiragi","The day we went to the firefly's habitat
+and got that power.");
 MsgDisp("主人公","Ah...the day we drank spring water?");
 SEPlay("EV_SE_712",0,0.7,1);
 ChEyeOpenLevel(5,0);
@@ -51,8 +51,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500702_05_040");
 MsgDisp("Hiiragi","Yeah.
-My right hand was from the spring water, my
-left hand was from your help. ...See.");
+My right hand was from the spring water,
+my left hand was from your help. ...See.");
 SEStop("EV_SE_712",0);
 ChEye(5,1);
 ChMouth(5,1);

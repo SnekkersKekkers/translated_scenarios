@@ -12,10 +12,12 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("P840D00001_22_000");
-MsgDisp("Hikaru","That looks like it's just been crammed in....");
+MsgDisp("Hikaru","That looks like it's just been
+crammed in....");
 VoicePlay("P840D00001_48_000");
 MsgDisp("School Girl","Huh?
-Have you seen the documents that were here?");
+Have you seen the documents that
+were here?");
 MsgDisp("主人公","Ah, I just tidied it up!");
 VoicePlay("P840D00001_48_010");
 MsgDisp("School Girl","Ehh, I needed it right away though∋

@@ -17,8 +17,9 @@ switch (ChPrmGet(4,6)){
     ChMouth(4,0);
     ChMotion(4,2,1);
     VoicePlay("O030401000_04_010");
-    MsgDisp("Nanatsumori","My stomach is about to start hurting, so I
-can't go in the three-legged race with you.");
+    MsgDisp("Nanatsumori","My stomach is about to start hurting,
+so I can't go in the three-legged race
+with you.");
     MsgDisp("主人公","Don't run!
 Let's pair up.");
     ChEye(4,2);

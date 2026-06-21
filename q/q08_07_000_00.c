@@ -35,8 +35,8 @@ lesson-Nagasaki version next time?");
 You're exempt from submitting a
 special report.");
     MsgDisp("主人公","Hehe, yay!
-Extracurricular lesson, Nagasaki edition was
-so much fun!");
+Extracurricular lesson, Nagasaki edition
+was so much fun!");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

@@ -21,26 +21,27 @@ ChMouth(5,3);
 ChMotion(5,0);
 VoicePlay("P540500004_05_010");
 MsgDisp("Hiiragi","It was the best performance.
-I'm not exaggerating, it was truly touching.");
+I'm not exaggerating, it was truly
+touching.");
 MsgDisp("主人公","Hehe, thank you.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P540500004_05_020");
-MsgDisp("Hiiragi","When I close my eyes, I can feel your sound,
-and when I open my eyes, I see you in all
-your glory.");
+MsgDisp("Hiiragi","When I close my eyes, I can feel your
+sound, and when I open my eyes, I see you
+in all your glory.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P540500004_05_030");
-MsgDisp("Hiiragi","I feel a bit lonely now that the performance
-has ended.
+MsgDisp("Hiiragi","I feel a bit lonely now that the
+performance has ended.
 Thank you for a spectacular time.");
 MsgDisp("主人公","(I'm happy that ｛Hiiragi＊＊＊｝ is that
-delighted. I'm glad I gave it my all for the
-last three years!)");
+delighted. I'm glad I gave it my all for
+the last three years!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);

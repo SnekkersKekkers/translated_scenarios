@@ -40,8 +40,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("K020700000_07_040");
-MsgDisp("Mikage","Alright, I've confirmed that you received it
-with that smile.
+MsgDisp("Mikage","Alright, I've confirmed that you received
+it with that smile.
 See you.");
 MsgClose();
 SEPlay("EV_SE_DOOR_022");

@@ -2,8 +2,8 @@ BGOpen("sc823",0);
 ChLayout(2);
 ScrFadeIn(0);
 MsgDisp("主人公","Wow, so cute.
-The building and the flowers and cobblestones
-are all so pretty!");
+The building and the flowers and
+cobblestones are all so pretty!");
 MsgClose();
 ChOpen(1,254,0,0,3,10,#1,0,0,0,30);
 ChOpen(3,254,0,0,0,#1,#1,0,1,0,30);
@@ -15,8 +15,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("Q070B00200_01_000");
 MsgDisp("Kazama","Yeah. It reminds me of England.");
-MsgDisp("主人公","Huh, so the UK has a lot of pretty buildings
-like these?");
+MsgDisp("主人公","Huh, so the UK has a lot of pretty
+buildings like these?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0,1);
@@ -62,7 +62,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q070B00200_03_010");
 MsgDisp("Honda","Heyheyhey, everyone!
-Let's take one last picture, with all of us!");
+Let's take one last picture, with all
+of us!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);

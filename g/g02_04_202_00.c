@@ -20,7 +20,8 @@ ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("G020420200_04_030");
-MsgDisp("Nanatsumori","I won't be satisfied until I have an answer.
+MsgDisp("Nanatsumori","I won't be satisfied until I have
+an answer.
 This gap between us...this hollow feeling.");
 ChEye(4,2);
 ChMouth(4,4);
@@ -38,8 +39,8 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
 VoicePlay("G020420200_04_060");
-MsgDisp("Nanatsumori","But when we are together like this, I start
-thinking about you again...");
+MsgDisp("Nanatsumori","But when we are together like this, I
+start thinking about you again...");
 ChEye(4,1);
 ChMouth(4,0);
 ChMotion(4,2,1);

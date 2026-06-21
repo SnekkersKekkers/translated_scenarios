@@ -17,15 +17,15 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020610101_06_020");
-MsgDisp("Himuro","...When we get to spend time alone like this,
-I start to get the wrong idea.");
+MsgDisp("Himuro","...When we get to spend time alone like
+this, I start to get the wrong idea.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610101_06_030");
-MsgDisp("Himuro","That maybe I'm a little more special to you
-than everyone else.");
+MsgDisp("Himuro","That maybe I'm a little more special to
+you than everyone else.");
 MsgDisp("主人公","Ah, I...");
 ChEye(6,0);
 ChMouth(6,5);
@@ -37,7 +37,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610101_06_050");
-MsgDisp("Himuro","I don't want to hear your feelings right now.");
+MsgDisp("Himuro","I don't want to hear your feelings
+right now.");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);

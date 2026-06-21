@@ -26,8 +26,8 @@ Thanks for coming even though you're busy,
     ChMotion(5,0);
     VoicePlay("H180500000_05_020");
     MsgDisp("Hiiragi","It's my pleasure.
-Koshien is your big stage, and so I will be
-here to watch.");
+Koshien is your big stage, and so I will
+be here to watch.");
     ChEye(5,4);
     ChMouth(5,3);
     VoicePlay("H180500000_05_030");

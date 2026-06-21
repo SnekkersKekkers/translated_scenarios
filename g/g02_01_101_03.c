@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 VoicePlay("G020110103_01_000");
-MsgDisp("Kazama","You know, doesn't it feel like the fireflies
-are giving us their blessing?");
+MsgDisp("Kazama","You know, doesn't it feel like the
+fireflies are giving us their blessing?");
 MsgDisp("主人公","Yeah, there're so many around you,
 ｛Kazama＊＊｝.");
 ChEye(1,4);
@@ -24,8 +24,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020110103_01_030");
 MsgDisp("Kazama","Guys don't really talk about that kinda
-stuff... But I think they're looking out for
-us even if they don't say anything.");
+stuff... But I think they're looking out
+for us even if they don't say anything.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -38,8 +38,8 @@ Wait(10,0);
 ChEye(1,0);
 ChMouth(1,3);
 VoicePlay("G020110103_01_050");
-MsgDisp("Kazama","And I don't really get Honda, but he helps me
-out based on how he sees the world.");
+MsgDisp("Kazama","And I don't really get Honda, but he helps
+me out based on how he sees the world.");
 MsgDisp("主人公","So that special kind of friendship
 between boys.
 That's good to hear.");
@@ -77,8 +77,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110103_01_100");
-MsgDisp("Kazama","...Of course, even if it all comes crashing
-down, I'd make my way back to you right away.");
+MsgDisp("Kazama","...Of course, even if it all comes
+crashing down, I'd make my way back to you
+right away.");
 MsgDisp("主人公","(What is ｛Kazama＊＊｝ talking about?)");
 BGMStop();
 MsgClose();

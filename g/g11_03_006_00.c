@@ -1,17 +1,17 @@
 BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The advertisement that ｛Honda＊＊｝ came up
-with was well-received...)");
-MsgDisp("主人公","\"A book where adults meet their high school
-selves and high schoolers meet their tomorrow
-selves...\"?");
+MsgDisp("主人公","(The advertisement that ｛Honda＊＊｝ came
+up with was well-received...)");
+MsgDisp("主人公","\"A book where adults meet their high
+school selves and high schoolers meet
+their tomorrow selves...\"?");
 VoicePlay("G110300600_42_000");
 MsgDisp("Manager","Honda-kun's promo is great, right?
 One day I'll ask you to make one too.");
 MsgDisp("主人公","Ah, yes!
-I don't think I can do it like ｛Honda＊＊｝,
-but it looks fun...");
+I don't think I can do it like
+｛Honda＊＊｝, but it looks fun...");
 MsgClose();
 ScrFadeOut(0);
 MsgDisp("","　　　　　　　　　　 ・

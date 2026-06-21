@@ -1,7 +1,7 @@
 BGOpen("ar100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(Oh yeah, ｛Nanatsumori＊｝ is almost done with
-a shoot...)");
+MsgDisp("主人公","(Oh yeah, ｛Nanatsumori＊｝ is almost done
+with a shoot...)");
 MsgClose();
 SEPlay("EV_SE_DOOR_014");
 Wait(20,0);
@@ -45,8 +45,8 @@ MsgDisp("主人公","Earlier...?");
 ChEye(4,0);
 ChMouth(4,1);
 VoicePlay("G110400704_04_050");
-MsgDisp("Nanatsumori","You know, the ones who said they would come
-back once they are done with work.");
+MsgDisp("Nanatsumori","You know, the ones who said they would
+come back once they are done with work.");
 MsgDisp("主人公","Not really.
 Do you not like when I do that?");
 ChEye(4,1);

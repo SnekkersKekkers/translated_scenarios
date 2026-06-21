@@ -30,10 +30,11 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("P740700001_07_030");
-MsgDisp("Mikage","Haha, that was a pretty poor end though, huh?");
+MsgDisp("Mikage","Haha, that was a pretty poor end
+though, huh?");
 MsgDisp("主人公","(Uuugh...
-I wish I had practised more carefully for the
-show...)");
+I wish I had practised more carefully for
+the show...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

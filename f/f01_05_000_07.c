@@ -10,13 +10,14 @@ switch (ChPrmGet(5,6)){
     BGMPlay("BGM_C05_HIIRAGI_A",0.01);
     ChOpen(5,254,4,4,4,#1,#1,0,0);
     VoicePlay("F010500007_05_000");
-    MsgDisp("Hiiragi","I had a feeling you would come, so I was just
-standing here waiting.");
+    MsgDisp("Hiiragi","I had a feeling you would come, so I was
+just standing here waiting.");
     MsgDisp("主人公","Oh, how cool!");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("F010500007_05_010");
-    MsgDisp("Hiiragi","It is not a coincidence, but an opportunity.
+    MsgDisp("Hiiragi","It is not a coincidence, but an
+opportunity.
 How about we walk together?");
     break ;
     case 4:
@@ -32,8 +33,9 @@ What's wrong?");
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("F010500007_05_030");
-    MsgDisp("Hiiragi","In truth, I wanted to walk with you, so I
-decided to wait for five people to come out.");
+    MsgDisp("Hiiragi","In truth, I wanted to walk with you, so
+I decided to wait for five people to
+come out.");
     break ;
     default :
     DbgAssert(1);
@@ -110,8 +112,8 @@ Another time, then.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(5);
-        MsgDisp("主人公","(After he went to the trouble of calling out
-to me, I did a bad thing...)");
+        MsgDisp("主人公","(After he went to the trouble of calling
+out to me, I did a bad thing...)");
         break ;
         case 4:
         case 5:
@@ -134,8 +136,8 @@ I am sorry that I made you decline, too.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(5);
-        MsgDisp("主人公","(After he went to the trouble of calling out
-to me, I did a bad thing...)");
+        MsgDisp("主人公","(After he went to the trouble of calling
+out to me, I did a bad thing...)");
         break ;
         default :
         DbgAssert(1);

@@ -15,9 +15,11 @@ ChMouth(1,3);
 ChEyeOpenLevel(1,8);
 ChCheek(1,6);
 VoicePlay("T020120000_01_380");
-MsgDisp("Kazama","...Hey, what should I tell Inori and Sassa?
+MsgDisp("Kazama","...Hey, what should I tell Inori
+and Sassa?
 About your kiss.");
-MsgDisp("主人公","Ah, you don't need to tell them about that.");
+MsgDisp("主人公","Ah, you don't need to tell them
+about that.");
 ChMotion(1,0,1);
 Wait(12,0);
 ChEye(1,4);
@@ -32,8 +34,8 @@ ChMotion(1,3);
 ChCheek(1,0);
 ChMotion(1,0);
 VoicePlay("T020120000_01_410");
-MsgDisp("Kazama","May we always be happy and healthy, and may
-we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020120000_01_420");
@@ -56,7 +58,8 @@ It looks similar to your hair accessory
 doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020120000_01_450");
-MsgDisp("Kazama","I found and bought it when I was in England.");
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_460");
 MsgDisp("Kazama","—I promised to definitely give it to you

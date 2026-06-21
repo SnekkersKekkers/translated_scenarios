@@ -39,8 +39,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("E010330200_03_030");
 MsgDisp("Honda","Even though there's a new library nearby,
-whenever I go to return books at the far one,
-I always end up borrowing something.");
+whenever I go to return books at the far
+one, I always end up borrowing something.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -62,8 +62,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("E010330200_03_050");
-MsgDisp("Honda","No, I can't. I accidentally returned them to
-the wrong one the other day.
+MsgDisp("Honda","No, I can't. I accidentally returned them
+to the wrong one the other day.
 My family scolded me.");
 ChEye(3,2);
 ChMouth(3,4);
@@ -106,7 +106,8 @@ ChMotion(7,0);
 VoicePlay("E010330200_07_070");
 MsgDisp("Mikage","Right?");
 MsgDisp("主人公","(｛Honda＊＊｝, good luck!
-I hope you can go to the new library soon!)");
+I hope you can go to the new
+library soon!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

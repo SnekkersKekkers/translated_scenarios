@@ -76,8 +76,9 @@ We'll try again some other time.");
     VoicePlay("U100D00000_22_050");
     MsgDisp("Hikaru","Well, suppose it can't be helped～
 Next time, okay Mari?");
-    MsgDisp("主人公","(Even though they went through the trouble of
-inviting me...did I make the right choice?)");
+    MsgDisp("主人公","(Even though they went through the trouble
+of inviting me...did I make the right
+choice?)");
     break ;
     default :
     DbgAssert(0);

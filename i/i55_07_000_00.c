@@ -45,8 +45,8 @@ See you, good luck.");
     ChClose(7);
     VoicePlay("I550700000_07_050");
     MsgDisp("Mikage","Next is...");
-    MsgDisp("主人公","(I guess he really was just coming to check
-on me...)");
+    MsgDisp("主人公","(I guess he really was just coming to
+check on me...)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -66,13 +66,14 @@ Welcome!");
     VoicePlay("I550700000_07_070");
     MsgDisp("Mikage","Oh, you're working today too?");
     MsgDisp("主人公","Yes!
-Are you looking for something in particular?");
+Are you looking for something in
+particular?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("I550700000_07_080");
-    MsgDisp("Mikage","Some Japanese sweets that would be good as a
-gift, please.");
+    MsgDisp("Mikage","Some Japanese sweets that would be good as
+a gift, please.");
     MsgDisp("主人公","Then, how is this?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -85,8 +86,8 @@ gift, please.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("I550700000_07_100");
-    MsgDisp("Mikage","I was thinking of handing them out during tea
-time in the staff room.
+    MsgDisp("Mikage","I was thinking of handing them out during
+tea time in the staff room.
 You know, to keep everyone in a good mood.");
     MsgDisp("主人公","(｛Mikage＊＊｝...did you do something
 wrong again?)");
@@ -110,10 +111,11 @@ Welcome!");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I550700000_07_120");
-    MsgDisp("Mikage","I'll get today's recommended Japanese sweets.");
+    MsgDisp("Mikage","I'll get today's recommended
+Japanese sweets.");
     MsgDisp("主人公","Yes!
-Then, how about the daifuku with a seasonal
-fruit filling?");
+Then, how about the daifuku with a
+seasonal fruit filling?");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,2);
@@ -121,14 +123,15 @@ fruit filling?");
     MsgDisp("Mikage","Hm, do you have anything with a longer
 shelf life?");
     MsgDisp("主人公","Then...how about this assortment of yokan?
-It's fun trying all the different flavours.");
+It's fun trying all the different
+flavours.");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,0);
     VoicePlay("I550700000_07_140");
     MsgDisp("Mikage","Have you ever had these?");
-    MsgDisp("主人公","Not all of them, but I was able to try a few
-of them.
+    MsgDisp("主人公","Not all of them, but I was able to try a
+few of them.
 They were delicious.");
     ChEye(7,0);
     ChMouth(7,0);

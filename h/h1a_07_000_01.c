@@ -32,15 +32,16 @@ You did the best you could for everyone.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("H1A0700001_07_030");
-    MsgDisp("Mikage","It means you've made friends, all aiming for
-the same goal.
+    MsgDisp("Mikage","It means you've made friends, all aiming
+for the same goal.
 The Haba High baseball club is nice, huh.");
     MsgDisp("主人公","Yes...");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("H1A0700001_07_040");
-    MsgDisp("Mikage","Now, it's time for your last job as manager.
+    MsgDisp("Mikage","Now, it's time for your last job as
+manager.
 Go be with everyone.");
     MsgDisp("主人公","(｛Mikage＊＊｝, thank you.
 We lost, but this will become a cherished

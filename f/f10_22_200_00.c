@@ -45,7 +45,8 @@ MsgClose();
 SEPlay("EV_SE_626");
 ChClose(31);
 ChPosition(22,0);
-MsgDisp("主人公","Why is Goro-sensei in this sort of place...?");
+MsgDisp("主人公","Why is Goro-sensei in this sort of
+place...?");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);

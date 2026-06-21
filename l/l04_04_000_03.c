@@ -49,9 +49,9 @@ Great!");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("L040400003_04_050");
-    MsgDisp("Nanatsumori","It's not like me, but I'm going to brag to my
-family about this, then eat it in a good
-mood. Thank you.");
+    MsgDisp("Nanatsumori","It's not like me, but I'm going to brag to
+my family about this, then eat it in a
+good mood. Thank you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -97,8 +97,8 @@ everything I love...");
     ChMotion(4,1);
     VoicePlay("L040400003_04_100");
     MsgDisp("Nanatsumori","Actually, I changed my mind.
-I'll keep this all to myself, and enjoy this
-blissful moment. Thank you.");
+I'll keep this all to myself, and enjoy
+this blissful moment. Thank you.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

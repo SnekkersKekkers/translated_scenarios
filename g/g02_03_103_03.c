@@ -13,15 +13,15 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("G020310303_03_010");
 MsgDisp("Honda","I bet there are fireflies here who feel
-troubled the same way when approached, just
-like you did.");
+troubled the same way when approached,
+just like you did.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("G020310303_03_020");
-MsgDisp("Honda","You're beautiful and stand out, so it can't
-be helped, but I don't want you to feel
-uncomfortable.");
+MsgDisp("Honda","You're beautiful and stand out, so it
+can't be helped, but I don't want you to
+feel uncomfortable.");
 MsgDisp("主人公","But, ｛Honda＊＊｝ came right away, so
 it's okay.");
 ChEye(3,4);
@@ -32,8 +32,9 @@ MsgDisp("Honda","Sigh...");
 MsgDisp("主人公","?");
 ChMotion(3,4,1);
 VoicePlay("G020310303_03_040");
-MsgDisp("Honda","Maybe I'm really lucky to be able to have a
-beautiful firefly like you all to myself.");
+MsgDisp("Honda","Maybe I'm really lucky to be able to
+have a beautiful firefly like you all
+to myself.");
 MsgDisp("主人公","Firefly?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -46,8 +47,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("G020310303_03_060");
-MsgDisp("Honda","Maybe I should just be at the meeting place
-the day before from now on?");
+MsgDisp("Honda","Maybe I should just be at the meeting
+place the day before from now on?");
 MsgDisp("主人公","(Is that even a meeting...?)");
 BGMStop();
 MsgClose();

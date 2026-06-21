@@ -22,8 +22,8 @@ the shelf.");
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_340");
     MsgDisp("Honda","Huh?
-Didn't I mention that those books were going
-to be returned?");
+Didn't I mention that those books were
+going to be returned?");
     MsgDisp("主人公","Ah...now that you mention it.
 I'm sorry!");
     ChEye(3,4);
@@ -36,11 +36,11 @@ Sorry.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("I260300000_03_360");
-    MsgDisp("Honda","But, sorry, could you help me put it all back
-into the box?");
+    MsgDisp("Honda","But, sorry, could you help me put it all
+back into the box?");
     MsgDisp("主人公","Y-Yes.");
-    MsgDisp("主人公","(Even though I've done returns so many times,
-I still made a rookie mistake...)");
+    MsgDisp("主人公","(Even though I've done returns so many
+times, I still made a rookie mistake...)");
     break ;
     case 4:
     case 5:
@@ -66,8 +66,8 @@ But, just tell me sooner next time.");
     ChMouth(3,4);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_400");
-    MsgDisp("Honda","Don't try to do everything yourself, and ask
-someone if you need help.
+    MsgDisp("Honda","Don't try to do everything yourself, and
+ask someone if you need help.
 Okay?");
     MsgDisp("主人公","...Yes.");
     ChEye(3,0);
@@ -75,8 +75,8 @@ Okay?");
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_410");
     MsgDisp("Honda","Well, I was too enthusiastic when I first
-started working part-time, too, and ended up
-running in circles.");
+started working part-time, too, and ended
+up running in circles.");
     break ;
     default :
     DbgAssert(1);
@@ -85,7 +85,8 @@ running in circles.");
 ChEye(3,0);
 ChMouth(3,3);
 VoicePlay("I260300000_03_420");
-MsgDisp("Honda","Well, I'm going to go organise the shelves!");
+MsgDisp("Honda","Well, I'm going to go organise the
+shelves!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();

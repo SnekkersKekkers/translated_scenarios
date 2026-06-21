@@ -22,8 +22,8 @@ schoolers, huh?");
     ChMotion(4,1,1);
     VoicePlay("S120400004_04_010");
     MsgDisp("Nanatsumori","Right.
-There isn't much of it left, but I'm looking
-forward to the rest of it.");
+There isn't much of it left, but I'm
+looking forward to the rest of it.");
     MsgDisp("主人公","Treat me well.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -59,8 +59,8 @@ Three years passed in the blink of an eye.");
     ChEyeOpenLevel(4,#1);
     VoicePlay("S120400004_04_050");
     MsgDisp("Nanatsumori","I'll take you home.
-If we dwell on it too long, we'll just make
-ourselves sad.");
+If we dwell on it too long, we'll just
+make ourselves sad.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();
     MsgClose();

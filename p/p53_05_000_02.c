@@ -9,25 +9,26 @@ switch (ChPrmGet(5,6)){
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving it my all
-these last three years?)");
+Maybe it's because I've been giving it my
+all these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(5,254,0,0,4,#1,#1,0,0);
     VoiceEVSPlay(5);
     VoicePlay("P530500002_05_000");
-    MsgDisp("Hiiragi","｛主人公｝, this is your last stage, I look
-forward to it.");
+    MsgDisp("Hiiragi","｛主人公｝, this is your last stage, I
+look forward to it.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝, thank you!
-I'll do my best so I can show the results of
-my three years of hard work.");
+I'll do my best so I can show the results
+of my three years of hard work.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P530500002_05_010");
     MsgDisp("Hiiragi","Yes.
-I'll close my eyes and search for your sound.");
+I'll close my eyes and search for
+your sound.");
     MsgDisp("主人公","Eh? I want you to look carefully.");
     ChEye(5,3);
     ChMouth(5,4);
@@ -45,15 +46,16 @@ real deal. Your current self is proof of it.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Thank you, ｛Hiiragi＊＊＊｝.
-For my last performance, I'll give it my all.");
+For my last performance, I'll give it
+my all.");
     ChMotion(5,3);
     Wait(30,1);
     ChEye(5,3);
     ChMouth(5,4);
     VoicePlay("P530500002_05_040");
     MsgDisp("Hiiragi","I wish you the best of luck.");
-    MsgDisp("主人公","(Alright, Whether I laugh or cry, this is the
-last one.
+    MsgDisp("主人公","(Alright, Whether I laugh or cry, this is
+the last one.
 Let's give it our all!)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -64,8 +66,8 @@ Let's give it our all!)");
     BGOpen("sc740",0);
     ScrFadeIn(0);
     MsgDisp("主人公","(Seems like I'm calm this year.
-Maybe it's because I've been giving it my all
-these last three years?)");
+Maybe it's because I've been giving it my
+all these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -89,7 +91,8 @@ performing on stage.");
     VoicePlay("P530500002_05_070");
     MsgDisp("Hiiragi","I wanted to relieve your stress, but it
 appears there's no need for that.");
-    MsgDisp("主人公","No. I calmed down seeing ｛Hiiragi＊＊＊｝'s face.");
+    MsgDisp("主人公","No. I calmed down seeing
+｛Hiiragi＊＊＊｝'s face.");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -97,8 +100,8 @@ appears there's no need for that.");
     MsgDisp("Hiiragi","Is that so.
 Then, I'll enjoy your performance
 without haste.");
-    MsgDisp("主人公","So that I can satisfy ｛Hiiragi＊＊＊｝, I'll do
-my best.");
+    MsgDisp("主人公","So that I can satisfy ｛Hiiragi＊＊＊｝, I'll
+do my best.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,3);

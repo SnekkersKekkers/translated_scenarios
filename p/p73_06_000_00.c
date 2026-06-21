@@ -27,8 +27,8 @@ I'm nervous...)");
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("P730600000_06_020");
-    MsgDisp("Himuro","Even though you're in the handicrafts club,
-you'll have to do thing like model?");
+    MsgDisp("Himuro","Even though you're in the handicrafts
+club, you'll have to do thing like model?");
     MsgDisp("主人公","Yeah, I'll wear the clothes I made myself.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -36,8 +36,8 @@ you'll have to do thing like model?");
     VoicePlay("P730600000_06_030");
     MsgDisp("Himuro","Maybe...
 Can't you just display the clothes?");
-    MsgDisp("主人公","You'll understand the clothes' charm more if
-someone is wearing it after all.");
+    MsgDisp("主人公","You'll understand the clothes' charm more
+if someone is wearing it after all.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -52,8 +52,8 @@ someone is wearing it after all.");
     MsgDisp("Himuro","Finally.
 Then, do your best to not fall over.");
     MsgDisp("主人公","Thanks.");
-    MsgDisp("主人公","(My heart is pounding, but I have to give it
-my all...!)");
+    MsgDisp("主人公","(My heart is pounding, but I have to give
+it my all...!)");
     MsgClose();
     ScrFadeOut(0,0);
     ChClose(6,0,0);
@@ -112,8 +112,8 @@ I was just stating the truth.");
     MsgDisp("Himuro","Then, please watch your step.
 I'll be watching.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Seems like after talking to ｛Himuro＊＊｝, my
-stress has been relieved.
+    MsgDisp("主人公","(Seems like after talking to ｛Himuro＊＊｝,
+my stress has been relieved.
 ...Alright, let's do our best!)");
     MsgClose();
     ScrFadeOut(0,0);

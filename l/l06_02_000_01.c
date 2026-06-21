@@ -27,8 +27,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("L060200001_02_030");
-MsgDisp("Sassa","I'm not sure what's popular with girls, so I
-just chose something I thought would be good.");
+MsgDisp("Sassa","I'm not sure what's popular with girls,
+so I just chose something I thought would
+be good.");
 MsgDisp("主人公","Yeah, that's what makes me happiest.");
 ChEye(2,0);
 ChMouth(2,4);

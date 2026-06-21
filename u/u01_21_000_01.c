@@ -21,8 +21,8 @@ Can you talk right now?");
     MsgDisp("主人公","Sure, no problem.
 What's up?");
     VoicePlay("U012100001_21_010");
-    MsgDisp("Michiru","Today if you're free, would you like to go to
-the planetarium with me?");
+    MsgDisp("Michiru","Today if you're free, would you like to go
+to the planetarium with me?");
     MsgSel("Sure, that's fine.","Ah, sorry. I can't today...");
     switch (MsgSelRsltGet()){
         case 0:

@@ -26,7 +26,8 @@ Welcome!");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("I150400000_04_020");
-    MsgDisp("Nanatsumori","Sure. But did you need to call my name, too?");
+    MsgDisp("Nanatsumori","Sure.
+But did you need to call my name, too?");
     MsgDisp("主人公","Ah... I see, sorry.");
     ChEye(4,4);
     ChMouth(4,4);
@@ -67,7 +68,8 @@ might be busy.");
     ChMotion(4,0,1);
     VoicePlay("I150400000_04_060");
     MsgDisp("Nanatsumori","I see.
-Working without any hiccups is a good thing.");
+Working without any hiccups is a
+good thing.");
     MsgDisp("主人公","Hehe, ｛Nanatsumori＊｝, you sound like a
 teacher, you know?");
     ChEye(4,4);
@@ -97,20 +99,21 @@ check on me?)");
     MsgDisp("Nanatsumori","｛主人公｝.
 Good work.");
     MsgDisp("主人公","Ah...
-If you're dressed like that, are you about to
-go to work?");
+If you're dressed like that, are you about
+to go to work?");
     ChMouth(4,4);
     ChMotion(4,1,1);
     VoicePlay("I150400000_04_090");
     MsgDisp("Nanatsumori","Yeah.
-I just came to check on you on my way there.");
+I just came to check on you on my
+way there.");
     MsgDisp("主人公","Hehe. Thanks.");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("I150400000_04_100");
-    MsgDisp("Nanatsumori","...Ah, that product over there is pretty hot
-on the market right now.
+    MsgDisp("Nanatsumori","...Ah, that product over there is pretty
+hot on the market right now.
 Nice. The display's good, too.");
     MsgDisp("主人公","Really?
 I set that display.

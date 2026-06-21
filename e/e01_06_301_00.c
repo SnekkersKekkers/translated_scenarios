@@ -1,7 +1,8 @@
 BGOpen("ne000",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, I guess it's time to go home. ...Huh?)");
+MsgDisp("主人公","(Well, I guess it's time to go home.
+...Huh?)");
 VoiceEVSPlay(6);
 VoicePlay("E010630100_06_000");
 MsgDisp("Himuro?","｛主人公｝, what a coincidence.");
@@ -15,8 +16,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("E010630100_06_010");
 MsgDisp("Himuro","No, I'm meeting someone.
-It's 30 minutes before the appointment, so he
-should be here by now.");
+It's 30 minutes before the appointment, so
+he should be here by now.");
 MsgDisp("主人公","Eh, 30 minutes early...?");
 ChPosition(6,1);
 MsgClose();
@@ -52,11 +53,11 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010630100_07_020");
-MsgDisp("Mikage","Although I may seem like this, I keep to time
-and promises, you know?");
+MsgDisp("Mikage","Although I may seem like this, I keep to
+time and promises, you know?");
 VoicePlay("E010630100_32_000");
-MsgDisp("VP Himuro?","If that's the case, will you please keep your
-promise with me?");
+MsgDisp("VP Himuro?","If that's the case, will you please keep
+your promise with me?");
 ChEye(7,5);
 ChMouth(7,4);
 ChMotion(7,0,1);
@@ -85,7 +86,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("E010630100_07_040");
 MsgDisp("Mikage","Ah-...what a coincidence.
-I can't believe we ran into each other here.");
+I can't believe we ran into each
+other here.");
 ChEye(7,5);
 ChMouth(7,3);
 ChMotion(7,0);

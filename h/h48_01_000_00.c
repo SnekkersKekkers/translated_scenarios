@@ -40,7 +40,8 @@ performance!)");
     ChMotion(1,3);
     VoicePlay("H480100000_01_030");
     MsgDisp("Kazama","There you are.");
-    MsgDisp("主人公","Ah... ｛Kazama＊＊｝, you came to cheer me on?");
+    MsgDisp("主人公","Ah...
+｛Kazama＊＊｝, you came to cheer me on?");
     ChEye(1,4);
     ChMouth(1,0);
     ChMotion(1,0);

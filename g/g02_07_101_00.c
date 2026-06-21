@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(7,255,5,0,0,#1,#1,0,0);
 VoicePlay("G020710100_07_000");
-MsgDisp("Mikage","These fireflies here, you know, they seem to
-mysteriously appear in various colours,
+MsgDisp("Mikage","These fireflies here, you know, they seem
+to mysteriously appear in various colours,
 don't they?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -34,24 +34,26 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710100_07_040");
 MsgDisp("Mikage","Right...
-Yanosuke might just say what he sees, but I
-wonder about Inori?");
+Yanosuke might just say what he sees, but
+I wonder about Inori?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("G020710100_07_050");
-MsgDisp("Mikage","No matter what colour he sees, he'll probably
-say, \"It's a normal colour\", or something.");
-MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ you really understand
-｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝ well, don't you?");
+MsgDisp("Mikage","No matter what colour he sees, he'll
+probably say, \"It's a normal colour\", or
+something.");
+MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ you really
+understand ｛Hiiragi＊＊＊｝ and ｛Himuro＊＊｝
+well, don't you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710100_07_060");
 MsgDisp("Mikage","Don't I understand you well too?");
 MsgDisp("主人公","(Me?
-｛Mikage＊＊｝ seemed like he was about to
-say something...)");
+｛Mikage＊＊｝ seemed like he was about
+to say something...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

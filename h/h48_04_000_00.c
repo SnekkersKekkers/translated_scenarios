@@ -23,8 +23,8 @@ Yes, that's right.");
     ChCheek(4,5);
     VoicePlay("H480400000_04_020");
     MsgDisp("Nanatsumori","No, it's just that you're sparkling in a
-different way than usual, and I'm not really
-sure where to look...");
+different way than usual, and I'm not
+really sure where to look...");
     MsgDisp("主人公","Hehe.");
     ChEye(4,4);
     ChMouth(4,3);

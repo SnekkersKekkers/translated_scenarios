@@ -16,24 +16,25 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("G020410401_04_020");
-MsgDisp("Nanatsumori","My mom wants celebrations to be grand, but my
-dad and older sister are kinda...
+MsgDisp("Nanatsumori","My mom wants celebrations to be grand, but
+my dad and older sister are kinda...
 cool-hearted, you know?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("G020410401_04_030");
 MsgDisp("Nanatsumori","I don't really want a big fuss either, but
-for anniversaries and such, I think families
-should do something.");
-MsgDisp("主人公","I see...your mom must feel a bit lonely, huh?");
+for anniversaries and such, I think
+families should do something.");
+MsgDisp("主人公","I see...your mom must feel a bit
+lonely, huh?");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020410401_04_040");
 MsgDisp("Nanatsumori","Yeah, exactly.
-Birthdays and Christmas, we get presents from
-everyone, but that's it.");
+Birthdays and Christmas, we get presents
+from everyone, but that's it.");
 VoicePlay("G020410401_04_050");
 MsgDisp("Nanatsumori","My mom really wants to make a feast, eat
 cake, and have a lively \"Happy Birthday\".");
@@ -53,7 +54,8 @@ MsgDisp("Nanatsumori","You only realised that now?");
 ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("G020410401_04_080");
-MsgDisp("Nanatsumori","...Wait, why did we start talking about this?");
+MsgDisp("Nanatsumori","...Wait, why did we start talking
+about this?");
 MsgDisp("主人公","(I feel like I learned a bit more about
 ｛Nanatsumori＊｝'s family.)");
 BGMStop();

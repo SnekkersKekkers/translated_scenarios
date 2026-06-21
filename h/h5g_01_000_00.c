@@ -34,7 +34,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("H5G0100000_01_040");
-MsgDisp("Kazama","Next time, a performance just for me, please.");
+MsgDisp("Kazama","Next time, a performance just for
+me, please.");
 MsgDisp("主人公","If you're okay with just my solo, then
 anytime.");
 ChEye(1,4);
@@ -47,10 +48,12 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("H5G0100000_01_060");
-MsgDisp("Kazama","Then I'll look forward to your solo concert.
+MsgDisp("Kazama","Then I'll look forward to your solo
+concert.
 Got it, champion?");
 MsgDisp("主人公","Yeah, thanks!");
 MsgDisp("主人公","(Hehe, ｛Kazama＊＊｝ congratulated me!
-I'm glad I practised so hard for brass band!)");
+I'm glad I practised so hard for
+brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

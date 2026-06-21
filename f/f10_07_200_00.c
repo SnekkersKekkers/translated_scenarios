@@ -31,8 +31,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720000_05_010");
 MsgDisp("Hiiragi","Yes, I'm very deeply interested.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you interested in biology
-and chemistry?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, are you interested in
+biology and chemistry?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -81,8 +81,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("F100720000_07_030");
-MsgDisp("Mikage","Yeah, when he smiles, I can't help but feel a
-sense of relief.");
+MsgDisp("Mikage","Yeah, when he smiles, I can't help but
+feel a sense of relief.");
 MsgDisp("主人公","Yeah.
 Since ｛Hiiragi＊＊＊｝ always looks so busy.");
 ChEye(7,0);
@@ -95,8 +95,8 @@ MsgDisp("主人公","Ehh?");
 ChEye(7,0);
 ChMouth(7,3);
 VoicePlay("F100720000_07_050");
-MsgDisp("Mikage","We should make a sliding blackboard for our
-class, too, right?");
+MsgDisp("Mikage","We should make a sliding blackboard for
+our class, too, right?");
 BGMStop();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -104,8 +104,8 @@ ChClose(7);
 Wait(60,0);
 SEPlay("EV_SE_666",1,0.6);
 Wait(60,0);
-MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ wasn't asking about the
-lesson, but the blackboard.
+MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ wasn't asking about
+the lesson, but the blackboard.
 ｛Mikage＊＊｝ is so kind.)");
 SEStop("EV_SE_666");
 MsgClose();

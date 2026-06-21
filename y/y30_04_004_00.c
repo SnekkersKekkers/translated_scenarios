@@ -12,24 +12,25 @@ MsgClear();
 BGOpen("ad441",0);
 VoicePlay("Y300400400_03_000");
 MsgDisp("Honda","\"Mi-kun!\"");
-MsgDisp("","I hear a loud voice call out for me. I
-nearly drop my phone.");
+MsgDisp("","I hear a loud voice call out for me.
+I nearly drop my phone.");
 MsgClear();
 VoicePlay("Y300400400_04_000");
 MsgDisp("Nanatsumori","\"Dahon, your voice is loud...\"");
-MsgDisp("","With social media loaded on my screen, I
-switch my phone off.");
+MsgDisp("","With social media loaded on my
+screen, I switch my phone off.");
 MsgClear();
 MsgDisp("","What are you looking at? Show me, he
 said, clinging on to me.");
-MsgDisp("","Finding him all sorts of troublesome, I
-silently put my phone back in my pocket.");
-MsgDisp("","Dahon doesn't seem to mind and switches
-to a different topic.");
+MsgDisp("","Finding him all sorts of troublesome,
+I silently put my phone back in my
+pocket.");
+MsgDisp("","Dahon doesn't seem to mind and
+switches to a different topic.");
 MsgClear();
 VoicePlay("Y300400400_03_010");
-MsgDisp("Honda","\"Today, let's all go to the cafeteria. I
-invited Ryo-kun too!\"");
+MsgDisp("Honda","\"Today, let's all go to the
+cafeteria. I invited Ryo-kun too!\"");
 MsgDisp("","Without having a reason to refuse,
 \"Sure\" I replied.");
 MsgClear();
@@ -40,18 +41,18 @@ MsgDisp("","The sounds of footsteps drew near.");
 BGOpen("ad442",0);
 VoicePlay("Y300400400_01_000");
 MsgDisp("Kazama","\"Hey, have you seen her?\"");
-MsgDisp("","By \"her\" I'm guessing he's talking about
-｛主人公苗字｝.");
+MsgDisp("","By \"her\" I'm guessing he's talking
+about ｛主人公苗字｝.");
 MsgDisp("","We shake our heads.");
 MsgClear();
 MsgDisp("","Me and Dahon look at Kazama, who is
-grunting about \"Where have they gone?\"
-and we burst into laughter.");
+grunting about \"Where have they
+gone?\" and we burst into laughter.");
 MsgClear();
 MsgDisp("","Kazama seems even more upset.");
-MsgDisp("","Finding that amusing, the two of us roar
-with laughter, and the person we're
-talking about appears.");
+MsgDisp("","Finding that amusing, the two of us
+roar with laughter, and the person
+we're talking about appears.");
 BGOpen("ad440",0);
 MsgClear();
 MsgDisp("主人公","\"What is everyone talking so happily

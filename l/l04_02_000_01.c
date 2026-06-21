@@ -77,7 +77,8 @@ sugar. Thanks.");
     ChClose(2);
     Wait(30);
     MsgDisp("主人公","(Ah...
-Should I have given him a better chocolate?)");
+Should I have given him a better
+chocolate?)");
     break ;
     default :
     DbgAssert(1);

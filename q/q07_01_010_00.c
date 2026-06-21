@@ -19,13 +19,14 @@ ChMotion(21,0);
 VoicePlay("Q070101000_21_000");
 MsgDisp("Michiru","Mari, what's up?");
 MsgDisp("主人公","Eh?
-｛Kazama＊＊｝ sent me a message to meet him in
-the lobby.");
+｛Kazama＊＊｝ sent me a message to meet him
+in the lobby.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("Q070101000_21_010");
-MsgDisp("Michiru","Hehe. Looks like you're having fun huh, Mari?");
+MsgDisp("Michiru","Hehe.
+Looks like you're having fun huh, Mari?");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,5,1);
@@ -35,8 +36,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("Q070101000_21_020");
-MsgDisp("Michiru","Hikaru, no. Meddling in someone else's love
-life is a surefire way to get burned.");
+MsgDisp("Michiru","Hikaru, no. Meddling in someone else's
+love life is a surefire way to get burned.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -79,8 +80,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("Q070101000_07_000");
-MsgDisp("Mikage?","Even though I get that, being so brazen isn't
-a good idea.");
+MsgDisp("Mikage?","Even though I get that, being so brazen
+isn't a good idea.");
 ChPosition(1,1);
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -97,8 +98,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("Q070101000_07_010");
 MsgDisp("Mikage","Here I am.
-Vice Principal Himuro instructed us to be on
-high alert.");
+Vice Principal Himuro instructed us to be
+on high alert.");
 ChMouth(1,2);
 ChEye(7,0);
 ChMouth(7,0);
@@ -177,7 +178,8 @@ StlEye(1,0);
 VoicePlay("Q070101000_01_080");
 MsgDisp("Kazama","Yeah. I mean, we're together all the time.
 You, me, and him.");
-MsgDisp("主人公","Yeah. But I need to thank you, ｛Kazama＊＊｝.
+MsgDisp("主人公","Yeah.
+But I need to thank you, ｛Kazama＊＊｝.
 You're the one who took me here.");
 StlEyeOpenLevel(1,5);
 VoicePlay("Q070101000_01_090");
@@ -208,12 +210,13 @@ VoicePlay("Q070101000_01_120");
 MsgDisp("Kazama","If they were always fun like this, monthly
 trips wouldn't be so bad.");
 MsgDisp("主人公","I mean...
-Isn't it not just a trip, but a field trip?");
+Isn't it not just a trip, but a
+field trip?");
 StlEyeOpenLevel(1,5);
 VoicePlay("Q070101000_01_130");
 MsgDisp("Kazama","Both are the same.
-It's about looking at the night sky together
-and sleeping under the same roof.");
+It's about looking at the night sky
+together and sleeping under the same roof.");
 StlEye(1,1);
 StlMouth(1,1);
 VoicePlay("Q070101000_01_140");

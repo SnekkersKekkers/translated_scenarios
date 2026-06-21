@@ -27,8 +27,8 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010210000_02_030");
-MsgDisp("Sassa","I heard there was a sale on supplements, so I
-came to take a look.
+MsgDisp("Sassa","I heard there was a sale on supplements,
+so I came to take a look.
 But they were beauty supplements.");
 MsgDisp("主人公","Hehe, I see.");
 ChEye(2,0);
@@ -49,8 +49,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010210000_02_060");
-MsgDisp("Sassa","Yeah, I got one that's supposed to keep the
-skin's firmness and elasticity.");
+MsgDisp("Sassa","Yeah, I got one that's supposed to keep
+the skin's firmness and elasticity.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

@@ -1,7 +1,7 @@
 BGOpen("sc510",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right, I need to submit the gardening
-club activities record.)");
+MsgDisp("主人公","(That's right, I need to submit the
+gardening club activities record.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -51,9 +51,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G110700801_07_040");
-MsgDisp("Mikage","The girl who used to make a fuss every time
-she saw a bug now casually picks them up with
-her hands.");
+MsgDisp("Mikage","The girl who used to make a fuss every
+time she saw a bug now casually picks them
+up with her hands.");
 MsgDisp("主人公","But, touching them with my hands is still
 a bit...");
 ChEye(7,0);
@@ -62,8 +62,8 @@ ChMotion(7,0);
 VoicePlay("G110700801_07_050");
 MsgDisp("Mikage","Even if you say that, before you know it,
 you've become okay with it.");
-MsgDisp("主人公","(Hey, there's something on ｛Mikage＊＊｝'s
-clothes...?)");
+MsgDisp("主人公","(Hey, there's something on
+｛Mikage＊＊｝'s clothes...?)");
 BGMVol(0.5,2);
 while (1){
     RunEverydaySksp(7,1,0,0,1,1);
@@ -96,8 +96,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 MsgDisp("Mikage","I see.
 Well, this will help you get used to it.");
-MsgDisp("主人公","(Yes, it looks like it'll take some time for
-me to get used to the bugs...)");
+MsgDisp("主人公","(Yes, it looks like it'll take some time
+for me to get used to the bugs...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -24,7 +24,8 @@ switch (ChPrmGet(21,6)){
     MsgDisp("Michiru","Cute and strong.
 Mari's an invincible girl, huh?");
     MsgDisp("主人公","(Hehe!
-I'm glad I worked so hard in the judo club!)");
+I'm glad I worked so hard in the
+judo club!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -59,7 +60,8 @@ I was very nervous, but...");
 I think I've come to like you even
 more, Mari.");
     MsgDisp("主人公","(Hehe!
-I'm glad I worked so hard in the judo club!)");
+I'm glad I worked so hard in the
+judo club!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);

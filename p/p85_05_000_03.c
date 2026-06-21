@@ -18,8 +18,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P850500003_05_010");
 MsgDisp("Hiiragi","You even minded my work.
-Therefore, it was my fault for adding to your
-worries.");
+Therefore, it was my fault for adding to
+your worries.");
 MsgDisp("主人公","Uugh... ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMotion(5,0);

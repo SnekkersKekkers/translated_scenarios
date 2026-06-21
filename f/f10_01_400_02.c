@@ -20,8 +20,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100140002_01_010");
-MsgDisp("Kazama","Sassa, when you remembered something, it was
-because you were having fun with me, right?");
+MsgDisp("Kazama","Sassa, when you remembered something,
+it was because you were having fun with
+me, right?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -64,8 +65,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100140002_01_050");
-MsgDisp("Kazama","You were always cheerful and invincible, but
-after that day, you quieted down.");
+MsgDisp("Kazama","You were always cheerful and invincible,
+but after that day, you quieted down.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -84,9 +85,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F100140002_01_060");
-MsgDisp("Kazama","Your brain has fondly remembered chasing me
-around, but has concealed your fear of \"The
-Slimy Ghost\".");
+MsgDisp("Kazama","Your brain has fondly remembered chasing
+me around, but has concealed your fear of
+\"The Slimy Ghost\".");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -116,7 +117,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("F100140002_01_070");
 MsgDisp("Kazama","Your case is a whole different story.
 We'll take our time with that one.");
-MsgDisp("主人公","(｛Kazama＊＊｝, you'd be a great detective...)");
+MsgDisp("主人公","(｛Kazama＊＊｝, you'd be a great
+detective...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

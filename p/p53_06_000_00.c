@@ -36,8 +36,9 @@ It's not like your life is over.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("P530600000_06_030");
-    MsgDisp("Himuro","Asides from that, I think it would be a shame
-if you were too stressed to enjoy it.");
+    MsgDisp("Himuro","Asides from that, I think it would be
+a shame if you were too stressed to
+enjoy it.");
     MsgDisp("主人公","Ah...");
     ChEye(6,0);
     ChMouth(6,0);

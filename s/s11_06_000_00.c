@@ -20,16 +20,16 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("S110600000_06_020");
 MsgDisp("Himuro","It's an interesting result, isn't it?
-Trying to turn things around from this point
-will be quite a challenge.");
+Trying to turn things around from this
+point will be quite a challenge.");
 MsgDisp("主人公","You won't give up, huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("S110600000_06_030");
 MsgDisp("Himuro","I think about it differently.
-After all, luck is something you can change
-with a bit of effort.");
+After all, luck is something you can
+change with a bit of effort.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

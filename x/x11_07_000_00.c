@@ -7,8 +7,8 @@ switch (ChPrmGet(7,6)){
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("X110700000_07_000");
-    MsgDisp("Mikage","Didn't the baseball team win their match the
-other day?");
+    MsgDisp("Mikage","Didn't the baseball team win their match
+the other day?");
     MsgDisp("主人公","Ah, yes.
 That's right.");
     ChEye(7,0);
@@ -39,8 +39,8 @@ match, right?");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("X110700000_07_040");
-    MsgDisp("Mikage","It's not just the athletes, the manager also
-put in a lot of effort.");
+    MsgDisp("Mikage","It's not just the athletes, the manager
+also put in a lot of effort.");
     MsgDisp("主人公","(To think that I was praised by
 ｛Mikage＊＊｝...
 I'm so happy!)");

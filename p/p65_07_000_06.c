@@ -19,8 +19,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("P650700006_07_020");
-MsgDisp("Mikage","Furthermore, the vegetables and herbs should
-be happy too.");
+MsgDisp("Mikage","Furthermore, the vegetables and herbs
+should be happy too.");
 MsgDisp("主人公","Hehe, yes.");
 ChEye(7,0);
 ChMouth(7,0);

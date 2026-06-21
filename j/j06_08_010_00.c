@@ -50,7 +50,8 @@ don't worry about it.");
 I'll call ya again, so see ya!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(He went through the trouble of inviting me.
+        MsgDisp("主人公","(He went through the trouble of
+inviting me.
 I feel bad about that...)");
         break ;
         default :

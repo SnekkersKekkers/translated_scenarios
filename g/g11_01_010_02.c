@@ -3,7 +3,8 @@ SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
 MsgDisp("主人公","(Well, it's time to go home.)");
 MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝ is over there.
-I might as well chat a bit before I go home.)");
+I might as well chat a bit before I
+go home.)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
@@ -30,7 +31,8 @@ VoicePlay("G110101002_01_000");
 MsgDisp("Kazama","We've been so immersed in talking.
 Let's go home before it gets dark.");
 MsgDisp("主人公","Yeah.");
-MsgDisp("主人公","(...Huh? ｛Kazama＊＊｝'s pockets are bulging?
+MsgDisp("主人公","(...Huh?
+｛Kazama＊＊｝'s pockets are bulging?
 I wonder if he's got something in them.)");
 while (1){
     RunEverydaySksp(1,0,0,0,1,1);

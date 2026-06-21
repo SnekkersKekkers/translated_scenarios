@@ -6,8 +6,8 @@ after her.");
 VoicePlay("P840D00004_45_000");
 MsgDisp("Girl","Big sis, thank you!");
 MsgDisp("主人公","I'm glad.
-Please be careful to not let go of her hand
-in crowded places.");
+Please be careful to not let go of her
+hand in crowded places.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_TWO");
 SEWait();
@@ -21,16 +21,17 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("P840D00004_21_000");
 MsgDisp("Michiru","The school announcements were spot on.
-Because of that, the Mother knew right away.");
+Because of that, the Mother knew
+right away.");
 MsgDisp("主人公","Hehe, thank you!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("P840D00004_21_010");
 MsgDisp("Michiru","With Mari entrusted to it, the cultural
-festival's in safe hands. Perhaps this is the
-fruit of your three years of effort on the
-student council?");
+festival's in safe hands. Perhaps this is
+the fruit of your three years of effort on
+the student council?");
 MsgDisp("主人公","(Yeah, seems like I handled my
 responsiblities with no issues. I'm glad I
 continued with the student council!)");

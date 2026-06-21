@@ -17,15 +17,15 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 ChCheek(6,0);
-MsgDisp("Himuro","I have to thank those two as well, for giving
-me a push on the back.");
+MsgDisp("Himuro","I have to thank those two as well, for
+giving me a push on the back.");
 MsgDisp("主人公","Hehe, is that so?");
 VoicePlay("T020621000_06_160");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
-MsgDisp("Himuro","I should go thank them soon...but for just a
-bit longer, I want to be here with you.");
+MsgDisp("Himuro","I should go thank them soon...but for just
+a bit longer, I want to be here with you.");
 VoicePlay("T020621000_06_170");
 ChEye(6,0);
 ChMouth(6,0);

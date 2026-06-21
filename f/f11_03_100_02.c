@@ -17,14 +17,14 @@ ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("F110310002_03_020");
-MsgDisp("Honda","Well, it was popular in a different way than
-what I'd assumed.");
+MsgDisp("Honda","Well, it was popular in a different way
+than what I'd assumed.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("F110310002_03_030");
-MsgDisp("Honda","I always cut my own hair, so I wanted to show
-off my skills.");
+MsgDisp("Honda","I always cut my own hair, so I wanted to
+show off my skills.");
 MsgDisp("主人公","But no one could beat you in a quiz
 battle, right?");
 ChEye(3,0);
@@ -34,8 +34,8 @@ VoicePlay("F110310002_03_040");
 MsgDisp("Honda","Yep, that's right.
 Well, this year—");
 VoicePlay("F110310002_47_000");
-MsgDisp("Broadcast","The annual Quiz Haircut Battle is outside the
-school gate this year. If you want to
+MsgDisp("Broadcast","The annual Quiz Haircut Battle is outside
+the school gate this year. If you want to
 participate, please come to the gate.");
 MsgDisp("主人公","No way...");
 ChEye(3,3);
@@ -68,7 +68,8 @@ ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F110310002_03_090");
-MsgDisp("Honda","I'll only cut the hair of people who beat me.
+MsgDisp("Honda","I'll only cut the hair of people who
+beat me.
 I don't plan on losing, though.");
 MsgDisp("主人公","Y-Yeah.
 Please make sure you do that, okay?");

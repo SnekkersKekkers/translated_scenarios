@@ -29,10 +29,11 @@ We weren't in sync at all...)");
     ChMotion(4,0,1);
     VoicePlay("O030400002_04_020");
     MsgDisp("Nanatsumori","No helping it.
-In the first place, I'm no good at exercise
-anyways.");
-    MsgDisp("主人公","(Hm, if we were a little more in sync, maybe
-we would have gotten a better rank...)");
+In the first place, I'm no good at
+exercise anyways.");
+    MsgDisp("主人公","(Hm, if we were a little more in sync,
+maybe we would have gotten a better
+rank...)");
     break ;
     case 4:
     case 5:
@@ -57,8 +58,8 @@ we would have gotten a better rank...)");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("O030400002_04_060");
-    MsgDisp("Nanatsumori","So, if we get to work together again, let's
-both try harder.");
+    MsgDisp("Nanatsumori","So, if we get to work together again,
+let's both try harder.");
     MsgDisp("主人公","(｛Nanatsumori＊｝ looks serious...
 But, getting last is still frustrating...)");
     break ;

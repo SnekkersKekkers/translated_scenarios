@@ -31,8 +31,9 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("X210600000_06_040");
-MsgDisp("Himuro","You being recognised by everyone is supposed
-to be a good thing I guess, but...");
+MsgDisp("Himuro","You being recognised by everyone is
+supposed to be a good thing I
+guess, but...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -45,8 +46,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("X210600000_06_060");
-MsgDisp("Himuro","Well, in any case, it's a happy occasion, so
-don't worry about my sentimentality.");
+MsgDisp("Himuro","Well, in any case, it's a happy occasion,
+so don't worry about my sentimentality.");
 ChEye(6,3);
 ChMouth(6,3);
 ChMotion(6,3);

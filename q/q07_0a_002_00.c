@@ -22,14 +22,14 @@ VoicePlay("Q070A00200_01_000");
 MsgDisp("Kazama","There's even things here from over 150
 years ago.
 Looking at them never gets old.");
-MsgDisp("主人公","Since ｛Kazama＊＊｝ is so into them, I'm sure
-that means they're important.");
+MsgDisp("主人公","Since ｛Kazama＊＊｝ is so into them, I'm
+sure that means they're important.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q070A00200_01_010");
-MsgDisp("Kazama","These are timeless pieces, and you can sense
-the history they carry.");
+MsgDisp("Kazama","These are timeless pieces, and you can
+sense the history they carry.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
@@ -60,7 +60,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("Q070A00200_01_040");
 MsgDisp("Kazama","We're sticking together.
-I'll tell you guys all about them. ...Okay?");
+I'll tell you guys all about them.
+...Okay?");
 MsgDisp("主人公","Yay! Thanks.");
 ChEye(2,0);
 ChMouth(2,4);

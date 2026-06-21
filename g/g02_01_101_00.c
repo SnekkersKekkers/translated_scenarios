@@ -25,8 +25,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110100_01_030");
 MsgDisp("Kazama","Okay, listen up.
-See, the big one over there flying super fast
-is Firefly Sassa.");
+See, the big one over there flying super
+fast is Firefly Sassa.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,2);
@@ -47,15 +47,15 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110100_01_060");
-MsgDisp("Kazama","Sorry, but this is the one competition that I
-can't afford to lose.");
+MsgDisp("Kazama","Sorry, but this is the one competition
+that I can't afford to lose.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020110100_01_070");
-MsgDisp("Kazama","...But, well, the fact that I'm the one here
-together with you...you know?
+MsgDisp("Kazama","...But, well, the fact that I'm the one
+here together with you...you know?
 Means I'm in the lead, right?");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
@@ -68,14 +68,14 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110100_01_090");
-MsgDisp("Kazama","If you were a firefly, you probably wouldn't
-notice any lights at all...");
+MsgDisp("Kazama","If you were a firefly, you probably
+wouldn't notice any lights at all...");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110100_01_100");
-MsgDisp("Kazama","But remember: Even if I were a firefly, I'd
-be the first to get to you.");
+MsgDisp("Kazama","But remember: Even if I were a firefly,
+I'd be the first to get to you.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);

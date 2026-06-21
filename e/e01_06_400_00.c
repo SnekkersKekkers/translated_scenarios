@@ -1,7 +1,8 @@
 BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, I think I'll head home now. ...Huh?)");
+MsgDisp("主人公","(Well, I think I'll head home now.
+...Huh?)");
 VoicePlay("E010640000_06_000");
 MsgDisp("Himuro?","Sorry.
 Can you back up a little bit.");
@@ -29,7 +30,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0);
 VoicePlay("E010640000_22_020");
-MsgDisp("Hikaru","Aha ▼ But you know, Himuro-chan is so kind.
+MsgDisp("Hikaru","Aha ▼
+But you know, Himuro-chan is so kind.
 He doesn't just ignore Hikaru ♪");
 ChEye(6,0);
 ChMouth(6,1);
@@ -50,8 +52,8 @@ ChMotion(22,0);
 ChEyeOpenLevel(22,8);
 VoicePlay("E010640000_22_030");
 MsgDisp("Hikaru","Himuro-chan is sooo cute～♪
-Whenever Hikaru gets close, Himuro will put
-distance between us. It's so funny～!");
+Whenever Hikaru gets close, Himuro will
+put distance between us. It's so funny～!");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

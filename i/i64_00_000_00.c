@@ -33,8 +33,8 @@ I just about stopped breathing...");
     MsgDisp("Shirahane","Alright, I'll see you at work～!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Yeah, let's keep this part-time job a little
-longer.)");
+    MsgDisp("主人公","(Yeah, let's keep this part-time job a
+little longer.)");
     break ;
     case 1:
     MsgDisp("主人公","Yeah, I'm quitting.

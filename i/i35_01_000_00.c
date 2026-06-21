@@ -46,8 +46,8 @@ See you later.");
     SEWait();
     SEPlay("EV_SE_DOOR_014");
     MsgDisp("主人公","(Hm?
-Come to think of it, there's a cake shop near
-Simon's...)");
+Come to think of it, there's a cake shop
+near Simon's...)");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_014");
@@ -128,8 +128,8 @@ I'm so happy!)");
     MsgDisp("主人公","Hm? Is that you, ｛Kazama＊＊｝?");
     VoicePlay("I350100000_01_100");
     MsgDisp("Kazama","Correct.
-There would've been a penalty for getting it
-wrong, you know.");
+There would've been a penalty for getting
+it wrong, you know.");
     MsgDisp("主人公","Hehe. What is it all of a sudden?");
     VoicePlay("I350100000_01_110");
     MsgDisp("Kazama","I'd like some cake for takeout.
@@ -192,7 +192,8 @@ It was just for a moment?");
     ChClose(1);
     SEWait();
     SEPlay("EV_SE_DOOR_014");
-    MsgDisp("主人公","...Wait, ｛Kazama＊＊｝, you forgot the cake!");
+    MsgDisp("主人公","...Wait, ｛Kazama＊＊｝, you forgot
+the cake!");
     break ;
     default :
     DbgAssert(1);

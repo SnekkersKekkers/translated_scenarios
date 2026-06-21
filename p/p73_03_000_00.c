@@ -23,8 +23,8 @@ Did you come to watch?");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("P730300000_03_010");
-    MsgDisp("Honda","Yep yep, I look forward to seeing both you as
-a model, and your work also.");
+    MsgDisp("Honda","Yep yep, I look forward to seeing both you
+as a model, and your work also.");
     MsgDisp("主人公","That makes me happy, thank you.");
     SEPlay("EV_SE_038");
     SEWait();
@@ -65,8 +65,8 @@ Girls are truly amazing.");
     ChMotion(3,1,1);
     VoicePlay("P730300000_03_050");
     MsgDisp("Honda","Yeah, you're completely different.
-But I like both the you now, and your usual
-self too.");
+But I like both the you now, and your
+usual self too.");
     MsgDisp("主人公","Eh.");
     SEPlay("EV_SE_038");
     SEWait();

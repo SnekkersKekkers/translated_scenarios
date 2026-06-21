@@ -5,17 +5,17 @@ EnvPlay("SE_ENV_BG_SC350_CS0",0.2);
 ChOpen(7,254,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110700400_07_000");
-MsgDisp("Mikage","That's all for today. Whether you're 
-going to club activities, taking a detour 
-or heading straight home, take care.");
+MsgDisp("Mikage","That's all for today. Whether you're going
+to club activities, taking a detour or
+heading straight home, take care.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoiceEVSPlay(7);
 VoicePlay("G110700400_07_010");
 MsgDisp("Mikage","｛主人公｝.
-Please stop by the gardening club for a bit
-on your way home.");
+Please stop by the gardening club for a
+bit on your way home.");
 MsgDisp("主人公","Eh... Ah, okay!");
 MsgClose();
 ScrFadeOut(0);
@@ -38,8 +38,7 @@ ChMotion(7,0);
 VoicePlay("G110700400_07_030");
 MsgDisp("Mikage","It's just like I thought.
 Aren't you feeling a bit tired?");
-MsgDisp("主人公","Eh?
-Not really...");
+MsgDisp("主人公","Eh? Not really...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -64,17 +63,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700400_07_070");
-MsgDisp("Mikage","It's cool that you're always working 
-hard, but you need to relax sometimes
-too.");
+MsgDisp("Mikage","It's cool that you're always working hard,
+but you need to relax sometimes too.");
 MsgDisp("主人公","...Ah, yes.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G110700400_07_080");
 MsgDisp("Mikage","Alright.
-Take another deep breath before you go
-home.");
+Take another deep breath before you
+go home.");
 Wait(30,0);
 SEPlay("EV_SE_080");
 MsgDisp("主人公","(Huh?

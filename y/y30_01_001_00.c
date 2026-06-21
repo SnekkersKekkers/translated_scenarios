@@ -24,9 +24,9 @@ VoicePlay("Y300100100_47_000");
 MsgDisp("Ryota's Mom","\"Sorry, Ryota. It's because of your
 father's job.\"");
 VoicePlay("Y300100100_43_000");
-MsgDisp("Ryota's Dad","\"We're leaving on Monday morning. Make
-sure you say goodbye to your friends
-tomorrow.\"");
+MsgDisp("Ryota's Dad","\"We're leaving on Monday morning.
+Make sure you say goodbye to your
+friends tomorrow.\"");
 MsgClear();
 MsgClose();
 ScrFadeOut(0);
@@ -35,58 +35,61 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 BGOpen("ad112",0);
 ScrFadeIn(0);
-MsgDisp("","The day after we visited the church, I
-was told I'd be studying in England. At
-the time I didn't understand what those
-words meant.");
+MsgDisp("","The day after we visited the church,
+I was told I'd be studying in
+England. At the time I didn't
+understand what those words meant.");
 MsgDisp("","All I knew was that I would never see
 her again...");
 MsgClear();
-MsgDisp("","That Sunday, I locked myself in my room
-and looked up the distance to England in
-the encyclopedia I had received for
-starting school.");
+MsgDisp("","That Sunday, I locked myself in my
+room and looked up the distance to
+England in the encyclopedia I had
+received for starting school.");
 MsgDisp("","9000 kilometres...We had never even
-travelled to nearby towns before. That
-distance felt impossible.");
-MsgDisp("","Knowing that crushed any strength I had
-left to go see her one last time.");
+travelled to nearby towns before.
+That distance felt impossible.");
+MsgDisp("","Knowing that crushed any strength I
+had left to go see her one last time.");
 MsgClear();
 VoicePlay("Y300100100_01_030");
 MsgDisp("Kazama","(As for the wishes we made to the
 pinwheel? We were torn apart forever.
 What a cruel fate...)");
 MsgClear();
-MsgDisp("","I don't remember much after arriving in
-England.");
+MsgDisp("","I don't remember much after arriving
+in England.");
 MsgDisp("","Children are resilient. To protect
 themselves, they learn to
 compartmentalise.");
 MsgDisp("","But then came the first Christmas...");
 MsgClear();
 VoicePlay("Y300100100_47_010");
-MsgDisp("Ryota's Mom","\"How about sending Christmas and New
-Year greetings to your friends at home?\"");
-MsgDisp("","With that simple comment, the feelings I
-had suppressed poured out....");
+MsgDisp("Ryota's Mom","\"How about sending Christmas and
+New Year greetings to your friends
+at home?\"");
+MsgDisp("","With that simple comment, the
+feelings I had suppressed poured
+out....");
 VoicePlay("Y300100100_47_020");
 MsgDisp("Ryota's Mom","\"What's wrong, Ryota?\"");
 MsgClear();
 MsgDisp("","I couldn't stop crying.");
-MsgDisp("","After worrying my mom, I sat at my desk
-and wrote a card.");
+MsgDisp("","After worrying my mom, I sat at my
+desk and wrote a card.");
 MsgDisp("","\"Merry Christmas\" \"Happy New Year\"");
-MsgDisp("","The colourful letters on the card were
-the opposite of how I felt— I couldn't
-write a word that was true.");
+MsgDisp("","The colourful letters on the card
+were the opposite of how I felt— I
+couldn't write a word that was true.");
 MsgClear();
 MsgDisp("","I lied to my mother. I said I didn't
-want to do it that year. But I couldn't
-fool myself.");
-MsgDisp("","I couldn't write or call. The reality of
-our goodbye weighed on me.");
-MsgDisp("","After that year, every holiday, I stared
-at the card. I was completely helpless.");
+want to do it that year. But I
+couldn't fool myself.");
+MsgDisp("","I couldn't write or call. The reality
+of our goodbye weighed on me.");
+MsgDisp("","After that year, every holiday, I
+stared at the card. I was completely
+helpless.");
 MsgClear();
 VoicePlay("Y300100100_01_060");
 MsgDisp("Kazama","\"Maybe this year I can finally write

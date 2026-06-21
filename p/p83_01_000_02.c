@@ -9,8 +9,8 @@ switch (ChPrmGet(1,6)){
     case 3:
     ScrFadeIn(0);
     MsgDisp("主人公","Yeah.
-Seems like everyone is enjoying the cultural
-festival...!");
+Seems like everyone is enjoying the
+cultural festival...!");
     VoicePlay("P830100002_01_000");
     MsgDisp("Kazama?","Don't walk around smirking and talking to
 yourself.");
@@ -25,16 +25,16 @@ Hey, I'm patrolling the school you know?");
     ChMotion(1,0);
     VoicePlay("P830100002_01_010");
     MsgDisp("Kazama","Ha?
-Will you be alright patrolling the school by
-yourself?");
+Will you be alright patrolling the school
+by yourself?");
     MsgDisp("主人公","Of course. I've spent three years managing
-the cultural festival as part of the student
-council, it wasn't just for show.");
+the cultural festival as part of the
+student council, it wasn't just for show.");
     ChEye(1,0);
     VoicePlay("P830100002_48_000");
     MsgDisp("School Girl","Excuse me!
-It looks like students from other schools are
-fighting at the school gates!");
+It looks like students from other schools
+are fighting at the school gates!");
     ChEye(1,2);
     ChEyeOpenLevel(1,0);
     MsgDisp("主人公","That's awful!
@@ -52,8 +52,8 @@ I'm going too.");
     case 5:
     ScrFadeIn(0);
     MsgDisp("主人公","Yeah.
-Seems like everyone is enjoying the cultural
-festival...!");
+Seems like everyone is enjoying the
+cultural festival...!");
     VoicePlay("P830100002_01_030");
     MsgDisp("Kazama?","What are you slacking off for?");
     MsgClose();
@@ -82,7 +82,8 @@ patrolling a bit different?");
     ChMouth(1,2);
     VoicePlay("P830100002_48_010");
     MsgDisp("School Girl","Oh no!
-There's smoke coming from the takoyaki stand!");
+There's smoke coming from the
+takoyaki stand!");
     ChEye(1,2);
     MsgDisp("主人公","I understand, I'll go right away!");
     ChEye(1,0);

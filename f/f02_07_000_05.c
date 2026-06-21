@@ -11,7 +11,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F020700005_07_000");
 MsgDisp("Mikage","That's right...");
-MsgDisp("主人公","Ehh, is sensei depressed about the tests too?");
+MsgDisp("主人公","Ehh, is sensei depressed about the
+tests too?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -23,9 +24,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("F020700005_07_020");
-MsgDisp("Mikage","That's why I make nitpicky trick questions on
-top of the basics, so students are ranked
-clearly.");
+MsgDisp("Mikage","That's why I make nitpicky trick questions
+on top of the basics, so students are
+ranked clearly.");
 MsgDisp("主人公","So that's how it is...seems difficult.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -39,9 +40,9 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("F020700005_07_040");
 MsgDisp("Mikage","But, making tests doesn't suit me.");
-MsgDisp("主人公","If ｛Mikage＊＊｝ could make the questions
-like he liked, everyone would probably get
-better grades.");
+MsgDisp("主人公","If ｛Mikage＊＊｝ could make the
+questions like he liked, everyone would
+probably get better grades.");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,3);

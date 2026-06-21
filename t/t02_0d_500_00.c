@@ -17,8 +17,8 @@ you guys...");
 ChMotion(21,4);
 VoicePlay("T020D50000_21_010");
 MsgDisp("Michiru","Yeah.
-Now that it's ended, we won't be walking home
-together?");
+Now that it's ended, we won't be walking
+home together?");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
 MsgClose();
 ScrFadeOut(0);
@@ -38,8 +38,8 @@ ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("T020D50000_21_020");
 MsgDisp("Michiru","Yeah.
-This is the first time the three of us have
-gone home together.");
+This is the first time the three of us
+have gone home together.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -54,8 +54,8 @@ VoicePlay("T020D50000_21_030");
 MsgDisp("Michiru","...Hey, Mari do you remember the day we
 first met?");
 MsgDisp("主人公","Ah...yes.
-I feel like I was startled by a lot of things
-to begin with.");
+I feel like I was startled by a lot of
+things to begin with.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
@@ -79,27 +79,27 @@ ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("T020D50000_21_050");
 MsgDisp("Michiru","?");
-MsgDisp("主人公","There were a lot of strange things happening,
-yes...but ｛みちる＊｝ and
-｛ひかる＊｝ were always my friends and
-everyday was so fun!");
+MsgDisp("主人公","There were a lot of strange things
+happening, yes...but ｛みちる＊｝ and
+｛ひかる＊｝ were always my friends
+and everyday was so fun!");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("T020D50000_22_030");
 MsgDisp("Hikaru","That goes for Hikaru too!
-Hikaru was so happy when it was the three of
-us together, Mari, big sis and Hikaru!");
+Hikaru was so happy when it was the three
+of us together, Mari, big sis and Hikaru!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("T020D50000_21_060");
 MsgDisp("Michiru","Me too.
-Because of Mari and Hikaru, every day really
-shines...");
+Because of Mari and Hikaru, every day
+really shines...");
 MsgDisp("主人公","Hehe.
-This is the first time you've said something
-like that.");
+This is the first time you've said
+something like that.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -109,14 +109,15 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("T020D50000_21_070");
-MsgDisp("Michiru","...Hmm. I guess it's a little embarrassing.");
+MsgDisp("Michiru","...Hmm.
+I guess it's a little embarrassing.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("T020D50000_22_050");
-MsgDisp("Hikaru","Hey, hey! Hikaru want to have more talks like
-this! From now on let's just open up and say
-anything!▼");
+MsgDisp("Hikaru","Hey, hey! Hikaru want to have more talks
+like this! From now on let's just open up
+and say anything!▼");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,4);
@@ -129,9 +130,9 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("T020D50000_22_060");
-MsgDisp("Hikaru","Well then, let's have our last girl's talk of
-high school at the coffee shop Haba High
-frequents.");
+MsgDisp("Hikaru","Well then, let's have our last girl's talk
+of high school at the coffee shop Haba
+High frequents.");
 ChEye(21,3);
 ChMouth(21,3);
 ChMotion(21,3);

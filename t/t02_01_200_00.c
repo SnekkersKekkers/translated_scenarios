@@ -18,13 +18,15 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020120000_01_010");
-MsgDisp("Kazama","I rushed over to the school from the airport.
+MsgDisp("Kazama","I rushed over to the school from the
+airport.
 Sorry for leaving you alone.");
 MsgDisp("主人公","...No, I wasn't alone.");
 ChEye(1,0);
 ChMouth(1,2);
-MsgDisp("主人公","I came over here because I heard the bell
-with ｛Kazama＊＊｝ back in elementary school.");
+MsgDisp("主人公","I came over here because I heard the
+bell with ｛Kazama＊＊｝ back in
+elementary school.");
 ChEye(1,3);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -67,8 +69,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("T020120000_01_070");
-MsgDisp("Kazama","I was supposed to train at my grandpa's shop
-for three years and then go back to England.");
+MsgDisp("Kazama","I was supposed to train at my grandpa's
+shop for three years and then go back to
+England.");
 MsgDisp("主人公","Eh...");
 ChEye(1,4);
 ChMouth(1,3);
@@ -117,8 +120,8 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("T020120000_01_130");
-MsgDisp("Kazama","We were in this church, you were blowing on
-my pinwheel toy, with an intent look on
+MsgDisp("Kazama","We were in this church, you were blowing
+on my pinwheel toy, with an intent look on
 your face.");
 MsgDisp("主人公","......");
 ChEye(1,2);
@@ -126,8 +129,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020120000_01_140");
-MsgDisp("Kazama","Ever since that day, I've been deceiving my
-Dad and my Grandpa.");
+MsgDisp("Kazama","Ever since that day, I've been deceiving
+my Dad and my Grandpa.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -160,9 +163,9 @@ Wait(30);
 SEPlay("EV_SE_544");
 ChOpen(1,254,0,4,2,#1,#1,0,0);
 VoicePlay("T020120000_01_180");
-MsgDisp("Kazama","Since the day we met, and even in the time we
-spent apart and even when we reunited, I have
-loved you just the same.");
+MsgDisp("Kazama","Since the day we met, and even in the time
+we spent apart and even when we reunited,
+I have loved you just the same.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);

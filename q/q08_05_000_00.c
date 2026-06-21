@@ -23,8 +23,8 @@ Are your feet okay?");
     ChMotion(5,3);
     VoicePlay("Q080500000_05_010");
     MsgDisp("Hiiragi","That's a relief.
-If that's the case, would you mind spending
-the next free period with me too?");
+If that's the case, would you mind
+spending the next free period with me too?");
     MsgDisp("主人公","Yes. Let's do more sightseeing together.");
     ChEye(5,4);
     ChMotion(5,0);

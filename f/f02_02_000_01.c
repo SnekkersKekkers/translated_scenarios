@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Sassa＊＊｝, do you know the legend about the
-church on school grounds?");
+MsgDisp("主人公","｛Sassa＊＊｝, do you know the legend about
+the church on school grounds?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -19,8 +19,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("F020200001_02_010");
 MsgDisp("Sassa","It's a blessing, too.
-If Haba High students confess there, they get
-married, right?");
+If Haba High students confess there, they
+get married, right?");
 MsgDisp("主人公","Right, it's really wonderful.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -38,14 +38,15 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("F020200001_02_040");
-MsgDisp("Sassa","It's already a difficult task, but unlimited
-time doesn't make it tense enough.");
+MsgDisp("Sassa","It's already a difficult task, but
+unlimited time doesn't make it
+tense enough.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("F020200001_02_050");
-MsgDisp("Sassa","Besides, even a princess would have trouble
-waiting 10 or 20 years.");
+MsgDisp("Sassa","Besides, even a princess would have
+trouble waiting 10 or 20 years.");
 MsgDisp("主人公","Yes, you might be right...");
 ChEye(2,0);
 ChMouth(2,4);

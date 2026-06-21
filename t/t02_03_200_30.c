@@ -23,7 +23,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_390");
 MsgDisp("Honda","Ryo-kun and Mi-kun will get mad at me too.
-They'll be like \"what did you do to her?!\".");
+They'll be like \"what did you do
+to her?!\".");
 MsgDisp("主人公","Ugh, I'm sorry...");
 ChEye(3,4);
 ChMouth(3,3);
@@ -34,8 +35,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020320000_03_410");
-MsgDisp("Honda","I'm so glad I got to step out of the world of
-books and meet you, Ryo-kun, and Mi-kun.");
+MsgDisp("Honda","I'm so glad I got to step out of the
+world of books and meet you, Ryo-kun,
+and Mi-kun.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,4);
 ChMotion(3,4,1);

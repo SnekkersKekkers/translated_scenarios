@@ -4,8 +4,8 @@ ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020740003_07_000");
 MsgDisp("Mikage","Did I tell you about Molly?");
 MsgDisp("主人公","Yes.
-On the day of the entrance ceremony, you even
-drew a picture on the blackboard.");
+On the day of the entrance ceremony, you
+even drew a picture on the blackboard.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -45,8 +45,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("G020740003_07_060");
-MsgDisp("Mikage","He didn't get attached to any of the family,
-but he let me touch his crest.");
+MsgDisp("Mikage","He didn't get attached to any of the
+family, but he let me touch his crest.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);
@@ -54,8 +54,8 @@ ChEyeOpenLevel(7,10);
 VoicePlay("G020740003_07_070");
 MsgDisp("Mikage","Come to think of it, he was my first best
 friend～");
-MsgDisp("主人公","(I'm curious about the second and subsequent
-ones...)");
+MsgDisp("主人公","(I'm curious about the second and
+subsequent ones...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

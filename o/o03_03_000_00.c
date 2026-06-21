@@ -56,9 +56,9 @@ You really are the best!");
     ChMotion(3,2);
     ChCheek(3,8);
     VoicePlay("O030300000_03_060");
-    MsgDisp("Honda","...Hm, hm? My heart was racing from running,
-but it feels like it's racing from something
-else, now...");
+    MsgDisp("Honda","...Hm, hm? My heart was racing from
+running, but it feels like it's racing
+from something else, now...");
     MsgDisp("主人公","Huh, are you okay?");
     ChEye(3,0);
     ChMouth(3,3);

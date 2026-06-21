@@ -34,8 +34,8 @@ I have to do my best too!)");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("N020300001_03_030");
-    MsgDisp("Honda","It's truly amazing to put in the effort and
-see those results pay off.
+    MsgDisp("Honda","It's truly amazing to put in the effort
+and see those results pay off.
 Nice work!");
     MsgDisp("主人公","(｛Honda＊＊｝ is even more impressive,
 but...yeah, I'll take the compliment!)");

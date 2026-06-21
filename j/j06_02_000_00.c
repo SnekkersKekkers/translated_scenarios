@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
         ChMotion(2,3);
         VoicePlay("J060200000_02_000");
         MsgDisp("Sassa","That's good, that's a deal.");
-        MsgDisp("主人公","Then on ｛日付｝, at ｛待ち合わせ場所｝?");
+        MsgDisp("主人公","Then on ｛日付｝, at
+｛待ち合わせ場所｝?");
         ChEye(2,3);
         ChMouth(2,3);
         ChMotion(2,4);
@@ -40,7 +41,8 @@ the day.");
         ChMotion(2,3);
         VoicePlay("J060200000_02_020");
         MsgDisp("Sassa","Really? Yes!
-Okay, let's decide where we're going to meet.");
+Okay, let's decide where we're going
+to meet.");
         MsgDisp("主人公","Yeah.
 Okay, then, how about we meet at the
 ｛待ち合わせ場所｝?");
@@ -49,8 +51,8 @@ Okay, then, how about we meet at the
         ChMotion(2,3);
         VoicePlay("J060200000_02_030");
         MsgDisp("Sassa","Yeah, works for me.
-Well, I'm tall, so you'll spot me wherever I
-am, right?");
+Well, I'm tall, so you'll spot me wherever
+I am, right?");
         MsgDisp("主人公","Hmmm...easy to spot, huh?");
         ChEye(2,0);
         ChMouth(2,3);

@@ -28,7 +28,8 @@ ChMotion(2,3);
 ChCheek(2,0);
 VoicePlay("T020200021_02_030");
 MsgDisp("Sassa","Haha! I'm so happy.
-I guess I wasn't just forcing you into this.");
+I guess I wasn't just forcing you
+into this.");
 MsgDisp("主人公","I was really happy too spending the last
 three years challenging myself alongside
 ｛Sassa＊＊｝.");

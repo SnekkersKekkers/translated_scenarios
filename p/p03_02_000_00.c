@@ -26,8 +26,8 @@ Wow...this is pretty fancy.");
     VoicePlay("P030200000_02_010");
     MsgDisp("Sassa","So you're in a yukata too.
 This place really has an atmosphere!");
-    MsgDisp("主人公","Yeah, not just the waitstaff either, but the
-cooking team is also wearing yukata.");
+    MsgDisp("主人公","Yeah, not just the waitstaff either, but
+the cooking team is also wearing yukata.");
     ChEye(2,3);
     ChMouth(2,3);
     ChMotion(2,4);
@@ -53,8 +53,8 @@ come...)");
     ChOpen(2,254,4,0,4,#1,#1,0,0);
     VoiceEVSPlay(2);
     VoicePlay("P030200000_02_030");
-    MsgDisp("Sassa","｛主人公｝, I was lured here by the smell of
-those dango.");
+    MsgDisp("Sassa","｛主人公｝, I was lured here by the smell
+of those dango.");
     MsgDisp("主人公","It's ｛Sassa＊＊｝!
 Welcome!");
     ChEye(2,0);
@@ -79,7 +79,8 @@ and matcha?");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("P030200000_02_060");
-    MsgDisp("Sassa","Okay. Then I'll take the set you recommend!");
+    MsgDisp("Sassa","Okay.
+Then I'll take the set you recommend!");
     MsgDisp("主人公","Yes. I've received your order!");
     break ;
     default :

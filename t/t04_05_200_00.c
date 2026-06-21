@@ -18,8 +18,8 @@ Wait(60);
 MsgDisp("主人公","This month's student council poster?");
 VoicePlay("T040520000_05_010");
 MsgDisp("Hiiragi","Yes.
-I got some advice from Inori-kun, so I could
-make everyone understand clearly.");
+I got some advice from Inori-kun, so I
+could make everyone understand clearly.");
 VoicePlay("T040520000_06_000");
 MsgDisp("Himuro","That's right.
 The message you want to deliver is just
@@ -38,8 +38,8 @@ ScrFadeOut(0,0,300);
 StlClose();
 VoicePlay("T040520000_05_030");
 MsgDisp("Hiiragi","Inori-kun gave me the gift of time.
-Thanks to that, I now have a little more time
-to spend with you.");
+Thanks to that, I now have a little more
+time to spend with you.");
 MsgClose();
 ScrFadeOut(0,0,300);
 Wait(300,0);

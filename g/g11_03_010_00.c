@@ -35,8 +35,8 @@ BGOpen("ev003",0);
 ChOpen(3,100,0,0,1,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110301000_03_030");
-MsgDisp("Honda","Since we came together today, it feels like a
-continuation of school, right?");
+MsgDisp("Honda","Since we came together today, it feels
+like a continuation of school, right?");
 MsgDisp("主人公","Yes, that's right.");
 ChEye(3,2);
 ChMouth(3,1);
@@ -49,8 +49,8 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110301000_03_050");
-MsgDisp("Honda","So, being with you like this after school is
-kind of fun.");
+MsgDisp("Honda","So, being with you like this after school
+is kind of fun.");
 MsgDisp("主人公","Hehe, now that I think about it, it looks
 like we're library committee members.");
 ChEye(3,1);

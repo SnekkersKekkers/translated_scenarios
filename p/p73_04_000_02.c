@@ -78,8 +78,9 @@ I'm a little embarrassed.");
     ChMotion(4,1,1);
     ChMouthOpenLevel(4,#1);
     VoicePlay("P730400002_04_080");
-    MsgDisp("Nanatsumori","I wonder who will be able to stand alongside
-you when you look like that in the future.");
+    MsgDisp("Nanatsumori","I wonder who will be able to stand
+alongside you when you look like that in
+the future.");
     MsgDisp("主人公","Hehe.");
     ChEye(4,0);
     ChMouth(4,0);
@@ -97,8 +98,8 @@ you when you look like that in the future.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P730400002_04_110");
-    MsgDisp("Nanatsumori","It feels strange sending you off, but... do
-your best.");
+    MsgDisp("Nanatsumori","It feels strange sending you off, but...
+do your best.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alriiight!
 Let's do the last runway of my high school

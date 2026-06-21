@@ -6,8 +6,8 @@ ChOpen(6,254,3,0,0,#1,#1,0,0);
 VoicePlay("P840600002_06_000");
 MsgDisp("Himuro","Amazing.
 That was excellent.");
-MsgDisp("主人公","Well, if you don't deal with it one after the
-other, it'll all pile up.");
+MsgDisp("主人公","Well, if you don't deal with it one after
+the other, it'll all pile up.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
@@ -40,6 +40,7 @@ MsgClose();
 ChClose(6,0,0);
 Wait(30);
 MsgDisp("主人公","(｛Himuro＊＊｝ appreciated me!
-Alriiight, let's do our best until the end.)");
+Alriiight, let's do our best until
+the end.)");
 MsgClose();
 ScrFadeOut(0,0);

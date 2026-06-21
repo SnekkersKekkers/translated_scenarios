@@ -34,7 +34,7 @@ VoicePlay("H1A0300000_03_030");
 MsgDisp("Honda","Ah, looks like they're all waiting for you.
 Tell me more about it later?
 Come on, go go!");
-MsgDisp("主人公","(I'm glad that I stayed as the baseball club
-manager!)");
+MsgDisp("主人公","(I'm glad that I stayed as the baseball
+club manager!)");
 MsgClose();
 ScrFadeOut(0,0);

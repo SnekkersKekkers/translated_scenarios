@@ -18,11 +18,11 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("Q070300000_03_010");
 MsgDisp("Honda","I'm interested in that windmill.
-It's a traditional windmill used for milling
-and drainage.");
+It's a traditional windmill used for
+milling and drainage.");
 MsgDisp("主人公","Interesting! ｛Honda＊＊｝, it's so much fun
-going around with you, it's like going around
-with a guide.");
+going around with you, it's like going
+around with a guide.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -33,17 +33,17 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_030");
-MsgDisp("Honda","Oh yes, the position of the windmill blades
-have meanings. When they are in a cross
-shape, long-term stop and so on.");
+MsgDisp("Honda","Oh yes, the position of the windmill
+blades have meanings. When they are in a
+cross shape, long-term stop and so on.");
 MsgDisp("主人公","Oh huh!
 So what about those diagonal ones?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("Q070300000_03_040");
-MsgDisp("Honda","It means there's a short pause, so maybe that
-windmill will start moving?
+MsgDisp("Honda","It means there's a short pause, so maybe
+that windmill will start moving?
 Let's just have a look, shall we?");
 MsgDisp("主人公","Yay!");
 MsgClose();
@@ -110,8 +110,8 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("Q070300000_03_100");
 MsgDisp("Honda","True.
-It's so well-kept, it's hard to believe the
-building is over 150 years old.");
+It's so well-kept, it's hard to believe
+the building is over 150 years old.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -127,14 +127,15 @@ ChMouth(3,4);
 ChMotion(3,5,1);
 VoicePlay("Q070300000_03_120");
 MsgDisp("Honda","Eeh, what∋
-Don't give me such a difficult question all
-of a sudden!");
+Don't give me such a difficult question
+all of a sudden!");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("Q070300000_03_130");
 MsgDisp("Honda","Hmmm...
-I used to adore naturalists when I was a kid.");
+I used to adore naturalists when I was
+a kid.");
 MsgDisp("主人公","Naturalists?");
 ChEye(3,0);
 ChMouth(3,3);
@@ -148,16 +149,16 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("Q070300000_03_150");
-MsgDisp("Honda","Really? I'm glad to hear that, but it doesn't
-quite appeal to me. I always ask myself, am I
-really ok with that?");
+MsgDisp("Honda","Really? I'm glad to hear that, but it
+doesn't quite appeal to me. I always ask
+myself, am I really ok with that?");
 MsgDisp("主人公","Eeh?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("Q070300000_03_160");
-MsgDisp("Honda","Like those merchants who came here, I think I
-should be more focused.
+MsgDisp("Honda","Like those merchants who came here, I
+think I should be more focused.
 I'm ready to risk it all.");
 ChEye(3,0);
 ChMouth(3,0);

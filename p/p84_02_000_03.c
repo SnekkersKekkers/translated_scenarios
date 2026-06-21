@@ -11,8 +11,8 @@ SEWait();
 ChOpen(2,254,0,0,0,#1,#1,0,0);
 VoicePlay("P840200003_02_000");
 MsgDisp("Sassa","Excuse me!
-Could you please provide some trash bags for
-my class?");
+Could you please provide some trash bags
+for my class?");
 MsgDisp("主人公","Ah, ｛Sassa＊＊｝...
 What should I do?
 There aren't anymore trash bags left...");
@@ -32,8 +32,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P840200003_02_030");
 MsgDisp("Sassa","Of course it's okay.
-The job of the student council is to help the
-students, right?");
+The job of the student council is to help
+the students, right?");
 MsgClose();
 ChClose(2);
 MsgDisp("","　　　　　　　　　　 ・

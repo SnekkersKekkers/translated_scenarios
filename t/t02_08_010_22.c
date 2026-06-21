@@ -28,8 +28,8 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,3,1);
 MsgDisp("Shirahane","Sigh...
-I wonder if I'll be like this even when I go
-to university.");
+I wonder if I'll be like this even when I
+go to university.");
 VoicePlay("T020801000_08_340");
 ChEye(8,4);
 ChMouth(8,3);

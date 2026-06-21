@@ -43,8 +43,8 @@ ChMotion(1,3);
 ChCheek(1,0);
 ChMotion(1,0);
 VoicePlay("T020120000_01_580");
-MsgDisp("Kazama","May we always be happy and healthy, and may
-we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020120000_01_590");
@@ -67,7 +67,8 @@ It looks similar to your hair accessory
 doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020120000_01_620");
-MsgDisp("Kazama","I found and bought it when I was in England.");
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020120000_01_630");
 MsgDisp("Kazama","—I promised to definitely give it to you

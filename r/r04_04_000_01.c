@@ -52,7 +52,8 @@ It's pretty funny.");
     ChMouth(4,3);
     ChMotion(4,0);
     VoicePlay("R040400001_04_070");
-    MsgDisp("Nanatsumori","You look absolutely beautiful in that dress.");
+    MsgDisp("Nanatsumori","You look absolutely beautiful in
+that dress.");
     MsgDisp("主人公","...Really?");
     ChEye(4,4);
     ChMouth(4,3);

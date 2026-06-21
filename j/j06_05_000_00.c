@@ -68,8 +68,8 @@ I'm just...");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("J060500000_05_050");
-        MsgDisp("Hiiragi","Next time, I'll invite you so well you won't
-be able to say no.");
+        MsgDisp("Hiiragi","Next time, I'll invite you so well you
+won't be able to say no.");
         MsgDisp("主人公","Hmmm, yeah.
 See you later.");
         MsgClose();

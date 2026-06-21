@@ -36,8 +36,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("G020520000_05_070");
 MsgDisp("Hiiragi","Phew...that was a relief.
-You know, it's within my nature to be true to
-my words.");
+You know, it's within my nature to be true
+to my words.");
 MsgDisp("主人公","(The person closest to me...)");
 BGMStop();
 MsgClose();

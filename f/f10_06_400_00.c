@@ -29,8 +29,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("F100640000_01_010");
 MsgDisp("Kazama","What's up you say...
-Ah, hey, we're moving classrooms next aren't
-we? I'll end up leaving you behind.");
+Ah, hey, we're moving classrooms next
+aren't we? I'll end up leaving you behind.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

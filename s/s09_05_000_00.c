@@ -24,7 +24,8 @@ There are so many people.");
         ChMotion(5,3);
         VoicePlay("S090500000_05_020");
         MsgDisp("Hiiragi","Ehh, of course.
-You should always try to get the lucky ones.");
+You should always try to get the
+lucky ones.");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,4);
@@ -75,8 +76,8 @@ So many people.");
         ChMotion(5,2);
         VoicePlay("S090500000_05_070");
         MsgDisp("Hiiragi","Ah, that type of person exists.");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ maybe is the type of person to
-pull fortunes.)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ maybe is the type of person
+to pull fortunes.)");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -92,7 +93,8 @@ pull fortunes.)");
     MsgClose();
     ChOpen(5,255,2,0,4,#1,#1,0,0);
     VoicePlay("S090500000_05_080");
-    MsgDisp("Hiiragi","Are you waiting for your turn over there too?");
+    MsgDisp("Hiiragi","Are you waiting for your turn over
+there too?");
     MsgDisp("主人公","Oh, this is the line for drawing fortunes!");
     ChEye(5,4);
     ChMotion(5,0);

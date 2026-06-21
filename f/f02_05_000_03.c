@@ -12,20 +12,20 @@ MsgDisp("主人公","Huh, how'd it go?");
 ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("F020500003_05_010");
-MsgDisp("Hiiragi","The rumours of Mikage-sensei using the church
-as a vegetable garden and raising cows are
-nothing but hearsay.");
+MsgDisp("Hiiragi","The rumours of Mikage-sensei using the
+church as a vegetable garden and raising
+cows are nothing but hearsay.");
 MsgDisp("主人公","Oh, I see.");
 ChEye(5,0);
 ChMouth(5,4);
 VoicePlay("F020500003_05_020");
-MsgDisp("Hiiragi","However, please allow me to tell you the real
-truth of the matter instead.");
+MsgDisp("Hiiragi","However, please allow me to tell you the
+real truth of the matter instead.");
 ChMotion(5,4);
 VoicePlay("F020500003_05_030");
-MsgDisp("Hiiragi","It seems that the church's basement houses an
-LED-grown vegetable experiment for the coming
-doomsday.");
+MsgDisp("Hiiragi","It seems that the church's basement houses
+an LED-grown vegetable experiment for the
+coming doomsday.");
 ChEye(5,3);
 VoicePlay("F020500003_05_040");
 MsgDisp("Hiiragi","Also, those vegetables are being used to
@@ -36,14 +36,14 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("F020500003_05_050");
 MsgDisp("Hiiragi","Is it? I suppose you're right.
-But the way he talked, it sounded like there
-was more to the story.");
+But the way he talked, it sounded like
+there was more to the story.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("F020500003_05_060");
-MsgDisp("Hiiragi","After all, it seems that the leaders of the
-initiative are Vice Principal Himuro and
-Chairman Amanohashi.");
+MsgDisp("Hiiragi","After all, it seems that the leaders of
+the initiative are Vice Principal Himuro
+and Chairman Amanohashi.");
 MsgDisp("主人公","Is that what ｛Mikage＊＊｝ said?");
 ChEye(5,0);
 ChMouth(5,0);
@@ -55,7 +55,7 @@ You understand, right?");
 MsgDisp("主人公","Um, sure...");
 ChMotion(5,0,1);
 VoicePlay("F020500003_05_080");
-MsgDisp("Hiiragi","If this information leaks, then Mikage-sensei
-will most likely be fired.");
+MsgDisp("Hiiragi","If this information leaks, then
+Mikage-sensei will most likely be fired.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝, isn't ｛Mikage＊＊｝ just
 playing with you?)");

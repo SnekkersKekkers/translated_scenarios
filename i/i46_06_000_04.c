@@ -15,8 +15,8 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("I460600004_06_000");
     MsgDisp("Himuro","Yeah, it doesn't look well.");
-    MsgDisp("主人公","Alright, I'll check on the other flowers and
-mist them too if they need it.");
+    MsgDisp("主人公","Alright, I'll check on the other flowers
+and mist them too if they need it.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
@@ -27,8 +27,8 @@ mist them too if they need it.");
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("I460600004_06_020");
-    MsgDisp("Himuro","Nah, I just thought you were getting a little
-reliable.");
+    MsgDisp("Himuro","Nah, I just thought you were getting a
+little reliable.");
     MsgDisp("主人公","Huh! You think so?");
     ChEye(6,1);
     ChMouth(6,0);

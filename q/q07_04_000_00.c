@@ -62,7 +62,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("Q070400000_04_070");
-MsgDisp("Nanatsumori","Maybe for a Graduation Trip or a Honeymoon...");
+MsgDisp("Nanatsumori","Maybe for a Graduation Trip or a
+Honeymoon...");
 MsgDisp("主人公","Eh?");
 ChEye(4,3);
 ChMouth(4,3);
@@ -118,7 +119,8 @@ ChMouth(4,3);
 ChMotion(4,2,1);
 ChCheek(4,5);
 VoicePlay("Q070400000_04_130");
-MsgDisp("Nanatsumori","...It feels a bit embarrassing saying this.");
+MsgDisp("Nanatsumori","...It feels a bit embarrassing
+saying this.");
 MsgDisp("主人公","Hey, come on.
 I also feel the vibes.");
 ChEye(4,2);

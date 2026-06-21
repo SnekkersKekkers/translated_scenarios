@@ -56,8 +56,8 @@ Do you think they'd hire me, too?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("I650700000_07_050");
-    MsgDisp("Mikage","See, aren't the male uniforms kinda close in
-colour to what I'm wearing...
+    MsgDisp("Mikage","See, aren't the male uniforms kinda close
+in colour to what I'm wearing...
 Or not?");
     MsgDisp("主人公","Hehe, you're going to get scolded by Vice
 Principal Himuro again, you know?");
@@ -116,8 +116,9 @@ Thank you very much.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I650700000_07_090");
-    MsgDisp("Mikage","Oh, I left drinks for everyone in your break
-room, so drink up when you get a chance!");
+    MsgDisp("Mikage","Oh, I left drinks for everyone in
+your break room, so drink up when you
+get a chance!");
     MsgDisp("主人公","Yay! Thank you very much.");
     ChEye(7,0);
     ChMouth(7,3);

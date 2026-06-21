@@ -33,8 +33,8 @@ Did you write your name on it?");
     ChMotion(3,2,1);
     VoicePlay("P830300002_03_020");
     MsgDisp("Honda","I didn't write my name on it...
-Even though I was going to it eat with you, I
-lost my meal ticket for takoyaki.");
+Even though I was going to it eat with
+you, I lost my meal ticket for takoyaki.");
     MsgDisp("主人公","Your name wouldn't be written on your meal
 ticket, huh?");
     ChEye(3,0);
@@ -47,7 +47,8 @@ I'll see you then.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("P830300002_03_040");
-    MsgDisp("Honda","Ah, if I find it, shall we eat it together?");
+    MsgDisp("Honda","Ah, if I find it, shall we eat it
+together?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
     MsgDisp("主人公","(｛Honda＊＊｝, thank you.
@@ -82,7 +83,8 @@ property...");
     VoicePlay("P830300002_03_070");
     MsgDisp("Honda","Sigh, that's right.
 It hasn't been turned in, right...");
-    MsgDisp("主人公","I'll write this in the lost items notebook.");
+    MsgDisp("主人公","I'll write this in the lost items
+notebook.");
     ChEye(3,2);
     ChMouth(3,4);
     ChMotion(3,5,1);
@@ -106,8 +108,8 @@ lost their meal tickets.");
     ChMotion(3,1,1);
     VoicePlay("P830300002_03_110");
     MsgDisp("Honda","I'll go look for it.
-Then, you too should also enjoy the cultural
-festival properly.");
+Then, you too should also enjoy the
+cultural festival properly.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);

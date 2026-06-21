@@ -26,17 +26,17 @@ ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("G020730100_07_030");
 MsgDisp("Mikage","I see.
-By the way, it feels like I'm also included
-in that group of friends, right?");
-MsgDisp("主人公","When ｛Mikage＊＊｝ joins us, everyone looks
-like they're having fun.");
+By the way, it feels like I'm also
+included in that group of friends, right?");
+MsgDisp("主人公","When ｛Mikage＊＊｝ joins us, everyone
+looks like they're having fun.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020730100_07_040");
 MsgDisp("Mikage","When I join and it gets lively, Vice
-Principal Himuro comes over, scolds us, and
-we all have to scatter, right?～");
+Principal Himuro comes over, scolds us,
+and we all have to scatter, right?～");
 MsgDisp("主人公","Hehe, that's fun too, right?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -48,7 +48,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020730100_07_060");
-MsgDisp("Mikage","I'm also worried about my bonus evaluation...");
+MsgDisp("Mikage","I'm also worried about my bonus
+evaluation...");
 MsgDisp("主人公","(I see...teachers also have something like
 report cards.
 Good luck, ｛Mikage＊＊｝...!)");

@@ -1,16 +1,16 @@
 BGOpen("ar600",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Yes, I feel like I can study more now that I
-work part time at a bookstore!)");
+MsgDisp("主人公","(Yes, I feel like I can study more now
+that I work part time at a bookstore!)");
 MsgClose();
 BGMPlay("BGM_C03_HONDA_A");
 ChOpen(3,35,1,0,3,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("G110300700_03_000");
 MsgDisp("Honda","｛主人公｝.
-Recently, I've been enjoying talking to you
-more and more.");
+Recently, I've been enjoying talking to
+you more and more.");
 MsgDisp("主人公","Hehe, that makes me happy.");
 MsgClose();
 ScrFadeOut(0);
@@ -27,8 +27,8 @@ MsgDisp("Honda","One, two, they're bookworms♪
 Three, four, they're stomach worms♪ Rock!");
 MsgDisp("主人公","Hehe, that's a cute song!");
 MsgDisp("主人公","(｛Honda＊＊｝ looks like he's enjoying
-himself. ...Hehe, your hair is also bouncing
-up and down.)");
+himself. ...Hehe, your hair is also
+bouncing up and down.)");
 while (1){
     RunEverydaySksp(3,1,1,1,0,0);
     if (RunEverydaySkspRsltGet()){
@@ -64,8 +64,8 @@ MsgDisp("Honda","Thank you.");
 ChMouth(3,1);
 ChMotion(3,0);
 VoicePlay("G110300700_03_080");
-MsgDisp("Honda","But you also like studying and books, so I'm
-sure you'll be a great mom too?");
+MsgDisp("Honda","But you also like studying and books, so
+I'm sure you'll be a great mom too?");
 MsgDisp("主人公","Eh-!");
 MsgDisp("主人公","(I'm happy, but it's a little
 embarrassing...)");

@@ -1,8 +1,8 @@
 ScrFadeIn(0);
 VoicePlay("P840700003_48_000");
 MsgDisp("School Girl","Sigh...this much is left over...
-Seems like the wrong amount of materials were
-ordered...");
+Seems like the wrong amount of materials
+were ordered...");
 MsgDisp("主人公","I'm sorry...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -25,9 +25,10 @@ ChMouth(7,4);
 ChMotion(7,0);
 VoicePlay("P840700003_07_020");
 MsgDisp("Mikage","Hm?
-Why are you making a depressed-looking face?");
-MsgDisp("主人公","I messed up the number of cardboard to order,
-so now there's lots left over.");
+Why are you making a
+depressed-looking face?");
+MsgDisp("主人公","I messed up the number of cardboard to
+order, so now there's lots left over.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -38,10 +39,12 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P840700003_07_040");
-MsgDisp("Mikage","No one is in trouble because they can't use
-it, and the cardboard company is happy.");
-MsgDisp("主人公","But, I made a mistake of a digit, and now
-there's a huge amount of cardboard... ugh....");
+MsgDisp("Mikage","No one is in trouble because they
+can't use it, and the cardboard
+company is happy.");
+MsgDisp("主人公","But, I made a mistake of a digit, and
+now there's a huge amount of
+cardboard... ugh....");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -50,8 +53,8 @@ MsgDisp("Mikage","It was a difference of a digit?
 Then, I think it would be better if you
 returned it.");
 MsgDisp("主人公","(Sigh...
-It would have been better if I had prepared
-more carefully.)");
+It would have been better if I had
+prepared more carefully.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

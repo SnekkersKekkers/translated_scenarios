@@ -11,21 +11,21 @@ ChMouth(22,4);
 ChMotion(22,2,1);
 VoicePlay("F022200010_22_000");
 MsgDisp("Hikaru","Sigh...
-Haba High's cultural festival is so fun, it's
-sad to think this is our last one.");
+Haba High's cultural festival is so fun,
+it's sad to think this is our last one.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F022200010_22_010");
 MsgDisp("Hikaru","Ah, that's right!
-Hikaru wonders who will be the lead role in
-our school play～♪");
+Hikaru wonders who will be the lead role
+in our school play～♪");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200010_22_020");
-MsgDisp("Hikaru","If Mari becomes the heroine, Hikaru will be
-cheering for her like crazy▼");
+MsgDisp("Hikaru","If Mari becomes the heroine, Hikaru will
+be cheering for her like crazy▼");
 MsgDisp("主人公","Y-Yeah.
 If I get the lead role, I'll do my
 best, okay?");

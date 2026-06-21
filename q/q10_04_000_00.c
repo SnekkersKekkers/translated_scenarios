@@ -10,8 +10,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("Q100400000_04_000");
 MsgDisp("Nanatsumori","So this is the glasses bridge...");
-MsgDisp("主人公","The round piers reflect on the water, making
-it look like a pair of glasses.");
+MsgDisp("主人公","The round piers reflect on the water,
+making it look like a pair of glasses.");
 ChMotion(4,2,1);
 VoicePlay("Q100400000_04_010");
 MsgDisp("Nanatsumori","Now that I think about it, the Principal's
@@ -30,7 +30,8 @@ MsgDisp("Nanatsumori","...Pfft!
 I can't believe we're here and we're thinking
 about school. How serious can we be∋");
 MsgDisp("主人公","Ahaha! Ah...
-But, ｛Nanatsumori＊｝, you also wear glasses.");
+But, ｛Nanatsumori＊｝, you also wear
+glasses.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -58,7 +59,8 @@ I'll need quite a few.");
 MsgDisp("主人公","Oh, are they for your work colleagues?");
 ChMotion(4,1,1);
 VoicePlay("Q100400000_04_070");
-MsgDisp("Nanatsumori","Yup. They take care of me on a daily basis.");
+MsgDisp("Nanatsumori","Yup.
+They take care of me on a daily basis.");
 MsgDisp("主人公","I'll help you with the shopping, then.");
 ChMouth(4,3);
 ChMotion(4,0,1);

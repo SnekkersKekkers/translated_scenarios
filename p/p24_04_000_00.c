@@ -39,8 +39,9 @@ MsgDisp("主人公","(Eh?)");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("P240400000_04_040");
-MsgDisp("Nanatsumori","Actually, at this point I should dazzlingly～
-turn back into a handsome guy, huh?");
+MsgDisp("Nanatsumori","Actually, at this point I should
+dazzlingly～ turn back into a handsome
+guy, huh?");
 MsgDisp("主人公","Y-Yeah, that's right.
 That's why you should start getting up...");
 StlEye(4,1);
@@ -55,8 +56,8 @@ VoicePlay("P240400000_04_060");
 MsgDisp("Nanatsumori","Because she loves me as the beast, right?
 After this I'll look like a completely
 different person.");
-MsgDisp("主人公","But even if you say that, that's the story's
-happy ending...");
+MsgDisp("主人公","But even if you say that, that's the
+story's happy ending...");
 StlEye(4,1);
 StlMouth(4,1);
 VoicePlay("P240400000_04_070");

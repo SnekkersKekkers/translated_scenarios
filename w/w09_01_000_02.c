@@ -24,7 +24,8 @@ switch (ChPrmGet(1,6)){
     ChMotion(1,3);
     VoicePlay("W090100002_01_020");
     MsgDisp("Kazama","You really saved me.
-I wouldn't have done this if it wasn't you.");
+I wouldn't have done this if it
+wasn't you.");
     MsgDisp("主人公","Huh?");
     ChEye(1,0);
     ChMouth(1,3);

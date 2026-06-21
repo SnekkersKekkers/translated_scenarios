@@ -12,7 +12,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("Q070D00000_22_000");
 MsgDisp("Hikaru","Such a huge windmill～!
-Hikaru can't believe it spins in the wind...");
+Hikaru can't believe it spins in
+the wind...");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);
@@ -88,8 +89,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("Q070D00000_21_040");
-MsgDisp("Michiru","It seems it was modelled after a tall tower
-overseas.
+MsgDisp("Michiru","It seems it was modelled after a tall
+tower overseas.
 It was originally a church's bell.");
 MsgDisp("主人公","Huh, wow...!");
 ChEye(21,4);
@@ -97,7 +98,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("Q070D00000_21_050");
 MsgDisp("Michiru","I love how it looks.
-I hope I can get to see the real one one day.");
+I hope I can get to see the real one
+one day.");
 ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,5,1);
@@ -143,7 +145,8 @@ ChMotion(21,0);
 BGMPlay("BGM_C23_HIKARU_MICHIRU",0.01,0.9);
 ScrFadeIn(0);
 VoicePlay("Q070D00000_21_080");
-MsgDisp("Michiru","Because it's old, it has a certain nobleness.");
+MsgDisp("Michiru","Because it's old, it has a certain
+nobleness.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
@@ -163,8 +166,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("Q070D00000_21_100");
 MsgDisp("Michiru","The cobblestone contains a heart-shaped
-stone. It's said that if you're able to find
-it, your love will come true.");
+stone. It's said that if you're able to
+find it, your love will come true.");
 ChSet(21,0);
 ChEye(22,0);
 ChMouth(22,3);

@@ -21,7 +21,8 @@ MsgDisp("Goro","It was the best.
 I'm familiar with this song, but it's like
 I've seen a new world!");
 MsgDisp("主人公","(Yay!
-This is the result of practising regularly!)");
+This is the result of practising
+regularly!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(31,0,0);

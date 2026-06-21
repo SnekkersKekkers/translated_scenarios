@@ -25,7 +25,8 @@ Your support became my strength,
     ChMotion(22,4,1);
     VoicePlay("H3A2200000_22_010");
     MsgDisp("Hikaru","Really?
-Did you hear Hikaru cheering Go Mari～? Aha▼");
+Did you hear Hikaru cheering Go Mari～?
+Aha▼");
     MsgDisp("主人公","(Hehe!
 I'm glad I worked so hard at judo club!)");
     BGMStop();

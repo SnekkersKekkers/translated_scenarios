@@ -34,8 +34,8 @@ the store.");
     VoicePlay("I450700000_07_030");
     MsgDisp("Mikage","Ooh, I see you have succulents, too.");
     MsgDisp("主人公","(Hehe.
-Looks like ｛Mikage＊＊｝ is going to take a
-long time, right?)");
+Looks like ｛Mikage＊＊｝ is going to
+take a long time, right?)");
     break ;
     case 3:
     MsgClose();
@@ -92,15 +92,15 @@ Thanks.");
     ChMotion(7,2);
     VoicePlay("I450700000_07_090");
     MsgDisp("Mikage","There's a baby boom over at my family's
-place. I was going to take a picture of the
-bouquet and send that.");
+place. I was going to take a picture of
+the bouquet and send that.");
     MsgDisp("主人公","Congratulations!");
     ChEye(7,2);
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("I450700000_07_100");
-    MsgDisp("Mikage","I wanted to send the real bouquet, but it'd
-get eaten, right?");
+    MsgDisp("Mikage","I wanted to send the real bouquet, but
+it'd get eaten, right?");
     MsgDisp("主人公","(Eaten??
 ...Ah, he meant a baby animal!)");
     break ;
@@ -115,7 +115,8 @@ Welcome!");
     ChMouth(7,0);
     ChMotion(7,0,1);
     VoicePlay("I450700000_07_110");
-    MsgDisp("Mikage","Oh, you've completely become a proper clerk.");
+    MsgDisp("Mikage","Oh, you've completely become a
+proper clerk.");
     MsgDisp("主人公","You think so?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -147,11 +148,11 @@ put on the desk in the staff room.");
     SEWait();
     ChOpen(7,255,3,0,0,#1,#1,0,0);
     VoicePlay("I450700000_07_150");
-    MsgDisp("Mikage","Ooh, it's well balanced, and just seeing it
-will cheer us up.");
+    MsgDisp("Mikage","Ooh, it's well balanced, and just seeing
+it will cheer us up.");
     MsgDisp("主人公","Yes. I hope that this will make the staff
-room even a little more comfortable for you,
-｛Mikage＊＊｝.");
+room even a little more comfortable for
+you, ｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);

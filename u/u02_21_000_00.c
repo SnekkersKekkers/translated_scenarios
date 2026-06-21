@@ -11,26 +11,29 @@ ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("U022100000_21_010");
-MsgDisp("Michiru","It turns out that shopping with someone else
-is more fun than shopping by yourself.");
+MsgDisp("Michiru","It turns out that shopping with someone
+else is more fun than shopping by
+yourself.");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U022100000_21_020");
-MsgDisp("Michiru","Even if I have trouble choosing something I
-can just ask for your advice.
+MsgDisp("Michiru","Even if I have trouble choosing something
+I can just ask for your advice.
 We have so much fun chatting.");
 MsgDisp("主人公","I agree!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("U022100000_21_030");
-MsgDisp("Michiru","Hmm... Do you think I bought too many things?");
+MsgDisp("Michiru","Hmm...
+Do you think I bought too many things?");
 MsgDisp("主人公","Hehe!");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U022100000_21_040");
-MsgDisp("Michiru","Well, thanks to Mari, today was a good day.
+MsgDisp("Michiru","Well, thanks to Mari, today was a
+good day.
 I found so many great things, right?");
 MsgDisp("主人公","Yes!");

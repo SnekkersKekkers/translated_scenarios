@@ -32,16 +32,16 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("H7G0100000_01_040");
 MsgDisp("Kazama","Sigh.
-Don't think you can get away with it just by
-making that face...");
+Don't think you can get away with it just
+by making that face...");
 MsgDisp("主人公","Huh?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("H7G0100000_01_050");
 MsgDisp("Kazama","Anyways, good for you.
-It means that a lot of people recognised your
-work, right?");
+It means that a lot of people recognised
+your work, right?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

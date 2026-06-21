@@ -38,7 +38,8 @@ So stand proudly, and loudly.");
 MsgDisp("主人公","Y-Yeah.
 You say that but...");
 VoicePlay("G110100400_41_000");
-MsgDisp("School Boy","Isn't that the Rose Queen-senpai over there?");
+MsgDisp("School Boy","Isn't that the Rose Queen-senpai
+over there?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

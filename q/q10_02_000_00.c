@@ -19,8 +19,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("Q100200000_02_020");
-MsgDisp("Sassa","It would be amazing if it was all planned by
-the people who built it.");
+MsgDisp("Sassa","It would be amazing if it was all planned
+by the people who built it.");
 MsgDisp("主人公","Hmm, I wonder?
 But the water used to be clean, so the
 glasses were seen more clearly.");
@@ -93,8 +93,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q100200000_02_110");
-MsgDisp("Sassa","If we choose the same flavour, I guess that
-means we're perfect for each other.");
+MsgDisp("Sassa","If we choose the same flavour, I guess
+that means we're perfect for each other.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

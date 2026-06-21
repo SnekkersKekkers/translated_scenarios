@@ -3,16 +3,17 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020640003_06_000");
-MsgDisp("Himuro","If you and I were in the same grade, I wonder
-what our relationship would be like.");
+MsgDisp("Himuro","If you and I were in the same grade,
+I wonder what our relationship would
+be like.");
 MsgDisp("主人公","Hmm...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020640003_06_010");
-MsgDisp("Himuro","Well, it might not be any different than it
-is now.");
+MsgDisp("Himuro","Well, it might not be any different than
+it is now.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -24,8 +25,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640003_06_030");
-MsgDisp("Himuro","Also, we would be together for another year
-longer...");
+MsgDisp("Himuro","Also, we would be together for another
+year longer...");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 VoicePlay("G020640003_06_050");
 ChEye(6,0);
@@ -50,9 +51,9 @@ VoicePlay("G020640003_06_080");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
-MsgDisp("Himuro","But, even still...if I were older, I'd have
-to graduate a year earlier, and I might not
-like that.");
+MsgDisp("Himuro","But, even still...if I were older, I'd
+have to graduate a year earlier, and I
+might not like that.");
 VoicePlay("G020640003_06_090");
 ChEye(6,0);
 ChMouth(6,0);
@@ -69,10 +70,10 @@ VoicePlay("G020640003_06_110");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","Well, maybe it won't be as bad as I'm bracing
-myself for.");
-MsgDisp("主人公","(When you say it like that, it feels like you
-would be lonely...)");
+MsgDisp("Himuro","Well, maybe it won't be as bad as I'm
+bracing myself for.");
+MsgDisp("主人公","(When you say it like that, it feels like
+you would be lonely...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

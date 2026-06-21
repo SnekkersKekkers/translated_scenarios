@@ -10,8 +10,8 @@ MsgDisp("Mikage","Thank you as always.
 In return, here are some vegetables.");
 VoicePlay("E010710100_47_010");
 MsgDisp("Clerk","Oh, thank you!
-Your vegetables are always so beautiful and
-delicious.");
+Your vegetables are always so beautiful
+and delicious.");
 VoicePlay("E010710100_07_010");
 MsgDisp("Mikage","Looks and tastes great.
 Same as you, miss.");
@@ -53,7 +53,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(7);
 MsgDisp("主人公","(Amazing...
-｛Mikage＊＊｝'s home is full of vegetables
-and plants!)");
+｛Mikage＊＊｝'s home is full of
+vegetables and plants!)");
 MsgClose();
 ScrFadeOut(0,0);

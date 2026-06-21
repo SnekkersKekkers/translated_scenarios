@@ -3,7 +3,8 @@ ChOpen(2,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020230101_02_000");
 MsgDisp("Sassa","It seems like things have been livelier
 around you recently.");
-MsgDisp("主人公","Eh, what makes you say that all of a sudden?");
+MsgDisp("主人公","Eh, what makes you say that all of
+a sudden?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -23,23 +24,24 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020230101_02_030");
-MsgDisp("Sassa","It feels good, you know, seeing the correct
-information about you spread.");
-MsgDisp("主人公","But, if you're surrounded by a lot of people
-like those fireflies over there, it might be
-a bit overwhelming...");
+MsgDisp("Sassa","It feels good, you know, seeing the
+correct information about you spread.");
+MsgDisp("主人公","But, if you're surrounded by a lot of
+people like those fireflies over there, it
+might be a bit overwhelming...");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020230101_02_040");
-MsgDisp("Sassa","True, it could be a problem if the number of
-people around you keeps increasing.");
+MsgDisp("Sassa","True, it could be a problem if the number
+of people around you keeps increasing.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020230101_02_050");
-MsgDisp("Sassa","But thinking that I have you all to myself
-right now makes me appreciate it even more.");
+MsgDisp("Sassa","But thinking that I have you all to
+myself right now makes me appreciate it
+even more.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

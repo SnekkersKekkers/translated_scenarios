@@ -15,8 +15,8 @@ Good morning!");
 ChMotion(22,4,1);
 VoicePlay("F100130002_22_000");
 MsgDisp("Hikaru","Aha▼
-The three of us have gathered here early, so
-today will be a good day♪");
+The three of us have gathered here early,
+so today will be a good day♪");
 ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);

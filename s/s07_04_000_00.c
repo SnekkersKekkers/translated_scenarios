@@ -32,7 +32,8 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,1,1);
     VoicePlay("S070400000_04_030");
     MsgDisp("Nanatsumori","I guess so.
-Why do so many people like these festivals...");
+Why do so many people like these
+festivals...");
     MsgDisp("主人公","Hehe!");
     ChEye(4,3);
     ChMouth(4,3);

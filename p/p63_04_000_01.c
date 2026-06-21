@@ -26,15 +26,16 @@ Welcome～!");
     MsgDisp("Nanatsumori","Do you eat the herbal tea and vegetables
 together?
 Here.");
-    MsgDisp("主人公","Nope. You drink the herbal tea here though,
-but the Gardening Club's organic vegetables
-are sold directly.");
+    MsgDisp("主人公","Nope. You drink the herbal tea here
+though, but the Gardening Club's organic
+vegetables are sold directly.");
     ChEye(4,2);
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_020");
     MsgDisp("Nanatsumori","Ah, so that's how it is.");
-    MsgDisp("主人公","They're picked in the morning so, it's fresh.");
+    MsgDisp("主人公","They're picked in the morning so,
+it's fresh.");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("P630400001_04_030");
@@ -59,15 +60,15 @@ Welcome～!");
     MsgDisp("Nanatsumori","Yeah.
 Can you eat vegetables here too this year?");
     MsgDisp("主人公","Nope. You can drink herbal tea though.
-The vegetables are sold directly, organically
-grown by the Gardening Club.");
+The vegetables are sold directly,
+organically grown by the Gardening Club.");
     ChEye(4,5);
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_060");
     MsgDisp("Nanatsumori","Eeh.
-Looking at it from this distance, the colour
-is good.");
+Looking at it from this distance, the
+colour is good.");
     MsgDisp("主人公","They're picked in the morning, so they're
 very fresh.");
     ChEye(4,0);
@@ -81,8 +82,8 @@ very fresh.");
     ChMotion(4,0,1);
     VoicePlay("P630400001_04_080");
     MsgDisp("Nanatsumori","OK.
-Then, I'll have some tea first then I'll have
-a look over there.");
+Then, I'll have some tea first then I'll
+have a look over there.");
     MsgDisp("主人公","Yes, then please come in!");
     break ;
     default :

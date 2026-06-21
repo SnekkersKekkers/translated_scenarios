@@ -30,8 +30,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700100_07_030");
 MsgDisp("Mikage","You gave me some chocolate last time.
-I'm the type of person who wants to give back
-many times over.");
+I'm the type of person who wants to give
+back many times over.");
 ChEye(7,0);
 ChMouth(7,1);
 ChMotion(7,2);
@@ -39,8 +39,8 @@ VoicePlay("G110700100_07_040");
 MsgDisp("Mikage","Mmm...
 Do you prefer root vegetables over leafy
 vegetables?");
-MsgDisp("主人公","Um, it'd be troublesome if you put either of
-those in my shoe locker...");
+MsgDisp("主人公","Um, it'd be troublesome if you put either
+of those in my shoe locker...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

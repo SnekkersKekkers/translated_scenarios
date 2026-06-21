@@ -49,5 +49,5 @@ VoicePlay("T020600000_06_470");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
-MsgDisp("Himuro","Or did you feel nothing through all the time
-we spent together?");
+MsgDisp("Himuro","Or did you feel nothing through all the
+time we spent together?");

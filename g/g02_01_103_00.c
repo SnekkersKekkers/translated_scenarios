@@ -2,7 +2,8 @@ MsgClose();
 ChOpen(1,255,0,0,2,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110300_01_000");
-MsgDisp("Kazama","Are fireflies supposed to be this colourful?");
+MsgDisp("Kazama","Are fireflies supposed to be this
+colourful?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -31,8 +32,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110300_01_040");
-MsgDisp("Kazama","Though a kiss on the forehead is even less of
-a big deal than saying hello in England.");
+MsgDisp("Kazama","Though a kiss on the forehead is even less
+of a big deal than saying hello in
+England.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,4);

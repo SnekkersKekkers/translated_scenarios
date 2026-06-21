@@ -29,7 +29,8 @@ comfort.");
     ChMotion(2,0);
     VoicePlay("H1A0200001_02_020");
     MsgDisp("Sassa","So instead, really, good work.
-Take as much time as you need to feel better.");
+Take as much time as you need to
+feel better.");
     MsgDisp("主人公","(｛Sassa＊＊｝, thank you.
 Sigh, it really is frustrating...)");
     break ;

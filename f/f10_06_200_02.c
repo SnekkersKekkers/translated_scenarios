@@ -26,16 +26,17 @@ ChMouth(3,0);
 ChMotion(3,3);
 VoicePlay("F100620002_03_010");
 MsgDisp("Honda","Yeah, it was delicious.
-Nori-kun seemed to really like it too, right?");
+Nori-kun seemed to really like it
+too, right?");
 MsgDisp("主人公","Is that so?");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F100620002_06_020");
-MsgDisp("Himuro","Sigh... It just so happened that the instant
-noodles I eat were a collaboration product
-with that store.");
+MsgDisp("Himuro","Sigh... It just so happened that the
+instant noodles I eat were a collaboration
+product with that store.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,4);
@@ -55,8 +56,8 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("F100620002_03_030");
 MsgDisp("Honda","Ehh, really?
-Then, I guess it'll just be you and me, let's
-go together again!");
+Then, I guess it'll just be you and me,
+let's go together again!");
 MsgDisp("主人公","Eh, me? Hehe, yeah.
 Of course.");
 ChEye(6,0);
@@ -70,8 +71,8 @@ ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("F100620002_06_050");
 MsgDisp("Himuro","I just prefer instant.
-That doesn't mean I dislike the restaurant's
-flavour.");
+That doesn't mean I dislike the
+restaurant's flavour.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);

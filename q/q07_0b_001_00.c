@@ -2,7 +2,8 @@ BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc820",0);
 ChLayout(2);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow! The field is filled with golden flowers!
+MsgDisp("主人公","Wow!
+The field is filled with golden flowers!
 So pretty...");
 MsgClose();
 ChOpen(3,254,0,0,0,#1,#1,0,0,0,30);
@@ -19,8 +20,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("Q070B00100_01_000");
-MsgDisp("Kazama","The Dutch classic is the tulip, but these are
-pretty too.");
+MsgDisp("Kazama","The Dutch classic is the tulip, but these
+are pretty too.");
 ChMotion(1,0);
 ChEye(4,0);
 ChMouth(4,3);

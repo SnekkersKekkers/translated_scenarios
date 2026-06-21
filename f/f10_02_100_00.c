@@ -1,8 +1,8 @@
 BGOpen("sc510",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right, I still have some down time,
-so maybe I'll go to the library...?)");
+MsgDisp("主人公","(That's right, I still have some down
+time, so maybe I'll go to the library...?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -14,15 +14,16 @@ BGOpen("sc330",0);
 ScrFadeIn(0);
 VoicePlay("F100210000_46_000");
 MsgDisp("Librarian","I'm very sorry.
-Each person has a limit of 20 books, you have
-2 too many.");
+Each person has a limit of 20 books, you
+have 2 too many.");
 VoicePlay("F100210000_02_000");
 MsgDisp("Sassa?","Ah, I see.
 Sorry.
 I'll put two back.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
-MsgDisp("主人公","(Wow...there's someone borrowing 20 books.)");
+MsgDisp("主人公","(Wow...there's someone borrowing
+20 books.)");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();
 BGMPlay("BGM_C02_SASSA_A",0.01);
@@ -37,8 +38,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("F100210000_02_020");
 MsgDisp("Sassa","Yeah.
-Just now, you made a face like \"Wow, that's
-pretty unusual\", didn't you?");
+Just now, you made a face like \"Wow,
+that's pretty unusual\", didn't you?");
 MsgDisp("主人公","T-That's not true.
 What kinda books are you borrowing?");
 ChEye(2,0);
@@ -47,15 +48,15 @@ ChMotion(2,0);
 VoicePlay("F100210000_02_030");
 MsgDisp("Sassa","I returned them just now.
 What about you?");
-MsgDisp("主人公","I was thinking of borrowing one at the top of
-the popularity rankings.");
+MsgDisp("主人公","I was thinking of borrowing one at the top
+of the popularity rankings.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F100210000_02_040");
 MsgDisp("Sassa","Nice.
-Since they're popular, you need to hurry or
-someone else will borrow it.");
+Since they're popular, you need to hurry
+or someone else will borrow it.");
 MsgDisp("主人公","Yeah!");
 ChEye(2,0);
 ChMouth(2,4);

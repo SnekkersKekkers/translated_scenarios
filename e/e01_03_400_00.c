@@ -49,16 +49,17 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("E010340000_03_030");
-MsgDisp("Honda","Yeah, I guess you could say we're similar, I
-totally relate.");
+MsgDisp("Honda","Yeah, I guess you could say we're similar,
+I totally relate.");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,1,1);
 VoicePlay("E010340000_22_040");
-MsgDisp("Hikaru","Even if Dahon is similar, it's a bit weird...
+MsgDisp("Hikaru","Even if Dahon is similar, it's a bit
+weird...
 What do you think, Mari?");
-MsgDisp("主人公","Umm... you both have pretty unique taste in
-nicknames, but I like it.");
+MsgDisp("主人公","Umm... you both have pretty unique taste
+in nicknames, but I like it.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);

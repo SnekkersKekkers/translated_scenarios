@@ -48,7 +48,8 @@ See you later...and Happy New Year.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S120600001_06_090");
-    MsgDisp("Himuro","This was a great way to start the New Year.");
+    MsgDisp("Himuro","This was a great way to start the
+New Year.");
     MsgDisp("主人公","Hehe, I think so too!
 I wish you a Happy New Year.");
     ChEye(6,0);

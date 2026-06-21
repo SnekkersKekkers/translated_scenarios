@@ -10,7 +10,8 @@ MsgDisp("主人公","Ah, ｛ひかる＊｝.
 Happy New Year!");
 VoicePlay("S050D00001_22_010");
 MsgDisp("Hikaru","Yepyep!
-Do you want to visit the shrine with Hikaru?");
+Do you want to visit the shrine
+with Hikaru?");
 MsgDisp("主人公","Yep, shall we go?");
 VoicePlay("S050D00001_22_020");
 MsgDisp("Hikaru","Yay▼ Sit tight.

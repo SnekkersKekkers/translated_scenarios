@@ -48,8 +48,8 @@ VoiceEVSPlay(3);
 VoicePlay("Q070301000_03_010");
 MsgDisp("Honda","｛主人公｝, sorry for keeping you waiting.");
 MsgDisp("主人公","No, I'm fine.
-But it really is impressive that so many know
-about you, ｛Honda＊＊｝.");
+But it really is impressive that so many
+know about you, ｛Honda＊＊｝.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("Q070301000_03_020");
@@ -83,8 +83,8 @@ StlEye(3,3);
 StlMouth(3,2);
 VoicePlay("Q070301000_03_050");
 MsgDisp("Honda","Shhh.
-If you don't turn around, they won't notice
-us, okay?");
+If you don't turn around, they won't
+notice us, okay?");
 MsgDisp("主人公","Eh?");
 StlEye(3,2);
 StlMouth(3,1);
@@ -110,8 +110,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("Q070301000_03_080");
-MsgDisp("Honda","For me, the most important thing is spending
-the free period with you.
+MsgDisp("Honda","For me, the most important thing is
+spending the free period with you.
 Come on, let's go!");
 MsgDisp("主人公","Yeah! Thanks, ｛Honda＊＊｝.");
 MsgClose();

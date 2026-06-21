@@ -4,8 +4,8 @@ MsgDisp("","　　　　　　　　　　 ・
 MsgClose();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(The souvenir for ｛Himuro＊＊｝ will be matcha
-castella with a bit of sweetness!)");
+MsgDisp("主人公","(The souvenir for ｛Himuro＊＊｝ will be
+matcha castella with a bit of sweetness!)");
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -30,8 +30,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q110C00000_07_010");
 MsgDisp("Mikage","I see.
-Then let's get right to it and show off our
-souvenirs for Inori, shall we?");
+Then let's get right to it and show off
+our souvenirs for Inori, shall we?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -43,7 +43,8 @@ ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_010");
 MsgDisp("Hiiragi","Eh?
-I chose the fine flavoured sesame castella!");
+I chose the fine flavoured sesame
+castella!");
 MsgDisp("主人公","Eeh∋
 I had the matcha castella with a bit of
 sweetness!");
@@ -70,7 +71,8 @@ ChMotion(7,1);
 ChEyeOpenLevel(7,0);
 VoicePlay("Q110C00000_07_040");
 MsgDisp("Mikage","Well, maybe deep down in his gut?
-Though he may be a bit harsh on the surface.");
+Though he may be a bit harsh on the
+surface.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -97,8 +99,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q110C00000_05_050");
-MsgDisp("Hiiragi","I drew green holly leaves and orange paprika,
-and also red glasses.");
+MsgDisp("Hiiragi","I drew green holly leaves and orange
+paprika, and also red glasses.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

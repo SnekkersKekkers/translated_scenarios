@@ -18,8 +18,8 @@ VoicePlay("T020101000_01_510");
 MsgDisp("Kazama","Would you be okay with it?
 Marriage that is...");
 MsgDisp("主人公","Yeah.
-I've let down ｛Kazama＊＊｝ because I forgot
-so many things, I'm sorry.");
+I've let down ｛Kazama＊＊｝ because I
+forgot so many things, I'm sorry.");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,0);
@@ -42,8 +42,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("T020101000_01_550");
-MsgDisp("Kazama","May we always be happy and healthy, and may
-we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020101000_01_560");
@@ -66,7 +66,8 @@ It looks similar to your hair accessory
 doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020101000_01_590");
-MsgDisp("Kazama","I found and bought it when I was in England.");
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020101000_01_600");
 MsgDisp("Kazama","—I promised to definitely give it to you

@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020120203_01_000");
-MsgDisp("Kazama","Finding your partner out of these countless
-lights is a miracle.");
+MsgDisp("Kazama","Finding your partner out of these
+countless lights is a miracle.");
 MsgDisp("主人公","Yeah.");
 ChEye(1,4);
 ChMouth(1,4);

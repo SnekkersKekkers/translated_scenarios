@@ -19,8 +19,8 @@ Sorry.");
     MsgDisp("主人公","Is that a bad time?");
     VoicePlay("J030300001_03_030");
     MsgDisp("Honda","Yeah.
-Sorry, even though you went out of your way
-to invite me. Can you ask me again?");
+Sorry, even though you went out of your
+way to invite me. Can you ask me again?");
     MsgDisp("主人公","Yeah, I understand.
 Well, see you later then?");
     SEPlay("SYS_SE_PHONE_POWER_ON");

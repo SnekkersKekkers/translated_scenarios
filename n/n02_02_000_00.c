@@ -63,8 +63,8 @@ Getting the top rank is so cool.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("N020200000_02_060");
-    MsgDisp("Sassa","I might say this a lot, but you really gave
-it your all.");
+    MsgDisp("Sassa","I might say this a lot, but you really
+gave it your all.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);

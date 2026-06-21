@@ -29,8 +29,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("S110D00001_21_020");
-MsgDisp("Michiru","I'm already happy everyday, so it's a bit of
-a waste...
+MsgDisp("Michiru","I'm already happy everyday, so it's a bit
+of a waste...
 I'll share some happiness with Mari.");
 ChEye(22,3);
 ChMouth(22,3);

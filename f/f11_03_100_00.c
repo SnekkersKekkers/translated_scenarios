@@ -43,7 +43,7 @@ MsgDisp("School Boy","What is that, a haircut death match∋");
 VoicePlay("F110310000_03_060");
 MsgDisp("Honda","Welcome!
 Alright, let's have a quiz battle!");
-MsgDisp("主人公","(｛Honda＊＊｝ would never lose at quizzes, so
-it should be fine...right?)");
+MsgDisp("主人公","(｛Honda＊＊｝ would never lose at quizzes,
+so it should be fine...right?)");
 MsgClose();
 ScrFadeOut(0,0);

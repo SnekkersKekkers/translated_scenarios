@@ -4,7 +4,8 @@ ScrFadeIn(0);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","(Okay, I was able to buy a lot of souvenirs!
+MsgDisp("主人公","(Okay, I was able to buy a lot of
+souvenirs!
 I wonder if ｛Hiiragi＊＊＊｝ is done...)");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);

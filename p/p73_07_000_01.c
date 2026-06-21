@@ -53,8 +53,8 @@ confidence, okay?");
     MsgDisp("Mikage","Well, it's your turn.");
     MsgDisp("主人公","Yes!");
     MsgDisp("主人公","(Alriiight.
-Let's charm both ｛Mikage＊＊｝ the audience
-and the customers.)");
+Let's charm both ｛Mikage＊＊｝ the
+audience and the customers.)");
     break ;
     case 4:
     case 5:

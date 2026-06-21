@@ -3,7 +3,8 @@ VoicePlay("P840300003_48_000");
 MsgDisp("School Girl","I'm sorry for asking again and again.
 Has the twine been returned?");
 MsgDisp("主人公","I'm very sorry...
-It seems like it still hasn't been returned.");
+It seems like it still hasn't been
+returned.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -17,7 +18,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("P840300003_03_010");
-MsgDisp("Honda","Maybe, it never existed in the first place?");
+MsgDisp("Honda","Maybe, it never existed in the
+first place?");
 MsgDisp("主人公","Eh? ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,4);

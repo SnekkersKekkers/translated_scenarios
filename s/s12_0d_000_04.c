@@ -36,8 +36,8 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,5);
 VoicePlay("S120D00004_21_020");
-MsgDisp("Michiru","...I can't. It's been a sad feeling since the
-New Year started.");
+MsgDisp("Michiru","...I can't. It's been a sad feeling since
+the New Year started.");
 ChEye(22,4);
 ChMouth(22,0);
 ChMotion(22,0,1);

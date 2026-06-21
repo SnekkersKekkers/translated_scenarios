@@ -12,8 +12,8 @@ ChLayout(1);
 BGMPlay("BGM_ENGEKI_C",0.01);
 ScrFadeIn(0);
 VoicePlay("P240301000_03_000");
-MsgDisp("Honda","The set has been changed, now it's time for
-the final scene, right?");
+MsgDisp("Honda","The set has been changed, now it's time
+for the final scene, right?");
 MsgDisp("主人公","Yes, this scene is great♪");
 ChMouth(3,4);
 VoicePlay("P240301000_34_000");
@@ -40,9 +40,9 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("P240301000_03_020");
-MsgDisp("Honda","Yep yep. With his weakened eyesight, Kuroda
-Kanbei had ascertained it was Mitsuhime by
-feeling her hand.");
+MsgDisp("Honda","Yep yep. With his weakened eyesight,
+Kuroda Kanbei had ascertained it was
+Mitsuhime by feeling her hand.");
 MsgDisp("主人公","Yeah...");
 VoicePlay("P240301000_34_040");
 MsgDisp("Kanbei","Yeah, this hand, it's Mitsuhime's warmth.
@@ -55,8 +55,8 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("P240301000_03_030");
 MsgDisp("Honda","Yes, yes. But, you know, Kuroda Kanbei's
-grandfather apparently made and sold a secret
-eye medicine.");
+grandfather apparently made and sold a
+secret eye medicine.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

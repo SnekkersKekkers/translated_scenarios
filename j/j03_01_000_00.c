@@ -43,8 +43,8 @@ Got it?");
     MsgDisp("主人公","Geez, I'll be fine!
 You be careful too, ｛Kazama＊＊｝!");
     VoicePlay("J030100000_01_070");
-    MsgDisp("Kazama","If you're the one worrying about me, I must
-be in trouble, huh?
+    MsgDisp("Kazama","If you're the one worrying about me, I
+must be in trouble, huh?
 See you.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

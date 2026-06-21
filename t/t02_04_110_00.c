@@ -69,8 +69,8 @@ ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020411000_04_070");
-MsgDisp("Nanatsumori","Even if it means twisting your fate, I can't
-give up.");
+MsgDisp("Nanatsumori","Even if it means twisting your fate, I
+can't give up.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,2);
 ChMouth(4,4);
@@ -98,8 +98,9 @@ MsgDisp("Nanatsumori","...I like you.");
 ChEye(4,2);
 ChMouth(4,0);
 VoicePlay("T020411000_04_110");
-MsgDisp("Nanatsumori","Even if it means using under-handed tactics,
-I don't want to hand you over to anyone.");
+MsgDisp("Nanatsumori","Even if it means using under-handed
+tactics, I don't want to hand you over
+to anyone.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,3,1);

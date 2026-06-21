@@ -42,8 +42,8 @@ ChEye(8,3);
 ChMouth(8,0);
 ChMotion(8,2,1);
 ChEyeOpenLevel(8,0);
-MsgDisp("Shirahane","I'm a beginner boyfriend, but I hope you'll
-be okay with that.");
+MsgDisp("Shirahane","I'm a beginner boyfriend, but I hope
+you'll be okay with that.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

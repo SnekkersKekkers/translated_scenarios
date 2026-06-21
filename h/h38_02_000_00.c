@@ -20,8 +20,9 @@ Did you come to cheer me on?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("H380200000_02_010");
-    MsgDisp("Sassa","I was a little worried that you'd be getting
-nervous, but looks like it's just me.");
+    MsgDisp("Sassa","I was a little worried that you'd be
+getting nervous, but looks like it's
+just me.");
     MsgDisp("主人公","Hehe, geez...
 I'm nervous too, you know?");
     ChEye(2,3);

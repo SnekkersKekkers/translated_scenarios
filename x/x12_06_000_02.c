@@ -26,8 +26,8 @@ falls off.");
     ChMotion(6,0);
     VoicePlay("X120600002_06_010");
     MsgDisp("Himuro","Amazing...
-To the point I want you to make something for
-me next time.");
+To the point I want you to make something
+for me next time.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :

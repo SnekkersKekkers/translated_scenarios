@@ -26,8 +26,8 @@ Don't space out while we're open.");
     ChMotion(1,0);
     VoicePlay("I160100006_01_020");
     MsgDisp("Kazama","This isn't like you.
-No matter how much experience you have, it's
-over once you lose the tension.");
+No matter how much experience you have,
+it's over once you lose the tension.");
     MsgDisp("主人公","(That's right.
 I need to get it together...!)");
     break ;
@@ -45,16 +45,16 @@ I need to get it together...!)");
     ChMotion(1,3);
     VoicePlay("I160100006_01_040");
     MsgDisp("Kazama","What else.
-The centre display is the exact same as last
-month's, right?");
+The centre display is the exact same as
+last month's, right?");
     MsgDisp("主人公","...Ah! I, I'm sorry.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,0);
     VoicePlay("I160100006_01_050");
     MsgDisp("Kazama","Didn't I tell you that I'd leave it up to
-you? Simon's customers are sensitive to this
-kind of thing.");
+you? Simon's customers are sensitive to
+this kind of thing.");
     MsgDisp("主人公","(Aah, just when I had my chance...
 I need to get it together...!)");
     break ;

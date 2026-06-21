@@ -3,7 +3,8 @@ ChOpen(1,255,0,0,0,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020120202_01_000");
 MsgDisp("Kazama","There's a crazy amount of lights.");
-MsgDisp("主人公","Yeah, I wonder how many fireflies are here.");
+MsgDisp("主人公","Yeah, I wonder how many fireflies
+are here.");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
@@ -45,7 +46,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120202_01_060");
-MsgDisp("Kazama","What he does is something I could never do.");
+MsgDisp("Kazama","What he does is something I could
+never do.");
 MsgDisp("主人公","I don't think anyone can do what
 ｛Honda＊＊｝ does.");
 ChEye(1,0);
@@ -67,9 +69,9 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120202_01_090");
-MsgDisp("Kazama","But it's true that I don't have the wealth of
-knowledge he has and that I'm not as good at
-entertaining conversation.");
+MsgDisp("Kazama","But it's true that I don't have the wealth
+of knowledge he has and that I'm not as
+good at entertaining conversation.");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -82,8 +84,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020120202_01_110");
-MsgDisp("Kazama","I might be at a disadvantage right now, but
-I'll figure something out.
+MsgDisp("Kazama","I might be at a disadvantage right now,
+but I'll figure something out.
 I have a reason why I can't back down.");
 MsgDisp("主人公","(I didn't realise that's how ｛Kazama＊＊｝
 thought of ｛Honda＊＊｝...)");

@@ -21,13 +21,15 @@ VoicePlay("P840500002_05_000");
 MsgDisp("Hiiragi","Using both the management notebook and the
 counter was a good idea.");
 MsgDisp("主人公","Yeah, I'm glad.
-Using this, we can see the inventory status.");
+Using this, we can see the
+inventory status.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("P840500002_05_010");
-MsgDisp("Hiiragi","Seems like this will become the standard for
-the materials manager next year and beyond.");
+MsgDisp("Hiiragi","Seems like this will become the
+standard for the materials manager next
+year and beyond.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("P840500002_05_020");

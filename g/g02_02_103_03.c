@@ -47,8 +47,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020210303_02_070");
-MsgDisp("Sassa","Your charm is undeniable, and it's a shame to
-hide it.");
+MsgDisp("Sassa","Your charm is undeniable, and it's a shame
+to hide it.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

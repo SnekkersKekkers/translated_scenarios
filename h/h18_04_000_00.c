@@ -20,8 +20,8 @@ Haba High is.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("H180400000_04_020");
-    MsgDisp("Nanatsumori","Well, if the manager is this fired up, I can
-just sit back and watch.");
+    MsgDisp("Nanatsumori","Well, if the manager is this fired up, I
+can just sit back and watch.");
     MsgDisp("主人公","(Alright, let's do our best!)");
     break ;
     case 4:

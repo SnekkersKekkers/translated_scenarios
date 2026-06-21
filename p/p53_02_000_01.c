@@ -81,22 +81,24 @@ Thank you.");
     VoicePlay("P530200001_02_080");
     MsgDisp("Sassa","Guess it's a popular game?
 Even I know it.");
-    MsgDisp("主人公","Yeah. That's why the audience is filled up.
+    MsgDisp("主人公","Yeah.
+That's why the audience is filled up.
 I can't be nervous...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("P530200001_02_090");
     MsgDisp("Sassa","That's nice.
-It's definitely better that people are here.");
+It's definitely better that people
+are here.");
     MsgDisp("主人公","That's right, but...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("P530200001_02_100");
     MsgDisp("Sassa","In order for these people to listen and
-enjoy your music, you've been giving it your
-all, right?");
+enjoy your music, you've been giving it
+your all, right?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);

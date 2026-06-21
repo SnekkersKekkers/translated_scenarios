@@ -14,8 +14,8 @@ I got goosebumps.");
     ChMotion(4,1,1);
     VoicePlay("H4A0400000_04_010");
     MsgDisp("Nanatsumori","And your technique.
-It felt like I was seeing a fairy do magic in
-real life.");
+It felt like I was seeing a fairy do magic
+in real life.");
     MsgDisp("主人公","Hehe.");
     ChEye(4,0);
     ChMouth(4,3);
@@ -53,7 +53,8 @@ my eyes...");
     ChMotion(4,0,1);
     VoicePlay("H4A0400000_04_060");
     MsgDisp("Nanatsumori","Even now, it's dazzling...
-Being blinded by someone really does happen.");
+Being blinded by someone really
+does happen.");
     MsgDisp("主人公","Geez, you're making me feel shy...");
     ChEye(4,1);
     ChMouth(4,2);
@@ -61,7 +62,8 @@ Being blinded by someone really does happen.");
     ChEyeOpenLevel(4,0);
     ChCheek(4,5);
     VoicePlay("H4A0400000_04_070");
-    MsgDisp("Nanatsumori","Ugh...! If you look at me like that, I'll...");
+    MsgDisp("Nanatsumori","Ugh...!
+If you look at me like that, I'll...");
     MsgDisp("主人公","(｛Nanatsumori＊｝...
 I'm glad I stayed in the rhythmic gymnastics
 club... Today's the best day ever!)");

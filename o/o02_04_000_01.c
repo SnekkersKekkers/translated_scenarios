@@ -10,14 +10,15 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     VoicePlay("O020400001_04_000");
-    MsgDisp("Nanatsumori","Well, isn't it fine for a girl to lose in a
-match of power?");
+    MsgDisp("Nanatsumori","Well, isn't it fine for a girl to lose in
+a match of power?");
     MsgDisp("主人公","(I lost...
 I wish I had tried harder.)");
     break ;
     case 3:
     VoicePlay("O020400001_04_010");
-    MsgDisp("Nanatsumori","I think you could've been more serious, no?");
+    MsgDisp("Nanatsumori","I think you could've been more
+serious, no?");
     MsgDisp("主人公","Huh?");
     ChEye(4,2);
     ChMouth(4,3);

@@ -15,8 +15,8 @@ We won!");
     VoicePlay("H1A0400000_04_010");
     MsgDisp("Nanatsumori","Yeah, I was watching.
 Congrats!");
-    MsgDisp("主人公","(I'm glad that I stayed as the baseball club
-manager!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball
+club manager!)");
     break ;
     case 4:
     case 5:
@@ -43,8 +43,8 @@ the club.");
     VoicePlay("H1A0400000_04_050");
     MsgDisp("Nanatsumori","I envy the baseball club.
 I'm a little jealous.");
-    MsgDisp("主人公","(I'm glad that I stayed as the baseball club
-manager!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball
+club manager!)");
     break ;
     default :
     DbgAssert(1);

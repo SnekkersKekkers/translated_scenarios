@@ -2,8 +2,8 @@ BGOpen("sc520",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(This is nice weather...
-Maybe I should take a break in the courtyard
-for a bit?)");
+Maybe I should take a break in the
+courtyard for a bit?)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -58,14 +58,15 @@ ChMouth(5,1);
 ChMotion(5,0);
 VoicePlay("G110500100_05_020");
 MsgDisp("Hiiragi","Yes.
-Oh, but I'm not being forced to do it though.");
+Oh, but I'm not being forced to do
+it though.");
 ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,2);
 VoicePlay("G110500100_05_030");
-MsgDisp("Hiiragi","I'm not good with computers, and after school
-I still have to do work with the theatre
-company too, right?");
+MsgDisp("Hiiragi","I'm not good with computers, and after
+school I still have to do work with the
+theatre company too, right?");
 MsgDisp("主人公","I see.
 ｛Hiiragi＊＊＊｝, don't push yourself too
 hard, okay?");
@@ -86,8 +87,8 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110500100_05_060");
-MsgDisp("Hiiragi","From that window there, sometimes I can see
-you facing your canvas.
+MsgDisp("Hiiragi","From that window there, sometimes I can
+see you facing your canvas.
 You look like you're having fun.");
 MsgDisp("主人公","Eh?");
 ChEye(5,0);
@@ -97,8 +98,9 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500100_05_070");
-MsgDisp("Hiiragi","I didn't mean to peek, but if it's okay with
-you, I'd like to see your work next time.");
+MsgDisp("Hiiragi","I didn't mean to peek, but if it's okay
+with you, I'd like to see your work
+next time.");
 MsgDisp("主人公","...That is if I can make something I'm
 pleased with?");
 ChEye(5,1);

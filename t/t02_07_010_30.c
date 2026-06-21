@@ -23,11 +23,12 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("T020701030_07_030");
-MsgDisp("Mikage","...Thanks to you, I graduated from Haba High.
+MsgDisp("Mikage","...Thanks to you, I graduated from
+Haba High.
 Thank you.");
-MsgDisp("主人公","Me too— I'm happy for the last three years I
-spent with ｛Mikage＊＊｝. and the fact we
-got to graduate together.");
+MsgDisp("主人公","Me too— I'm happy for the last three
+years I spent with ｛Mikage＊＊｝. and
+the fact we got to graduate together.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -39,7 +40,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020701030_07_050");
-MsgDisp("Mikage","...Thank you for filling that void within me.");
+MsgDisp("Mikage","...Thank you for filling that void
+within me.");
 BGMStop(3.6);
 MsgClose();
 ScrFadeOut(0,1,120);

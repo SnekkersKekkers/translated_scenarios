@@ -50,8 +50,8 @@ ChMotion(7,2);
 VoicePlay("E010720100_07_030");
 MsgDisp("Mikage","I'm asking for advice.");
 ChMouth(1,3);
-MsgDisp("主人公","It's reassuring to know ｛Kazama＊＊｝ is there
-to give you advice.");
+MsgDisp("主人公","It's reassuring to know ｛Kazama＊＊｝ is
+there to give you advice.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

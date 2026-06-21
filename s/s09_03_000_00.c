@@ -71,7 +71,8 @@ It's fun waiting a bit...");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","They are drawing fortunes over there, right?");
+    MsgDisp("主人公","They are drawing fortunes over
+there, right?");
     ChEye(3,1);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -93,7 +94,8 @@ Want to try our luck?");
         ChMotion(3,1,1);
         VoicePlay("S090300000_03_080");
         MsgDisp("Honda","Okay!
-I think I'll get a good one if you're there.");
+I think I'll get a good one if
+you're there.");
         MsgDisp("主人公","Hehe, you think so?");
         ChEye(3,3);
         ChMouth(3,3);
@@ -110,7 +112,8 @@ it's Good Luck.");
         ChMotion(3,0,1);
         VoicePlay("S090300000_03_100");
         MsgDisp("Honda","Eh, really?
-If you don't feel like it, don't do it then.");
+If you don't feel like it, don't do
+it then.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;

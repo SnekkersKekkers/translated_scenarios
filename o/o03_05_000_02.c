@@ -9,7 +9,8 @@ switch (ChPrmGet(5,6)){
     ChOpen(5,30,0,0,4,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("O030500002_05_000");
-    MsgDisp("Hiiragi","Staying in sync is quite difficult, it seems.");
+    MsgDisp("Hiiragi","Staying in sync is quite difficult,
+it seems.");
     MsgDisp("主人公","(Sigh, last, huh...
 I wish I had tried a little harder...)");
     break ;
@@ -30,8 +31,8 @@ What about you, ｛Hiiragi＊＊＊｝?");
     ChMotion(5,0);
     VoicePlay("O030500002_05_020");
     MsgDisp("Hiiragi","Yes, I'm fine.
-Let's just say we both came out unhurt, and a
-sound horse beats a fast one.");
+Let's just say we both came out unhurt,
+and a sound horse beats a fast one.");
     MsgDisp("主人公","(Sigh...last...
 I wish I had tried a little harder...)");
     break ;
@@ -50,8 +51,8 @@ We're last...");
     ChEyeOpenLevel(5,9);
     VoicePlay("O030500002_05_040");
     MsgDisp("Hiiragi","I as well.
-However, wasn't it nice to feel like such a
-big deal?");
+However, wasn't it nice to feel like such
+a big deal?");
     MsgDisp("主人公","Big deal?");
     ChEye(5,3);
     ChMotion(5,0);

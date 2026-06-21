@@ -31,7 +31,8 @@ Later.");
     MsgDisp("主人公","Hello, ｛Himuro＊＊｝?");
     VoicePlay("J030601001_06_030");
     MsgDisp("Himuro","Yep.
-Just thought I'd respond to your voicemail.");
+Just thought I'd respond to your
+voicemail.");
     MsgDisp("主人公","Oh, you heard it.
 What do you think?");
     VoicePlay("J030601001_06_040");

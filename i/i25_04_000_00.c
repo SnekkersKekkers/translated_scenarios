@@ -16,7 +16,8 @@ Welcome!");
     VoicePlay("I250400000_04_010");
     MsgDisp("Nanatsumori","Working?");
     MsgDisp("主人公","Yeah.
-Did you come to buy a book, ｛Nanatsumori＊｝?");
+Did you come to buy a book,
+｛Nanatsumori＊｝?");
     ChEye(4,0);
     ChMouth(4,4);
     ChMotion(4,0,1);
@@ -57,8 +58,8 @@ You're kinda cool.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(All the magazines in the sweets section are
-so cute.
+    MsgDisp("主人公","(All the magazines in the sweets section
+are so cute.
 They look delicious...)");
     MsgClose();
     BGMPlay("BGM_C04_NANA_A",0.01);

@@ -39,8 +39,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F100420000_06_010");
-MsgDisp("Himuro","If you've got something you want to say, spit
-it out already.");
+MsgDisp("Himuro","If you've got something you want to say,
+spit it out already.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);

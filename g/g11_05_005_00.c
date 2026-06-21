@@ -18,11 +18,11 @@ ChOpen(5,100,1,1,1,12,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110500500_05_010");
 MsgDisp("Hiiragi","Thank you very much.
-But, I'm almost done too. If you don't mind,
-why don't we go home together?");
+But, I'm almost done too. If you don't
+mind, why don't we go home together?");
 MsgDisp("主人公","Of course.
-Then, I'll do preparations for tomorrow while
-I wait for you.");
+Then, I'll do preparations for tomorrow
+while I wait for you.");
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500500_05_020");
 MsgDisp("Hiiragi","Yes.");
@@ -32,8 +32,8 @@ ChMouth(5,1);
 ChMotion(5,0);
 VoicePlay("G110500500_05_030");
 MsgDisp("Hiiragi","Ah...that's right.
-There's something I've wanted to ask you but
-I always forget.");
+There's something I've wanted to ask you
+but I always forget.");
 MsgDisp("主人公","Eh, what is it?");
 SEStop("EV_SE_712",0);
 SEPlay("EV_SE_712",0,0.5);
@@ -41,8 +41,8 @@ ChEye(5,0);
 ChMouth(5,1);
 ChMotion(5,0);
 VoicePlay("G110500500_05_040");
-MsgDisp("Hiiragi","A while ago, you said you would recommend me
-some TV shows you like.");
+MsgDisp("Hiiragi","A while ago, you said you would recommend
+me some TV shows you like.");
 MsgDisp("主人公","Eh, I remember now...");
 SEStop("EV_SE_712",0);
 ChEye(5,1);

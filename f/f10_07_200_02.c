@@ -2,8 +2,8 @@ ChLayout(1);
 BGOpen("sc510",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(My next class is in the science room.
-I wonder if ｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝
-will be there?)");
+I wonder if ｛Mikage＊＊｝ and
+｛Hiiragi＊＊＊｝ will be there?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -25,8 +25,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100720002_07_010");
-MsgDisp("Mikage","Yeah, the class content is the same, but the
-details are a secret.
+MsgDisp("Mikage","Yeah, the class content is the same, but
+the details are a secret.
 Right, Yanosuke?");
 ChEye(5,4);
 ChMouth(5,4);
@@ -50,8 +50,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100720002_07_030");
-MsgDisp("Mikage","Yeah, I'll follow Yanosuke's advice, and make
-sure to grab the attention of the audience.");
+MsgDisp("Mikage","Yeah, I'll follow Yanosuke's advice, and
+make sure to grab the attention of the
+audience.");
 BGMVol(0.5,1);
 SEPlay("EV_SE_SCHOOL_002");
 Wait(30,0);
@@ -75,9 +76,9 @@ SEPlay("EV_SE_856");
 ChClose(5,0,30);
 ChClose(7,0,30);
 VoicePlay("F100720002_07_050");
-MsgDisp("Mikage","Okay, today, I'll pick some vegetables from
-the gardening club's greenhouse and observe
-their tissue under a microscope.");
+MsgDisp("Mikage","Okay, today, I'll pick some vegetables
+from the gardening club's greenhouse and
+observe their tissue under a microscope.");
 VoicePlay("F100720002_07_060");
 MsgDisp("Mikage","After that...
 Let's enjoy a delicious salad!");
@@ -86,10 +87,11 @@ SEPlay("EV_SE_842");
 VoicePlay("F100720002_44_000");
 MsgDisp("School Girl","Amazing, it's like a salad bar!");
 VoicePlay("F100720002_42_010");
-MsgDisp("School Boy","Mikagecchi, I don't like vegetables though.");
+MsgDisp("School Boy","Mikagecchi, I don't like
+vegetables though.");
 VoicePlay("F100720002_07_070");
-MsgDisp("Mikage","It's people like you that I want to feed my
-vegetables to.
+MsgDisp("Mikage","It's people like you that I want to feed
+my vegetables to.
 Let's go pick our favourite vegetables.");
 SEStop("EV_SE_841",1);
 SEStop("EV_SE_842",2);

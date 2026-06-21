@@ -25,9 +25,9 @@ MsgDisp("主人公","Umm, maybe...");
 ChMotion(5,2);
 ChEyeOpenLevel(5,0);
 VoicePlay("P640500003_05_030");
-MsgDisp("Hiiragi","If you, the one who made it, don't have any
-confidence in it, wouldn't it be a pity for
-these vegetables?");
+MsgDisp("Hiiragi","If you, the one who made it, don't have
+any confidence in it, wouldn't it be a
+pity for these vegetables?");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P640500003_05_040");

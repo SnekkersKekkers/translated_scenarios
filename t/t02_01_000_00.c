@@ -3,8 +3,8 @@ BGOpen("ex980",0);
 ChLayout(0);
 ScrFadeIn(0);
 VoicePlay("T020100000_01_000");
-MsgDisp("Kazama?","It seems the one waiting at the church is a
-princess?");
+MsgDisp("Kazama?","It seems the one waiting at the church is
+a princess?");
 MsgDisp("主人公","∋");
 MsgClear();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -18,7 +18,8 @@ Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("T020100000_01_010");
-MsgDisp("Kazama","I rushed over to the school from the airport.
+MsgDisp("Kazama","I rushed over to the school from the
+airport.
 Sorry for leaving you alone.");
 MsgDisp("主人公","Well, I wasn't alone.");
 MsgDisp("主人公","I came here because I had heard the bells
@@ -57,8 +58,9 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020100000_01_060");
-MsgDisp("Kazama","...The first time I saw you was when we were
-digging for sweet potatoes in kindergarten...");
+MsgDisp("Kazama","...The first time I saw you was when we
+were digging for sweet potatoes in
+kindergarten...");
 MsgDisp("主人公","Eh...?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -78,21 +80,23 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020100000_01_090");
-MsgDisp("Kazama","The crying face of the girl who was with me
-when I lost at the kindergarten sports day.");
+MsgDisp("Kazama","The crying face of the girl who was with
+me when I lost at the kindergarten
+sports day.");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("T020100000_01_100");
-MsgDisp("Kazama","It was here she blew on my pinwheel toy, with
-a serious look on her face.");
+MsgDisp("Kazama","It was here she blew on my pinwheel toy,
+with a serious look on her face.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020100000_01_110");
-MsgDisp("Kazama","I've never forgotten about the girl I love.");
+MsgDisp("Kazama","I've never forgotten about the girl
+I love.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEye(1,2);
 ChMouth(1,0);
@@ -119,8 +123,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("T020100000_01_140");
 MsgDisp("Kazama","I was training at my grandpa's shop...
-But my real objective was to see you and sort
-out my feelings.");
+But my real objective was to see you and
+sort out my feelings.");
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 Wait(12,0);
@@ -128,8 +132,8 @@ ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("T020100000_01_150");
 MsgDisp("Kazama","But when I saw you on that hill on the
-morning of the entrance ceremony, instead of
-sorting things out, my feelings just
+morning of the entrance ceremony, instead
+of sorting things out, my feelings just
 exploded.");
 ChEyeOpenLevel(1,10);
 MsgDisp("主人公","That day...");
@@ -146,21 +150,23 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020100000_01_170");
 MsgDisp("Kazama","When you gave me roasted sweet potatoes at
-Habataki Campground, you were just like the
-sweet potato digger in kindergarten.");
+Habataki Campground, you were just like
+the sweet potato digger in kindergarten.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020100000_01_180");
-MsgDisp("Kazama","When I lost to Sassa at the sports festival,
-you came and sat next to me, right?");
+MsgDisp("Kazama","When I lost to Sassa at the sports
+festival, you came and sat next to
+me, right?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("T020100000_01_190");
-MsgDisp("Kazama","You looked intently at the orange pinwheel I
-bought at a stall at the summer festival.");
+MsgDisp("Kazama","You looked intently at the orange pinwheel
+I bought at a stall at the summer
+festival.");
 MsgDisp("主人公","Yeah...
 Everything is the same as back then...");
 Wait(30,0);
@@ -169,8 +175,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("T020100000_01_200");
-MsgDisp("Kazama","Even so, I never managed to tell my dad that
-I wanted to stay here.");
+MsgDisp("Kazama","Even so, I never managed to tell my dad
+that I wanted to stay here.");
 Wait(30,0);
 ChEye(1,2);
 ChMouth(1,3);
@@ -196,8 +202,8 @@ ChMouth(1,4);
 ChMotion(1,0);
 VoicePlay("T020100000_01_230");
 MsgDisp("Kazama","From the first time we saw each other, the
-ten years we were apart, the three years we
-spent at Haba High, and even into the
+ten years we were apart, the three years
+we spent at Haba High, and even into the
 future—");
 MsgClear();
 ChClose(1);

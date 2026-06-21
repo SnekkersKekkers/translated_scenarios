@@ -11,8 +11,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("X210700000_07_010");
-MsgDisp("Mikage","Hey, hey, this is the consensus from all the
-students at Haba High.
+MsgDisp("Mikage","Hey, hey, this is the consensus from all
+the students at Haba High.
 You can't doubt that.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -26,14 +26,15 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("X210700000_07_030");
 MsgDisp("Mikage","Without a doubt, you are Rose Queen.");
-MsgDisp("主人公","I'm happy but...it's somewhat embarrassing.");
+MsgDisp("主人公","I'm happy but...it's somewhat
+embarrassing.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("X210700000_07_040");
 MsgDisp("Mikage","Isn't that good? That's better than being
-arrogant and cold. Your popularity might go
-up again at this rate, no?");
+arrogant and cold. Your popularity might
+go up again at this rate, no?");
 MsgDisp("主人公","Hey, I'm not intending for that to happen.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -46,9 +47,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("X210700000_07_060");
-MsgDisp("Mikage","Hey, even talking like this, I can feel the
-gaze of the male students glaring daggers
-onto my back.");
+MsgDisp("Mikage","Hey, even talking like this, I can feel
+the gaze of the male students glaring
+daggers onto my back.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,3);

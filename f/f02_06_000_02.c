@@ -6,7 +6,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Hey, did you know?
-The legend of the church on school grounds.");
+The legend of the church on school
+grounds.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -24,14 +25,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600002_06_020");
-MsgDisp("Himuro","It must be tough for God, only being relied
-on when it's convenient for people.");
+MsgDisp("Himuro","It must be tough for God, only being
+relied on when it's convenient for people.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600002_06_030");
-MsgDisp("Himuro","Although...maybe if you have a stomach ache.");
+MsgDisp("Himuro","Although...maybe if you have a
+stomach ache.");
 MsgDisp("主人公","Huh?
 ｛Himuro＊＊｝, do you pray when your
 stomach hurts?");
@@ -56,5 +58,5 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("F020600002_06_060");
 MsgDisp("Himuro","...you don't get it at all, do you.");
-MsgDisp("主人公","(We got way off topic from the legend, but I
-had fun going home with ｛Himuro＊＊｝.)");
+MsgDisp("主人公","(We got way off topic from the legend, but
+I had fun going home with ｛Himuro＊＊｝.)");

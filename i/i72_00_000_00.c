@@ -3,14 +3,14 @@ SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("I720000000_36_000");
 MsgDisp("President","Yes, this is Gradius Debugging.");
-MsgDisp("主人公","I'm calling about your help wanted ad for the
-part-time job opening...");
+MsgDisp("主人公","I'm calling about your help wanted ad for
+the part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("I720000000_36_010");
-MsgDisp("President","It'll be hard work, but can you come to work
-from Monday to Saturday?");
+MsgDisp("President","It'll be hard work, but can you come to
+work from Monday to Saturday?");
 MsgDisp("主人公","Yes, it's a pleasure to start working
 with you.");
 VoicePlay("I720000000_36_020");

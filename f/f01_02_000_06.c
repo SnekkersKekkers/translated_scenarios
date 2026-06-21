@@ -56,7 +56,8 @@ I'll head straight home.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(2);
-    MsgDisp("主人公","(As expected, I'll walk home alone today...)");
+    MsgDisp("主人公","(As expected, I'll walk home alone
+today...)");
     break ;
     default :
     DbgAssert(1);

@@ -63,8 +63,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Z710700001_07_050");
 MsgDisp("Mikage","Hm, hm.
-There are a few people that have been with me
-for the past three years.");
+There are a few people that have been with
+me for the past three years.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

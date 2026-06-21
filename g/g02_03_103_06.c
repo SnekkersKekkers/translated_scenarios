@@ -42,8 +42,8 @@ ChMotion(3,0,1);
 VoicePlay("G020310306_03_050");
 MsgDisp("Honda","I wonder how my mom would have introduced
 this place to little me.");
-MsgDisp("主人公","I'm sure she would have taught you in a way
-that sparked your interest.");
+MsgDisp("主人公","I'm sure she would have taught you in a
+way that sparked your interest.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);

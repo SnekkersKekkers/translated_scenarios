@@ -15,12 +15,12 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("G020540002_05_020");
 MsgDisp("Hiiragi","I see, the spring water.
-You do often hear about the longevity effects
-of spring water.");
+You do often hear about the longevity
+effects of spring water.");
 ChEye(5,4);
 VoicePlay("G020540002_05_030");
-MsgDisp("Hiiragi","But conversely, how could hearing the other's
-inner voice be explained?");
+MsgDisp("Hiiragi","But conversely, how could hearing the
+other's inner voice be explained?");
 MsgDisp("主人公","Hmm, are you really hearing it?");
 ChEye(5,0);
 ChMotion(5,4);
@@ -31,7 +31,8 @@ ChEye(5,3);
 ChMotion(5,0);
 VoicePlay("G020540002_05_050");
 MsgDisp("Hiiragi","Haha.
-I was just checking if you could hear them.");
+I was just checking if you could
+hear them.");
 MsgDisp("主人公","(Ugh...
 ｛Hiiragi＊＊＊｝ from time to time will say
 unexpected things that surprise me...)");

@@ -37,15 +37,15 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020130000_01_040");
-MsgDisp("Kazama","Inori would...probably say something to ruin
-the mood, like, \"They say fireflies are the
-souls of the dead.\"");
+MsgDisp("Kazama","Inori would...probably say something to
+ruin the mood, like, \"They say fireflies
+are the souls of the dead.\"");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020130000_01_050");
-MsgDisp("Kazama","Despite that, he's also the type who'd try to
-get you to spill what you talked about.");
+MsgDisp("Kazama","Despite that, he's also the type who'd try
+to get you to spill what you talked about.");
 MsgDisp("主人公","Haha, you understand both of them really
 well, ｛Kazama＊＊｝.");
 ChEye(1,2);

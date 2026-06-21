@@ -15,8 +15,8 @@ VoicePlay("P510000102_33_010");
 MsgDisp("Manager","Our club's performance for this year is
 \"Fourth Heart\".");
 VoicePlay("P510000102_33_020");
-MsgDisp("Manager","Don't push yourself, but please recover soon
-and join us for practice.
+MsgDisp("Manager","Don't push yourself, but please recover
+soon and join us for practice.
 ...Well then, take care.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();

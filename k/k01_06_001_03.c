@@ -11,7 +11,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("K010600103_06_010");
 MsgDisp("Himuro","Are you sure it's for me?
-If you want to take it back, now's the time.");
+If you want to take it back, now's
+the time.");
 MsgDisp("主人公","Hm?");
 ChEye(6,0);
 ChMouth(6,0);

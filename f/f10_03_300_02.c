@@ -42,8 +42,8 @@ ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("F100330002_03_020");
-MsgDisp("Honda","My little sister's obsessed with dieting, and
-she says she won't eat breakfast.");
+MsgDisp("Honda","My little sister's obsessed with dieting,
+and she says she won't eat breakfast.");
 ChEye(22,0);
 ChMouth(22,2);
 ChMotion(22,0,1);
@@ -57,8 +57,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("F100330002_03_030");
 MsgDisp("Honda","She doesn't listen to me at all.
-But I think she'll listen to Chiru-chan and
-Pika-chan.");
+But I think she'll listen to Chiru-chan
+and Pika-chan.");
 ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
@@ -71,7 +71,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100330002_03_040");
 MsgDisp("Honda","Yeah yeah, thank you.
-She'll be happy to receive a video message!");
+She'll be happy to receive a video
+message!");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -82,8 +83,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F100330002_22_030");
 MsgDisp("Hikaru","That's great! Hikaru will teach her a diet
-method that will let you enjoy food and still
-be able to lose weight♪");
+method that will let you enjoy food and
+still be able to lose weight♪");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,4,1);

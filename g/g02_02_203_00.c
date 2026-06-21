@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(2,255,2,0,0,#1,#1,0,0);
 VoicePlay("G020220300_02_000");
-MsgDisp("Sassa","When you look at how fast they fly, they're
-pretty all over the place.");
+MsgDisp("Sassa","When you look at how fast they fly,
+they're pretty all over the place.");
 MsgDisp("主人公","Yeah, there are slow ones and fast ones.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -31,15 +31,15 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220300_02_040");
 MsgDisp("Sassa","Hahah, Firefly Me can fly any kind of way.");
-MsgDisp("主人公","So now we're talking about you as a firefly,
-｛Sassa＊＊｝?");
+MsgDisp("主人公","So now we're talking about you as a
+firefly, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220300_02_050");
 MsgDisp("Sassa","Yep.
-Firefly Me would fly around you, flying the
-way that'd make you fall in love.");
+Firefly Me would fly around you, flying
+the way that'd make you fall in love.");
 MsgDisp("主人公","Hahah, sounds like I'd get dizzy.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -52,8 +52,8 @@ ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G020220300_02_070");
 MsgDisp("Sassa","Sigh...
-I bet it'd be easier to be your partner if we
-were fireflies...");
+I bet it'd be easier to be your partner if
+we were fireflies...");
 MsgDisp("主人公","(What is ｛Sassa＊＊｝ talking about...)");
 BGMStop();
 MsgClose();

@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(1,255,0,4,2,#1,#1,0,0);
 VoicePlay("G020120000_01_000");
-MsgDisp("Kazama","Okay, so, I can take you being here with me
-as me having a chance, yeah?");
+MsgDisp("Kazama","Okay, so, I can take you being here with
+me as me having a chance, yeah?");
 MsgDisp("主人公","Huh?");
 ChEye(1,0);
 ChMouth(1,2);
@@ -26,7 +26,8 @@ ChMouth(1,3);
 VoicePlay("G020120000_01_030");
 MsgDisp("Kazama","...Don't worry about it.
 But I am serious.");
-MsgDisp("主人公","(Isn't ｛Kazama＊＊｝ acting strange today...?)");
+MsgDisp("主人公","(Isn't ｛Kazama＊＊｝ acting strange
+today...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

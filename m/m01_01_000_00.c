@@ -38,8 +38,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("M010100000_01_040");
 MsgDisp("Kazama","Yeah.
-When I was in England, Mom made them for me a
-lot. Icing cookies.");
+When I was in England, Mom made them for
+me a lot. Icing cookies.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

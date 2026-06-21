@@ -10,8 +10,8 @@ MsgDisp("主人公","Oh, ｛Nanatsumori＊｝.
 What's up?");
 ChMotion(4,1,1);
 VoicePlay("H7G0400000_04_010");
-MsgDisp("Nanatsumori","I heard your entry in the handicrafts club's
-contest got the grand prize.");
+MsgDisp("Nanatsumori","I heard your entry in the handicrafts
+club's contest got the grand prize.");
 MsgDisp("主人公","Yeah.");
 ChEye(4,0);
 ChMouth(4,4);
@@ -25,8 +25,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("H7G0400000_04_030");
 MsgDisp("Nanatsumori","Don't be so modest.
-You can be more proud of yourself for amazing
-stuff like this.");
+You can be more proud of yourself for
+amazing stuff like this.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

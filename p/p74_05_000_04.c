@@ -42,8 +42,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("P740500004_05_040");
-MsgDisp("Hiiragi","To surpass this beauty, I'll have to see you
-in a wedding dress once more, won't I?");
+MsgDisp("Hiiragi","To surpass this beauty, I'll have to see
+you in a wedding dress once more, won't I?");
 MsgDisp("主人公","Eh, this year is the last time I'll wear a
 wedding dress for a show?");
 ChMotion(5,0);

@@ -28,8 +28,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("E010720200_02_010");
 MsgDisp("Sassa","Similar hobbies?
-Come to think of it, we were at the pet store
-together the other day...");
+Come to think of it, we were at the pet
+store together the other day...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

@@ -28,8 +28,8 @@ past three years.");
     ChMotion(3,1,1);
     VoicePlay("S120300004_03_020");
     MsgDisp("Honda","Alright.
-There's not much time left, but let's enjoy
-our school days! See you!");
+There's not much time left, but let's
+enjoy our school days! See you!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(3);
@@ -73,8 +73,8 @@ I'll take you home.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("S120300004_03_060");
-    MsgDisp("Honda","I really wanted to spend New Years with you
-this year.
+    MsgDisp("Honda","I really wanted to spend New Years with
+you this year.
 So let me just thank you for that.");
     ChEye(3,0);
     ChMouth(3,0);
@@ -88,16 +88,16 @@ What's this about?");
     ChMouth(3,4);
     ChMotion(3,1,1);
     VoicePlay("S120300004_03_080");
-    MsgDisp("Honda","Because it's our last New Years while in high
-school, we don't know what will happen next
-year, right?");
+    MsgDisp("Honda","Because it's our last New Years while in
+high school, we don't know what will
+happen next year, right?");
     MsgDisp("主人公","Oh... I see.");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("S120300004_03_090");
-    MsgDisp("Honda","Of course, I'd like to spend next New Years
-with you as well.
+    MsgDisp("Honda","Of course, I'd like to spend next New
+Years with you as well.
 But that's up to you, I guess?");
     MsgDisp("主人公","Eh?");
     ChEye(3,0);

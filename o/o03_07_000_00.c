@@ -43,8 +43,8 @@ We got first!");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("O030700000_07_040");
-    MsgDisp("Mikage","Compared to just running normally, maybe we
-were a little faster together?");
+    MsgDisp("Mikage","Compared to just running normally, maybe
+we were a little faster together?");
     MsgDisp("主人公","Hehe!");
     ChEye(7,0);
     ChMouth(7,0);

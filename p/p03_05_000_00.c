@@ -31,7 +31,8 @@ Shall I come back another time?");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P030500000_05_020");
-    MsgDisp("Hiiragi","Then, allow me to be spoiled by your words.
+    MsgDisp("Hiiragi","Then, allow me to be spoiled by
+your words.
 Although I must say...");
     MsgDisp("主人公","Hm?");
     ChEye(5,4);
@@ -86,8 +87,8 @@ I'll have them ready a table for one.");
     ChMotion(5,4);
     VoicePlay("P030500000_05_080");
     MsgDisp("Hiiragi","I see...
-Then, I'll be enjoying my dango inside until
-you come to serve me.");
+Then, I'll be enjoying my dango inside
+until you come to serve me.");
     MsgDisp("主人公","Yes, please savour them.");
     MsgClose();
     ScrFadeOut(0,0);

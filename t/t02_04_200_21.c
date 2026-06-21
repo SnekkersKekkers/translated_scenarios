@@ -19,7 +19,8 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_200");
-MsgDisp("Nanatsumori","I mean, my first kiss was stolen from me...");
+MsgDisp("Nanatsumori","I mean, my first kiss was stolen
+from me...");
 MsgDisp("主人公","Already.");
 ChEye(4,2);
 ChMouth(4,3);

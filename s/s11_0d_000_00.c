@@ -43,8 +43,9 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("S110D00000_22_030");
 MsgDisp("Hikaru","Ehe▼
-Well, Hikaru's not going to worry about it♪");
-MsgDisp("主人公","(The two of them are both looking forward to
-the future.)");
+Well, Hikaru's not going to worry
+about it♪");
+MsgDisp("主人公","(The two of them are both looking forward
+to the future.)");
 MsgClose();
 ScrFadeOut(0,0);

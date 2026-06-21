@@ -20,15 +20,16 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520200_05_030");
-MsgDisp("Hiiragi","To be frank, I'm rather jealous of Inori-kun.");
+MsgDisp("Hiiragi","To be frank, I'm rather jealous of
+Inori-kun.");
 MsgDisp("主人公","Eh?");
 ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520200_05_040");
-MsgDisp("Hiiragi","I feel like if it's Inori by your side... it
-can't be helped, and for that, I want to
-scold myself.");
+MsgDisp("Hiiragi","I feel like if it's Inori by your side...
+it can't be helped, and for that, I want
+to scold myself.");
 ChEye(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G020520200_05_050");
@@ -45,7 +46,8 @@ VoicePlay("G020520200_05_070");
 MsgDisp("Hiiragi","Although I have no idea what I should do.
 Today, I'm just making that declaration.");
 MsgDisp("主人公","(Eh, declaration?
-｛Hiiragi＊＊＊｝, what are you planning to do...)");
+｛Hiiragi＊＊＊｝, what are you planning
+to do...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -130,8 +130,8 @@ So, let's go!");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(6);
-        MsgDisp("主人公","(He called me out and everything, so I feel
-like I did something wrong...)");
+        MsgDisp("主人公","(He called me out and everything, so I
+feel like I did something wrong...)");
         break ;
         case 4:
         case 5:
@@ -152,8 +152,8 @@ I'll ask you out again.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         BGMStop();
         ChClose(6);
-        MsgDisp("主人公","(He called me out and everything, so I feel
-like I did something wrong...)");
+        MsgDisp("主人公","(He called me out and everything, so I
+feel like I did something wrong...)");
         break ;
         default :
         DbgAssert(1);

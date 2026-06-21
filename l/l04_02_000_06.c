@@ -74,9 +74,10 @@ chocolate...)");
     ChMotion(2,4);
     VoicePlay("L040200006_02_070");
     MsgDisp("Sassa","It's fine.
-I kinda like how it feels like it's the only
-one of its kind in the world.");
-    MsgDisp("主人公","Geez, that's hardly a compliment, you know?");
+I kinda like how it feels like it's the
+only one of its kind in the world.");
+    MsgDisp("主人公","Geez, that's hardly a compliment,
+you know?");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -96,8 +97,8 @@ it, okay?");
     ChMotion(2,4);
     VoicePlay("L040200006_02_100");
     MsgDisp("Sassa","You don't have to hold back.
-Even if you didn't say anything, I'd eat it,
-you know?");
+Even if you didn't say anything, I'd eat
+it, you know?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);

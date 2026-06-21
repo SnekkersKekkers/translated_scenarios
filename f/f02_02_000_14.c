@@ -24,8 +24,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200014_02_020");
 MsgDisp("Sassa","I see, I'm grateful to my uniform too.
-In my case, I guess I'm grateful for training
-clothes?");
+In my case, I guess I'm grateful for
+training clothes?");
 MsgDisp("主人公","Yeah, because you wear them more often?");
 ChEye(2,0);
 ChMouth(2,3);
@@ -39,8 +39,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("F020200014_02_040");
 MsgDisp("Sassa","Haha, yikes. I forgot about Mikage-sensei.
-Maybe because he's overshadowed during track
-and field club?");
+Maybe because he's overshadowed during
+track and field club?");
 MsgDisp("主人公","He's been my homeroom teacher for
 three years.");
 ChEye(2,0);
@@ -55,8 +55,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200014_02_060");
-MsgDisp("Sassa","There's still time until graduation, so I'll
-save my thanks for then.
+MsgDisp("Sassa","There's still time until graduation, so
+I'll save my thanks for then.
 Until then, let's keep things as they are.");
 MsgDisp("主人公","Um, okay.");
 MsgDisp("主人公","(Graduation...

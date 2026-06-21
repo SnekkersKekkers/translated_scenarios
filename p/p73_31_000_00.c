@@ -18,8 +18,8 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P733100000_31_010");
-MsgDisp("Goro","I had intended to watch obediently, but this
-gets my blood pumping～");
+MsgDisp("Goro","I had intended to watch obediently, but
+this gets my blood pumping～");
 SEPlay("EV_SE_038");
 SEWait();
 ChEye(31,0);
@@ -28,7 +28,8 @@ ChMotion(31,4);
 VoicePlay("P733100000_31_020");
 MsgDisp("Goro","That is your cue to battle.
 Please go forth!");
-MsgDisp("主人公","(Yes! Alright, let's believe in ourselves!)");
+MsgDisp("主人公","(Yes!
+Alright, let's believe in ourselves!)");
 MsgClose();
 ScrFadeOut(0);
 ChClose(31,0,0);

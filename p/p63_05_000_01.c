@@ -23,7 +23,8 @@ Welcome.");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P630500001_05_010");
-    MsgDisp("Hiiragi","The herb's wonderful fragrance is inviting.");
+    MsgDisp("Hiiragi","The herb's wonderful fragrance is
+inviting.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
@@ -64,8 +65,8 @@ Welcome.");
     VoicePlay("P630500001_05_050");
     MsgDisp("Hiiragi","Maybe I should have came by earlier.");
     MsgDisp("主人公","It's alright.
-Because there's still lots of both herbal tea
-and vegetables!");
+Because there's still lots of both herbal
+tea and vegetables!");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,0);

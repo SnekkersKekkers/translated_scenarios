@@ -43,7 +43,7 @@ ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("F020300003_03_050");
 MsgDisp("Honda","If there were enough to fill a huge
-library, I'd never be bored for the rest of
-my school days!");
-MsgDisp("主人公","(...we kept talking about something like that
-as we walked home.)");
+library, I'd never be bored for the rest
+of my school days!");
+MsgDisp("主人公","(...we kept talking about something like
+that as we walked home.)");

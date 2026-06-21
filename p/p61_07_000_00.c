@@ -9,8 +9,8 @@ SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 ChOpen(7,37,0,0,0,#1,#1,0,0);
 VoicePlay("P610700000_07_000");
-MsgDisp("Mikage","Alright, everyone's decided, so let's make it
-into a success?");
+MsgDisp("Mikage","Alright, everyone's decided, so let's make
+it into a success?");
 VoicePlay("P610700000_40_010");
 MsgDisp("Member A","Let's make an original blend!");
 VoicePlay("P610700000_45_000");

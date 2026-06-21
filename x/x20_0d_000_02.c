@@ -27,8 +27,8 @@ MsgDisp("Hikaru","Hikaru is also super happy...!
 Mari, you did it▼");
 MsgDisp("主人公","(I'm the Rose Queen...!)");
 SEPlay("EV_SE_082");
-MsgDisp("","(I received a \"Queen's Gown\" as proof of my
-status as Rose Queen!)");
+MsgDisp("","(I received a \"Queen's Gown\" as proof of
+my status as Rose Queen!)");
 SEStop("EV_SE_082",1);
 MsgClose();
 ScrFadeOut(0,0);

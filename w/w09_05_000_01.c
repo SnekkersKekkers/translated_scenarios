@@ -25,7 +25,8 @@ So I appreciate moments like this.");
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("W090500001_05_030");
-    MsgDisp("Hiiragi","Yeah. Especially if I can ride it with you.");
+    MsgDisp("Hiiragi","Yeah.
+Especially if I can ride it with you.");
     break ;
     default :
     DbgAssert(1);

@@ -24,8 +24,8 @@ Happy New Year!");
 considerate of you.
 ...So, what's up?");
     MsgDisp("主人公","You see...
-I was wondering if we could visit the shrine
-together.");
+I was wondering if we could visit the
+shrine together.");
     break ;
     case 4:
     case 5:

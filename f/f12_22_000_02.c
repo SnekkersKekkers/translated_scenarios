@@ -45,7 +45,7 @@ VoicePlay("F122200002_22_040");
 MsgDisp("Hikaru","Ehe▼ It's fine!
 Hikaru and Sis are Mari's cupids of love,
 after all."); 
-MsgDisp("主人公","(Right, this Valentine's Day is the last one
-of high school...)");
+MsgDisp("主人公","(Right, this Valentine's Day is the last
+one of high school...)");
 MsgClose();
 ScrFadeOut(0,0);

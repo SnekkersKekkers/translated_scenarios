@@ -9,11 +9,11 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700002_07_000");
-MsgDisp("Mikage","Our school's church legends...there are many
-tales surrounding it, aren't there?");
+MsgDisp("Mikage","Our school's church legends...there are
+many tales surrounding it, aren't there?");
 MsgDisp("主人公","Yes.
-The story about the Prince and the Princess
-is most famous though.");
+The story about the Prince and the
+Princess is most famous though.");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,3);
@@ -26,9 +26,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700002_07_020");
-MsgDisp("Mikage","Even though he was supposed to meet someone
-important there, the other person got the
-time wrong.");
+MsgDisp("Mikage","Even though he was supposed to meet
+someone important there, the other person
+got the time wrong.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,5);

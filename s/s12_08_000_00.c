@@ -39,7 +39,8 @@ See you later!");
     ChMotion(8,3,1);
     VoicePlay("S120800000_08_030");
     MsgDisp("Shirahane","Right?
-It makes you feel all warm and fuzzy inside.");
+It makes you feel all warm and
+fuzzy inside.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     break ;
     case 4:

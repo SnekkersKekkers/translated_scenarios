@@ -18,8 +18,8 @@ Ah, ｛Hiiragi＊＊＊｝.");
     ChCheek(5,5);
     VoicePlay("I550500000_05_010");
     MsgDisp("Hiiragi","Hello.
-I had received some delicious karinto manju
-from this store as a gift...");
+I had received some delicious karinto
+manju from this store as a gift...");
     VoicePlay("I550500000_05_020");
     MsgDisp("Hiiragi","Would it happen to still be in stock?");
     MsgDisp("主人公","Yes, so you'll be taking it home.
@@ -61,8 +61,8 @@ Excuse me.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, so you're going to be eating
-it all by yourself...)");
+    MsgDisp("主人公","(｛Hiiragi＊＊＊｝, so you're going to be
+eating it all by yourself...)");
     break ;
     case 3:
     MsgClose();
@@ -105,17 +105,18 @@ a little.");
     ChCheek(5,7);
     ScrFadeIn(0);
     VoicePlay("I550500000_05_110");
-    MsgDisp("Hiiragi","Sigh... The karinto manju has been surpassed.");
+    MsgDisp("Hiiragi","Sigh...
+The karinto manju has been surpassed.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, how was it?");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("I550500000_05_120");
-    MsgDisp("Hiiragi","The chocolate seeped into the layers of the
-fugashi and hardened there.
+    MsgDisp("Hiiragi","The chocolate seeped into the layers of
+the fugashi and hardened there.
 I'll take 20 to go.");
     MsgDisp("主人公","Thank you for your continued patronage!");
-    MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ really liked my
-recommendation ♪)");
+    MsgDisp("主人公","(It looks like ｛Hiiragi＊＊＊｝ really liked
+my recommendation ♪)");
     break ;
     case 4:
     case 5:
@@ -126,7 +127,8 @@ recommendation ♪)");
     VoicePlay("I550500000_05_130");
     MsgDisp("Hiiragi","Excuse me.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, sorry.
-It's closing time, so there's not much left.");
+It's closing time, so there's not
+much left.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("I550500000_05_140");
@@ -160,7 +162,8 @@ way back.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Bad? I wonder if I said something wrong...)");
+    MsgDisp("主人公","(Bad?
+I wonder if I said something wrong...)");
     break ;
     default :
     DbgAssert(1);

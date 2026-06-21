@@ -10,21 +10,23 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610300_06_010");
-MsgDisp("Himuro","You don't need to give any responses or nods.");
+MsgDisp("Himuro","You don't need to give any responses
+or nods.");
 MsgDisp("主人公","I got it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610300_06_020");
-MsgDisp("Himuro","...Lately, I've been feeling pretty nervous.
+MsgDisp("Himuro","...Lately, I've been feeling pretty
+nervous.
 Like, when we hang out or talk.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610300_06_030");
-MsgDisp("Himuro","I keep thinking about that time...y'know, by
-the beach. Wondering if you're still thinking
-about it, or how you felt.");
+MsgDisp("Himuro","I keep thinking about that time...y'know,
+by the beach. Wondering if you're still
+thinking about it, or how you felt.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -55,9 +57,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610300_06_080");
-MsgDisp("Himuro","...Still, if my feelings were too much and I
-ended up making things harder for you or even
-hurting you...");
+MsgDisp("Himuro","...Still, if my feelings were too much and
+I ended up making things harder for you or
+even hurting you...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

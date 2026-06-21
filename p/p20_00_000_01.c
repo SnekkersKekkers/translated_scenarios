@@ -29,8 +29,8 @@ Take care.");
     case 1:
     VoicePlay("P200000001_45_030");
     MsgDisp("Chairperson","Understood.
-Please do your best with the preparations for
-the school play. Take care.");
+Please do your best with the preparations
+for the school play. Take care.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     break ;

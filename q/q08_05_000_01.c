@@ -69,11 +69,11 @@ I've gotten used to the free time.");
     ChMotion(5,0);
     VoicePlay("Q080500001_05_080");
     MsgDisp("Hiiragi","I'd like to invite you again.
-Would you like to join me again for the free
-period tomorrow?");
+Would you like to join me again for the
+free period tomorrow?");
     MsgDisp("主人公","Of course!
-I'm looking forward to learning what tricks
-you have up your sleeve.");
+I'm looking forward to learning what
+tricks you have up your sleeve.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,3);

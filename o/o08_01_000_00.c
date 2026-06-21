@@ -28,8 +28,8 @@ Ah, it's ｛Kazama＊＊｝.)");
     ChMotion(1,0);
     VoicePlay("O080100000_01_020");
     MsgDisp("Kazama","Nothing.
-Just that we're both in our gym clothes, and
-doing this weird dance.");
+Just that we're both in our gym clothes,
+and doing this weird dance.");
     break ;
     case 4:
     case 5:

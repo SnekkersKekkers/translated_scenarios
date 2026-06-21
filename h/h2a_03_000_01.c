@@ -12,30 +12,30 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("H2A0300001_03_000");
-MsgDisp("Honda","Alright, let's all have a meet to thank you
-for your hard work!");
+MsgDisp("Honda","Alright, let's all have a meet to thank
+you for your hard work!");
 MsgDisp("主人公","Hm?");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
 VoicePlay("H2A0300001_03_010");
-MsgDisp("Honda","Even though the outcome wasn't the best, your
-efforts still deserve recognition.");
+MsgDisp("Honda","Even though the outcome wasn't the best,
+your efforts still deserve recognition.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("H2A0300001_03_020");
-MsgDisp("Honda","You might be filled with frustration now, but
-you still need to give yourself credit for
-these past three years, right?");
+MsgDisp("Honda","You might be filled with frustration now,
+but you still need to give yourself credit
+for these past three years, right?");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 ChEyeOpenLevel(3,0);
 VoicePlay("H2A0300001_03_030");
-MsgDisp("Honda","And so, we'll be having ramen together later
-tonight!");
+MsgDisp("Honda","And so, we'll be having ramen together
+later tonight!");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

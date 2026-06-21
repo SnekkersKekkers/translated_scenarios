@@ -38,8 +38,8 @@ Yeah, it's my first delivery job.
     ChMotion(4,1,1);
     VoicePlay("I360400005_04_010");
     MsgDisp("Nanatsumori","Yeah.
-I think it's fine if you just leave that on
-the table.");
+I think it's fine if you just leave that
+on the table.");
     MsgDisp("主人公","Okay. I'll do that.");
     ChEye(4,4);
     ChMouth(4,4);

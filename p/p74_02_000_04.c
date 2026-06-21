@@ -26,17 +26,17 @@ ChMouth(2,0);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("P740200004_02_020");
-MsgDisp("Sassa","I'm happy that your show was a success, but I
-had mixed feelings also...");
+MsgDisp("Sassa","I'm happy that your show was a success,
+but I had mixed feelings also...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P740200004_02_030");
-MsgDisp("Sassa","Well...but I got to see the bride so up close
-like this again.");
+MsgDisp("Sassa","Well...but I got to see the bride so up
+close like this again.");
 MsgDisp("主人公","This dress will be displayed in the
-Handicrafts club for a while, so you can come
-see it whenever, right?");
+Handicrafts club for a while, so you can
+come see it whenever, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);

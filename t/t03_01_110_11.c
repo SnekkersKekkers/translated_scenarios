@@ -1,16 +1,16 @@
 MsgDisp("","｛Kazama＊＊｝ is going on to a first-rate
-university. He is also genuinely helping out
-his grandfather with his work.");
+university. He is also genuinely helping
+out his grandfather with his work.");
 MsgClear();
 MsgDisp("","｛Kazama＊＊｝ is genuinely helping out his
-grandfather with his business. The other day,
-while the two of us were tending to the
-store, a customer said to us, \"You look like
-a young married couple.\". to which
-｛Kazama＊＊｝ immediately replied \"Yes, I
-intend on doing just that.\" The customer
-laughed, but when I was surprised, he said
-\"That wasn't the real thing just now\" and
-grinned.");
+grandfather with his business. The other
+day, while the two of us were tending to
+the store, a customer said to us, \"You
+look like a young married couple.\". to
+which ｛Kazama＊＊｝ immediately replied
+\"Yes, I intend on doing just that.\" The
+customer laughed, but when I was
+surprised, he said \"That wasn't the real
+thing just now\" and grinned.");
 MsgClear();
 

@@ -1,8 +1,8 @@
 MsgClose();
 ChOpen(2,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020210305_02_000");
-MsgDisp("Sassa","You know how memories suddenly come flooding
-back sometimes?");
+MsgDisp("Sassa","You know how memories suddenly come
+flooding back sometimes?");
 MsgDisp("主人公","What's up all of a sudden?");
 ChEye(2,0);
 ChMouth(2,0);
@@ -29,23 +29,23 @@ VoicePlay("G020210305_02_040");
 MsgDisp("Sassa","Remember?
 We were facing each other across the cow?");
 MsgDisp("主人公","Y-Yeah.
-That time, ｛Sassa＊＊｝ was just watching and
-didn't really do much.");
+That time, ｛Sassa＊＊｝ was just watching
+and didn't really do much.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 ChCheek(2,10);
 VoicePlay("G020210305_02_050");
 MsgDisp("Sassa","Yeah.
-Seeing you have so much fun milking the cow,
-felt strange...");
+Seeing you have so much fun milking the
+cow, felt strange...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020210305_02_060");
 MsgDisp("Sassa","Since then, whenever milk shows up at
-breakfast, I get this weird feeling...and my
-morning practice goes great...");
+breakfast, I get this weird feeling...and
+my morning practice goes great...");
 MsgDisp("主人公","(...Hm?
 I can't tell if you're troubled or
 happy...｛Sassa＊＊｝)");

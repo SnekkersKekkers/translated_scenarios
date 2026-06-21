@@ -9,8 +9,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020510101_05_010");
 MsgDisp("Hiiragi","...If only this place were a bit more
-secretive, I would have wanted us to have it
-all to ourselves.");
+secretive, I would have wanted us to have
+it all to ourselves.");
 MsgDisp("主人公","Eh?");
 ChEye(5,3);
 ChEyeOpenLevel(5,#1);
@@ -24,7 +24,8 @@ You aren't entirely mine yet, either.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...?");
 ChEye(5,4);
 VoicePlay("G020510101_05_040");
-MsgDisp("Hiiragi","But I believe I'm the closest person to you.
+MsgDisp("Hiiragi","But I believe I'm the closest person
+to you.
 Am I right?");
 MsgDisp("主人公","Umm...");
 ChMotion(5,4);

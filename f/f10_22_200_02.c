@@ -71,8 +71,8 @@ ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("F102220002_22_050");
-MsgDisp("Hikaru","Well, he was a classmate of the principal, so
-it's obvious, isn't it?
+MsgDisp("Hikaru","Well, he was a classmate of the principal,
+so it's obvious, isn't it?
 Looks like it's a delicate subject.");
 ChEye(22,4);
 ChMouth(22,0);
@@ -89,7 +89,8 @@ MsgDisp("Hikaru","...Ah!
 Then, Hikaru wonders if we'll be like that
 too? Immortal!");
 MsgDisp("主人公","(I think that's impossible but...
-Goro-sensei doesn't look like he's aged...)");
+Goro-sensei doesn't look like he's
+aged...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

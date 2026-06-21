@@ -4,7 +4,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("G020210100_02_000");
 MsgDisp("Sassa","The fireflies here are really unique.
-Look at their colours and how they light up.");
+Look at their colours and how they
+light up.");
 MsgDisp("主人公","Yeah.");
 ChEye(2,0);
 ChMouth(2,0);

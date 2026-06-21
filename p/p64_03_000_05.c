@@ -19,16 +19,16 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("P640300005_03_020");
-MsgDisp("Honda","But, the way you cut the vegetables altered
-it's taste.
+MsgDisp("Honda","But, the way you cut the vegetables
+altered it's taste.
 It's better to cut along the grain.");
 MsgDisp("主人公","I-Is that right?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("P640300005_03_030");
-MsgDisp("Honda","Yeah. The vegetables themselves are sweet and
-delicious.
+MsgDisp("Honda","Yeah. The vegetables themselves are sweet
+and delicious.
 I'll buy some to take home as a souvenir.");
 MsgDisp("主人公","(Sigh...seems like I was neglectful in
 researching preparation methods.

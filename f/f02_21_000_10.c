@@ -6,7 +6,8 @@ ChMouth(21,0);
 ChMotion(21,7);
 ScrFadeIn(0);
 MsgDisp("主人公","The cultural festival is coming up soon.
-This is the last one of high school, huh...");
+This is the last one of high
+school, huh...");
 ChEye(21,4);
 ChMouth(21,0);
 ChMotion(21,3);

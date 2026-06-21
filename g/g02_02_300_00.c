@@ -3,8 +3,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0,1);
 VoicePlay("G020230000_02_000");
-MsgDisp("Sassa","If they find out we came here today, they'll
-make a huge fuss.");
+MsgDisp("Sassa","If they find out we came here today,
+they'll make a huge fuss.");
 MsgDisp("主人公","Those guys...");
 ChEye(2,0);
 ChMouth(2,4);
@@ -20,8 +20,8 @@ VoicePlay("G020230000_02_020");
 MsgDisp("Sassa","Inori will say, \"That's surprising, you went
 to a place like that\", but in the end, he'll
 cutely say, \"Take me next time.\"");
-MsgDisp("主人公","Hehe, yeah, it was so natural I could almost
-hear their voices.");
+MsgDisp("主人公","Hehe, yeah, it was so natural I could
+almost hear their voices.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -51,12 +51,13 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020230000_02_070");
-MsgDisp("Sassa","Sorry, sorry. But let's keep it a secret from
-them, okay? It'd be hilarious if you said
-exactly the same thing again.");
+MsgDisp("Sassa","Sorry, sorry. But let's keep it a secret
+from them, okay? It'd be hilarious if you
+said exactly the same thing again.");
 MsgDisp("主人公","Hehe, yeah!");
-MsgDisp("主人公","(｛Sassa＊＊｝ really understands ｛Kazama＊＊｝
-and ｛Himuro＊＊｝ huh......and me too.)");
+MsgDisp("主人公","(｛Sassa＊＊｝ really understands
+｛Kazama＊＊｝ and ｛Himuro＊＊｝ huh......and
+me too.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -28,8 +28,8 @@ I'm nervous...");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("P730400000_04_020");
-    MsgDisp("Nanatsumori","If I'm being truthful, when I do my modelling
-work I'm always nervous.");
+    MsgDisp("Nanatsumori","If I'm being truthful, when I do my
+modelling work I'm always nervous.");
     MsgDisp("主人公","Eh, ｛Nanatsumori＊｝ too∋ I see...");
     ChEye(4,4);
     ChMouth(4,3);
@@ -45,8 +45,8 @@ So, I understand your feelings very well.");
     MsgDisp("Nanatsumori","That clothing seriously suits you, so have
 confidence.");
     MsgDisp("主人公","Yeah. Thank you!");
-    MsgDisp("主人公","(Alriiight, in order for me to look wonderful
-too, I'll do my best!)");
+    MsgDisp("主人公","(Alriiight, in order for me to look
+wonderful too, I'll do my best!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -90,8 +90,8 @@ Seriously, you're the cutest.");
     VoicePlay("P730400000_04_080");
     MsgDisp("Nanatsumori","ＧＯ! Show your cool side.");
     MsgDisp("主人公","Yeah!");
-    MsgDisp("主人公","(Maybe when ｛Nanatsumori＊｝ cheers me on, I
-gain courage.
+    MsgDisp("主人公","(Maybe when ｛Nanatsumori＊｝ cheers me on,
+I gain courage.
 Alriiight, let's do it!)");
     MsgClose();
     ScrFadeOut(0,0);

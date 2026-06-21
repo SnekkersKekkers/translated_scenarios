@@ -2,5 +2,6 @@ NSSEye(2,0);
 NSSMouth(2,0);
 NSSCheek(2,10);
 VoicePlay("AP0502510_02_000");
-MsgDisp("Sassa","...Sigh. I'm still of sound mind, still me.");
+MsgDisp("Sassa","...Sigh.
+I'm still of sound mind, still me.");
 MsgClose();

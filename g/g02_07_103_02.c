@@ -4,8 +4,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
 VoicePlay("G020710302_07_000");
-MsgDisp("Mikage","I wonder if fireflies also get excited when
-their colours and blinking timings match?");
+MsgDisp("Mikage","I wonder if fireflies also get excited
+when their colours and blinking
+timings match?");
 MsgDisp("主人公","Haha, like us today?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -25,16 +26,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020710302_07_030");
-MsgDisp("Mikage","I see, so coordinated outfits are something
-you do intentionally.
+MsgDisp("Mikage","I see, so coordinated outfits are
+something you do intentionally.
 That's enlightening.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710302_07_040");
-MsgDisp("Mikage","...In that case, I feel like coincidentally
-matching might be superior to coordinated
-outfits.");
+MsgDisp("Mikage","...In that case, I feel like
+coincidentally matching might be superior
+to coordinated outfits.");
 MsgDisp("主人公","I sort of get what you mean.
 It feels more like fate, doesn't it...");
 ChEye(7,0);

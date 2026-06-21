@@ -72,8 +72,8 @@ VoicePlay("G110700300_07_080");
 MsgDisp("Mikage","Look, afternoon classes are starting.
 See you later.");
 MsgDisp("主人公","(｛Mikage＊＊｝...
-Maybe he was concerned about the test I did
-badly in the other day...?)");
+Maybe he was concerned about the test I
+did badly in the other day...?)");
 SEStop("EV_SE_SCHOOL_002",1);
 BGMStop();
 MsgClose();

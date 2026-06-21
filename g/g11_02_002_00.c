@@ -36,8 +36,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);
 VoicePlay("G110200200_02_030");
-MsgDisp("Sassa","Well then, I'll live up to your expectations
-and run a bit more.
+MsgDisp("Sassa","Well then, I'll live up to your
+expectations and run a bit more.
 You run too.");
 MsgDisp("主人公","Ehh-∋");
 MsgClose();
@@ -74,8 +74,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("G110200200_02_070");
-MsgDisp("Sassa","Wouldn't it be awful if your article was like
-fake news?");
+MsgDisp("Sassa","Wouldn't it be awful if your article was
+like fake news?");
 MsgDisp("主人公","Hehe, yeah.
 I'm rooting for you!");
 ChEye(2,0);

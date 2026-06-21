@@ -15,9 +15,9 @@ VoicePlay("P610700004_07_000");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
-MsgDisp("Mikage","Having someone eat your vegetables right in
-front of you is special, like marrying off a
-cute girl, right?");
+MsgDisp("Mikage","Having someone eat your vegetables right
+in front of you is special, like marrying
+off a cute girl, right?");
 VoicePlay("P610700002_45_000");
 MsgDisp("Member A","Eh, Sensei, do you have kids?");
 VoicePlay("P610700004_07_010");
@@ -34,7 +34,7 @@ ChMouth(7,3);
 ChMotion(7,1);
 MsgDisp("Mikage","Yes, both of them are top quality.");
 MsgDisp("主人公","(Hehe! This is my last cultural festival.
-I have to do my best to make this into a huge
-success!)");
+I have to do my best to make this into a
+huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

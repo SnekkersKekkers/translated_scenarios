@@ -37,8 +37,8 @@ We finally met.");
     ChCheek(3,8);
     VoicePlay("O080300000_03_030");
     MsgDisp("Honda","Hm...that's weird.
-Even though I've been waiting all this time,
-I'm getting nervous, now...");
+Even though I've been waiting all this
+time, I'm getting nervous, now...");
     break ;
     default :
     DbgAssert(1);

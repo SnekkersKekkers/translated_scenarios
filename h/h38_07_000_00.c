@@ -12,8 +12,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("H380700000_07_010");
-MsgDisp("Mikage","Yeah, more importantly, you don't feel hurt
-anywhere, do you?");
+MsgDisp("Mikage","Yeah, more importantly, you don't feel
+hurt anywhere, do you?");
 MsgDisp("主人公","Hehe, the matches haven't started yet.");
 ChEye(7,0);
 ChMouth(7,0);

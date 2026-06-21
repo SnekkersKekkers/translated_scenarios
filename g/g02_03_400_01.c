@@ -30,18 +30,18 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("G020340001_03_040");
-MsgDisp("Honda","I was scared and jumped up, only to realise
-that while I was asleep, several books had
-piled up on my face.");
-MsgDisp("主人公","So, the suffocation was because of the books
-on your face.");
+MsgDisp("Honda","I was scared and jumped up, only to
+realise that while I was asleep, several
+books had piled up on my face.");
+MsgDisp("主人公","So, the suffocation was because of the
+books on your face.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020340001_03_050");
-MsgDisp("Honda","Yeah. I learned the hard way that stacking up
-a tower of unread books by my bedside is
-dangerous.");
+MsgDisp("Honda","Yeah. I learned the hard way that stacking
+up a tower of unread books by my bedside
+is dangerous.");
 MsgDisp("主人公","Yeah...make sure to organise them
 properly, okay?");
 ChEye(3,2);
@@ -49,7 +49,8 @@ ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020340001_03_060");
 MsgDisp("Honda","Yeah, I'll be careful.
-I've had enough of those suffocating dreams.");
+I've had enough of those
+suffocating dreams.");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

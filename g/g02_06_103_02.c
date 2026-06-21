@@ -50,9 +50,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("G020610302_06_070");
-MsgDisp("Himuro","...That being said, I shouldn't have to worry
-about you. It's your own problem, shouldn't
-you worry yourself?");
+MsgDisp("Himuro","...That being said, I shouldn't have to
+worry about you. It's your own problem,
+shouldn't you worry yourself?");
 MsgDisp("主人公","S-Sorry...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -60,8 +60,8 @@ ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("G020610302_06_080");
 MsgDisp("Himuro","...So, how about it?
-Would it be a problem if there were rumours
-about us?");
+Would it be a problem if there were
+rumours about us?");
 MsgDisp("主人公","I don't think so?");
 ChEye(6,0);
 ChMouth(6,0);

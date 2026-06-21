@@ -33,8 +33,8 @@ Let's go, let's go!");
     ChMotion(3,4);
     ChEyeOpenLevel(3,0);
     VoicePlay("F010300005_03_030");
-    MsgDisp("Honda","To be honest, I also wanted to talk with you
-somewhere quiet.");
+    MsgDisp("Honda","To be honest, I also wanted to talk with
+you somewhere quiet.");
     MsgDisp("主人公","Haha, I'm glad.
 Well then, shall we go?");
     break ;

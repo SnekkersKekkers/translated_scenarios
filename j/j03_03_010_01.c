@@ -17,7 +17,8 @@ It's about your call earlier.");
     MsgDisp("主人公","Uh, yeah.
 What do you think?");
     VoicePlay("J030301001_03_010");
-    MsgDisp("Honda","The thing is, I actually have plans already.
+    MsgDisp("Honda","The thing is, I actually have plans
+already.
 We can't do another day, can we?");
     MsgDisp("主人公","Is that so.
 Then I'll ask you out again?");
@@ -45,7 +46,8 @@ I was hoping to work something out.");
 Don't worry about it!
 Just knowing you tried makes me happy.");
     VoicePlay("J030301001_03_050");
-    MsgDisp("Honda","Then next time, let's go have fun together!
+    MsgDisp("Honda","Then next time, let's go have fun
+together!
 Well, I'll see you later?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

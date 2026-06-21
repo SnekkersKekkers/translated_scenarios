@@ -42,7 +42,8 @@ MsgDisp("主人公","(Ah...)");
 MsgClear();
 BGOpen("ev009",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's a picture of a mermaid and a young man.
+MsgDisp("主人公","(It's a picture of a mermaid and a
+young man.
 It's a bit sad, but they look happy...)");
 MsgClear();
 MsgClose();
@@ -74,8 +75,8 @@ Why are we here?");
 ChEye(8,4);
 ChMouth(8,0);
 VoicePlay("T020801000_08_040");
-MsgDisp("Shirahane","This lighthouse is the legendary confession
-spot at Hanegasaki High School.");
+MsgDisp("Shirahane","This lighthouse is the legendary
+confession spot at Hanegasaki High School.");
 MsgDisp("主人公","Ah...");
 ChEye(8,2);
 ChMouth(8,4);
@@ -98,26 +99,27 @@ VoicePlay("T020801000_08_070");
 ChEye(8,4);
 ChMouth(8,4);
 ChMotion(8,2,1);
-MsgDisp("Shirahane","Until I met you, I thought I was gettin' by
-in life and doin' everything well.");
+MsgDisp("Shirahane","Until I met you, I thought I was gettin'
+by in life and doin' everything well.");
 VoicePlay("T020801000_08_080");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
-MsgDisp("Shirahane","In fact, I didn't have any worries and I was
-doin' well in both studies and sports.");
+MsgDisp("Shirahane","In fact, I didn't have any worries and I
+was doin' well in both studies and sports.");
 VoicePlay("T020801000_08_090");
 ChEye(8,4);
 ChMouth(8,4);
-MsgDisp("Shirahane","But...the excitement I felt due to you and to
-Haba High, made me begin to feel like
+MsgDisp("Shirahane","But...the excitement I felt due to you and
+to Haba High, made me begin to feel like
 something was missing...");
 VoicePlay("T020801000_08_100");
 ChEye(8,2);
 ChMouth(8,4);
 ChMotion(8,4,1);
 MsgDisp("Shirahane","The day I saw the autumn fireflies, I
-realised that I couldn't continue like this.");
+realised that I couldn't continue
+like this.");
 VoicePlay("T020801000_08_110");
 ChEye(8,2);
 ChMouth(8,4);
@@ -127,8 +129,8 @@ reality I was just complacent.");
 VoicePlay("T020801000_08_120");
 ChEye(8,4);
 ChMouth(8,4);
-MsgDisp("Shirahane","I'm not goin' to end my high school life as
-such a half-assed guy.
+MsgDisp("Shirahane","I'm not goin' to end my high school life
+as such a half-assed guy.
 I...want you to acknowledge me.");
 MsgClear();
 ChClose(8);

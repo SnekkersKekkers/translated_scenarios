@@ -4,8 +4,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020730200_07_000");
-MsgDisp("Mikage","The other day, Vice Principal Himuro really
-let me have it...");
+MsgDisp("Mikage","The other day, Vice Principal Himuro
+really let me have it...");
 MsgDisp("主人公","Are you okay?");
 ChEye(7,2);
 ChMouth(7,0);
@@ -26,10 +26,10 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020730200_07_030");
-MsgDisp("Mikage","I really have nothing to teach you guys, I'll
-never be like Vice Principal Himuro.");
-MsgDisp("主人公","I think ｛Mikage＊＊｝ as ｛Mikage＊＊｝ is
-just fine.");
+MsgDisp("Mikage","I really have nothing to teach you guys,
+I'll never be like Vice Principal Himuro.");
+MsgDisp("主人公","I think ｛Mikage＊＊｝ as ｛Mikage＊＊｝
+is just fine.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);

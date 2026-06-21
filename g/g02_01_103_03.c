@@ -10,16 +10,16 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110303_01_010");
-MsgDisp("Kazama","But they did wait for ten months underwater
-and underground to become full-fledged adult
-insects.");
+MsgDisp("Kazama","But they did wait for ten months
+underwater and underground to become
+full-fledged adult insects.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110303_01_020");
 MsgDisp("Kazama","I empathise with them.");
-MsgDisp("主人公","I think you'd shine a really pretty colour if
-you were a firefly, ｛Kazama＊＊｝.");
+MsgDisp("主人公","I think you'd shine a really pretty colour
+if you were a firefly, ｛Kazama＊＊｝.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -43,8 +43,8 @@ ChMouth(1,1);
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110303_01_050");
-MsgDisp("Kazama","...That makes it harder for me to find you,
-so hold still a bit more, would you?");
+MsgDisp("Kazama","...That makes it harder for me to find
+you, so hold still a bit more, would you?");
 MsgDisp("主人公","Hahah.
 What are you getting upset over?");
 ChEye(1,4);
@@ -57,8 +57,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G020110303_01_070");
 MsgDisp("Kazama","...Mm?
-Actually, hasn't one of them been hanging out
-in front of us for a while now?");
+Actually, hasn't one of them been hanging
+out in front of us for a while now?");
 MsgDisp("主人公","Wah! It stopped on my head∋");
 ChEye(1,3);
 ChMouth(1,2);
@@ -103,8 +103,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020110303_01_120");
-MsgDisp("Kazama","There was that guy making passes at you this
-morning, remember?");
+MsgDisp("Kazama","There was that guy making passes at you
+this morning, remember?");
 MsgDisp("主人公","Oh, yeah.");
 ChEye(1,1);
 ChMouth(1,1);

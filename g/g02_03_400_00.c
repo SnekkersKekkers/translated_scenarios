@@ -13,15 +13,15 @@ VoicePlay("G020340000_03_010");
 MsgDisp("Honda","Hmm, maybe a different colour?
 My little sister seems to have another colour
 she wants to try, so I might try it for her.");
-MsgDisp("主人公","But if you do it too much, the teachers might
-notice...");
+MsgDisp("主人公","But if you do it too much, the teachers
+might notice...");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020340000_03_020");
-MsgDisp("Honda","They probably will. But the school rules only
-say \"appropriate appearance and attire for
-high school students.\"");
+MsgDisp("Honda","They probably will. But the school rules
+only say \"appropriate appearance and
+attire for high school students.\"");
 VoicePlay("G020340000_03_030");
 MsgDisp("Honda","It doesn't specifically say anything about
 dyeing hair or wearing piercings, right?");
@@ -52,11 +52,11 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("G020340000_03_070");
-MsgDisp("Honda","Sigh～, maybe I should stop messing with my
-hair and start focusing on what's good for
-it, like my dad...");
-MsgDisp("主人公","(｛Honda＊＊｝, I don't think you need to worry
-that much...)");
+MsgDisp("Honda","Sigh～, maybe I should stop messing with
+my hair and start focusing on what's good
+for it, like my dad...");
+MsgDisp("主人公","(｛Honda＊＊｝, I don't think you need to
+worry that much...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -47,8 +47,8 @@ I'm just...");
         VoicePlay("J060501000_05_040");
         MsgDisp("Hiiragi","No, no, it can't be helped.");
         VoicePlay("J060501000_05_050");
-        MsgDisp("Hiiragi","Next time, I'll invite you so well you won't
-be able to say no.");
+        MsgDisp("Hiiragi","Next time, I'll invite you so well you
+won't be able to say no.");
         MsgDisp("主人公","Hmmm, yeah.
 See you later.");
         SEPlay("SYS_SE_PHONE_POWER_ON");

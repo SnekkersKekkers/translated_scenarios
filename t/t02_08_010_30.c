@@ -18,8 +18,8 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 MsgDisp("Shirahane","First love never comes true, huh?
-Even with the help of the lighthouse legend,
-I guess it was impossible.");
+Even with the help of the lighthouse
+legend, I guess it was impossible.");
 VoicePlay("T020801000_08_380");
 ChEye(8,4);
 ChMouth(8,0);
@@ -33,15 +33,15 @@ ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 ChEyeOpenLevel(8,0);
-MsgDisp("Shirahane","If it's okay with you, let's be friends and
-meet again some day.");
+MsgDisp("Shirahane","If it's okay with you, let's be friends
+and meet again some day.");
 MsgDisp("主人公","｛Daichi＊＊｝...");
 VoicePlay("T020801000_08_410");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
-MsgDisp("Shirahane","When my heart grows up, I'm sure I'll be able
-to meet you again while laughing.");
+MsgDisp("Shirahane","When my heart grows up, I'm sure I'll be
+able to meet you again while laughing.");
 VoicePlay("T020801000_08_420");
 ChEye(8,4);
 ChMouth(8,0);

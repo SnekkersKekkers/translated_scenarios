@@ -19,8 +19,8 @@ correct...");
     ChMotion(6,4);
     ChEyeOpenLevel(6,8);
     VoicePlay("I460600006_06_000");
-    MsgDisp("Himuro","...Didn't you use the register for a customer
-right before closing?");
+    MsgDisp("Himuro","...Didn't you use the register for a
+customer right before closing?");
     MsgDisp("主人公","Ah!");
     SEPlay("EV_SE_043");
     SEWait();

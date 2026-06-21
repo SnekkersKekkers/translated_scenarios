@@ -30,7 +30,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("T020420000_04_350");
-MsgDisp("Nanatsumori","Let's leave with a smile so they don't worry.");
+MsgDisp("Nanatsumori","Let's leave with a smile so they
+don't worry.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,3,1);

@@ -8,9 +8,9 @@ ChMouth(4,4);
 VoicePlay("G020410305_04_000");
 MsgDisp("Nanatsumori","Huh, what is it?
 Is it me you're laughing at?");
-MsgDisp("主人公","Nope. It's just so nice here and it's dimly
-lit so I was wondering if you were getting
-sleepy, ｛Nanatsumori＊｝.");
+MsgDisp("主人公","Nope. It's just so nice here and it's
+dimly lit so I was wondering if you were
+getting sleepy, ｛Nanatsumori＊｝.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

@@ -26,8 +26,8 @@ It's of a different quality to the others.");
     ChMotion(1,0);
     VoicePlay("X120100000_01_010");
     MsgDisp("Kazama","You have a talent for music.
-...What's more, you earnestly polish it every
-single day. That's impressive.");
+...What's more, you earnestly polish it
+every single day. That's impressive.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :

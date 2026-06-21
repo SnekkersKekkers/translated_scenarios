@@ -43,9 +43,11 @@ Did you come to cheer me on?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H380100000_01_040");
-    MsgDisp("Kazama","I was so worried that I couldn't sit still.
+    MsgDisp("Kazama","I was so worried that I couldn't
+sit still.
 Listen, don't do anything rash.");
-    MsgDisp("主人公","Yeah, I'll definitely win, so just watch me!");
+    MsgDisp("主人公","Yeah, I'll definitely win, so just
+watch me!");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,4);

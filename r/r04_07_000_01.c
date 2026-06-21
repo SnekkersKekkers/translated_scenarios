@@ -21,8 +21,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,4);
     ChMotion(7,4);
     VoicePlay("R040700001_07_020");
-    MsgDisp("Mikage","You must be the reason why so many guys here
-are nervous, right?");
+    MsgDisp("Mikage","You must be the reason why so many guys
+here are nervous, right?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0,1);
@@ -35,8 +35,8 @@ are nervous, right?");
     ChMouth(7,0);
     ChMotion(7,2,1);
     VoicePlay("R040700001_07_040");
-    MsgDisp("Mikage","But I wouldn't eat anything if I wore a dress
-like that.");
+    MsgDisp("Mikage","But I wouldn't eat anything if I wore a
+dress like that.");
     MsgDisp("主人公","You think so?
 I would still eat a lot.");
     ChEye(7,0);
@@ -57,8 +57,8 @@ princess?");
     ChMotion(7,4);
     VoicePlay("R040700001_07_070");
     MsgDisp("Mikage","I'm being serious...
-Because I'm usually kidding around, I guess I
-don't sound serious.");
+Because I'm usually kidding around, I
+guess I don't sound serious.");
     MsgDisp("主人公","Hehe, thank you very much.");
     break ;
     case 4:

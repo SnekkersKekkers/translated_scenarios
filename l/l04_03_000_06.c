@@ -19,7 +19,8 @@ I just...");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("L040300006_03_020");
-    MsgDisp("Honda","I'll look at it more closely at home, okay?
+    MsgDisp("Honda","I'll look at it more closely at
+home, okay?
 Thanks.");
     MsgDisp("主人公","(Just looking...?
 Ugh, I should've tried harder.)");
@@ -71,15 +72,15 @@ Let's make it together next year!");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("L040300006_03_090");
-    MsgDisp("Honda","I'm not sure if I can do it well, but I help
-my sister every year, and I know all the
-tricks, okay?");
+    MsgDisp("Honda","I'm not sure if I can do it well, but I
+help my sister every year, and I know all
+the tricks, okay?");
     ChEye(3,1);
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("L040300006_03_100");
-    MsgDisp("Honda","If nothing else, we can try making them from
-cacao beans!
+    MsgDisp("Honda","If nothing else, we can try making them
+from cacao beans!
 I've always wanted to try.");
     MsgDisp("主人公","Okay...sorry I couldn't make them well.");
     ChEye(3,0);

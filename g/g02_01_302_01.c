@@ -1,9 +1,9 @@
 MsgClose();
 ChOpen(1,255,1,0,0,#1,#1,0,0);
 VoicePlay("G020130201_01_000");
-MsgDisp("Kazama","This really is something you have to see with
-your own eyes... It's totally different from
-just hearing about it.");
+MsgDisp("Kazama","This really is something you have to see
+with your own eyes... It's totally
+different from just hearing about it.");
 MsgDisp("主人公","Yeah, it's prettier than the rumours say
 it is.");
 ChEye(1,0);
@@ -11,8 +11,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020130201_01_010");
 MsgDisp("Kazama","So, basically, you can only understand
-something's true value by seeing it with your
-own eyes and checking personally.");
+something's true value by seeing it with
+your own eyes and checking personally.");
 ChEye(1,4);
 ChMouth(1,0);
 ChMotion(1,1);
@@ -34,8 +34,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020130201_01_040");
 MsgDisp("Kazama","No, not, \"Huh?\"
-The very first thing I chose with these eyes
-was you.");
+The very first thing I chose with these
+eyes was you.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -62,9 +62,9 @@ ChMouth(1,3);
 ChMotion(1,3);
 ChCheek(1,0);
 VoicePlay("G020130201_01_080");
-MsgDisp("Kazama","Why are you looking at me like you don't know
-what to do? But it's fine if I'm the only one
-who noticed.");
+MsgDisp("Kazama","Why are you looking at me like you don't
+know what to do? But it's fine if I'm the
+only one who noticed.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);

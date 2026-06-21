@@ -32,7 +32,8 @@ Here is your pear and custard tart.");
     VoicePlay("I360400004_04_020");
     MsgDisp("Nanatsumori","Thank you. ......");
     MsgDisp("主人公","...Hm?
-Is there something else I can help you with?");
+Is there something else I can help
+you with?");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("I360400004_04_030");

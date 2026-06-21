@@ -13,8 +13,8 @@ VoicePlay("N022200001_22_010");
 MsgDisp("Hikaru","It's almost at the top.
 That's really impressive!");
 MsgDisp("主人公","(Then...
-If I work a little harder, I can make it to
-the first place.)");
+If I work a little harder, I can make it
+to the first place.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(22);

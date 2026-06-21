@@ -9,13 +9,14 @@ switch (ChPrmGet(1,6)){
     MsgDisp("Kazama","｛主人公｝.
 You got a present, right?");
     MsgDisp("主人公","Huh...Ah!
-｛Kazama＊＊｝, you got the present I brought
-to the party!");
+｛Kazama＊＊｝, you got the present I
+brought to the party!");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("R060100003_01_010");
-    MsgDisp("Kazama","You received the present I got for the party.");
+    MsgDisp("Kazama","You received the present I got for
+the party.");
     MsgDisp("主人公","Really∋");
     ChEye(1,4);
     ChMouth(1,3);
@@ -72,8 +73,8 @@ brought!");
     ChMotion(1,0);
     VoicePlay("R060100003_01_080");
     MsgDisp("Kazama","Yeah.
-I'm a little surprised because I was picking
-a present with you in mind.");
+I'm a little surprised because I was
+picking a present with you in mind.");
     MsgDisp("主人公","...Ah!
 You got the present I brought, ｛Kazama＊＊｝
 ∈");

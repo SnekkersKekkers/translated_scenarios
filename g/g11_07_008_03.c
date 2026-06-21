@@ -16,8 +16,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G110700803_07_000");
 MsgDisp("Mikage","Oh, you understood well.
-I harvested some good-looking ones just now
-in the greenhouse.");
+I harvested some good-looking ones just
+now in the greenhouse.");
 MsgDisp("主人公","It smells nice.
 I could tell even from over here.");
 ChEye(7,0);
@@ -55,8 +55,8 @@ VoicePlay("G110700803_07_060");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
-MsgDisp("Mikage","But, I would rather use these gloves than get
-your handkerchief dirty.");
+MsgDisp("Mikage","But, I would rather use these gloves than
+get your handkerchief dirty.");
 MsgDisp("主人公","(Eh? But it's really okay...)");
 BGMStop();
 MsgClose();

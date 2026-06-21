@@ -19,8 +19,8 @@ ChMotion(6,1);
 VoicePlay("F020600007_06_010");
 MsgDisp("Himuro","I mean it.
 I'll just be carrying on as usual.");
-MsgDisp("主人公","But, without school, you'll have so much more
-free time.");
+MsgDisp("主人公","But, without school, you'll have so much
+more free time.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -34,7 +34,8 @@ ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("F020600007_06_030");
 MsgDisp("Himuro","What?
-You make it sound like you've surfed before.");
+You make it sound like you've
+surfed before.");
 MsgDisp("主人公","Oh...sorry.
 I got carried away.");
 ChEye(6,0);
@@ -47,9 +48,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600007_06_050");
-MsgDisp("Himuro","If you ever feel like it, why not try getting
-on a board? Who knows, it might open up a new
-door for you.");
+MsgDisp("Himuro","If you ever feel like it, why not try
+getting on a board? Who knows, it might
+open up a new door for you.");
 MsgDisp("主人公","Uh huh...maybe.");
 ChEye(6,0);
 ChMouth(6,0);

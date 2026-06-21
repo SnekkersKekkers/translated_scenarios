@@ -18,8 +18,8 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P640100002_01_020");
-MsgDisp("Kazama","The vegetables you grew, not only look good
-but must taste good too?");
+MsgDisp("Kazama","The vegetables you grew, not only look
+good but must taste good too?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

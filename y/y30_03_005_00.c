@@ -2,18 +2,18 @@ MsgType(3);
 BGMPlay("BGM_C03_HONDA_C",0.01);
 BGOpen("ad350",0);
 ScrFadeIn(0);
-MsgDisp("","Since graduating, I've met up with her
-every day. Therefore, the warm reaction
-in the deepest parts of my chest
-continue to linger.");
+MsgDisp("","Since graduating, I've met up with
+her every day. Therefore, the warm
+reaction in the deepest parts of my
+chest continue to linger.");
 MsgDisp("","But... It's completely cooled down.");
 MsgClear();
 VoicePlay("Y300300500_03_000");
 MsgDisp("Honda","(If I don't see her, the chemical
 reaction does not occur.)");
-MsgDisp("","Soon after entering university, I came
-here to help a professor with his
-lecture.");
+MsgDisp("","Soon after entering university, I
+came here to help a professor with
+his lecture.");
 MsgDisp("","Right, this is—");
 MsgClear();
 MsgClose();
@@ -26,34 +26,34 @@ MsgClear();
 MsgDisp("主人公","\"Amazing, to think you were able
 to start helping a professor in
 first year!\"");
-MsgDisp("","You were happy as usual, but if I go to
-Nagasaki, I won't be able to see you,
-you know?");
+MsgDisp("","You were happy as usual, but if I go
+to Nagasaki, I won't be able to see
+you, you know?");
 MsgClear();
-MsgDisp("","Seeing my sulky expression, you laughed
-pleasantly and said:");
+MsgDisp("","Seeing my sulky expression, you
+laughed pleasantly and said:");
 MsgDisp("主人公","\"Once you're done with helping, I'll
 also go visit Nagasaki!\"");
 MsgClear();
 MsgDisp("","Hm...Hmm...between two weeks of not
-seeing you, and then being able to go to
-our memorable Nagasaki together, this
-option wins by just a bit.");
+seeing you, and then being able to go
+to our memorable Nagasaki together,
+this option wins by just a bit.");
 MsgClear();
-MsgDisp("","Today, when I see you after two weeks,
-will this thermal reaction of mine be
-okay I wonder?");
-MsgDisp("","Since I'm not in the middle of work, I
-don't have to worry about getting
+MsgDisp("","Today, when I see you after two
+weeks, will this thermal reaction of
+mine be okay I wonder?");
+MsgDisp("","Since I'm not in the middle of work,
+I don't have to worry about getting
 scolded.");
 MsgClear();
 MsgDisp("主人公","\"How about we meet again at the
 Meganebashi bridge?\"");
-MsgDisp("","Our meeting place, Meganebashi. That was
-her idea. I even said I would go to the
-airport.");
-MsgDisp("","Thinking back now, maybe this is indeed
-better as a setting?");
+MsgDisp("","Our meeting place, Meganebashi. That
+was her idea. I even said I would go
+to the airport.");
+MsgDisp("","Thinking back now, maybe this is
+indeed better as a setting?");
 MsgDisp("","While I was looking at the surface of
 the river, a familiar voice calls out
 for me.");
@@ -64,8 +64,8 @@ VoicePlay("Y300300500_03_010");
 MsgDisp("Honda","\"Of course. I'll commentate on
 everything thoroughly!\"");
 MsgClear();
-MsgDisp("","After two weeks, that warmth within me
-has arisen again.");
+MsgDisp("","After two weeks, that warmth within
+me has arisen again.");
 BGMStop();
 MsgClear();
 MsgClose();

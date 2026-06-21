@@ -64,7 +64,8 @@ Sorry, I couldn't answer your call.");
     MsgDisp("主人公","No problem.
 So, what do you think?");
     VoicePlay("J030301000_03_070");
-    MsgDisp("Honda","Oh, the thing you mentioned in the voicemail?
+    MsgDisp("Honda","Oh, the thing you mentioned in the
+voicemail?
 Of course, it's okay.");
     VoicePlay("J030301000_03_080");
     MsgDisp("Honda","I mean, you invited me.

@@ -9,16 +9,16 @@ ChLayout(1);
 ChOpen(7,38,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240700000_49_000");
-MsgDisp("Narrator","Searching for his missing wife, Bai Niang, Xu
-Xian waited tirelessly by the lake.");
+MsgDisp("Narrator","Searching for his missing wife, Bai Niang,
+Xu Xian waited tirelessly by the lake.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("P240700000_07_000");
 MsgDisp("Mikage","I wonder how long has passed since I've
 waited for you to pass by...");
-MsgDisp("主人公","I am the incarnation of a thousand year-old
-white snake.
+MsgDisp("主人公","I am the incarnation of a thousand
+year-old white snake.
 You and I cannot live in the same age.");
 ChEye(7,0);
 ChMouth(7,1);
@@ -33,7 +33,8 @@ ChMouth(7,1);
 ChMotion(7,0,1);
 VoicePlay("P240700000_07_020");
 MsgDisp("Mikage","So what.
-I'd rather live in sorrow than without you.");
+I'd rather live in sorrow than
+without you.");
 MsgDisp("主人公","If I were to return, the pursuers would go
 after both you and your family.");
 MsgClose();
@@ -44,8 +45,8 @@ StlEye(7,0);
 StlMouth(7,0);
 ScrFadeIn(0);
 VoicePlay("P240700000_07_030");
-MsgDisp("Mikage","What meaning is there in meekly allowing time
-to pass when you aren't there?");
+MsgDisp("Mikage","What meaning is there in meekly allowing
+time to pass when you aren't there?");
 StlEyeOpenLevel(7,5,1);
 VoicePlay("P240700000_07_040");
 MsgDisp("Mikage","I don't need any more time apart from you.
@@ -119,8 +120,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("P240700000_07_080");
-MsgDisp("Mikage","I had to give it my all for the students who
-are feeling frustrated.");
+MsgDisp("Mikage","I had to give it my all for the students
+who are feeling frustrated.");
 MsgDisp("主人公","Yes, thank you very much!");
 ChEye(7,0);
 ChMouth(7,0);

@@ -11,16 +11,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("H7G0700000_07_010");
-MsgDisp("Mikage","I came to see the Haba High student council's
-model student.");
+MsgDisp("Mikage","I came to see the Haba High student
+council's model student.");
 MsgDisp("主人公","Um, what's this about?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("H7G0700000_07_020");
 MsgDisp("Mikage","Haha.
-Your diligence and funniness make the perfect
-combination.");
+Your diligence and funniness make the
+perfect combination.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -32,11 +32,11 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("H7G0700000_07_040");
-MsgDisp("Mikage","Yeah, I'm seriously happy. Happy that someone
-like you, who works hard for the rest of the
-students, is being rewarded.");
-MsgDisp("主人公","Hearing you say something like that makes me
-happy too!");
+MsgDisp("Mikage","Yeah, I'm seriously happy. Happy that
+someone like you, who works hard for the
+rest of the students, is being rewarded.");
+MsgDisp("主人公","Hearing you say something like that makes
+me happy too!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

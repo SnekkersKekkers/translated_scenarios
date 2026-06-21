@@ -56,15 +56,15 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200802_02_060");
-MsgDisp("Sassa","But recently, I've suddenly had a vision of
-you milking a cow...");
+MsgDisp("Sassa","But recently, I've suddenly had a vision
+of you milking a cow...");
 MsgDisp("主人公","Ehhh-∋ W-What is that?");
 ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,1);
 VoicePlay("G110200802_02_070");
-MsgDisp("Sassa","You looked like you were having so much fun
-milking it.
+MsgDisp("Sassa","You looked like you were having so much
+fun milking it.
 It was troubling...");
 SEStop("EV_SE_FOOT_037",1.5);
 MsgClose();
@@ -78,15 +78,16 @@ ScrFadeIn(0);
 VoicePlay("G110200802_02_080");
 MsgDisp("Sassa","I wonder if there's anything I can do
 about this?");
-MsgDisp("主人公","I'm troubled now that you've told me that...");
+MsgDisp("主人公","I'm troubled now that you've told
+me that...");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,2);
 ChEyeOpenLevel(2,7);
 VoicePlay("G110200802_02_090");
 MsgDisp("Sassa","Yeah...
-It was strangely relaxing, but it was weird
-to think about that while running...");
+It was strangely relaxing, but it was
+weird to think about that while running...");
 SEPlay("EV_SE_SCHOOL_002");
 Wait(50,0);
 ChEye(2,0);
@@ -101,8 +102,8 @@ BGMStop();
 SEPlay("EV_SE_626");
 MsgClose();
 ChClose(2);
-MsgDisp("主人公","(Did I really look like I was having so much
-fun milking the cow...)");
+MsgDisp("主人公","(Did I really look like I was having so
+much fun milking the cow...)");
 SEStop("EV_SE_SCHOOL_002",1);
 MsgClose();
 ScrFadeOut(0,0);

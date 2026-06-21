@@ -24,8 +24,8 @@ I'll try not to worry him too much!)");
     VoicePlay("X110100003_01_010");
     MsgDisp("Kazama","Congrats.
 I heard you had a great performance?");
-    MsgDisp("主人公","Yeah, my new technique was a success during
-the practice match.");
+    MsgDisp("主人公","Yeah, my new technique was a success
+during the practice match.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

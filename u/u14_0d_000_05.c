@@ -22,6 +22,6 @@ VoicePlay("U140D00005_22_010");
 MsgDisp("Hikaru","Have you been doing a lot of
 self-improvement?
 Or... Maybe there's a boy you like?");
-MsgDisp("主人公","(I'm glad they noticed I've been working on
-my charm!)");
+MsgDisp("主人公","(I'm glad they noticed I've been working
+on my charm!)");
 MsgClose();

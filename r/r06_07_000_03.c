@@ -15,8 +15,8 @@ I didn't know you were participating,
     ChMotion(7,2);
     VoicePlay("R060700003_07_010");
     MsgDisp("Mikage","What, is that a bad thing?");
-    MsgDisp("主人公","No. ...Ah, ｛Mikage＊＊｝, I brought you the
-present you have right now∈");
+    MsgDisp("主人公","No. ...Ah, ｛Mikage＊＊｝, I brought you
+the present you have right now∈");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -34,14 +34,15 @@ participating?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("R060700003_07_040");
-    MsgDisp("Mikage","Yeah, we are having a mixed staff and student
-gift exchange.");
+    MsgDisp("Mikage","Yeah, we are having a mixed staff and
+student gift exchange.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("R060700003_07_050");
     MsgDisp("Mikage","Woah.
-You got the present that I brought in, huh.");
+You got the present that I brought
+in, huh.");
     MsgDisp("主人公","Really! ...Oh?
 You also got the gift that I brought in,
 ｛Mikage＊＊｝.");

@@ -63,8 +63,8 @@ Right away...");
     ChMouth(8,3);
     ChEyeOpenLevel(8,0);
     MsgDisp("主人公","Excuse me, miss.
-It seems that the flap is still locked, could
-you try unlocking it once more?");
+It seems that the flap is still locked,
+could you try unlocking it once more?");
     VoicePlay("I660800003_45_020");
     MsgDisp("Customer","Ah...sorry!
 I thought that it was unlocked...");
@@ -80,8 +80,8 @@ I thought that it was unlocked...");
     ChMotion(8,0,1);
     ChEyeOpenLevel(8,0);
     VoicePlay("I660800003_08_050");
-    MsgDisp("Shirahane","It's easier t'see the cause if ya slow down
-and look properly.
+    MsgDisp("Shirahane","It's easier t'see the cause if ya slow
+down and look properly.
 You can do it, yeah?");
     MsgDisp("主人公","(｛Daichi＊＊｝...
 Yeah, let's look carefully.)");

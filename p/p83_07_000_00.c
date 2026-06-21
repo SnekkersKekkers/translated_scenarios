@@ -30,10 +30,12 @@ to play, you'll get scolded, you know?");
     ChMotion(7,2);
     VoicePlay("P830700000_07_020");
     MsgDisp("Mikage","That would be troubling.
-I'll cheer you on secretly from the shadows.");
+I'll cheer you on secretly from the
+shadows.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
-    MsgDisp("主人公","(Hehe. ｛Mikage＊＊｝ came to cheer me on.)");
+    MsgDisp("主人公","(Hehe.
+｛Mikage＊＊｝ came to cheer me on.)");
     VoicePlay("P830700000_36_000");
     MsgDisp("Customer","Excuse me, I hope this is the reception.");
     MsgDisp("主人公","Ah, yes!");
@@ -67,8 +69,8 @@ To be polite, I have to be serious?");
     ChMotion(7,1);
     VoicePlay("P830700000_07_050");
     MsgDisp("Mikage","Why is that?
-If you smiled, even the big shot guests would
-be beaten though?");
+If you smiled, even the big shot guests
+would be beaten though?");
     MsgDisp("主人公","Beaten you say?");
     ChEye(7,0);
     ChMouth(7,0);

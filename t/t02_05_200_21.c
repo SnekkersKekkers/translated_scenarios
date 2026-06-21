@@ -6,7 +6,8 @@ ChEyeOpenLevel(5,#1);
 VoiceEVSPlay(5);
 VoicePlay("T020520021_05_000");
 MsgDisp("Hiiragi","｛主人公｝, that...");
-MsgDisp("主人公","Because I couldn't put it into words well...
+MsgDisp("主人公","Because I couldn't put it into
+words well...
 I too, like ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -14,7 +15,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 ChCheek(5,5);
 VoicePlay("T020520021_05_010");
-MsgDisp("Hiiragi","Your kiss...conveyed your feelings very well.");
+MsgDisp("Hiiragi","Your kiss...conveyed your feelings
+very well.");
 ChMotion(5,0);
 Wait(16,0);
 ChEye(5,4);
@@ -38,8 +40,8 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("T020520021_05_040");
 MsgDisp("Hiiragi","Haha, it's a joke.
-Thanks to them, I was able to see your smile
-up close.");
+Thanks to them, I was able to see your
+smile up close.");
 MsgDisp("主人公","What...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);

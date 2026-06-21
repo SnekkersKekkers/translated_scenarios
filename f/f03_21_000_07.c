@@ -45,9 +45,9 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F032100000_21_390");
-MsgDisp("Michiru","That's why, I've started thinking seriously
-about my own future... I'm still in the
-middle of thinking about it though?");
+MsgDisp("Michiru","That's why, I've started thinking
+seriously about my own future... I'm still
+in the middle of thinking about it though?");
 MsgDisp("主人公","(Hehe!
 I'm also looking forward to
 ｛みちる＊｝'s dream!)");

@@ -11,7 +11,8 @@ SEPlay("EV_SE_544",0,0.6);
 ChOpen(1,254,0,0,3,#1,#1,0,0);
 VoicePlay("P540100000_01_000");
 MsgDisp("Kazama","Congratulations.
-Naturally you would get a standing ovation.");
+Naturally you would get a standing
+ovation.");
 MsgDisp("主人公","Yes, I'm super happy.
 What did you think, ｛Kazama＊＊｝?");
 ChEye(1,4);

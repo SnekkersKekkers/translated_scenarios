@@ -19,8 +19,8 @@ MsgDisp("Nanatsumori","Mhmm. Yeah, it's a question for you.");
 MsgDisp("主人公","Okay.");
 ChMotion(4,1,1);
 VoicePlay("G020410100_04_030");
-MsgDisp("Nanatsumori","How does it feel to have something everyone
-likes all to yourself?");
+MsgDisp("Nanatsumori","How does it feel to have something
+everyone likes all to yourself?");
 MsgDisp("主人公","Let's see...
 I guess it depends?");
 ChEye(4,0);
@@ -49,7 +49,8 @@ ChMotion(4,0,1);
 VoicePlay("G020410100_04_070");
 MsgDisp("Nanatsumori","So I'm very happy right now. Okay?");
 MsgDisp("主人公","(...Right now?
-What are you keeping all to yourself? Me??)");
+What are you keeping all to yourself?
+Me??)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

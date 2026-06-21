@@ -71,7 +71,8 @@ How is it?");
     ChMotion(7,1);
     VoicePlay("L040700003_07_070");
     MsgDisp("Mikage","It's not just how it is.
-I can't imagine a better chocolate than this.");
+I can't imagine a better chocolate
+than this.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,5);
@@ -82,8 +83,8 @@ I can't imagine a better chocolate than this.");
     ChMouth(7,0);
     ChMotion(7,5);
     VoicePlay("L040700003_07_090");
-    MsgDisp("Mikage","I really like making things myself, too, so
-I'm happy about this.");
+    MsgDisp("Mikage","I really like making things myself, too,
+so I'm happy about this.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

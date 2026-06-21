@@ -48,9 +48,9 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_060");
-MsgDisp("Hikaru","Both Hikaru and Big sis since we were born,
-we had no hardships and we've been able to
-live however we wanted.");
+MsgDisp("Hikaru","Both Hikaru and Big sis since we were
+born, we had no hardships and we've been
+able to live however we wanted.");
 ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
@@ -88,8 +88,8 @@ ChMotion(22,0,1);
 VoicePlay("T022200000_22_110");
 MsgDisp("Hikaru","Really...thank you.");
 MsgDisp("主人公","｛ひかる＊｝...
-I'm also happy to have had so many memories
-with ｛ひかる＊｝.");
+I'm also happy to have had so many
+memories with ｛ひかる＊｝.");
 ChEye(22,2);
 ChMouth(22,1);
 ChMotion(22,2,1);
@@ -123,9 +123,9 @@ ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,0,1);
 VoicePlay("T022200000_22_160");
-MsgDisp("Hikaru","Hikaru called you that because the image of
-cuteness and happiness suddenly came to mind
-when Hikaru saw you.");
+MsgDisp("Hikaru","Hikaru called you that because the image
+of cuteness and happiness suddenly came to
+mind when Hikaru saw you.");
 MsgDisp("主人公","I-I see.");
 ChEye(22,0);
 ChMouth(22,0);

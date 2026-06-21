@@ -61,7 +61,8 @@ Then, let's meet on ｛日付｝.
 I'll wait for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030101000_01_070");
     MsgDisp("Kazama","Understood.
-No rush, just get there in one piece. Okay?");
+No rush, just get there in one piece.
+Okay?");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","(Yay!! I can't wait for ｛日付｝!)");

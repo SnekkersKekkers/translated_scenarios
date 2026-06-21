@@ -26,8 +26,8 @@ ChEye(4,4);
 ChMouth(4,4);
 VoicePlay("F020400012_04_020");
 MsgDisp("Nanatsumori","The sweets also use unexpected ingredients
-and cherry blossoms. Every day during cherry
-blossom season truly is a blessing.");
+and cherry blossoms. Every day during
+cherry blossom season truly is a blessing.");
 MsgDisp("主人公","Huh...");
 ChEye(4,2);
 ChMouth(4,3);

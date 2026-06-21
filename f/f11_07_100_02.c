@@ -1,8 +1,8 @@
 ChLayout(1);
 BGOpen("sc710",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It looks like a lot of people brought their
-family this year.
+MsgDisp("主人公","(It looks like a lot of people brought
+their family this year.
 Everyone seems like they're having fun!)");
 VoicePlay("F110710002_44_000");
 MsgDisp("Boy","I want to go to the zoo again.
@@ -37,8 +37,8 @@ MsgDisp("Mikage","Don't worry.
 I'm only looking after animals. The horseback
 instructor is taking care of the ranch.");
 MsgDisp("主人公","Oh, are you the zookeeper?
-The one that boy from earlier said was super
-interesting?");
+The one that boy from earlier said was
+super interesting?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

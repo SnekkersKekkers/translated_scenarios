@@ -22,8 +22,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("F022100008_21_020");
-MsgDisp("Michiru","If our schedules align on the day, we should
-go enjoy the exhibits together.");
+MsgDisp("Michiru","If our schedules align on the day, we
+should go enjoy the exhibits together.");
 MsgDisp("主人公","Yeah!");
 MsgClose();
 ScrFadeOut(0,0);

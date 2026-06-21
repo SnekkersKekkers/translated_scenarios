@@ -27,8 +27,8 @@ ChMouth(3,3);
 ChMotion(3,4);
 VoicePlay("K020301100_03_020");
 MsgDisp("Honda","Did you think I forgot?
-Actually, it was really hard pretending that
-I forgot your birthday.");
+Actually, it was really hard pretending
+that I forgot your birthday.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4);

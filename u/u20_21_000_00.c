@@ -16,7 +16,7 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U202100000_21_010");
-MsgDisp("Michiru","For sure. Hey, it looks like you can view it
-on your phone whenever you like if you write
-down this code.");
+MsgDisp("Michiru","For sure. Hey, it looks like you can view
+it on your phone whenever you like if you
+write down this code.");
 MsgDisp("主人公","I will too!");

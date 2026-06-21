@@ -50,8 +50,8 @@ Right?");
     MsgDisp("Nanatsumori","True.");
     ChEye(4,0);
     VoicePlay("Q120400000_04_060");
-    MsgDisp("Nanatsumori","Thanks to your presence, I enjoyed the school
-trip more than I thought I would.");
+    MsgDisp("Nanatsumori","Thanks to your presence, I enjoyed the
+school trip more than I thought I would.");
     MsgDisp("主人公","Me too.
 I had a great time.");
     ChMotion(4,0,1);
@@ -76,8 +76,8 @@ Make sure to rest well. I'll see you later.");
     MsgDisp("主人公","Eh?");
     ChMotion(4,0,1);
     VoicePlay("Q120400000_04_100");
-    MsgDisp("Nanatsumori","Look, I'm not a very active person in stuff
-like school events.");
+    MsgDisp("Nanatsumori","Look, I'm not a very active person in
+stuff like school events.");
     ChMotion(4,1,1);
     VoicePlay("Q120400000_04_110");
     MsgDisp("Nanatsumori","I wondered if you actually wanted to go

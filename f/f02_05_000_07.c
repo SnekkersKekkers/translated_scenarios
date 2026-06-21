@@ -10,9 +10,9 @@ Do you have any plans?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("F020500007_05_000");
-MsgDisp("Hiiragi","I have a special summer performance planned,
-but nothing as a regular high school
-student, no.");
+MsgDisp("Hiiragi","I have a special summer performance
+planned, but nothing as a regular high
+school student, no.");
 MsgDisp("主人公","I see...");
 ChEye(5,0);
 ChMouth(5,4);
@@ -20,25 +20,26 @@ ChMotion(5,0);
 VoicePlay("F020500007_05_010");
 MsgDisp("Hiiragi","Oh, but if I can make time for it, I would
 like to visit the fair.");
-MsgDisp("主人公","Huh, do you have something you're looking for
-in particular?");
+MsgDisp("主人公","Huh, do you have something you're looking
+for in particular?");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("F020500007_05_020");
 MsgDisp("Hiiragi","First, yakisoba.
-I like getting yakisoba at fairs with a fried
-egg on top.");
+I like getting yakisoba at fairs with a
+fried egg on top.");
 ChMotion(5,0);
 VoicePlay("F020500007_05_030");
 MsgDisp("Hiiragi","I would rather buy it myself and eat it
-outside than have someone else buy it for me.");
+outside than have someone else buy it
+for me.");
 MsgDisp("主人公","Hehe. Somehow, I think I get you on that.");
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("F020500007_05_040");
 MsgDisp("Hiiragi","Right?
-Especially with things like grilled corn and
-grilled squid.");
+Especially with things like grilled corn
+and grilled squid.");
 MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝, you really like street
 food, huh?");
 ChMouth(5,4);

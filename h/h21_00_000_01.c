@@ -8,7 +8,8 @@ switch (ChPrmGet(2,6)){
     VoicePlay("H210000001_02_000");
     MsgDisp("Sassa","So you want to be the manager.");
     MsgDisp("主人公","Ah, ｛Sassa＊＊｝.
-Yes, I'm looking forward to working with you.");
+Yes, I'm looking forward to working
+with you.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);
@@ -26,8 +27,8 @@ Let's do our best to help everyone!)");
     VoiceEVSPlay(2);
     VoicePlay("H210000001_02_020");
     MsgDisp("Sassa","｛主人公｝, you're the manager?");
-    MsgDisp("主人公","Yes, I'm looking forward to working with you
-starting today.");
+    MsgDisp("主人公","Yes, I'm looking forward to working with
+you starting today.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,3);
@@ -53,14 +54,15 @@ everyone!)");
     VoiceEVSPlay(2);
     VoicePlay("H210000001_02_040");
     MsgDisp("Sassa","｛主人公｝, you're the manager?");
-    MsgDisp("主人公","Yes, I'm looking forward to working with you.");
+    MsgDisp("主人公","Yes, I'm looking forward to working
+with you.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("H210000001_02_050");
-    MsgDisp("Sassa","Same here. But you know, with your sense, I
-think you could be great in both short and
-long distance.");
+    MsgDisp("Sassa","Same here. But you know, with your sense,
+I think you could be great in both short
+and long distance.");
     MsgDisp("主人公","Thanks!
 But, I'll be helping out as a manager to
 support you and everyone else, ｛Sassa＊＊｝.");
@@ -91,8 +93,8 @@ I gotta go!");
     BGMStop();
     ChClose(2);
     MsgDisp("主人公","(Hehe! Do your best, ｛Sassa＊＊｝.
-I'll be supporting you with everything I have
-starting today!)");
+I'll be supporting you with everything I
+have starting today!)");
     break ;
     default :
     DbgAssert(1);

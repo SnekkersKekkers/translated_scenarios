@@ -31,7 +31,8 @@ Well then, if you'll excuse me.");
     ChMotion(5,4);
     VoicePlay("R040500002_05_010");
     MsgDisp("Hiiragi","Yeah, the ambiance here feels nice.
-I can feel that everyone is having fun... Ah.");
+I can feel that everyone is having fun...
+Ah.");
     MsgDisp("主人公","Is that the guest of honour?");
     ChEye(5,4);
     ChMotion(5,0);
@@ -50,9 +51,9 @@ Well then, please enjoy this party.");
     ScrFadeIn(0);
     ChEye(5,4);
     VoicePlay("R040500002_05_030");
-    MsgDisp("Hiiragi","I would love to have you for myself, but I'm
-afraid of what would happen if I do so, so
-I'll see you again soon.");
+    MsgDisp("Hiiragi","I would love to have you for myself, but
+I'm afraid of what would happen if I do
+so, so I'll see you again soon.");
     MsgDisp("主人公","Yeah, see you!");
     break ;
     default :

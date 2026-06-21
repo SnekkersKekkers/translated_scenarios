@@ -8,8 +8,8 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("P843100004_31_010");
-MsgDisp("Goro","Thanks to you, both my heart and stomach are
-filled with happiness♪");
+MsgDisp("Goro","Thanks to you, both my heart and stomach
+are filled with happiness♪");
 MsgDisp("主人公","Is it really?
 I'm happy!");
 ChEye(31,0);

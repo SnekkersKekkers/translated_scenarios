@@ -23,10 +23,10 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100520000_05_010");
 MsgDisp("Hiiragi","Yes.
-I heard that the Kazama family storehouse has
-museum-quality items.");
-MsgDisp("主人公","Right, ｛Kazama＊＊｝'s family does have a long
-history, after all.");
+I heard that the Kazama family storehouse
+has museum-quality items.");
+MsgDisp("主人公","Right, ｛Kazama＊＊｝'s family does have a
+long history, after all.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);

@@ -46,8 +46,8 @@ Now, your hand?");
     ChMotion(5,0);
     VoicePlay("O080500000_05_050");
     MsgDisp("Hiiragi","Haha, as expected of you.
-Wouldn't it be nice if this time could last
-forever?");
+Wouldn't it be nice if this time could
+last forever?");
     break ;
     default :
     DbgAssert(1);

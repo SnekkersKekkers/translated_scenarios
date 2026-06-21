@@ -35,7 +35,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q070C00100_07_020");
-MsgDisp("Mikage","Oh, isn't that from the other diligent one?");
+MsgDisp("Mikage","Oh, isn't that from the other
+diligent one?");
 ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,0);
@@ -46,12 +47,14 @@ ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
-MsgDisp("主人公","Hehe. Looks like ｛Himuro＊＊｝ is pouting, huh?");
+MsgDisp("主人公","Hehe.
+Looks like ｛Himuro＊＊｝ is pouting, huh?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q070C00100_07_030");
-MsgDisp("Mikage","Yeah. But maybe he's trying to entertain us?");
+MsgDisp("Mikage","Yeah.
+But maybe he's trying to entertain us?");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(5,0,0);
@@ -76,8 +79,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("Q070C00100_07_040");
 MsgDisp("Mikage","I see.
-Yanosuke, you really are a Habataki citizen,
-aren't you?");
+Yanosuke, you really are a Habataki
+citizen, aren't you?");
 ChMotion(5,0);
 MsgDisp("主人公","Hehe, indeed.");
 ChEye(5,4);
@@ -115,8 +118,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q070C00100_05_060");
 MsgDisp("Hiiragi","Uhh, it says...
-\"Study hard.
-It's still a school trip.\"");
+\"Study hard. It's still a school trip.\"");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -133,9 +135,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("Q070C00100_07_080");
-MsgDisp("Mikage","Well, I guess since we're leaving him at home
-all alone we should just listen to whatever
-he has to say.");
+MsgDisp("Mikage","Well, I guess since we're leaving him at
+home all alone we should just listen to
+whatever he has to say.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);

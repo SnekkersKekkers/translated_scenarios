@@ -52,7 +52,8 @@ ChMotion(4,2,1);
 ChMouthOpenLevel(4,5);
 VoicePlay("Q110B00000_04_010");
 MsgDisp("Nanatsumori","......");
-MsgDisp("主人公","Hey, may I go to that craft shop over there?");
+MsgDisp("主人公","Hey, may I go to that craft shop
+over there?");
 ChEye(1,0);
 Wait(60,1);
 ChEye(1,0);
@@ -74,13 +75,13 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 MsgDisp("主人公","There was a lot of stuff, even pottery and
-tortoiseshell accessories. But they were all
-too expensive for a high-schooler.");
+tortoiseshell accessories. But they were
+all too expensive for a high-schooler.");
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("Q110B00000_01_030");
-MsgDisp("Kazama","Each piece is crafted with great care, so the
-high price is understandable.");
+MsgDisp("Kazama","Each piece is crafted with great care, so
+the high price is understandable.");
 MsgDisp("主人公","Yeah, that's true...
 They were all so beautiful.");
 ChEye(1,0);

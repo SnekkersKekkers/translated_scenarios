@@ -6,6 +6,7 @@ ChMotion(22,3,1);
 ScrFadeIn(0);
 VoicePlay("W062200000_22_000");
 MsgDisp("Hikaru","Okay～!
-The first ride will be the roller coaster♪");
+The first ride will be the roller
+coaster♪");
 MsgClose();
 ScrFadeOut(0,0);

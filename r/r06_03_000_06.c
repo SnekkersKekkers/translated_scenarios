@@ -22,7 +22,8 @@ I think?)");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("R060300006_03_010");
-    MsgDisp("Honda","Right, I could ask for your signature on it.
+    MsgDisp("Honda","Right, I could ask for your signature
+on it.
 Then, it would be more valuable.");
     MsgDisp("主人公","(Hmm, he seems to like my gift...
 I think?)");

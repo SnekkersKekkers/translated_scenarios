@@ -19,8 +19,8 @@ I think?)");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("R060200006_02_010");
-    MsgDisp("Sassa","Yeah, I think this has a nice Christmas feel
-to it.");
+    MsgDisp("Sassa","Yeah, I think this has a nice Christmas
+feel to it.");
     MsgDisp("主人公","(Hmm, he seems to like my gift...
 I think?)");
     break ;

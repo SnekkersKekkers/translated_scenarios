@@ -17,8 +17,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020730001_07_020");
 MsgDisp("Mikage","Look, high school is only three years.
-The things you see and experience during that
-time are special.");
+The things you see and experience during
+that time are special.");
 MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -30,8 +30,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020730001_07_040");
-MsgDisp("Mikage","It's not just you. Yanosuke and Inori are at
-an important time in their lives too.
+MsgDisp("Mikage","It's not just you. Yanosuke and Inori are
+at an important time in their lives too.
 So take a good look at everything.");
 MsgDisp("主人公","Yes.");
 ChEye(7,0);
@@ -46,10 +46,10 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020730001_07_060");
 MsgDisp("Mikage","Thank you. Sigh...
-I've said too much. Let's take our time and
-burn it into our memory.");
-MsgDisp("主人公","(｛Mikage＊＊｝ is always thinking of us...
-that makes me happy.)");
+I've said too much. Let's take our time
+and burn it into our memory.");
+MsgDisp("主人公","(｛Mikage＊＊｝ is always thinking of
+us... that makes me happy.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

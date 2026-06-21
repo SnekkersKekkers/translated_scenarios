@@ -1,5 +1,6 @@
 ScrFadeIn(0);
-MsgDisp("主人公","I wonder if ｛Kazama＊＊｝ is still shopping...");
+MsgDisp("主人公","I wonder if ｛Kazama＊＊｝ is still
+shopping...");
 VoicePlay("Q110100000_01_000");
 MsgDisp("Kazama?","Would you like a freshly baked castella?");
 MsgDisp("主人公","Eh... Yes!");
@@ -23,8 +24,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q110100000_01_030");
 MsgDisp("Kazama","Yeah.
-The way you get excited so quickly is a good
-trait of yours.");
+The way you get excited so quickly is a
+good trait of yours.");
 MsgDisp("主人公","Hehe, I can't help it since it's seasonal.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -46,15 +47,16 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("Q110100000_01_060");
-MsgDisp("Kazama","...It was worth the time it took to choose.");
+MsgDisp("Kazama","...It was worth the time it took
+to choose.");
 MsgDisp("主人公","Eh?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q110100000_01_070");
 MsgDisp("Kazama","Nothing.
-The cake will be gone after you eat it, but
-this one is a keepsake.");
+The cake will be gone after you eat it,
+but this one is a keepsake.");
 MsgDisp("主人公","Yeah, I'll treasure it.");
 BGMStop();
 MsgClose();

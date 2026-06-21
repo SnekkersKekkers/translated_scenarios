@@ -20,8 +20,8 @@ ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("G020430100_04_030");
 MsgDisp("Nanatsumori","A friend...
-I don't really like doing things with a lot
-of people, so I respect that.");
+I don't really like doing things with a
+lot of people, so I respect that.");
 ChMotion(4,1,1);
 VoicePlay("G020430100_04_040");
 MsgDisp("Nanatsumori","It's too difficult to differentiate men
@@ -38,8 +38,8 @@ ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,1,1);
 VoicePlay("G020430100_04_060");
-MsgDisp("Nanatsumori","Then what about for boys, for \"true love\" and
-\"not your true love\"?");
+MsgDisp("Nanatsumori","Then what about for boys, for \"true love\"
+and \"not your true love\"?");
 MsgDisp("主人公","Hehe...");
 ChEye(4,2);
 ChMouth(4,1);

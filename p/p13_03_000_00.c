@@ -32,8 +32,8 @@ between Molly and the maze came out!");
     case 4:
     case 5:
     MsgDisp("主人公","It's a maze～
-If you can reach the finish line, you get to
-drink freshly squeezed milk～");
+If you can reach the finish line, you get
+to drink freshly squeezed milk～");
     VoicePlay("P130300000_03_020");
     MsgDisp("Honda?","You get to drink cow milk if you clear
 the maze∋
@@ -45,16 +45,16 @@ Super interesting∈");
     ChMouth(3,3);
     ChMotion(3,4,1);
     VoicePlay("P130300000_03_030");
-    MsgDisp("Honda","Hey, hey, will you also be doing anything in
-the maze?");
+    MsgDisp("Honda","Hey, hey, will you also be doing anything
+in the maze?");
     MsgDisp("主人公","No, I'm just here to welcome people.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,5,1);
     VoicePlay("P130300000_03_040");
     MsgDisp("Honda","Ah, I see.
-I wanted to go in together, but I guess the
-poster girl can't leave her spot.");
+I wanted to go in together, but I guess
+the poster girl can't leave her spot.");
     MsgDisp("主人公","Ah, I did make some traps in the
 maze, though?");
     ChEye(3,5);

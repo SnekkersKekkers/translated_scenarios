@@ -21,7 +21,8 @@ ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("E010220100_03_020");
 MsgDisp("Honda","Oh yeah.
-Earlier, at the transfer gate, I saw Sakkun.");
+Earlier, at the transfer gate, I
+saw Sakkun.");
 MsgDisp("主人公","\"Sakkun\", you mean ｛Sassa＊＊｝?
 Did you need anything?");
 ChEye(3,4);
@@ -29,8 +30,8 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("E010220100_03_030");
 MsgDisp("Honda","No, but I can't see him and not say hi.
-But since I'm waiting for my sister, I can't
-really move from here.");
+But since I'm waiting for my sister, I
+can't really move from here.");
 MsgDisp("主人公","Oh, I see.");
 ChMotion(3,0);
 VoicePlay("E010220100_02_000");
@@ -66,8 +67,9 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("E010220100_03_050");
 MsgDisp("Honda","What?");
-MsgDisp("主人公","｛Honda＊＊｝ saw you, ｛Sassa＊＊｝, so he
-thought it wouldn't be nice not to say hello.");
+MsgDisp("主人公","｛Honda＊＊｝ saw you, ｛Sassa＊＊｝, so
+he thought it wouldn't be nice not to
+say hello.");
 ChMouth(2,2);
 ChEye(3,0);
 ChMouth(3,3);
@@ -90,7 +92,8 @@ VoicePlay("E010220100_02_060");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
-MsgDisp("Sassa","Yeah, thanks to him, I got to see you! Bye!");
+MsgDisp("Sassa","Yeah, thanks to him, I got to see you!
+Bye!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
@@ -103,7 +106,8 @@ VoicePlay("E010220100_03_080");
 MsgDisp("Honda","I see.
 I also got to see you thanks to Sakkun today.
 It's a win-win!");
-MsgDisp("主人公","(Hehe. Yeah, we all got to see each other!)");
+MsgDisp("主人公","(Hehe.
+Yeah, we all got to see each other!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

@@ -30,8 +30,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("H5G0200000_02_030");
-MsgDisp("Sassa","To be honest, I really liked to train while
-listening to the sounds of your practices.");
+MsgDisp("Sassa","To be honest, I really liked to train
+while listening to the sounds of your
+practices.");
 ChEye(2,3);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -46,6 +47,7 @@ ChClose(2);
 SEWait();
 MsgDisp("主人公","Thank you, ｛Sassa＊＊｝.");
 MsgDisp("主人公","(That makes me happy...
-I'm glad I practised so hard for brass band!)");
+I'm glad I practised so hard for
+brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

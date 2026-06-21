@@ -28,9 +28,9 @@ MsgDisp("Hiiragi","Yes, synchronicity.
 A meaningful coincidence.");
 ChMotion(5,0);
 VoicePlay("G020510302_05_050");
-MsgDisp("Hiiragi","If we have about ten more coincidences like
-today, it may lead to a big miracle, don't
-you think?");
+MsgDisp("Hiiragi","If we have about ten more coincidences
+like today, it may lead to a big miracle,
+don't you think?");
 MsgDisp("主人公","Hehe!");
 MsgDisp("主人公","(I'm kind of looking forward to matching
 outfits with ｛Hiiragi＊＊＊｝ again.)");

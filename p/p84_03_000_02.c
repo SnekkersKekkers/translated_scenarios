@@ -25,8 +25,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("P840300002_03_010");
 MsgDisp("Honda","You're amazing after all. Not only are you
-perfect at materials management, but you're
-also kind and considerate.");
+perfect at materials management, but
+you're also kind and considerate.");
 MsgDisp("主人公","(Hehe, I was praised by ｛Honda＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

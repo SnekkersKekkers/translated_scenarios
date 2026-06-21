@@ -8,13 +8,13 @@ switch (ChPrmGet(5,6)){
     break ;
     case 3:
     ScrFadeIn(0);
-    MsgDisp("主人公","Please make an announcement for lost children
-every five minutes.");
+    MsgDisp("主人公","Please make an announcement for lost
+children every five minutes.");
     VoicePlay("P830500002_40_000");
     MsgDisp("School Boy","Ah, yes!");
-    MsgDisp("主人公","Let's discuss the issue of the class that was
-quarrelling over the noise with a small group
-after this.");
+    MsgDisp("主人公","Let's discuss the issue of the class that
+was quarrelling over the noise with a
+small group after this.");
     VoicePlay("P830500002_48_000");
     MsgDisp("School Girl","Yes please!");
     SEPlay("EV_SE_DOOR_013");
@@ -35,9 +35,9 @@ Welcome back!");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("P830500002_05_020");
-    MsgDisp("Hiiragi","This is the last time we'll get to manage the
-school festival. I want to see a smile that's
-befitting of you.");
+    MsgDisp("Hiiragi","This is the last time we'll get to manage
+the school festival. I want to see a smile
+that's befitting of you.");
     MsgDisp("主人公","(I see, that's right...
 I have to leave room to enjoy myself too!)");
     MsgClose();
@@ -47,14 +47,15 @@ I have to leave room to enjoy myself too!)");
     case 4:
     case 5:
     ScrFadeIn(0);
-    MsgDisp("主人公","Please make an announcement for lost children
-every five minutes.");
+    MsgDisp("主人公","Please make an announcement for lost
+children every five minutes.");
     VoicePlay("P830500002_40_020");
     MsgDisp("School Boy","Ah, yes!");
     MsgDisp("主人公","How is the matter regarding the signboards
 giving wrong information?");
     VoicePlay("P830500002_48_010");
-    MsgDisp("School Girl","I don't know what's right and what's wrong...");
+    MsgDisp("School Girl","I don't know what's right and what's
+wrong...");
     MsgDisp("主人公","Then, remove them all, and leave out some
 information leaflets?");
     VoicePlay("P830500002_48_020");

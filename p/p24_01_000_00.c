@@ -137,9 +137,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P240100000_01_110");
-MsgDisp("Kazama","From today, the sound of this bell will not
-be a symbol of farewell, but a symbol of
-reunion and eternal promise.");
+MsgDisp("Kazama","From today, the sound of this bell will
+not be a symbol of farewell, but a symbol
+of reunion and eternal promise.");
 SEStop("EV_SE_676",1.5);
 ChEye(1,4);
 ChMouth(1,3);
@@ -165,14 +165,16 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Kazama＊＊｝, that was the wrong foot, right?
+MsgDisp("主人公","｛Kazama＊＊｝, that was the wrong
+foot, right?
 I was surprised!");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("P240100000_01_130");
 MsgDisp("Kazama","I was worried too.
-But thanks to you, it all worked out, right?");
+But thanks to you, it all worked
+out, right?");
 MsgDisp("主人公","Yeah, we got a huge round of applause,
 everyone seemed really happy.");
 ChEye(1,0);

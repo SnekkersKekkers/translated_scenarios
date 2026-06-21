@@ -16,9 +16,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("G020710303_07_020");
-MsgDisp("Mikage","But today's guy didn't have much sense, did
-he? If it were me, I'd do it a bit more
-elegantly.");
+MsgDisp("Mikage","But today's guy didn't have much sense,
+did he? If it were me, I'd do it a bit
+more elegantly.");
 MsgDisp("主人公","Eh...ehh∈
 ｛Mikage＊＊｝ too?
 Are you saying you do that kind of thing∋");
@@ -27,8 +27,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710303_07_030");
 MsgDisp("Mikage","I wouldn't do something so reckless.
-I mean, I've lived abroad for a long time, so
-I have manners—");
+I mean, I've lived abroad for a long time,
+so I have manners—");
 MsgDisp("主人公","You don't need to make excuses.");
 ChEye(7,2);
 ChMouth(7,0);
@@ -43,8 +43,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710303_07_050");
 MsgDisp("Mikage","It's my fault for being late.
-But anyways, it seems I saw a new side to you
-just now.");
+But anyways, it seems I saw a new side to
+you just now.");
 MsgDisp("主人公","(Maybe it's because of this place...
 I spoke to ｛Mikage＊＊｝ in a way I
 normally wouldn't...)");

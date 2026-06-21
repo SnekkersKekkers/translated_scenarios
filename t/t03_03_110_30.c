@@ -1,7 +1,7 @@
 MsgDisp("","Since graduating, we have been able to
 carefully share our feelings with each
-other. I think that's because of the time we
-spent apart.");
+other. I think that's because of the time
+we spent apart.");
 MsgDisp("","From now on, we will continue to walk the
 path we have chosen together.
 We know how happy we are just to be together.");

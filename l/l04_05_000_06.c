@@ -57,7 +57,8 @@ this chocolate.");
     BGMStop();
     ChClose(5);
     ChEyeOpenLevel(5,#1);
-    MsgDisp("主人公","(Ugh... I wish I had tried a little harder.
+    MsgDisp("主人公","(Ugh...
+I wish I had tried a little harder.
 I bothered ｛Hiiragi＊＊＊｝.)");
     break ;
     case 4:
@@ -97,7 +98,8 @@ quite a good mood.");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500006_05_110");
-    MsgDisp("Hiiragi","This chocolate as a whole may resemble you.");
+    MsgDisp("Hiiragi","This chocolate as a whole may
+resemble you.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝, that's a little...");
     ChEye(5,4);
     ChMouth(5,3);
@@ -109,8 +111,8 @@ But, truly, thank you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(He seemed happy, but I should've given him a
-proper chocolate...)");
+    MsgDisp("主人公","(He seemed happy, but I should've given
+him a proper chocolate...)");
     break ;
     default :
     DbgAssert(1);

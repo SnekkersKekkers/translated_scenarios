@@ -33,13 +33,13 @@ MsgDisp("Hiiragi","No, I like doing things even if I'm bad at
 them. I like sitting here doing student
 council work.");
 MsgDisp("主人公","I see.
-Isn't it difficult when you're also busy with
-the theatre company?");
+Isn't it difficult when you're also busy
+with the theatre company?");
 SEStop("EV_SE_712",0);
 ChMotion(5,2);
 VoicePlay("G110500800_05_030");
-MsgDisp("Hiiragi","No. I just want to feel like I'm of help to
-Haba High.");
+MsgDisp("Hiiragi","No. I just want to feel like I'm of help
+to Haba High.");
 SEPlay("EV_SE_712",0,0.7,0.8);
 ChMotion(5,0);
 VoicePlay("G110500800_05_040");

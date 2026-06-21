@@ -13,8 +13,8 @@ MsgDisp("Hiiragi","Winter break passes in the blink of an eye.
 Once I finish the New Year's Greetings, it's
 already over.");
 MsgDisp("主人公","I see.
-I guess a lazy New Year's Day just isn't in
-the cards for ｛Hiiragi＊＊＊｝.");
+I guess a lazy New Year's Day just isn't
+in the cards for ｛Hiiragi＊＊＊｝.");
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("F020500011_05_010");
@@ -28,8 +28,8 @@ ChMouth(5,4);
 ChMotion(5,3);
 VoicePlay("F020500011_05_020");
 MsgDisp("Hiiragi","Kotatsus are wonderful.
-I'll try to find some time for this \"lazy New
-Year's\" of yours, then.");
+I'll try to find some time for this \"lazy
+New Year's\" of yours, then.");
 MsgDisp("主人公","Um...it's not really something you need to
 \"attempt\" to do, you know?");
 ChEye(5,0);
@@ -37,11 +37,11 @@ ChMotion(5,0);
 VoicePlay("F020500011_05_030");
 MsgDisp("Hiiragi","Well, if I do not truly aim for it, it is
 difficult to make time on New Years Day.");
-MsgDisp("主人公","I guess it's just like ｛Hiiragi＊＊＊｝ to plan
-for a lazy New Years Day.");
+MsgDisp("主人公","I guess it's just like ｛Hiiragi＊＊＊｝ to
+plan for a lazy New Years Day.");
 ChEye(5,3);
 VoicePlay("F020500011_05_040");
 MsgDisp("Hiiragi","It will be my challenge for this year's
 winter break.");
-MsgDisp("主人公","(It would be nice if ｛Hiiragi＊＊＊｝ could take
-life a little more slowly.)");
+MsgDisp("主人公","(It would be nice if ｛Hiiragi＊＊＊｝ could
+take life a little more slowly.)");

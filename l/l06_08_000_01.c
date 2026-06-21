@@ -31,7 +31,8 @@ ScrFadeIn(0);
 ChMotion(8,2,1);
 VoicePlay("L060800001_08_020");
 MsgDisp("Shirahane","Today's White Day, right?
-So, I came here to give you this in return.");
+So, I came here to give you this
+in return.");
 MsgDisp("主人公","Is that what we came here for?");
 ChEye(8,3);
 ChMouth(8,3);

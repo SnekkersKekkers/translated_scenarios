@@ -22,8 +22,8 @@ with me.");
     ChMotion(2,4);
     VoicePlay("Q120200000_02_020");
     MsgDisp("Sassa","As expected.
-There's only one day left, but let's enjoy it
-to the end.");
+There's only one day left, but let's enjoy
+it to the end.");
     MsgDisp("主人公","Yeah!");
     break ;
     case 3:
@@ -69,7 +69,8 @@ It was so much fun going around with you,
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","So tomorrow is the end of the school trip...
+    MsgDisp("主人公","So tomorrow is the end of the
+school trip...
 It went by so fast, didn't it?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -98,8 +99,8 @@ I couldn't go running there.");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("Q120200000_02_100");
-    MsgDisp("Sassa","So I think it would feel good if I could run
-with you.
+    MsgDisp("Sassa","So I think it would feel good if I could
+run with you.
 Don't you think so too?");
     MsgDisp("主人公","Eh∋ You want me to come too?");
     ChEye(2,0);

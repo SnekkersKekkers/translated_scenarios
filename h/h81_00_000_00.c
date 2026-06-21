@@ -60,7 +60,8 @@ I look forward to working with you!");
     ChMotion(5,4);
     VoicePlay("F020500006_05_000");
     MsgDisp("Hiiragi","Yes, I am looking forward to it.");
-    MsgDisp("主人公","Hehe! Let's work well together, ｛Hiiragi＊＊＊｝.");
+    MsgDisp("主人公","Hehe!
+Let's work well together, ｛Hiiragi＊＊＊｝.");
     ChEye(5,3);
     ChMouth(5,4);
     ChMotion(5,0);

@@ -14,6 +14,6 @@ MsgDisp("主人公","Jewellery?");
 ChMotion(22,0,1);
 VoicePlay("U212200001_22_010");
 MsgDisp("Hikaru","Yes.
-Hikaru got it at her job but thinks it suits
-Mari better.");
+Hikaru got it at her job but thinks it
+suits Mari better.");
 MsgDisp("主人公","Thanks, ｛ひかる＊｝.");

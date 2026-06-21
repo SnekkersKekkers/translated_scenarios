@@ -21,20 +21,21 @@ switch (ChPrmGet(1,6)){
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100003_01_000");
     MsgDisp("Kazama","Oh, we're here.");
-    MsgDisp("主人公","Yep. You wanted to keep walking, didn't you?");
+    MsgDisp("主人公","Yep.
+You wanted to keep walking, didn't you?");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("S120100003_01_011");
-    MsgDisp("Kazama","Ahh, time passes way too quickly when we're
-together.");
+    MsgDisp("Kazama","Ahh, time passes way too quickly when
+we're together.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0,1);
     VoicePlay("S120100003_01_020");
-    MsgDisp("Kazama","If you're not careful, the whole year might
-just pass by.");
+    MsgDisp("Kazama","If you're not careful, the whole year
+might just pass by.");
     MsgDisp("主人公","Hehe, it's still New Years, though.");
     ChEye(1,0);
     ChMouth(1,3);
@@ -85,7 +86,8 @@ It's tradition. He can't do it alone.");
     ChMotion(1,0);
     ChEyeOpenLevel(1,8);
     VoicePlay("S120100003_01_070");
-    MsgDisp("Kazama","Hm, but I can't make you clean on New Years.
+    MsgDisp("Kazama","Hm, but I can't make you clean on
+New Years.
 Thanks anyway.");
     MsgDisp("主人公","I don't mind.");
     ChEyeOpenLevel(1,0);
@@ -98,8 +100,8 @@ Thanks anyway.");
     MsgDisp("Kazama","I do.
 You're dressed so beautifully right now.
 Thanks for that.");
-    MsgDisp("主人公","(｛Kazama＊＊｝ said I'm dressed beautifully,
-I'm so happy he said that...
+    MsgDisp("主人公","(｛Kazama＊＊｝ said I'm dressed
+beautifully, I'm so happy he said that...
 This year will be another good year.)");
     break ;
     default :

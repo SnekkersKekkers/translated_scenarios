@@ -29,8 +29,8 @@ ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300604_03_020");
-MsgDisp("Honda","Did you know I made a few changes to the book
-in this section?");
+MsgDisp("Honda","Did you know I made a few changes to the
+book in this section?");
 MsgDisp("主人公","I'm a staff member here too?");
 MsgDisp("主人公","(...Wait, what?
 ｛Honda＊＊｝, did you get a haircut?)");

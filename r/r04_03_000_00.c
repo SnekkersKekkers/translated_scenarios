@@ -29,7 +29,8 @@ It looks like a castle from Europe.");
     ChEyeOpenLevel(3,0);
     VoicePlay("R040300000_03_030");
     MsgDisp("Honda","Merry Christmas!
-This venue is so big it was hard to find you.");
+This venue is so big it was hard to
+find you.");
     break ;
     case 4:
     case 5:

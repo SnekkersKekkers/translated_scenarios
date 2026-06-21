@@ -21,9 +21,10 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P640600003_06_020");
 MsgDisp("Himuro","It's on the level that even though it's a
-school festival, it's impolite to sell this
-to people.");
-MsgDisp("主人公","(I should have tried harder growing them...)");
+school festival, it's impolite to sell
+this to people.");
+MsgDisp("主人公","(I should have tried harder growing
+them...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

@@ -12,8 +12,8 @@ Something bad is going on, you know?");
 MsgDisp("主人公","｛ひかる＊｝.
 ...Something bad?");
 VoicePlay("C022200000_22_010");
-MsgDisp("Hikaru","Hey, do you remember being cold to any of the
-boys around you, lately?");
+MsgDisp("Hikaru","Hey, do you remember being cold to any of
+the boys around you, lately?");
 VoicePlay("C022200000_22_020");
 MsgDisp("Hikaru","Like ignoring them, being cold, having
 tactless conversations, or showing off how
@@ -33,8 +33,8 @@ MsgDisp("Hikaru","Hikaru thinks Mari knows, but if annoyance
 \"boils up\" long enough suddenly one day...
 Boom! You know?");
 VoicePlay("C022200000_22_060");
-MsgDisp("Hikaru","So it's better to handle it before it comes
-to that.
+MsgDisp("Hikaru","So it's better to handle it before it
+comes to that.
 Kay?");
 MsgDisp("主人公","But, what should I do...");
 VoicePlay("C022200000_22_070");

@@ -61,8 +61,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("F100140000_01_030");
 MsgDisp("Kazama","Yeah. I'd already won, but they were also
-timing it, so I wanted to watch it spin till
-the end.");
+timing it, so I wanted to watch it spin
+till the end.");
 ChEyeOpenLevel(1,#1);
 ChEye(2,0);
 ChMouth(2,0);

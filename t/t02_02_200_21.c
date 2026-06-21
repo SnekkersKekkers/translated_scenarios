@@ -12,8 +12,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("T020220021_02_010");
-MsgDisp("Sassa","Seriously...will you continue to run with me
-from now on?");
+MsgDisp("Sassa","Seriously...will you continue to run with
+me from now on?");
 MsgDisp("主人公","Yes!
 Let's try to achieve ｛Sassa＊＊｝'s dream
 together.");
@@ -22,8 +22,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("T020220021_02_020");
 MsgDisp("Sassa","Nothing could make me happier!
-I'm going to tell them both that you answered
-with a kiss!!");
+I'm going to tell them both that you
+answered with a kiss!!");
 MsgDisp("主人公","Eh∋ That's a little...");
 ChEye(2,2);
 ChMouth(2,4);

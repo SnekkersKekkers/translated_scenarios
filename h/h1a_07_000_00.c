@@ -18,15 +18,15 @@ Thank you!");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("H1A0700000_07_010");
-    MsgDisp("Mikage","Aren't the fruits of your labour at managing
-the baseball club great, manager?");
+    MsgDisp("Mikage","Aren't the fruits of your labour at
+managing the baseball club great, manager?");
     MsgDisp("主人公","I was just helping out.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("H1A0700000_07_020");
-    MsgDisp("Mikage","That kindness definitely helped the team get
-the win.");
+    MsgDisp("Mikage","That kindness definitely helped the team
+get the win.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

@@ -74,8 +74,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110601000_06_080");
 MsgDisp("Himuro","Well.
-But if Ryota-senpai says it, that must be the
-case right?");
+But if Ryota-senpai says it, that must be
+the case right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);

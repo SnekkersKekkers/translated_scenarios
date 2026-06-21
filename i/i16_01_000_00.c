@@ -35,7 +35,8 @@ I'll stay calm and do better next time.)");
     MsgDisp("主人公","Thank you very much!");
     VoicePlay("I160100000_41_010");
     MsgDisp("Customer","Huh...
-I asked for a ribbon on this gift, didn't I?");
+I asked for a ribbon on this gift,
+didn't I?");
     MsgDisp("主人公","Ah∈ My apologies.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");

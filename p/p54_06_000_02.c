@@ -29,8 +29,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("P540600002_06_030");
-MsgDisp("Himuro","The performance was good, but the arrangement
-was also super exciting.");
+MsgDisp("Himuro","The performance was good, but the
+arrangement was also super exciting.");
 MsgDisp("主人公","I'm glad!
 Thank you!");
 ChEye(6,0);

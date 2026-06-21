@@ -12,8 +12,8 @@ switch (ChPrmGet(1,6)){
     VoiceEVSPlay(1);
     VoicePlay("I160100007_01_000");
     MsgDisp("Kazama","｛主人公｝.
-You're getting a reputation for being a good
-mentor. Kind and polite, they say.");
+You're getting a reputation for being a
+good mentor. Kind and polite, they say.");
     MsgDisp("主人公","Really?
 It must be because everyone is a good
 student.");

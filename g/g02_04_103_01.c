@@ -17,8 +17,8 @@ There were a lot of powerful lights
 and stuff.");
 ChMotion(4,0,1);
 VoicePlay("G020410301_04_020");
-MsgDisp("Nanatsumori","At night, isn't it as sparkly and beautiful
-as the fireflies here?");
+MsgDisp("Nanatsumori","At night, isn't it as sparkly and
+beautiful as the fireflies here?");
 MsgDisp("主人公","That's true!
 I kind of want to see that.");
 ChEye(4,4);
@@ -58,8 +58,8 @@ MsgDisp("Nanatsumori","Well, that's fine.
 You can visit my room again.
 I'll get you a nice cake.");
 MsgDisp("主人公","(Yay!
-But, I wonder what ｛Nanatsumori＊｝ meant by
-saying I don't see him as a man...)");
+But, I wonder what ｛Nanatsumori＊｝ meant
+by saying I don't see him as a man...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

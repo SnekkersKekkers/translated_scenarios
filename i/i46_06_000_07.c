@@ -22,8 +22,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("I460600007_06_010");
     MsgDisp("Himuro","Ah, that explains the high temperature.
 The high humidity too, I'm guessing?");
-    MsgDisp("主人公","There's nothing set aside to be dried, so I
-was thinking of caring for our more
+    MsgDisp("主人公","There's nothing set aside to be dried, so
+I was thinking of caring for our more
 sensitive plants.");
     ChEye(6,0);
     ChMouth(6,0);
@@ -57,8 +57,8 @@ further from the fresh ones.");
     ChMotion(6,0);
     VoicePlay("I460600007_06_050");
     MsgDisp("Himuro","Ah...
-To keep them away from the high temperatures
-and humidity, huh.");
+To keep them away from the high
+temperatures and humidity, huh.");
     MsgDisp("主人公","Right.
 They last longer if they're not in direct
 sun, too.");

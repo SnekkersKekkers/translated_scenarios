@@ -55,14 +55,15 @@ now. I'm gonna go!");
     ChMouth(3,4);
     ChMotion(3,2,1);
     VoicePlay("R040300002_03_030");
-    MsgDisp("Honda","Hey! Don't make noise in a place like this!
+    MsgDisp("Honda","Hey!
+Don't make noise in a place like this!
 Bad belly!");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("R040300002_03_040");
-    MsgDisp("Honda","Whew, even princes get hungry, so I'm gonna
-eat a feast!");
+    MsgDisp("Honda","Whew, even princes get hungry, so I'm
+gonna eat a feast!");
     MsgDisp("主人公","Hehe! See you later then.");
     break ;
     default :

@@ -36,8 +36,8 @@ ChEye(2,4);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("T020220030_02_040");
-MsgDisp("Sassa","It would make me happy if you watched me run
-sometime.
+MsgDisp("Sassa","It would make me happy if you watched me
+run sometime.
 Phew... See you then.");
 ChEye(2,4);
 BGMStop(3.6);

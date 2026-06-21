@@ -55,8 +55,8 @@ Just barely safe.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("I360400006_04_040");
-    MsgDisp("Nanatsumori","I wrote a note on the back of it, didn't you
-see it?");
+    MsgDisp("Nanatsumori","I wrote a note on the back of it, didn't
+you see it?");
     MsgDisp("主人公","The back...ah, you're right.
 Sorry...");
     ChEye(4,2);

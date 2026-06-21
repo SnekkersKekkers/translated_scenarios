@@ -38,7 +38,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F110610000_06_050");
 MsgDisp("Himuro","Sigh... What a pain.
-But feeling guilty about it is pointless too.");
+But feeling guilty about it is
+pointless too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

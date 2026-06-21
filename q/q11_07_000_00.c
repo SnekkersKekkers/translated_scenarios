@@ -6,7 +6,8 @@ ScrFadeIn(0);
 VoicePlay("Q110700000_07_000");
 MsgDisp("Mikage","Did you get to do some good shopping?");
 MsgDisp("主人公","Yes.
-Plenty of castella for my family and myself.");
+Plenty of castella for my family
+and myself.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -30,8 +31,8 @@ SEPlay("EV_SE_668");
 SEWait();
 VoicePlay("Q110700000_07_030");
 MsgDisp("Mikage","Tulip bulbs.
-If you plant them by December, they'll bloom
-beautifully in the spring.");
+If you plant them by December, they'll
+bloom beautifully in the spring.");
 MsgDisp("主人公","Wow, amazing!");
 ChEye(7,0);
 ChMouth(7,3);

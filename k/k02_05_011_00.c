@@ -24,16 +24,16 @@ SEWait();
 ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("K020501100_05_020");
-MsgDisp("Hiiragi","I'm not sure if this suits your tastes, but
-please accept this.");
+MsgDisp("Hiiragi","I'm not sure if this suits your tastes,
+but please accept this.");
 MsgDisp("主人公","Oh...? A present?");
 ChEye(5,2);
 VoicePlay("K020501100_05_030");
 MsgDisp("Hiiragi","It's rather embarrassing.
-I'm used to receiving gifts, but the reverse
-is quite difficult.");
-MsgDisp("主人公","Hehe, it's something that you chose for me,
-｛Hiiragi＊＊＊｝.");
+I'm used to receiving gifts, but the
+reverse is quite difficult.");
+MsgDisp("主人公","Hehe, it's something that you chose for
+me, ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("K020501100_05_040");
@@ -44,8 +44,8 @@ MsgDisp("主人公","I'd be happy with anything you got me!");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("K020501100_05_050");
-MsgDisp("Hiiragi","Yes, please don't set your expectations too
-high when you open it.
+MsgDisp("Hiiragi","Yes, please don't set your expectations
+too high when you open it.
 Well then, good night.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();

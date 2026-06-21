@@ -35,8 +35,8 @@ wonderful.");
     ChMotion(5,0);
     VoicePlay("P730500001_05_030");
     MsgDisp("Hiiragi","The dress is perfect.
-If you accompany it with your usual smile, it
-will be complete.");
+If you accompany it with your usual smile,
+it will be complete.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("P730500001_05_040");
@@ -75,28 +75,29 @@ I think it turned out well but...)");
     MsgDisp("Hiiragi","I was so captivated that I forgot to
 greet you.");
     MsgDisp("主人公","Really?
-Hearing ｛Hiiragi＊＊＊｝ say that, helped me gain
-some confidence.");
+Hearing ｛Hiiragi＊＊＊｝ say that, helped me
+gain some confidence.");
     ChEye(5,3);
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("P730500001_05_080");
-    MsgDisp("Hiiragi","If that's all it takes, I'll say it as many
-times as you want.");
+    MsgDisp("Hiiragi","If that's all it takes, I'll say it as
+many times as you want.");
     MsgDisp("主人公","Hehe, come on.");
     ChEye(5,0);
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("P730500001_05_090");
-    MsgDisp("Hiiragi","If you smile like that, you'll be invincible.");
+    MsgDisp("Hiiragi","If you smile like that, you'll be
+invincible.");
     MsgDisp("主人公","Eh?");
     ChEye(5,4);
     ChMotion(5,4);
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500001_05_100");
     MsgDisp("Hiiragi","I'm also a bit of an actor, so I can tell
-right away whether I can charm the audience
-on stage.");
+right away whether I can charm the
+audience on stage.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
     ChEye(5,0);
     ChMotion(5,0);

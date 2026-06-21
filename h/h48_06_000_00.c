@@ -26,7 +26,8 @@ gymnastics?");
     ChMotion(6,0);
     VoicePlay("H480600000_06_020");
     MsgDisp("Himuro","Yeah.
-And I'll be cheering for you while I'm at it.");
+And I'll be cheering for you while I'm
+at it.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,3);

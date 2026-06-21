@@ -32,8 +32,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("P540200003_02_030");
 MsgDisp("Sassa","I see.
-Even if it was a mistake to you, the audience
-really enjoyed it.");
+Even if it was a mistake to you, the
+audience really enjoyed it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);

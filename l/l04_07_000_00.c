@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","｛Mikage＊＊｝, please have this Valentine's
-chocolate.");
+    MsgDisp("主人公","｛Mikage＊＊｝, please have this
+Valentine's chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(7,0);
@@ -24,8 +24,8 @@ I'll take it gratefully.");
     ChMotion(7,3);
     ChEyeOpenLevel(7,8);
     VoicePlay("L040700000_07_010");
-    MsgDisp("Mikage","If you're the one giving it to me, there's no
-choice but to take it.");
+    MsgDisp("Mikage","If you're the one giving it to me, there's
+no choice but to take it.");
     ChEyeOpenLevel(7,#1);
     break ;
     case 3:
@@ -50,8 +50,8 @@ I won't return it even if you ask, 'kay?");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","｛Mikage＊＊｝, please have this Valentine's
-chocolate.");
+    MsgDisp("主人公","｛Mikage＊＊｝, please have this
+Valentine's chocolate.");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(7,0);
@@ -66,9 +66,9 @@ from other girls in class, right?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("L040700000_07_060");
-    MsgDisp("Mikage","It's not about how many. Everyone's feelings
-make me happy, and it makes all the
-difference if yours are there, too.");
+    MsgDisp("Mikage","It's not about how many. Everyone's
+feelings make me happy, and it makes all
+the difference if yours are there, too.");
     MsgDisp("主人公","｛Mikage＊＊｝...");
     break ;
     default :

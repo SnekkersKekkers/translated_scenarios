@@ -1,8 +1,8 @@
 BGOpen("sc210",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(This is the place where I painted, looked at
-the flowers, and spoke with everyone.)");
+MsgDisp("主人公","(This is the place where I painted, looked
+at the flowers, and spoke with everyone.)");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
 VoiceEVSPlay(5);
@@ -14,8 +14,8 @@ ChEye(5,4);
 VoicePlay("T020C30000_05_010");
 MsgDisp("Hiiragi","Congratulations on graduating.");
 MsgDisp("主人公","Thank you.
-｛Hiiragi＊＊＊｝, congratulations to you too on
-graduating.");
+｛Hiiragi＊＊＊｝, congratulations to you too
+on graduating.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -37,8 +37,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,2);
 VoicePlay("T020C30000_05_040");
-MsgDisp("Hiiragi","I fondly remember you having fun sitting on
-that bench and drawing pictures.");
+MsgDisp("Hiiragi","I fondly remember you having fun sitting
+on that bench and drawing pictures.");
 ChEye(5,4);
 ChEyeOpenLevel(5,0);
 MsgDisp("主人公","｛Hiiragi＊＊＊｝ often used to work at
@@ -84,8 +84,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("T020C30000_06_030");
-MsgDisp("Himuro","Sigh...either way, it's unavoidable for me to
-be left behind.
+MsgDisp("Himuro","Sigh...either way, it's unavoidable for me
+to be left behind.
 I'm staying here, after all.");
 ChEye(5,2);
 ChEyeOpenLevel(5,9);
@@ -127,9 +127,9 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("T020C30000_07_030");
-MsgDisp("Mikage","Everything from your kindness, your diligence
-to your slight absent-mindedness has helped
-me so much, thank you.");
+MsgDisp("Mikage","Everything from your kindness, your
+diligence to your slight absent-mindedness
+has helped me so much, thank you.");
 MsgDisp("主人公","｛Mikage＊＊｝... Yes!");
 ChEye(7,0);
 ChMouth(7,0);
@@ -161,8 +161,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("T020C30000_05_070");
-MsgDisp("Hiiragi","This day next year will be Inori's graduation
-ceremony.
+MsgDisp("Hiiragi","This day next year will be Inori's
+graduation ceremony.
 Let's get together to celebrate.");
 MsgDisp("主人公","Yes!");
 ChEye(5,4);
@@ -200,8 +200,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("T020C30000_07_080");
-MsgDisp("Mikage","...After I send Inori off, I'll talk it over
-with Molly and make a decision.");
+MsgDisp("Mikage","...After I send Inori off, I'll talk it
+over with Molly and make a decision.");
 MsgDisp("主人公","Hehe.
 Do you think Molly-chan will want to come
 back soon?");

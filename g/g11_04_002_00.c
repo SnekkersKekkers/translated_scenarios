@@ -17,8 +17,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeOut(0);
-MsgDisp("主人公","(Phew...
-I guess I'm too early...
+MsgDisp("主人公","(Phew... I guess I'm too early...
 I'll just have some tea and go home.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 SEWait();
@@ -63,8 +62,8 @@ VoicePlay("G110400200_04_050");
 MsgDisp("Nanatsumori","You seem to do this a lot.
 Are you gonna brag about it later?");
 MsgDisp("主人公","Absolutely!");
-MsgDisp("主人公","(Talking with ｛Nanatsumori＊｝ about fashion
-is such a luxury!)");
+MsgDisp("主人公","(Talking with ｛Nanatsumori＊｝ about
+fashion is such a luxury!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

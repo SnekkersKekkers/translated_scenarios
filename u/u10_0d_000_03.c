@@ -10,14 +10,15 @@ MsgDisp("Hikaru","Hi～ Mari!
 It's Hikaru♪");
 MsgDisp("主人公","What's up, ｛ひかる＊｝?");
 VoicePlay("U100D00003_22_010");
-MsgDisp("Hikaru","You should have girl talk tonight with Hikaru
-and sis!♪");
+MsgDisp("Hikaru","You should have girl talk tonight with
+Hikaru and sis!♪");
 MsgSel("Yeah, let's go!","Sorry, I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("U100D00003_22_020");
     MsgDisp("Hikaru","Yay! Merci, Mari▼");
-    MsgDisp("主人公","Hehe! Well then, I'll get ready to come over.");
+    MsgDisp("主人公","Hehe!
+Well then, I'll get ready to come over.");
     VoicePlay("U100D00003_22_030");
     MsgDisp("Hikaru","Ok, we'll wait for you♪
 See you soon!");
@@ -33,8 +34,8 @@ Well, guess it can't be helped.
 Hikaru's sure there will be another chance.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
-    MsgDisp("主人公","(Even though she invited me, maybe that was
-the wrong choice?)");
+    MsgDisp("主人公","(Even though she invited me, maybe that
+was the wrong choice?)");
     break ;
     default :
     DbgAssert(0);

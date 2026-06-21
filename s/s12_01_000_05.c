@@ -17,7 +17,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("S120100005_01_000");
     MsgDisp("Kazama","We saw some of our classmates on the way
 home, right?");
-    MsgDisp("主人公","Yeah. Everyone was with friends and family.");
+    MsgDisp("主人公","Yeah.
+Everyone was with friends and family.");
     ChEye(1,4);
     ChMouth(1,0);
     ChMotion(1,4);
@@ -88,8 +89,8 @@ So being together like this feels weird.");
     ChMotion(1,1);
     VoicePlay("S120100005_01_080");
     MsgDisp("Kazama","Since I entered high school, I started to
-pay attention a lot more to the person next
-to me...");
+pay attention a lot more to the person
+next to me...");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,1);

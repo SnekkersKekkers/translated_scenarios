@@ -22,7 +22,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("R080200000_02_020");
-MsgDisp("Sassa","So, wanna go outside for a little exercise?");
+MsgDisp("Sassa","So, wanna go outside for a little
+exercise?");
 MsgDisp("主人公","Huh?");
 MsgClose();
 SEPlay("EV_SE_504");
@@ -57,15 +58,15 @@ MsgDisp("Sassa","...I've never thought of training as hard.");
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("R080200000_02_050");
-MsgDisp("Sassa","So my Inter-High results were also thanks to
-everyone who made an environment where I
-could focus on training.");
+MsgDisp("Sassa","So my Inter-High results were also thanks
+to everyone who made an environment where
+I could focus on training.");
 StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,0,1);
 VoicePlay("R080200000_02_060");
-MsgDisp("Sassa","I didn't realise how obvious that was until I
-retired.");
+MsgDisp("Sassa","I didn't realise how obvious that was
+until I retired.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 StlEye(2,0);
 StlMouth(2,0);
@@ -77,8 +78,8 @@ StlEye(2,0,0);
 StlMouth(2,0);
 StlEyeOpenLevel(2,5,1);
 VoicePlay("R080200000_02_080");
-MsgDisp("Sassa","I wonder if it's okay for me to run towards
-my dreams on my own.");
+MsgDisp("Sassa","I wonder if it's okay for me to run
+towards my dreams on my own.");
 StlEye(2,1);
 StlMouth(2,0);
 MsgDisp("主人公","Of course.

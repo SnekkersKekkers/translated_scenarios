@@ -21,9 +21,9 @@ Wait(120);
 ScrFadeIn(0);
 Wait(60);
 VoicePlay("T040620100_05_000");
-MsgDisp("Hiiragi","Phew... Even though I haven't actually caught
-a wave yet, I already feel a strange sense of
-accomplishment.");
+MsgDisp("Hiiragi","Phew... Even though I haven't actually
+caught a wave yet, I already feel a
+strange sense of accomplishment.");
 StlEye(7,0);
 StlMouth(7,0);
 VoicePlay("T040620100_07_000");
@@ -61,8 +61,8 @@ StlClose();
 VoicePlay("T040620100_06_040");
 MsgDisp("Himuro","I never thought the day would come where I
 would surf with someone; and it was my
-teacher and senior no less. Next time...I'll
-bring you along too.");
+teacher and senior no less. Next
+time...I'll bring you along too.");
 MsgClose();
 ScrFadeOut(0,0,300);
 Wait(300,0);

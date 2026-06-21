@@ -18,8 +18,8 @@ BGOpen("ev006",1);
 BGMPlay("BGM_C06_INORI_I");
 ChOpen(6,100,2,2,1,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","(It's been a while since he came out of the
-water but...
+MsgDisp("主人公","(It's been a while since he came out of
+the water but...
 ｛Himuro＊＊｝ hasn't said a word at all...)");
 while (1){
     RunEverydaySksp(6,0,0,1,0,0);
@@ -51,8 +51,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600200_06_050");
 MsgDisp("Himuro","Don't make me say it twice.
-You know the valentine's chocolate you gave
-me? It was delicious! That's all.");
+You know the valentine's chocolate you
+gave me? It was delicious! That's all.");
 MsgDisp("主人公","Ah! I'm glad.
 Maybe it's because I tried my best.
 ...Is that what you came here to say?");
@@ -69,8 +69,8 @@ ChMotion(6,0);
 VoicePlay("G110600200_06_070");
 MsgDisp("Himuro","Then...did other guys receive any?
 Homemade chocolates that is.");
-MsgDisp("主人公","As for handmade chocolates, I only gave them
-to ｛Himuro＊＊｝?");
+MsgDisp("主人公","As for handmade chocolates, I only gave
+them to ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,2);
@@ -106,8 +106,8 @@ ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("G110600200_06_120");
 MsgDisp("Himuro","It's nothing!
-It looks like there's some nice waves coming,
-I'm off!");
+It looks like there's some nice waves
+coming, I'm off!");
 MsgDisp("主人公","(｛Himuro＊＊｝...?)");
 BGMStop();
 MsgClose();

@@ -17,7 +17,8 @@ MsgDisp("Nanatsumori","I'm sorry.
 I didn't mean to cause you to make
 that face...");
 VoicePlay("T020411000_04_200");
-MsgDisp("Nanatsumori","I won't interfere with your destiny anymore.");
+MsgDisp("Nanatsumori","I won't interfere with your destiny
+anymore.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,3,1);

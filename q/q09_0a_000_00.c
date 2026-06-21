@@ -16,8 +16,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("Q090A00000_01_010");
-MsgDisp("Kazama","It's business as usual for me, but Sassa said
-he went running this morning.");
+MsgDisp("Kazama","It's business as usual for me, but Sassa
+said he went running this morning.");
 MsgDisp("主人公","Eeh∋");
 ChEye(2,0);
 ChMouth(2,4);

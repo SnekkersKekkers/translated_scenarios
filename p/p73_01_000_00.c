@@ -33,13 +33,15 @@ more legit than I thought.");
     VoicePlay("P730100000_01_020");
     MsgDisp("Kazama","Both the clothes and model are stylish.");
     MsgDisp("主人公","Thank you.
-Though I'm not sure how much I can trust you?");
+Though I'm not sure how much I can
+trust you?");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P730100000_01_030");
     MsgDisp("Kazama","So you've returned to your usual self?
-Go, smiling brightly just as you usually do.");
+Go, smiling brightly just as you
+usually do.");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Ah, it's starting.
@@ -88,7 +90,8 @@ Your work and model is the best.");
     VoicePlay("P730100000_01_080");
     MsgDisp("Kazama","It is.
 Or is my judgement not believable to you?");
-    MsgDisp("主人公","No. ｛Kazama＊＊｝'s appraisal is never wrong.");
+    MsgDisp("主人公","No. ｛Kazama＊＊｝'s appraisal is
+never wrong.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);

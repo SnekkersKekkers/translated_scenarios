@@ -8,8 +8,9 @@ ChMotion(3,4);
 ChCheek(3,5);
 VoicePlay("T020300020_03_000");
 MsgDisp("Honda","I-Is that so...thank you.");
-MsgDisp("主人公","Thank you for always having fun conversations
-with me and spending time with me.");
+MsgDisp("主人公","Thank you for always having fun
+conversations with me and spending time
+with me.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
@@ -39,7 +40,8 @@ MsgClear();
 StlEffect(1,1,60);
 Wait(60,0);
 VoicePlay("T020300020_03_040");
-MsgDisp("Honda","Huu... I want it to stay like this forever.");
+MsgDisp("Honda","Huu...
+I want it to stay like this forever.");
 Wait(120,0);
 MsgClose();
 ScrFadeOut(0,1,120);

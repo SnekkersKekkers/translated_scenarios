@@ -3,8 +3,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020210304_02_000");
-MsgDisp("Sassa","Hey, do you remember the birthday present I
-gave you?");
+MsgDisp("Sassa","Hey, do you remember the birthday present
+I gave you?");
 MsgDisp("主人公","Of course.
 I was super happy.");
 ChEye(2,0);
@@ -18,8 +18,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("G020210304_02_020");
-MsgDisp("Sassa","They were nice about it and all, but I wanted
-to choose it myself.");
+MsgDisp("Sassa","They were nice about it and all, but I
+wanted to choose it myself.");
 MsgDisp("主人公","Hehe.
 It was ｛Sassa＊＊｝ who picked it for
 me, right?");
@@ -30,7 +30,8 @@ VoicePlay("G020210304_02_030");
 MsgDisp("Sassa","Yeah. But I wondered if it would have been
 better to give you something that's in
 fashion for girls.");
-MsgDisp("主人公","Something ｛Sassa＊＊｝ likes would be better.");
+MsgDisp("主人公","Something ｛Sassa＊＊｝ likes would
+be better.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -53,7 +54,8 @@ ChEye(2,5);
 ChMouth(2,4);
 ChMotion(2,5);
 VoicePlay("G020210304_02_060");
-MsgDisp("Sassa","No, no, I just had a bit of a stupid thought.
+MsgDisp("Sassa","No, no, I just had a bit of a stupid
+thought.
 Oh, I need to cool my head!");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 ChClose(2);

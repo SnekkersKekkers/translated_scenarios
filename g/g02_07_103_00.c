@@ -14,8 +14,8 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020710300_07_010");
 MsgDisp("Mikage","Ok. You don't have to answer my heart's
-voice. After all, the person in question is
-unaware of it.");
+voice. After all, the person in question
+is unaware of it.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -34,8 +34,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020710300_07_040");
-MsgDisp("Mikage","You don't have to respond because it's just
-my inner voice.");
+MsgDisp("Mikage","You don't have to respond because it's
+just my inner voice.");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -46,8 +46,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710300_07_060");
-MsgDisp("Mikage","It would help if you could pretend you forgot
-about it.");
+MsgDisp("Mikage","It would help if you could pretend you
+forgot about it.");
 MsgDisp("主人公","Well, um, it's not something to
 apologise for.");
 ChEye(7,0);
@@ -63,9 +63,9 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("G020710300_07_080");
 MsgDisp("Mikage","That was my inner voice.");
-MsgDisp("主人公","(｛Mikage＊＊｝ was really concerned about
-it. I'm happy that he always thinks about me
-seriously...)");
+MsgDisp("主人公","(｛Mikage＊＊｝ was really concerned
+about it. I'm happy that he always thinks
+about me seriously...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -15,16 +15,16 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("G020220001_02_020");
-MsgDisp("Sassa","I saw you two before but I just couldn't get
-myself to talk to you.
+MsgDisp("Sassa","I saw you two before but I just couldn't
+get myself to talk to you.
 I'd never seen you smile like that before.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220001_02_030");
 MsgDisp("Sassa","But if I feel that way, then, as much as I
-hate to admit it, it means that I can't make
-you smile like that.");
+hate to admit it, it means that I can't
+make you smile like that.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -36,9 +36,9 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220001_02_050");
-MsgDisp("Sassa","But since you came here today, the distance
-between him and me is still one I can
-cover, right?");
+MsgDisp("Sassa","But since you came here today, the
+distance between him and me is still one I
+can cover, right?");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,3);

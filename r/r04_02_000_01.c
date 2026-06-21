@@ -46,8 +46,8 @@ Does it suit me?");
     ChMotion(2,4);
     VoicePlay("R040200001_02_050");
     MsgDisp("Sassa","Of course it does.
-You have a different vibe from usual, so my
-heart raced.");
+You have a different vibe from usual, so
+my heart raced.");
     MsgDisp("主人公","Hehe.
 Have I already said you also look cool,
 ｛Sassa＊＊｝?");
@@ -62,8 +62,8 @@ If that's what you think.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("R040200001_02_070");
-    MsgDisp("Sassa","The length is fine, but it's a bit tight all
-over, I can't eat in this.");
+    MsgDisp("Sassa","The length is fine, but it's a bit tight
+all over, I can't eat in this.");
     break ;
     case 4:
     case 5:
@@ -79,8 +79,8 @@ Especially your dress.");
     ChMotion(2,4);
     VoicePlay("R040200001_02_090");
     MsgDisp("Sassa","Yeah.
-It makes me feel like floating when I'm next
-to you.");
+It makes me feel like floating when I'm
+next to you.");
     MsgDisp("主人公","Floating?");
     ChEye(2,0);
     ChMouth(2,4);

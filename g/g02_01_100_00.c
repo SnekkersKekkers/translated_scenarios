@@ -17,8 +17,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G020110000_01_020");
-MsgDisp("Kazama","A dream where you're playing with someone I
-don't know in a garden full of blooming
+MsgDisp("Kazama","A dream where you're playing with someone
+I don't know in a garden full of blooming
 flowers.");
 ChEyeOpenLevel(1,0);
 Wait(8,0);
@@ -27,17 +27,17 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110000_01_030");
-MsgDisp("Kazama","I start running to you, but I can't get any
-closer. It's always been the same dream, ever
-since I went to England.");
+MsgDisp("Kazama","I start running to you, but I can't get
+any closer. It's always been the same
+dream, ever since I went to England.");
 MsgDisp("主人公","So not a happy dream?");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110000_01_040");
 MsgDisp("Kazama","Not necessarily.
-Since I was happy just seeing you, even if it
-was a dream.");
+Since I was happy just seeing you, even if
+it was a dream.");
 MsgDisp("主人公","｛Kazama＊＊｝...");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -59,8 +59,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110000_01_070");
-MsgDisp("Kazama","...But for some reason, we're both still tiny
-primary schoolers.");
+MsgDisp("Kazama","...But for some reason, we're both still
+tiny primary schoolers.");
 MsgDisp("主人公","Hahah.");
 MsgDisp("主人公","(So ｛Kazama＊＊｝ dreams about me...)");
 BGMStop();

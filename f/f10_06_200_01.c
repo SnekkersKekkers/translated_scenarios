@@ -1,7 +1,8 @@
 BGOpen("sc500",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, ...it's about time to head home.)");
+MsgDisp("主人公","(Alright, ...it's about time to
+head home.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
@@ -83,16 +84,16 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("F100620001_03_050");
-MsgDisp("Honda","If we all eat together, it'll taste even more
-delicious?");
+MsgDisp("Honda","If we all eat together, it'll taste even
+more delicious?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("F100620001_03_060");
 MsgDisp("Honda","Alright, let's go!");
-MsgDisp("主人公","(I know he suddenly barged in but, I'm kind
-of excited for the ramen shop ｛Honda＊＊｝
-likes so much?)");
+MsgDisp("主人公","(I know he suddenly barged in but, I'm
+kind of excited for the ramen shop
+｛Honda＊＊｝ likes so much?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -44,7 +44,8 @@ them, okay?");
     VoicePlay("P530700001_07_040");
     MsgDisp("Mikage","Then, go.");
     MsgDisp("主人公","(Huh...
-Talking to ｛Mikage＊＊｝ relaxed me a bit!)");
+Talking to ｛Mikage＊＊｝ relaxed me
+a bit!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -85,7 +86,8 @@ Believe in your homeroom teacher.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("P530700001_07_090");
-    MsgDisp("Mikage","When you have fun, everyone else has fun too.
+    MsgDisp("Mikage","When you have fun, everyone else has
+fun too.
 That's why you'll be sure to succeed.");
     SEPlay("EV_SE_038");
     SEWait();

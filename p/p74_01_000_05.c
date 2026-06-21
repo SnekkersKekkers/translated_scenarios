@@ -2,7 +2,8 @@ MsgClose();
 ScrFadeOut(0);
 BGOpen("sc740",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I fell...even though it was my last show...)");
+MsgDisp("主人公","(I fell...even though it was my last
+show...)");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
 SEWait();
@@ -33,8 +34,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P740100005_01_030");
 MsgDisp("Kazama","Right.
-Before long, I'll get you to wear that dress
-again. So, don't make that face.");
+Before long, I'll get you to wear that
+dress again. So, don't make that face.");
 MsgDisp("主人公","...When?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -47,12 +48,12 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P740100005_01_050");
-MsgDisp("Kazama","You really gave it your all these last three
-years. Well, let's look forward to your big
-successes?");
+MsgDisp("Kazama","You really gave it your all these last
+three years. Well, let's look forward to
+your big successes?");
 MsgDisp("主人公","(Good memories, huh?
-Yeah, in the future I hope I can look back on
-today like that.)");
+Yeah, in the future I hope I can look back
+on today like that.)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

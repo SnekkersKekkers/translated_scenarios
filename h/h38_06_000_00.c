@@ -17,7 +17,8 @@ You came?");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("H380600000_06_010");
-    MsgDisp("Himuro","Well, I was just curious what judo was like.");
+    MsgDisp("Himuro","Well, I was just curious what judo
+was like.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);
@@ -54,15 +55,15 @@ You came?");
     ChMotion(6,0);
     VoicePlay("H380600000_06_060");
     MsgDisp("Himuro","Well, yeah.
-If someone here is going to win, I don't want
-to miss it.");
+If someone here is going to win, I don't
+want to miss it.");
     MsgDisp("主人公","Huh, winning?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0,1);
     VoicePlay("H380600000_06_070");
-    MsgDisp("Himuro","You've made it all the way here, so you have
-to aim for the top at least.");
+    MsgDisp("Himuro","You've made it all the way here, so you
+have to aim for the top at least.");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

@@ -9,13 +9,15 @@ switch (ChPrmGet(3,6)){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("N020300000_03_000");
-    MsgDisp("Honda","The first among all the students is...not me!");
+    MsgDisp("Honda","The first among all the students
+is...not me!");
     MsgDisp("主人公","Ah, ｛Honda＊＊｝. Umm...");
     ChSet(3,3);
     VoicePlay("N020300000_03_010");
     MsgDisp("Honda","Impressive, really impressive!
 I got a different rank than usual!");
-    MsgDisp("主人公","(Are you impressed by your drop in rank...?
+    MsgDisp("主人公","(Are you impressed by your drop in
+rank...?
 Anyway, I'm glad I did my best!)");
     break ;
     case 3:
@@ -65,8 +67,8 @@ Your name was right above mine!");
     ChEyeOpenLevel(3,0);
     VoicePlay("N020300000_03_070");
     MsgDisp("Honda","I'm convinced now after seeing that.
-You are the reason I get to realise so many
-things for the first time.");
+You are the reason I get to realise so
+many things for the first time.");
     MsgDisp("主人公","(｛Honda＊＊｝ praised me!
 I'm glad I did my best!)");
     break ;

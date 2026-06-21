@@ -8,16 +8,16 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("P640100005_01_000");
-MsgDisp("Kazama","I could tell that these vegetables were grown
-with freedom.");
+MsgDisp("Kazama","I could tell that these vegetables were
+grown with freedom.");
 MsgDisp("主人公","Umm, it's because it's organically grown.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("P640100005_01_010");
-MsgDisp("Kazama","That's not what I mean. There are things like
-adjusting fertilisers to concentrate the
-flavour and pruning, right?");
+MsgDisp("Kazama","That's not what I mean. There are things
+like adjusting fertilisers to concentrate
+the flavour and pruning, right?");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -27,8 +27,8 @@ MsgDisp("Kazama","The vegetables are too big and the taste
 is bland.");
 ChEyeOpenLevel(1,#1);
 MsgDisp("主人公","(Ugh... I should have participated in the
-club more and researched how to grow them to
-be tastier...)");
+club more and researched how to grow them
+to be tastier...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(1,0,0);

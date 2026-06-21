@@ -25,8 +25,8 @@ switch (ChPrmGet(21,6)){
 Hehe, today's victory party is going to be
 complicated.");
     MsgDisp("主人公","(Ah... I see.
-But I'm glad I worked so hard at the rhythmic
-gymnastics club...!)");
+But I'm glad I worked so hard at the
+rhythmic gymnastics club...!)");
     BGMStop();
     MsgClose();
     ScrFadeOut(0,0);
@@ -50,7 +50,8 @@ gymnastics club...!)");
     ChMouth(21,3);
     ChMotion(21,0);
     VoicePlay("H4A2100000_21_030");
-    MsgDisp("Michiru","It was like watching the dance of a goddess.
+    MsgDisp("Michiru","It was like watching the dance of a
+goddess.
 It was truly beautiful.");
     MsgDisp("主人公","Hehe, you're making me shy.");
     ChEye(21,3);

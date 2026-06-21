@@ -41,8 +41,8 @@ That's right.");
 ChEye(4,2);
 ChMouth(4,3);
 VoicePlay("T020420000_04_050");
-MsgDisp("Nanatsumori","It seems like my feelings for you have been
-known for a long time.");
+MsgDisp("Nanatsumori","It seems like my feelings for you have
+been known for a long time.");
 MsgDisp("主人公","Eh?");
 ChEye(4,4);
 ChMouth(4,4);
@@ -54,14 +54,14 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("T020420000_04_070");
-MsgDisp("Nanatsumori","Well...your feelings aside, is this what they
-call male camaraderie?");
+MsgDisp("Nanatsumori","Well...your feelings aside, is this what
+they call male camaraderie?");
 ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("T020420000_04_080");
-MsgDisp("Nanatsumori","...They gave me the push I needed when I was
-feeling shy.
+MsgDisp("Nanatsumori","...They gave me the push I needed when I
+was feeling shy.
 And now I'm here.");
 MsgClear();
 ChClose(4);

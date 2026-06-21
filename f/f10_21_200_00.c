@@ -41,8 +41,8 @@ ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("F102120000_21_020");
 MsgDisp("Michiru","Hey.
-If the reason is complicated, I want to know
-even more.");
+If the reason is complicated, I want to
+know even more.");
 MsgDisp("主人公","(What on earth are they talking about?)");
 BGMStop();
 MsgClose();

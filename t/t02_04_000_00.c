@@ -26,8 +26,8 @@ ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("T020400000_04_020");
 MsgDisp("Nanatsumori","...Hey.
-The fact that you're here makes me wonder if
-I can have a little bit of hope.");
+The fact that you're here makes me wonder
+if I can have a little bit of hope.");
 ChEye(4,0);
 ChMouth(4,0);
 VoicePlay("T020400000_04_030");
@@ -64,8 +64,8 @@ VoicePlay("T020400000_04_080");
 MsgDisp("Nanatsumori","From that day on, was when I truly fell in
 love with you.");
 VoicePlay("T020400000_04_090");
-MsgDisp("Nanatsumori","To be honest, when I first met you I thought
-you were a pain.");
+MsgDisp("Nanatsumori","To be honest, when I first met you I
+thought you were a pain.");
 ChMotion(4,2,1);
 VoicePlay("T020400000_04_100");
 MsgDisp("Nanatsumori","But...before I knew it, the tables
@@ -84,8 +84,8 @@ MsgDisp("Nanatsumori","But, you were always getting closer to me
 with a smile on your face.
 Always, and always...");
 VoicePlay("T020400000_04_130");
-MsgDisp("Nanatsumori","Your kindness and warmth gradually dispelled
-the darkness in my heart.");
+MsgDisp("Nanatsumori","Your kindness and warmth gradually
+dispelled the darkness in my heart.");
 MsgClear();
 ChClose(4);
 ChCustomLayout(4,5,0,-2.8);

@@ -47,8 +47,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("F100740001_07_040");
-MsgDisp("Mikage","I mean, I'm not always just getting scolded,
-you know?");
+MsgDisp("Mikage","I mean, I'm not always just getting
+scolded, you know?");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);

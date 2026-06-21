@@ -23,27 +23,28 @@ ChMouth(6,4);
 ChMotion(6,4);
 ChCheek(6,0);
 MsgDisp("Himuro","Sigh...
-I have to give my thanks to those guys too.");
+I have to give my thanks to those
+guys too.");
 VoicePlay("T020620000_06_130");
 ChEye(6,4);
 ChMouth(6,4);
-MsgDisp("Himuro","It's pathetic but, I think they gave me the
-push I needed.");
+MsgDisp("Himuro","It's pathetic but, I think they gave me
+the push I needed.");
 MsgDisp("主人公","Hehe, is that so?");
 VoicePlay("T020620000_06_140");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
-MsgDisp("Himuro","But if I don't tell them about this in detail
-they'll just come and tease me... that would
-be be a real nuisance.");
+MsgDisp("Himuro","But if I don't tell them about this in
+detail they'll just come and tease me...
+that would be be a real nuisance.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("T020620000_06_150");
 ChEye(6,4);
 ChMouth(6,3);
 ChMotion(6,0);
-MsgDisp("Himuro","So, just for now, let me have that smile all
-to myself.");
+MsgDisp("Himuro","So, just for now, let me have that smile
+all to myself.");
 BGMStop(2.8);
 MsgClear();
 ScrFadeOut(0,1);

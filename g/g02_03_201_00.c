@@ -2,8 +2,8 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,4,4,#1,#1,0,0);
 VoicePlay("G020320100_03_000");
-MsgDisp("Honda","...Hey, this might not be the right place to
-ask this, but.");
+MsgDisp("Honda","...Hey, this might not be the right place
+to ask this, but.");
 ChEye(3,2);
 ChMouth(3,2);
 ChMotion(3,4);
@@ -14,8 +14,8 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020320100_03_020");
-MsgDisp("Honda","If it's just my imagination or I'm misreading
-things, that's fine.");
+MsgDisp("Honda","If it's just my imagination or I'm
+misreading things, that's fine.");
 ChEye(3,2);
 ChMouth(3,0);
 ChMotion(3,2);
@@ -46,9 +46,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320100_03_070");
-MsgDisp("Honda","There's no point in worrying about uncertain
-things. Thanks to you, I understand the
-situation now.");
+MsgDisp("Honda","There's no point in worrying about
+uncertain things. Thanks to you, I
+understand the situation now.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3);
@@ -60,8 +60,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020320100_03_090");
-MsgDisp("Honda","Yeah. I know exactly what outcome I want to
-achieve.
+MsgDisp("Honda","Yeah. I know exactly what outcome I want
+to achieve.
 I'm good at working backward from there!");
 MsgDisp("主人公","(I wonder what kind of answer ｛Honda＊＊｝
 wants to arrive at...)");

@@ -20,8 +20,8 @@ It's from ｛Kazama＊＊｝.");
         case 0:
         VoicePlay("S040100000_01_020");
         MsgDisp("Kazama","Nice answer.
-I'll take my time coming there, so don't rush
-getting ready.");
+I'll take my time coming there, so don't
+rush getting ready.");
         MsgDisp("主人公","You're coming to pick me up?
 Thanks.");
         VoicePlay("S040100000_01_030");
@@ -95,7 +95,8 @@ You'll make me feel like I got rejected.
 See you.");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he took the time to invite me...
+        MsgDisp("主人公","(Even though he took the time to
+invite me...
 Was that the right choice?...)");
         break ;
         default :

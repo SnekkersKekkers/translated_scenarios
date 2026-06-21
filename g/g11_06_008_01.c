@@ -44,8 +44,8 @@ ChEye(6,0);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("G110600801_06_040");
-MsgDisp("Himuro","You always smile at the flowers while you're
-working, don't you?");
+MsgDisp("Himuro","You always smile at the flowers while
+you're working, don't you?");
 MsgDisp("主人公","Eh, is that so?");
 ChEye(6,0);
 ChMouth(6,0);

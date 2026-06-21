@@ -16,9 +16,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020340002_03_020");
-MsgDisp("Honda","But the other day, I happened to see someone
-on a foreign site with piercings all over
-their body.");
+MsgDisp("Honda","But the other day, I happened to see
+someone on a foreign site with piercings
+all over their body.");
 MsgDisp("主人公","Eh, all over...?");
 ChEye(3,4);
 ChMouth(3,3);
@@ -30,8 +30,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020340002_03_040");
-MsgDisp("Honda","But, like, the belly button...oh, and maybe
-even the tongue seems interesting.
+MsgDisp("Honda","But, like, the belly button...oh, and
+maybe even the tongue seems interesting.
 I wonder what it feels like when you eat!");
 MsgDisp("主人公","Maybe...
 Rather than for fashion this is out of
@@ -41,8 +41,8 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020340002_03_050");
 MsgDisp("Honda","Right, right!
-Once you start with one, two, three, it could
-get pretty interesting.");
+Once you start with one, two, three, it
+could get pretty interesting.");
 MsgDisp("主人公","Y-Yeah...");
 ChEye(3,4);
 ChMouth(3,0);
@@ -57,8 +57,8 @@ ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020340002_03_070");
 MsgDisp("Honda","I wouldn't go so far as to satisfy my
-curiosity if it makes anyone, especially you,
-uncomfortable.");
+curiosity if it makes anyone, especially
+you, uncomfortable.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);

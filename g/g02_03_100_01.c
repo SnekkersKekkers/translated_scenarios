@@ -24,8 +24,8 @@ ChMouth(3,0);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310001_03_030");
-MsgDisp("Honda","And when I told her I probably do, maybe even
-more so with you, she got mad at me.");
+MsgDisp("Honda","And when I told her I probably do, maybe
+even more so with you, she got mad at me.");
 MsgDisp("主人公","Hehe!");
 ChEye(3,3);
 ChMouth(3,3);
@@ -48,8 +48,8 @@ My sister's sign is to stay silent with a
 straight face for five seconds.");
 ChMouth(3,3);
 VoicePlay("G020310001_03_070");
-MsgDisp("Honda","When she does that, I either stop talking or
-change the subject.");
+MsgDisp("Honda","When she does that, I either stop talking
+or change the subject.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);

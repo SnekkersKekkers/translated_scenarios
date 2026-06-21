@@ -11,8 +11,8 @@ ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("T020200020_02_000");
 MsgDisp("Sassa","Eh...");
-MsgDisp("主人公","I was also happy to have the opportunity to
-help ｛Sassa＊＊｝ achieve his dream.");
+MsgDisp("主人公","I was also happy to have the opportunity
+to help ｛Sassa＊＊｝ achieve his dream.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -30,8 +30,8 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020200020_02_030");
-MsgDisp("Sassa","Maybe it was already decided from the first
-day I ran alongside you...");
+MsgDisp("Sassa","Maybe it was already decided from the
+first day I ran alongside you...");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);

@@ -11,8 +11,8 @@ switch (ChPrmGet(6,6)){
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(It's starting already...turns out I really
-am anxious.)");
+    MsgDisp("主人公","(It's starting already...turns out I
+really am anxious.)");
     VoicePlay("P230600000_06_000");
     MsgDisp("Himuro?","Relax.");
     MsgClose();
@@ -24,8 +24,8 @@ am anxious.)");
     ChMotion(6,0);
     VoicePlay("P230600000_06_010");
     MsgDisp("Himuro","You've practised a lot, haven't you?
-So, you'll be fine if you do it just as you
-always have.");
+So, you'll be fine if you do it just as
+you always have.");
     MsgDisp("主人公","Yeah, that's right...");
     ChEye(6,0);
     ChMouth(6,0);

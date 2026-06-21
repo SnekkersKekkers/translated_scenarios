@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620300_06_010");
-MsgDisp("Himuro","So, how do you draw the line between that and
-hanging out with friends?");
+MsgDisp("Himuro","So, how do you draw the line between that
+and hanging out with friends?");
 MsgDisp("主人公","Hmmm...");
 ChEye(6,0);
 ChMouth(6,0);
@@ -32,7 +32,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620300_06_040");
-MsgDisp("Himuro","Well, I guess everyone has their own answer.");
+MsgDisp("Himuro","Well, I guess everyone has their
+own answer.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -52,8 +53,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620300_06_070");
-MsgDisp("Himuro","Yet, people enjoy dating and are attracted to
-those with different values.");
+MsgDisp("Himuro","Yet, people enjoy dating and are attracted
+to those with different values.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -66,8 +67,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620300_06_090");
 MsgDisp("Himuro","Truly, complicated...");
-MsgDisp("主人公","(Seeing ｛Himuro＊＊｝ this troubled is kind of
-rare huh...?)");
+MsgDisp("主人公","(Seeing ｛Himuro＊＊｝ this troubled is kind
+of rare huh...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

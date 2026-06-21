@@ -48,9 +48,9 @@ three-legged race with ｛Kazama＊＊｝.)");
     ChOpen(1,30,0,0,2,#1,#1,0,0);
     VoicePlay("O030101000_01_030");
     MsgDisp("Kazama","So you were over here.");
-    MsgDisp("主人公","Ah, ｛Kazama＊＊｝. Everyone's looking for you,
-you know? Seems like they want to be your
-partner, ｛Kazama＊＊｝.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝. Everyone's looking for
+you, you know? Seems like they want to be
+your partner, ｛Kazama＊＊｝.");
     ChEye(1,0);
     ChMouth(1,1);
     ChMotion(1,3);
@@ -72,8 +72,8 @@ Come on, let's tie our legs together.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O030101000_01_060");
-    MsgDisp("Kazama","It'll be easier to tell that we're partners
-that way, right?");
+    MsgDisp("Kazama","It'll be easier to tell that we're
+partners that way, right?");
     MsgDisp("主人公","Y-Yeah.");
     break ;
     case 4:

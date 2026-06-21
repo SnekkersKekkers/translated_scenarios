@@ -40,6 +40,7 @@ ChMotion(5,0);
 VoicePlay("H5G0500000_05_050");
 MsgDisp("Hiiragi","Really, congratulations.");
 MsgDisp("主人公","(I'm so happy!
-I'm glad I practised so hard for brass band!)");
+I'm glad I practised so hard for
+brass band!)");
 MsgClose();
 ScrFadeOut(0,0);

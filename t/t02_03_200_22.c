@@ -25,8 +25,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020320000_03_320");
-MsgDisp("Honda","No. Because with all these unexpected things,
-it's just too much fun.");
+MsgDisp("Honda","No. Because with all these unexpected
+things, it's just too much fun.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);

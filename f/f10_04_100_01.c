@@ -55,7 +55,8 @@ MsgDisp("主人公","Phew...");
 SEPlay("EV_SE_643");
 MsgDisp("","(*Thud*)");
 VoicePlay("F100410001_04_060");
-MsgDisp("Nanatsumori","Geez... You don't have to drop something too.");
+MsgDisp("Nanatsumori","Geez...
+You don't have to drop something too.");
 MsgDisp("主人公","(I also dropped the log∋)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -80,8 +80,8 @@ I feel bad about that...)");
 Now I finally understand.");
         VoicePlay("J060301000_03_110");
         MsgDisp("Honda","I was getting carried away all by myself
-again. That's why I wasn't prepared for the
-rejection.");
+again. That's why I wasn't prepared for
+the rejection.");
         MsgDisp("主人公","Uh...sorry.");
         VoicePlay("J060301000_03_120");
         MsgDisp("Honda","No, you don't have to apologise!

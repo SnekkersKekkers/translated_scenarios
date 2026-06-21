@@ -17,14 +17,14 @@ championship...
 It's so frustrating...");
     VoicePlay("H2A0500001_05_000");
     MsgDisp("Hiiragi","I see.");
-    MsgDisp("主人公","But you know, a lot of members also set new
-personal bests today.");
+    MsgDisp("主人公","But you know, a lot of members also set
+new personal bests today.");
     ChMotion(5,4);
     Wait(12,0);
     ChEyeOpenLevel(5,0);
     VoicePlay("H2A0500001_05_010");
-    MsgDisp("Hiiragi","Then this must be even more disappointing to
-those players.");
+    MsgDisp("Hiiragi","Then this must be even more disappointing
+to those players.");
     MsgDisp("主人公","Hm?");
     ChEye(5,0);
     ChMotion(5,0);
@@ -36,12 +36,12 @@ have been aiming for the championship.");
     MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
     ChEye(5,4);
     VoicePlay("H2A0500001_05_030");
-    MsgDisp("Hiiragi","Please, continue this conversation with the
-team members.
+    MsgDisp("Hiiragi","Please, continue this conversation with
+the team members.
 They are waiting over there.");
-    MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝. We might have lost,
-but I'm glad that I stayed as the track and
-field club manager...)");
+    MsgDisp("主人公","(Thank you, ｛Hiiragi＊＊＊｝. We might have
+lost, but I'm glad that I stayed as the
+track and field club manager...)");
     break ;
     default :
     DbgAssert(1);

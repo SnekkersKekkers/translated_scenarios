@@ -10,7 +10,8 @@ switch (ChPrmGet(3,6)){
 This is handmade, right?");
     ChMotion(3,4);
     VoicePlay("L040300005_03_010");
-    MsgDisp("Honda","Then is this topping something that you like?");
+    MsgDisp("Honda","Then is this topping something that
+you like?");
     MsgDisp("主人公","What?");
     ChEye(3,0);
     ChMouth(3,3);
@@ -80,8 +81,8 @@ from you!");
     MsgDisp("Honda","Then, I'll savour this, okay?
 Thanks!");
     MsgDisp("主人公","(...?
-I wonder if there was something in it that he
-didn't like...)");
+I wonder if there was something in it that
+he didn't like...)");
     break ;
     default :
     DbgAssert(1);

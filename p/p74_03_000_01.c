@@ -11,7 +11,8 @@ ChOpen(3,254,1,0,4,#1,#1,0,0);
 VoiceEVSPlay(3);
 VoicePlay("P740300001_03_000");
 MsgDisp("Honda","｛主人公｝, are you alright?");
-MsgDisp("主人公","Yeah... But, I fell in such a flashy way...");
+MsgDisp("主人公","Yeah...
+But, I fell in such a flashy way...");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0,1);

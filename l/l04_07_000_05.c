@@ -72,20 +72,21 @@ You added a lot～");
     ChMotion(7,0);
     VoicePlay("L040700005_07_070");
     MsgDisp("Mikage","It's good.
-You considered a lot while making it, right?");
+You considered a lot while making
+it, right?");
     ChEye(7,1);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("L040700005_07_080");
-    MsgDisp("Mikage","It is interesting that you're trying to tease
-me with this, though.");
+    MsgDisp("Mikage","It is interesting that you're trying to
+tease me with this, though.");
     MsgDisp("主人公","Huh?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("L040700005_07_090");
-    MsgDisp("Mikage","Like adding salt to a watermelon to make it
-sweeter?
+    MsgDisp("Mikage","Like adding salt to a watermelon to make
+it sweeter?
 Or maybe you're just having fun with me.");
     MsgDisp("主人公","(Salt? Having fun? ...Ah!
 Could it be that I added something he

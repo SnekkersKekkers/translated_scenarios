@@ -19,8 +19,8 @@ Thank you.");
     ChEye(4,4);
     ChMotion(4,0,1);
     VoicePlay("H1A0400001_04_020");
-    MsgDisp("Nanatsumori","Just the fact that you guys made it here is
-admirable.
+    MsgDisp("Nanatsumori","Just the fact that you guys made it here
+is admirable.
 Really, good work.");
     MsgDisp("主人公","(We might have lost, but I'm glad that I
 stayed as the baseball club manager...)");
@@ -50,8 +50,8 @@ Ugh, we lost...");
     ChMotion(4,2,1);
     VoicePlay("H1A0400001_04_060");
     MsgDisp("Nanatsumori","Sigh～... Being frustrated, or sad.
-Being happy, or tickled, it makes you want to
-cry. Humans are complicated, huh?");
+Being happy, or tickled, it makes you want
+to cry. Humans are complicated, huh?");
     MsgDisp("主人公","...Hehe. I guess so?");
     ChEye(4,2);
     ChMouth(4,3);

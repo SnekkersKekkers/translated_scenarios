@@ -23,14 +23,15 @@ the day.");
         case 5:
         VoicePlay("J060201000_02_020");
         MsgDisp("Sassa","Really? Cool!
-Okay, let's decide where we're going to meet.");
+Okay, let's decide where we're going
+to meet.");
         MsgDisp("主人公","Yeah.
 Okay, then, how about we meet at the
 ｛待ち合わせ場所｝?");
         VoicePlay("J060201000_02_030");
         MsgDisp("Sassa","Yeah, works for me.
-Well, I'm tall, so you'll spot me wherever I
-am, right?");
+Well, I'm tall, so you'll spot me wherever
+I am, right?");
         MsgDisp("主人公","Hmmm...easy to find, isn't it?");
         VoicePlay("J060201000_02_040");
         MsgDisp("Sassa","Oh, you laughed.

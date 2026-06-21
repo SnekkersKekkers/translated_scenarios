@@ -16,8 +16,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("G020620100_06_020");
-MsgDisp("Himuro","It's not just me, you're close with someone
-else, aren't you?");
+MsgDisp("Himuro","It's not just me, you're close with
+someone else, aren't you?");
 MsgDisp("主人公","...Could it be—");
 ChEye(6,1);
 ChMouth(6,0);
@@ -30,8 +30,8 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620100_06_040");
-MsgDisp("Himuro","I don't want to hear that person's name come
-out of your mouth.");
+MsgDisp("Himuro","I don't want to hear that person's name
+come out of your mouth.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -47,9 +47,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620100_06_070");
-MsgDisp("Himuro","This is a declaration of war against the guy
-next to you right now and a statement of
-resolve toward myself.");
+MsgDisp("Himuro","This is a declaration of war against the
+guy next to you right now and a statement
+of resolve toward myself.");
 MsgDisp("主人公","Y-Yes.");
 ChEye(6,1);
 ChMouth(6,0);
@@ -63,8 +63,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620100_06_090");
-MsgDisp("Himuro","I will definitely reclaim it, both the place
-next to you and your feelings.");
+MsgDisp("Himuro","I will definitely reclaim it, both the
+place next to you and your feelings.");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);

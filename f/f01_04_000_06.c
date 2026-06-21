@@ -20,8 +20,8 @@ I'll go straight home.)");
     ChMouth(4,0);
     ChMotion(4,1,1);
     VoicePlay("F010400006_04_010");
-    MsgDisp("Nanatsumori","I'd like to talk with you, but I don't have
-time to stop.
+    MsgDisp("Nanatsumori","I'd like to talk with you, but I don't
+have time to stop.
 Sorry.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

@@ -54,8 +54,8 @@ It's because everyone did their best.");
     ChMotion(22,4,1);
     VoicePlay("H2A2200000_22_030");
     MsgDisp("Hikaru","You too, Mari!
-It's because their manager was so good that
-the track team did their best.");
+It's because their manager was so good
+that the track team did their best.");
     MsgDisp("主人公","Hehe!");
     ChEye(22,3);
     ChMouth(22,3);
@@ -63,7 +63,8 @@ the track team did their best.");
     ChEyeOpenLevel(22,0);
     VoicePlay("H2A2200000_22_040");
     MsgDisp("Hikaru","There!
-Mari's smile gives everyone strength♪ Aha▼");
+Mari's smile gives everyone strength♪
+Aha▼");
     MsgDisp("主人公","(I'm glad that I stayed as the track and
 field club manager!)");
     BGMStop();

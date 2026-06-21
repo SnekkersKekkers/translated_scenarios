@@ -76,9 +76,9 @@ people's exam results...");
     MsgDisp("Honda","I just think it would be nice if your name
 appeared higher up.
 I wonder why...");
-    MsgDisp("主人公","(To be honest, it is a bit embarrassing to be
-with ｛Honda＊＊｝ who is currently leading the
-grade...)");
+    MsgDisp("主人公","(To be honest, it is a bit embarrassing to
+be with ｛Honda＊＊｝ who is currently
+leading the grade...)");
     break ;
     default :
     DbgAssert(1);

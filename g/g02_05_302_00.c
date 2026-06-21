@@ -1,8 +1,9 @@
 MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("G020530200_05_000");
-MsgDisp("Hiiragi","Since entering Haba High, I've been trying
-various things I haven't experienced before.");
+MsgDisp("Hiiragi","Since entering Haba High, I've been
+trying various things I haven't
+experienced before.");
 ChMotion(5,4);
 VoicePlay("G020530200_05_010");
 MsgDisp("Hiiragi","Even just going to school every day is a new
@@ -13,8 +14,8 @@ theatre troupe.
 It really must be tough.");
 ChEye(5,4);
 VoicePlay("G020530200_05_020");
-MsgDisp("Hiiragi","I've been working in a theatre company for as
-long as I can remember.
+MsgDisp("Hiiragi","I've been working in a theatre company for
+as long as I can remember.
 It's not a hardship.");
 ChEye(5,3);
 ChMotion(5,0);
@@ -30,8 +31,9 @@ It feels just like a school cafeteria.");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("G020530200_05_050");
-MsgDisp("Hiiragi","It's my favourite time when we discuss
-various things related to what we've chosen.");
+MsgDisp("Hiiragi","It's my favourite time when we
+discuss various things related to
+what we've chosen.");
 MsgDisp("主人公","I also like the school cafeteria.");
 ChEye(5,3);
 ChMouth(5,4);

@@ -5,8 +5,8 @@ I haven't received any cardboard yet?");
 MsgDisp("主人公","Eh∋
 Even though I only refilled it just now...");
 VoicePlay("P840500003_48_010");
-MsgDisp("School Girl","Someone wrote in the admin notebook that they
-took thirty boxes...");
+MsgDisp("School Girl","Someone wrote in the admin notebook that
+they took thirty boxes...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 SEWait();

@@ -9,20 +9,21 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640002_06_010");
-MsgDisp("Himuro","I started by chance, and deep down I thought
-I'd get bored of it one day.");
+MsgDisp("Himuro","I started by chance, and deep down I
+thought I'd get bored of it one day.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020640002_06_020");
-MsgDisp("Himuro","But the feeling of riding the waves, the wind
-on my body, the splashes of water flowing by
-while sparkling...");
+MsgDisp("Himuro","But the feeling of riding the waves, the
+wind on my body, the splashes of water
+flowing by while sparkling...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640002_06_030");
-MsgDisp("Himuro","Before I knew it, it had become a part of me.");
+MsgDisp("Himuro","Before I knew it, it had become a part
+of me.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -40,8 +41,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020640002_06_060");
-MsgDisp("Himuro","Wonder what would have happened if I'd been
-invited to play baseball...");
+MsgDisp("Himuro","Wonder what would have happened if I'd
+been invited to play baseball...");
 MsgDisp("主人公","Maybe you would've aimed for Koushien?");
 ChEye(6,0);
 ChMouth(6,4);

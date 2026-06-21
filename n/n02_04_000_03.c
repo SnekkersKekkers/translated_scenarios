@@ -60,8 +60,8 @@ concerning...");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("N020400003_04_080");
-    MsgDisp("Nanatsumori","Maybe I shouldn't say this but, if you need
-anything I'm here.
+    MsgDisp("Nanatsumori","Maybe I shouldn't say this but, if you
+need anything I'm here.
 I'll help you as much as I can.");
     MsgDisp("主人公","(Oof... I really have to study harder...)");
     break ;

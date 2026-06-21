@@ -28,7 +28,8 @@ You don't mean me, do you?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Um... I definitely shouldn't call him that.)");
+    MsgDisp("主人公","(Um...
+I definitely shouldn't call him that.)");
     break ;
     case 4:
     case 5:
@@ -43,7 +44,8 @@ But no, no no no. Not that.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(7);
-    MsgDisp("主人公","(Um... I definitely shouldn't call him that.)");
+    MsgDisp("主人公","(Um...
+I definitely shouldn't call him that.)");
     break ;
     default :
     DbgAssert(1);

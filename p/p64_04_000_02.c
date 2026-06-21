@@ -5,8 +5,8 @@ ChMouth(4,3);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("P640400002_04_000");
-MsgDisp("Nanatsumori","The herbs are pretty and the vegetables are
-colourful.
+MsgDisp("Nanatsumori","The herbs are pretty and the vegetables
+are colourful.
 This atmosphere is also nice.");
 MsgDisp("主人公","The colours of the vegetables are really
 pretty, huh?");

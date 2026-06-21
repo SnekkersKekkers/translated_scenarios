@@ -43,8 +43,8 @@ club manager...)");
     ChMotion(21,0);
     VoicePlay("H2A2100001_21_040");
     MsgDisp("Michiru","But Mari, please smile?
-It's the manager's job to cheer up the team
-members who did their best, right?");
+It's the manager's job to cheer up the
+team members who did their best, right?");
     MsgDisp("主人公","...Yes!");
     ChEye(21,4);
     ChMouth(21,3);

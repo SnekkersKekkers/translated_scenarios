@@ -25,8 +25,8 @@ On behalf of Haba High, thank you.");
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("X120700003_07_010");
-    MsgDisp("Mikage","You're pretty skilled at running the student
-council huh?
+    MsgDisp("Mikage","You're pretty skilled at running the
+student council huh?
 It's not something anyone can do.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;

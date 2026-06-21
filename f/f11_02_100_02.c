@@ -2,7 +2,8 @@ BGOpen("sc710",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","(The festival is even bigger this year...
-There must be a lot of non-school visitors.)");
+There must be a lot of non-school
+visitors.)");
 VoicePlay("F110210002_49_000");
 MsgDisp("Woman","What's this?
 \"The Classroom Kiddie Race\"!");
@@ -12,7 +13,8 @@ MsgDisp("主人公","(Classroom Kiddie Race...?)");
 MsgClose();
 ChOpen(2,254,3,0,3,#1,#1,0,0);
 VoicePlay("F110210002_02_000");
-MsgDisp("Sassa","This year, we registered it with management.
+MsgDisp("Sassa","This year, we registered it with
+management.
 Now, we're doing a class race.");
 MsgDisp("主人公","Heh, I see.
 That boy earlier looked really happy.");
@@ -28,7 +30,7 @@ MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(｛Sassa＊＊｝ does tough training every day
-so I'm glad he got to have fun running with
-the kids!)");
+so I'm glad he got to have fun running
+with the kids!)");
 MsgClose();
 ScrFadeOut(0);

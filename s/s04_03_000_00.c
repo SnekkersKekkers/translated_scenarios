@@ -42,7 +42,8 @@ See you later!");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
         MsgDisp("主人公","(Even though he took the trouble to invite
-me, I wonder if I made the wrong choice...)");
+me, I wonder if I made the wrong
+choice...)");
         break ;
         default :
         DbgAssert(0);
@@ -66,8 +67,8 @@ Treat me well this year.");
 Are you home right now?");
     MsgDisp("主人公","Yep, what's up?");
     VoicePlay("S040300000_03_080");
-    MsgDisp("Honda","If you're free, would you want to visit the
-shrine with me?");
+    MsgDisp("Honda","If you're free, would you want to visit
+the shrine with me?");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){
         case 0:
@@ -106,8 +107,8 @@ My invitation was too sudden.
 See you later...");
         SEPlay("SYS_SE_PHONE_POWER_ON");
         SEWait();
-        MsgDisp("主人公","(Even though he went through the trouble of
-inviting me.
+        MsgDisp("主人公","(Even though he went through the trouble
+of inviting me.
 Did I make the wrong choice...)");
         break ;
         default :

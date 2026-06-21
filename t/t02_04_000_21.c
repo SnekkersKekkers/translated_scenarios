@@ -23,7 +23,8 @@ ChEye(4,0);
 ChMotion(4,0,1);
 ChCheek(4,0);
 VoicePlay("T020400000_04_270");
-MsgDisp("Nanatsumori","Hm... But I didn't expect that to come first.");
+MsgDisp("Nanatsumori","Hm...
+But I didn't expect that to come first.");
 MsgDisp("主人公","?");
 ChEye(4,0);
 ChMouth(4,0);
@@ -41,7 +42,8 @@ ScrFadeIn(0);
 VoiceEVSPlay(4);
 VoicePlay("T020400000_04_290");
 MsgDisp("Nanatsumori","｛主人公｝.
-I...promise to love you, for my whole life.");
+I...promise to love you, for my
+whole life.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 VoicePlay("T020400000_04_300");
 MsgDisp("Nanatsumori","I love you...");

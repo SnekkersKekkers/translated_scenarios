@@ -5,7 +5,8 @@ switch (ChPrmGet(3,6)){
     VoicePlay("J030300000_03_000");
     MsgDisp("Honda","Yeah, it's okay.");
     MsgDisp("主人公","Then, let's meet on ｛日付｝.
-I'll wait for you at the ｛待ち合わせ場所｝.");
+I'll wait for you at the
+｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_010");
     MsgDisp("Honda","You got it～!");
     SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -34,7 +35,8 @@ you know?");
     MsgDisp("Honda","Ahh, that would be a bit much, huh?
 Sorry, sorry.");
     MsgDisp("主人公","Then let's meet on ｛日付｝.
-I'll wait for you at the ｛待ち合わせ場所｝.");
+I'll wait for you at the
+｛待ち合わせ場所｝.");
     VoicePlay("J030300000_03_060");
     MsgDisp("Honda","Ah, wait!!");
     MsgDisp("主人公","Is something wrong?");

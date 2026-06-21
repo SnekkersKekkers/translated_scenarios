@@ -12,7 +12,8 @@ ChEyeOpenLevel(1,0);
 Wait(10,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("P840100001_01_000");
-MsgDisp("Kazama","I have the \"lost and found\"-san's lost item.");
+MsgDisp("Kazama","I have the \"lost and found\"-san's
+lost item.");
 MsgDisp("主人公","That's my wallet!
 Thank you for finding it, ｛Kazama＊＊｝...");
 ChEye(1,2);

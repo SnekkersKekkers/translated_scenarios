@@ -9,8 +9,8 @@ girls in elementary and middle school.");
 VoicePlay("F100330000_03_000");
 MsgDisp("Honda?","Really?
 My little sister will be happy too!");
-MsgDisp("主人公","(Ah...it's ｛Honda＊＊｝, ｛ひかる＊｝ and
-｛みちる＊｝'s voices.)");
+MsgDisp("主人公","(Ah...it's ｛Honda＊＊｝, ｛ひかる＊｝
+and ｛みちる＊｝'s voices.)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -50,8 +50,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100330000_03_010");
-MsgDisp("Honda","Right, right, in her room she has posters of
-her favourite idol, plus Pika-chan and
+MsgDisp("Honda","Right, right, in her room she has posters
+of her favourite idol, plus Pika-chan and
 Chiru-chan, all hung up.");
 ChEye(22,0);
 ChMouth(22,1);
@@ -77,8 +77,8 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("F100330000_21_020");
 MsgDisp("Michiru","Hehe, it's alright isn't it?
-Well, for your little sister to call us that
-anyways.");
+Well, for your little sister to call us
+that anyways.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);

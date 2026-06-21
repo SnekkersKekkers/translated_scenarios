@@ -7,8 +7,8 @@ switch (ChPrmGet(7,6)){
     case 2:
     break ;
     case 3:
-    MsgDisp("主人公","(I don't know what's going to happen at the
-cultural festival, so I have to patrol
+    MsgDisp("主人公","(I don't know what's going to happen at
+the cultural festival, so I have to patrol
 carefully...!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -36,9 +36,9 @@ to patrol.");
     VoicePlay("P830700002_07_020");
     MsgDisp("Mikage","If there's trouble, you'll fix it huh?
 As expected of the best year.");
-    MsgDisp("主人公","Hehe, I've been managing the school festival
-for three years and that's why I know how to
-do it.");
+    MsgDisp("主人公","Hehe, I've been managing the school
+festival for three years and that's why I
+know how to do it.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
@@ -49,8 +49,8 @@ But, don't do anything unreasonable.");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(I don't know what's going to happen at the
-cultural festival, so I have to patrol
+    MsgDisp("主人公","(I don't know what's going to happen at
+the cultural festival, so I have to patrol
 carefully...!)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -61,8 +61,8 @@ carefully...!)");
     MsgDisp("Mikage","｛主人公｝.
 What are doing all alone?");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
-Ah right now I'm in the middle of patrolling
-inside the school.");
+Ah right now I'm in the middle of
+patrolling inside the school.");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,1);
@@ -80,14 +80,15 @@ trouble.");
 Will the main building be alright without
 you there?");
     MsgDisp("主人公","Yes.
-The first and second year students are doing
-their best.");
+The first and second year students are
+doing their best.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);
     VoicePlay("P830700002_07_070");
-    MsgDisp("Mikage","That's right, before I've realised, you've
-become a wonderful young lady, haven't you?");
+    MsgDisp("Mikage","That's right, before I've realised,
+you've become a wonderful young lady,
+haven't you?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);

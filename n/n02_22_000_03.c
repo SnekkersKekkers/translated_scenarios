@@ -2,7 +2,8 @@ MsgClose();
 ChOpen(22,254,0,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("N022200003_22_000");
-MsgDisp("Hikaru","Uh oh～ Mari, is that really your name there?");
+MsgDisp("Hikaru","Uh oh～
+Mari, is that really your name there?");
 MsgDisp("主人公","Ah... ｛ひかる＊｝.");
 ChEye(22,2);
 ChMouth(22,2);

@@ -19,8 +19,8 @@ ChMouth(31,3);
 ChMotion(31,4);
 VoicePlay("F102220001_31_010");
 MsgDisp("Goro","Hello.
-I came here because I wanted someone to try
-on my new work.");
+I came here because I wanted someone to
+try on my new work.");
 MsgDisp("主人公","Eh, you mean ｛ひかる＊｝?");
 ChEye(22,4);
 ChMouth(22,3);
@@ -45,7 +45,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102220001_22_020");
 MsgDisp("Hikaru","Amazing～?
-Lacy, fluffy shorts and a gold riders jacket.");
+Lacy, fluffy shorts and a gold
+riders jacket.");
 ChEye(22,4);
 ChMouth(22,3);
 ChMotion(22,0,1);
@@ -68,11 +69,11 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("F102220001_22_040");
-MsgDisp("Hikaru","No～... Hikaru can see why Uncle is the best
-in the world.
+MsgDisp("Hikaru","No～... Hikaru can see why Uncle is the
+best in the world.
 No one else would have thought of that.");
-MsgDisp("主人公","(Maybe I would've liked to see the designs by
-Goro-sensei...?)");
+MsgDisp("主人公","(Maybe I would've liked to see the designs
+by Goro-sensei...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

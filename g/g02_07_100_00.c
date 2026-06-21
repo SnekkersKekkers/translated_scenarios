@@ -16,7 +16,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710000_07_020");
-MsgDisp("Mikage","That sounded a bit like a lecture just now.");
+MsgDisp("Mikage","That sounded a bit like a lecture
+just now.");
 MsgDisp("主人公","It's like I'm occupying ｛Mikage＊＊｝'s
 lesson by myself.
 I'm happy.");

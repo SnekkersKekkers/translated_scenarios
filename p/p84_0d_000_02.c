@@ -9,8 +9,8 @@ ChOpen(21,254,0,0,0,#1,#1,0,1);
 ChOpen(22,254,0,0,3,#1,#1,0,2);
 VoicePlay("P840D00002_21_000");
 MsgDisp("Michiru","That's a lovely list.
-Even though this is my first time seeing one,
-I know it's wonderful.");
+Even though this is my first time seeing
+one, I know it's wonderful.");
 VoicePlay("P840D00002_46_000");
 MsgDisp("School Girl","Excuse me, our blackout curtain ripped.
 Do you have any spares?");

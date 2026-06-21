@@ -62,8 +62,8 @@ ChMouth(6,4);
 ChEyeOpenLevel(6,7);
 VoicePlay("T020611000_06_060");
 MsgDisp("Himuro","I feel so stupid.
-Doing something like this wouldn't change the
-outcome.");
+Doing something like this wouldn't change
+the outcome.");
 Wait(60,0);
 ChEye(6,4);
 ChMouth(6,0);
@@ -87,8 +87,8 @@ ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("T020611000_06_090");
-MsgDisp("Himuro","No matter how childish or cowardly it is, I
-need you.");
+MsgDisp("Himuro","No matter how childish or cowardly it is,
+I need you.");
 ChEye(6,4);
 ChMouth(6,0);
 ChMotion(6,0);

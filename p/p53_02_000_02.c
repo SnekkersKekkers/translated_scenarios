@@ -36,8 +36,8 @@ practising it.");
     ChMotion(2,4);
     VoicePlay("P530200002_02_020");
     MsgDisp("Sassa","Is that so?
-I'll also recount things from this last year
-while listening to your performance.");
+I'll also recount things from this last
+year while listening to your performance.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(2,0);
@@ -46,8 +46,9 @@ while listening to your performance.");
     VoicePlay("P530200002_02_030");
     MsgDisp("Sassa","Then, have fun.");
     MsgDisp("主人公","Yes! I'm off.");
-    MsgDisp("主人公","(I'll also play carefully, remembering all
-the practice I've done over the past year!)");
+    MsgDisp("主人公","(I'll also play carefully, remembering
+all the practice I've done over the
+past year!)");
     break ;
     case 4:
     case 5:
@@ -61,8 +62,8 @@ last three years?)");
     VoiceEVSPlay(2);
     VoicePlay("P530200002_02_040");
     MsgDisp("Sassa","｛主人公｝.
-I guess this is the last time I'll hear you
-play... It's somewhat lonely.");
+I guess this is the last time I'll hear
+you play... It's somewhat lonely.");
     MsgDisp("主人公","Yeah, that's right huh.");
     ChEye(2,0);
     ChMouth(2,0);
@@ -76,8 +77,8 @@ the ground?");
     ChMouth(2,4);
     ChMotion(2,1);
     VoicePlay("P530200002_02_060");
-    MsgDisp("Sassa","Yeah, riding the wind. Then, miraculously, I
-was able to push on, shift into a higher
+    MsgDisp("Sassa","Yeah, riding the wind. Then, miraculously,
+I was able to push on, shift into a higher
 gear, and gain more power.");
     MsgDisp("主人公","Really?
 That makes me happy.");

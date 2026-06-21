@@ -11,9 +11,9 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("X120500003_05_000");
-    MsgDisp("Hiiragi","It is because you are there working with me,
-that I can overcome even the most difficult
-of tasks. Thank you, as always.");
+    MsgDisp("Hiiragi","It is because you are there working with
+me, that I can overcome even the most
+difficult of tasks. Thank you, as always.");
     MsgDisp("主人公","(Yay!)");
     break ;
     case 4:

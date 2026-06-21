@@ -75,8 +75,8 @@ ChMotion(3,5);
 VoicePlay("G020310304_03_100");
 MsgDisp("Honda","...but if I tell you now, it'd ruin the
 surprise, right?");
-MsgDisp("主人公","(｛Honda＊＊｝, you've been thinking about me
-like this...)");
+MsgDisp("主人公","(｛Honda＊＊｝, you've been thinking about
+me like this...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -53,25 +53,25 @@ ChEye(22,2);
 ChMouth(22,3);
 ChMotion(22,2,1);
 VoicePlay("F102230000_22_050");
-MsgDisp("Hikaru","Hikaru's never been able to guess the animal
-correctly.");
+MsgDisp("Hikaru","Hikaru's never been able to guess the
+animal correctly.");
 ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,2,1);
 VoicePlay("F102230000_21_020");
-MsgDisp("Michiru","That's because even though I'm good at making
-sweets, making animal bento side dishes is
-quite difficult.");
+MsgDisp("Michiru","That's because even though I'm good at
+making sweets, making animal bento side
+dishes is quite difficult.");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F102230000_22_060");
-MsgDisp("Hikaru","So, the character bento series will continue
-until Hikaru guesses right.
+MsgDisp("Hikaru","So, the character bento series will
+continue until Hikaru guesses right.
 Of course, it tastes good too♪");
-MsgDisp("主人公","(I see. But I wonder what kind of character
-bento it was where a polar bear looked like a
-rabbit...)");
+MsgDisp("主人公","(I see. But I wonder what kind of
+character bento it was where a polar bear
+looked like a rabbit...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

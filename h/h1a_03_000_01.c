@@ -13,8 +13,8 @@ MsgDisp("主人公","Ah, ｛Honda＊＊｝...");
 ChMotion(3,4);
 VoicePlay("H1A0300001_03_010");
 MsgDisp("Honda","You're not the only one frustrated, right?
-The players would feel even worse seeing your
-face, you know?");
+The players would feel even worse seeing
+your face, you know?");
 MsgDisp("主人公","...Yeah, you're right.
 Thank you, ｛Honda＊＊｝.");
 ChEye(3,0);

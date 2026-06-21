@@ -34,8 +34,8 @@ You were watching?");
     ChMotion(3,1);
     VoicePlay("O020300000_03_020");
     MsgDisp("Honda","Of course!
-It was a really good match that proved that
-tug of war isn't just about strength.");
+It was a really good match that proved
+that tug of war isn't just about strength.");
     MsgDisp("主人公","(I did it!
 I'm glad I did my best.)");
     break ;

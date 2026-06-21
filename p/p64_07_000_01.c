@@ -24,8 +24,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("P640700001_07_030");
-MsgDisp("Mikage","Even though it's herbal tea, you can't just
-throw herbs in there.");
+MsgDisp("Mikage","Even though it's herbal tea, you can't
+just throw herbs in there.");
 MsgDisp("主人公","Yes...");
 ChEye(7,2);
 ChMouth(7,0);

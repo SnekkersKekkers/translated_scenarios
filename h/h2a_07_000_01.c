@@ -31,14 +31,14 @@ I'm sorry I was such a careless advisor.");
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("H2A0700001_07_030");
-    MsgDisp("Mikage","For all that I was unreliable, you supported
-them with everything you had.");
+    MsgDisp("Mikage","For all that I was unreliable, you
+supported them with everything you had.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("H2A0700001_07_040");
-    MsgDisp("Mikage","Thanks to that, lots of members achieved new
-personal bests.");
+    MsgDisp("Mikage","Thanks to that, lots of members achieved
+new personal bests.");
     MsgDisp("主人公","Yes, everyone did their best...");
     ChEye(7,0);
     ChMouth(7,3);

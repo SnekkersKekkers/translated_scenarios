@@ -57,8 +57,9 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4,1);
 VoicePlay("F100540002_05_040");
-MsgDisp("Hiiragi","It is incredible that it will actually make
-you hungry...what happens if I ate two bowls?");
+MsgDisp("Hiiragi","It is incredible that it will actually
+make you hungry...what happens if I ate
+two bowls?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0,1);
@@ -71,8 +72,8 @@ ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("F100540002_07_050");
 MsgDisp("Mikage","｛主人公｝, that's why you should rest
-assured. Dinner will be even more delicious
-than usual.");
+assured. Dinner will be even more
+delicious than usual.");
 MsgDisp("主人公","Ummm...?");
 ChEye(7,0);
 ChMouth(7,3);

@@ -18,28 +18,29 @@ NSSEye(3,4);
 NSSMouth(3,0);
 VoicePlay("T040300000_03_010");
 MsgDisp("Honda","Right, right.
-A family of four enjoying Christmas in a big
-white house.");
+A family of four enjoying Christmas in a
+big white house.");
 NSSEye(3,0);
 NSSMouth(3,0);
 VoicePlay("T040300000_03_020");
 MsgDisp("Honda","A big tree popped out.
-When I was younger, I thought it was like my
-own house.");
+When I was younger, I thought it was like
+my own house.");
 MsgDisp("主人公","｛Honda＊＊｝ is also from a family of four
 isn't he?");
 NSSEye(3,0);
 NSSMouth(3,0);
 NSSEyeOpenLevel(3,0);
 VoicePlay("T040300000_03_030");
-MsgDisp("Honda","Yeah. But you now, things are different now.
+MsgDisp("Honda","Yeah.
+But you now, things are different now.
 At our house, I mean.");
 MsgDisp("主人公","Eh?");
 NSSEye(3,1);
 NSSMouth(3,3);
 VoicePlay("T040300000_03_040");
-MsgDisp("Honda","I don't know if it's just four living there
-anymore?");
+MsgDisp("Honda","I don't know if it's just four living
+there anymore?");
 NSSEye(3,3);
 NSSMouth(3,3);
 VoicePlay("T040300000_03_050");

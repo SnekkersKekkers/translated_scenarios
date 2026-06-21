@@ -3,8 +3,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630004_06_000");
-MsgDisp("Himuro","What are these grown adults and high school
-students doing?");
+MsgDisp("Himuro","What are these grown adults and high
+school students doing?");
 MsgDisp("主人公","Eh?");
 ChEye(6,0);
 ChMouth(6,4);
@@ -41,8 +41,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,1);
 VoicePlay("G020630004_06_060");
-MsgDisp("Himuro","Well, I'm a little proud of the relationship
-I have with those two.");
+MsgDisp("Himuro","Well, I'm a little proud of the
+relationship I have with those two.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);

@@ -7,8 +7,9 @@ switch (ChPrmGet(4,6)){
     case 1:
     case 2:
     case 3:
-    MsgDisp("主人公","(Today, I have to deliver coffee and snacks
-to ｛Nanatsumori＊｝'s modelling agency.)");
+    MsgDisp("主人公","(Today, I have to deliver coffee and
+snacks to ｛Nanatsumori＊｝'s modelling
+agency.)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -22,8 +23,8 @@ to ｛Nanatsumori＊｝'s modelling agency.)");
     MsgDisp("主人公","Excuse me!
 I'm delivering from Cafe Alucard.");
     MsgDisp("主人公","Hm?
-There's no one here, I wonder if they're all
-on break...");
+There's no one here, I wonder if they're
+all on break...");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     MsgClose();
@@ -48,7 +49,8 @@ Please enjoy them if you'd like.");
     ChMotion(4,0,1);
     VoicePlay("I360400007_04_020");
     MsgDisp("Nanatsumori","Seriously godly...
-Manager, thank you...please tell them that.");
+Manager, thank you...please tell
+them that.");
     MsgDisp("主人公","Hehe, got it.");
     ChEye(4,0);
     ChMouth(4,3);
@@ -67,8 +69,9 @@ He seemed really happy!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Today, I have to deliver coffee and snacks
-to ｛Nanatsumori＊｝'s modelling agency.)");
+    MsgDisp("主人公","(Today, I have to deliver coffee and
+snacks to ｛Nanatsumori＊｝'s modelling
+agency.)");
     SEPlay("EV_SE_DOOR_014");
     MsgClose();
     ScrFadeOut(0,0,10);
@@ -82,8 +85,8 @@ to ｛Nanatsumori＊｝'s modelling agency.)");
     MsgDisp("主人公","Excuse me!
 I'm delivering from Cafe Alucard.");
     MsgDisp("主人公","Hm?
-There's no one here, I wonder if they're all
-on break...");
+There's no one here, I wonder if they're
+all on break...");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     MsgClose();
@@ -93,8 +96,8 @@ on break...");
     VoiceEVSPlay(4);
     VoicePlay("I360400007_04_050");
     MsgDisp("Nanatsumori","｛主人公｝.
-I heard you were coming today, so I've been
-waiting.");
+I heard you were coming today, so I've
+been waiting.");
     MsgDisp("主人公","｛Nanatsumori＊｝!
 No one's here, huh?
 On break?");
@@ -140,8 +143,8 @@ Please enjoy it with everyone.");
     MsgDisp("Nanatsumori","Ah, aah...sure.
 I'm happy, I guess?");
     MsgDisp("主人公","?
-I thought you'd be the most happy about this,
-｛Nanatsumori＊｝...");
+I thought you'd be the most happy about
+this, ｛Nanatsumori＊｝...");
     ChEye(4,4);
     VoicePlay("I360400007_04_120");
     MsgDisp("Nanatsumori","Huh∋ I'm happy, you know?

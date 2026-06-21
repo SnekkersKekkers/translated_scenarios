@@ -16,8 +16,8 @@ Welcome.");
     MsgDisp("主人公","Yes, and you, ｛Hiiragi＊＊＊｝?");
     ChMotion(5,4);
     VoicePlay("I250500000_05_010");
-    MsgDisp("Hiiragi","I was looking for a magazine that I had done
-an interview for.");
+    MsgDisp("Hiiragi","I was looking for a magazine that I had
+done an interview for.");
     ChMotion(5,2);
     VoicePlay("I250500000_05_020");
     MsgDisp("Hiiragi","Aah, the entertainment corner...
@@ -56,8 +56,8 @@ Was it difficult to understand?");
     ChEye(5,3);
     VoicePlay("I250500000_05_060");
     MsgDisp("Hiiragi","I beg your pardon.
-Well, when I think of a joke that is easier
-to understand, I will return.");
+Well, when I think of a joke that is
+easier to understand, I will return.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("I250500000_05_070");

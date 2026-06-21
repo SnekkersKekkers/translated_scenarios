@@ -54,8 +54,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("E010730100_07_030");
-MsgDisp("Mikage","You worked hard at your part-time job to buy
-it, right?");
+MsgDisp("Mikage","You worked hard at your part-time job to
+buy it, right?");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4);

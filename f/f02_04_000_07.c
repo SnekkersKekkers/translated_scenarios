@@ -27,9 +27,9 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("F020400007_04_020");
-MsgDisp("Nanatsumori","...But shooting spring clothes in winter is
-hell. Thin clothes in freezing wind, and they
-still make you smile through it.");
+MsgDisp("Nanatsumori","...But shooting spring clothes in winter
+is hell. Thin clothes in freezing wind,
+and they still make you smile through it.");
 MsgDisp("主人公","Haha!");
 ChEye(4,0);
 ChMouth(4,0);

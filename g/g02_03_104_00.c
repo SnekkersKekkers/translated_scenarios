@@ -29,7 +29,8 @@ ChMouth(3,0);
 ChMotion(3,0);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020310400_03_040");
-MsgDisp("Honda","Haha... I guess I'm saying something weird.");
+MsgDisp("Honda","Haha...
+I guess I'm saying something weird.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -64,7 +65,8 @@ VoicePlay("G020310400_03_090");
 MsgDisp("Honda","Maybe trying to find reasons or logical
 explanations for \"liking\" someone is
 pointless.");
-MsgDisp("主人公","(｛Honda＊＊｝, seems troubled about love...)");
+MsgDisp("主人公","(｛Honda＊＊｝, seems troubled about
+love...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

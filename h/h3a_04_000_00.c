@@ -16,7 +16,8 @@ switch (ChPrmGet(4,6)){
     VoicePlay("H3A0400000_04_010");
     MsgDisp("Nanatsumori","I was watching.
 Congrats!");
-    MsgDisp("主人公","(I'm really glad I stayed in the judo club!
+    MsgDisp("主人公","(I'm really glad I stayed in the
+judo club!
 Today's the best day ever!)");
     break ;
     case 4:
@@ -46,8 +47,8 @@ throw me like that too...");
     MsgDisp("Nanatsumori","I was joking.
 I don't mind you being powerful.
 It was cool, you know?");
-    MsgDisp("主人公","(Geez...but, I'm really glad I stayed in the
-judo club!
+    MsgDisp("主人公","(Geez...but, I'm really glad I stayed in
+the judo club!
 Today's the best day ever!)");
     BGMStop();
     break ;

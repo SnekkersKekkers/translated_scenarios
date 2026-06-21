@@ -16,8 +16,8 @@ ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);
 VoicePlay("G020110400_01_020");
-MsgDisp("Kazama","Fireflies probably all have different light
-preferences.");
+MsgDisp("Kazama","Fireflies probably all have different
+light preferences.");
 MsgDisp("主人公","Hahah, just like people.");
 ChEye(1,0);
 ChMouth(1,0);
@@ -29,19 +29,19 @@ ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("G020110400_01_040");
-MsgDisp("Kazama","So, actually, white clothes. Since your own
-colours are enough. Yeah, something
+MsgDisp("Kazama","So, actually, white clothes. Since your
+own colours are enough. Yeah, something
 colourless and transparent's fine...");
-MsgDisp("主人公","I can't go around wearing transparent clothes
-though...");
+MsgDisp("主人公","I can't go around wearing transparent
+clothes though...");
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,3);
 ChCheek(1,7);
 VoicePlay("G020110400_01_050");
 MsgDisp("Kazama","What! I-Idiot, I don't mean that they're
-see-through, I'm saying that you don't have
-to dress yourself up!");
+see-through, I'm saying that you don't
+have to dress yourself up!");
 MsgDisp("主人公","So something light?");
 ChEye(1,2);
 ChMouth(1,2);
@@ -71,8 +71,9 @@ ChMouth(1,2);
 ChMotion(1,2);
 VoicePlay("G020110400_01_090");
 MsgDisp("Kazama","...Wait, is this how I really feel...∋");
-MsgDisp("主人公","(I think ｛Kazama＊＊｝'s fashion preferences
-might be a bit difficult for me...)");
+MsgDisp("主人公","(I think ｛Kazama＊＊｝'s fashion
+preferences might be a bit difficult
+for me...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

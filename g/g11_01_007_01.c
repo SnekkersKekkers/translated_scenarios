@@ -34,7 +34,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110100701_01_020");
-MsgDisp("Kazama","This is the season for mountains and rivers.");
+MsgDisp("Kazama","This is the season for mountains
+and rivers.");
 MsgDisp("主人公","Is summer the season for the sea?");
 ChEye(1,0);
 ChMouth(1,0);
@@ -46,8 +47,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100701_01_040");
-MsgDisp("Kazama","I'm going to look for treasure brought by the
-rough winter waves.");
+MsgDisp("Kazama","I'm going to look for treasure brought by
+the rough winter waves.");
 MsgDisp("主人公","Treasure...");
 ChEye(1,1);
 ChMouth(1,2);

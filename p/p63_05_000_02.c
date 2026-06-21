@@ -21,7 +21,8 @@ Welcome...");
     ChMouth(5,4);
     ChMotion(5,4);
     VoicePlay("P630500002_05_010");
-    MsgDisp("Hiiragi","An organic cafe, this is full fledged, huh...");
+    MsgDisp("Hiiragi","An organic cafe, this is full
+fledged, huh...");
     MsgDisp("主人公","Hehe, we gave it our best!");
     ChEye(5,4);
     ChMouth(5,4);
@@ -76,8 +77,8 @@ Do you like it?");
     ChMouth(5,4);
     VoicePlay("P630500002_05_070");
     MsgDisp("Hiiragi","Of course.
-It wouldn't even be strange if it opened in
-the waterfront area.");
+It wouldn't even be strange if it opened
+in the waterfront area.");
     MsgDisp("主人公","Thank you.
 I also have faith in the food.");
     ChEye(5,4);

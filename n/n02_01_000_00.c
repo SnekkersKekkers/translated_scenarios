@@ -83,9 +83,9 @@ I'm happy for you too.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("N020100000_01_080");
-    MsgDisp("Kazama","You know, you've always been deeply invested
-in what you do. Do your best, but don't push
-yourself too hard.");
+    MsgDisp("Kazama","You know, you've always been deeply
+invested in what you do. Do your best, but
+don't push yourself too hard.");
     MsgDisp("主人公","Hehe, yeah.
 Thank you.");
     ChEye(1,0);

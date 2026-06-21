@@ -21,20 +21,21 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G020320301_03_030");
-MsgDisp("Honda","I mentioned how we talked about eel behaviour
-and sardine schooling after visiting the
-aquarium—ah.");
+MsgDisp("Honda","I mentioned how we talked about eel
+behaviour and sardine schooling after
+visiting the aquarium—ah.");
 ChEye(3,2);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020320301_03_040");
-MsgDisp("Honda","Maybe I didn't need to go into the rising sea
-surface temperatures part?");
+MsgDisp("Honda","Maybe I didn't need to go into the rising
+sea surface temperatures part?");
 ChEye(3,4);
 ChMotion(3,4);
 VoicePlay("G020320301_03_050");
-MsgDisp("Honda","Do you think they were more interested in the
-ecology stuff than environmental issues?");
+MsgDisp("Honda","Do you think they were more interested
+in the ecology stuff than
+environmental issues?");
 MsgDisp("主人公","Hmm...
 Maybe that's not the kind of things they
 wished to hear.");
@@ -45,8 +46,8 @@ VoicePlay("G020320301_03_060");
 MsgDisp("Honda","Ehh∋
 Then what kind of things did they want
 to hear?");
-MsgDisp("主人公","Umm, for example...things like holding hands
-or having a good time together...");
+MsgDisp("主人公","Umm, for example...things like holding
+hands or having a good time together...");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);

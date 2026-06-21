@@ -9,7 +9,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610303_06_010");
-MsgDisp("Himuro","Today, some unknown guys called out to you.
+MsgDisp("Himuro","Today, some unknown guys called out
+to you.
 Stuff like that.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -29,15 +30,15 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610303_06_040");
-MsgDisp("Himuro","Sure, I have no right to interfere with your
-personal relations.
+MsgDisp("Himuro","Sure, I have no right to interfere with
+your personal relations.
 But guys like that are dangerous.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610303_06_050");
-MsgDisp("Himuro","It was lucky I showed up, but what would you
-have done if you were alone?");
+MsgDisp("Himuro","It was lucky I showed up, but what would
+you have done if you were alone?");
 MsgDisp("主人公","Umm, I'll be careful...");
 ChEye(6,1);
 ChMouth(6,0);
@@ -57,8 +58,8 @@ ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610303_06_080");
-MsgDisp("Himuro","If there's already a guy next to you, no one
-would dare approach.");
+MsgDisp("Himuro","If there's already a guy next to you, no
+one would dare approach.");
 MsgDisp("主人公","I see. But, who...?");
 ChEye(6,1);
 ChMouth(6,1);

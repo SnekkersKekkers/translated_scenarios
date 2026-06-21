@@ -4,7 +4,8 @@ switch (ChPrmGet(1,6)){
     case 2:
     VoicePlay("S030100001_01_000");
     MsgDisp("Kazama","Right.
-I need things to pray for besides my health.");
+I need things to pray for besides
+my health.");
     MsgDisp("主人公","There's academics, business, love...");
     VoicePlay("S030100001_01_010");
     MsgDisp("Kazama","I'm coming to pick you up.

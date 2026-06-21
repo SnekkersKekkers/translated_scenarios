@@ -25,14 +25,15 @@ I have to make it a success!)");
 You're a cute bride, you know?
 You have to smile brightly.");
     MsgDisp("主人公","Yes.
-I really want to make this a certain success.");
+I really want to make this a certain
+success.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P730700002_07_020");
     MsgDisp("Mikage","I see.
-So it's a feeling that you want to be happy
-by all means?");
+So it's a feeling that you want to be
+happy by all means?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
@@ -65,7 +66,8 @@ I have to make it a success!)");
     ChOpen(7,254,0,0,0,#1,#1,0,0);
     VoicePlay("P730700002_07_050");
     MsgDisp("Mikage","Oh!
-Even in such a place, there's a cute bride.");
+Even in such a place, there's a
+cute bride.");
     MsgDisp("主人公","Ah, ｛Mikage＊＊｝.
 Did you come to support me?");
     ChEye(7,0);
@@ -79,8 +81,10 @@ closest spot.");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("P730700002_07_070");
-    MsgDisp("Mikage","Is the spot next to the adorable bride empty?");
-    MsgDisp("主人公","Hehe! For the show I walk by myself though?");
+    MsgDisp("Mikage","Is the spot next to the adorable
+bride empty?");
+    MsgDisp("主人公","Hehe!
+For the show I walk by myself though?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -91,8 +95,9 @@ Making a bride like this walk by herself.");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("P730700002_07_090");
-    MsgDisp("Mikage","Then I'd be happy to play the role of coming
-to steal the bride during the ceremony?");
+    MsgDisp("Mikage","Then I'd be happy to play the role of
+coming to steal the bride during the
+ceremony?");
     MsgDisp("主人公","It's not a ceremony, it's a show!");
     ChEye(7,0);
     ChMouth(7,0);

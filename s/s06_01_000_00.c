@@ -13,7 +13,8 @@ switch (ChPrmGet(1,6)){
     VoicePlay("S060100000_01_000");
     MsgDisp("Kazama","You look like you're doing well.
 Happy New Year.");
-    MsgDisp("主人公","I am. Same to you, treat me well this year.");
+    MsgDisp("主人公","I am.
+Same to you, treat me well this year.");
     break ;
     case 3:
     SEPlay("EV_SE_DOOR_001");

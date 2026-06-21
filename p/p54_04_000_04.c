@@ -27,8 +27,8 @@ ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P540400004_04_020");
-MsgDisp("Nanatsumori","Your solo performance was on the level of a
-goddess descending.
+MsgDisp("Nanatsumori","Your solo performance was on the level of
+a goddess descending.
 Everyone was moved to tears.");
 ChEye(4,4);
 ChMouth(4,3);
@@ -38,8 +38,8 @@ MsgDisp("Nanatsumori","Thank you for your hard work these last
 three years.
 I seriously had a good experience.");
 MsgDisp("主人公","(They were moved to that extent...
-I'm glad I gave it my all in the wind music
-club these last three yeas!)");
+I'm glad I gave it my all in the wind
+music club these last three yeas!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

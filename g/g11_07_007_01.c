@@ -1,8 +1,8 @@
 BGOpen("sc520",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(I've still got time before lunch ends...
-Oh, right. Didn't ｛Mikage＊＊｝ say I could
-drop by anytime?)");
+Oh, right. Didn't ｛Mikage＊＊｝ say I
+could drop by anytime?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -11,7 +11,8 @@ BGOpen("sc512",0);
 ScrFadeIn(0);
 SEPlay("EV_SE_DOOR_024");
 SEWait();
-MsgDisp("主人公","(...? He's not in the science prep room...)");
+MsgDisp("主人公","(...?
+He's not in the science prep room...)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -32,10 +33,10 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700701_07_010");
 MsgDisp("Mikage","Oh, that would be nice.
-Maybe we should do a \"Molly's Milk Mart\" at
-lunchtime?");
-MsgDisp("主人公","Is this the cow ｛Mikage＊＊｝ showed me at
-his farm the other day?");
+Maybe we should do a \"Molly's Milk Mart\"
+at lunchtime?");
+MsgDisp("主人公","Is this the cow ｛Mikage＊＊｝ showed me
+at his farm the other day?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -50,8 +51,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G110700701_07_030");
 MsgDisp("Mikage","Oh, that would be great!
-If I could bring Molly and the others to Haba
-High, I would die happy.");
+If I could bring Molly and the others to
+Haba High, I would die happy.");
 MsgDisp("主人公","Eh?");
 ChEye(7,0);
 ChMouth(7,1);

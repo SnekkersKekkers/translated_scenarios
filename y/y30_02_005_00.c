@@ -10,23 +10,26 @@ Wait(80,0);
 SEStop("EV_SE_770",3);
 VoicePlay("Y300200500_02_000");
 MsgDisp("Sassa","\"That's why I told you not to go over
-there so much, you'll just get drenched
-again.\"");
+there so much, you'll just get
+drenched again.\"");
 MsgClear();
 MsgDisp("","I've continued training on the sand
-since graduation. I also got a part time
-job to run with dogs.");
+since graduation. I also got a part
+time job to run with dogs.");
 MsgDisp("","But, it's different to when I was in
 Haba High...");
 SEStop("EV_SE_679");
 MsgClear();
-MsgDisp("主人公","\"Hehe! It looks like they caused trouble
-for ｛Sassa＊＊｝ intentionally?\"");
-MsgDisp("","｛主人公名前｝. We have another member now.");
-MsgDisp("","At first the dogs tilted their heads
-confusedly at her, as if saying \"Huh?\",
-but it's gotten to the point where they
-listen to her more than me.");
+MsgDisp("主人公","\"Hehe! It looks like they caused
+trouble for ｛Sassa＊＊｝
+intentionally?\"");
+MsgDisp("","｛主人公名前｝. We have another
+member now.");
+MsgDisp("","At first the dogs tilted their
+heads confusedly at her, as if
+saying \"Huh?\", but it's gotten to
+the point where they listen to her
+more than me.");
 MsgClear();
 VoicePlay("Y300200500_02_010");
 MsgDisp("Sassa","\"Recently, doesn't it feel like they
@@ -37,14 +40,15 @@ MsgDisp("","...Seems like I'm below her.");
 MsgClear();
 MsgDisp("主人公","\"Hey, ｛Sassa＊＊｝. One more round?
 Beach dash!\"");
-MsgDisp("","With this, surely my rank is below her.");
+MsgDisp("","With this, surely my rank is
+below her.");
 MsgClear();
 VoicePlay("Y300200500_02_020");
 MsgDisp("Sassa","\"Let's go!\"");
-MsgDisp("","There's a mark 200 metres ahead on the
-beach. The training involves turning
-back there and sprinting back with full
-effort.");
+MsgDisp("","There's a mark 200 metres ahead on
+the beach. The training involves
+turning back there and sprinting back
+with full effort.");
 MsgDisp("主人公","\"Reaaady—\"");
 SEPlay("EV_SE_553");
 MsgDisp("","(Go!)");
@@ -60,8 +64,8 @@ MsgDisp("","Hah, hah, hah, hah... The turnaround
 point is coming into view.");
 VoicePlay("Y300200500_02_030");
 MsgDisp("Sassa","\"Alright, turn around! ...hm?\"");
-MsgDisp("","Over there, there's a message she wrote
-in the sand.");
+MsgDisp("","Over there, there's a message she
+wrote in the sand.");
 MsgClear();
 MsgDisp("","—\"Do your best▼\".");
 MsgClear();
@@ -71,16 +75,16 @@ MsgDisp("","The dogs that had been running around
 playing with me, as if inspired by my
 earnest shout, ran straight for the
 finish line.");
-MsgDisp("","I can't possibly keep up with them, but
-with such a message—");
+MsgDisp("","I can't possibly keep up with them,
+but with such a message—");
 MsgClear();
-MsgDisp("","Waving at me, the smile I love so much
-is getting closer.");
+MsgDisp("","Waving at me, the smile I love so
+much is getting closer.");
 MsgDisp("","She's shining brightly in the
 morning sun...");
 VoicePlay("Y300200500_02_050");
-MsgDisp("Sassa","\"Alriiight, I'll run along and hug her.
-Wait for me...!\"");
+MsgDisp("Sassa","\"Alriiight, I'll run along and hug
+her. Wait for me...!\"");
 MsgClear();
 SEPlay("EV_SE_679");
 MsgDisp("","(Arf! Arf!) (Arf Arf!)");

@@ -96,7 +96,8 @@ VoicePlay("Q080B00100_01_050");
 MsgDisp("Kazama","Wait a minute.
 What's a leader supposed to do?");
 MsgDisp("主人公","(Hehe!
-I can't wait for the free period tomorrow!)");
+I can't wait for the free period
+tomorrow!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

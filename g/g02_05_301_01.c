@@ -3,7 +3,8 @@ ChOpen(5,255,0,0,4,#1,#1,0,0);
 ChMotion(5,4);
 VoicePlay("G020530101_05_000");
 MsgDisp("Hiiragi","Please take a look.
-That firefly is accompanied by an entourage.");
+That firefly is accompanied by an
+entourage.");
 MsgDisp("主人公","Oh it is actually.");
 ChEye(5,3);
 VoicePlay("G020530101_05_010");
@@ -23,7 +24,8 @@ Girls, boys, even teachers?");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("G020530101_05_040");
-MsgDisp("Hiiragi","I have to work hard and shine brightly, too.
+MsgDisp("Hiiragi","I have to work hard and shine
+brightly, too.
 I'd be sad if you didn't notice me.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝?");
 ChEye(5,4);

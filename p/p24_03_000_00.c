@@ -27,7 +27,8 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_020");
-MsgDisp("Honda","But our failure hasn't been decided, has it?");
+MsgDisp("Honda","But our failure hasn't been decided,
+has it?");
 MsgDisp("主人公","(S-Somewhat...
 He's returned to being the usual
 ｛Honda＊＊｝∋)");
@@ -42,7 +43,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_040");
-MsgDisp("Honda","Who is the one who can resolve any dilemma...
+MsgDisp("Honda","Who is the one who can resolve any
+dilemma...
 In this country?");
 SEPlay("EV_SE_GAYA_008",0,0.7);
 Wait(90,0);
@@ -62,8 +64,8 @@ ChMotion(3,0,1);
 VoicePlay("P240300000_03_060");
 MsgDisp("Honda","Above all, if Araki-dono rebels here,
 Hideyoshi-dono, who is in the midst of
-attacking the Mori clan, will be trapped in a
-predicament.");
+attacking the Mori clan, will be trapped
+in a predicament.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -83,9 +85,9 @@ That you'll definitely return.");
 StlEye(3,1);
 StlMouth(3,1);
 VoicePlay("P240300000_03_090");
-MsgDisp("Honda","Oh, I promise. That no matter what happens,
-this Kuroda Kanbei Yoshitaka, will return to
-you, Mitsuhime!");
+MsgDisp("Honda","Oh, I promise. That no matter what
+happens, this Kuroda Kanbei Yoshitaka,
+will return to you, Mitsuhime!");
 StlEye(3,1,0);
 StlMouth(3,0);
 StlEyeOpenLevel(3,5,1);
@@ -126,18 +128,19 @@ MsgDisp("Honda","Yeah, actually I was going to play Kuroda
 Kabei like myself, but I stopped since you
 glared at me scarily.");
 MsgDisp("主人公","Geez...
-I really wondered what was going to happen.");
+I really wondered what was going
+to happen.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("P240300000_03_130");
-MsgDisp("Honda","I went through all the trouble of coming up
-with an original idea, though.
+MsgDisp("Honda","I went through all the trouble of coming
+up with an original idea, though.
 And it's an interesting one.");
 ChSet(3,3);
 VoicePlay("P240300000_03_140");
-MsgDisp("Honda","That's right, let's continue with the two of
-us! Our own school play!
+MsgDisp("Honda","That's right, let's continue with the two
+of us! Our own school play!
 Ah, should we borrow these costumes too?");
 MsgDisp("主人公","(Hehe, that seems kind of fun?
 Seems like the play was a success,

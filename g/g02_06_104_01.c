@@ -36,9 +36,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_050");
-MsgDisp("Himuro","But that's evidence of having a strong sense
-of responsibility and justice more than
-anyone else.");
+MsgDisp("Himuro","But that's evidence of having a strong
+sense of responsibility and justice more
+than anyone else.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -49,38 +49,41 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_070");
-MsgDisp("Himuro","When I look at my dad and Reiichi, that's how
-I see it.");
+MsgDisp("Himuro","When I look at my dad and Reiichi, that's
+how I see it.");
 MsgDisp("主人公","Yeah.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_080");
-MsgDisp("Himuro","The degree of this is a little stronger than
-other people, so it can be a hassle...");
+MsgDisp("Himuro","The degree of this is a little stronger
+than other people, so it can be a
+hassle...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020610401_06_090");
-MsgDisp("Himuro","But when push comes to shove, both my dad and
-Reiichi are relied upon greatly by those
-around them.");
+MsgDisp("Himuro","But when push comes to shove, both my dad
+and Reiichi are relied upon greatly by
+those around them.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020610401_06_100");
 MsgDisp("Himuro","It's cool.
 I want to be like that too.");
-MsgDisp("主人公","I think ｛Himuro＊＊｝ can become like that too?");
+MsgDisp("主人公","I think ｛Himuro＊＊｝ can become like
+that too?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 ChCheek(6,10);
 VoicePlay("G020610401_06_110");
 MsgDisp("Himuro","...Ah, right.
-Well, I don't want to be too rigid like them.");
-MsgDisp("主人公","(｛Himuro＊＊｝ seems to have pride in his family
-after all...)");
+Well, I don't want to be too rigid
+like them.");
+MsgDisp("主人公","(｛Himuro＊＊｝ seems to have pride in his
+family after all...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -29,7 +29,8 @@ BGMPlay("BGM_C06_INORI_B");
 ChOpen(6,100,2,2,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110600900_06_020");
-MsgDisp("Himuro","Why don't you just quit work your next shift?");
+MsgDisp("Himuro","Why don't you just quit work your
+next shift?");
 MsgDisp("主人公","Eh. Why?");
 ChEye(6,2);
 ChMouth(6,0);
@@ -37,16 +38,17 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G110600900_06_030");
 MsgDisp("Himuro","I guess you haven't realised it.
-You're tired, and it's showing on your face.");
+You're tired, and it's showing on
+your face.");
 MsgDisp("主人公","Uh...");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600900_06_040");
-MsgDisp("Himuro","Minding your health is part of the job too.
-I'd hate to work beside someone in that
-state, and it'd be a real nuisance if they
-collapsed.");
+MsgDisp("Himuro","Minding your health is part of the job
+too. I'd hate to work beside someone in
+that state, and it'd be a real nuisance if
+they collapsed.");
 MsgDisp("主人公","I see... Sorry.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -86,7 +88,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600900_06_100");
-MsgDisp("Himuro","Your health comes first, just remember that.");
+MsgDisp("Himuro","Your health comes first, just
+remember that.");
 MsgDisp("主人公","Ah...yes.
 Thank you, ｛Himuro＊＊｝.");
 BGMStop();

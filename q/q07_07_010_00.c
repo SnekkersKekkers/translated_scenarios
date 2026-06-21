@@ -14,7 +14,8 @@ ChEye(21,0);
 ChMouth(21,0);
 ChMotion(21,1);
 VoicePlay("Q070701000_21_000");
-MsgDisp("Michiru","Mari, are you going to take a bath now too?
+MsgDisp("Michiru","Mari, are you going to take a bath
+now too?
 If so—");
 VoicePlay("Q070701000_42_000");
 MsgDisp("School Boy","Mikagecchi!
@@ -88,7 +89,8 @@ MsgDisp("Hikaru","What, what, what??
 Mikage-sensei, what's wrong?");
 StlEyeOpenLevel(7,5,1);
 VoicePlay("Q070701000_07_030");
-MsgDisp("Mikage","They broke the shower, it's now a fountain.
+MsgDisp("Mikage","They broke the shower, it's now a
+fountain.
 I'm going to the front desk.");
 VoicePlay("Q070701000_21_030");
 MsgDisp("Michiru","Mikage-sensei, you shouldn't go outside

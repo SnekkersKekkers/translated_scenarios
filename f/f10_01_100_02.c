@@ -22,7 +22,8 @@ ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("F100110002_01_020");
-MsgDisp("Kazama","No matter what, you'll start falling asleep.");
+MsgDisp("Kazama","No matter what, you'll start
+falling asleep.");
 MsgDisp("主人公","Is that so?
 I'm okay now, but...");
 ChEyeOpenLevel(1,0);
@@ -40,7 +41,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("F100110002_01_040");
-MsgDisp("Kazama","No, it's like medicine that keeps you awake.");
+MsgDisp("Kazama","No, it's like medicine that keeps
+you awake.");
 SEPlay("EV_SE_DOOR_019");
 SEWait();
 VoicePlay("F100110002_42_000");
@@ -108,8 +110,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("F100110002_01_080");
-MsgDisp("Kazama","I thought you would have a little patience,
-but looking at it right away?
+MsgDisp("Kazama","I thought you would have a little
+patience, but looking at it right away?
 I couldn't help but laugh.");
 MsgDisp("主人公","Oh, that note?
 It said to look at ｛Kazama＊＊｝.

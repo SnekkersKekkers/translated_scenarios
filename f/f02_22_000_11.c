@@ -23,8 +23,8 @@ ChEye(22,3);
 ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200011_22_020");
-MsgDisp("Hikaru","But Hikaru thinks the feeling of being able
-to wear the latest trends trumps it♪");
+MsgDisp("Hikaru","But Hikaru thinks the feeling of being
+able to wear the latest trends trumps it♪");
 MsgDisp("主人公","Hehe!");
 ChEye(22,0);
 ChMouth(22,3);

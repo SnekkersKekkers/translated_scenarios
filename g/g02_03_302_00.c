@@ -10,8 +10,8 @@ ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020330200_03_010");
 MsgDisp("Honda","Isn't it just what it sounds like?
-Though it's so obvious that it doesn't quite
-sound like Ryo-kun.");
+Though it's so obvious that it doesn't
+quite sound like Ryo-kun.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
@@ -31,23 +31,24 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,2);
 VoicePlay("G020330200_03_040");
-MsgDisp("Honda","Um, well, it was when Ryo-kun was surrounded
-by girls...");
+MsgDisp("Honda","Um, well, it was when Ryo-kun was
+surrounded by girls...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020330200_03_050");
-MsgDisp("Honda","He signalled me with his eyes for help, so I
-thought there was no topic and brought up the
-Ground Beetle.");
+MsgDisp("Honda","He signalled me with his eyes for help, so
+I thought there was no topic and brought
+up the Ground Beetle.");
 MsgDisp("主人公","Ground beetle... Eh?");
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020330200_03_060");
 MsgDisp("Honda","It's a type of beetle that can survive for
-months without food in the harsh environment
-of the desert.");
-MsgDisp("主人公","And you brought up that topic to the girls?");
+months without food in the harsh
+environment of the desert.");
+MsgDisp("主人公","And you brought up that topic to
+the girls?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
@@ -59,8 +60,8 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020330200_03_080");
 MsgDisp("Honda","That's when I got that line from him.");
-MsgDisp("主人公","(I think I might understand what ｛Kazama＊＊｝
-wanted to say...)");
+MsgDisp("主人公","(I think I might understand what
+｛Kazama＊＊｝ wanted to say...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

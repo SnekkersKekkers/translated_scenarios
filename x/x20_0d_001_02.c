@@ -2,7 +2,8 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,2,1);
 VoicePlay("X200D00102_22_000");
-MsgDisp("Hikaru","Our school year is filled with cute girls～
+MsgDisp("Hikaru","Our school year is filled with
+cute girls～
 They might be a bit strict.");
 ChEye(21,4);
 ChMouth(21,4);

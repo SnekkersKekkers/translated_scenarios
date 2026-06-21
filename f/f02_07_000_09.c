@@ -11,8 +11,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("F020700009_07_000");
 MsgDisp("Mikage","Yeah.
-The vegetables for sale are just ripening, so
-this year the timing looks perfect.");
+The vegetables for sale are just ripening,
+so this year the timing looks perfect.");
 MsgDisp("主人公","Yes. The herbs have grown nicely.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -48,8 +48,8 @@ VoicePlay("F020700009_07_050");
 MsgDisp("Mikage","I wonder how many more school festivals I
 have to go through before I can think as
 smartly as you.");
-MsgDisp("主人公","I want to spend as many cultural festivals as
-I can with ｛Mikage＊＊｝!");
+MsgDisp("主人公","I want to spend as many cultural festivals
+as I can with ｛Mikage＊＊｝!");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -60,7 +60,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("F020700009_07_070");
-MsgDisp("Mikage","Then, for this year especially, should I put
-the most beautiful ones up for sale?");
-MsgDisp("主人公","(Seems like ｛Mikage＊＊｝ hasn't put his
-favourite vegetables for sale until now...)");
+MsgDisp("Mikage","Then, for this year especially, should I
+put the most beautiful ones up for sale?");
+MsgDisp("主人公","(Seems like ｛Mikage＊＊｝ hasn't put
+his favourite vegetables for sale
+until now...)");

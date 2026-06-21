@@ -29,8 +29,8 @@ MsgDisp("Orihime","Until I met you, Hikoboshi-sama.");
 VoicePlay("P240601000_43_020");
 MsgDisp("Hikoboshi","...Your truth is also my truth.");
 VoicePlay("P240601000_43_030");
-MsgDisp("Hikoboshi","Day after day, I would steadily pull ox and
-plough the fields.
+MsgDisp("Hikoboshi","Day after day, I would steadily pull ox
+and plough the fields.
 That was my world. All that I ever knew.");
 VoicePlay("P240601000_43_040");
 MsgDisp("Hikoboshi","However, since the day I was called by the
@@ -50,9 +50,9 @@ MsgClose();
 ChOpen(6,30,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("P240601000_06_030");
-MsgDisp("Himuro","Day after day, I worked diligently as Altair,
-content with that life...until you, Orihime,
-appeared and disrupted it.");
+MsgDisp("Himuro","Day after day, I worked diligently as
+Altair, content with that life...until
+you, Orihime, appeared and disrupted it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -72,8 +72,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_060");
-MsgDisp("Himuro","...Then if you were Orihime, do you think you
-would be happy to meet Hikoboshi?");
+MsgDisp("Himuro","...Then if you were Orihime, do you think
+you would be happy to meet Hikoboshi?");
 MsgDisp("主人公","Yeah, I think so.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -85,8 +85,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P240601000_06_080");
-MsgDisp("Himuro","Well, if I were Hikoboshi, even after I met
-Orihime, I wouldn't become undisciplined.");
+MsgDisp("Himuro","Well, if I were Hikoboshi, even after I
+met Orihime, I wouldn't become
+undisciplined.");
 MsgDisp("主人公","Hehe, that's just like you, ｛Himuro＊＊｝.");
 ChEye(6,0);
 ChMouth(6,0);

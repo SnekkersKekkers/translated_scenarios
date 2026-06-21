@@ -17,7 +17,8 @@ natural, I've gotten so used to it—");
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020310201_03_030");
-MsgDisp("Honda","But that doesn't mean we're a couple, right?
+MsgDisp("Honda","But that doesn't mean we're a
+couple, right?
 ...Is it an ambiguous relationship?");
 MsgDisp("主人公","Yeah...seems that way.");
 ChEye(3,0);
@@ -48,11 +49,11 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020310201_03_080");
-MsgDisp("Honda","I just said what was on my mind, don't worry
-about it okay?");
+MsgDisp("Honda","I just said what was on my mind, don't
+worry about it okay?");
 MsgDisp("主人公","Y-Yeah?");
-MsgDisp("主人公","(Does that mean ｛Honda＊＊｝ wants our current
-relationship...to change?)");
+MsgDisp("主人公","(Does that mean ｛Honda＊＊｝ wants our
+current relationship...to change?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

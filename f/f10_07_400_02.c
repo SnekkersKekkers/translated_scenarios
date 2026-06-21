@@ -29,8 +29,8 @@ VoicePlay("F100740002_45_000");
 MsgDisp("Girl B","Is he gonna get scolded by Himuro-sensei?
 Poor guy.");
 MsgDisp("主人公","(Ehh?
-｛Mikage＊＊｝ was praised the other day, so
-it'll be alright, right...?)");
+｛Mikage＊＊｝ was praised the other day,
+so it'll be alright, right...?)");
 SEPlay("EV_SE_DOOR_019");
 Wait(50,0);
 VoicePlay("F100740002_07_000");
@@ -120,9 +120,10 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F100740002_07_070");
-MsgDisp("Mikage","Sure. I'll treat each of you to lunch once.");
-MsgDisp("主人公","(Himuro-sensei went out of his way to do that
-in front of everyone...
+MsgDisp("Mikage","Sure.
+I'll treat each of you to lunch once.");
+MsgDisp("主人公","(Himuro-sensei went out of his way to do
+that in front of everyone...
 ｛Mikage＊＊｝, I'm so happy for you!)");
 BGMStop();
 MsgClose();

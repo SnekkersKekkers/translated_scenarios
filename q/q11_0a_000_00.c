@@ -3,8 +3,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 ScrFadeIn(0);
-MsgDisp("主人公","(Alright, ｛Himuro＊＊｝'s souvenir is gonna be
-the mildly sweet matcha castella.)");
+MsgDisp("主人公","(Alright, ｛Himuro＊＊｝'s souvenir is gonna
+be the mildly sweet matcha castella.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_RUN_COME_TWO");
 SEWait();
@@ -17,18 +17,19 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q110A00000_01_000");
-MsgDisp("Kazama","I've never seen a high school student buying
-souvenirs during a school trip for their
-neighbours before.");
+MsgDisp("Kazama","I've never seen a high school student
+buying souvenirs during a school trip for
+their neighbours before.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q110A00000_02_010");
-MsgDisp("Sassa","I mean, they're helping me out all the time.");
+MsgDisp("Sassa","I mean, they're helping me out all
+the time.");
 MsgDisp("主人公","Hehe...
-Ah, by the way, I bought ｛Himuro＊＊｝ a matcha
-castella.");
+Ah, by the way, I bought ｛Himuro＊＊｝ a
+matcha castella.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -36,7 +37,8 @@ ChMouth(2,0);
 ChMotion(2,5);
 VoicePlay("Q110A00000_02_020");
 MsgDisp("Sassa","Eh∋
-I bought one too, a matcha sponge castella.");
+I bought one too, a matcha sponge
+castella.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
@@ -53,15 +55,15 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("Q110A00000_02_030");
-MsgDisp("Sassa","I guess we can say that we're all on the same
-wavelength?");
+MsgDisp("Sassa","I guess we can say that we're all on the
+same wavelength?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q110A00000_01_030");
 MsgDisp("Kazama","Yeah, childhood friends indeed.
-I can't wait to see what Inori's gonna say,
-when we give him three of them.");
+I can't wait to see what Inori's gonna
+say, when we give him three of them.");
 MsgDisp("主人公","I'm sure he'll be happy.");
 ChEye(2,0);
 ChMouth(2,3);
@@ -82,8 +84,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("Q110A00000_02_050");
 MsgDisp("Sassa","We touched the heart stone on the seawall
-together, but for this one, who you touch it
-with is entirely up to you.");
+together, but for this one, who you touch
+it with is entirely up to you.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -102,8 +104,8 @@ ChMouth(2,3);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("Q110A00000_02_060");
-MsgDisp("Sassa","Yeah let's touch it together while we eat the
-matcha castella.");
+MsgDisp("Sassa","Yeah let's touch it together while we eat
+the matcha castella.");
 MsgDisp("主人公","Yeah!
 ｛Kazama＊＊｝, ｛Sassa＊＊｝, thanks for the
 present.");

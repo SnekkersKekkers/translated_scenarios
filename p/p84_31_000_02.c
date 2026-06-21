@@ -11,14 +11,15 @@ ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,4);
 VoicePlay("P843100002_31_010");
-MsgDisp("Goro","Take it as a thanks. While showing me round
-the assembly hall, you handled the sudden
-work that cropped up brilliantly.");
+MsgDisp("Goro","Take it as a thanks. While showing me
+round the assembly hall, you handled the
+sudden work that cropped up brilliantly.");
 ChEye(31,0);
 ChMouth(31,0);
 ChMotion(31,2);
 VoicePlay("P843100002_31_020");
-MsgDisp("Goro","Haba High School is a great school after all.
+MsgDisp("Goro","Haba High School is a great school
+after all.
 I'm off to Ikkaku's place!");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

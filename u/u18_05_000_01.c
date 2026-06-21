@@ -13,10 +13,11 @@ What kind of picture did those two draw?)");
     case 4:
     case 5:
     MsgDisp("主人公","Uhm...");
-    MsgDisp("主人公","It says...\"Please tell the Hanatsubaki twins
-not to worry. Even if we are busy together,
-you'll still have time for them.");
-    MsgDisp("主人公","(Ehh∋ What did the two of you tell him...?)");
+    MsgDisp("主人公","It says...\"Please tell the Hanatsubaki
+twins not to worry. Even if we are busy
+together, you'll still have time for them.");
+    MsgDisp("主人公","(Ehh∋
+What did the two of you tell him...?)");
     break ;
     default :
     DbgAssert(1);

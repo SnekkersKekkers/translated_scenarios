@@ -28,8 +28,8 @@ fight with you.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H3A0100000_01_020");
-    MsgDisp("Kazama","The pinnacle of high school students in this
-country.
+    MsgDisp("Kazama","The pinnacle of high school students in
+this country.
 It suits you.");
     MsgDisp("主人公","Thanks!");
     MsgDisp("主人公","(I really won.
@@ -52,8 +52,8 @@ for you.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("H3A0100000_01_040");
-    MsgDisp("Kazama","Yeah, I didn't want to see you get hurt, but
-looks like I was worrying for nothing.");
+    MsgDisp("Kazama","Yeah, I didn't want to see you get hurt,
+but looks like I was worrying for nothing.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -72,8 +72,8 @@ were strong.
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("H3A0100000_01_070");
-    MsgDisp("Kazama","Even though I don't know much about judo, I
-feel like I could understand the appeal.");
+    MsgDisp("Kazama","Even though I don't know much about judo,
+I feel like I could understand the appeal.");
     MsgDisp("主人公","That makes me happy.
 Thanks!");
     ChEye(1,2);

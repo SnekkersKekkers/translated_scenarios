@@ -24,8 +24,8 @@ ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("F020300006_03_020");
 MsgDisp("Honda","Yep.
-I can learn the rules and tactics just fine,
-but my body can't keep up.");
+I can learn the rules and tactics just
+fine, but my body can't keep up.");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);

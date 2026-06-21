@@ -47,8 +47,8 @@ Sorry I put so much pressure on you, manager.");
 they want to thank you.
 Go on.");
     MsgDisp("主人公","(We did it!
-We won! I'm glad I did my best for the club
-with everyone!)");
+We won! I'm glad I did my best for the
+club with everyone!)");
     break ;
     default :
     DbgAssert(1);

@@ -17,7 +17,8 @@ I messed up even though it was the end...");
 ChEye(4,2);
 ChMouth(4,4);
 VoicePlay("P540400005_04_010");
-MsgDisp("Nanatsumori","Well, they say life has it's ups and downs.");
+MsgDisp("Nanatsumori","Well, they say life has it's ups
+and downs.");
 ChMotion(4,1,1);
 VoicePlay("P540400005_04_020");
 MsgDisp("Nanatsumori","After all, we're only students.");
@@ -27,7 +28,8 @@ ChMouth(4,3);
 ChMotion(4,3,1);
 VoicePlay("P540400005_04_030");
 MsgDisp("Nanatsumori","Look forwards.
-Failure is the foundation of success, right?");
+Failure is the foundation of
+success, right?");
 MsgDisp("主人公","(｛Nanatsumori＊｝... Thank you.
 Even though it was a fail in the end, I'm
 glad I continued with the brass band.)");

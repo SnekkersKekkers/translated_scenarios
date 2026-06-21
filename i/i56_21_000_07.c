@@ -7,7 +7,8 @@ ChOpen(21,35,0,0,4,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("I562100007_21_000");
 MsgDisp("Michiru","Hm...?
-I've never seen this candy wrapping before.");
+I've never seen this candy
+wrapping before.");
 MsgDisp("主人公","Ah. I tried wrapping that one myself...");
 ChEye(21,0);
 ChMouth(21,3);
@@ -19,8 +20,8 @@ ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("I562100007_21_020");
-MsgDisp("Michiru","The choice of the wrapping paper and string
-is also perfect.
+MsgDisp("Michiru","The choice of the wrapping paper and
+string is also perfect.
 It's almost too nice to unwrap, right?");
 MsgDisp("主人公","(Thank goodness!
 Looks like I did well!)");

@@ -25,8 +25,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200010_02_020");
 MsgDisp("Sassa","Yeah, of course.
-One time at a track meet, I couldn't control
-my nerves, so I made a mistake.");
+One time at a track meet, I couldn't
+control my nerves, so I made a mistake.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
@@ -37,8 +37,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("F020200010_02_040");
-MsgDisp("Sassa","The people who don't prepare can just shrug
-failure off as inevitable.
+MsgDisp("Sassa","The people who don't prepare can just
+shrug failure off as inevitable.
 It's kind of unfair.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -53,9 +53,9 @@ ChMouth(2,0);
 ChMotion(2,1);
 ChEyeOpenLevel(2,0);
 VoicePlay("F020200010_02_060");
-MsgDisp("Sassa","Close your eyes and cross your arms over your
-chest. Then exhale slowly, and let all the
-tension and anxiety flow out.");
+MsgDisp("Sassa","Close your eyes and cross your arms over
+your chest. Then exhale slowly, and let
+all the tension and anxiety flow out.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -67,10 +67,10 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("F020200010_02_080");
 MsgDisp("Sassa","That's good.
-If you do it every time and practise, you can
-do the same during the show.");
+If you do it every time and practise, you
+can do the same during the show.");
 MsgDisp("主人公","Got it.
 Thanks, ｛Sassa＊＊｝.");
-MsgDisp("主人公","(Thanks to ｛Sassa＊＊｝, the performance will
-be fun...
+MsgDisp("主人公","(Thanks to ｛Sassa＊＊｝, the performance
+will be fun...
 I think?)");

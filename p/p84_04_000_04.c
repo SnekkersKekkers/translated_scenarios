@@ -1,11 +1,12 @@
 ScrFadeIn(0);
 MsgDisp("主人公","No one was injured.
-Has the issue with the order of things been
-settled?");
+Has the issue with the order of things
+been settled?");
 VoicePlay("P840400004_39_000");
 MsgDisp("Student A","Yes, we're sorry.");
 VoicePlay("P840400004_41_010");
-MsgDisp("Student B","We also panicked and caused you trouble....
+MsgDisp("Student B","We also panicked and caused you
+trouble....
 We're very sorry!");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
 SEWait();
@@ -15,7 +16,8 @@ SEWait();
 ChLayout(1);
 ChNanaType(0);
 ChOpen(4,254,0,0,3,#1,#1,0,0,0,60);
-MsgDisp("主人公","Phew...seems like one matter's been resolved.");
+MsgDisp("主人公","Phew...seems like one matter's been
+resolved.");
 ChMotion(4,1,1);
 VoicePlay("P840400004_04_000");
 MsgDisp("Nanatsumori","I see... You're good at persuasion.");
@@ -34,8 +36,8 @@ VoicePlay("P840400004_04_020");
 MsgDisp("Nanatsumori","Of course it's a good meaning.
 As expected.");
 MsgDisp("主人公","(Is that praise...?
-I'm glad I was able to show the results of my
-hard work over the past three years!)");
+I'm glad I was able to show the results of
+my hard work over the past three years!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

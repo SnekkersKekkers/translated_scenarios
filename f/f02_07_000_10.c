@@ -24,8 +24,8 @@ MsgDisp("Mikage","I've been with you guys practising and
 preparing from the very beginning, so I'm
 telling you.");
 MsgDisp("主人公","Yes. From stage preparations to the script
-and acting, you supported us with everything,
-｛Mikage＊＊｝.");
+and acting, you supported us with
+everything, ｛Mikage＊＊｝.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
@@ -48,8 +48,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F020700010_07_040");
 MsgDisp("Mikage","So there's no longer a route for failure.
-You are guaranteed to receive one of life's
-treasures.");
+You are guaranteed to receive one of
+life's treasures.");
 MsgDisp("主人公","Is that so...");
 ChEye(7,0);
 ChMouth(7,3);

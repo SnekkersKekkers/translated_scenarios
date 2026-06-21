@@ -20,8 +20,8 @@ ChMotion(3,0,1);
 VoicePlay("F110310001_39_000");
 MsgDisp("Student A","Woah, so they did it this year, too?");
 VoicePlay("F110310001_40_010");
-MsgDisp("Student B","That's the quiz haircut deathmatch from the
-rumours, right?");
+MsgDisp("Student B","That's the quiz haircut deathmatch from
+the rumours, right?");
 ChMouth(3,0);
 VoicePlay("F110310001_39_020");
 MsgDisp("Student A","Yeah, another year of competition.

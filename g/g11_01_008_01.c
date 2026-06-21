@@ -71,8 +71,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100801_01_070");
 MsgDisp("Kazama","Ehh...
-Surprisingly, you really are paying attention
-to me. You pass.");
+Surprisingly, you really are paying
+attention to me. You pass.");
 MsgDisp("主人公","(Umm...
 I guess I should be quiet about the fact I
 was worried his hair was too long.)");

@@ -4,7 +4,8 @@ switch (ChPrmGet(4,6)){
     case 0:
     case 1:
     case 2:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛Nanatsumori＊｝.)");
+    MsgDisp("主人公","(Oh, it's a phone call from
+｛Nanatsumori＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -13,8 +14,8 @@ switch (ChPrmGet(4,6)){
     MsgDisp("Nanatsumori","Ah... Hey.
 I heard your voicemail thing, it's fine.");
     MsgDisp("主人公","Really?
-Then, on ｛日付｝ I'll be waiting for
-you at ｛待ち合わせ場所｝.");
+Then, on ｛日付｝ I'll be waiting
+for you at ｛待ち合わせ場所｝.");
     VoicePlay("J030401000_04_010");
     MsgDisp("Nanatsumori","Got it.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
@@ -23,7 +24,8 @@ you at ｛待ち合わせ場所｝.");
 I hope that ｛日付｝ comes soon!)");
     break ;
     case 3:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛Nanatsumori＊｝.)");
+    MsgDisp("主人公","(Oh, it's a phone call from
+｛Nanatsumori＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -35,8 +37,8 @@ Just heard the voicemail.");
     VoicePlay("J030401000_04_030");
     MsgDisp("Nanatsumori","It's OK.
 What about the day of the event?");
-    MsgDisp("主人公","Then, on ｛日付｝ I guess we can meet
-at ｛待ち合わせ場所｝?");
+    MsgDisp("主人公","Then, on ｛日付｝ I guess we can
+meet at ｛待ち合わせ場所｝?");
     VoicePlay("J030401000_04_040");
     MsgDisp("Nanatsumori","That's okay.
 See you later.");
@@ -47,7 +49,8 @@ I hope that ｛日付｝ comes soon!)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Oh, it's a phone call from ｛Nanatsumori＊｝.)");
+    MsgDisp("主人公","(Oh, it's a phone call from
+｛Nanatsumori＊｝.)");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEStop("EV_SE_577",0);
     SEWait();
@@ -59,11 +62,11 @@ So, you'll come?");
     VoicePlay("J030401000_04_060");
     MsgDisp("Nanatsumori","Of course I'm going.");
     MsgDisp("主人公","Phew!
-Then, on ｛日付｝ I'll be waiting for
-you at the ｛待ち合わせ場所｝.");
+Then, on ｛日付｝ I'll be waiting
+for you at the ｛待ち合わせ場所｝.");
     VoicePlay("J030401000_04_070");
-    MsgDisp("Nanatsumori","Oh, and feel free to give me a wake-up call
-so I don't oversleep.
+    MsgDisp("Nanatsumori","Oh, and feel free to give me a wake-up
+call so I don't oversleep.
 Bye.");
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();

@@ -69,7 +69,8 @@ Let's do our best.");
     VoicePlay("O040701000_07_070");
     MsgDisp("Mikage","｛主人公｝, let's win.");
     MsgDisp("主人公","Huh?
-So you're participating too, ｛Mikage＊＊｝.");
+So you're participating too,
+｛Mikage＊＊｝.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);
@@ -80,7 +81,8 @@ So you're participating too, ｛Mikage＊＊｝.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("O040701000_07_090");
-    MsgDisp("Mikage","Yeah. Everyone looks like they're having fun.
+    MsgDisp("Mikage","Yeah.
+Everyone looks like they're having fun.
 Just watching would be lonely.");
     MsgDisp("主人公","Then let's do our best together.");
     ChEye(7,0);

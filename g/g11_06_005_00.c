@@ -45,8 +45,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 VoicePlay("G110600500_06_040");
-MsgDisp("Himuro","I'm sure there were many people who were
-motivated by this and now want to beat you.");
+MsgDisp("Himuro","I'm sure there were many people who
+were motivated by this and now want to
+beat you.");
 MsgDisp("主人公","That's probably true.
 I have to give it my all.");
 ChEye(6,0);

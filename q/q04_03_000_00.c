@@ -8,17 +8,19 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,1,1);
     VoicePlay("Q040300000_03_000");
     MsgDisp("Honda","Good morning.");
-    MsgDisp("主人公","｛Honda＊＊｝, have you already decided on who
-you want to go with for today's free time?");
+    MsgDisp("主人公","｛Honda＊＊｝, have you already decided
+on who you want to go with for today's
+free time?");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,4,1);
     VoicePlay("Q040300000_03_010");
     MsgDisp("Honda","I see.
-Because it's the free period, we're also free
-to decide who we go with.");
+Because it's the free period, we're also
+free to decide who we go with.");
     MsgDisp("主人公","Mhm.
-If it's fine with you, want to go together?");
+If it's fine with you, want to go
+together?");
     break ;
     case 3:
     MsgDisp("主人公","｛Honda＊＊｝, so you're here.");
@@ -57,8 +59,8 @@ together with me?");
     ChMotion(3,4,1);
     ChEyeOpenLevel(3,0);
     VoicePlay("Q040300000_03_050");
-    MsgDisp("Honda","Getting a \"good morning\" from you outside of
-school is pretty refreshing!");
+    MsgDisp("Honda","Getting a \"good morning\" from you outside
+of school is pretty refreshing!");
     MsgDisp("主人公","Really?
 I guess it's because we're in a hotel?");
     ChEye(3,0);
@@ -66,11 +68,11 @@ I guess it's because we're in a hotel?");
     ChMotion(3,0,1);
     VoicePlay("Q040300000_03_060");
     MsgDisp("Honda","Yepyep.
-Doesn't it feel like the two of us are on a
-trip together?");
+Doesn't it feel like the two of us are on
+a trip together?");
     MsgDisp("主人公","Hehe, it's a strange feeling, isn't it?
-...Oh, right! If it's fine with you, want to
-hang out during the free period?");
+...Oh, right! If it's fine with you, want
+to hang out during the free period?");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,5,1);

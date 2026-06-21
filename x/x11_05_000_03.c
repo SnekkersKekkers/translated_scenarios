@@ -6,8 +6,8 @@ switch (ChPrmGet(5,6)){
     ScrFadeIn(0);
     VoicePlay("X110500003_05_000");
     MsgDisp("Hiiragi","I heard you earned top marks in the joint
-practice with the other school. Your strength
-and flexibility are real assets.");
+practice with the other school. Your
+strength and flexibility are real assets.");
     MsgDisp("主人公","Thank you, I'll practise more and get
 even better!");
     MsgDisp("主人公","(I'm glad I gave it my all!)");
@@ -19,10 +19,11 @@ even better!");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110500003_05_010");
-    MsgDisp("Hiiragi","Your performance was less like a performance
-and more like a dance.");
-    MsgDisp("主人公","Could it be that you came to see the Rhythmic
-Gymnastic's club's joint practice?");
+    MsgDisp("Hiiragi","Your performance was less like a
+performance and more like a dance.");
+    MsgDisp("主人公","Could it be that you came to see the
+Rhythmic Gymnastic's club's joint
+practice?");
     ChEye(5,3);
     ChMotion(5,3);
     VoicePlay("X110500003_05_020");

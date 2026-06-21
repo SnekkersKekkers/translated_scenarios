@@ -25,8 +25,8 @@ You seem like you could make anything.");
     ChMotion(2,4);
     VoicePlay("X120200002_02_010");
     MsgDisp("Sassa","That must have taken a lot of work.
-I'm jealous of the people who can wear what
-you make.");
+I'm jealous of the people who can wear
+what you make.");
     MsgDisp("主人公","(Yay! I was praised!)");
     break ;
     default :

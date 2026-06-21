@@ -12,11 +12,12 @@ switch (ChPrmGet(1,6)){
     Wait(15,0);
     ChEyeOpenLevel(1,10);
     VoicePlay("I160100005_01_000");
-    MsgDisp("Kazama","Lately, a lot has been selling out, not just
-the items on display...");
+    MsgDisp("Kazama","Lately, a lot has been selling out, not
+just the items on display...");
     ChEyeOpenLevel(1,#1);
-    MsgDisp("主人公","Yeah...is it that all the other items selling
-out are related to the ones on display?");
+    MsgDisp("主人公","Yeah...is it that all the other items
+selling out are related to the ones on
+display?");
     ChEye(1,3);
     ChMouth(1,1);
     ChMotion(1,3);
@@ -46,8 +47,9 @@ Even though I ordered extra...");
     ChEyeOpenLevel(1,0);
     VoicePlay("I160100005_01_040");
     MsgDisp("Kazama","Should I get even more?");
-    MsgDisp("主人公","Ah, now that you mention it, didn't the
-orange rhinestone bag sell out quickly, too?");
+    MsgDisp("主人公","Ah, now that you mention it, didn't
+the orange rhinestone bag sell out
+quickly, too?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);
@@ -55,8 +57,8 @@ orange rhinestone bag sell out quickly, too?");
     MsgDisp("Kazama","Aah, you're right.
 We didn't order many since it was a pretty
 expensive item.");
-    MsgDisp("主人公","Maybe it's what our customers are looking for
-right now?");
+    MsgDisp("主人公","Maybe it's what our customers are looking
+for right now?");
     ChEye(1,4);
     ChMouth(1,2);
     ChMotion(1,0);

@@ -3,8 +3,8 @@ MsgClose();
 ChOpen(7,255,0,0,0,#1,#1,0,0);
 VoicePlay("G020710401_07_000");
 MsgDisp("Mikage","You know, this place is famous for strange
-stories about hearing inner voices, but it's
-genuinely a nice spot.");
+stories about hearing inner voices, but
+it's genuinely a nice spot.");
 MsgDisp("主人公","Yeah, it's quiet with no one around.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -39,14 +39,14 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710401_07_050");
 MsgDisp("Mikage","Sigh...
-I was quickly pulled back to the reality of
-Habataki City.");
+I was quickly pulled back to the reality
+of Habataki City.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020710401_07_060");
-MsgDisp("Mikage","...Seriously, you didn't even try to go along
-with it for a bit longer.");
+MsgDisp("Mikage","...Seriously, you didn't even try to go
+along with it for a bit longer.");
 MsgDisp("主人公","Um, okay, sure.
 A couple is fine then.");
 ChEye(7,0);
@@ -54,8 +54,8 @@ ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020710401_07_070");
 MsgDisp("Mikage","Oh, is that so?
-Thank you very much. But actually, the system
-only works for real couples.");
+Thank you very much. But actually, the
+system only works for real couples.");
 MsgDisp("主人公","(Hehe.
 ｛Mikage＊＊｝, thank you for always
 entertaining me like this!)");

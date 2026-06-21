@@ -22,8 +22,8 @@ switch (ChPrmGet(4,6)){
     VoicePlay("O030400001_04_010");
     MsgDisp("Nanatsumori","You won't get first if you're with me.
 Remember that next time.");
-    MsgDisp("主人公","I thought that I would be in sync with you,
-｛Nanatsumori＊｝...
+    MsgDisp("主人公","I thought that I would be in sync with
+you, ｛Nanatsumori＊｝...
 It was close.");
     ChEye(4,2);
     ChMouth(4,0);

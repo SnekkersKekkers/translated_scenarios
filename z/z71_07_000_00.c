@@ -24,8 +24,8 @@ SEPlay("EV_SE_GAYA_017");
 SEPlay("EV_SE_863",0,0.6);
 Wait(30,1);
 MsgDisp("主人公","(Ah!
-｛Mikage＊＊｝ is my homeroom teacher again
-this year∋)");
+｛Mikage＊＊｝ is my homeroom teacher
+again this year∋)");
 VoicePlay("Z710700000_44_000");
 MsgDisp("Girl A","Even though the overalls were cool.");
 ChEye(7,2);
@@ -50,7 +50,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("Z710700000_07_040");
 MsgDisp("Mikage","That's not the point.
-We have to find something interesting to do.");
+We have to find something interesting
+to do.");
 SEStop("EV_SE_GAYA_016",5);
 MsgClose();
 ScrFadeOut(0);
@@ -77,9 +78,9 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("Z710700000_07_060");
-MsgDisp("Mikage","｛主人公｝, it looks like we have extra time
-again this year, so let's have an interesting
-question.");
+MsgDisp("Mikage","｛主人公｝, it looks like we have extra
+time again this year, so let's have an
+interesting question.");
 MsgDisp("主人公","What? Interesting...");
 SEStop("EV_SE_743",2);
 VoicePlay("Z710700000_42_040");
@@ -109,7 +110,8 @@ VoicePlay("Z710700000_07_080");
 MsgDisp("Mikage","Molly is closer to family than a lover.
 Just like you guys.");
 VoicePlay("Z710700000_44_010");
-MsgDisp("Girl A","What? I'd like to be sensei's lover, though.");
+MsgDisp("Girl A","What?
+I'd like to be sensei's lover, though.");
 SEStop("EV_SE_GAYA_016",2);
 ChEye(7,2);
 ChMouth(7,0);

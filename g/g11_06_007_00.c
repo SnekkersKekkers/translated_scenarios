@@ -42,7 +42,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600700_06_030");
 MsgDisp("Himuro","Well, yeah.
-I was wondering if I should practise a bit.");
+I was wondering if I should practise
+a bit.");
 MsgDisp("主人公","Practice?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -57,7 +58,8 @@ ChMotion(6,2);
 VoicePlay("G110600700_06_050");
 MsgDisp("Himuro","Because I was frustrated the last time we
 went together.");
-MsgDisp("主人公","(｛Himuro＊＊｝, was disappointed over that...)");
+MsgDisp("主人公","(｛Himuro＊＊｝, was disappointed over
+that...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

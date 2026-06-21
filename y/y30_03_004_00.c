@@ -3,73 +3,76 @@ BGMPlay("BGM_C03_HONDA_B");
 BGOpen("ad340",0);
 ScrFadeIn(0);
 MsgDisp("","When I start talking to Ryo-kun and
-Mi-kun they make a face that looks as if
-they're annoyed.");
+Mi-kun they make a face that looks as
+if they're annoyed.");
 VoicePlay("Y300300400_01_000");
 MsgDisp("Kazama","\"Honda, this is going to be long
 isn't it?\"");
 VoicePlay("Y300300400_03_000");
-MsgDisp("Honda","\"I wonder? If I don't start talking, I
-won't know.\"");
+MsgDisp("Honda","\"I wonder? If I don't start talking,
+I won't know.\"");
 MsgClear();
 MsgDisp("","When I said that, Ryo-kun sat
-cross-leggedly in front of me as if he
-had resigned.");
+cross-leggedly in front of me as if
+he had resigned.");
 MsgDisp("","After that, Mi-kun acted like it
 couldn't be helped, and sat down too.");
 MsgClear();
 BGOpen("ad341",0);
 VoicePlay("Y300300400_04_000");
-MsgDisp("Nanatsumori","\"Kazama, you actually like listening to
-Dahon talk don't you?\"");
-MsgDisp("","Mi-kun always wears glasses at school,
-so it's difficult to understand his
-facial expressions. But his voice sounds
-like he's amused.");
-MsgDisp("","Today's theme will surely interest even
-you two, I said, laughing—");
+MsgDisp("Nanatsumori","\"Kazama, you actually like listening
+to Dahon talk don't you?\"");
+MsgDisp("","Mi-kun always wears glasses at
+school, so it's difficult to
+understand his facial expressions.
+But his voice sounds like he's
+amused.");
+MsgDisp("","Today's theme will surely interest
+even you two, I said, laughing—");
 MsgClear();
 VoicePlay("Y300300400_01_010");
 MsgDisp("Kazama","\"Don't put on airs and be quick.\"");
 VoicePlay("Y300300400_04_010");
 MsgDisp("Nanatsumori","\"You take so long to even start...\"");
-MsgDisp("","They say, sounding exasperated. Getting
-them to feel anticipation is important
-too. These are the fundamentals of
-storytelling.");
+MsgDisp("","They say, sounding exasperated.
+Getting them to feel anticipation is
+important too. These are the
+fundamentals of storytelling.");
 MsgClear();
 BGOpen("ad342",0);
 VoicePlay("Y300300400_03_010");
 MsgDisp("Honda","\"Okay. Then today's theme is about
 things she likes!\"");
-MsgDisp("","When I said that, their eyes changed. I
-couldn't see Mi-kun's well though.");
-MsgDisp("","Yes, Mi-kun. What do you think? I point
-my finger like a teacher.");
+MsgDisp("","When I said that, their eyes changed.
+I couldn't see Mi-kun's well though.");
+MsgDisp("","Yes, Mi-kun. What do you think? I
+point my finger like a teacher.");
 MsgClear();
 VoicePlay("Y300300400_04_020");
 MsgDisp("Nanatsumori","\"Why me.... Well, I mean she's well
 attuned with trends.\"");
 VoicePlay("Y300300400_01_020");
-MsgDisp("Kazama","\"No, rather than trends, she's the type
-of person to like traditional things.\"");
+MsgDisp("Kazama","\"No, rather than trends, she's the
+type of person to like traditional
+things.\"");
 VoicePlay("Y300300400_03_020");
-MsgDisp("Honda","\"As for me, I think she's curious about
-everything.\"");
+MsgDisp("Honda","\"As for me, I think she's curious
+about everything.\"");
 MsgClear();
 MsgDisp("","Mi-kun says everyone is different and
 laughs.");
-MsgDisp("","Ryo-kun, shrugs his shoulders, as if to
-say \"you don't get it\".");
+MsgDisp("","Ryo-kun, shrugs his shoulders, as if
+to say \"you don't get it\".");
 MsgDisp("","These two's responses were to be
-expected. Alright, alright...I nod. The
-two look at me suspiciously.");
+expected. Alright, alright...I nod.
+The two look at me suspiciously.");
 MsgDisp("","Alright! Now's the best time.");
 MsgClear();
 VoicePlay("Y300300400_03_030");
-MsgDisp("Honda","\"Right, right, that's her. Ever-changing
-and with no key to understanding her.
-That's why she's interesting.\"");
+MsgDisp("Honda","\"Right, right, that's her.
+Ever-changing and with no key to
+understanding her. That's why she's
+interesting.\"");
 VoicePlay("Y300300400_04_030");
 MsgDisp("Nanatsumori","\"True...\"");
 VoicePlay("Y300300400_01_030");
@@ -78,8 +81,8 @@ SEPlay("EV_SE_DOOR_011",0,1);
 SEWait();
 MsgClear();
 MsgDisp("","When the three of us are talking like
-this, the topic of our conversation, she
-comes over.");
+this, the topic of our conversation,
+she comes over.");
 MsgDisp("","Truly, an interesting person.");
 BGMStop();
 MsgClear();

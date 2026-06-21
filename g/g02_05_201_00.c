@@ -10,13 +10,13 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("G020520100_05_010");
-MsgDisp("Hiiragi","I just haven't been able to sort my feelings
-out yet.");
+MsgDisp("Hiiragi","I just haven't been able to sort my
+feelings out yet.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("G020520100_05_020");
-MsgDisp("Hiiragi","Right now, I strongly feel how happy I am to
-see your smile up close.");
+MsgDisp("Hiiragi","Right now, I strongly feel how happy I am
+to see your smile up close.");
 MsgDisp("主人公","O-Okay?");
 ChMotion(5,2);
 VoicePlay("G020520100_05_030");

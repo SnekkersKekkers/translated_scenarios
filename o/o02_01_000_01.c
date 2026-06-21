@@ -41,16 +41,18 @@ My bad.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O020100001_01_040");
-    MsgDisp("Kazama","The dance is next, so maybe that will cheer
-you up?");
-    MsgDisp("主人公","(｛Kazama＊＊｝, thanks for encouraging me...)");
+    MsgDisp("Kazama","The dance is next, so maybe that will
+cheer you up?");
+    MsgDisp("主人公","(｛Kazama＊＊｝, thanks for
+encouraging me...)");
     break ;
     case 4:
     case 5:
     MsgClose();
     ChOpen(1,30,0,0,3,#1,#1,0,0);
     ScrFadeIn(0);
-    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, it was close, but we lost.");
+    MsgDisp("主人公","Ah, ｛Kazama＊＊｝, it was close, but
+we lost.");
     ChEye(1,2);
     ChMouth(1,3);
     ChMotion(1,0);
@@ -62,14 +64,16 @@ More than if I was the one up there.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O020100001_01_060");
-    MsgDisp("Kazama","...Yeah. After all, a smile suits you best.");
+    MsgDisp("Kazama","...Yeah.
+After all, a smile suits you best.");
     MsgDisp("主人公","｛Kazama＊＊｝...
 Thanks.");
     ChEye(1,0);
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("O020100001_01_070");
-    MsgDisp("Kazama","C'mon, there's still the last event, right?");
+    MsgDisp("Kazama","C'mon, there's still the last
+event, right?");
     MsgDisp("主人公","The folk dance!");
     ChEye(1,4);
     ChMouth(1,3);

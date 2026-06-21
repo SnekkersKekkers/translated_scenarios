@@ -18,8 +18,8 @@ It was fun!");
     ChMotion(3,0,1);
     VoicePlay("Q080300001_03_010");
     MsgDisp("Honda","Really?
-Then, why not hang out together the day after
-tomorrow too?");
+Then, why not hang out together the day
+after tomorrow too?");
     MsgDisp("主人公","Yeah, great.");
     break ;
     case 3:

@@ -32,8 +32,8 @@ ChMotion(5,0);
 VoiceEVSPlay(5);
 VoicePlay("Q020C00100_05_010");
 MsgDisp("Hiiragi","｛主人公｝.
-Would you be inclined to spend today's free
-period with us?");
+Would you be inclined to spend today's
+free period with us?");
 MsgSel("Yes, please!","Sorry, it's just...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -63,8 +63,8 @@ have fun for me too.\"");
     ChMotion(5,4);
     ChEyeOpenLevel(5,9);
     VoicePlay("Q020C00100_05_040");
-    MsgDisp("Hiiragi","When Mikage-sensei invited you like that, I
-was worried you'd reject going with us.");
+    MsgDisp("Hiiragi","When Mikage-sensei invited you like that,
+I was worried you'd reject going with us.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,1);

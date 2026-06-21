@@ -51,8 +51,8 @@ You look too real.");
     ChMouth(3,0);
     ChMotion(3,4,1);
     VoicePlay("P730300002_03_050");
-    MsgDisp("Honda","Sending you off like this makes me feel like
-I'm your father.");
+    MsgDisp("Honda","Sending you off like this makes me feel
+like I'm your father.");
     MsgDisp("主人公","(Hehe!
 This is my last show, I have to finish off
 these last three years well!)");
@@ -86,8 +86,8 @@ I feel gloomy.");
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_080");
     MsgDisp("Honda","You wearing a wedding dress, is so
-beautiful, and it suits you well, I want to
-keep it to myself.");
+beautiful, and it suits you well, I want
+to keep it to myself.");
     MsgDisp("主人公","Ehhhh∋");
     ChEye(3,0);
     ChMouth(3,3);
@@ -111,7 +111,8 @@ attention to yourself....");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("P730300002_03_110");
-    MsgDisp("Honda","Bzzt. I feel like this is the wrong answer.");
+    MsgDisp("Honda","Bzzt.
+I feel like this is the wrong answer.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);

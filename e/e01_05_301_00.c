@@ -48,8 +48,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010530100_05_020");
 MsgDisp("Hiiragi","Yes.
-I saw it fall from Nanatsumori-kun's pocket,
-so I went after him.");
+I saw it fall from Nanatsumori-kun's
+pocket, so I went after him.");
 ChMotion(5,4);
 ChEye(4,3);
 ChMouth(4,3);
@@ -128,8 +128,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010530100_05_090");
 MsgDisp("Hiiragi","Of course.
-I don't often have people over at my house,
-so I'm happy to invite you.");
+I don't often have people over at my
+house, so I'm happy to invite you.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -138,8 +138,8 @@ MsgDisp("Nanatsumori","Yano-san you're my idol.
 Thank you so much～...");
 ChMotion(5,4);
 MsgDisp("主人公","(Is it possible ｛Hiiragi＊＊＊｝ and
-｛Nanatsumori＊｝ will become closer because of
-skull bear? Hehe, I'm glad!)");
+｛Nanatsumori＊｝ will become closer because
+of skull bear? Hehe, I'm glad!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

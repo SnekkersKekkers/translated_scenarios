@@ -14,15 +14,15 @@ switch (ChPrmGet(3,6)){
 I heard that there was someone new coming
 today, was that you?");
     MsgDisp("主人公","Yes, it's me.
-｛Honda＊＊｝, I'm looking forward to working
-together.");
+｛Honda＊＊｝, I'm looking forward to
+working together.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("I230300000_03_010");
     MsgDisp("Honda","Me too!
-It might be hard to get the hang of things,
-so hang in there.");
+It might be hard to get the hang of
+things, so hang in there.");
     MsgDisp("主人公","(Alright, I'll do my best!)");
     break ;
     case 3:
@@ -30,8 +30,8 @@ so hang in there.");
     ChMouth(3,3);
     ChMotion(3,0,1);
     VoicePlay("I230300000_03_020");
-    MsgDisp("Honda","I never thought that we'd ever be working at
-the same part-time job.");
+    MsgDisp("Honda","I never thought that we'd ever be working
+at the same part-time job.");
     MsgDisp("主人公","Hehe, looking forward to it.");
     ChEye(3,4);
     ChMouth(3,0);
@@ -81,8 +81,8 @@ I think.");
     ChMotion(3,0,1);
     VoicePlay("I230300000_03_080");
     MsgDisp("Honda","Haha, sorry for scaring you by saying that
-suddenly. You can count on the manager and me
-to do the heavy lifting.");
+suddenly. You can count on the manager and
+me to do the heavy lifting.");
     ChEye(3,0);
     ChMouth(3,4);
     ChMotion(3,1,1);

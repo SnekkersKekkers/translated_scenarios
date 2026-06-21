@@ -51,14 +51,15 @@ good year!)");
     VoicePlay("S120700000_07_030");
     MsgDisp("Mikage","My body and spirit both feel refreshed.");
     MsgDisp("主人公","Yeah.
-｛Mikage＊＊｝, thanks for coming with me.");
+｛Mikage＊＊｝, thanks for coming
+with me.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S120700000_07_040");
     MsgDisp("Mikage","It's helpful when you say that.
-Sorry for dragging you around so much first
-thing in the year.");
+Sorry for dragging you around so much
+first thing in the year.");
     MsgDisp("主人公","No, it was fun.");
     ChEye(7,0);
     ChMouth(7,0);
@@ -94,8 +95,8 @@ Alright, let's go back.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700000_07_080");
-    MsgDisp("Mikage","Hey, it's New Years, so I have to make sure
-to return you safely to your family.
+    MsgDisp("Mikage","Hey, it's New Years, so I have to make
+sure to return you safely to your family.
 I'll take you, come.");
     MsgDisp("主人公","Okay, thank you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");

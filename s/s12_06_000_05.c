@@ -24,7 +24,8 @@ school years.");
     ChMotion(6,0);
     VoicePlay("S120600002_06_050");
     MsgDisp("Himuro","It's not a big deal but...
-Was I the only person you wanted to go with?");
+Was I the only person you wanted to
+go with?");
     MsgDisp("主人公","That kind of thing, maybe not?");
     ChEye(6,0);
     ChMouth(6,3);

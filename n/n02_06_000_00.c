@@ -39,8 +39,8 @@ a fluke.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("N020600000_06_040");
-    MsgDisp("Himuro","I know you work harder than anyone else on a
-daily basis.
+    MsgDisp("Himuro","I know you work harder than anyone else on
+a daily basis.
 These results prove that... Right?");
     MsgDisp("主人公","(Yeah, I did my best!)");
     MsgClose();
@@ -66,8 +66,8 @@ You did it.");
     ChMouth(6,3);
     ChMotion(6,0);
     VoicePlay("N020600000_06_070");
-    MsgDisp("Himuro","These results are only natural when I think
-about what you do every day.");
+    MsgDisp("Himuro","These results are only natural when I
+think about what you do every day.");
     ChEye(6,0);
     ChMouth(6,3);
     ChMotion(6,0);

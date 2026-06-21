@@ -24,26 +24,26 @@ ChClose(7);
 BGOpen("sc744",0);
 ScrFadeIn(0);
 VoicePlay("P240701000_49_000");
-MsgDisp("Narrator","Searching for his missing wife, Bai Niang, Xu
-Xian waited tirelessly by the lake.");
+MsgDisp("Narrator","Searching for his missing wife, Bai Niang,
+Xu Xian waited tirelessly by the lake.");
 VoicePlay("P240701000_46_000");
-MsgDisp("White Girl","I am the incarnation of a thousand year-old
-white snake.
+MsgDisp("White Girl","I am the incarnation of a thousand
+year-old white snake.
 You and I cannot live in the same age.");
 VoicePlay("P240701000_41_020");
 MsgDisp("Xu Xian","Even if that is so, I will take you home.");
 MsgDisp("主人公","...This is a lovely scene, huh?");
 VoicePlay("P240701000_07_020");
 MsgDisp("Mikage","Well yeah.
-I don't think it's right to forcefully bring
-her back though?");
+I don't think it's right to forcefully
+bring her back though?");
 MsgDisp("主人公","Eh?");
 VoicePlay("P240701000_46_010");
 MsgDisp("White Girl","If I were to return, the pursuers would go
 after both you and your family.");
 VoicePlay("P240701000_41_040");
-MsgDisp("Xu Xian","What meaning is there in meekly allowing time
-to pass when you aren't there?");
+MsgDisp("Xu Xian","What meaning is there in meekly allowing
+time to pass when you aren't there?");
 VoicePlay("P240701000_07_030");
 MsgDisp("Mikage","...That hurts to hear.");
 MsgDisp("主人公","? It's almost time for the sound effects.");

@@ -6,7 +6,8 @@ VoicePlay("G110500700_40_000");
 MsgDisp("School Boy","Opposite side!
 Let's go!");
 MsgDisp("主人公","(The schoolyard is lively...
-It looks like the boys are playing soccer.)");
+It looks like the boys are playing
+soccer.)");
 VoiceEVSPlay(5);
 VoicePlay("G110500700_05_000");
 MsgDisp("Hiiragi?","｛主人公｝, don't look away, okay?");
@@ -32,8 +33,8 @@ MsgDisp("Hiiragi","Yes. I got too excited and fell over.");
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","I was cheering from the classroom that time,
-and got scolded by Mikage-sensei.");
+MsgDisp("主人公","I was cheering from the classroom that
+time, and got scolded by Mikage-sensei.");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
@@ -72,8 +73,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("G110500700_05_060");
 MsgDisp("Hiiragi","I'm glad you happened to see it.
-I'm sure if I told you, you wouldn't be able
-to believe it.");
+I'm sure if I told you, you wouldn't be
+able to believe it.");
 MsgDisp("主人公","Hehe!");
 BGMStop();
 SEStop("EV_SE_712",1);

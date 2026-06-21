@@ -13,8 +13,8 @@ MsgClose();
 SEPlay("EV_SE_DOOR_014");
 BGOpen("ar100",0);
 ScrFadeIn(0);
-MsgDisp("主人公","(I think I'll take a break so I can organise
-my notes.)");
+MsgDisp("主人公","(I think I'll take a break so I can
+organise my notes.)");
 VoiceEVSPlay(4);
 VoicePlay("G110400302_04_000");
 MsgDisp("Nanatsumori?","｛主人公｝.");
@@ -45,11 +45,11 @@ MsgDisp("主人公","Yeah.
 I went for a walk around the waterfront
 area today.");
 VoicePlay("G110400302_04_040");
-MsgDisp("Nanatsumori","Ooh, there's a lot of fashionable spots there
-so maybe you got a lot of notes?");
+MsgDisp("Nanatsumori","Ooh, there's a lot of fashionable spots
+there so maybe you got a lot of notes?");
 MsgDisp("主人公","Yeah.
-But my notes are a bit of a mess so I took a
-break so I can organise them.");
+But my notes are a bit of a mess so I took
+a break so I can organise them.");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,2);

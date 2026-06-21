@@ -15,8 +15,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("H380300000_03_010");
-MsgDisp("Honda","I couldn't decide what to do until the very
-last second, though.");
+MsgDisp("Honda","I couldn't decide what to do until the
+very last second, though.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -28,9 +28,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("H380300000_03_030");
-MsgDisp("Honda","-is what I thought, but you're not the kind
-of person that would get shaken by something
-like that!");
+MsgDisp("Honda","-is what I thought, but you're not the
+kind of person that would get shaken by
+something like that!");
 MsgDisp("主人公","Yeah, I'm fine!");
 ChEye(3,4);
 ChMouth(3,3);
@@ -44,10 +44,10 @@ ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("H380300000_03_050");
 MsgDisp("Honda","Alright!
-I'll blow that all away and support you the
-best I can!");
-MsgDisp("主人公","Then, I'll respond to those cheers with all
-that I can!");
+I'll blow that all away and support you
+the best I can!");
+MsgDisp("主人公","Then, I'll respond to those cheers with
+all that I can!");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3);

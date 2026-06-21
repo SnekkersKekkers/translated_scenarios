@@ -23,7 +23,8 @@ ChEye(4,4);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("G020430001_04_050");
-MsgDisp("Nanatsumori","They say \"Birds of a feather flock together\".
+MsgDisp("Nanatsumori","They say \"Birds of a feather flock
+together\".
 Or maybe I'm a lot like them?");
 MsgDisp("主人公","Hmm...");
 ChEye(4,0);
@@ -33,8 +34,8 @@ VoicePlay("G020430001_04_060");
 MsgDisp("Nanatsumori","No one has the same style or common sense.
 Our personalities are also different.");
 VoicePlay("G020430001_04_070");
-MsgDisp("Nanatsumori","If I wasn't in Haba High, I probably wouldn't
-have been in that group.");
+MsgDisp("Nanatsumori","If I wasn't in Haba High, I probably
+wouldn't have been in that group.");
 ChEye(4,0);
 ChMouth(4,4);
 ChMotion(4,1,1);
@@ -46,8 +47,8 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("G020430001_04_090");
 MsgDisp("Nanatsumori","It's strange...
-Even though it seems like it would be a mess,
-it feels oddly comfortable.");
+Even though it seems like it would be a
+mess, it feels oddly comfortable.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

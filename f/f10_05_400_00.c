@@ -43,8 +43,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("F100540000_07_030");
-MsgDisp("Mikage","Yeah. I'd like to eat it all year round, but
-I can only see it in the summer.
+MsgDisp("Mikage","Yeah. I'd like to eat it all year round,
+but I can only see it in the summer.
 When autumn comes, it suddenly disappears.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -68,8 +68,8 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100540000_07_050");
 MsgDisp("Mikage","Hiyashi Chuuka is the same.
-Sesame sauce is good, but vinegar soy sauce
-and mustard are the best.");
+Sesame sauce is good, but vinegar soy
+sauce and mustard are the best.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

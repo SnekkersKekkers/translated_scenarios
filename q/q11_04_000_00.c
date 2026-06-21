@@ -21,7 +21,8 @@ ChEye(4,4);
 ChMotion(4,0,1);
 VoicePlay("Q110400000_04_020");
 MsgDisp("Nanatsumori","Since you already have a lot of items, I
-thought you would like this kind of present.");
+thought you would like this kind of
+present.");
 MsgDisp("主人公","...Are you sure?
 I'm so happy.
 Thank you so much!");
@@ -39,7 +40,8 @@ MsgDisp("Nanatsumori","I'm glad we could match.");
 ChEye(4,4);
 ChMouth(4,3);
 VoicePlay("Q110400000_04_050");
-MsgDisp("Nanatsumori","I wish I could remember this trip forever...");
+MsgDisp("Nanatsumori","I wish I could remember this trip
+forever...");
 MsgDisp("主人公","Yeah. I'm sure I'll never forget it.");
 ChMotion(4,3,1);
 VoicePlay("Q110400000_04_060");

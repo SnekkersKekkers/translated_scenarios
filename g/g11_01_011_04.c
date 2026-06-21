@@ -1,8 +1,8 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right... ｛Kazama＊＊｝ said he wanted
-to talk to me on his way home.
+MsgDisp("主人公","(That's right... ｛Kazama＊＊｝ said he
+wanted to talk to me on his way home.
 ...I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -43,8 +43,8 @@ ChMotion(1,2);
 ChEyeOpenLevel(1,#1);
 VoicePlay("G110101104_01_020");
 MsgDisp("Kazama","I feel the same.
-It somewhat feels like we're running a shop
-together.");
+It somewhat feels like we're running a
+shop together.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -56,8 +56,8 @@ VoicePlay("G110101104_01_030");
 MsgDisp("Kazama","It's given me a simulation of the future,
 while I also get paid for my part time job.
 I'm grateful for General Store simon.");
-MsgDisp("主人公","｛Kazama＊＊｝'s contribution to the store is
-amazing.
+MsgDisp("主人公","｛Kazama＊＊｝'s contribution to the store
+is amazing.
 I have to do my best to catch up to him.");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -74,10 +74,10 @@ ChMouth(1,2);
 ChMotion(1,1);
 VoicePlay("G110101104_01_050");
 MsgDisp("Kazama","When that time comes...
-I'll have to open shop far away from Simon's.
-I can't repay kindness with evil.");
-MsgDisp("主人公","(Hehe, it seems like ｛Kazama＊＊｝ has already
-decided to open up his own shop.)");
+I'll have to open shop far away from
+Simon's. I can't repay kindness with evil.");
+MsgDisp("主人公","(Hehe, it seems like ｛Kazama＊＊｝ has
+already decided to open up his own shop.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

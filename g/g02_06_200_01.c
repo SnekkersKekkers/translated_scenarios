@@ -4,8 +4,8 @@ ChMouth(6,0);
 ChMotion(6,1);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020620001_06_000");
-MsgDisp("Himuro","Look, I know it's not fair to bring this up
-here, but...");
+MsgDisp("Himuro","Look, I know it's not fair to bring this
+up here, but...");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -49,8 +49,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620001_06_070");
-MsgDisp("Himuro","I'd make sure we had a good relationship, one
-people don't look down on.");
+MsgDisp("Himuro","I'd make sure we had a good relationship,
+one people don't look down on.");
 MsgDisp("主人公","Uh, okay...");
 ChEye(6,0);
 ChMouth(6,0);

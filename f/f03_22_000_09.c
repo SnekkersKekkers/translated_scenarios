@@ -17,8 +17,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_420");
-MsgDisp("Hikaru","Hikaru thinks Mari is suited to both types of
-love though, right?");
+MsgDisp("Hikaru","Hikaru thinks Mari is suited to both types
+of love though, right?");
 MsgDisp("主人公","Eh?");
 ChEye(22,0);
 ChMouth(22,3);

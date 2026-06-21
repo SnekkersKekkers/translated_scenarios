@@ -9,7 +9,8 @@ switch (ChPrmGet(1,6)){
     case 3:
     ScrFadeIn(0);
     VoicePlay("P830100000_48_000");
-    MsgDisp("School Girl","Could you make a lost property announcement?");
+    MsgDisp("School Girl","Could you make a lost property
+announcement?");
     MsgDisp("主人公","Yes, I got it!");
     VoiceEVSPlay(1);
     VoicePlay("P830100000_01_000");
@@ -42,7 +43,8 @@ I'll hand it over to them.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("P830100000_01_030");
-    MsgDisp("Kazama","Yeah, quickly relieve them of their worries.");
+    MsgDisp("Kazama","Yeah, quickly relieve them of their
+worries.");
     MsgDisp("主人公","Yeah, I'll see you later!");
     MsgClose();
     ScrFadeOut(0,0);
@@ -61,8 +63,8 @@ That's mine.");
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
     ChOpen(1,254,0,2,3,#1,#1,0,0);
-    MsgDisp("主人公","Ah...now that I think about it, I thought I
-had seen it before.");
+    MsgDisp("主人公","Ah...now that I think about it, I thought
+I had seen it before.");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,0);
@@ -70,14 +72,15 @@ had seen it before.");
     VoicePlay("P830100000_01_050");
     MsgDisp("Kazama","Shouldn't you have recognised it earlier?");
     MsgDisp("主人公","Sorry.
-I just thought I shouldn't just touch and use
-things as I please.");
+I just thought I shouldn't just touch and
+use things as I please.");
     ChEye(1,2);
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("P830100000_01_060");
     MsgDisp("Kazama","Oi, seriously, you...");
-    MsgDisp("主人公","Hehe, well it was properly locked, you know?");
+    MsgDisp("主人公","Hehe, well it was properly locked,
+you know?");
     ChEye(1,0);
     ChMouth(1,2);
     ChMotion(1,3);

@@ -3,14 +3,14 @@ SEPlay("EV_SE_663");
 SEWait();
 VoicePlay("I420000000_49_000");
 MsgDisp("Manager","Yes, this is Flower Shop Annalee.");
-MsgDisp("主人公","I'm calling about your help wanted ad for the
-part-time job opening...");
+MsgDisp("主人公","I'm calling about your help wanted ad for
+the part-time job opening...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("I420000000_49_010");
-MsgDisp("Manager","Then, could you take shifts every Wednesday
-and Friday?");
+MsgDisp("Manager","Then, could you take shifts every
+Wednesday and Friday?");
 MsgDisp("主人公","Yes, it's a pleasure to start working
 with you.");
 VoicePlay("I420000000_49_020");

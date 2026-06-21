@@ -32,9 +32,9 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("F020300012_03_030");
-MsgDisp("Honda","Because if I miss this season, I'll never be
-able to see some of those creatures outside
-of books.");
+MsgDisp("Honda","Because if I miss this season, I'll never
+be able to see some of those creatures
+outside of books.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5);
@@ -42,5 +42,5 @@ VoicePlay("F020300012_03_040");
 MsgDisp("Honda","Right!
 Those pupa I found at the forest park...
 I get to see them hatch with my own eyes!");
-MsgDisp("主人公","(｛Honda＊＊｝'s spring break seems enriching
-as always...)");
+MsgDisp("主人公","(｛Honda＊＊｝'s spring break seems
+enriching as always...)");

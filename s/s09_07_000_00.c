@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     MsgClose();
     ChOpen(7,255,0,0,0,#1,#1,0,0);
     VoicePlay("S090700000_07_000");
-    MsgDisp("Mikage","Wow, like expected, the shrine is really busy
-and lively on New years, huh.");
+    MsgDisp("Mikage","Wow, like expected, the shrine is really
+busy and lively on New years, huh.");
     ChEye(7,0);
     ChMouth(7,4);
     ChMotion(7,3);
@@ -28,7 +28,8 @@ and lively on New years, huh.");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("S090700000_07_030");
-        MsgDisp("Mikage","I wonder what our fortunes will be this year?");
+        MsgDisp("Mikage","I wonder what our fortunes will be
+this year?");
         MsgDisp("主人公","Yeah! I hope we get good ones.");
         ChEye(7,0);
         ChMouth(7,0);
@@ -72,8 +73,8 @@ That's where they do fortunes, right?");
         ChMotion(7,2);
         VoicePlay("S090700000_07_070");
         MsgDisp("Mikage","Right?
-We've come all this way, it would be a waste
-not to go.");
+We've come all this way, it would be a
+waste not to go.");
         MsgDisp("主人公","Hehe. Let's go.");
         ChEye(7,0);
         ChMouth(7,0);
@@ -90,7 +91,8 @@ not to go.");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("S090700000_07_090");
-        MsgDisp("Mikage","Sorry, I guess I dragged you around too much.");
+        MsgDisp("Mikage","Sorry, I guess I dragged you around
+too much.");
         MsgClose();
         ScrFadeOut(0,0);
         break ;
@@ -146,8 +148,8 @@ Leave it to me.");
         VoicePlay("S090700000_07_140");
         MsgDisp("Mikage","Oh, I see.
 If you don't like it, then you shouldn't.");
-        MsgDisp("主人公","(｛Mikage＊＊｝, feels like he really wanted
-to pull fortunes...
+        MsgDisp("主人公","(｛Mikage＊＊｝, feels like he really
+wanted to pull fortunes...
 Did I make the wrong choice?)");
         MsgClose();
         ScrFadeOut(0,0);

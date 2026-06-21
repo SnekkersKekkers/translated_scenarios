@@ -22,9 +22,9 @@ But you know, I thought you were here.
 It's unusual.");
 ChMotion(3,0,1);
 VoicePlay("T020300000_03_020");
-MsgDisp("Honda","In the past I didn't really like this kind of
-thing, but now you've caused some chemical
-reaction within me.");
+MsgDisp("Honda","In the past I didn't really like this kind
+of thing, but now you've caused some
+chemical reaction within me.");
 MsgDisp("主人公","Me?");
 ChMotion(3,1,1);
 VoicePlay("T020300000_03_030");
@@ -40,9 +40,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020300000_03_050");
-MsgDisp("Honda","My younger sister taught me about the joy of
-teaching others. Although she started to
-avoid me when I became a middle school
+MsgDisp("Honda","My younger sister taught me about the joy
+of teaching others. Although she started
+to avoid me when I became a middle school
 student.");
 MsgDisp("主人公","｛Honda＊＊｝, I was worried.");
 ChEye(3,0);
@@ -57,15 +57,15 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("T020300000_03_070");
-MsgDisp("Honda","That I realised that the fun I had talking to
-you was completely different from the fun I
-had teaching children or my sister.");
+MsgDisp("Honda","That I realised that the fun I had talking
+to you was completely different from the
+fun I had teaching children or my sister.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,5,1);
 VoicePlay("T020300000_03_080");
-MsgDisp("Honda","Look, the school trip we went on together was
-the best!");
+MsgDisp("Honda","Look, the school trip we went on together
+was the best!");
 MsgDisp("主人公","Yeah, it was fun.
 ｛Honda＊＊｝ was our guide.");
 ChEye(3,0);
@@ -73,14 +73,15 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("T020300000_03_090");
 MsgDisp("Honda","Do you remember?
-At Meganebashi Bridge, our time together was
-interrupted, and I became mean.");
+At Meganebashi Bridge, our time together
+was interrupted, and I became mean.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("T020300000_03_100");
-MsgDisp("Honda","When I'm with you, a chemical reaction occurs
-inside me, and an unknown me is born.");
+MsgDisp("Honda","When I'm with you, a chemical
+reaction occurs inside me, and an
+unknown me is born.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4);
@@ -91,9 +92,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("T020300000_03_120");
-MsgDisp("Honda","Because it happens all the time when I'm with
-you. Look, even when I was working part-time,
-the manager got mad at me.");
+MsgDisp("Honda","Because it happens all the time when I'm
+with you. Look, even when I was working
+part-time, the manager got mad at me.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -105,15 +106,15 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("T020300000_03_140");
-MsgDisp("Honda","You're the person I should devote my life to,
-the subject of my lifelong research.");
+MsgDisp("Honda","You're the person I should devote my life
+to, the subject of my lifelong research.");
 MsgDisp("主人公","Eh∋");
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("T020300000_03_150");
 MsgDisp("Honda","You, my family.
-These are the people who bring about change
-in me.");
+These are the people who bring about
+change in me.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,2,1);

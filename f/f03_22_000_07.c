@@ -25,12 +25,12 @@ ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F032200000_22_320");
 MsgDisp("Hikaru","There's lots of things Hikaru can do right
-now, and Hikaru wants to connect all of them
-to her future.");
+now, and Hikaru wants to connect all of
+them to her future.");
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_330");
-MsgDisp("Hikaru","That's why, Hikaru doesn't want to think of
-just one thing for her dream.
+MsgDisp("Hikaru","That's why, Hikaru doesn't want to think
+of just one thing for her dream.
 She wants to do everything.");
 MsgDisp("主人公","That's amazing...!");
 ChEye(22,0);

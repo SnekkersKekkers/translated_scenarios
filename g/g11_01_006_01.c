@@ -1,8 +1,8 @@
 BGOpen("sc511",0);
 SEPlay("EV_SE_SCHOOL_002");
 ScrFadeIn(0);
-MsgDisp("主人公","(That's right... ｛Kazama＊＊｝ said he wanted
-to talk to me on the way home...
+MsgDisp("主人公","(That's right... ｛Kazama＊＊｝ said he
+wanted to talk to me on the way home...
 I wonder if something happened?)");
 SEStop("EV_SE_SCHOOL_002",1.5);
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -18,8 +18,8 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, that's right what did you want to talk to
-me about?");
+MsgDisp("主人公","Ah, that's right what did you want to talk
+to me about?");
 ChEyeOpenLevel(1,0);
 Wait(12,0);
 ChEye(1,0);
@@ -57,7 +57,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 VoicePlay("G110100601_01_040");
 MsgDisp("Kazama","After that, it's my problem.
-It's not yours, not Inori's. It's my problem.");
+It's not yours, not Inori's. It's my
+problem.");
 MsgDisp("主人公","...Yeah.");
 ChEye(1,2);
 ChMouth(1,2);

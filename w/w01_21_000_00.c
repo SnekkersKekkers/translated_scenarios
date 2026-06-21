@@ -22,8 +22,8 @@ ChMouth(21,0);
 ChMotion(21,4);
 VoicePlay("W012100000_21_020");
 MsgDisp("Michiru","Nope.
-I'm inviting other people but who they are is
-a secret. ...How about it?");
+I'm inviting other people but who they are
+is a secret. ...How about it?");
 MsgSel("Yeah, let's go!","Sorry, I have some errands to run.");
 switch (MsgSelRsltGet()){
     case 0:

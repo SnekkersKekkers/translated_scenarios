@@ -3,17 +3,18 @@ BGOpen("ad710",0);
 BGMPlay("BGM_C07_MIKAGE_I",0.01);
 ScrFadeIn(0);
 VoicePlay("Y300700100_07_000");
-MsgDisp("Mikage","\"They've grown well this year too, huh.\"");
+MsgDisp("Mikage","\"They've grown well this year
+too, huh.\"");
 MsgDisp("","Both hands are filled with bright red
 strawberries I harvested.");
 MsgDisp("","This is the third year of growing
 strawberries at Habataki green farm.
 This year they're the best quality.");
 MsgClear();
-MsgDisp("","With the quality this good, it's a shame
-to eat them all by myself. I want to
-share them with someone who'd really
-appreciate them....");
+MsgDisp("","With the quality this good, it's a
+shame to eat them all by myself. I
+want to share them with someone who'd
+really appreciate them....");
 MsgDisp("","Alright, I'll treat Miss Diligent.");
 MsgClear();
 MsgClose();
@@ -21,13 +22,13 @@ ScrFadeOut(0);
 BGOpen("ad711",0);
 ScrFadeIn(0);
 MsgDisp("","When I think of that girl's smile, I
-naturally start feeling happy too. She
-has a strange charm.");
+naturally start feeling happy too.
+She has a strange charm.");
 SEPlay("EV_SE_813");
 Wait(30,0);
-MsgDisp("","Yes, this one's a beauty. The next one
-is also a beauty. Not omitting a single
-one, they're all beauties.");
+MsgDisp("","Yes, this one's a beauty. The next
+one is also a beauty. Not omitting a
+single one, they're all beauties.");
 MsgDisp("","Both the shapes and sizes vary. But
 still, that's fine.");
 SEStop("EV_SE_813",1);
@@ -39,13 +40,13 @@ MsgDisp("","I'll make a fruit sandwich.");
 SEPlay("EV_SE_811");
 Wait(30,0);
 MsgDisp("","While cooling it with ice, I'll whip
-some fresh cream in a bowl. I like this
-kind of work.");
+some fresh cream in a bowl. I like
+this kind of work.");
 MsgClear();
 SEStop("EV_SE_811",2);
 MsgDisp("","The once-liquid cream becomes heavier
-once air is incorporated. It turns from
-liquid to solid in an instant.");
+once air is incorporated. It turns
+from liquid to solid in an instant.");
 SEPlay("EV_SE_812");
 Wait(30,0);
 MsgDisp("","Eight minutes. When I scoop it up, it

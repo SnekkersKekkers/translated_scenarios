@@ -9,8 +9,8 @@ switch (ChPrmGet(5,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S070500000_05_000");
-    MsgDisp("Hiiragi","I can feel everyone's thoughts and dreams for
-the New Year.");
+    MsgDisp("Hiiragi","I can feel everyone's thoughts and dreams
+for the New Year.");
     MsgDisp("主人公","Yeah, the shrine is crowded...");
     ChMotion(5,0);
     VoicePlay("S070500000_05_010");
@@ -18,8 +18,8 @@ the New Year.");
 Our shows are the same way.
 I consider it a good luck charm.");
     MsgDisp("主人公","(As expected of the Chairman.
-I hope the theatre company will be successful
-again this year.)");
+I hope the theatre company will be
+successful again this year.)");
     break ;
     case 3:
     ChEye(5,0);
@@ -34,8 +34,8 @@ again this year.)");
     ChMotion(5,0);
     VoicePlay("S070500000_05_030");
     MsgDisp("Hiiragi","They are.
-The shrine is full of everyone's thoughts and
-prayers for the new year.");
+The shrine is full of everyone's thoughts
+and prayers for the new year.");
     MsgDisp("主人公","That's right.
 Let's not lose to them and make our own
 wishes for the New Year!");

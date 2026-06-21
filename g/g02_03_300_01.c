@@ -2,14 +2,15 @@ ChLayout(1);
 MsgClose();
 ChOpen(3,255,0,4,0,#1,#1,0,0);
 VoicePlay("G020330001_03_000");
-MsgDisp("Honda","I probably should've told Ryo-kun and Mi-kun
-about coming here.");
+MsgDisp("Honda","I probably should've told Ryo-kun and
+Mi-kun about coming here.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020330001_03_010");
-MsgDisp("Honda","I don't think they'd complain openly, but...");
+MsgDisp("Honda","I don't think they'd complain
+openly, but...");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,0);
@@ -21,21 +22,22 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("G020330001_03_030");
-MsgDisp("Honda","Yep, yep. He always looks cool surrounded by
-girls, but when it's just us guys, he can be
-a bit blunt. It's funny.");
+MsgDisp("Honda","Yep, yep. He always looks cool surrounded
+by girls, but when it's just us guys, he
+can be a bit blunt. It's funny.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("G020330001_03_040");
-MsgDisp("Honda","Mi-kun doesn't show much emotion, but he'll
-probably text me later.");
+MsgDisp("Honda","Mi-kun doesn't show much emotion, but
+he'll probably text me later.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020330001_03_050");
-MsgDisp("Honda","\"Why didn't you tell me?\" in his blunt tone.
+MsgDisp("Honda","\"Why didn't you tell me?\" in his
+blunt tone.
 So troublesome.");
 MsgDisp("主人公","It doesn't seem that way to me.
 You look like you're having fun.");
@@ -55,10 +57,11 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020330001_03_080");
-MsgDisp("Honda","I think I've been influenced by them more
-than by just what we've said to each other.");
-MsgDisp("主人公","(Is this what friendship between guys looks
-like ...it seems kind of wonderful?)");
+MsgDisp("Honda","I think I've been influenced by them
+more than by just what we've said to
+each other.");
+MsgDisp("主人公","(Is this what friendship between guys
+looks like ...it seems kind of wonderful?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

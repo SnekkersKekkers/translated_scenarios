@@ -33,15 +33,15 @@ I'm nervous...)");
     ChMotion(7,2);
     VoicePlay("P730700000_07_030");
     MsgDisp("Mikage","From now on I'll be serious.
-Your anxiousness is proof that you seriously
-worked hard on this.");
+Your anxiousness is proof that you
+seriously worked hard on this.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P730700000_07_040");
     MsgDisp("Mikage","Just the fact that you were able to feel
-nervous means that no matter the result, it
-will remain a memory.");
+nervous means that no matter the result,
+it will remain a memory.");
     MsgDisp("主人公","Yes. Even if you say that...");
     ChEye(7,0);
     ChMouth(7,3);
@@ -86,7 +86,8 @@ Is it really...?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("P730700000_07_090");
-    MsgDisp("Mikage","Now I'm looking forwards to your model walk.");
+    MsgDisp("Mikage","Now I'm looking forwards to your
+model walk.");
     SEPlay("EV_SE_038");
     SEWait();
     ChEye(7,0);

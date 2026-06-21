@@ -57,8 +57,8 @@ Huh, did I make a mistake somewhere?");
     ChMouth(8,4);
     ChMotion(8,4,1);
     VoicePlay("I660800002_08_050");
-    MsgDisp("Shirahane","Feels like more and more customers have been
-comin' here jus' for you...");
+    MsgDisp("Shirahane","Feels like more and more customers have
+been comin' here jus' for you...");
     MsgDisp("主人公","Not at all...
 ｛Daichi＊＊｝, you're overthinking it.");
     ChEye(8,2);

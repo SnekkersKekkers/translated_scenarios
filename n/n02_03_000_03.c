@@ -18,9 +18,9 @@ What's wrong?");
     ChMotion(3,4);
     ChEyeOpenLevel(3,#1);
     VoicePlay("N020300003_03_010");
-    MsgDisp("Honda","I was trying to look for your name from the
-top, but my eyes got tired before I found
-it...Sorry.");
+    MsgDisp("Honda","I was trying to look for your name from
+the top, but my eyes got tired before I
+found it...Sorry.");
     MsgDisp("主人公","(Oof... I've got to study harder...)");
     break ;
     case 3:
@@ -60,21 +60,22 @@ I've got to study harder...)");
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("N020300003_03_060");
-    MsgDisp("Honda","At home, my younger sister often tells me to
-leave because I'm disturbing her studies.");
+    MsgDisp("Honda","At home, my younger sister often tells me
+to leave because I'm disturbing her
+studies.");
     ChEye(3,4);
     ChMouth(3,4);
     ChMotion(3,1);
     VoicePlay("N020300003_03_070");
-    MsgDisp("Honda","If I'm bothering you or anything, feel free
-to tell me, so it doesn't get in the way of
-your studies.");
+    MsgDisp("Honda","If I'm bothering you or anything, feel
+free to tell me, so it doesn't get in the
+way of your studies.");
     ChEye(3,2);
     ChMouth(3,0);
     ChMotion(3,2);
     VoicePlay("N020300003_03_080");
-    MsgDisp("Honda","I have so much fun with you that I can't stop
-talking...");
+    MsgDisp("Honda","I have so much fun with you that I can't
+stop talking...");
     MsgDisp("主人公","No, that's not it.
 It's because of my lack of effort.");
     ChEye(3,4);
@@ -98,8 +99,8 @@ Ask me anything you don't get.");
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("N020300003_03_120");
-    MsgDisp("Honda","If I say something unnecessary, please stop
-me and let me know!");
+    MsgDisp("Honda","If I say something unnecessary, please
+stop me and let me know!");
     MsgDisp("主人公","Okay, thank you...");
     ChEye(3,3);
     ChMouth(3,3);

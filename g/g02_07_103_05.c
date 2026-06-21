@@ -21,9 +21,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020710305_07_020");
-MsgDisp("Mikage","Yeah. In the dark, the sense of distance gets
-blurred. They're actually flying quite far
-away, so you can't hear them.");
+MsgDisp("Mikage","Yeah. In the dark, the sense of distance
+gets blurred. They're actually flying
+quite far away, so you can't hear them.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -53,9 +53,10 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020710305_07_060");
 MsgDisp("Mikage","Listen, being kind and gentle is a great
-quality of yours, but make sure to speak up
-when you're in trouble.");
-MsgDisp("主人公","Yes, but ｛Mikage＊＊｝ is always nearby...");
+quality of yours, but make sure to speak
+up when you're in trouble.");
+MsgDisp("主人公","Yes, but ｛Mikage＊＊｝ is always
+nearby...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);

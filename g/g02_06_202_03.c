@@ -78,7 +78,8 @@ ChMotion(6,0);
 VoicePlay("G020620203_06_110");
 MsgDisp("Himuro","Don't forget what you just said.
 Because it's a promise.");
-MsgDisp("主人公","(I feel like I made a really big promise...)");
+MsgDisp("主人公","(I feel like I made a really big
+promise...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

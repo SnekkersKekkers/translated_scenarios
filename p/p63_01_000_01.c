@@ -24,8 +24,8 @@ This year we're also doing a vegetable sale.");
     ChMotion(1,1);
     VoicePlay("P630100001_01_010");
     MsgDisp("Kazama","Ehhh, your vegetables, huh?
-Somehow, I think I can tell which it is just
-by looking.");
+Somehow, I think I can tell which it is
+just by looking.");
     MsgDisp("主人公","Yes, because the person who grew them is
 written down.");
     ChEye(1,0);
@@ -66,8 +66,8 @@ vegetables are for sale.");
     ChMotion(1,0);
     VoicePlay("P630100001_01_050");
     MsgDisp("Kazama","Understood.
-I'll buy some vegetables as a souvenir for my
-Grandpa.");
+I'll buy some vegetables as a souvenir for
+my Grandpa.");
     MsgDisp("主人公","Yeah, I hope he likes it.");
     MsgClose();
     ScrFadeOut(0,0);

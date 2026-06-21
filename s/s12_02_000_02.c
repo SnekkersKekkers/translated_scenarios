@@ -14,7 +14,8 @@ switch (ChPrmGet(2,6)){
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120200002_02_000");
-    MsgDisp("Sassa","Good. I got to start the year off with you.");
+    MsgDisp("Sassa","Good.
+I got to start the year off with you.");
     MsgDisp("主人公","Yeah, treat me well this year.");
     ChEye(2,0);
     ChMouth(2,3);
@@ -27,7 +28,8 @@ See you!");
     SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
     MsgClose();
     ChClose(2);
-    MsgDisp("主人公","(｛Sassa＊＊｝ is working hard again this year.
+    MsgDisp("主人公","(｛Sassa＊＊｝ is working hard again
+this year.
 Alright, I'll try my best too!)");
     break ;
     case 3:
@@ -97,8 +99,8 @@ a while.");
     ChMotion(2,0);
     VoicePlay("S120200002_02_100");
     MsgDisp("Sassa","Ah, no good.
-I'm a hot-blooded track idiot, so please be
-good to me this year too.");
+I'm a hot-blooded track idiot, so please
+be good to me this year too.");
     MsgDisp("主人公","Eh? I've never thought of you that way.");
     ChEye(2,0);
     ChMouth(2,4);

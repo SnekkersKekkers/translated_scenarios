@@ -29,8 +29,8 @@ for today's free period?");
     VoicePlay("Q040700000_07_020");
     MsgDisp("Mikage","Haha, are you inviting me?");
     MsgDisp("主人公","Yes.
-If it's fine with you, could you look around
-with me?");
+If it's fine with you, could you look
+around with me?");
     break ;
     case 4:
     case 5:

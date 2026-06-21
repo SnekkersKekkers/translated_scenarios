@@ -19,15 +19,15 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("T020101000_01_360");
 MsgDisp("Kazama","Yeah.
-It was because of this memory that I was able
-to persevere even so far away.");
+It was because of this memory that I was
+able to persevere even so far away.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("T020101000_01_380");
-MsgDisp("Kazama","May we always be happy and healthy, and may
-we get married.");
+MsgDisp("Kazama","May we always be happy and healthy, and
+may we get married.");
 ChEyeOpenLevel(1,0);
 ChMouthOpenLevel(1,0);
 VoicePlay("T020101000_01_390");
@@ -50,7 +50,8 @@ It looks similar to your hair accessory
 doesn't it?");
 MsgDisp("主人公","Wow, it's beautiful...!");
 VoicePlay("T020101000_01_420");
-MsgDisp("Kazama","I found and bought it when I was in England.");
+MsgDisp("Kazama","I found and bought it when I was in
+England.");
 StlEyeOpenLevel(1,5,1);
 VoicePlay("T020101000_01_430");
 MsgDisp("Kazama","—I promised to definitely give it to you

@@ -15,7 +15,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q080A00100_01_000");
 MsgDisp("Kazama","Me too.
-But you know, the school trip isn't over yet.");
+But you know, the school trip isn't
+over yet.");
 MsgDisp("主人公","Yeah, that's true.");
 ChEye(1,4);
 ChMouth(1,3);
@@ -36,8 +37,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q080A00100_01_020");
-MsgDisp("Kazama","Then let's go around the day after tomorrow
-with the four of us, shall we?");
+MsgDisp("Kazama","Then let's go around the day after
+tomorrow with the four of us, shall we?");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,4,1);

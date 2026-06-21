@@ -31,8 +31,8 @@ Wait(120,0);
 StlOpen("ev_04_17");
 ScrFadeIn(0);
 VoicePlay("T020400000_04_220");
-MsgDisp("Nanatsumori","I, Nanatsumori Minoru promise to love you for
-the rest of my life.");
+MsgDisp("Nanatsumori","I, Nanatsumori Minoru promise to love you
+for the rest of my life.");
 VoiceEVSPlay(4);
 VoicePlay("T020400000_04_230");
 MsgDisp("Nanatsumori","｛主人公｝, I love you.");

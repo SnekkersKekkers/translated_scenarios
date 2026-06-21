@@ -8,8 +8,8 @@ switch (ChPrmGet(7,6)){
     break ;
     case 3:
     MsgDisp("主人公","(Seems like I'm calmer this year.
-Maybe this is thanks to me working hard these
-last three years?)");
+Maybe this is thanks to me working hard
+these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();
@@ -24,7 +24,8 @@ last three years?)");
     MsgDisp("Mikage","I came to see your nervous face, but I'm
 disappointed.");
     MsgDisp("主人公","Hey.
-I'm nervous since it's my last performance.");
+I'm nervous since it's my last
+performance.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -41,17 +42,17 @@ Don't say it's the last.");
 Himuro's last time conducting?
 So repay him with a good performance.");
     MsgDisp("主人公","Yes!");
-    MsgDisp("主人公","(Alright! I'll have to let both Himuro-sensei
-and ｛Mikage＊＊｝ listen to the culmination
-of my performances!)");
+    MsgDisp("主人公","(Alright! I'll have to let both
+Himuro-sensei and ｛Mikage＊＊｝ listen
+to the culmination of my performances!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
     case 4:
     case 5:
     MsgDisp("主人公","(Seems like I'm calmer this year.
-Maybe this is thanks to me working hard these
-last three years?)");
+Maybe this is thanks to me working hard
+these last three years?)");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
     SEWait();

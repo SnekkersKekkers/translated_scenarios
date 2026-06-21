@@ -84,8 +84,8 @@ What's up?");
     ChMotion(4,0,1);
     VoicePlay("I650400000_04_080");
     MsgDisp("Nanatsumori","Super nice-smelling hand cream.
-You must always be washing oil and dirt off
-your hands. Care for them with this.");
+You must always be washing oil and dirt
+off your hands. Care for them with this.");
     MsgDisp("主人公","Yeah. Waah, it really does smell good...!
 Thanks!");
     ChEye(4,3);
@@ -104,8 +104,8 @@ You don't get off until...how long?");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("I650400000_04_110");
-    MsgDisp("Nanatsumori","I wish I had a real car for times like this,
-so I could wait for you...");
+    MsgDisp("Nanatsumori","I wish I had a real car for times like
+this, so I could wait for you...");
     MsgDisp("主人公","(｛Nanatsumori＊｝?
 He came to cheer me on, right?
 I'm so happy he gave me hand cream!)");

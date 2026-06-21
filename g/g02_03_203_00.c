@@ -9,16 +9,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020320300_03_010");
-MsgDisp("Honda","Well, we saw a lot of couples in the park and
-around town on the way here, right?
+MsgDisp("Honda","Well, we saw a lot of couples in the park
+and around town on the way here, right?
 But they all had different forms.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("G020320300_03_020");
-MsgDisp("Honda","Age differences, races, backgrounds... each
-person was different.");
+MsgDisp("Honda","Age differences, races, backgrounds...
+each person was different.");
 MsgDisp("主人公","Yeah, that's right.");
 ChEye(3,0);
 ChMouth(3,0);
@@ -38,14 +38,15 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("G020320300_03_050");
-MsgDisp("Honda","To make the other person happy, you can give
-gifts, cook for them, or compliment them...");
+MsgDisp("Honda","To make the other person happy, you can
+give gifts, cook for them, or
+compliment them...");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("G020320300_03_060");
-MsgDisp("Honda","There are many ways to do it, but am I making
-you happy?");
+MsgDisp("Honda","There are many ways to do it, but am I
+making you happy?");
 MsgDisp("主人公","Eh...");
 ChEye(3,5);
 ChMouth(3,0);
@@ -64,9 +65,9 @@ ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,1);
 VoicePlay("G020320300_03_090");
-MsgDisp("Honda","Like, if my talk about firefly behaviour was
-boring, I can switch to beetle hibernation
-methods—");
+MsgDisp("Honda","Like, if my talk about firefly behaviour
+was boring, I can switch to beetle
+hibernation methods—");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,5);
@@ -74,7 +75,8 @@ VoicePlay("G020320300_03_100");
 MsgDisp("Honda","Wait, forget that.
 I feel like my sister would scold me for
 that one.");
-MsgDisp("主人公","(Hehe! I enjoy ｛Honda＊＊｝'s talks though...)");
+MsgDisp("主人公","(Hehe!
+I enjoy ｛Honda＊＊｝'s talks though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

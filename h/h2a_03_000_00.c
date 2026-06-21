@@ -24,8 +24,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("H2A0300000_03_020");
-MsgDisp("Honda","This is the best possible result for you as
-manager, right?");
+MsgDisp("Honda","This is the best possible result for you
+as manager, right?");
 MsgDisp("主人公","Yes, I think so!");
 ChEye(3,3);
 ChMouth(3,3);

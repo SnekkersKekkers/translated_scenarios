@@ -18,8 +18,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("P650700002_07_020");
-MsgDisp("Mikage","Alright, after this let's raise a toast using
-this herbal tea.");
+MsgDisp("Mikage","Alright, after this let's raise a toast
+using this herbal tea.");
 MsgDisp("主人公","(Yay, a huge success!
 I was able to make a nice memory...)");
 MsgClose();

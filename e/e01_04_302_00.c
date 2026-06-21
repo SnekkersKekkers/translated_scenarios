@@ -48,8 +48,8 @@ ChMouth(4,2);
 ChMotion(4,1,1);
 ChEyeOpenLevel(4,7);
 VoicePlay("E010430200_04_040");
-MsgDisp("Nanatsumori","He thinks you're being hit on by some flashy
-guy called NANA.
+MsgDisp("Nanatsumori","He thinks you're being hit on by some
+flashy guy called NANA.
 AKA me."); 
 MsgDisp("主人公","Ah...");
 ChEyeOpenLevel(4,#1);
@@ -95,9 +95,10 @@ ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("E010430200_04_070");
-MsgDisp("Nanatsumori","We were able to prevent it, though I feel it
-almost led to another misunderstanding.");
-MsgDisp("主人公","(What other misunderstanding could there be?)");
+MsgDisp("Nanatsumori","We were able to prevent it, though I feel
+it almost led to another misunderstanding.");
+MsgDisp("主人公","(What other misunderstanding could
+there be?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

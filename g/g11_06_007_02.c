@@ -59,22 +59,23 @@ MsgDisp("Himuro","Huh...?
 Why are you staring at my arm all of
 a sudden?");
 MsgDisp("主人公","Ah, sorry.
-I'm just thinking about before, that time we
-went to the livehouse.");
+I'm just thinking about before, that time
+we went to the livehouse.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_050");
 MsgDisp("Himuro","Oh...that?");
 MsgDisp("主人公","｛Himuro＊＊｝ borrowed a bass from one of the
-band members and started playing, remember?");
+band members and started playing,
+remember?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G110600702_06_060");
 MsgDisp("Himuro","Yeah, that happened.");
-MsgDisp("主人公","That's why I thought ｛Himuro＊＊｝ is good with
-his hands too.");
+MsgDisp("主人公","That's why I thought ｛Himuro＊＊｝ is good
+with his hands too.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

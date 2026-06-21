@@ -54,14 +54,15 @@ MsgDisp("VP Himuro","Why the surprise?
 I have taught here for years. I've seen many
 an energetic student such as yourself...Ahem.");
 MsgDisp("主人公","I see...
-But, skinship is still too difficult for me.");
+But, skinship is still too difficult
+for me.");
 ChEye(32,0);
 ChMouth(32,0);
 ChEyeOpenLevel(32,0);
 VoicePlay("Z813200000_32_050");
 MsgDisp("VP Himuro","Hm...very well.
-I will be a practical model for your studies,
-if you'd like.");
+I will be a practical model for your
+studies, if you'd like.");
 MsgSel("I'll be counting on you!","I'll figure it out myself.");
 switch (MsgSelRsltGet()){
     case 0:

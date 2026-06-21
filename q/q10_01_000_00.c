@@ -15,19 +15,19 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("Q100100000_01_010");
-MsgDisp("Kazama","So you were imagining Vice Principal Himuro's
-glasses.");
+MsgDisp("Kazama","So you were imagining Vice Principal
+Himuro's glasses.");
 MsgDisp("主人公","Hehe, a bit.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("Q100100000_01_020");
-MsgDisp("Kazama","I heard that his glasses also haven't changed
-in decades.
+MsgDisp("Kazama","I heard that his glasses also haven't
+changed in decades.
 They're similar in terms of durability.");
 MsgDisp("主人公","Yeah.
-I'm sure round glasses would also suit Vice
-Principal Himuro.");
+I'm sure round glasses would also suit
+Vice Principal Himuro.");
 ChEye(1,3);
 ChMouth(1,3);
 ChMotion(1,3);

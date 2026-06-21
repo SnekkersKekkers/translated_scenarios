@@ -39,8 +39,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("F020200013_02_040");
-MsgDisp("Sassa","Hanging out with everyone is great, but a big
-bath just genuinely feels amazing.");
+MsgDisp("Sassa","Hanging out with everyone is great, but a
+big bath just genuinely feels amazing.");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,0);

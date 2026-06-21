@@ -19,8 +19,8 @@ Did you come to show your support?");
     MsgDisp("Hiiragi","Yes.
 I'm excited to see the Haba High team that
 you have created.");
-    MsgDisp("主人公","I was just helping everyone as their manager
-though, you know?");
+    MsgDisp("主人公","I was just helping everyone as their
+manager though, you know?");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("H280500000_05_020");

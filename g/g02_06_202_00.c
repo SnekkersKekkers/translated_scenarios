@@ -44,8 +44,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620201_06_060");
-MsgDisp("Himuro","...Even so, with him being so openly hostile,
-it makes things easier for me.");
+MsgDisp("Himuro","...Even so, with him being so openly
+hostile, it makes things easier for me.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

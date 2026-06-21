@@ -22,8 +22,8 @@ switch (ChPrmGet(7,6)){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("H3A0700000_07_020");
-    MsgDisp("Mikage","You're not just strong, but your attitude and
-the way you won was great too.
+    MsgDisp("Mikage","You're not just strong, but your attitude
+and the way you won was great too.
 Congrats.");
     MsgDisp("主人公","Hehe, thank you very much!");
     MsgDisp("主人公","(I did it!

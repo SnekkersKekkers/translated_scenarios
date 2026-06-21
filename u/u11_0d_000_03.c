@@ -40,8 +40,8 @@ ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("U110D00003_21_010");
-MsgDisp("Michiru","After we get dressed, let's meet up in Mari's
-room, shall we?");
+MsgDisp("Michiru","After we get dressed, let's meet up in
+Mari's room, shall we?");
 MsgClose();
 BGMStop();
 ScrFadeOut(0);

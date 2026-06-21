@@ -5,7 +5,8 @@ MsgDisp("主人公","Huh?
 It looks like lunchtime is already
 halfway over.");
 VoicePlay("G110500803_48_000");
-MsgDisp("School Girl","That's right, let's hurry to the Cafeteria!
+MsgDisp("School Girl","That's right, let's hurry to the
+Cafeteria!
 Let's go before the seats are all taken.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 Wait(55,0);
@@ -81,9 +82,10 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 SEPlay("EV_SE_712");
 VoicePlay("G110500803_05_050");
-MsgDisp("Hiiragi","Eating while doing something else was really
-bad manners.");
-MsgDisp("主人公","The full-score anpan is delicious isn't it?");
+MsgDisp("Hiiragi","Eating while doing something else was
+really bad manners.");
+MsgDisp("主人公","The full-score anpan is delicious
+isn't it?");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
@@ -101,8 +103,8 @@ Wait(10,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("G110500803_05_070");
 MsgDisp("Hiiragi","Phew... Yes, this is what they would call
-\"grasping at straws\" It doesn't have to be a
-full-score anpan though.");
+\"grasping at straws\" It doesn't have to be
+a full-score anpan though.");
 MsgDisp("主人公","Hehe.
 This makes me want to eat a full-score
 anpan too.");

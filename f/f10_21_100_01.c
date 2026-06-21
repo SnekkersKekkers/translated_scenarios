@@ -46,13 +46,14 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102110001_21_060");
-MsgDisp("Michiru","If it gets out of hand, I'll confide in Mari.
+MsgDisp("Michiru","If it gets out of hand, I'll confide
+in Mari.
 So then...");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(21);
-MsgDisp("主人公","(｛みちる＊｝...yeah, let's wait a little
-longer.)");
+MsgDisp("主人公","(｛みちる＊｝...yeah, let's wait a
+little longer.)");
 MsgClose();
 ScrFadeOut(0,0);

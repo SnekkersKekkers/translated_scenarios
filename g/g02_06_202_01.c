@@ -16,7 +16,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_020");
-MsgDisp("Himuro","Every single thing you do makes me doubtful.");
+MsgDisp("Himuro","Every single thing you do makes me
+doubtful.");
 MsgDisp("主人公","Doubtful...?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -84,20 +85,20 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_120");
-MsgDisp("Himuro","Being the opposite means that I have things
-that Nozomu-senpai doesn't have.");
+MsgDisp("Himuro","Being the opposite means that I have
+things that Nozomu-senpai doesn't have.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("G020620200_06_130");
-MsgDisp("Himuro","The fact that you're here with me now means
-that I still have a chance, right?");
+MsgDisp("Himuro","The fact that you're here with me now
+means that I still have a chance, right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020620200_06_140");
-MsgDisp("Himuro","The one thing I share with Nozomu-senpai is
-my competitiveness.");
+MsgDisp("Himuro","The one thing I share with Nozomu-senpai
+is my competitiveness.");
 MsgDisp("主人公","(｛Himuro＊＊｝ your expression is serious...)");
 BGMStop();
 MsgClose();

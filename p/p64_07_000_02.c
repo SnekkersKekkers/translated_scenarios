@@ -36,7 +36,8 @@ MsgDisp("Mikage","Ahh...
 I want to buy some to take home, but I'll
 hold back.");
 MsgDisp("主人公","(Yay, ｛Mikage＊＊｝ praised me!
-I'm glad I gave it my all in preparations!)");
+I'm glad I gave it my all in
+preparations!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(7,0,0);

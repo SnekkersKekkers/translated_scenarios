@@ -8,14 +8,14 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220100_02_010");
 MsgDisp("Sassa","Is it...?
-They all look desperate to me, not pretty or
-anything.");
+They all look desperate to me, not pretty
+or anything.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
 VoicePlay("G020220100_02_020");
-MsgDisp("Sassa","Though maybe I just think that 'cause of how
-I feel.");
+MsgDisp("Sassa","Though maybe I just think that 'cause of
+how I feel.");
 MsgDisp("主人公","How you feel, ｛Sassa＊＊｝?");
 ChEye(2,0);
 ChMouth(2,4);

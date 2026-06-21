@@ -53,15 +53,16 @@ Did you come to cheer us on?");
     ChMotion(22,4,1);
     VoicePlay("H282200000_22_050");
     MsgDisp("Hikaru","Yeah.
-Isn't the Haba High track team pretty strong
-already?");
+Isn't the Haba High track team pretty
+strong already?");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,3,1);
     ChEyeOpenLevel(22,0);
     VoicePlay("H282200000_22_060");
-    MsgDisp("Hikaru","That's why Hikaru came to support Mari, who's
-supporting our strong and courageous team♪");
+    MsgDisp("Hikaru","That's why Hikaru came to support Mari,
+who's supporting our strong and
+courageous team♪");
     MsgDisp("主人公","Thank you, ｛ひかる＊｝!");
     ChEye(22,0);
     ChMouth(22,3);

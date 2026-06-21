@@ -11,29 +11,29 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,5);
 VoicePlay("G020720001_07_010");
-MsgDisp("Mikage","Yeah, everyone competes to fly and light up,
-right? I know it's hard, but it's just like
-school and it's fun, right?");
+MsgDisp("Mikage","Yeah, everyone competes to fly and light
+up, right? I know it's hard, but it's just
+like school and it's fun, right?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("G020720001_07_020");
-MsgDisp("Mikage","Well, before you know it, winners and losers
-are decided.");
+MsgDisp("Mikage","Well, before you know it, winners and
+losers are decided.");
 MsgDisp("主人公","Superiority or inferiority?");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020720001_07_030");
-MsgDisp("Mikage","Yes, there are those who can find a partner
-and those who can't, all sorts.");
+MsgDisp("Mikage","Yes, there are those who can find a
+partner and those who can't, all sorts.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720001_07_040");
-MsgDisp("Mikage","But even if you're here and participating, as
-long as you can do it, any result will be
-fine. It will be good for the future.");
+MsgDisp("Mikage","But even if you're here and participating,
+as long as you can do it, any result will
+be fine. It will be good for the future.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -44,16 +44,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720001_07_060");
-MsgDisp("Mikage","Okay, you just have to fly around as hard as
-you can, and do your best to be satisfied
-with it, okay?");
+MsgDisp("Mikage","Okay, you just have to fly around as hard
+as you can, and do your best to be
+satisfied with it, okay?");
 MsgDisp("主人公","...Yes, I understand.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("G020720001_07_070");
-MsgDisp("Mikage","If by some chance it doesn't work out, then
-take a good look around you.");
+MsgDisp("Mikage","If by some chance it doesn't work out,
+then take a good look around you.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

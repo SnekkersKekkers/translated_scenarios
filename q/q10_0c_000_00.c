@@ -2,7 +2,8 @@ BGMPlay("BGM_PLACE_TRAVEL");
 BGOpen("sc822",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow, it really does look like glasses, huh?");
+MsgDisp("主人公","Wow, it really does look like
+glasses, huh?");
 MsgClose();
 ChOpen(5,254,0,0,4,#1,#1,0,1,0,30);
 ChOpen(7,254,0,0,0,#1,#1,0,2,0,30);
@@ -14,8 +15,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("Q100C00000_07_000");
-MsgDisp("Mikage","Maybe some of the craftsmen at that time were
-directors like Yanosuke.");
+MsgDisp("Mikage","Maybe some of the craftsmen at that time
+were directors like Yanosuke.");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -30,8 +31,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q100C00000_05_020");
 MsgDisp("Hiiragi","Thank you.
-It's strange because it really seems so when
-you say it.");
+It's strange because it really seems so
+when you say it.");
 ChEye(5,4);
 ChMotion(5,0);
 ChEye(7,0);
@@ -39,8 +40,8 @@ ChMouth(7,3);
 ChMotion(7,5);
 VoicePlay("Q100C00000_07_010");
 MsgDisp("Mikage","...Oh.
-Speaking of glasses, let's not forget Inori's
-souvenirs.");
+Speaking of glasses, let's not forget
+Inori's souvenirs.");
 MsgDisp("主人公","Hehe, that's true.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -86,8 +87,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("Q100C00000_05_050");
-MsgDisp("Hiiragi","\"When it comes to souvenirs, you can't miss
-the classics\" It says.");
+MsgDisp("Hiiragi","\"When it comes to souvenirs, you can't
+miss the classics\" It says.");
 MsgDisp("主人公","Speaking of classics...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -100,8 +101,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("Q100C00000_05_060");
 MsgDisp("Hiiragi","Sure.
-I will also go buy souvenirs for the people
-of the Habataki Theatre Company.");
+I will also go buy souvenirs for the
+people of the Habataki Theatre Company.");
 MsgDisp("主人公","Then I will also go look for souvenirs for
 my family.");
 ChEye(7,0);

@@ -1,7 +1,8 @@
 BGOpen("wf100",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Well, I guess it's time to go home. ...Huh?)");
+MsgDisp("主人公","(Well, I guess it's time to go home.
+...Huh?)");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝?
 What are you doing in front of the store?");
 MsgClose();
@@ -17,8 +18,8 @@ ChMouth(5,2);
 ChMotion(5,0);
 VoicePlay("E010510100_05_010");
 MsgDisp("Hiiragi","I was looking at cleaning supplies earlier
-and someone recommended me a robotic vacuum
-cleaner.");
+and someone recommended me a robotic
+vacuum cleaner.");
 MsgDisp("主人公","Yeah, the ones in commercials
 recently, right?
 They seem convenient.");
@@ -31,16 +32,16 @@ MsgDisp("主人公","Eh?");
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("E010510100_05_030");
-MsgDisp("Hiiragi","I can't deny that I like convenient cleaning
-products as well.
+MsgDisp("Hiiragi","I can't deny that I like convenient
+cleaning products as well.
 But in the end, it's my decision.");
 ChEye(5,4);
 ChMouth(5,0);
 ChMotion(5,2);
 VoicePlay("E010510100_05_040");
 MsgDisp("Hiiragi","If it's done automatically, you miss the
-space being cleaned, or feeling the room grow
-once it's tidy.");
+space being cleaned, or feeling the room
+grow once it's tidy.");
 MsgDisp("主人公","Such a deep way of thinking.");
 ChEye(5,2);
 ChMouth(5,0);

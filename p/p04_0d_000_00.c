@@ -16,8 +16,8 @@ ChMouth(21,0);
 ChMotion(21,3);
 VoicePlay("P040D00000_21_000");
 MsgDisp("Michiru","Yes.
-It's good enough to be part of the assortment
-at a Japanese confectionary.");
+It's good enough to be part of the
+assortment at a Japanese confectionary.");
 ChEye(22,0);
 ChMouth(22,0);
 MsgDisp("主人公","Really?");

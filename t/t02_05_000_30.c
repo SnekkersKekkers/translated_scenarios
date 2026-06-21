@@ -18,8 +18,8 @@ MsgDisp("Hiiragi","Please follow the path that can make
 you smile.");
 MsgDisp("主人公","｛Hiiragi＊＊＊｝...");
 VoicePlay("T020500030_05_020");
-MsgDisp("Hiiragi","Thanks to you, I now know what I should do in
-the theatre company.");
+MsgDisp("Hiiragi","Thanks to you, I now know what I should do
+in the theatre company.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);

@@ -7,9 +7,9 @@ ScrFadeOut(0);
 BGOpen("sc603",0);
 ScrFadeIn(0);
 VoicePlay("H410000000_45_000");
-MsgDisp("Manager","On the third Sunday of every month, we have
-a general practice, so please be sure to
-show up.");
+MsgDisp("Manager","On the third Sunday of every month, we
+have a general practice, so please be sure
+to show up.");
 MsgDisp("主人公","Yes! I'm looking forward to it!");
 MsgClose();
 BGMPlay("BGM_C22_HIKARU_A",0.01);

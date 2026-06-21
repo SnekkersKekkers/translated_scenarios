@@ -32,15 +32,17 @@ Let's spend the free period together.");
         MsgDisp("Sassa","That's the spirit.
 Let's get going, then!");
         MsgDisp("主人公","Yeah!
-I'm really excited to see more of Nagasaki.");
+I'm really excited to see more of
+Nagasaki.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
         VoicePlay("Q020200000_02_030");
         MsgDisp("Sassa","Me too.
-This is my first time, and I even get to be
-with you!");
-        MsgDisp("主人公","(Spending my free period with ｛Sassa＊＊｝...
+This is my first time, and I even get to
+be with you!");
+        MsgDisp("主人公","(Spending my free period with
+｛Sassa＊＊｝...
 This will surely be a fun day!)");
         break ;
         case 1:
@@ -108,7 +110,8 @@ Still, I'm glad you asked me!)");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("Q020200000_02_100");
-        MsgDisp("Sassa","Don't apologise, I hope you can enjoy it too.
+        MsgDisp("Sassa","Don't apologise, I hope you can enjoy
+it too.
 ...See ya.");
         MsgClose();
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");

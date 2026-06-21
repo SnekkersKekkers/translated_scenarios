@@ -18,7 +18,8 @@ MsgClose();
 BGMPlay("BGM_C01_RYOUTA_B",0.01);
 ChOpen(1,100,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Speaking of, what did you want to talk about?");
+MsgDisp("主人公","Speaking of, what did you want to
+talk about?");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,1);

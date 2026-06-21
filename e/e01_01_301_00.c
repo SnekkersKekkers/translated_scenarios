@@ -61,7 +61,8 @@ ChMouth(3,4);
 ChMotion(3,2);
 ChEyeOpenLevel(3,0);
 VoicePlay("E010130100_03_030");
-MsgDisp("Honda","Hmph, my sister won't let me do it either...
+MsgDisp("Honda","Hmph, my sister won't let me do it
+either...
 I wonder why nobody wants to...");
 ChMouth(1,2);
 ChEye(3,4);
@@ -122,7 +123,7 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(1);
 MsgDisp("主人公","(Hm...
-I really think ｛Honda＊＊｝'s hairstyle suits
-him though.)");
+I really think ｛Honda＊＊｝'s hairstyle
+suits him though.)");
 MsgClose();
 ScrFadeOut(0,0);

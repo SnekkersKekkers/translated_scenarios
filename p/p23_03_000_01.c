@@ -33,11 +33,11 @@ But, thanks for fixing it.");
     ChMotion(3,0,1);
     VoicePlay("P230300001_03_020");
     MsgDisp("Honda","Maybe the blend of adhesive wasn't good?
-I played around with it a lot, mixing dyes to
-make it less noticeable.");
+I played around with it a lot, mixing dyes
+to make it less noticeable.");
     MsgDisp("主人公","Hehe.
-But it was like an experiment; it was a lot
-of fun.");
+But it was like an experiment; it was a
+lot of fun.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,1,1);
@@ -54,11 +54,11 @@ shortly.");
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("P230300001_03_040");
-    MsgDisp("Honda","I guess the rest will have to be fixed during
-scene changes?
+    MsgDisp("Honda","I guess the rest will have to be fixed
+during scene changes?
 Hey, let's enjoy the show.");
-    MsgDisp("主人公","(Alright, now all that's left is to wish the
-show is a success!)");
+    MsgDisp("主人公","(Alright, now all that's left is to wish
+the show is a success!)");
     break ;
     default :
     DbgAssert(1);

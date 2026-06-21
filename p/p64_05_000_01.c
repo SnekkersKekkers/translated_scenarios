@@ -11,8 +11,8 @@ ChMotion(5,4);
 VoicePlay("P640500001_05_010");
 MsgDisp("Hiiragi","Yes, somethings wrong.
 The bitterness and acridity...");
-MsgDisp("主人公","It might just be due to it being herbal, so
-it's a little bit peculiar.");
+MsgDisp("主人公","It might just be due to it being herbal,
+so it's a little bit peculiar.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P640500001_05_020");
@@ -27,7 +27,8 @@ My mouth has been...");
 ChEyeOpenLevel(5,9);
 VoicePlay("P640500001_05_040");
 MsgDisp("Hiiragi","Excuse me, could I get a bit of water?");
-MsgDisp("主人公","(Sigh... I should have sampled a little bit.
+MsgDisp("主人公","(Sigh...
+I should have sampled a little bit.
 A huge failure...)");
 MsgClose();
 BGMStop();

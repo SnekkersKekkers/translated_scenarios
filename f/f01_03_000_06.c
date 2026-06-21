@@ -22,7 +22,8 @@ I'll go straight home today...)");
     ChMotion(3,5);
     VoicePlay("F010300006_03_010");
     MsgDisp("Honda","Oh, sorry.
-I've got plans today, so I'll see you later!");
+I've got plans today, so I'll see
+you later!");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

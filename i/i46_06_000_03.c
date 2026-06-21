@@ -13,8 +13,8 @@ switch (ChPrmGet(6,6)){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("I460600003_06_000");
-    MsgDisp("Himuro","...Hey, did you get the price of that bouquet
-wrong earlier?");
+    MsgDisp("Himuro","...Hey, did you get the price of that
+bouquet wrong earlier?");
     MsgDisp("主人公","Um, 5 roses...2 baby's breaths...
 Ah, you're right!");
     ChEye(6,0);
@@ -68,8 +68,8 @@ I'll have to get it together...)");
     MsgDisp("Himuro","...It's skewed.");
     SEStop("EV_SE_655",1);
     MsgDisp("主人公","Ugh...
-I couldn't tie off the bouquet nicely because
-it was too big...");
+I couldn't tie off the bouquet nicely
+because it was too big...");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);

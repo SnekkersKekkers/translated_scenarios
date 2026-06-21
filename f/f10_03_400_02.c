@@ -76,7 +76,8 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("F100340002_04_020");
-MsgDisp("Nanatsumori","I'm a person, so don't treat me like a cat.");
+MsgDisp("Nanatsumori","I'm a person, so don't treat me like
+a cat.");
 MsgDisp("主人公","Hehe.
 But just where were you, ｛Nanatsumori＊｝?");
 ChEye(3,0);

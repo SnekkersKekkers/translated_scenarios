@@ -11,15 +11,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600006_06_000");
 MsgDisp("Himuro","Is that so?");
-MsgDisp("主人公","You're not even going to say anything like,
-\"let's do our best\"?");
+MsgDisp("主人公","You're not even going to say anything
+like, \"let's do our best\"?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600006_06_010");
 MsgDisp("Himuro","Some things are better in moderation.");
-MsgDisp("主人公","But if you can do the exercise, it's best to
-give it your all.");
+MsgDisp("主人公","But if you can do the exercise, it's best
+to give it your all.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -31,23 +31,23 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("F020600006_06_030");
-MsgDisp("Himuro","Things like, \"Himuro, you can do sports?\" or,
-\"Himuro, you don't just study?\"");
+MsgDisp("Himuro","Things like, \"Himuro, you can do sports?\"
+or, \"Himuro, you don't just study?\"");
 ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("F020600006_06_040");
-MsgDisp("Himuro","Why on earth would they even think I wouldn't
-be able to exercise?");
+MsgDisp("Himuro","Why on earth would they even think I
+wouldn't be able to exercise?");
 MsgDisp("主人公","Uh huh.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("F020600006_06_050");
 MsgDisp("Himuro","Maybe...because of Reiichi-san?");
-MsgDisp("主人公","Now you mention it, is Vice Principal Himuro
-any good at sports?");
+MsgDisp("主人公","Now you mention it, is Vice Principal
+Himuro any good at sports?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -61,8 +61,8 @@ VoicePlay("F020600006_06_070");
 MsgDisp("Himuro","Obviously not at school, but not at family
 gatherings, either.");
 MsgDisp("主人公","Well, he definitely wouldn't run in the
-halls. Maybe you'll see him run at the sports
-festival?");
+halls. Maybe you'll see him run at the
+sports festival?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3,1);

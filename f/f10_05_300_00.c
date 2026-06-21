@@ -16,8 +16,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0,1);
 VoicePlay("F100530000_05_010");
-MsgDisp("Hiiragi","Yes, it is an important job for the student
-council.
+MsgDisp("Hiiragi","Yes, it is an important job for the
+student council.
 It is my turn today.");
 ChEye(5,4);
 ChMouth(5,4);

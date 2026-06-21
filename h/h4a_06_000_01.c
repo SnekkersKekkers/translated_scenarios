@@ -62,7 +62,8 @@ didn't win, that's just nonsense.");
     ChCheek(6,10);
     VoicePlay("H4A0600001_06_070");
     MsgDisp("Himuro","Honestly, I was impressed.
-...I thought you looked the most beautiful.");
+...I thought you looked the most
+beautiful.");
     MsgDisp("主人公","｛Himuro＊＊｝...");
     ChEye(6,0);
     ChMouth(6,0);

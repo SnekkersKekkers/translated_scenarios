@@ -11,14 +11,15 @@ SEWait();
 ChOpen(3,254,1,0,3,#1,#1,0,0);
 VoicePlay("P740300000_03_000");
 MsgDisp("Honda","Your model walk was so stylish!");
-MsgDisp("主人公","Thank you, it's Haba High handicraft club's
-tradition.");
+MsgDisp("主人公","Thank you, it's Haba High handicraft
+club's tradition.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("P740300000_03_010");
 MsgDisp("Honda","Hmmm, but you're number one.
-The audience's applause was loudest for you.");
+The audience's applause was loudest
+for you.");
 MsgDisp("主人公","(Hehe! Yay, it was a huge success!)");
 MsgClose();
 ScrFadeOut(0,0);

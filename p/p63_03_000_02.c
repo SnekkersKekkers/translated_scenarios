@@ -23,8 +23,8 @@ Welcome.");
     VoicePlay("P630300002_03_010");
     MsgDisp("Honda","The Gardening Club is amazing.");
     MsgDisp("主人公","Hehe.
-We're serving meals made with the herbs and
-vegetables we grew.");
+We're serving meals made with the herbs
+and vegetables we grew.");
     ChSet(3,3);
     VoicePlay("P630300002_03_020");
     MsgDisp("Honda","Yep yep, sounds nice.

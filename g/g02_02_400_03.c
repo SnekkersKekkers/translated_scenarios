@@ -9,23 +9,25 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240003_02_010");
-MsgDisp("Sassa","She ensures breakfast and dinner are strictly
-managed.");
+MsgDisp("Sassa","She ensures breakfast and dinner are
+strictly managed.");
 MsgDisp("主人公","Oh, I see.
-You eat at the school cafeteria a lot, right?");
+You eat at the school cafeteria a
+lot, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020240003_02_020");
 MsgDisp("Sassa","Yeah, for lunch I can eat whatever I want.
-Large portions, mega portions, anything goes.");
+Large portions, mega portions,
+anything goes.");
 MsgDisp("主人公","Ehh, that's a bit surprising.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020240003_02_030");
-MsgDisp("Sassa","If all three meals were strictly controlled,
-I'd get bored quickly.");
+MsgDisp("Sassa","If all three meals were strictly
+controlled, I'd get bored quickly.");
 MsgDisp("主人公","Your mom is amazing huh.
 She really knows everything about
 ｛Sassa＊＊｝.");
@@ -34,8 +36,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("G020240003_02_040");
 MsgDisp("Sassa","Well, she is my mom after all.");
-MsgDisp("主人公","By sticking to the plan, ｛Sassa＊＊｝ is also
-doing great.");
+MsgDisp("主人公","By sticking to the plan, ｛Sassa＊＊｝ is
+also doing great.");
 ChEye(2,0);
 ChMouth(2,2);
 ChMotion(2,4);
@@ -74,8 +76,8 @@ VoicePlay("G020240003_02_090");
 MsgDisp("Sassa","Yeah.
 Without you, I wouldn't be so motivated. So,
 I'll be counting on you from now on, okay?");
-MsgDisp("主人公","(It's just a little bit but, being helpful to
-｛Sassa＊＊｝ makes me happy...)");
+MsgDisp("主人公","(It's just a little bit but, being helpful
+to ｛Sassa＊＊｝ makes me happy...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

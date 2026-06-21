@@ -36,7 +36,8 @@ ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("T020201030_02_050");
-MsgDisp("Sassa","I'd be happy if you were watching somewhere.
+MsgDisp("Sassa","I'd be happy if you were watching
+somewhere.
 Phew... See you then.");
 BGMStop(3.6);
 MsgClose();

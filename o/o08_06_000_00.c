@@ -20,8 +20,8 @@ Ah, it's ｛Himuro＊＊｝.)");
     ChOpen(6,30,2,0,0,0,#1,0,0);
     VoicePlay("O080600000_06_010");
     MsgDisp("Himuro","This is nonsense.
-This event isn't a competition, so why is it
-in our sports festival.");
+This event isn't a competition, so why is
+it in our sports festival.");
     MsgDisp("主人公","It's fun, though.");
     ChEye(6,0);
     ChMouth(6,0);

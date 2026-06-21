@@ -18,7 +18,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("F100220002_05_000");
 MsgDisp("Hiiragi","Yes, the hot springs club.
-But it's already in danger of closing down.");
+But it's already in danger of
+closing down.");
 MsgDisp("主人公","Eh, why?");
 ChEye(2,2);
 ChMouth(2,0);
@@ -55,8 +56,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("F100220002_02_030");
 MsgDisp("Sassa","Me too.
-I'm sorry to say this, but it looks like the
-hot spring club is disbanded.");
+I'm sorry to say this, but it looks like
+the hot spring club is disbanded.");
 MsgDisp("主人公","Yeah, it can't be helped.");
 ChEye(2,2);
 ChMouth(2,2);

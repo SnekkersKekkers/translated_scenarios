@@ -24,15 +24,15 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("S110400001_04_030");
-MsgDisp("Nanatsumori","There's nothing better than Excellent Luck,
-Medium Luck is just so boring.
+MsgDisp("Nanatsumori","There's nothing better than Excellent
+Luck, Medium Luck is just so boring.
 No excitement, at all.");
 ChEye(4,0);
 ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("S110400001_04_040");
-MsgDisp("Nanatsumori","Because of that, it's the most difficult one
-to pay attention to.");
+MsgDisp("Nanatsumori","Because of that, it's the most difficult
+one to pay attention to.");
 MsgDisp("主人公","Umh...");
 ChEye(4,2);
 ChMouth(4,2);

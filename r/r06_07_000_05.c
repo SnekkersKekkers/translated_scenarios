@@ -21,8 +21,8 @@ Thank you.");
     ChMotion(7,2,1);
     VoicePlay("R060700005_07_010");
     MsgDisp("Mikage","Woah.
-I can't afford these types of things myself,
-so thank you.");
+I can't afford these types of things
+myself, so thank you.");
     MsgDisp("主人公","(It seems that he really likes my gift!)");
     break ;
     default :

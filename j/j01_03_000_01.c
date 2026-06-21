@@ -24,7 +24,8 @@ switch (MsgSelRsltGet()){
     SEPlay("SYS_SE_PHONE_POWER_ON");
     SEWait();
     MsgDisp("主人公","Oh well.
-I suppose I should try calling again later.");
+I suppose I should try calling
+again later.");
     break ;
     default :
     DbgAssert(0);

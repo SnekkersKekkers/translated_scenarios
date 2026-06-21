@@ -28,8 +28,8 @@ ChEye(21,0);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("E010740000_21_020");
-MsgDisp("Michiru","I thought so... I ran into Mikage-sensei and
-we got talking about favourite foods.
+MsgDisp("Michiru","I thought so... I ran into Mikage-sensei
+and we got talking about favourite foods.
 It's really delicious, right?");
 MsgDisp("主人公","Hehe, I see.
 So ｛Mikage＊＊｝ likes chilled noodles.");
@@ -37,22 +37,22 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("E010740000_07_010");
-MsgDisp("Mikage","Yeah, it goes great with cucumbers, tomatoes,
-and other summer vegetables.");
+MsgDisp("Mikage","Yeah, it goes great with cucumbers,
+tomatoes, and other summer vegetables.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("E010740000_07_020");
-MsgDisp("Mikage","Sigh...the only downside to Haba High is that
-it doesn't have it on the menu.");
+MsgDisp("Mikage","Sigh...the only downside to Haba High is
+that it doesn't have it on the menu.");
 ChEye(21,2);
 ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("E010740000_21_030");
 MsgDisp("Michiru","Seriously...
-If it was on the cafeteria menu, I'd eat it
-all the time.");
+If it was on the cafeteria menu, I'd eat
+it all the time.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);

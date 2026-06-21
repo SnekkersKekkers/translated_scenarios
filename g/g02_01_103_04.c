@@ -2,8 +2,8 @@ MsgClose();
 ChOpen(1,255,0,0,3,#1,#1,0,0);
 ChMotion(1,1);
 VoicePlay("G020110304_01_000");
-MsgDisp("Kazama","The Night Parade and stuff is great, but this
-place is amazing too.");
+MsgDisp("Kazama","The Night Parade and stuff is great, but
+this place is amazing too.");
 MsgDisp("主人公","Yeah, though it's quiet over here.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -88,8 +88,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("G020110304_01_120");
 MsgDisp("Kazama","There, that's the face I'm talking about.
-Unlike the fireflies, I get to see that face
-every year.");
+Unlike the fireflies, I get to see that
+face every year.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -100,9 +100,10 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020110304_01_140");
-MsgDisp("Kazama","Man, why can't your birthday get here sooner?");
-MsgDisp("主人公","(But if my birthdays come too quick, I'll be
-a granny in no time...)");
+MsgDisp("Kazama","Man, why can't your birthday get
+here sooner?");
+MsgDisp("主人公","(But if my birthdays come too quick, I'll
+be a granny in no time...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

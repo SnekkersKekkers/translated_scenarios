@@ -4,7 +4,8 @@ SEPlay("EV_SE_871",1,0.6);
 ScrFadeIn(0);
 MsgDisp("主人公","Our club won the international band
 competition!");
-MsgDisp("主人公","I'm glad I practised so hard for brass band!");
+MsgDisp("主人公","I'm glad I practised so hard for
+brass band!");
 SEStop("EV_SE_871",1);
 MsgClose();
 ScrFadeOut(0);

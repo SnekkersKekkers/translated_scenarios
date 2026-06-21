@@ -10,8 +10,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G020120301_01_010");
-MsgDisp("Kazama","Why are you responding like it's got nothing
-to do with you?
+MsgDisp("Kazama","Why are you responding like it's got
+nothing to do with you?
 I'm actually talking about you.");
 MsgDisp("主人公","Huh?");
 ChEye(1,2);
@@ -20,8 +20,8 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("G020120301_01_020");
 MsgDisp("Kazama","You need to be a bit more self-aware.
-Do you understand just how magnetic a person
-you are?");
+Do you understand just how magnetic a
+person you are?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,4);
@@ -43,7 +43,8 @@ ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G020120301_01_050");
 MsgDisp("Kazama","Sorry.
-And what I have going on is a bit different.");
+And what I have going on is a bit
+different.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
@@ -76,8 +77,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("G020120301_01_090");
 MsgDisp("Kazama","Sigh...
-It doesn't look like my worries are gonna end
-any time soon.");
+It doesn't look like my worries are gonna
+end any time soon.");
 MsgDisp("主人公","You're liked by both boys and girls, and
 you're popular with the elderly too,
 ｛Kazama＊＊｝, so you're really amazing.");
@@ -86,7 +87,8 @@ Wait(12,0);
 ChEye(1,2);
 ChMouth(1,3);
 VoicePlay("G020120301_01_100");
-MsgDisp("Kazama","You've totally missed my point, but thanks.");
+MsgDisp("Kazama","You've totally missed my point,
+but thanks.");
 MsgDisp("主人公","(Does ｛Kazama＊＊｝ not realise how popular
 he is...?)");
 BGMStop();

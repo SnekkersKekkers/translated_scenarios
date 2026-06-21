@@ -12,8 +12,8 @@ switch (ChPrmGet(5,6)){
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("L040500003_05_010");
-    MsgDisp("Hiiragi","I see...it must have been difficult to make
-something this elaborate.");
+    MsgDisp("Hiiragi","I see...it must have been difficult to
+make something this elaborate.");
     ChMotion(5,3);
     VoicePlay("L040500003_05_020");
     MsgDisp("Hiiragi","I will savour each bite.
@@ -22,7 +22,8 @@ Thank you very much.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(5);
-    MsgDisp("主人公","(Thank goodness, it seemed like he liked it!)");
+    MsgDisp("主人公","(Thank goodness, it seemed like he
+liked it!)");
     break ;
     case 3:
     ChEye(5,4);
@@ -54,8 +55,8 @@ Make sure to eat it.");
     ChMotion(5,4);
     VoicePlay("L040500003_05_060");
     MsgDisp("Hiiragi","I see...
-Then, I shall return and boast to everyone in
-the theatre company before eating it.");
+Then, I shall return and boast to everyone
+in the theatre company before eating it.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
@@ -80,8 +81,8 @@ I put some effort in.");
     MsgDisp("Hiiragi","Some?
 Then, if you were to get more serious...
 How frightening.");
-    MsgDisp("主人公","Hehe, if I got serious, it wouldn't lose even
-to the best chocolate!");
+    MsgDisp("主人公","Hehe, if I got serious, it wouldn't lose
+even to the best chocolate!");
     ChEye(5,4);
     ChMouth(5,4);
     ChMotion(5,4);

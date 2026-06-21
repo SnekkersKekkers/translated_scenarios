@@ -33,8 +33,8 @@ ChEye(21,2);
 ChMouth(21,4);
 ChMotion(21,2);
 VoicePlay("T022100000_21_040");
-MsgDisp("Michiru","Any boy who doesn't confess to such a cute,
-lovely girl...is a no-no.");
+MsgDisp("Michiru","Any boy who doesn't confess to such a
+cute, lovely girl...is a no-no.");
 ChEye(21,2);
 ChMouth(21,4);
 ChEyeOpenLevel(21,8);
@@ -87,23 +87,26 @@ ChMouth(21,3);
 ChMotion(21,4);
 VoicePlay("T022100000_21_110");
 MsgDisp("Michiru","Also, marigolds, rosemary flowers,
-marriage... I felt those kinds of symbols of
-happiness from you. That's why, Mari.");
+marriage... I felt those kinds of symbols
+of happiness from you. That's why, Mari.");
 MsgDisp("主人公","So that's why...");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
 VoicePlay("T022100000_21_120");
-MsgDisp("Michiru","Did you have a happy high school life, Mari?
+MsgDisp("Michiru","Did you have a happy high school
+life, Mari?
 I was...very happy.");
-MsgDisp("主人公","｛みちる＊｝, it's the same for me! Hehe!");
+MsgDisp("主人公","｛みちる＊｝, it's the same for me!
+Hehe!");
 ChEye(21,3);
 ChMouth(21,4);
 ChMotion(21,0);
 VoicePlay("T022100000_21_130");
 MsgDisp("Michiru","...Really?");
 MsgDisp("主人公","Yeah.
-Thank you for giving me such a nice nickname!");
+Thank you for giving me such a nice
+nickname!");
 ChEye(21,4);
 ChMouth(21,3);
 ChMotion(21,3);
@@ -126,7 +129,8 @@ ChMotion(21,4);
 ChCheek(21,10);
 VoicePlay("T022100000_21_160");
 MsgDisp("Michiru","I'm happy.
-After that...shall we have a talk about love?");
+After that...shall we have a talk
+about love?");
 MsgDisp("主人公","If it comes to that, okay?
 Then, let's walk home together for the
 last time.");

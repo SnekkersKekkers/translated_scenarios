@@ -12,12 +12,12 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("G020220200_02_020");
-MsgDisp("Sassa","He's good at school, he's good at sports, he
-can do everything, but he doesn't do
+MsgDisp("Sassa","He's good at school, he's good at sports,
+he can do everything, but he doesn't do
 anything.");
 MsgDisp("主人公","｛Kazama＊＊｝ lives alone and helps at his
-grandfather's shop and Simon, so I think he
-has a lot on his plate.");
+grandfather's shop and Simon, so I think
+he has a lot on his plate.");
 ChEye(2,2);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -29,8 +29,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("G020220200_02_040");
 MsgDisp("Sassa","My goal's easy to understand and you just
-gotta keep working until you're satisfied, so
-it's simple.");
+gotta keep working until you're satisfied,
+so it's simple.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
@@ -39,8 +39,8 @@ VoicePlay("G020220200_02_050");
 MsgDisp("Sassa","But what Ryota wants is probably different.
 I don't have a clue what he's working for and
 what he worries about.");
-MsgDisp("主人公","I think your goal also puts a lot of pressure
-on you, ｛Sassa＊＊｝.
+MsgDisp("主人公","I think your goal also puts a lot of
+pressure on you, ｛Sassa＊＊｝.
 And I can't do anything to help...");
 ChEye(2,0);
 ChMouth(2,4);
@@ -59,8 +59,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("G020220200_02_080");
-MsgDisp("Sassa","Alright, I know it's not a contest, but now
-it feels like I'm competing against Ryota.");
+MsgDisp("Sassa","Alright, I know it's not a contest,
+but now it feels like I'm competing
+against Ryota.");
 MsgDisp("主人公","You're competing against ｛Kazama＊＊｝,
 ｛Sassa＊＊｝?");
 ChEye(2,0);

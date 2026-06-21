@@ -29,7 +29,8 @@ Good luck this year.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(7);
     Wait(30);
-    MsgDisp("主人公","(I can't believe I'm already a third year...
+    MsgDisp("主人公","(I can't believe I'm already a
+third year...
 Alright, let's do our best!)");
     BGMStop();
     MsgClose();
@@ -57,8 +58,8 @@ family on New Years.");
     ChMotion(7,3);
     VoicePlay("S120700002_07_040");
     MsgDisp("Mikage","Come, I'll walk you home.
-We can talk about our New Year's resolutions
-on the way there.");
+We can talk about our New Year's
+resolutions on the way there.");
     MsgDisp("主人公","Hehe, okay.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO_LONG");
     BGMStop();

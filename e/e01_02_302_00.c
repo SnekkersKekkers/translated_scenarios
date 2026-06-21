@@ -27,7 +27,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("E010230200_07_010");
 MsgDisp("Mikage","Hahaha!
-In my opinion you're both diligent and funny!");
+In my opinion you're both diligent
+and funny!");
 MsgDisp("主人公","???");
 ChEye(2,0);
 ChMouth(2,4);
@@ -36,7 +37,8 @@ VoicePlay("E010230200_02_010");
 MsgDisp("Sassa","Oh, that's right, I got food advice from
 Mikage-sensei.");
 MsgDisp("主人公","I see.
-｛Mikage＊＊｝, you're a vegetable expert!");
+｛Mikage＊＊｝, you're a
+vegetable expert!");
 ChMouth(2,5);
 ChEye(7,0);
 ChMouth(7,0);

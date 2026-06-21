@@ -29,11 +29,11 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("P840200001_02_020");
-MsgDisp("Sassa","You should have told me from the beginning so
-I could help you, okay?");
+MsgDisp("Sassa","You should have told me from the beginning
+so I could help you, okay?");
 MsgDisp("主人公","(I made a huge mistake...
-I should have just asked him properly instead
-of forcing it...)");
+I should have just asked him properly
+instead of forcing it...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(2,0,0);

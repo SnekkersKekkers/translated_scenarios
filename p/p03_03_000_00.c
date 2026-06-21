@@ -58,7 +58,8 @@ Welcome～");
     MsgDisp("Honda","Yeah, this place really has the feel of a
 dango shop.");
     MsgDisp("主人公","Huh? It's a Japanese style cafe.
-The signature set is mitarashi dango, though.");
+The signature set is mitarashi
+dango, though.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,5,1);

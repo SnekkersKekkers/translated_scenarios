@@ -33,7 +33,8 @@ I'm happy I won.)");
     Wait(15,0);
     VoicePlay("O020500000_05_020");
     MsgDisp("Hiiragi","Congratulations!
-I had believed you would emerge victorious.");
+I had believed you would emerge
+victorious.");
     MsgDisp("主人公","(I did it!
 I'm glad I did my best!)");
     break ;

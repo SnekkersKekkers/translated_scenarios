@@ -40,8 +40,8 @@ I hope we have a good year...)");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("S120500001_05_030");
-    MsgDisp("Hiiragi","Anyway, it's good that we were able to visit
-this year.
+    MsgDisp("Hiiragi","Anyway, it's good that we were able to
+visit this year.
 Thanks for your hard work.");
     ChEye(5,0);
     VoicePlay("S120500001_05_040");
@@ -61,9 +61,9 @@ I'll take you.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120500001_05_070");
-    MsgDisp("Hiiragi","It's crowded and there's a lot of people, but
-because everyone's here to pray, it was
-refreshing.");
+    MsgDisp("Hiiragi","It's crowded and there's a lot of people,
+but because everyone's here to pray, it
+was refreshing.");
     MsgDisp("主人公","Yeah, you're right.
 I was also able to make a good wish.
 What about ｛Hiiragi＊＊＊｝?");
@@ -82,8 +82,8 @@ started thinking about you.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("S120500001_05_100");
-    MsgDisp("Hiiragi","Well, I guess it's good for both you and the
-theatre to be well.
+    MsgDisp("Hiiragi","Well, I guess it's good for both you and
+the theatre to be well.
 So there's no problem right?");
     MsgDisp("主人公","Uhm...yeah.");
     ChEye(5,4);

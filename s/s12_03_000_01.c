@@ -71,7 +71,8 @@ See you soon!");
     MsgClose();
     ChClose(3);
     Wait(30);
-    MsgDisp("主人公","(Yeah, this year will be another good one.)");
+    MsgDisp("主人公","(Yeah, this year will be another
+good one.)");
     break ;
     default :
     DbgAssert(1);

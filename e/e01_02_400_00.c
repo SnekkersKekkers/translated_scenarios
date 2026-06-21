@@ -55,15 +55,16 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("E010240000_02_030");
 MsgDisp("Sassa","Why?...
-I've been given a mission to go buy sweets.");
+I've been given a mission to go
+buy sweets.");
 MsgDisp("主人公","You're an errand boy?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("E010240000_02_040");
-MsgDisp("Sassa","Yeah, apparently one of my father's clients
-is coming over, but I think my mom just wants
-to eat them herself.");
+MsgDisp("Sassa","Yeah, apparently one of my father's
+clients is coming over, but I think my mom
+just wants to eat them herself.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);
@@ -99,8 +100,8 @@ ChMotion(21,4);
 VoicePlay("E010240000_21_050");
 MsgDisp("Michiru","I'm so sorry to have involved you.
 It's just that, alone with a boy, I'm...");
-MsgDisp("主人公","(Is ｛みちる＊｝ embarrassed to be alone
-with a boy?
+MsgDisp("主人公","(Is ｛みちる＊｝ embarrassed to be
+alone with a boy?
 Maybe she's not used to it.)");
 BGMStop();
 MsgClose();

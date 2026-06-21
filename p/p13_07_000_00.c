@@ -19,8 +19,8 @@ delicious milk～");
     VoicePlay("P130700000_07_010");
     MsgDisp("Mikage","｛主人公｝, you're in high spirits.");
     MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝ is also helping with drawing
-more people in?");
+｛Mikage＊＊｝ is also helping with
+drawing more people in?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -40,8 +40,8 @@ gathering more people.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("P130700000_07_040");
-    MsgDisp("Mikage","I think I'll wander around with the objective
-of getting Molly's milk?");
+    MsgDisp("Mikage","I think I'll wander around with the
+objective of getting Molly's milk?");
     MsgDisp("主人公","Yes. Lost lamb, one customer coming up!");
     MsgClose();
     ScrFadeOut(0,0);
@@ -74,8 +74,8 @@ I'm looking forward to it.");
     VoicePlay("P130700000_07_080");
     MsgDisp("Mikage","Oh. Then, can I have a cup?");
     MsgDisp("主人公","Nope.
-If you can't escape successfully, you can't
-drink milk, you know?");
+If you can't escape successfully, you
+can't drink milk, you know?");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,3);

@@ -3,8 +3,8 @@ BGOpen("sc820",0);
 ChLayout(1);
 ScrFadeIn(0);
 MsgDisp("主人公","Amazing...
-Flowers and nice buildings all around, it's
-like being in a foreign country!");
+Flowers and nice buildings all around,
+it's like being in a foreign country!");
 VoicePlay("Q070401000_04_000");
 MsgDisp("Nanatsumori","......");
 VoicePlay("Q070401000_04_010");
@@ -74,8 +74,8 @@ ChEye(4,0);
 ChMouth(4,3);
 VoicePlay("Q070401000_04_100");
 MsgDisp("Nanatsumori","I'm having more fun than you.
-I want to shout as loud as I can right here,
-right now.");
+I want to shout as loud as I can right
+here, right now.");
 MsgDisp("主人公","What are you going to shout?");
 ChEye(4,0);
 ChMouth(4,0);

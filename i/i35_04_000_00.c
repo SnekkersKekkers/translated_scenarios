@@ -60,11 +60,11 @@ I just came to say hi.");
     ChMotion(4,0,1);
     VoicePlay("I350400000_04_060");
     MsgDisp("Nanatsumori","Yeah.
-I have a shoot at the studio next door after
-this. I'll come by after work.");
+I have a shoot at the studio next door
+after this. I'll come by after work.");
     MsgDisp("主人公","I see.
-Then, I'll make sure your usual seat is shiny
-and clean!");
+Then, I'll make sure your usual seat is
+shiny and clean!");
     ChEye(4,0);
     ChMouth(4,3);
     ChMotion(4,1,1);
@@ -76,7 +76,8 @@ Well, see you later.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(4,0,30);
-    MsgDisp("主人公","(Did ｛Nanatsumori＊｝ come to support me...?)");
+    MsgDisp("主人公","(Did ｛Nanatsumori＊｝ come to
+support me...?)");
     break ;
     case 4:
     case 5:
@@ -101,8 +102,8 @@ Well, see you later.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("I350400000_04_100");
-    MsgDisp("Nanatsumori","Somehow, the moment I saw your face, all the
-tension left me.");
+    MsgDisp("Nanatsumori","Somehow, the moment I saw your face, all
+the tension left me.");
     MsgDisp("主人公","Huh...");
     ChEye(4,0);
     ChMouth(4,4);
@@ -125,8 +126,10 @@ before I embarrass myself any more.");
     ChMotion(4,1,1);
     VoicePlay("I350400000_04_130");
     MsgDisp("Nanatsumori","Heheh...
-Forget healing, you're like a dose of energy.");
-    MsgDisp("主人公","(｛Nanatsumori＊｝ looks like he's having fun.
+Forget healing, you're like a dose
+of energy.");
+    MsgDisp("主人公","(｛Nanatsumori＊｝ looks like he's
+having fun.
 I think I'm feeling better, too!)");
     break ;
     default :

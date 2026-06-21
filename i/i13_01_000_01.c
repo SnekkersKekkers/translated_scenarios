@@ -121,8 +121,8 @@ the store.");
     VoicePlay("I130100001_01_120");
     MsgDisp("Kazama","That was close.");
     MsgDisp("主人公","Hehe, geez.");
-    MsgDisp("主人公","(Working part-time with ｛Kazama＊＊｝ is going
-to be fun...
+    MsgDisp("主人公","(Working part-time with ｛Kazama＊＊｝ is
+going to be fun...
 I guess?)");
     break ;
     default :

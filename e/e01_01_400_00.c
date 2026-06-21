@@ -52,8 +52,8 @@ ChMouth(22,5);
 ChMotion(22,2,1);
 VoicePlay("E010140000_22_030");
 MsgDisp("Hikaru","Ehh, really? Hikaru thought he was just
-playing hard to get, but he'd eventually say
-\"okay～\". Too bad.");
+playing hard to get, but he'd eventually
+say \"okay～\". Too bad.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -63,8 +63,8 @@ ChEye(22,0);
 ChMouth(22,0);
 ChMotion(22,4,1);
 VoicePlay("E010140000_22_040");
-MsgDisp("Hikaru","Yeah, you should thank Mari for standing up
-for you!");
+MsgDisp("Hikaru","Yeah, you should thank Mari for standing
+up for you!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);

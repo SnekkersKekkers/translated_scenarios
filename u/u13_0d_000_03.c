@@ -19,13 +19,13 @@ switch (ChPrmGet(4,6)){
     StlMouth(22,0);
     VoicePlay("U130D00003_22_000");
     MsgDisp("Hikaru","Ooh～!
-Minoru-kun is a bit hard to deal with, isn't
-he? Mari, don't give up!");
+Minoru-kun is a bit hard to deal with,
+isn't he? Mari, don't give up!");
     StlEyeOpenLevel(21,5,1);
     StlMouth(21,0);
     VoicePlay("U130D00003_21_010");
-    MsgDisp("Michiru","He may seem to be unfriendly but deep down,
-he's a really kind person.");
+    MsgDisp("Michiru","He may seem to be unfriendly but deep
+down, he's a really kind person.");
     MsgDisp("主人公","(Yeah, I guess I need to be patient...)");
     break ;
     case 3:
@@ -38,19 +38,19 @@ he's a really kind person.");
     MsgDisp("Michiru","Recently, it feels like Minoru-kun is
 changing.");
     VoicePlay("U130D00003_22_010");
-    MsgDisp("Hikaru","Uh-huh, right now it's the biggest gossip in
-the modelling scene!");
+    MsgDisp("Hikaru","Uh-huh, right now it's the biggest gossip
+in the modelling scene!");
     MsgDisp("主人公","Really?");
     StlEye(21,0);
     VoicePlay("U130D00003_21_030");
-    MsgDisp("Michiru","I get a much different impression of him now
-than when he first started modelling.
+    MsgDisp("Michiru","I get a much different impression of him
+now than when he first started modelling.
 Did Mari cause that?");
     StlEye(22,2);
     VoicePlay("U130D00003_22_020");
     MsgDisp("Hikaru","Aha▼
-Minoru-kun isn't as strong-willed as he lets
-on. Fight for it, Mari!");
+Minoru-kun isn't as strong-willed as he
+lets on. Fight for it, Mari!");
     StlEye(22,0);
     MsgDisp("主人公","(Did I influence ｛Nanatsumori＊｝?
 I hope it was a change in the right
@@ -72,14 +72,14 @@ Minoru-kun lately, haven't you?");
     StlEyeOpenLevel(21,#1);
     VoicePlay("U130D00003_21_040");
     MsgDisp("Michiru","Aahh...
-At school it can be hard to tell behind those
-glasses he wears.");
+At school it can be hard to tell behind
+those glasses he wears.");
     StlEye(22,0);
     StlMouth(22,1);
     StlCheek(22,5);
     VoicePlay("U130D00003_22_040");
-    MsgDisp("Hikaru","At work, he's been taking initiative and has
-become more friendly with the staff.");
+    MsgDisp("Hikaru","At work, he's been taking initiative and
+has become more friendly with the staff.");
     StlEye(22,2);
     StlMouth(22,0);
     StlCheek(22,7);
@@ -95,8 +95,8 @@ That's hard to believe...");
     StlEyeOpenLevel(21,5,1);
     StlMouth(21,0);
     VoicePlay("U130D00003_21_050");
-    MsgDisp("Michiru","Thanks to Mari, I feel like he's been reborn
-in a sense.
+    MsgDisp("Michiru","Thanks to Mari, I feel like he's been
+reborn in a sense.
 In a good way, of course.");
     MsgDisp("主人公","(I see.
 But what in the world did I do to help

@@ -61,8 +61,8 @@ something wrong...)");
 Happy New Year.");
     MsgDisp("主人公","Happy New Year!");
     VoicePlay("S040600000_06_060");
-    MsgDisp("Himuro","It's good to see you so energetic this early
-in the year.
+    MsgDisp("Himuro","It's good to see you so energetic this
+early in the year.
 By the way, are you free today?");
     MsgSel("Yeah, let's go!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){

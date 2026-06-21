@@ -43,13 +43,15 @@ ChMouth(8,3);
 ChEyeOpenLevel(8,0);
 VoicePlay("G020840000_08_070");
 MsgDisp("Shirahane","Yeah.
-But now I don't have that prejudice anymore.");
+But now I don't have that prejudice
+anymore.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,0,1);
 VoicePlay("G020840000_08_080");
-MsgDisp("Shirahane","If our so-called fateful meetin' was at the
-gas station, wouldn't that be really funny?");
+MsgDisp("Shirahane","If our so-called fateful meetin' was at
+the gas station, wouldn't that be
+really funny?");
 MsgDisp("主人公","Ahaha!");
 ChEye(8,3);
 ChMouth(8,3);

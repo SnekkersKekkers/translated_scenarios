@@ -44,8 +44,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 ChEyeOpenLevel(7,8);
 VoicePlay("T020700000_07_050");
-MsgDisp("Mikage","Yes, the space of memories that was supposed
-to be empty is now full.
+MsgDisp("Mikage","Yes, the space of memories that was
+supposed to be empty is now full.
 Thanks to you.");
 MsgDisp("主人公","Me...?");
 ChEye(7,0);
@@ -61,14 +61,15 @@ ChMouth(7,3);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("T020700000_07_070");
-MsgDisp("Mikage","Yes. Molly-chan and the others are waiting.");
+MsgDisp("Mikage","Yes.
+Molly-chan and the others are waiting.");
 MsgDisp("主人公","Molly and her baby...");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
 VoicePlay("T020700000_07_080");
-MsgDisp("Mikage","Yeah, we celebrated the birth together in the
-science prep room, didn't we?");
+MsgDisp("Mikage","Yeah, we celebrated the birth together in
+the science prep room, didn't we?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0,1);
@@ -103,8 +104,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020700000_07_130");
-MsgDisp("Mikage","On the night of the christmas party, I became
-sure of my own feelings.");
+MsgDisp("Mikage","On the night of the christmas party, I
+became sure of my own feelings.");
 MsgDisp("主人公","｛Mikage＊＊｝'s ...feelings?");
 ChEye(7,0);
 ChMouth(7,0);
@@ -130,8 +131,8 @@ ChMouth(7,4);
 ChMotion(7,2);
 ChEyeOpenLevel(7,0);
 VoicePlay("T020700000_07_160");
-MsgDisp("Mikage","What filled my void wasn't memories, but the
-feeling of loving you.");
+MsgDisp("Mikage","What filled my void wasn't memories, but
+the feeling of loving you.");
 ChEye(7,4);
 ChMouth(7,4);
 ChMotion(7,0);

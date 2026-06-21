@@ -5,8 +5,8 @@ MsgClose();
 BGOpen("sc010",1);
 ScrFadeIn(0);
 MsgDisp("主人公","(Sigh...
-This will be the last time I walk down this
-road...)");
+This will be the last time I walk down
+this road...)");
 VoiceEVSPlay(1);
 VoicePlay("T020160000_01_000");
 MsgDisp("Kazama?","｛主人公｝.");

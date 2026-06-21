@@ -44,8 +44,8 @@ but... I see it now.");
     MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.
 Sorry, did I keep you waiting?");
     VoicePlay("Q090500000_05_040");
-    MsgDisp("Hiiragi","I waited, but waiting for excitement doesn't
-feel bad at all.");
+    MsgDisp("Hiiragi","I waited, but waiting for excitement
+doesn't feel bad at all.");
     MsgDisp("主人公","So I should have come later?");
     ChEye(5,4);
     ChMotion(5,4);
@@ -53,12 +53,14 @@ feel bad at all.");
     MsgDisp("Hiiragi","Hey, don't be so mean.");
     ChEyeOpenLevel(5,0);
     VoicePlay("Q090500000_05_060");
-    MsgDisp("Hiiragi","But the anticipation and joy when I saw you,
-I wouldn't mind having a taste of it again.");
+    MsgDisp("Hiiragi","But the anticipation and joy when I saw
+you, I wouldn't mind having a taste of
+it again.");
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("Q090500000_05_070");
-    MsgDisp("Hiiragi","From the scene of the appearance, start over.");
+    MsgDisp("Hiiragi","From the scene of the appearance,
+start over.");
     MsgDisp("主人公","Eeh∋");
     ChEye(5,3);
     ChMouth(5,4);

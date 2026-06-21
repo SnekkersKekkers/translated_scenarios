@@ -18,8 +18,8 @@ We won!");
 Well, I guess you were their manager.
 Good work.");
     MsgDisp("主人公","(Hehe!
-I'm glad that I stayed as the track and field
-club manager!)");
+I'm glad that I stayed as the track and
+field club manager!)");
     break ;
     case 4:
     case 5:

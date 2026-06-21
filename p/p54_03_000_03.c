@@ -4,13 +4,14 @@ ScrFadeOut(0);
 BGOpen("sc740",0);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(Sigh... Maybe I didn't practise enough...)");
+MsgDisp("主人公","(Sigh...
+Maybe I didn't practise enough...)");
 MsgClose();
 SEPlay("EV_SE_544",0,0.6);
 ChOpen(3,254,0,5,4,#1,#1,0,0);
 VoicePlay("P540300003_03_000");
-MsgDisp("Honda","That was an amazing sound coming out of your
-instrument.");
+MsgDisp("Honda","That was an amazing sound coming out of
+your instrument.");
 MsgDisp("主人公","Uuughh...");
 ChEye(3,0);
 ChMouth(3,0);

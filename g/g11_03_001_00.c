@@ -51,22 +51,24 @@ ChMotion(3,0);
 VoicePlay("G110300100_03_050");
 MsgDisp("Honda","Ah, but it wasn't delivered.
 I just found it crammed in a weird shelf.");
-MsgDisp("主人公","I see. You did a good job of finding it, huh?");
+MsgDisp("主人公","I see.
+You did a good job of finding it, huh?");
 ChEye(3,1);
 ChMouth(3,1);
 ChMotion(3,1);
 VoicePlay("G110300100_03_060");
 MsgDisp("Honda","Yes, it was a change of perspective!
-I thought about what it would be like to look
-for this book if I were a customer.");
+I thought about what it would be like to
+look for this book if I were a customer.");
 VoicePlay("G110300100_03_070");
 MsgDisp("Honda","Then I found it immediately.");
 ChEye(3,0);
 ChMouth(3,1);
 ChMotion(3,2);
 VoicePlay("G110300100_03_080");
-MsgDisp("Honda","After picking it up once, the customer put it
-in what he thought was the correct place.");
+MsgDisp("Honda","After picking it up once, the customer
+put it in what he thought was the
+correct place.");
 MsgDisp("主人公","(As expected of ｛Honda＊＊｝!
 What a brilliant deduction...)");
 BGMStop();

@@ -21,15 +21,15 @@ It feels like New Years.");
     ChMotion(7,3);
     VoicePlay("S070700000_07_020");
     MsgDisp("Mikage","Me too.
-Every year I say to myself, \"I'll try my best
-this year!\"");
+Every year I say to myself, \"I'll try my
+best this year!\"");
     MsgDisp("主人公","Hehe, really?");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S070700000_07_030");
-    MsgDisp("Mikage","Oh, if you don't line up quickly, you won't
-be able to leave until the morning!
+    MsgDisp("Mikage","Oh, if you don't line up quickly, you
+won't be able to leave until the morning!
 Come, let's go.");
     MsgDisp("主人公","Oh, yeah.");
     break ;
@@ -52,8 +52,8 @@ It feels different from usual.");
     ChMotion(7,2);
     VoicePlay("S070700000_07_060");
     MsgDisp("Mikage","I guess so.
-\"This year for sure!\" will work until early
-January or so?");
+\"This year for sure!\" will work until
+early January or so?");
     MsgDisp("主人公","Hehe, and what happens after that?");
     ChEye(7,0);
     ChMouth(7,0);
@@ -90,7 +90,8 @@ I'm the same way.");
     VoicePlay("S070700000_07_110");
     MsgDisp("Mikage","Yeah. I wish I had unlimited wishes.
 You're usually limited to three, right?");
-    MsgDisp("主人公","Hehe, I wonder what's ｛Mikage＊＊｝'s wish?");
+    MsgDisp("主人公","Hehe, I wonder what's
+｛Mikage＊＊｝'s wish?");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,2);
@@ -104,7 +105,8 @@ everyone, instead?");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S070700000_07_130");
-    MsgDisp("Mikage","That's a bit cutesy, but I'll go with that.
+    MsgDisp("Mikage","That's a bit cutesy, but I'll go
+with that.
 Come on, let's go to the hall of worship.");
     break ;
     default :

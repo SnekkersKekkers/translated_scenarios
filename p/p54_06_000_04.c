@@ -51,18 +51,18 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("P540600004_06_050");
-MsgDisp("Himuro","Even if you're crying tears of joy, I don't
-want anyone to see that face.");
+MsgDisp("Himuro","Even if you're crying tears of joy, I
+don't want anyone to see that face.");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("P540600004_06_060");
-MsgDisp("Himuro","...Truly, thank you for your hard work these
-last three years.");
+MsgDisp("Himuro","...Truly, thank you for your hard work
+these last three years.");
 MsgDisp("主人公","Yeah, thank you.");
-MsgDisp("主人公","(I'm truly glad I gave it my best these last
-three years....)");
+MsgDisp("主人公","(I'm truly glad I gave it my best these
+last three years....)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(6,0,0);

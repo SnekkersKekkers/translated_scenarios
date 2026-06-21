@@ -51,8 +51,8 @@ Somehow, I feel like I'm happier than you?");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("O020200000_02_050");
-    MsgDisp("Sassa","Because, just seeing you working hard, I feel
-like I get motivated, too.");
+    MsgDisp("Sassa","Because, just seeing you working hard, I
+feel like I get motivated, too.");
     ChEye(2,0);
     ChMouth(2,3);
     ChMotion(2,4);

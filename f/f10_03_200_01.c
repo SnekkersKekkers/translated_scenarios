@@ -3,8 +3,9 @@ ScrFadeIn(0);
 VoicePlay("F100320001_03_000");
 MsgDisp("Honda?","The quickest solution is to get a haircut.");
 VoicePlay("F100320001_02_000");
-MsgDisp("Sassa?","Even if that were the case, why does it have
-to be you, Iku, to be the one to cut it?");
+MsgDisp("Sassa?","Even if that were the case, why does it
+have to be you, Iku, to be the one to
+cut it?");
 MsgDisp("主人公","Huh, this voice...
 ｛Honda＊＊｝ and ｛Sassa＊＊｝?");
 MsgClose();
@@ -23,8 +24,8 @@ MsgDisp("Honda","Sakkun is fighting for every tenth of a
 second, so I figured cutting his hair could
 improve his record without muscle gain.");
 MsgDisp("主人公","Ehh?
-But, it doesn't seem like ｛Sassa＊＊｝ wants
-to cut his hair...");
+But, it doesn't seem like ｛Sassa＊＊｝
+wants to cut his hair...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -34,8 +35,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F100320001_02_030");
-MsgDisp("Sassa","But, I'm not going to improve my record like
-that, but by training.");
+MsgDisp("Sassa","But, I'm not going to improve my record
+like that, but by training.");
 ChEye(3,1);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -48,8 +49,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("F100320001_02_040");
 MsgDisp("Sassa","Got it!
-Ah, you should also be careful to not let Iku
-cut your hair.");
+Ah, you should also be careful to not let
+Iku cut your hair.");
 ChEye(2,3);
 ChMouth(2,3);
 ChMotion(2,3);

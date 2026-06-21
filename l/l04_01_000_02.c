@@ -20,8 +20,8 @@ I do look after you a lot.");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("L040100002_01_020");
-    MsgDisp("Kazama","Well, I'll accept it as payment for looking
-after you.
+    MsgDisp("Kazama","Well, I'll accept it as payment for
+looking after you.
 Thank you very much.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -46,7 +46,8 @@ He seemed happy.)");
     MsgDisp("Kazama","How much does your job pay you?
 Thinking about that, it's a little hard to
 eat this.");
-    MsgDisp("主人公","Huh? It looks delicious, so eat it properly.");
+    MsgDisp("主人公","Huh?
+It looks delicious, so eat it properly.");
     ChEye(1,4);
     ChMouth(1,3);
     ChMotion(1,0);

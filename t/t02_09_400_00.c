@@ -28,8 +28,8 @@ ChMotion(9,0,1);
 ChEyeOpenLevel(9,10);
 ChCheek(9,0);
 VoicePlay("T020940000_09_030");
-MsgDisp("Kuya","This is the legendary place of Habataki High,
-isn't it?");
+MsgDisp("Kuya","This is the legendary place of Habataki
+High, isn't it?");
 ChEye(9,3);
 ChMouth(9,0);
 ChMotion(9,0,1);
@@ -80,8 +80,8 @@ ChMouth(9,4);
 ChMotion(9,4,1);
 VoicePlay("T020940000_09_100");
 MsgDisp("Kuya","You were a guide to the right path for a
-foolish man who misunderstood what it meant
-to think about others.");
+foolish man who misunderstood what it
+meant to think about others.");
 ChEye(9,0);
 ChMouth(9,0);
 ChMotion(9,0,1);

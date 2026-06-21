@@ -16,8 +16,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("P540100001_01_010");
 MsgDisp("Kazama","It's alright.
-You did your utmost best, that was properly
-conveyed.");
+You did your utmost best, that was
+properly conveyed.");
 MsgDisp("主人公","But...");
 ChEye(1,4);
 ChMouth(1,3);

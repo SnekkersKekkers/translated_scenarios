@@ -52,8 +52,8 @@ Thank goodness.)");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200003_02_060");
-    MsgDisp("Sassa","It's almost a waste to eat it, but I want to
-eat it right now.
+    MsgDisp("Sassa","It's almost a waste to eat it, but I want
+to eat it right now.
 Thanks.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -99,7 +99,8 @@ What should I do?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("L040200003_02_110");
-    MsgDisp("Sassa","I can't. That's it, let's eat this together.
+    MsgDisp("Sassa","I can't. That's it, let's eat this
+together.
 Okay?");
     MsgDisp("主人公","No, eat it slowly at home.");
     ChEye(2,0);
@@ -107,8 +108,8 @@ Okay?");
     ChMotion(2,0);
     VoicePlay("L040200003_02_120");
     MsgDisp("Sassa","Got it.
-I'll stare at it until I get tired, then eat
-it. That's fine, right?");
+I'll stare at it until I get tired, then
+eat it. That's fine, right?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

@@ -59,8 +59,8 @@ everyone on the baseball team.");
     ChMotion(22,4,1);
     VoicePlay("H182200000_22_050");
     MsgDisp("Hikaru","The manager is on the team too, you know?
-That means that Mari's support is good enough
-to make it to Koshien♪");
+That means that Mari's support is good
+enough to make it to Koshien♪");
     MsgDisp("主人公","Hehe!");
     ChEye(22,3);
     ChMouth(22,3);

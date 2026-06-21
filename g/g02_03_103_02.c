@@ -4,19 +4,20 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310302_03_000");
-MsgDisp("Honda","Hey, hey, we ended up walking around all day
-today in matching outfits.");
+MsgDisp("Honda","Hey, hey, we ended up walking around all
+day today in matching outfits.");
 MsgDisp("主人公","Hehe, yeah we did.");
 ChSet(3,4);
 VoicePlay("G020310302_03_010");
-MsgDisp("Honda","Without planning it in advance, we ended up
-matching.
+MsgDisp("Honda","Without planning it in advance, we ended
+up matching.
 That means—");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("G020310302_03_020");
-MsgDisp("Honda","Our fashion sense is becoming more similar!");
+MsgDisp("Honda","Our fashion sense is becoming more
+similar!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
@@ -63,8 +64,8 @@ and more.");
 ChEye(3,0);
 ChMotion(3,4);
 VoicePlay("G020310302_03_100");
-MsgDisp("Honda","Even the little things you do every day must
-be influenced by your hairstyle.");
+MsgDisp("Honda","Even the little things you do every day
+must be influenced by your hairstyle.");
 MsgDisp("主人公","I-I see...?");
 ChEye(3,3);
 ChMouth(3,3);

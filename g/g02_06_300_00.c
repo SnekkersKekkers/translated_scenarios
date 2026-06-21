@@ -3,8 +3,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("G020630000_06_000");
-MsgDisp("Himuro","Ryota-senpai and Nozomu-senpai are popular,
-aren't they?
+MsgDisp("Himuro","Ryota-senpai and Nozomu-senpai are
+popular, aren't they?
 I often hear girls talking about them.");
 ChEye(6,0);
 ChMouth(6,4);
@@ -17,20 +17,20 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("G020630000_06_020");
-MsgDisp("Himuro","Ryota-senpai is aware of his popularity, but
-Nozomu-senpai is oblivious to it.");
+MsgDisp("Himuro","Ryota-senpai is aware of his popularity,
+but Nozomu-senpai is oblivious to it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630000_06_030");
-MsgDisp("Himuro","But...from my perspective, those two are very
-similar.");
+MsgDisp("Himuro","But...from my perspective, those two are
+very similar.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630000_06_040");
-MsgDisp("Himuro","Those two are very honest in regards to what
-they like.
+MsgDisp("Himuro","Those two are very honest in regards to
+what they like.
 ...I'm a bit envious.");
 MsgDisp("主人公","Is ｛Himuro＊＊｝ different?");
 ChEye(6,0);
@@ -48,8 +48,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630000_06_070");
-MsgDisp("Himuro","I'm scared that if I don't keep my distance,
-I'll lose sight of myself.");
+MsgDisp("Himuro","I'm scared that if I don't keep my
+distance, I'll lose sight of myself.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0,1);
@@ -68,7 +68,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("G020630000_06_100");
-MsgDisp("Himuro","When that time comes, you'll understand too.");
+MsgDisp("Himuro","When that time comes, you'll
+understand too.");
 MsgDisp("主人公","(｛Himuro＊＊｝...?)");
 BGMStop();
 MsgClose();

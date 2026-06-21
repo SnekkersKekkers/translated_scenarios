@@ -47,7 +47,8 @@ VoicePlay("P840400003_04_020");
 MsgDisp("Nanatsumori","It's nothing.
 But, it's good to work hard but you can't
 lose your concentration, you know?");
-MsgDisp("主人公","(Uugh.... I inconvenienced ｛Nanatsumori＊｝.
+MsgDisp("主人公","(Uugh....
+I inconvenienced ｛Nanatsumori＊｝.
 A huge failure...)");
 MsgClose();
 ScrFadeOut(0,0);

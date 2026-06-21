@@ -22,7 +22,8 @@ VoicePlay("F020200004_02_010");
 MsgDisp("Sassa","Yeah, it would be nice to age all at once.
 That way, I could do octathlons earlier.");
 MsgDisp("主人公","That's right.
-｛Sassa＊＊｝'s goal is the octathlon, right?");
+｛Sassa＊＊｝'s goal is the
+octathlon, right?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -42,8 +43,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("F020200004_02_040");
-MsgDisp("Sassa","Does it? I also like to track my minutes and
-metres from year to year.
+MsgDisp("Sassa","Does it? I also like to track my minutes
+and metres from year to year.
 It's nice to feel like you've grown up.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -75,6 +76,6 @@ VoicePlay("F020200004_02_080");
 MsgDisp("Sassa","Ah, that's reassuring to hear.");
 ChEye(2,0);
 ChEyeOpenLevel(2,10);
-MsgDisp("主人公","(To think about sports so much you tie your
-birthday to them...it makes me root for
-｛Sassa＊＊｝ even more!)");
+MsgDisp("主人公","(To think about sports so much you tie
+your birthday to them...it makes me root
+for ｛Sassa＊＊｝ even more!)");

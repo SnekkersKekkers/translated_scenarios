@@ -16,8 +16,8 @@ Wait(16,0);
 ChEye(5,4);
 VoicePlay("T020501000_05_010");
 MsgDisp("Hiiragi","Congratulations on your graduation.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝ you too, congratulations on your
-graduation.");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝ you too, congratulations on
+your graduation.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
@@ -42,8 +42,8 @@ ChMouth(5,4);
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 VoicePlay("T020501000_05_040");
-MsgDisp("Hiiragi","Of course, there was no merit in me being a
-Haba student, since I hadn't attended
+MsgDisp("Hiiragi","Of course, there was no merit in me being
+a Haba student, since I hadn't attended
 elementary or middle school properly.");
 ChEyeOpenLevel(5,9);
 MsgDisp("主人公","No, even though you're busy with the theatre
@@ -59,10 +59,10 @@ ChEye(5,4);
 ChMouth(5,4);
 ChEyeOpenLevel(5,8);
 VoicePlay("T020501000_05_060");
-MsgDisp("Hiiragi","I immediately realised that my studies were
-not going to improve. At that same time, the
-disappointed looks on everyone's faces came
-to mind.");
+MsgDisp("Hiiragi","I immediately realised that my studies
+were not going to improve. At that same
+time, the disappointed looks on everyone's
+faces came to mind.");
 ChEye(5,4);
 ChMouth(5,0);
 ChEyeOpenLevel(5,8);
@@ -86,15 +86,16 @@ VoicePlay("T020501000_05_090");
 MsgDisp("Hiiragi","But, you always cared about what I did.");
 ChEyeOpenLevel(5,#1);
 MsgDisp("主人公","But...
-I wanted to support ｛Hiiragi＊＊＊｝ even more,
-but there was nothing I could do.");
+I wanted to support ｛Hiiragi＊＊＊｝ even
+more, but there was nothing I could do.");
 ChMotion(5,1);
 Wait(30,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020501000_05_100");
-MsgDisp("Hiiragi","No, I was just happy that you started talking
-to me and laughed together with me.");
+MsgDisp("Hiiragi","No, I was just happy that you started
+talking to me and laughed together
+with me.");
 MsgDisp("主人公","It was nothing...");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
@@ -122,17 +123,17 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("T020501000_05_130");
-MsgDisp("Hiiragi","That's why I was able to come to school every
-day. That's why I didn't give up on the
-theatre company and continued.");
+MsgDisp("Hiiragi","That's why I was able to come to school
+every day. That's why I didn't give up on
+the theatre company and continued.");
 Wait(60,0);
 ChMotion(5,0,1);
 Wait(16,0);
 ChEye(5,4);
 ChMouth(5,4);
 VoicePlay("T020501000_05_140");
-MsgDisp("Hiiragi","You were my only light as I struggled blindly
-through school and theatre.");
+MsgDisp("Hiiragi","You were my only light as I struggled
+blindly through school and theatre.");
 MsgClear();
 ChClose(5);
 ChCustomLayout(5,5,0,-2.6);

@@ -8,7 +8,8 @@ switch (ChPrmGet(2,6)){
     ChOpen(2,254,0,0,0,#1,#1,0,0);
     ScrFadeIn(0);
     VoicePlay("N020200001_02_000");
-    MsgDisp("Sassa","Wow, I always knew you were a good student.");
+    MsgDisp("Sassa","Wow, I always knew you were a good
+student.");
     MsgDisp("主人公","Ah, you came to check the results
 ｛Sassa＊＊｝?");
     ChEye(2,0);
@@ -16,7 +17,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,4);
     VoicePlay("N020200001_02_010");
     MsgDisp("Sassa","Yeah.
-Whatever I got, I'll face the consequences.");
+Whatever I got, I'll face the
+consequences.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -71,8 +73,8 @@ I saw your name near the top.");
     ChMotion(2,4);
     VoicePlay("N020200001_02_070");
     MsgDisp("Sassa","Yeah.
-Whether I see it or not, the score is always
-gonna be the same.");
+Whether I see it or not, the score is
+always gonna be the same.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,3);

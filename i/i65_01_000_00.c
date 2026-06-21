@@ -26,7 +26,8 @@ What is it?");
     ChMotion(1,0,1);
     VoicePlay("I650100000_01_020");
     MsgDisp("Kazama","Well, not like I'm one to talk.");
-    MsgDisp("主人公","Are you here for gasoline too, ｛Kazama＊＊｝?");
+    MsgDisp("主人公","Are you here for gasoline too,
+｛Kazama＊＊｝?");
     ChEye(1,2);
     ChMouth(1,0);
     ChMotion(1,1);
@@ -91,8 +92,8 @@ high octane.");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("I650100000_01_090");
-    MsgDisp("Kazama","Just seeing your smile like this means I'll
-be okay for a while.");
+    MsgDisp("Kazama","Just seeing your smile like this means
+I'll be okay for a while.");
     MsgDisp("主人公","｛Kazama＊＊｝?");
     ChEye(1,4);
     ChMouth(1,2);
@@ -105,8 +106,9 @@ See you.");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
     ChClose(1);
-    MsgDisp("主人公","(Hehe, but I think only ｛Kazama＊＊｝ could be
-fully refuelled with just a smile, you know?)");
+    MsgDisp("主人公","(Hehe, but I think only ｛Kazama＊＊｝
+could be fully refuelled with just a
+smile, you know?)");
     break ;
     case 4:
     case 5:
@@ -138,9 +140,9 @@ What's up?");
     ChMouth(1,2);
     ChMotion(1,3);
     VoicePlay("I650100000_01_130");
-    MsgDisp("Kazama","What are you going to do if you get caught
-up in something like that when I'm not
-here?");
+    MsgDisp("Kazama","What are you going to do if you get
+caught up in something like that when I'm
+not here?");
     MsgDisp("主人公","Um, I'll be fine?
 Their cars are crazy, but they're
 nice people.");
@@ -178,8 +180,8 @@ pretty often.");
     ChEyeOpenLevel(1,8);
     VoicePlay("I650100000_01_180");
     MsgDisp("Kazama","Listen to me.
-Your powers of attraction work
-on all ages. Keep your smiles at just 20%.");
+Your powers of attraction work on all ages.
+Keep your smiles at just 20%.");
     MsgDisp("主人公","Geez! What are you talking about?");
     ChEye(1,0);
     ChMouth(1,1);
@@ -193,8 +195,8 @@ See you.");
     BGMStop();
     ChClose(1);
     MsgDisp("主人公","(Geez...
-I can't serve customers with an angry
-face.)");
+I can't serve customers with an
+angry face.)");
     break ;
     default :
     DbgAssert(1);

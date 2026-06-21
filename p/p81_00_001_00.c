@@ -8,11 +8,12 @@ SEWait();
 MsgDisp("主人公","Yes, hello?");
 VoicePlay("P810500100_41_000");
 MsgDisp("President","I apologise for calling you on break.
-I called you as I have a message to deliver.");
+I called you as I have a message to
+deliver.");
 VoicePlay("P810500100_41_010");
-MsgDisp("President","From next week, for two weeks onwards we will
-begin the preparation period for the cultural
-festival.");
+MsgDisp("President","From next week, for two weeks onwards we
+will begin the preparation period for the
+cultural festival.");
 VoicePlay("P810500100_41_020");
 MsgDisp("President","We, the Student Council, have been entrusted
 with management of the cultural festival.

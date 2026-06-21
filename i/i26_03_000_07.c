@@ -13,8 +13,8 @@ switch (ChPrmGet(3,6)){
     ChMotion(3,4,1);
     VoicePlay("I260300000_03_750");
     MsgDisp("Honda","Hey hey.
-I can't find the magazines that were brought
-in earlier.");
+I can't find the magazines that were
+brought in earlier.");
     MsgDisp("主人公","Ah, today's magazines are already out.");
     ChEye(3,0);
     ChMouth(3,4);
@@ -27,14 +27,15 @@ books. I'll do that.");
     ChMouth(3,0);
     ChMotion(3,1,1);
     VoicePlay("I260300000_03_770");
-    MsgDisp("Honda","...You know, I feel like my work routine has
-been getting faster lately.");
+    MsgDisp("Honda","...You know, I feel like my work routine
+has been getting faster lately.");
     ChEye(3,0);
     ChMouth(3,3);
     ChMotion(3,3,1);
     VoicePlay("I260300000_03_780");
     MsgDisp("Honda","I think it's because of you.");
-    MsgDisp("主人公","Hm, me? I didn't do anything special, right?");
+    MsgDisp("主人公","Hm, me?
+I didn't do anything special, right?");
     ChEye(3,4);
     ChMouth(3,3);
     ChMotion(3,4,1);
@@ -94,8 +95,8 @@ I'll go get changed quickly!");
     MsgDisp("Honda","Da-...
 We somehow got through the peak hours...");
     MsgDisp("主人公","Good work.
-It's the first time I've seen you this tired,
-｛Honda＊＊｝.");
+It's the first time I've seen you this
+tired, ｛Honda＊＊｝.");
     ChEye(3,2);
     ChMouth(3,3);
     ChMotion(3,0,1);

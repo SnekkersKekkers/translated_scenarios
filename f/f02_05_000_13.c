@@ -63,5 +63,6 @@ ChMotion(5,0);
 VoicePlay("F020500013_05_080");
 MsgDisp("Hiiragi","Then I look forward to it.
 The school trip.");
-MsgDisp("主人公","(Haha, it seems like ｛Hiiragi＊＊＊｝ has already
-decided what he'll do with his free time.)");
+MsgDisp("主人公","(Haha, it seems like ｛Hiiragi＊＊＊｝ has
+already decided what he'll do with his
+free time.)");

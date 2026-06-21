@@ -33,8 +33,8 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("F020500010_05_040");
 MsgDisp("Hiiragi","It is the truth.
-Well, in order to repay that favour, I will
-have to work my hardest as well.");
-MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ is working his hardest, then
-it'll surely turn out to be a great
+Well, in order to repay that favour, I
+will have to work my hardest as well.");
+MsgDisp("主人公","(If ｛Hiiragi＊＊＊｝ is working his hardest,
+then it'll surely turn out to be a great
 performance!)");

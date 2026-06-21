@@ -4,8 +4,8 @@ ChMouth(22,3);
 ChMotion(22,3,1);
 VoicePlay("F032200000_22_010");
 MsgDisp("Hikaru","Yep, Hikaru does!
-Hikaru watches variety shows, quiz shows, and
-documentaries. Even comedies too♪");
+Hikaru watches variety shows, quiz shows,
+and documentaries. Even comedies too♪");
 MsgDisp("主人公","Wow!");
 ChEye(22,3);
 ChMouth(22,3);
@@ -13,8 +13,8 @@ ChMotion(22,4,1);
 ChEyeOpenLevel(22,0);
 VoicePlay("F032200000_22_020");
 MsgDisp("Hikaru","It's super fun to watch Big Sis seriously
-answering the questions next to Hikaru when
-we watch the quiz shows～!");
+answering the questions next to Hikaru
+when we watch the quiz shows～!");
 MsgDisp("主人公","｛みちる＊｝?");
 ChEye(22,3);
 ChMouth(22,3);

@@ -1,5 +1,6 @@
 ScrFadeIn(0);
-MsgDisp("主人公","(...Huh? Is ｛Honda＊＊｝ still in the shop?)");
+MsgDisp("主人公","(...Huh?
+Is ｛Honda＊＊｝ still in the shop?)");
 SEPlay("EV_SE_FOOT_RUN_COME_ALONE");
 SEWait();
 VoiceEVSPlay(3);

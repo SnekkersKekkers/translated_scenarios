@@ -62,7 +62,8 @@ Who is it?");
     MsgDisp("主人公","｛Mikage＊＊｝!
 Happy New Years.");
     VoicePlay("S040700000_07_070");
-    MsgDisp("Mikage","I'm thinking about visiting the shrine now.
+    MsgDisp("Mikage","I'm thinking about visiting the
+shrine now.
 Are you free?");
     MsgSel("Yes, I'd love to!","Sorry, I'm a bit...");
     switch (MsgSelRsltGet()){

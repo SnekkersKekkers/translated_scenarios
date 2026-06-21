@@ -5,8 +5,8 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 VoicePlay("T040220000_02_000");
-MsgDisp("Sassa","Hey, do you remember that time Inori taught
-everyone how to surf?");
+MsgDisp("Sassa","Hey, do you remember that time Inori
+taught everyone how to surf?");
 MsgClose();
 StlOpen("ev_02_21");
 BGMPlay("BGM_PROLOGUE",0.01);

@@ -40,23 +40,24 @@ It's still more crowded than I expected.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S070600000_06_040");
-    MsgDisp("Himuro","Isn't there a back route to the shrine path?");
+    MsgDisp("Himuro","Isn't there a back route to the
+shrine path?");
     MsgDisp("主人公","Eh, another route?");
     ChEye(6,0);
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("S070600000_06_050");
     MsgDisp("Himuro","This is so inefficient.
-It would be better to hold this kind of thing
-in a larger area.");
+It would be better to hold this kind of
+thing in a larger area.");
     ChEye(6,2);
     ChMouth(6,0);
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("S070600000_06_060");
     MsgDisp("Himuro","...Or something like that.
-I guess there's no point in complaining about
-it now.");
+I guess there's no point in complaining
+about it now.");
     break ;
     case 4:
     case 5:

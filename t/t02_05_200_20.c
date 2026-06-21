@@ -7,8 +7,8 @@ ChEyeOpenLevel(5,10);
 ChCheek(5,5);
 VoicePlay("T020520020_05_000");
 MsgDisp("Hiiragi","Eh...");
-MsgDisp("主人公","The ｛Hiiragi＊＊＊｝ who always gave it his all,
-no matter what shined so brightly.");
+MsgDisp("主人公","The ｛Hiiragi＊＊＊｝ who always gave it his
+all, no matter what shined so brightly.");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
@@ -27,14 +27,15 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,8);
 ChCheek(5,0);
 VoicePlay("T020520020_05_020");
-MsgDisp("Hiiragi","Hey. If you make that face, I'll be troubled.");
+MsgDisp("Hiiragi","Hey.
+If you make that face, I'll be troubled.");
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 Wait(16,0);
 ChEye(5,4);
 VoicePlay("T020520020_05_030");
-MsgDisp("Hiiragi","Furthermore, Inori-kun and Mikage sensei will
-get mad at me if you're not smiling.");
+MsgDisp("Hiiragi","Furthermore, Inori-kun and Mikage sensei
+will get mad at me if you're not smiling.");
 MsgDisp("主人公","Hehe.");
 ChMotion(5,0,1);
 ChEyeOpenLevel(5,0);

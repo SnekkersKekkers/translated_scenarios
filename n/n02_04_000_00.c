@@ -41,8 +41,8 @@ Hehe, I'm glad I did my best!)");
     ChEye(4,0);
     ChMouth(4,3);
     VoicePlay("N020400000_04_050");
-    MsgDisp("Nanatsumori","Congratulations on being the top student in
-our grade.
+    MsgDisp("Nanatsumori","Congratulations on being the top student
+in our grade.
 You are really cool.");
     ChEye(4,4);
     ChMouth(4,0);

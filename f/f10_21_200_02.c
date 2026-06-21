@@ -37,8 +37,8 @@ ChMouth(21,4);
 ChMotion(21,3);
 VoicePlay("F102120002_21_010");
 MsgDisp("Michiru","Hey Mari.
-Don't you think the way Himuro-chan addresses
-people is weird?");
+Don't you think the way Himuro-chan
+addresses people is weird?");
 MsgDisp("主人公","The way he addresses people?");
 ChEye(21,0);
 ChMouth(21,4);

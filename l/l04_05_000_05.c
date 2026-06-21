@@ -65,7 +65,8 @@ Did I add something he doesn't like...?)");
     ChEye(5,4);
     ChMouth(5,0);
     VoicePlay("L040500005_05_070");
-    MsgDisp("Hiiragi","...This is surely due to a miscommunication.
+    MsgDisp("Hiiragi","...This is surely due to a
+miscommunication.
 The fault is on me.");
     MsgDisp("主人公","Hm? What's wrong?");
     ChEye(5,4);
@@ -73,8 +74,8 @@ The fault is on me.");
     ChMotion(5,0);
     VoicePlay("L040500005_05_080");
     MsgDisp("Hiiragi","Nothing, thank you.
-You allowed me to realise something, and gave
-me chocolate as well.");
+You allowed me to realise something, and
+gave me chocolate as well.");
     ChEye(5,0);
     VoicePlay("L040500005_05_090");
     MsgDisp("Hiiragi","Well then, farewell.");
@@ -83,7 +84,8 @@ me chocolate as well.");
     BGMStop();
     ChClose(5);
     MsgDisp("主人公","(...Something he realised?
-Did I put in something he doesn't like...?)");
+Did I put in something he doesn't
+like...?)");
     break ;
     default :
     DbgAssert(1);

@@ -11,7 +11,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("H8G0100000_01_010");
-MsgDisp("Kazama","Hey, don't you have something to say to me?");
+MsgDisp("Kazama","Hey, don't you have something to say
+to me?");
 MsgDisp("主人公","Hm?");
 ChEye(1,4);
 ChMouth(1,3);
@@ -46,7 +47,8 @@ ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);
 VoicePlay("H8G0100000_01_050");
-MsgDisp("Kazama","Even so, I was waiting to hear it from you.");
+MsgDisp("Kazama","Even so, I was waiting to hear it
+from you.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,1);

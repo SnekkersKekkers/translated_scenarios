@@ -17,8 +17,8 @@ switch (ChPrmGet(7,6)){
     MsgDisp("Mikage","We made it safe and sound.
 Give my regards to your family.");
     MsgDisp("主人公","Yep. Thank you very much for today.
-And thank you for taking me on my last shrine
-visit...");
+And thank you for taking me on my last
+shrine visit...");
     ChEye(7,2);
     ChMouth(7,0);
     ChMotion(7,1);
@@ -36,9 +36,9 @@ three years, huh?");
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("S120700005_07_030");
-    MsgDisp("Mikage","Save all your thoughts and true feelings for
-after the graduation ceremony, or else it's
-just a waste.");
+    MsgDisp("Mikage","Save all your thoughts and true feelings
+for after the graduation ceremony, or else
+it's just a waste.");
     MsgDisp("主人公","A waste?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -52,15 +52,15 @@ you'll create a memory you will never forget.");
     ChMouth(7,0);
     ChMotion(7,0);
     VoicePlay("S120700005_07_050");
-    MsgDisp("Mikage","If you don't listen, I'll make you repeat the
-year for disobeying my orders okay?");
+    MsgDisp("Mikage","If you don't listen, I'll make you repeat
+the year for disobeying my orders okay?");
     MsgDisp("主人公","Ehh∋");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("S120700005_07_060");
-    MsgDisp("Mikage","If you don't want that, just go home quietly,
-understood?");
+    MsgDisp("Mikage","If you don't want that, just go home
+quietly, understood?");
     MsgDisp("主人公","Hehe, okay.");
     MsgClose();
     MsgClose();
@@ -95,20 +95,22 @@ spend the rest of it without any regrets!)");
     ChMotion(7,0);
     VoicePlay("S120700005_07_090");
     MsgDisp("Mikage","I won't come in.
-Well, I have to show my face at school too.");
+Well, I have to show my face at
+school too.");
     MsgDisp("主人公","Oh, I see...");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("S120700005_07_100");
-    MsgDisp("Mikage","Ahh, even after you guys graduate, it feels
-like I'll be stuck here forever.");
+    MsgDisp("Mikage","Ahh, even after you guys graduate, it
+feels like I'll be stuck here forever.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("S120700005_07_110");
-    MsgDisp("Mikage","It's the same as the plants in the gardening
-club, growing roots holding them in place...");
+    MsgDisp("Mikage","It's the same as the plants in the
+gardening club, growing roots holding them
+in place...");
     MsgDisp("主人公","｛Mikage＊＊｝?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -121,7 +123,8 @@ You can come visit me anytime.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("S120700005_07_130");
-    MsgDisp("Mikage","I'll be here waiting, sleeping in the vines.");
+    MsgDisp("Mikage","I'll be here waiting, sleeping in
+the vines.");
     MsgDisp("主人公","Like a character out of a fairytale, huh?");
     ChEye(7,0);
     ChMouth(7,3);
@@ -136,8 +139,8 @@ Well, I'm off to the plants.");
     ChClose(7);
     Wait(30);
     MsgDisp("主人公","(｛Mikage＊＊｝ seems a little sad...
-But I'm glad I could go with him for my final
-shrine visit.)");
+But I'm glad I could go with him for my
+final shrine visit.)");
     break ;
     default :
     DbgAssert(1);

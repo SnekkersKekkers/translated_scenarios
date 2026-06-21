@@ -55,7 +55,8 @@ Is that all the new books?)");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("I250700000_07_050");
-    MsgDisp("Mikage","I was in the area, so I thought I'd come by.
+    MsgDisp("Mikage","I was in the area, so I thought I'd
+come by.
 Show me how you work for a bit.");
     MsgDisp("主人公","Huh?");
     ChEye(7,2);
@@ -76,7 +77,8 @@ Excuse me.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("I250700000_07_080");
-    MsgDisp("Mikage","Maybe I'll get a part-time job somewhere too?");
+    MsgDisp("Mikage","Maybe I'll get a part-time job
+somewhere too?");
     MsgDisp("主人公","Huh∋");
     ChEye(7,0);
     ChMouth(7,3);
@@ -94,7 +96,8 @@ part-time job?)");
     break ;
     case 4:
     case 5:
-    MsgDisp("主人公","(Phew, there were a lot of customers today.)");
+    MsgDisp("主人公","(Phew, there were a lot of
+customers today.)");
     MsgClose();
     BGMPlay("BGM_C07_MIKAGE_A",0.01);
     ChOpen(7,255,0,0,0,#1,#1,0,0);
@@ -120,8 +123,8 @@ The store might finally be calming down.)");
     MsgDisp("主人公","(｛Mikage＊＊｝ came all that way just to
 check on me...)");
     VoicePlay("I250700000_42_010");
-    MsgDisp("Manager","Just now, your homeroom teacher came by with
-gifts for everyone.");
+    MsgDisp("Manager","Just now, your homeroom teacher came by
+with gifts for everyone.");
     MsgDisp("主人公","Huh? ｛Mikage＊＊｝ brought gifts?");
     VoicePlay("I250700000_42_020");
     MsgDisp("Manager","Yeah, a lot of milk ice cream.

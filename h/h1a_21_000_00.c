@@ -21,8 +21,8 @@ switch (ChPrmGet(21,6)){
     VoicePlay("H1A2100000_21_010");
     MsgDisp("Michiru","It was such a good match.
 I was very impressed.");
-    MsgDisp("主人公","(I'm glad that I stayed as the baseball club
-manager!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball
+club manager!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;
@@ -52,9 +52,10 @@ you, Mari?");
     ChMotion(21,0);
     VoicePlay("H1A2100000_21_040");
     MsgDisp("Michiru","Hehe.
-Those baseball players are quite lucky, no?");
-    MsgDisp("主人公","(I'm glad that I stayed as the baseball club
-manager!)");
+Those baseball players are quite
+lucky, no?");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball
+club manager!)");
     MsgClose();
     ScrFadeOut(0,0);
     break ;

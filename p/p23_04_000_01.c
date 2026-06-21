@@ -42,7 +42,8 @@ shortly.");
     ChMotion(4,0,1);
     VoicePlay("P230400001_04_020");
     MsgDisp("Nanatsumori","Well.
-Our work continues until the curtain falls.");
+Our work continues until the
+curtain falls.");
     MsgDisp("主人公","Yeah, let's give it our all!");
     break ;
     default :

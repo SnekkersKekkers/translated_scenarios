@@ -12,7 +12,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("P140300000_03_010");
-MsgDisp("Honda","I never thought I'd get lost in a classroom.");
+MsgDisp("Honda","I never thought I'd get lost in a
+classroom.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
@@ -43,7 +44,8 @@ VoicePlay("P140300000_03_050");
 MsgDisp("Honda","Ah—that was fun.
 I'll go and promote it!");
 MsgDisp("主人公","(I'm glad!
-｛Honda＊＊｝ seems to have really liked it!)");
+｛Honda＊＊｝ seems to have really
+liked it!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(3,0,0);

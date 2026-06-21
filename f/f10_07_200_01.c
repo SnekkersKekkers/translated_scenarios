@@ -19,22 +19,22 @@ ChOpen(5,254,0,0,4,#1,#1,0,2,0,30);
 VoiceEVSPlay(7);
 VoicePlay("F100720001_07_000");
 MsgDisp("Mikage","｛主人公｝, you sure are early aren't you?");
-MsgDisp("主人公","Are ｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝ talking
-about blackboards?");
+MsgDisp("主人公","Are ｛Mikage＊＊｝ and ｛Hiiragi＊＊＊｝
+talking about blackboards?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720001_05_000");
 MsgDisp("Hiiragi","Yes, it is truly an exceptional item.
-Every week, after this, your class is in the
-science classroom, correct?");
+Every week, after this, your class is in
+the science classroom, correct?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("F100720001_07_010");
 MsgDisp("Mikage","That's right.
-The content of the lessons is pretty much the
-same, so it's easy for me too.");
+The content of the lessons is pretty much
+the same, so it's easy for me too.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -53,9 +53,9 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("F100720001_05_020");
-MsgDisp("Hiiragi","I understand that. Even with the same play,
-you want to adjust the pauses and timing
-based on the audience's reaction.");
+MsgDisp("Hiiragi","I understand that. Even with the same
+play, you want to adjust the pauses and
+timing based on the audience's reaction.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);
@@ -93,7 +93,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("F100720001_05_050");
-MsgDisp("Hiiragi","I'll be off to be a guest at another venue.");
+MsgDisp("Hiiragi","I'll be off to be a guest at
+another venue.");
 MsgClose();
 SEPlay("EV_SE_856");
 BGMStop();
@@ -101,14 +102,14 @@ ChClose(5,0,30);
 ChClose(7,0,30);
 SEPlay("EV_SE_788",0.5,0.6);
 VoicePlay("F100720001_07_050");
-MsgDisp("Mikage","It's about time for the curtains to raise for
-\"Biology Basics\".");
+MsgDisp("Mikage","It's about time for the curtains to raise
+for \"Biology Basics\".");
 VoicePlay("F100720001_42_000");
 MsgDisp("School Boy","Curtain rises?
 Mikagecchi, what's wrong?");
 MsgDisp("主人公","(Hehe!
-It looks like ｛Mikage＊＊｝ is trying to be
-an actor?)");
+It looks like ｛Mikage＊＊｝ is trying to
+be an actor?)");
 SEStop("EV_SE_SCHOOL_002",1);
 SEStop("EV_SE_788",1);
 MsgClose();

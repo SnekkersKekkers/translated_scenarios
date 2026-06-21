@@ -26,7 +26,8 @@ while (1){
     ChMotion(3,2);
     VoicePlay("G110300603_03_030");
     MsgDisp("Honda","Woah woah, stop stop!
-If you touch that part, the book will break!");
+If you touch that part, the book
+will break!");
     }
 ChEye(3,0);
 ChMouth(3,1);
@@ -51,8 +52,8 @@ VoicePlay("G110300603_03_050");
 MsgDisp("Honda","It's the first edition of \"The Way of
 First Love\".
 It's signed by the author in the back, see?");
-MsgDisp("主人公","(Phew, I'm glad I didn't damage his precious
-book...)");
+MsgDisp("主人公","(Phew, I'm glad I didn't damage his
+precious book...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

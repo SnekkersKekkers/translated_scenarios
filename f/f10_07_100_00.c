@@ -64,12 +64,12 @@ ChOpen(7,37,1,0,0,#1,#1,0,0);
 VoicePlay("F100710000_07_050");
 MsgDisp("Mikage","Sorry I couldn't be a better host.
 Well, let's go.");
-MsgDisp("主人公","Today we're in the classroom, not the science
-room though...");
+MsgDisp("主人公","Today we're in the classroom, not the
+science room though...");
 VoicePlay("F100710000_07_060");
 MsgDisp("Mikage","That's right.");
-MsgDisp("主人公","If you show up dressed like that, you'll get
-scolded by Himuro-sensei?");
+MsgDisp("主人公","If you show up dressed like that, you'll
+get scolded by Himuro-sensei?");
 ChEye(7,5);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -85,8 +85,8 @@ MsgDisp("Mikage","Sorry, go ahead.
 I'll go after I change into my suit.");
 MsgDisp("主人公","Hehe, yes.");
 SEStop("EV_SE_SCHOOL_002",1);
-MsgDisp("主人公","(I couldn't help out, but I'm glad I came to
-see how he was doing. It would be tough if he
-got scolded by Himuro-sensei again.)");
+MsgDisp("主人公","(I couldn't help out, but I'm glad I came
+to see how he was doing. It would be tough
+if he got scolded by Himuro-sensei again.)");
 MsgClose();
 ScrFadeOut(0,0);

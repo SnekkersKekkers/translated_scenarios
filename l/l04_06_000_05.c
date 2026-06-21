@@ -50,8 +50,9 @@ little harder.");
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("L040600005_06_050");
-    MsgDisp("Himuro","If you want to make someone 100% happy, maybe
-you should find out their preferences.");
+    MsgDisp("Himuro","If you want to make someone 100% happy,
+maybe you should find out their
+preferences.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();

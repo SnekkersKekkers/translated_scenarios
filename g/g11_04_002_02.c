@@ -1,9 +1,9 @@
 BGOpen("ne100",1);
 ScrFadeIn(0);
-MsgDisp("主人公","(I just want to collect more and more fashion
-items...)");
-MsgDisp("主人公","(Ah...maybe I can find ｛Nanatsumori＊｝ at the
-coffee shop?)");
+MsgDisp("主人公","(I just want to collect more and more
+fashion items...)");
+MsgDisp("主人公","(Ah...maybe I can find ｛Nanatsumori＊｝ at
+the coffee shop?)");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ScrFadeOut(0);
@@ -45,22 +45,23 @@ ChEye(4,0);
 ChMouth(4,2);
 VoicePlay("G110400202_04_030");
 MsgDisp("Nanatsumori","Haha.
-Well, when something new is out I'm usually
-at a photo shoot.");
+Well, when something new is out I'm
+usually at a photo shoot.");
 MsgDisp("主人公","Hehe!");
 VoicePlay("G110400202_04_040");
-MsgDisp("Nanatsumori","I also find out about new releases outside of
-my job, so this is where I research them.");
+MsgDisp("Nanatsumori","I also find out about new releases
+outside of my job, so this is where I
+research them.");
 MsgDisp("主人公","I see.
-So this is where you can get a headstart on
-everyone else?");
+So this is where you can get a headstart
+on everyone else?");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0);
 VoicePlay("G110400202_04_050");
 MsgDisp("Nanatsumori","Yeah.");
-MsgDisp("主人公","(｛Nanatsumori＊｝, what kind of websites are
-you checking...)");
+MsgDisp("主人公","(｛Nanatsumori＊｝, what kind of websites
+are you checking...)");
 while (1){
     RunEverydaySksp(4,0,0,0,0,1);
     if (RunEverydaySkspRsltGet()){
@@ -89,8 +90,8 @@ MsgDisp("Nanatsumori","Hey, do you have free time today?
 Do you want to look at new items while
 drinking coffee together?");
 MsgDisp("主人公","Okay!");
-MsgDisp("主人公","(I got to look at new items on the internet
-with ｛Nanatsumori＊｝!)");
+MsgDisp("主人公","(I got to look at new items on the
+internet with ｛Nanatsumori＊｝!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

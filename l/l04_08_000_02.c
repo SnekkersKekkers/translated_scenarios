@@ -55,7 +55,8 @@ Thank goodness!)");
     ChEyeOpenLevel(8,10);
     ChCheek(8,8);
     VoicePlay("L040800002_08_050");
-    MsgDisp("Shirahane","This... It's the chocolates on Habatcher...");
+    MsgDisp("Shirahane","This...
+It's the chocolates on Habatcher...");
     MsgDisp("主人公","Hehe, I got a little excited▼");
     ChEye(8,3);
     ChMouth(8,4);
@@ -76,8 +77,8 @@ today...");
     ChEyeOpenLevel(8,0);
     VoicePlay("L040800002_08_080");
     VoiceEVSPlay(8);
-    MsgDisp("Shirahane","So I'll go brag 'bout this chocolate before
-the manager scolds me.
+    MsgDisp("Shirahane","So I'll go brag 'bout this chocolate
+before the manager scolds me.
 Thanks, ｛主人公｝.");
     MsgDisp("主人公","(Huh∋ Will he be fine...
 But, he seemed really happy.

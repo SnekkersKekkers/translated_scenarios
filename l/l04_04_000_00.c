@@ -39,7 +39,8 @@ Valentine's chocolate.");
     MsgDisp("Nanatsumori","｛主人公｝...
 I've been waiting.");
     MsgDisp("主人公","Hehe.
-Will you accept this Valentine's chocolate?");
+Will you accept this Valentine's
+chocolate?");
     SEPlay("EV_SE_665");
     SEWait();
     ChEye(4,0);

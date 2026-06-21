@@ -8,9 +8,10 @@ ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,3);
 VoicePlay("G020210000_02_010");
-MsgDisp("Sassa","But, you know, no matter how many there are,
-I wanna win.");
-MsgDisp("主人公","And I'm positive you will win, ｛Sassa＊＊｝.");
+MsgDisp("Sassa","But, you know, no matter how many there
+are, I wanna win.");
+MsgDisp("主人公","And I'm positive you will win,
+｛Sassa＊＊｝.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

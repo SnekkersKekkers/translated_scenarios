@@ -45,9 +45,9 @@ helmet, even I look like the real deal.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("P230300000_03_040");
-    MsgDisp("Honda","Yes, no one really knows the truth, so don't
-worry, let's do our own version of Kuroda
-Kanbei and Mitsuhime?");
+    MsgDisp("Honda","Yes, no one really knows the truth, so
+don't worry, let's do our own version of
+Kuroda Kanbei and Mitsuhime?");
     VoicePlay("P230300000_47_000");
     MsgDisp("Broadcast","Habataki High School's play will begin
 shortly.");

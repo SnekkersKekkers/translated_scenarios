@@ -16,8 +16,8 @@ ChEye(22,2);
 ChMouth(22,0);
 ChMotion(22,0,1);
 VoicePlay("F022200014_22_010");
-MsgDisp("Hikaru","It's not like we're going to be separated for
-the rest of our lives.");
+MsgDisp("Hikaru","It's not like we're going to be separated
+for the rest of our lives.");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,2,1);
@@ -31,7 +31,8 @@ ChMouth(22,3);
 ChMotion(22,4,1);
 VoicePlay("F022200014_22_030");
 MsgDisp("Hikaru","...Ehe.
-This sort of thing isn't like Hikaru, right?");
+This sort of thing isn't like
+Hikaru, right?");
 ChEye(22,0);
 ChMouth(22,3);
 ChMotion(22,3,1);

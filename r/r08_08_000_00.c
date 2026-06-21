@@ -3,9 +3,10 @@ Wait(100,0);
 BGOpen("sc770",2);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","(My last Christmas in high school is over...)");
-MsgDisp("主人公","(Which reminds me, ｛Daichi＊＊｝ is having a
-Hanegasaki Christmas party and then he's
+MsgDisp("主人公","(My last Christmas in high school is
+over...)");
+MsgDisp("主人公","(Which reminds me, ｛Daichi＊＊｝ is having
+a Hanegasaki Christmas party and then he's
 going on a ski trip.)");
 MsgDisp("主人公","...Wish I could have gone with them.");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE");
@@ -81,8 +82,8 @@ ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,2,1);
 VoicePlay("R080800000_08_080");
-MsgDisp("Shirahane","I couldn't bring a lot of luggage with me, so
-I couldn't get a proper present but...");
+MsgDisp("Shirahane","I couldn't bring a lot of luggage with me,
+so I couldn't get a proper present but...");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -108,7 +109,8 @@ StlEyeOpenLevel(8,5);
 VoicePlay("R080800000_08_100");
 MsgDisp("Shirahane","Ah...it's warm.
 Your hand.");
-MsgDisp("主人公","Hehe. ｛Daichi＊＊｝, your hands are cold...");
+MsgDisp("主人公","Hehe.
+｛Daichi＊＊｝, your hands are cold...");
 StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,0,1);
@@ -151,8 +153,8 @@ StlMouth(8,1);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("R080800000_08_160");
 MsgDisp("Shirahane","Oh man...
-I wish I could just skip skiing and just stay
-with you.");
+I wish I could just skip skiing and just
+stay with you.");
 MsgDisp("主人公","Huh...but everyone would be worried
 about you.");
 StlEye(8,0,0);
@@ -178,8 +180,8 @@ StlEye(8,0,0);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("R080800000_08_190");
-MsgDisp("Shirahane","If I stay here like this, I won't be able to
-go back to camp.");
+MsgDisp("Shirahane","If I stay here like this, I won't be able
+to go back to camp.");
 MsgDisp("主人公","I see...");
 BGMVol(0.5,2);
 MsgClose();
@@ -192,7 +194,8 @@ ScrFadeIn(0);
 VoicePlay("R080800000_08_200");
 MsgDisp("Shirahane","Well then...this is where we part ways
 for today.");
-MsgDisp("主人公","...Okay. Thank you for coming, ｛Daichi＊＊｝.");
+MsgDisp("主人公","...Okay.
+Thank you for coming, ｛Daichi＊＊｝.");
 ChEye(8,3);
 ChMouth(8,3);
 ChMotion(8,3,1);
@@ -220,7 +223,7 @@ MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
 MsgClose();
 Wait(40,0);
-MsgDisp("主人公","(And so, that's how my last Christmas Eve in
-high school ended...)");
+MsgDisp("主人公","(And so, that's how my last Christmas Eve
+in high school ended...)");
 MsgClose();
 ChPrmTblAdd(8,0);

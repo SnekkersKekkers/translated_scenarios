@@ -20,8 +20,8 @@ ChOpen(1,100,0,0,0,8,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("G110100800_01_000");
 MsgDisp("Kazama","...Right.
-There was something I wanted to talk to you
-about...");
+There was something I wanted to talk to
+you about...");
 MsgDisp("主人公","What is it?");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -36,9 +36,10 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("G110100800_01_020");
-MsgDisp("Kazama","Do you have any idea what I might've wanted
-to say?");
-MsgDisp("主人公","(What ｛Kazama＊＊｝ might've wanted to say...
+MsgDisp("Kazama","Do you have any idea what I might've
+wanted to say?");
+MsgDisp("主人公","(What ｛Kazama＊＊｝ might've wanted
+to say...
 Maybe he wanted to nag me like a Mom?)");
 ChEyeOpenLevel(1,0);
 Wait(10,0);
@@ -57,8 +58,8 @@ ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("G110100800_01_040");
 MsgDisp("Kazama","So what was it?
-I have plenty of time, so let's take the time
-to talk about it.");
+I have plenty of time, so let's take the
+time to talk about it.");
 MsgDisp("主人公","Ehh—?
 Can't I hear what ｛Kazama＊＊｝ had to say
 instead?");

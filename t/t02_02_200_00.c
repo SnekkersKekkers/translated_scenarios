@@ -17,7 +17,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220000_02_010");
-MsgDisp("Sassa","The pair of them told me to try coming here.");
+MsgDisp("Sassa","The pair of them told me to try
+coming here.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);
@@ -28,8 +29,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("T020220000_02_030");
-MsgDisp("Sassa","They told me to come here while running and
-trying to beat my fastest time.");
+MsgDisp("Sassa","They told me to come here while running
+and trying to beat my fastest time.");
 MsgDisp("主人公","Hehe, I see how it is.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -109,7 +110,8 @@ ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("T020220000_02_150");
-MsgDisp("Sassa","...You used to run with me a lot, remember?");
+MsgDisp("Sassa","...You used to run with me a lot,
+remember?");
 MsgDisp("主人公","Yes.");
 ChEye(2,4);
 ChMouth(2,4);
@@ -123,9 +125,9 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("T020220000_02_170");
-MsgDisp("Sassa","The only time both sides of me; the annoying
-track-and-field fanatic and that regular high
-school student overlapped.");
+MsgDisp("Sassa","The only time both sides of me; the
+annoying track-and-field fanatic and that
+regular high school student overlapped.");
 ChEye(2,4);
 ChMouth(2,4);
 ChMotion(2,4);
@@ -147,15 +149,16 @@ Wait(60);
 SEPlay("EV_SE_544");
 ChOpen(2,254,7,4,0,#1,#1,0,0,0,120);
 VoicePlay("T020220000_02_200");
-MsgDisp("Sassa","It was the time we spent together that made
-me realise that.");
+MsgDisp("Sassa","It was the time we spent together that
+made me realise that.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);
 VoiceEVSPlay(2);
 VoicePlay("T020220000_02_210");
 MsgDisp("Sassa","｛主人公｝, I want to run with you.
-I want to make my dreams come true with you.");
+I want to make my dreams come true
+with you.");
 ChEye(2,4);
 ChMouth(2,0);
 ChMotion(2,0);

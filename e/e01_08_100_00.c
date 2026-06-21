@@ -62,8 +62,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 BGMStop();
 ChClose(8,0,30);
 MsgDisp("主人公","(I was surprised...
-But I'm curious to try the Shirahane family's
-special curry.)");
+But I'm curious to try the Shirahane
+family's special curry.)");
 MsgClose();
 ScrFadeOut(0);
 ChEyeOpenLevel(8,#1);

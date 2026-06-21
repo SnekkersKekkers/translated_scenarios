@@ -2,7 +2,8 @@ SEPlay("EV_SE_DOOR_013");
 BGOpen("sc608",0);
 ScrFadeIn(0);
 MsgDisp("主人公","(Managing club expenses is a pain...
-Oh, I need to refill the first aid kit too.)");
+Oh, I need to refill the first aid
+kit too.)");
 MsgClose();
 SEPlay("EV_SE_FOOT_039");
 SEWait();
@@ -37,15 +38,16 @@ ChOpen(2,100,0,1,1,#1,#1,0,0);
 SEPlay("EV_SE_FOOT_037");
 ScrFadeIn(0);
 VoicePlay("G110200703_02_020");
-MsgDisp("Sassa","Maybe I should try jumping through hurdles as
-a warmup...");
+MsgDisp("Sassa","Maybe I should try jumping through hurdles
+as a warmup...");
 MsgDisp("主人公","Hurdles?");
 ChEye(2,1);
 ChMouth(2,1);
 ChMotion(2,0);
 VoicePlay("G110200703_02_030");
 MsgDisp("Sassa","If I don't try to suffer through it and
-improve I'll just keep breaking the hurdles.");
+improve I'll just keep breaking the
+hurdles.");
 MsgDisp("主人公","That...might be a problem?");
 ChEye(2,1);
 ChMouth(2,0);

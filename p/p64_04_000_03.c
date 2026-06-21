@@ -17,16 +17,17 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("P640400003_04_020");
 MsgDisp("Nanatsumori","Well, yeah.
-It seems like it wasn't steeped long enough
-so it's a bit weak. And...");
+It seems like it wasn't steeped long
+enough so it's a bit weak. And...");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
 VoicePlay("P640400003_04_030");
 MsgDisp("Nanatsumori","It looks like the bag of vegetables you're
-selling over there is full of insects, move
-it...please.");
-MsgDisp("主人公","(Aah... I failed hugely in so many ways...)");
+selling over there is full of insects,
+move it...please.");
+MsgDisp("主人公","(Aah...
+I failed hugely in so many ways...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChClose(4,0,0);

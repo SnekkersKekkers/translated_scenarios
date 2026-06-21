@@ -46,8 +46,8 @@ of your own hard work.");
 Right?
 Look forward and keep going!");
     MsgDisp("主人公","(It's just as ｛Sassa＊＊｝ says.
-I lost, but I'm glad I stayed in the rhythmic
-gymnastics club.)");
+I lost, but I'm glad I stayed in the
+rhythmic gymnastics club.)");
     break ;
     default :
     DbgAssert(1);

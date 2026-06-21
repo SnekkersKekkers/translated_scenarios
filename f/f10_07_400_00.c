@@ -29,8 +29,8 @@ MsgDisp("主人公","Yes...");
 ChEye(32,2);
 ChMouth(32,0);
 VoicePlay("F100740000_32_020");
-MsgDisp("VP Himuro","It seems Mikage-sensei was just waiting for
-the students to finish their duties.
+MsgDisp("VP Himuro","It seems Mikage-sensei was just waiting
+for the students to finish their duties.
 ...My complaint was off the mark.");
 MsgDisp("主人公","Eh...");
 ChEye(7,2);
@@ -39,8 +39,8 @@ ChMotion(7,2);
 VoicePlay("F100740000_07_030");
 MsgDisp("Mikage","......");
 VoicePlay("F100740000_32_030");
-MsgDisp("VP Himuro","However, please refrain from coming into the
-classroom dressed like that.
+MsgDisp("VP Himuro","However, please refrain from coming into
+the classroom dressed like that.
 That is all.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
@@ -56,8 +56,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("F100740000_07_040");
-MsgDisp("Mikage","Why are you apologising for working so hard
-on your class duties?");
+MsgDisp("Mikage","Why are you apologising for working so
+hard on your class duties?");
 MsgDisp("主人公","But because of that, Himuro-sensei scolded
 you, didn't he?");
 ChEye(7,0);

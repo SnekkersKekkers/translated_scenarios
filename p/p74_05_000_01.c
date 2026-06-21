@@ -21,8 +21,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,9);
 VoicePlay("P740500001_05_020");
 MsgDisp("Hiiragi","It's not an exhibition, it's a fashion
-show... That's something to keep in mind from
-now on, yes?");
+show... That's something to keep in mind
+from now on, yes?");
 MsgDisp("主人公","(Sigh...
 I should have spent more time doing club
 activities...)");

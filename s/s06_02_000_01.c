@@ -50,8 +50,8 @@ Did I live up to your expectations?");
 I wish I could see you in kimono all
 the time.");
     MsgDisp("主人公","Hehe!
-I'm happy- but that sounds like it would be
-difficult?");
+I'm happy- but that sounds like it would
+be difficult?");
     MsgDisp("主人公","(He seems to be really happy.
 I'm glad I wore a kimono!)");
     break ;
@@ -92,7 +92,8 @@ expecting!");
     ChCheek(2,10);
     VoicePlay("S060200001_02_100");
     MsgDisp("Sassa","Yeah... Wow, so beautiful...");
-    MsgDisp("主人公","(Yes! I'm happy that ｛Sassa＊＊｝ likes it!)");
+    MsgDisp("主人公","(Yes!
+I'm happy that ｛Sassa＊＊｝ likes it!)");
     break ;
     default :
     DbgAssert(1);

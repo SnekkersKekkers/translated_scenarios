@@ -19,8 +19,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("F100120000_01_010");
-MsgDisp("Kazama","Mikage-sensei's lived alone for a long time,
-so he's been teaching me some life hacks.");
+MsgDisp("Kazama","Mikage-sensei's lived alone for a long
+time, so he's been teaching me some
+life hacks.");
 MsgDisp("主人公","Life hacks?
 Like what?");
 ChEye(1,0);
@@ -33,8 +34,8 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("F100120000_07_010");
 MsgDisp("Mikage","That's elementary.
-If you buy a whole loaf, it'll spoil before
-you can eat it.");
+If you buy a whole loaf, it'll spoil
+before you can eat it.");
 MsgDisp("主人公","I see...
 That's something only someone living alone
 would know.");

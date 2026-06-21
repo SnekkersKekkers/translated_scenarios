@@ -29,9 +29,11 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("M010300000_03_030");
 MsgDisp("Honda","Yeah yeah.
-They asked me what you were like at school.");
+They asked me what you were like
+at school.");
 MsgDisp("主人公","Eh...
-You didn't tell them anything weird, right?");
+You didn't tell them anything
+weird, right?");
 ChSet(3,4);
 VoicePlay("M010300000_03_040");
 MsgDisp("Honda","What would be weird?");
@@ -45,9 +47,9 @@ ChMouth(3,0);
 ChMotion(3,4);
 ChEyeOpenLevel(3,0);
 VoicePlay("M010300000_03_060");
-MsgDisp("Honda","And that I like how you always look like you
-enjoy listening to me, you ask questions, and
-laugh with me...");
+MsgDisp("Honda","And that I like how you always look like
+you enjoy listening to me, you ask
+questions, and laugh with me...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
@@ -59,8 +61,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
 VoicePlay("M010300000_03_080");
-MsgDisp("Honda","Heyhey, so like, think you'll be able to come
-back next week?");
+MsgDisp("Honda","Heyhey, so like, think you'll be able to
+come back next week?");
 MsgDisp("主人公","Mm, I think I'll be okay.
 Sorry, I made you worry.");
 ChEye(3,4);
@@ -68,13 +70,15 @@ ChMouth(3,3);
 ChMotion(3,0);
 VoicePlay("M010300000_03_090");
 MsgDisp("Honda","That's right, I did worry?
-But, since you've gotten better, all's well!");
+But, since you've gotten better,
+all's well!");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,5);
 VoicePlay("M010300000_03_100");
-MsgDisp("Honda","...Agh, oh no. I said I wouldn't stay too
-long but I got caught up talking again, huh?");
+MsgDisp("Honda","...Agh, oh no. I said I wouldn't stay
+too long but I got caught up talking
+again, huh?");
 MsgDisp("主人公","It's okay, thanks for coming all this
 way today.");
 ChEye(3,3);

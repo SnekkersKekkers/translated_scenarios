@@ -25,6 +25,7 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("U212100000_21_020");
 MsgDisp("Michiru","Hehe.
-With this, maybe you can be more fashionable?");
+With this, maybe you can be more
+fashionable?");
 MsgDisp("主人公","Hehe, I'll try my best!
 Thank you, ｛みちる＊｝.");

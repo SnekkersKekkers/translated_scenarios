@@ -17,8 +17,8 @@ This isn't like you.");
     ChMotion(7,3);
     VoicePlay("N020700003_07_010");
     MsgDisp("Mikage","You can usually get things right.
-If you stay calm and keep at it, you can do
-it, right?");
+If you stay calm and keep at it, you can
+do it, right?");
     MsgDisp("主人公","(I have to study harder...)");
     MsgClose();
     ScrFadeOut(0,0);
@@ -36,14 +36,14 @@ This score is very concerning.");
     ChMotion(7,0);
     VoicePlay("N020700003_07_030");
     MsgDisp("Mikage","Look.
-You're someone who can do really well if you
-do it right.");
+You're someone who can do really well if
+you do it right.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("N020700003_07_040");
-    MsgDisp("Mikage","But you can also be stubborn and decide not
-to do it.");
+    MsgDisp("Mikage","But you can also be stubborn and decide
+not to do it.");
     ChEye(7,0);
     ChMouth(7,0);
     ChMotion(7,0);
@@ -90,13 +90,14 @@ unnecessary, okay?");
     ChMouth(7,0);
     ChMotion(7,2);
     VoicePlay("N020700003_07_100");
-    MsgDisp("Mikage","It's all about helping you with what you want
-to do.");
+    MsgDisp("Mikage","It's all about helping you with what you
+want to do.");
     ChEye(7,0);
     ChMouth(7,3);
     ChMotion(7,0);
     VoicePlay("N020700003_07_110");
-    MsgDisp("Mikage","If you agree, please study harder next time.");
+    MsgDisp("Mikage","If you agree, please study harder
+next time.");
     MsgDisp("主人公","(｛Mikage＊＊｝ is really worried
 about me...
 I have to study harder...)");

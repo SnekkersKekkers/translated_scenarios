@@ -18,14 +18,15 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100310002_03_010");
 MsgDisp("Honda","Yeah, that's right.
-Looks like they can't go home together today.");
+Looks like they can't go home
+together today.");
 MsgDisp("主人公","Eh?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("F100310002_03_020");
-MsgDisp("Honda","Here's my theory: on days the owners of the
-pink and blue umbrellas can walk home
+MsgDisp("Honda","Here's my theory: on days the owners of
+the pink and blue umbrellas can walk home
 together, the handles face the same way.");
 ChEye(3,0);
 ChMouth(3,4);
@@ -46,15 +47,16 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("F100310002_03_050");
-MsgDisp("Honda","Even I can read the room at least that much.");
+MsgDisp("Honda","Even I can read the room at least
+that much.");
 MsgDisp("主人公","Hehe, great.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("F100310002_03_060");
 MsgDisp("Honda","Hehe, right? Then you should forget about
-this too. You'll pretend not to know in the
-critical moment, won't you?");
+this too. You'll pretend not to know in
+the critical moment, won't you?");
 MsgDisp("主人公","Yes.");
 ChEye(3,0);
 ChMouth(3,3);

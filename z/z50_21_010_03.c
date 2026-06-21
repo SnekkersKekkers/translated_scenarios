@@ -13,8 +13,8 @@ ChMouth(21,0);
 ChMotion(21,0);
 VoicePlay("Z502101003_21_010");
 MsgDisp("Michiru","Right.
-Hikaru and I have a column about trends, so
-make sure to check it out.");
+Hikaru and I have a column about trends,
+so make sure to check it out.");
 ChEye(21,0);
 ChMouth(21,3);
 ChMotion(21,4);

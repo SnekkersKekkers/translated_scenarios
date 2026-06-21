@@ -24,8 +24,8 @@ ChPosition(22,1);
 MsgClose();
 ChOpen(21,254,0,0,0,#1,#1,0,2);
 VoicePlay("F100630001_21_000");
-MsgDisp("Michiru","Hikaru asked Himuro-chan to refer to us in a
-cuter way.");
+MsgDisp("Michiru","Hikaru asked Himuro-chan to refer to us in
+a cuter way.");
 ChEye(22,2);
 ChMouth(22,2);
 ChMotion(22,1,1);
@@ -53,8 +53,8 @@ VoicePlay("F100630001_22_040");
 MsgDisp("Hikaru","Pikarin and Micchi.
 See, isn't it so cute▼");
 MsgDisp("主人公","(Hmm.
-I feel like that's too high of a hurdle for
-｛Himuro＊＊｝...)");
+I feel like that's too high of a hurdle
+for ｛Himuro＊＊｝...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

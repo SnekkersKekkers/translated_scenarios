@@ -15,7 +15,8 @@ I'll have to try not to oversleep.)");
     case 1:
     VoicePlay("J060701001_07_020");
     MsgDisp("Mikage","Yeah, figures!
-That's what a normal high schooler would say.");
+That's what a normal high schooler
+would say.");
     VoicePlay("J060701001_07_030");
     MsgDisp("Mikage","Don't worry about it.
 See ya.");

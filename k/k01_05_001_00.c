@@ -12,7 +12,8 @@ switch (ChPrmGet(5,6)){
     VoicePlay("K010500100_05_000");
     MsgDisp("Hiiragi","Never mind that.
 Well then, what is it?");
-    MsgDisp("主人公","｛Hiiragi＊＊＊｝, today is your birthday, right?
+    MsgDisp("主人公","｛Hiiragi＊＊＊｝, today is your
+birthday, right?
 Here's a present!");
     SEPlay("EV_SE_664");
     SEWait();
@@ -50,8 +51,8 @@ these. Can I open it now?");
     BGMPlay("BGM_C05_HIIRAGI_A");
     ChOpen(5,254,0,4,4,#1,#1,0,0);
     VoicePlay("K010500100_05_040");
-    MsgDisp("Hiiragi","If you're the one who's calling, I'm always
-available.
+    MsgDisp("Hiiragi","If you're the one who's calling, I'm
+always available.
 What is it?");
     MsgDisp("主人公","I wanted to give you a birthday present.
 Will you accept it?");
@@ -71,8 +72,8 @@ Will you accept it?");
     MsgDisp("主人公","Hm?");
     ChMotion(5,2);
     VoicePlay("K010500100_05_070");
-    MsgDisp("Hiiragi","When I got your call and made my way here, my
-hopes were high...");
+    MsgDisp("Hiiragi","When I got your call and made my way here,
+my hopes were high...");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,0);

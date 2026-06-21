@@ -14,8 +14,8 @@ ChMouth(21,3);
 ChMotion(21,0);
 VoicePlay("F022100002_21_010");
 MsgDisp("Michiru","I heard a kind of interesting rumour.
-About Vice Principal Himuro and some of the
-students.");
+About Vice Principal Himuro and some of
+the students.");
 MsgDisp("主人公","Himuro-sensei?");
 ChEye(21,0);
 ChMouth(21,0);
@@ -43,8 +43,9 @@ ChEye(21,4);
 ChMouth(21,4);
 ChMotion(21,4);
 VoicePlay("F022100002_21_050");
-MsgDisp("Michiru","I wonder if Mikage-sensei will be alright...");
-MsgDisp("主人公","(｛みちる＊｝, are you really worried even
-though it's just a rumour?)");
+MsgDisp("Michiru","I wonder if Mikage-sensei will be
+alright...");
+MsgDisp("主人公","(｛みちる＊｝, are you really worried
+even though it's just a rumour?)");
 MsgClose();
 ScrFadeOut(0,0);

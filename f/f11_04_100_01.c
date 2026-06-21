@@ -43,12 +43,12 @@ ChMouth(4,2);
 ChMotion(4,0,1);
 VoicePlay("F110410001_04_030");
 MsgDisp("Nanatsumori","Girls hitting on you is scary.
-No matter what I say to turn them down, they
-don't flinch... I had no moves left.");
+No matter what I say to turn them down,
+they don't flinch... I had no moves left.");
 ChMotion(4,2,1);
 VoicePlay("F110410001_04_040");
-MsgDisp("Nanatsumori","I wonder what would've happened if you hadn't
-happened to pass by...");
+MsgDisp("Nanatsumori","I wonder what would've happened if you
+hadn't happened to pass by...");
 MsgDisp("主人公","Hehe. Glad I could help.");
 ChEye(4,4);
 ChMouth(4,3);

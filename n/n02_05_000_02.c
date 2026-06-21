@@ -21,7 +21,8 @@ Are you prepared?");
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
     MsgDisp("主人公","(｛Hiiragi＊＊＊｝ must be busy...
-If he's doing his best, then I should too...)");
+If he's doing his best, then I
+should too...)");
     break ;
     case 3:
     MsgClose();
@@ -36,7 +37,8 @@ If he's doing his best, then I should too...)");
     MsgDisp("Hiiragi","I have never been satisfied by an exam.
 It just exposes my own worthlessness
 every time.");
-    MsgDisp("主人公","I see... I guess it shows how average I am.");
+    MsgDisp("主人公","I see...
+I guess it shows how average I am.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("N020500002_05_050");
@@ -62,20 +64,21 @@ The both of us should take it easy, then.");
     MsgDisp("主人公","Eh. Hmm, I'm not sure...");
     ChMotion(5,0);
     VoicePlay("N020500002_05_080");
-    MsgDisp("Hiiragi","With your dedication to what fascinates you,
-just a small interest in studying could
-propel you to the top quickly.");
+    MsgDisp("Hiiragi","With your dedication to what fascinates
+you, just a small interest in studying
+could propel you to the top quickly.");
     ChEye(5,2);
     VoicePlay("N020500002_05_090");
-    MsgDisp("Hiiragi","Ah... Was what I said not convincing enough?");
+    MsgDisp("Hiiragi","Ah...
+Was what I said not convincing enough?");
     MsgDisp("主人公","No it was, thank you.
 I'll try my best to be more interested.");
     ChEye(5,4);
     ChMouth(5,3);
     ChMotion(5,3);
     VoicePlay("N020500002_05_100");
-    MsgDisp("Hiiragi","Yeah, I think your ranking would jump right
-to the first place.
+    MsgDisp("Hiiragi","Yeah, I think your ranking would jump
+right to the first place.
 You're someone I believe in, after all.");
     ChEye(5,2);
     ChMouth(5,4);

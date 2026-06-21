@@ -1,7 +1,8 @@
 BGOpen("sc520",1);
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah... It's ｛Nanatsumori＊｝ and ｛Honda＊＊｝.");
+MsgDisp("主人公","Ah...
+It's ｛Nanatsumori＊｝ and ｛Honda＊＊｝.");
 MsgClose();
 BGMPlay("BGM_HANYOU_A",0.01);
 ChNanaType(0);
@@ -50,14 +51,14 @@ ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("F100440000_04_030");
-MsgDisp("Nanatsumori","Dahon said he knew it as soon as he saw it in
-the magazine.");
+MsgDisp("Nanatsumori","Dahon said he knew it as soon as he saw it
+in the magazine.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("F100440000_03_050");
-MsgDisp("Honda","Yeah yeah, but more importantly, what number
-do you like?");
+MsgDisp("Honda","Yeah yeah, but more importantly, what
+number do you like?");
 MsgDisp("主人公","Eh, me?");
 ChEye(4,1);
 ChMouth(4,3);

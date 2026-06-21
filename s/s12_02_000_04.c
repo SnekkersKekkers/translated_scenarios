@@ -13,8 +13,8 @@ switch (ChPrmGet(2,6)){
     ChMotion(2,2);
     ChLayout(1);
     ScrFadeIn(0);
-    MsgDisp("主人公","This is the last New Year's shrine visit of
-our high school years...");
+    MsgDisp("主人公","This is the last New Year's shrine visit
+of our high school years...");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,4);
@@ -40,8 +40,8 @@ laughing?");
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("S120200004_02_030");
-    MsgDisp("Sassa","Ahh, we have to try our best this year so we
-don't get laughed at!");
+    MsgDisp("Sassa","Ahh, we have to try our best this year so
+we don't get laughed at!");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,1);
@@ -63,14 +63,15 @@ Let's spend it without regrets!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("S120200004_02_050");
-    MsgDisp("Sassa","This is our last visit as Habataki students.");
+    MsgDisp("Sassa","This is our last visit as Habataki
+students.");
     MsgDisp("主人公","Yeah, it's a bit sad.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,5);
     VoicePlay("S120200004_02_060");
-    MsgDisp("Sassa","But that doesn't mean that this will be our
-last shrine visit together.");
+    MsgDisp("Sassa","But that doesn't mean that this will be
+our last shrine visit together.");
     MsgDisp("主人公","I guess, but...");
     ChEye(2,0);
     ChMouth(2,0);
@@ -100,8 +101,8 @@ Thank you for coming with me.");
     ChEye(2,0);
     ChEyeOpenLevel(2,10);
     MsgDisp("主人公","Of course, I feel the same.
-｛Sassa＊＊｝, you wished really hard in your
-prayer, didn't you?");
+｛Sassa＊＊｝, you wished really hard in
+your prayer, didn't you?");
     ChEye(2,0);
     ChMouth(2,0);
     ChMotion(2,4);
@@ -114,14 +115,15 @@ a wish.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("S120200004_02_110");
-    MsgDisp("Sassa","When I stood next to you and clapped my hands
-together, I remembered a lot of things.");
+    MsgDisp("Sassa","When I stood next to you and clapped
+my hands together, I remembered a lot
+of things.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("S120200004_02_120");
-    MsgDisp("Sassa","And rather than making a new wish, I wanted
-to give thanks.");
+    MsgDisp("Sassa","And rather than making a new wish, I
+wanted to give thanks.");
     MsgDisp("主人公","I see...");
     ChEye(2,0);
     ChMouth(2,4);
@@ -134,8 +136,8 @@ feels like time stops.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("S120200004_02_140");
-    MsgDisp("Sassa","When we clapped our hands earlier, it felt a
-bit similar to that.
+    MsgDisp("Sassa","When we clapped our hands earlier, it felt
+a bit similar to that.
 I was shocked when I looked at you.");
     MsgDisp("主人公","Huh, me?");
     ChEye(2,0);

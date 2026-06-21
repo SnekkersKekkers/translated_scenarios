@@ -10,8 +10,8 @@ ChMotion(7,0);
 VoicePlay("G020720201_07_010");
 MsgDisp("Mikage","It looks like he's trying hard to make a
 grumpy face.");
-MsgDisp("主人公","That's true, ｛Himuro＊＊｝ has that kind of side
-to him.");
+MsgDisp("主人公","That's true, ｛Himuro＊＊｝ has that kind of
+side to him.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);
@@ -35,8 +35,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("G020720201_07_050");
-MsgDisp("Mikage","That's why Inori also laughs when he lets his
-guard down, and I also join in and have fun.");
+MsgDisp("Mikage","That's why Inori also laughs when he lets
+his guard down, and I also join in and
+have fun.");
 MsgDisp("主人公","｛Mikage＊＊｝...");
 ChEye(7,0);
 ChMouth(7,0);

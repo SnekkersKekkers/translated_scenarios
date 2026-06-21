@@ -18,8 +18,8 @@ switch (ChPrmGet(6,6)){
     VoicePlay("H1A0600000_06_010");
     MsgDisp("Himuro","Those are results you can't get overnight.
 Nice work.");
-    MsgDisp("主人公","(I'm glad that I stayed as the baseball club
-manager!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball
+club manager!)");
     break ;
     case 4:
     case 5:
@@ -56,8 +56,8 @@ the club.");
     VoicePlay("H1A0600000_06_060");
     MsgDisp("Himuro","Take some more pride in that.
 You've worked hard.");
-    MsgDisp("主人公","(I'm glad that I stayed as the baseball club
-manager!)");
+    MsgDisp("主人公","(I'm glad that I stayed as the baseball
+club manager!)");
     break ;
     default :
     DbgAssert(1);

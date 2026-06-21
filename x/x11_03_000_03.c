@@ -29,8 +29,9 @@ I got praised by ｛Honda＊＊｝!)");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("X110300003_03_020");
-    MsgDisp("Honda","Hey, is it true that you were interviewed at
-the last rhythmic gymnastics joint practice?");
+    MsgDisp("Honda","Hey, is it true that you were interviewed
+at the last rhythmic gymnastics joint
+practice?");
     MsgDisp("主人公","Even if you call it an interview, it's a
 newspaper club from another school, right?");
     ChEye(3,0);
@@ -43,8 +44,8 @@ newspaper club from another school, right?");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("X110300003_03_040");
-    MsgDisp("Honda","I know there will be a lot of pressure, good
-luck for the next match!");
+    MsgDisp("Honda","I know there will be a lot of pressure,
+good luck for the next match!");
     MsgDisp("主人公","(Yay! Let's keep up the good work!)");
     break ;
     default :

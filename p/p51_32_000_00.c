@@ -1,8 +1,9 @@
 BGOpen("sc604",0);
 ScrFadeIn(0);
 VoicePlay("P513200000_33_000");
-MsgDisp("Manager","Our brass band will be performing classical
-music at this year's school festival.");
+MsgDisp("Manager","Our brass band will be performing
+classical music at this year's school
+festival.");
 SEPlay("EV_SE_CLAP_004");
 Wait(100,0);
 MsgClose();

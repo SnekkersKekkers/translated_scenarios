@@ -16,8 +16,8 @@ switch (ChPrmGet(22,6)){
 Yeah, it's finally time...!");
     ChMotion(22,4,1);
     VoicePlay("H482200000_22_010");
-    MsgDisp("Hikaru","Just keep performing as you always have and
-you'll be fine!
+    MsgDisp("Hikaru","Just keep performing as you always have
+and you'll be fine!
 Right?");
     MsgDisp("主人公","Yeah!");
     BGMStop();
@@ -41,15 +41,16 @@ Yeah, I'm fine.");
     ChMouth(22,3);
     ChMotion(22,3,1);
     VoicePlay("H482200000_22_030");
-    MsgDisp("Hikaru","Mari and Hikaru have been working so hard in
-the rhythmic gymnastics club until now.
+    MsgDisp("Hikaru","Mari and Hikaru have been working so hard
+in the rhythmic gymnastics club until now.
 Let's definitely win!");
     MsgDisp("主人公","Yeah!");
     ChEye(22,3);
     ChMouth(22,3);
     ChMotion(22,2,1);
     VoicePlay("H482200000_22_040");
-    MsgDisp("Hikaru","Ahh... Hikaru's heart is starting to race♪");
+    MsgDisp("Hikaru","Ahh...
+Hikaru's heart is starting to race♪");
     ChMotion(22,0,1);
     MsgDisp("主人公","(Alright, let's do our best!)");
     BGMStop();

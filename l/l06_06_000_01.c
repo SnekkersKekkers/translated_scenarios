@@ -28,7 +28,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("L060600001_06_030");
-MsgDisp("Himuro","Yeah. ...'Cuz I was happy about Valentine's.");
+MsgDisp("Himuro","Yeah.
+...'Cuz I was happy about Valentine's.");
 MsgDisp("主人公","Hehe, thanks!");
 ChEye(6,0);
 ChMouth(6,0);

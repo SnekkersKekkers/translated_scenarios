@@ -29,8 +29,8 @@ Thank you.");
     MsgDisp("Hiiragi","Even if I tell you to relax, it's
 difficult, right?");
     MsgDisp("主人公","I'm super nervous...
-This is my first time doing something like a
-fashion show.");
+This is my first time doing something like
+a fashion show.");
     VoicePlay("P730500000_05_030");
     MsgDisp("Hiiragi","I understand.
 I'm also always like that.");
@@ -40,9 +40,9 @@ I'm also always like that.");
     ChMotion(5,4);
     VoicePlay("P730500000_05_040");
     MsgDisp("Hiiragi","That's how I feel doing anything for the
-first time. So I've accepted nervousness is
-inevitable. Doing that makes it a little
-easier, right?");
+first time. So I've accepted nervousness
+is inevitable. Doing that makes it a
+little easier, right?");
     SEPlay("EV_SE_038");
     SEWait();
     MsgDisp("主人公","Ah, it's starting.");
@@ -90,7 +90,8 @@ Seems like I'm nervous after all.");
     ChEyeOpenLevel(5,0);
     VoicePlay("P730500000_05_080");
     MsgDisp("Hiiragi","I apologise.
-I didn't intend on putting pressure on you.");
+I didn't intend on putting pressure
+on you.");
     MsgDisp("主人公","No. I'm happy that you came to watch.");
     ChEye(5,0);
     ChMouth(5,4);
@@ -99,8 +100,8 @@ I didn't intend on putting pressure on you.");
     MsgDisp("Hiiragi","It's the same when I'm at theatre troupe.
 I'm happiest when people come to watch.");
     VoicePlay("P730500000_05_100");
-    MsgDisp("Hiiragi","Just remember that happy feeling, and forget
-your apprehension, okay?");
+    MsgDisp("Hiiragi","Just remember that happy feeling, and
+forget your apprehension, okay?");
     MsgDisp("主人公","...Yeah.");
     SEPlay("EV_SE_038");
     SEWait();

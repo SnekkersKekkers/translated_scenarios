@@ -26,8 +26,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 ChCheek(4,0);
 VoicePlay("T020401000_04_290");
-MsgDisp("Nanatsumori","Wouldn't it have been better if you had been
-the one to confess, instead of me?");
+MsgDisp("Nanatsumori","Wouldn't it have been better if you had
+been the one to confess, instead of me?");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);
 ChMouth(4,3);

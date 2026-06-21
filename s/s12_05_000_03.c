@@ -19,8 +19,8 @@ Does ｛Hiiragi＊＊＊｝ have to work after this?");
     ChMotion(5,0);
     VoicePlay("S120500001_05_050");
     MsgDisp("Hiiragi","Yeah.
-Greeting everyone at the beginning of the New
-Year is an important job.");
+Greeting everyone at the beginning of the
+New Year is an important job.");
     ChEye(5,4);
     ChMotion(5,4);
     VoicePlay("S120500001_05_060");
@@ -29,8 +29,8 @@ Goodbye.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(5);
-    MsgDisp("主人公","(Hehe, looks like this year will be another
-good year!)");
+    MsgDisp("主人公","(Hehe, looks like this year will be
+another good year!)");
     break ;
     case 4:
     case 5:
@@ -63,8 +63,8 @@ New Years.");
     MsgDisp("Hiiragi","Ha, you're so kind. But—");
     ChMotion(5,0);
     VoicePlay("S120500001_05_150");
-    MsgDisp("Hiiragi","I think I'd like to see an unreasonable side
-of you, too.");
+    MsgDisp("Hiiragi","I think I'd like to see an unreasonable
+side of you, too.");
     MsgDisp("主人公","Uhm...");
     ChEye(5,0);
     ChMotion(5,4);
