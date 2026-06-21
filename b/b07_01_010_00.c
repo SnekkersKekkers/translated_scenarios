@@ -57,8 +57,8 @@ ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070101000_01_060");
-MsgDisp("Kazama","But, but if that time for you is now
-then—");
+MsgDisp("Kazama","But, but if that time for you is
+now then—");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);

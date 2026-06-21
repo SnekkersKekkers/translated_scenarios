@@ -160,8 +160,8 @@ you know?");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("I250200000_02_190");
-    MsgDisp("Sassa","Until then, I'll come to see your
-apron— I mean, the books, okay?");
+    MsgDisp("Sassa","Until then, I'll come to see your apron—
+I mean, the books, okay?");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     BGMStop();
