@@ -42,7 +42,8 @@ little to grip... but I'll give it a try.");
         ChMotion(5,4);
         VoicePlay("B040516002_05_030");
         MsgDisp("Hiiragi","That's putting the cart before the horse.
-Please find something you would want first.");
+Please find something you would
+want first.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -65,9 +66,9 @@ happy about.");
         ChMotion(5,4);
         VoicePlay("B040516002_05_060");
         MsgDisp("Hiiragi","Ah, do you doubt my technique?");
-        MsgDisp("主人公","No, as long as I get to see your happy face
-when you win, ｛Hiiragi＊＊＊｝, anything is fine
-with me.");
+        MsgDisp("主人公","No, as long as I get to see your happy
+face when you win, ｛Hiiragi＊＊＊｝, anything
+is fine with me.");
         ChEye(5,3);
         ChMouth(5,2);
         ChMotion(5,0);

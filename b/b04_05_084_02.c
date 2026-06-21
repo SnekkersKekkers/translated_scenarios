@@ -39,8 +39,8 @@ Instagrammable?");
         DateRateSet(5);
         ChMotion(5,4);
         VoicePlay("B040508402_05_030");
-        MsgDisp("Hiiragi","I hear that word from time to time, so it's
-used in these sorts of situations.");
+        MsgDisp("Hiiragi","I hear that word from time to time, so
+it's used in these sorts of situations.");
         MsgDisp("主人公","That's right. When you see something
 beautiful or cute, it's that feeling of
 wanting to take a picture.");
@@ -55,7 +55,8 @@ Then I'll start using it too.");
         ChEyeOpenLevel(5,9);
         VoicePlay("B040508402_05_050");
         MsgDisp("Hiiragi","...Why are you laughing?
-Is it weird for me to use \"instagrammable\"?");
+Is it weird for me to use
+\"instagrammable\"?");
         MsgDisp("主人公","It's not weird.
 Maybe just a bit cute.");
         ChEye(5,3);
@@ -86,7 +87,8 @@ use it...)");
     ChMotion(5,4);
     VoicePlay("B040508402_05_080");
     MsgDisp("Hiiragi","It's so calming.
-This place stays a power spot even in autumn.");
+This place stays a power spot even
+in autumn.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

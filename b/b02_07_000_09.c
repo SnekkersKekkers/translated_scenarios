@@ -10,5 +10,6 @@ ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B020700009_07_010");
 MsgDisp("Mikage","That's nice, really suits you.
-Maybe I should buy overalls in that colour?");
+Maybe I should buy overalls in
+that colour?");
 MsgDisp("主人公","(Hehe, I got a compliment.♪)");

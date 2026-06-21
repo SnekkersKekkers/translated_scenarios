@@ -10,6 +10,6 @@ MsgDisp("主人公","Ah, you noticed?");
 ChMotion(4,3,1);
 VoicePlay("B020400009_04_010");
 MsgDisp("Nanatsumori","Of course.
-It looks good on you, and you coordinated it
-well. As expected.");
+It looks good on you, and you coordinated
+it well. As expected.");
 MsgDisp("主人公","(Hehe. ｛Nanatsumori＊｝ praised me▼)");

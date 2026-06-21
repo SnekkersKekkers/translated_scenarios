@@ -41,8 +41,8 @@ people at the front will be in danger.");
     ChMotion(3,3);
     VoicePlay("B040323600_03_030");
     MsgDisp("Honda","There's no need to give up.
-Come on, let's enjoy the whole thing, the big
-crowd included!");
+Come on, let's enjoy the whole thing, the
+big crowd included!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -42,7 +42,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206302_02_030");
-        MsgDisp("Sassa","Figuring out the limit is what makes it fun.");
+        MsgDisp("Sassa","Figuring out the limit is what makes
+it fun.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -66,8 +67,8 @@ You sound like a mother.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040206302_02_060");
-        MsgDisp("Sassa","I got hurt like this quite a few times when I
-was a kid.");
+        MsgDisp("Sassa","I got hurt like this quite a few times
+when I was a kid.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -92,8 +93,8 @@ That was dangerous...");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040206302_02_080");
-        MsgDisp("Sassa","Well, I'm more athletic now than when I was
-a kid.
+        MsgDisp("Sassa","Well, I'm more athletic now than when I
+was a kid.
 Let's go!");
         MsgClose();
         MsgClose();

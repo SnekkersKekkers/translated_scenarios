@@ -10,20 +10,21 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300001_03_160");
-MsgDisp("Honda","When I was in middle school I would spend all
-my time in the library by myself, you know.");
+MsgDisp("Honda","When I was in middle school I would
+spend all my time in the library by
+myself, you know.");
 MsgDisp("主人公","I see...");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0);
 VoicePlay("B070300001_03_170");
-MsgDisp("Honda","My mother would always tell me that I should
-value real-life experiences more than just
-knowledge from books.");
+MsgDisp("Honda","My mother would always tell me that I
+should value real-life experiences more
+than just knowledge from books.");
 ChMotion(3,1);
 VoicePlay("B070300001_03_180");
-MsgDisp("Honda","Because of that, Ryo-kun and Mi-kun are very
-important to me.");
+MsgDisp("Honda","Because of that, Ryo-kun and Mi-kun are
+very important to me.");
 VoicePlay("B070300001_03_190");
 MsgDisp("Honda","It might sound obvious, but two people can
 look at the exact same thing and see it

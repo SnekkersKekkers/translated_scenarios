@@ -14,5 +14,6 @@ it's true.");
 ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);
-MsgDisp("主人公","(｛Kazama＊＊｝ seems to like the colour white.
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to like the
+colour white.
 I'll have to remember that!)");

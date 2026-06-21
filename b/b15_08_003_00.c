@@ -37,7 +37,8 @@ ChEye(8,4);
 ChMouth(8,4);
 ChEyeOpenLevel(8,10);
 VoicePlay("B150800300_08_060");
-MsgDisp("Shirahane","It's easier to understand if I'm blunt right?");
+MsgDisp("Shirahane","It's easier to understand if I'm
+blunt right?");
 ChMotion(8,0,1);
 VoicePlay("B150800300_08_070");
 MsgDisp("Shirahane","I don't wanna do that, so I'm telling you

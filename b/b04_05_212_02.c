@@ -61,8 +61,8 @@ country...we did sell that.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040521202_05_050");
-        MsgDisp("Hiiragi","When I was younger I would at least question
-\"Why is my face on someone else's
+        MsgDisp("Hiiragi","When I was younger I would at least
+question \"Why is my face on someone else's
 clothes?\"...");
         ChMotion(5,4);
         VoicePlay("B040521202_05_060");
@@ -79,9 +79,9 @@ business.");
         ChEye(5,0);
         ChMotion(5,4);
         VoicePlay("B040521202_05_080");
-        MsgDisp("Hiiragi","Now I perform as part of a citizens' theatre
-troupe. There's no need for a t-shirt with my
-face on it, right?");
+        MsgDisp("Hiiragi","Now I perform as part of a citizens'
+theatre troupe. There's no need for a
+t-shirt with my face on it, right?");
         MsgDisp("主人公","...That's right...");
         ChEye(5,3);
         ChMotion(5,0);

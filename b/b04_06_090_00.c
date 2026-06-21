@@ -30,8 +30,8 @@ refreshing feeling to it.");
     ChMotion(6,4);
     VoicePlay("B040609000_06_020");
     MsgDisp("Himuro","Do you dislike it?
-If that's the case, why not just stop coming
-to the botanical garden?");
+If that's the case, why not just stop
+coming to the botanical garden?");
     MsgDateResultDisp();
     break ;
     case 2:

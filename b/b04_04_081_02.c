@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040408102_04_010");
     MsgDisp("Nanatsumori","Exactly.
-I wish they'd split the space for the chill
-crowd and the rowdy crowd.");
+I wish they'd split the space for the
+chill crowd and the rowdy crowd.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -33,7 +33,8 @@ crowd and the rowdy crowd.");
     ChEyeOpenLevel(4,8);
     VoicePlay("B040408102_04_020");
     MsgDisp("Nanatsumori","Sigh.
-You sure are strangely excited, aren't you?");
+You sure are strangely excited,
+aren't you?");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -52,7 +53,8 @@ You sure are strangely excited, aren't you?");
         ChMotion(4,2,1);
         VoicePlay("B040408102_04_030");
         MsgDisp("Nanatsumori","Ah, definitely...
-There's probably a lot of drunkards there...");
+There's probably a lot of drunkards
+there...");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -68,8 +70,8 @@ atmosphere.");
         ChMouth(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040408102_04_050");
-        MsgDisp("Nanatsumori","...But, there'll be more troublesome cherry
-blossom viewers...");
+        MsgDisp("Nanatsumori","...But, there'll be more troublesome
+cherry blossom viewers...");
         MsgDisp("主人公","Troublesome?");
         ChEye(4,4);
         ChMouth(4,4);
@@ -87,14 +89,14 @@ The cherry blossoms at night...");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040408102_04_080");
-        MsgDisp("Nanatsumori","Maybe it's a bit much for a date spot for us
-high schoolers?");
+        MsgDisp("Nanatsumori","Maybe it's a bit much for a date spot for
+us high schoolers?");
         MsgDisp("主人公","Really?");
         ChMotion(4,0,1);
         VoicePlay("B040408102_04_090");
         MsgDisp("Nanatsumori","Really.
-We might even get stopped by the police for
-being out too late.");
+We might even get stopped by the police
+for being out too late.");
         MsgDisp("主人公","Ah... That's true.");
         ChEye(4,4);
         ChMouth(4,3);
@@ -108,9 +110,9 @@ anywhere.");
         ChMotion(4,0,1);
         ChCheek(4,8);
         VoicePlay("B040408102_04_110");
-        MsgDisp("Nanatsumori","When we're old enough to not get stopped by
-the police, I'll take you on a night cherry
-blossom date. If you're up for it.");
+        MsgDisp("Nanatsumori","When we're old enough to not get stopped
+by the police, I'll take you on a night
+cherry blossom date. If you're up for it.");
         MsgDisp("主人公","(｛Nanatsumori＊｝...)");
         break ;
         default :

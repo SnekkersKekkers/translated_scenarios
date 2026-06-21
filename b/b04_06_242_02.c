@@ -32,7 +32,8 @@ And what's with the \"clumsy thing\"?");
         ChMotion(6,2);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040624202_06_020");
-        MsgDisp("Himuro","...I'm angry I can't even completely deny it.");
+        MsgDisp("Himuro","...I'm angry I can't even completely
+deny it.");
         MsgDisp("主人公","Sorry, it was just a joke.");
         ChEye(6,0);
         ChMouth(6,0);

@@ -44,9 +44,9 @@ one of them is different.");
         ChMouth(2,0);
         ChMotion(2,0);
         VoicePlay("B040202102_02_040");
-        MsgDisp("Sassa","Even though they differ in colour and shape,
-they are spread out evenly and create a sense
-of unity.");
+        MsgDisp("Sassa","Even though they differ in colour and
+shape, they are spread out evenly and
+create a sense of unity.");
         MsgDisp("主人公","That big brick looks kind of like
 ｛Sassa＊＊｝.");
         ChEye(2,3);
@@ -83,8 +83,8 @@ Principal Himuro, doesn't it?");
         VoicePlay("B040202102_02_090");
         MsgDisp("Sassa","And that one, with the weird haircut.
 It's Mikage-sensei!");
-        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ looks like he's enjoying
-himself.)");
+        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ looks like he's
+enjoying himself.)");
         break ;
         default :
         DbgAssert(1);

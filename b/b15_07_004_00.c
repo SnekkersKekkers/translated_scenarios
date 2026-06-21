@@ -10,8 +10,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B150700400_07_010");
-MsgDisp("Mikage","Yeah, I thought I could guard against it, but
-that was impossible.");
+MsgDisp("Mikage","Yeah, I thought I could guard against it,
+but that was impossible.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,0);

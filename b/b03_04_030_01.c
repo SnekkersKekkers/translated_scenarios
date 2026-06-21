@@ -11,7 +11,8 @@ switch (MsgSelRsltGet()){
     case 0:
     MsgDispSksp(1,0);
     VoicePlay("B030403001_04_010");
-    MsgDisp("Nanatsumori","OK. Hopefully there's a new section to see.");
+    MsgDisp("Nanatsumori","OK.
+Hopefully there's a new section to see.");
     MsgDispSksp(0);
     break ;
     case 1:

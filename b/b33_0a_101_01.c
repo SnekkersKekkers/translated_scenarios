@@ -73,8 +73,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B330A10101_02_030");
-MsgDisp("Sassa","Uh, it looks like it'd be easy to move around
-in but...");
+MsgDisp("Sassa","Uh, it looks like it'd be easy to move
+around in but...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
@@ -109,15 +109,16 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10101_01_040");
 MsgDisp("Kazama","The city is filled with people like Sassa.
-I can't leave you alone when you're dressed
-like this.");
+I can't leave you alone when you're
+dressed like this.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("B330A10101_02_050");
 MsgDisp("Sassa","What do you mean by \"like\" me?
-It's not something I have to be guilty over!");
+It's not something I have to be
+guilty over!");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,3);

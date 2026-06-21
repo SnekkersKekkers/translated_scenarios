@@ -20,7 +20,8 @@ ChMotion(1,0);
 VoicePlay("B070100001_01_360");
 MsgDisp("Kazama","Eh...");
 MsgDisp("主人公","It's not my health...
-Maybe it's because I'm with ｛Kazama＊＊｝...");
+Maybe it's because I'm with
+｛Kazama＊＊｝...");
 ChEye(1,3);
 ChMouth(1,1);
 ChMotion(1,5);
@@ -51,7 +52,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_400");
 MsgDisp("Kazama","...It'll take a while for me.");
-MsgDisp("主人公","Ehh∋ ｛Kazama＊＊｝, your timing is a bit off.");
+MsgDisp("主人公","Ehh∋
+｛Kazama＊＊｝, your timing is a bit off.");
 ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,1);

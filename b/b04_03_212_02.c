@@ -57,8 +57,8 @@ But it's cute.");
         ChMotion(3,1);
         VoicePlay("B040321202_03_040");
         MsgDisp("Honda","Yep yep.
-It's cool that it doesn't play it back just
-as it is.");
+It's cool that it doesn't play it back
+just as it is.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,3);
@@ -91,9 +91,10 @@ I'm sorry to the store clerk!");
         ChOpen(3,255,2,2,2,#1,#1,0,0);
         VoicePlay("B040321202_03_070");
         MsgDisp("Honda","Sigh, seems like it was broken.
-I might become weak around cockatiels now...");
-        MsgDisp("主人公","Hehe, then, after this let's take our time to
-look around.");
+I might become weak around
+cockatiels now...");
+        MsgDisp("主人公","Hehe, then, after this let's take our time
+to look around.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);
@@ -106,8 +107,8 @@ Let's enjoy today together!");
         ChEyeOpenLevel(3,9);
         VoicePlay("B040321202_03_090");
         MsgDisp("Honda","Let's go while it's not mimicking us.");
-        MsgDisp("主人公","(｛Honda＊＊｝, thank you for always giving me
-a good time.)");
+        MsgDisp("主人公","(｛Honda＊＊｝, thank you for always giving
+me a good time.)");
         break ;
         default :
         DbgAssert(1);

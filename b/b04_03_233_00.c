@@ -24,8 +24,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040323300_03_020");
     MsgDisp("Honda","Is that so?
-I'm glad. Seeing eye to eye on things really
-is the most important thing.");
+I'm glad. Seeing eye to eye on things
+really is the most important thing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,8 @@ is the most important thing.");
     ChMouth(3,0);
     ChMotion(3,2);
     VoicePlay("B040323300_03_030");
-    MsgDisp("Honda","Yeah yeah, I don't think I'll ever forget the
-feeling I had the moment I jumped.
+    MsgDisp("Honda","Yeah yeah, I don't think I'll ever forget
+the feeling I had the moment I jumped.
 ...In many ways.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

@@ -39,7 +39,8 @@ them as a souvenir for Mikage-sensei.");
     ChMouth(2,0);
     ChMotion(2,4);
     VoicePlay("B040209001_02_030");
-    MsgDisp("Sassa","Ehh? There's not really an age target right?");
+    MsgDisp("Sassa","Ehh?
+There's not really an age target right?");
     MsgDateResultDisp();
     break ;
     default :

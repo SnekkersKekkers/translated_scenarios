@@ -45,8 +45,8 @@ like to be aware of that.");
     ScrFadeIn(0);
     VoicePlay("B040410300_04_030");
     MsgDisp("Nanatsumori","Eh, seriously?
-Tell me what this chaos is trying to convey
-to us!");
+Tell me what this chaos is trying to
+convey to us!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

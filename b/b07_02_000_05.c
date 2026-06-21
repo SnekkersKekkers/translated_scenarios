@@ -20,8 +20,8 @@ ChMouth(2,4);
 ChMotion(2,2);
 VoicePlay("B070200000_02_240");
 MsgDisp("Sassa","Survival's just camping taken to the next
-level. I'd like to try it out, just surviving
-on my own for a month or so.");
+level. I'd like to try it out, just
+surviving on my own for a month or so.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);

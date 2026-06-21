@@ -12,7 +12,8 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 Wait(40,0);
 ScrFadeIn(0);
-MsgDisp("主人公","Wow! There's so many lights, it's so pretty!");
+MsgDisp("主人公","Wow!
+There's so many lights, it's so pretty!");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
@@ -25,7 +26,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ChEyeOpenLevel(7,10);
 VoicePlay("B140700100_07_010");
-MsgDisp("Mikage","You seem to be brushing it off so casually.");
+MsgDisp("Mikage","You seem to be brushing it off so
+casually.");
 MsgDisp("主人公","That's not true.");
 ChEye(7,0);
 ChMouth(7,0);

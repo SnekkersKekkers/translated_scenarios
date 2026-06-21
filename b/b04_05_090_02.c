@@ -87,10 +87,10 @@ night with ｛Hiiragi＊＊＊｝.");
         ChMotion(5,0);
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040509002_05_080");
-        MsgDisp("Hiiragi","The crucial part is to be with you at night,
-and not to look at plants!");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you can't say those kinds of
-things at a botanical garden?)");
+        MsgDisp("Hiiragi","The crucial part is to be with you at
+night, and not to look at plants!");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you can't say those kinds
+of things at a botanical garden?)");
         break ;
         default :
         DbgAssert(1);

@@ -10,8 +10,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110600000_33_010");
-MsgDisp("Guy","You probably want to try knocking on the door
-too, don't you?
+MsgDisp("Guy","You probably want to try knocking on the
+door too, don't you?
 I know, it's alright now.");
 MsgDisp("主人公","Ummm...?");
 VoicePlay("B110600000_06_000");
@@ -55,7 +55,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B110600000_06_030");
 MsgDisp("Himuro","Spouting meaningless nonsense to confuse
-someone and make them anxious is harassment.");
+someone and make them anxious is
+harassment.");
 MsgDispSksp(0);
 MsgDispSksp(1,5);
 ChEye(6,1);

@@ -30,8 +30,8 @@ ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B070700000_07_090");
 MsgDisp("Mikage","That's right.
-But, you know Hiyashi Chuuka is good without
-vegetables too?");
+But, you know Hiyashi Chuuka is good
+without vegetables too?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);

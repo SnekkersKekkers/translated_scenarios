@@ -40,8 +40,8 @@ it for myself and take my own pictures.");
     ChEyeOpenLevel(4,8);
     VoicePlay("B040402200_04_030");
     MsgDisp("Nanatsumori","That was kinda sly.
-There's no need for the heart mark at the end
-of your sentence.");
+There's no need for the heart mark at the
+end of your sentence.");
     MsgDateResultDisp();
     break ;
     default :

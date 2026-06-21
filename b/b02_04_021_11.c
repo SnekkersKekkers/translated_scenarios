@@ -22,4 +22,5 @@ MsgDisp("Nanatsumori","Wait, no! I see.
 So the older sister look suits you
 too...Crud.");
 MsgDisp("主人公","(?
-But, I wonder if ｛Nanatsumori＊｝ likes it?)");
+But, I wonder if ｛Nanatsumori＊｝
+likes it?)");

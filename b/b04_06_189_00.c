@@ -25,7 +25,8 @@ into dance. Really, it was wonderful.");
     ChMotion(6,4);
     VoicePlay("B040618900_06_010");
     MsgDisp("Himuro","I felt that way too at first.
-But, before I knew it, I was already into it.");
+But, before I knew it, I was already
+into it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

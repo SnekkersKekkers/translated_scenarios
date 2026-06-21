@@ -1,4 +1,5 @@
-MsgDisp("主人公","What's your dream for the future, ｛Himuro＊＊｝?");
+MsgDisp("主人公","What's your dream for the future,
+｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -9,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_360");
-MsgDisp("Himuro","I wouldn't say I don't have one...just that I
-don't know what it is yet.");
+MsgDisp("Himuro","I wouldn't say I don't have one...just
+that I don't know what it is yet.");
 MsgDisp("主人公","Do you want to be a pro surfer?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -32,31 +33,32 @@ ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600000_06_390");
-MsgDisp("Himuro","When I see people talk about their dreams, I
-get anxious because it feels like they're
-already ahead.");
-MsgDisp("主人公","There's still time, so I think it's okay to
-take it easy?");
+MsgDisp("Himuro","When I see people talk about their dreams,
+I get anxious because it feels like
+they're already ahead.");
+MsgDisp("主人公","There's still time, so I think it's okay
+to take it easy?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_400");
 MsgDisp("Himuro","Time flies.
-Before you know it, it'll have gone by in the
-blink of an eye.");
+Before you know it, it'll have gone by in
+the blink of an eye.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600000_06_410");
-MsgDisp("Himuro","Well, I'll find something before I graduate.");
+MsgDisp("Himuro","Well, I'll find something before I
+graduate.");
 MsgDisp("主人公","Yeah, I'm looking forward to it.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600000_06_420");
 MsgDisp("Himuro","Thanks.");
-MsgDisp("主人公","(I hope ｛Himuro＊＊｝ finds the thing he wants
-to do.)");
+MsgDisp("主人公","(I hope ｛Himuro＊＊｝ finds the thing he
+wants to do.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

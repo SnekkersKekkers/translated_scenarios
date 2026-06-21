@@ -21,24 +21,24 @@ VoicePlay("B070100001_01_440");
 MsgDisp("Kazama","Actually, stop-it.
 What is up with you.");
 MsgDisp("主人公","Yeah.
-This is sudden, but I just thought about how
-I'm here with ｛Kazama＊＊｝ right now.");
+This is sudden, but I just thought about
+how I'm here with ｛Kazama＊＊｝ right now.");
 ChEye(1,4);
 ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,5);
 VoicePlay("B070100001_01_450");
 MsgDisp("Kazama","Yeah, I'm here.
-I guess the several year gap has been buried
-quite a bit.");
+I guess the several year gap has been
+buried quite a bit.");
 MsgDisp("主人公","Yeah.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("B070100001_01_460");
-MsgDisp("Kazama","For two people who hadn't seen each other in
-years, we're way too at ease, huh.");
+MsgDisp("Kazama","For two people who hadn't seen each other
+in years, we're way too at ease, huh.");
 MsgDisp("主人公","Yeah. ...");
 ChEye(1,4);
 ChMouth(1,3);

@@ -25,8 +25,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B330A30300_06_000");
-MsgDisp("Himuro","Is this why he said he didn't want to go too
-close to the store he works part time...");
+MsgDisp("Himuro","Is this why he said he didn't want to
+go too close to the store he works
+part time...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,1);
@@ -86,7 +87,8 @@ ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B330A30300_02_030");
 MsgDisp("Sassa","Splitting Ryota's fans with him?
-You're like Simon's second star sales clerk.");
+You're like Simon's second star
+sales clerk.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -137,8 +139,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_MANY");
 ChClose(6,0,30);
 ChClose(2,0,30);
 MsgDisp("主人公","(Hehe!
-Seems like we'll finally be able to do some
-shopping now.)");
+Seems like we'll finally be able to do
+some shopping now.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

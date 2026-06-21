@@ -23,8 +23,8 @@ I almost teared up.");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040204500_02_010");
-    MsgDisp("Sassa","Yeah, it's impressive they can memorise all
-those long lines.");
+    MsgDisp("Sassa","Yeah, it's impressive they can memorise
+all those long lines.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

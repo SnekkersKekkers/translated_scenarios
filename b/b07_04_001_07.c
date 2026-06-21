@@ -5,15 +5,16 @@ ChMouth(4,2);
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_510");
 MsgDisp("Nanatsumori","What's wrong?
-Your face is kinda red, so maybe you have a
-fever...");
-MsgDisp("主人公","No. It's not like that, it's that I'm somehow
-so nervous my heart is racing...");
+Your face is kinda red, so maybe you have
+a fever...");
+MsgDisp("主人公","No. It's not like that, it's that I'm
+somehow so nervous my heart is racing...");
 VoicePlay("B070400001_04_520");
 MsgDisp("Nanatsumori","Heart racing?");
 MsgDisp("主人公","Yeah.");
 VoicePlay("B070400001_04_530");
-MsgDisp("Nanatsumori","You're not feeling sick or anything, right?");
+MsgDisp("Nanatsumori","You're not feeling sick or
+anything, right?");
 MsgDisp("主人公","Yeah.");
 ChEye(4,2);
 ChMouth(4,0);

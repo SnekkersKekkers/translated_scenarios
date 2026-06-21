@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
-MsgDisp("主人公","I didn't expect ｛Himuro＊＊｝ to choose a place
-like this.");
+MsgDisp("主人公","I didn't expect ｛Himuro＊＊｝ to choose a
+place like this.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -36,15 +36,16 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B360623600_06_030");
-MsgDisp("Himuro","I feel like I understand a lot of things now.");
+MsgDisp("Himuro","I feel like I understand a lot of
+things now.");
 MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360623600_06_040");
 MsgDisp("Himuro","I always disliked flashy places like this,
-and I couldn't understand the people who went
-to them.");
+and I couldn't understand the people who
+went to them.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -70,7 +71,8 @@ ChMouth(6,3);
 ChMotion(6,3);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360623600_06_080");
-MsgDisp("Himuro","Sigh... I'm definitely one of those men too.");
+MsgDisp("Himuro","Sigh...
+I'm definitely one of those men too.");
 MsgDisp("主人公","(｛Himuro＊＊｝, looks a little happy?)");
 BGMStop();
 MsgClose();

@@ -18,7 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040120002_01_010");
-    MsgDisp("Kazama","That's right, you can never be too careful.");
+    MsgDisp("Kazama","That's right, you can never be too
+careful.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -29,7 +30,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040120002_01_020");
-    MsgDisp("Kazama","Right, we don't have any winter camping gear.");
+    MsgDisp("Kazama","Right, we don't have any winter
+camping gear.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -103,7 +105,8 @@ Just stay the way you are.");
         ChCheek(1,0);
         VoicePlay("B040120002_01_100");
         MsgDisp("Kazama","Sigh...
-It was a battle I had no chance of winning...");
+It was a battle I had no chance of
+winning...");
         MsgDisp("主人公","(When you say \"chance of winning\", against
 what???)");
         break ;

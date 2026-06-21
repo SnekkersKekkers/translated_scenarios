@@ -36,8 +36,8 @@ SEWait();
 BGMPlay("BGM_C05_HIIRAGI_A",0.01);
 ChOpen(5,253,0,0,0,#1,#1,0,1,0,30);
 VoicePlay("B110500002_05_000");
-MsgDisp("Hiiragi","Is there something you need with one of our
-members?");
+MsgDisp("Hiiragi","Is there something you need with one of
+our members?");
 ChEye(35,2);
 ChMouth(35,0);
 VoicePlay("B110500002_35_040");
@@ -74,7 +74,8 @@ ChMouth(5,0);
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B110500002_05_030");
-MsgDisp("Hiiragi","I don't understand why I would have to lie.");
+MsgDisp("Hiiragi","I don't understand why I would have
+to lie.");
 MsgDispSksp(0);
 ChEye(35,2);
 ChMouth(35,1);
@@ -92,10 +93,11 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B110500002_05_040");
 MsgDisp("Hiiragi","Sigh...
-I'm sorry, that was my fault for being late.");
+I'm sorry, that was my fault for
+being late.");
 MsgDisp("主人公","No, it's alright.
-But I ended up looking like a member of the
-Habataki Theatre Company...");
+But I ended up looking like a member of
+the Habataki Theatre Company...");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);

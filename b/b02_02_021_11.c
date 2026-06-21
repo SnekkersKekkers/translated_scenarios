@@ -17,6 +17,7 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("B020202111_02_020");
-MsgDisp("Sassa","Next time, can you teach me how to do that?");
+MsgDisp("Sassa","Next time, can you teach me how to
+do that?");
 MsgDisp("主人公","(Hehe, it seems like I dressed well.
 I'm glad!)");

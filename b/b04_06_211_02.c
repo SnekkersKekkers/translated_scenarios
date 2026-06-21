@@ -69,7 +69,8 @@ I thought we were brother and sister.");
         ChCheek(6,0);
         VoicePlay("B040621102_06_070");
         MsgDisp("Himuro","Sigh... I see.
-At any rate, I'm the younger brother right?");
+At any rate, I'm the younger
+brother right?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,1);

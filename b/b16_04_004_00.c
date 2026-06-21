@@ -5,7 +5,8 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160400400_04_000");
 MsgDisp("Nanatsumori","...Hey.
-It would be bad if someone saw us here right?");
+It would be bad if someone saw us
+here right?");
 MsgSel("...Is that so bad?","Got it, I'll stop...");
 switch (MsgSelRsltGet()){
     case 0:

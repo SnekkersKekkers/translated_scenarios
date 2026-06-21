@@ -57,8 +57,8 @@ Did I spin it too much?");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040523402_05_050");
-        MsgDisp("Hiiragi","Well, with how happy you looked, I couldn't
-stop it.");
+        MsgDisp("Hiiragi","Well, with how happy you looked, I
+couldn't stop it.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040523402_05_060");
@@ -73,17 +73,17 @@ You're an honest person.");
         ChMotion(5,4);
         VoicePlay("B040523402_05_080");
         MsgDisp("Hiiragi","The only person who can keep up with you
-exerting all your might onto the teacups is
-me. That much is a hard fact.");
+exerting all your might onto the teacups
+is me. That much is a hard fact.");
         MsgDisp("主人公","I see.");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040523402_05_090");
-        MsgDisp("Hiiragi","That being the case, it's better if you only
-come to the amusement park with me?");
-        MsgDisp("主人公","(Eh... going to the amusement park with only
-｛Hiiragi＊＊＊｝?)");
+        MsgDisp("Hiiragi","That being the case, it's better if you
+only come to the amusement park with me?");
+        MsgDisp("主人公","(Eh... going to the amusement park with
+only ｛Hiiragi＊＊＊｝?)");
         break ;
         default :
         DbgAssert(1);
@@ -96,8 +96,8 @@ come to the amusement park with me?");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040523402_05_100");
-    MsgDisp("Hiiragi","I just discovered that there are winners and
-losers on this ride.");
+    MsgDisp("Hiiragi","I just discovered that there are winners
+and losers on this ride.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

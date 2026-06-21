@@ -66,8 +66,9 @@ yet, huh?");
         ChSet(3,3);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040323302_03_070");
-        MsgDisp("Honda","Yeah, I'm fine with either side as long as I
-can have conversations with you like this.");
+        MsgDisp("Honda","Yeah, I'm fine with either side as long
+as I can have conversations with you
+like this.");
         MsgDisp("主人公","(From now on too, I hope I can keep
 having fun conversations with ｛Honda＊＊｝
 like this.)");

@@ -64,8 +64,8 @@ You should just show up late all the time.");
     ChMouth(3,0);
     ChMotion(3,4);
     VoicePlay("B010300000_03_060");
-    MsgDisp("Honda","That way I'll build up an immunity to it, and
-I can wait with total peace of mind.
+    MsgDisp("Honda","That way I'll build up an immunity to it,
+and I can wait with total peace of mind.
 Right?");
     MsgDisp("主人公","I just won't be late again!");
     ChSet(3,3);

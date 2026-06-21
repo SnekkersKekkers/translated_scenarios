@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B040303100_03_010");
     MsgDisp("Honda","It's a seahorse!
-Yep yep, that little guy's a splendid fish,
-you know.");
+Yep yep, that little guy's a splendid
+fish, you know.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,9 +30,9 @@ you know.");
     ChMotion(3,3);
     ChEyeOpenLevel(3,0);
     VoicePlay("B040303100_03_020");
-    MsgDisp("Honda","Yeah, the colour vision fish possess is way
-more vibrant than a human's! The world they
-see far surpasses our imagination.");
+    MsgDisp("Honda","Yeah, the colour vision fish possess is
+way more vibrant than a human's! The world
+they see far surpasses our imagination.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

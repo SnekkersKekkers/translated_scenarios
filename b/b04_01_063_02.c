@@ -48,8 +48,9 @@ Just trace over what's left.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040106302_01_040");
-        MsgDisp("Kazama","However much of the past you might have
-forgotten, it doesn't mean it didn't happen.");
+        MsgDisp("Kazama","However much of the past you might
+have forgotten, it doesn't mean it
+didn't happen.");
         MsgDisp("主人公","But I remember things well?");
         ChEye(1,4);
         ChMouth(1,2);

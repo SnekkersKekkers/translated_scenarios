@@ -55,8 +55,8 @@ ChOpen(4,255,0,4,4,#1,#1,0,0,0,60);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B360401100_04_050");
-MsgDisp("Nanatsumori","When it's suddenly just the two of us, it's
-hard to keep a distance, isn't it?");
+MsgDisp("Nanatsumori","When it's suddenly just the two of us,
+it's hard to keep a distance, isn't it?");
 MsgDisp("主人公","Ah...hehe!");
 ChMotion(4,0,1);
 VoicePlay("B360401100_04_060");

@@ -5,7 +5,8 @@ ChMouth(4,2);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408301_04_000");
-MsgDisp("Nanatsumori","In the summer, those guys become energetic...");
+MsgDisp("Nanatsumori","In the summer, those guys become
+energetic...");
 MsgSel("Shall we go looking for bugs?","Maybe they get power from the sun?","You need AC in the summer after all!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,8 +27,8 @@ Feel free to go by yourself.");
     ChMotion(4,2,1);
     VoicePlay("B040408301_04_020");
     MsgDisp("Nanatsumori","And here we humans are suffering...
-I mean, the last thing I need is the power of
-the midsummer sun...");
+I mean, the last thing I need is the power
+of the midsummer sun...");
     MsgDateResultDisp();
     break ;
     case 2:

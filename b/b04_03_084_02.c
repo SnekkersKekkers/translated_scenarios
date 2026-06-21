@@ -58,8 +58,8 @@ Insects around springtime, in March.");
         ChMotion(3,1);
         VoicePlay("B040308402_03_050");
         MsgDisp("Honda","Yep yep, the awakening of insects is the
-time when the hibernating insects crawl out
-of the ground.");
+time when the hibernating insects crawl
+out of the ground.");
         MsgDisp("主人公","Insects crawl out...");
         ChEye(3,3);
         ChMouth(3,3);
@@ -72,10 +72,10 @@ of the ground.");
         ChMotion(3,4);
         VoicePlay("B040308402_03_070");
         MsgDisp("Honda","That's right.
-In order to go out with you, I'm active all
-year round.");
-        MsgDisp("主人公","Hehe, you said it as if you were some animal
-or insect.");
+In order to go out with you, I'm active
+all year round.");
+        MsgDisp("主人公","Hehe, you said it as if you were some
+animal or insect.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,0);
@@ -94,7 +94,8 @@ Back then I felt just like a larva.");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308402_03_100");
         MsgDisp("Honda","And now, I'm a full-grown bug!
-I'm flying around the town with you, right?");
+I'm flying around the town with
+you, right?");
         ChEye(3,1);
         ChMouth(3,4);
         ChMotion(3,2);

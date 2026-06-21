@@ -71,9 +71,9 @@ half-baked.");
         ChCheek(4,0);
         VoicePlay("B040420002_04_080");
         MsgDisp("Nanatsumori","Is it?");
-        MsgDisp("主人公","No matter when it is, and no matter what the
-situation is, you're always serious about
-style and treat it with importance.");
+        MsgDisp("主人公","No matter when it is, and no matter what
+the situation is, you're always serious
+about style and treat it with importance.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);

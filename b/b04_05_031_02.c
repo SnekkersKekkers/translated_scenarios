@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B040503102_05_000");
-MsgDisp("Hiiragi","The sound of the water, the darkness, the air
-temperature...it's all so calming.");
+MsgDisp("Hiiragi","The sound of the water, the darkness, the
+air temperature...it's all so calming.");
 MsgSel("｛Hiiragi＊＊＊｝ is like a fish","Maybe I'd like a little more excitement?","It should be feeding time soon");
 switch (MsgSelRsltGet()){
     case 0:
@@ -19,7 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_010");
-    MsgDisp("Hiiragi","Haha. Yes, I wonder if they'd keep me here.");
+    MsgDisp("Hiiragi","Haha.
+Yes, I wonder if they'd keep me here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -108,7 +109,8 @@ My heart is still pounding...)");
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040503102_05_090");
     MsgDisp("Hiiragi","It appears that way.
-The fish are beginning to get restless too.");
+The fish are beginning to get
+restless too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

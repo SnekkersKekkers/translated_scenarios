@@ -21,8 +21,8 @@ VoicePlay("B040606401_06_020");
 MsgDisp("Himuro","Yeah.
 So that the shop keeper can make a proper
 profit. That's why it breaks so easily.");
-MsgDisp("主人公","...Isn't that just 'cause you're bad at it,
-｛Himuro＊＊｝?");
+MsgDisp("主人公","...Isn't that just 'cause you're bad at
+it, ｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);

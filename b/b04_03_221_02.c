@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
         DateRateSet(1);
         ChSet(3,4);
         VoicePlay("B040322102_03_010");
-        MsgDisp("Honda","Umm, but the water moats are meant to guard
-the castle?");
+        MsgDisp("Honda","Umm, but the water moats are meant to
+guard the castle?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -31,8 +31,8 @@ the castle?");
         VoicePlay("B040322102_03_020");
         MsgDisp("Honda","Does it look that way to you?");
         MsgDisp("主人公","Yeah.
-It looks like it would be difficult to escape
-the castle.");
+It looks like it would be difficult to
+escape the castle.");
         ChMotion(3,1);
         VoicePlay("B040322102_03_030");
         MsgDisp("Honda","Definitely.
@@ -52,9 +52,9 @@ Amazing.");
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040322102_03_050");
-        MsgDisp("Honda","Right right, a secret underground passage for
-a beautiful princess like you to sneak away
-through.");
+        MsgDisp("Honda","Right right, a secret underground passage
+for a beautiful princess like you to sneak
+away through.");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,4);
@@ -93,8 +93,8 @@ Let's feed them on the way back!");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040322102_03_080");
     MsgDisp("Honda","Ding ding ding!
-Correct. They're common in castles from the
-early modern period onwards.");
+Correct. They're common in castles from
+the early modern period onwards.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

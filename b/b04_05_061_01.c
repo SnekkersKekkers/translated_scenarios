@@ -10,7 +10,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040506101_05_000");
 MsgDisp("Hiiragi","Swimming in the ocean really is something.
-To think it makes everyone smile this much.");
+To think it makes everyone smile
+this much.");
 MsgSel("｛Hiiragi＊＊＊｝ should smile too!","Let's tan with everything we've got!","Let's swim with all our might!");
 switch (MsgSelRsltGet()){
     case 0:

@@ -16,11 +16,12 @@ VoicePlay("B140300000_03_000");
 MsgDisp("Honda","Yeah, it's amazing.
 Everyone's surrounded by this blue light.");
 MsgDisp("主人公","It really is.
-It feels like we're inside the deep blue sea.");
+It feels like we're inside the deep
+blue sea.");
 ChSet(3,3);
 VoicePlay("B140300000_03_010");
-MsgDisp("Honda","Yeah, and everyone's white breath looks like
-marine snow∈");
+MsgDisp("Honda","Yeah, and everyone's white breath looks
+like marine snow∈");
 MsgDisp("主人公","It's lovely.");
 ChEye(3,3);
 ChMouth(3,3);
@@ -33,8 +34,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B140300000_03_030");
-MsgDisp("Honda","Because I've been able to see your happy face
-two days in a row.");
+MsgDisp("Honda","Because I've been able to see your happy
+face two days in a row.");
 MsgDisp("主人公","Oh, that's two days of Christmas in a row
 together!");
 ChEye(3,3);

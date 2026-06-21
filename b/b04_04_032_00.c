@@ -20,7 +20,8 @@ switch (MsgSelRsltGet()){
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040403200_04_010");
-    MsgDisp("Nanatsumori","Why are you putting yourself down like that?");
+    MsgDisp("Nanatsumori","Why are you putting yourself down
+like that?");
     MsgDateResultDisp();
     break ;
     case 1:

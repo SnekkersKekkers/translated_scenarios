@@ -19,15 +19,16 @@ MsgDisp("Shirahane","...Ah! I like reading Habatcher!");
 ChEye(8,3);
 ChMouth(8,3);
 VoicePlay("B070800000_08_260");
-MsgDisp("Shirahane","It's something that's always in my house, so
-reading it has become second nature.");
+MsgDisp("Shirahane","It's something that's always in my house,
+so reading it has become second nature.");
 ChMotion(8,0,1);
 VoicePlay("B070800000_08_270");
 MsgDisp("Shirahane","The articles and photos are always
-interestin', right? I like it so much that I
-read it over and over.");
-MsgDisp("主人公","(So ｛Daichi＊＊｝'s hobbies are challenging
-himself and reading Habatcher...)");
+interestin', right? I like it so much that
+I read it over and over.");
+MsgDisp("主人公","(So ｛Daichi＊＊｝'s hobbies are
+challenging himself and reading
+Habatcher...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

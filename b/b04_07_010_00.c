@@ -5,7 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040701000_07_000");
-MsgDisp("Mikage","Oh, apparently this sort of thing is stylish.
+MsgDisp("Mikage","Oh, apparently this sort of thing is
+stylish.
 I think it would suit you.");
 MsgSel("You're right, I think I should buy it!","Is that so...?","It doesn't suit me!");
 switch (MsgSelRsltGet()){

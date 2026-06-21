@@ -105,8 +105,8 @@ everyday.");
         MsgDisp("Sassa","Then you'll have to join us for the
 morning walks.
 As a witness.");
-        MsgDisp("主人公","(Hehe, walking with ｛Sassa＊＊｝ and a doggy
-every morning...seems fun.)");
+        MsgDisp("主人公","(Hehe, walking with ｛Sassa＊＊｝ and a
+doggy every morning...seems fun.)");
         break ;
         default :
         DbgAssert(1);

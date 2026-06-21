@@ -51,8 +51,8 @@ Since I don't want to swim.");
     ChMotion(4,1,1);
     VoicePlay("B040411000_04_040");
     MsgDisp("Nanatsumori","OK.
-Then you should bring one that'll look good
-in photos.");
+Then you should bring one that'll look
+good in photos.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

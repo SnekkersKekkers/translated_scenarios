@@ -32,8 +32,8 @@ MsgDisp("Nanatsumori","Something like...your time?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B360415200_04_040");
 MsgDisp("Nanatsumori","We count up points. The more I score, the
-more of your time I get. The more you score,
-the more time I give back.");
+more of your time I get. The more you
+score, the more time I give back.");
 MsgDisp("主人公","Hey, what's even in it for me...");
 ChEye(4,2);
 ChMouth(4,4);

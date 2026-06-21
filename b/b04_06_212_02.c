@@ -62,8 +62,8 @@ receive it.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621202_06_050");
-        MsgDisp("Himuro","Ah, it's not like I particularly like stuffed
-animals or anything.
+        MsgDisp("Himuro","Ah, it's not like I particularly like
+stuffed animals or anything.
 Just to be sure.");
         ChEye(6,0);
         ChMouth(6,4);
@@ -106,7 +106,8 @@ everything.");
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040621202_06_110");
-        MsgDisp("Himuro","Isn't that nothing like how you picture me?");
+        MsgDisp("Himuro","Isn't that nothing like how you
+picture me?");
         MsgDisp("主人公","(...I-It's hard to answer.)");
         break ;
         default :

@@ -36,8 +36,8 @@ But I suppose you're right.");
     ChMotion(5,4);
     VoicePlay("B040505101_05_030");
     MsgDisp("Hiiragi","Yes, I noticed.
-Then, please let me hear the reasoning as to
-why that is.");
+Then, please let me hear the reasoning as
+to why that is.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

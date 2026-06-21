@@ -26,7 +26,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,4);
     ChMouth(5,3);
     VoicePlay("B040508501_05_020");
-    MsgDisp("Hiiragi","Never mind the warmth, how is it as fashion?");
+    MsgDisp("Hiiragi","Never mind the warmth, how is it as
+fashion?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

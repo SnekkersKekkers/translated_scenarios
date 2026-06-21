@@ -33,7 +33,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,4);
 VoicePlay("B330B30200_01_010");
-MsgDisp("Kazama","That's because Nanatsumori is a professional.
+MsgDisp("Kazama","That's because Nanatsumori is a
+professional.
 But that goes for even us too right?");
 ChEye(3,4);
 ChMouth(3,4);
@@ -59,7 +60,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30200_04_020");
-MsgDisp("Nanatsumori","There's a limit to how effortless you can be.");
+MsgDisp("Nanatsumori","There's a limit to how effortless you
+can be.");
 ChEye(3,0);
 ChMouth(3,4);
 VoicePlay("B330B30200_03_020");
@@ -68,8 +70,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
 VoicePlay("B330B30200_01_030");
-MsgDisp("Kazama","Then, even my hair that's blowing in the wind
-is more—");
+MsgDisp("Kazama","Then, even my hair that's blowing in the
+wind is more—");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -104,8 +106,9 @@ ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,2,1);
 VoicePlay("B330B30200_04_040");
-MsgDisp("Nanatsumori","Well, models can also look like a different
-person just by changing their hairstyle.");
+MsgDisp("Nanatsumori","Well, models can also look like a
+different person just by changing their
+hairstyle.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

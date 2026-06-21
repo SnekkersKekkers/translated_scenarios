@@ -28,8 +28,8 @@ I can do it in three tries.");
     ChMouth(3,0);
     ChMotion(3,0,1);
     VoicePlay("B040316001_03_020");
-    MsgDisp("Honda","That's right, taking it home might be a bit
-challenging.");
+    MsgDisp("Honda","That's right, taking it home might be a
+bit challenging.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

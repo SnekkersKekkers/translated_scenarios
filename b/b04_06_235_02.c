@@ -82,8 +82,8 @@ priority.");
         ChMotion(6,0);
         ChCheek(6,0);
         VoicePlay("B040623502_06_080");
-        MsgDisp("Himuro","But you know, if I really think about it, I
-get to see your showy reactions, so I'm
+        MsgDisp("Himuro","But you know, if I really think about it,
+I get to see your showy reactions, so I'm
 having plenty of fun.");
         MsgDisp("主人公","(Showy reactions...)");
         break ;

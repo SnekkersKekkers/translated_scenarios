@@ -32,7 +32,8 @@ switch (MsgSelRsltGet()){
         VoicePlay("B040402102_04_020");
         MsgDisp("Nanatsumori","Honestly, a bit?");
         MsgDisp("主人公","Sorry.
-I should have picked a more enjoyable place.");
+I should have picked a more
+enjoyable place.");
         ChEye(4,2);
         ChMouth(4,3);
         ChMotion(4,0);
@@ -52,8 +53,8 @@ When I'm with you, I just feel at ease.");
         ChMotion(4,0);
         VoicePlay("B040402102_04_060");
         MsgDisp("Nanatsumori","I don't feel anxious at all, like I do at
-work or school. Both my heart and my body can
-breathe a sigh of relief.");
+work or school. Both my heart and my body
+can breathe a sigh of relief.");
         ChEye(4,0);
         ChMouth(4,3);
         VoicePlay("B040402102_04_070");
@@ -66,8 +67,8 @@ My heart was racing every day.");
         ChMotion(4,3);
         VoicePlay("B040402102_04_080");
         MsgDisp("Nanatsumori","It was, it was.
-I wondered when you would blurt out my true
-identity.");
+I wondered when you would blurt out my
+true identity.");
         MsgDisp("主人公","Eh... So that's what you were thinking...");
         ChEye(4,0);
         ChMouth(4,3);

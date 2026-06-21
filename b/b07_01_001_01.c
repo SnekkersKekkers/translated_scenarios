@@ -1,12 +1,14 @@
-MsgDisp("主人公","｛Kazama＊＊｝, you and ｛Sassa＊＊｝ have been
-hanging out together a lot lately, huh?");
+MsgDisp("主人公","｛Kazama＊＊｝, you and ｛Sassa＊＊｝ have
+been hanging out together a lot
+lately, huh?");
 ChEye(1,2);
 ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_010");
 MsgDisp("Kazama","Yeah, maybe.
-He and I go all the way back to kindergarten.");
+He and I go all the way back to
+kindergarten.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

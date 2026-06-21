@@ -18,20 +18,22 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B330B30401_04_000");
 MsgDisp("Nanatsumori","The weather is nice.
-Well isn't it the ideal weather for a walk?");
+Well isn't it the ideal weather for
+a walk?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30401_01_000");
-MsgDisp("Kazama","A walk's fine and all, but aren't we gonna do
-anything?");
+MsgDisp("Kazama","A walk's fine and all, but aren't we gonna
+do anything?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B330B30401_03_000");
 MsgDisp("Honda","Mi-kun has something planned right?
-He chose this place specifically after all.");
+He chose this place specifically
+after all.");
 ChMouth(1,0);
 ChMotion(1,0);
 ChEyeOpenLevel(1,#1);

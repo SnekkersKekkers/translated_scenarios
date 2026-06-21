@@ -6,6 +6,7 @@ MsgDisp("Hiiragi","How very charming.");
 MsgDisp("主人公","Umm, you mean what I'm wearing?");
 VoicePlay("B020502107_05_010");
 MsgDisp("Hiiragi","Yes.
-Your purity and innocence have overlapped in
-perfection here.");
-MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ seems to be really happy!)");
+Your purity and innocence have overlapped
+in perfection here.");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ seems to be really happy!)");

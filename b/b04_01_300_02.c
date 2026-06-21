@@ -7,9 +7,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B040130002_01_000");
-MsgDisp("Kazama","It feels like we've travelled back in time,
-right? Nothing has changed about this room
-after all.");
+MsgDisp("Kazama","It feels like we've travelled back in
+time, right? Nothing has changed about
+this room after all.");
 MsgSel("This doesn't feel like an elementary schooler's room.","I think I remember that hat.","Ryota is written on the side of that desk, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,1);
     VoicePlay("B040130002_01_010");
-    MsgDisp("Kazama","I've been messing around with it a lot these
-past few months.
+    MsgDisp("Kazama","I've been messing around with it a lot
+these past few months.
 But it still feels nostalgic, right?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
@@ -39,8 +39,8 @@ But it still feels nostalgic, right?");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040130002_01_020");
-        MsgDisp("Kazama","Oi, all elementary school kids have the same
-safety helmets, right?");
+        MsgDisp("Kazama","Oi, all elementary school kids have the
+same safety helmets, right?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,8 +58,8 @@ onto it.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040130002_01_040");
-        MsgDisp("Kazama","I went to England soon after, so I only wore
-it for a few months.");
+        MsgDisp("Kazama","I went to England soon after, so I only
+wore it for a few months.");
         MsgDisp("主人公","That's right...");
         ChMotion(1,0);
         Wait(8,0);
@@ -111,14 +111,14 @@ You being here made me realise that.");
         ChCheek(1,5);
         VoicePlay("B040130002_01_100");
         MsgDisp("Kazama","Right, you.
-Being here with you, all grown up, gives me
-feelings I never had as a kid.");
+Being here with you, all grown up, gives
+me feelings I never had as a kid.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040130002_01_110");
-        MsgDisp("Kazama","You're not just the cute neighbourhood girl
-who used to be my friend anymore.");
+        MsgDisp("Kazama","You're not just the cute neighbourhood
+girl who used to be my friend anymore.");
         MsgDisp("主人公","I'm now—");
         ChEye(1,1);
         ChMouth(1,1);

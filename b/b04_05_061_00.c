@@ -27,7 +27,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040506100_05_020");
     MsgDisp("Hiiragi","Agreed.
-Though I do wonder what we're fueling up for.");
+Though I do wonder what we're fueling
+up for.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -37,8 +38,8 @@ Though I do wonder what we're fueling up for.");
     ChMotion(5,0);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B040506100_05_030");
-    MsgDisp("Hiiragi","In this heat, walking around staring at the
-ground is dangerous.");
+    MsgDisp("Hiiragi","In this heat, walking around staring at
+the ground is dangerous.");
     MsgDateResultDisp();
     break ;
     default :

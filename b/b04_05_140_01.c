@@ -38,8 +38,8 @@ This disc will help support them.");
     ChMotion(5,4);
     VoicePlay("B040514001_05_030");
     MsgDisp("Hiiragi","Is that all...?
-It looked like you were jumping up and down
-contentedly.");
+It looked like you were jumping up and
+down contentedly.");
     MsgDateResultDisp();
     break ;
     default :

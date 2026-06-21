@@ -48,8 +48,8 @@ okay? There's a chance they'll spit at you.");
         ChMouth(4,2);
         ChMotion(4,0,1);
         VoicePlay("B040421102_04_040");
-        MsgDisp("Nanatsumori","Could it be that you're not really interested
-in animals?");
+        MsgDisp("Nanatsumori","Could it be that you're not really
+interested in animals?");
         MsgDisp("主人公","That's not it but...did you want to
 feed them?");
         ChEye(4,2);

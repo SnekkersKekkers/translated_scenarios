@@ -26,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0,1);
     VoicePlay("B040308100_03_020");
-    MsgDisp("Honda","Really? After this, we get to enjoy the fresh
-green leaves once the blossoms fall.
+    MsgDisp("Honda","Really? After this, we get to enjoy the
+fresh green leaves once the blossoms fall.
 To me, that has its own merits.");
     MsgDateResultDisp();
     break ;
@@ -38,8 +38,8 @@ To me, that has its own merits.");
     ChMotion(3,1,1);
     VoicePlay("B040308100_03_030");
     MsgDisp("Honda","It's nice huh?
-That aroma of the pickled cherry blossom leaf
-is good.");
+That aroma of the pickled cherry blossom
+leaf is good.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

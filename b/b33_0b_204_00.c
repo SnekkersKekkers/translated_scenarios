@@ -46,8 +46,8 @@ ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B330B20400_03_020");
-MsgDisp("Honda","Next time the weather is nice, let's have a
-picnic here with our bentos!");
+MsgDisp("Honda","Next time the weather is nice, let's have
+a picnic here with our bentos!");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);

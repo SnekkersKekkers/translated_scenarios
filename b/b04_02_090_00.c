@@ -28,7 +28,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040209000_02_020");
     MsgDisp("Sassa","Right?
-I'm not a fan of that damp, stale air either.");
+I'm not a fan of that damp, stale
+air either.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,7 +41,8 @@ I'm not a fan of that damp, stale air either.");
     ChMotion(2,4);
     VoicePlay("B040209000_02_030");
     MsgDisp("Sassa","Seems like it's popular.
-But, do you want to see some dissolved bugs?");
+But, do you want to see some
+dissolved bugs?");
     MsgDateResultDisp();
     break ;
     default :

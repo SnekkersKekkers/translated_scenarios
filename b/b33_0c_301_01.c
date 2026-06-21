@@ -57,9 +57,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C30101_06_020");
-MsgDisp("Himuro","You can't buy it with just a bit of part-time
-work. But it's a vintage item, so it's quite
-valuable.");
+MsgDisp("Himuro","You can't buy it with just a bit of
+part-time work. But it's a vintage item,
+so it's quite valuable.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -88,16 +88,16 @@ MsgDisp("Mikage","O-Oi.
 I can't afford to buy something that
 expensive...");
 MsgDisp("主人公","Hehe, it's alright.
-I think ｛Himuro＊＊｝ has no intention of having
-｛Mikage＊＊｝ buy it at all.");
+I think ｛Himuro＊＊｝ has no intention of
+having ｛Mikage＊＊｝ buy it at all.");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,2);
 VoicePlay("B330C30101_07_050");
 MsgDisp("Mikage","Ah, really?
 None at all, huh...");
-MsgDisp("主人公","(｛Mikage＊＊｝ will end up wanting to grant
-any of his student's wishes...");
+MsgDisp("主人公","(｛Mikage＊＊｝ will end up wanting to
+grant any of his student's wishes...");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -48,8 +48,8 @@ You're greedy.");
         VoicePlay("B040115102_01_030");
         MsgDisp("Kazama","...Geez, you're a big eater.
 A travel voucher is better right?");
-        MsgDisp("主人公","But, if we got a meal voucher, we could eat
-together after this?");
+        MsgDisp("主人公","But, if we got a meal voucher, we could
+eat together after this?");
         ChEye(1,0);
         ChMouth(1,0);
         ChMotion(1,0);
@@ -82,8 +82,9 @@ for me.");
         VoicePlay("B040115102_01_070");
         MsgDisp("Kazama","...Drop it.
 A fancy dinner is fine.");
-        MsgDisp("主人公","(｛Kazama＊＊｝, even if you did get a perfect
-score, the prize is a travel voucher anyway?)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, even if you did get a
+perfect score, the prize is a travel
+voucher anyway?)");
         break ;
         default :
         DbgAssert(1);

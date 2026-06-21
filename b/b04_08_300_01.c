@@ -31,7 +31,8 @@ You smell so nice.");
     ChMotion(8,0,1);
     VoicePlay("B040830001_08_020");
     MsgDisp("Shirahane","Haha! Are you hungry?
-Should I ask Nee-chan to make us something?");
+Should I ask Nee-chan to make us
+something?");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

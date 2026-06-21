@@ -11,5 +11,5 @@ VoicePlay("B020700015_07_010");
 MsgDisp("Mikage","Aw, too bad.
 And I almost wore it today too.");
 MsgDisp("主人公","(Matching outfits... huh.
-Since there's a possibility, maybe I should
-give it a try?)");
+Since there's a possibility, maybe I
+should give it a try?)");

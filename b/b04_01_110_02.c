@@ -7,7 +7,8 @@ ChMouth(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B040111002_01_000");
-MsgDisp("Kazama","I totally get why people like water slides.");
+MsgDisp("Kazama","I totally get why people like
+water slides.");
 MsgSel("The very start is great, right?","Sliding across the water is amazing.","The big splash at the end is the best.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,8 +19,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040111002_01_010");
     MsgDisp("Kazama","Exactly. That feeling of nervousness sells
-it. Then again, maybe that has nothing to do
-with water.");
+it. Then again, maybe that has nothing to
+do with water.");
     MsgDispSksp(1,7);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
@@ -32,8 +33,8 @@ with water.");
     ChMotion(1,0,1);
     VoicePlay("B040111002_01_020");
     MsgDisp("Kazama","Right?
-If you lay flat on your back, you can really
-build up speed, right?");
+If you lay flat on your back, you can
+really build up speed, right?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -62,8 +63,8 @@ build up speed, right?");
         ChMouth(1,2);
         ChMotion(1,0);
         VoicePlay("B040111002_01_040");
-        MsgDisp("Kazama","Even though fate ties us together, seems we
-still have our differences.");
+        MsgDisp("Kazama","Even though fate ties us together, seems
+we still have our differences.");
         MsgDisp("主人公","Huh? You don't like the big kersplash?");
         ChEye(1,0);
         ChMouth(1,1);
@@ -102,7 +103,8 @@ sound like fun?");
         ChMouth(1,1);
         ChMotion(1,3);
         VoicePlay("B040111002_01_090");
-        MsgDisp("Kazama","Hey! You should have mentioned that sooner.");
+        MsgDisp("Kazama","Hey!
+You should have mentioned that sooner.");
         ChEye(1,1);
         ChMouth(1,2);
         ChMotion(1,2);

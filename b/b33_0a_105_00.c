@@ -83,8 +83,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10500_01_030");
 MsgDisp("Kazama","Right?
-Even if we sang about love, and romance and
-whatnot with this group...");
+Even if we sang about love, and romance
+and whatnot with this group...");
 ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,1);

@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040418300_04_000");
     MsgDisp("Nanatsumori","Yeah, it was awesome!
-I couldn't tell what was CG and what was live
-action. The story was good too.");
+I couldn't tell what was CG and what was
+live action. The story was good too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

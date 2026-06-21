@@ -18,7 +18,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30401_06_000");
-MsgDisp("Himuro","Forest parks have a lot of waterfront areas.");
+MsgDisp("Himuro","Forest parks have a lot of
+waterfront areas.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -56,8 +57,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330A30401_06_020");
 MsgDisp("Himuro","Right.
-But if Nozomu-senpai incorporated that kind
-of Eastern energy...");
+But if Nozomu-senpai incorporated that
+kind of Eastern energy...");
 ChMouth(1,3);
 MsgDisp("主人公","Yeah, he might set great records!");
 ChEye(2,0);
@@ -84,7 +85,8 @@ ChEye(1,2);
 ChMouth(1,2);
 ChMotion(1,3);
 VoicePlay("B330A30401_01_020");
-MsgDisp("Kazama","Can four people fit in such a cramped space?");
+MsgDisp("Kazama","Can four people fit in such a
+cramped space?");
 ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);

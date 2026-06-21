@@ -39,8 +39,8 @@ camping, right?");
     ChEyeOpenLevel(8,0);
     VoicePlay("B040824201_08_030");
     MsgDisp("Shirahane","Hehe, that's right.
-Then, let's look for a tree that's good for
-climbin'!");
+Then, let's look for a tree that's good
+for climbin'!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

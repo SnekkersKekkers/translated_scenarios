@@ -37,10 +37,11 @@ ChEye(5,3);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B140500100_05_030");
-MsgDisp("Hiiragi","Please excuse me. I always think such things
-immediately. It's an unpleasant trait I have
-from being an actor.");
-MsgDisp("主人公","Hehe, being the chairman is tough, isn't it?");
+MsgDisp("Hiiragi","Please excuse me. I always think such
+things immediately. It's an unpleasant
+trait I have from being an actor.");
+MsgDisp("主人公","Hehe, being the chairman is tough,
+isn't it?");
 ChEye(5,2);
 ChMouth(5,4);
 ChMotion(5,4);

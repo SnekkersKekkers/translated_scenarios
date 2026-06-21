@@ -11,8 +11,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360350200_03_000");
 MsgDisp("Honda","Oh look!
-Over there, someone drew a love umbrella on
-the sand.");
+Over there, someone drew a love umbrella
+on the sand.");
 MsgDisp("主人公","Oh you're right.
 It's lovely.");
 ChEye(3,0);
@@ -50,7 +50,8 @@ VoicePlay("B360350200_03_050");
 MsgDisp("Honda","In that case, we'll just make another one!
 This time, I'll make sure it's far from
 the sea!");
-MsgDisp("主人公","(｛Honda＊＊｝ is really serious about this...)");
+MsgDisp("主人公","(｛Honda＊＊｝ is really serious about
+this...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

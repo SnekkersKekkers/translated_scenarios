@@ -5,7 +5,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 ScrFadeIn(0);
 VoicePlay("B040302201_03_000");
-MsgDisp("Honda","There are many types of seabirds, huh? Look!");
+MsgDisp("Honda","There are many types of seabirds, huh?
+Look!");
 MsgSel("Are you interested in birds?","They might sell bird feed at the store.","That's a... gull?");
 switch (MsgSelRsltGet()){
     case 0:

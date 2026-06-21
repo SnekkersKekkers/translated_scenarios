@@ -14,9 +14,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B150300300_03_020");
-MsgDisp("Honda","When someone else touches me, it doesn't mean
-much. But when it's you, no matter how you do
-it, it makes me happy.");
+MsgDisp("Honda","When someone else touches me, it doesn't
+mean much. But when it's you, no matter
+how you do it, it makes me happy.");
 MsgDisp("主人公","｛Honda＊＊｝...");
 ChEye(3,0);
 ChMouth(3,3);
@@ -49,7 +49,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B150300300_03_070");
 MsgDisp("Honda","Haha, you're the best!
-I guess there's no rush to figure this out.");
+I guess there's no rush to figure
+this out.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
@@ -65,8 +66,8 @@ ChMotion(3,1,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300300_03_090");
 MsgDisp("Honda","It's a promise!");
-MsgDisp("主人公","(That's so ｛Honda＊＊｝, always looking on the
-bright side.
+MsgDisp("主人公","(That's so ｛Honda＊＊｝, always looking on
+the bright side.
 Thanks, ｛Honda＊＊｝!)");
 MsgClose();
 ScrFadeOut(0,0);

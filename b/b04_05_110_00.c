@@ -42,8 +42,8 @@ need help.");
     ChMotion(5,4);
     VoicePlay("B040511000_05_030");
     MsgDisp("Hiiragi","Let's do the fundamentals then.
-For anything more than that, let's learn it
-together.");
+For anything more than that, let's learn
+it together.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

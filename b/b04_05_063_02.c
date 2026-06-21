@@ -36,16 +36,17 @@ Not like me.");
         ChMotion(5,4);
         VoicePlay("B040506302_05_030");
         MsgDisp("Hiiragi","As for me.
-I feel like the winter sea suits me better.");
+I feel like the winter sea suits
+me better.");
         MsgDisp("主人公","Maybe.
 ｛Hiiragi＊＊＊｝ suits the tense, crisp winter
 sea huh?");
         ChEye(5,4);
         ChMotion(5,2);
         VoicePlay("B040506302_05_040");
-        MsgDisp("Hiiragi","Thank you. But that would make it sound like
-you, who suits the summer sea, have a relaxed
-air about you.");
+        MsgDisp("Hiiragi","Thank you. But that would make it sound
+like you, who suits the summer sea, have a
+relaxed air about you.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040506302_05_050");
         MsgDisp("Hiiragi","The air that surrounds you is calmer
@@ -71,8 +72,8 @@ happy...)");
     ChEye(5,4);
     VoicePlay("B040506302_05_070");
     MsgDisp("Hiiragi","That's right.
-It's still fresh no matter how many times I
-come here.");
+It's still fresh no matter how many times
+I come here.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -84,8 +85,8 @@ come here.");
     ChMotion(5,4);
     VoicePlay("B040506302_05_080");
     MsgDisp("Hiiragi","Is that so?
-For some reason I get excited every time our
-opinions match up.");
+For some reason I get excited every time
+our opinions match up.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

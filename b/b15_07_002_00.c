@@ -11,7 +11,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B150700200_07_010");
 MsgDisp("Mikage","Hey, don't play dumb.
-You weren't doing it unconsciously, were you?");
+You weren't doing it unconsciously,
+were you?");
 MsgDisp("主人公","I'm sorry.
 I got carried away...");
 ChEye(7,2);
@@ -24,15 +25,16 @@ ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B150700200_07_030");
 MsgDisp("Mikage","Crap...
-If I'm not careful, my feelings will get the
-best of me.");
+If I'm not careful, my feelings will get
+the best of me.");
 MsgDisp("主人公","Umm... I'm sorry.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B150700200_07_040");
-MsgDisp("Mikage","I told you to do as you like, but this isn't
-something you should forget yourself in.");
+MsgDisp("Mikage","I told you to do as you like, but this
+isn't something you should forget
+yourself in.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -45,10 +47,12 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B150700200_07_060");
-MsgDisp("Mikage","Actually instead of calming me down, touching
-me too much might have the opposite effect~?");
+MsgDisp("Mikage","Actually instead of calming me down,
+touching me too much might have the
+opposite effect~?");
 MsgDisp("主人公","(Maybe I overdid it today...
-But what does he mean by \"opposite effect\"?)");
+But what does he mean by \"opposite
+effect\"?)");
 MsgClose();
 ScrFadeOut(0,0);
 MsgClose();

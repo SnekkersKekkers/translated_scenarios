@@ -8,8 +8,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040401102_04_000");
 MsgDisp("Nanatsumori","I like the atmosphere here.
-It's just a bit, but I feel like I've become
-an adult.");
+It's just a bit, but I feel like I've
+become an adult.");
 MsgSel("I also like it!","I feel a bit out of place...","It fits ｛Nanatsumori＊｝ perfectly!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,8 +50,8 @@ further?");
         ChEyeOpenLevel(4,7);
         VoicePlay("B040401102_04_030");
         MsgDisp("Nanatsumori","Why?");
-        MsgDisp("主人公","｛Nanatsumori＊｝ is so grown-up, it suits him,
-but I'm completely—");
+        MsgDisp("主人公","｛Nanatsumori＊｝ is so grown-up, it suits
+him, but I'm completely—");
         SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
         ChClose(4,0,30);
         MsgClose();

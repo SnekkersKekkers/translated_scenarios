@@ -2,7 +2,8 @@ MsgClose();
 ChNanaType(#1);
 ChOpen(4,255,0,0,2,8,#1,0,0);
 VoicePlay("B040402301_04_000");
-MsgDisp("Nanatsumori","The sea, the sky and the wharf are all blue.");
+MsgDisp("Nanatsumori","The sea, the sky and the wharf are
+all blue.");
 MsgSel("I feel so refreshed!","It kinda makes my mind go blank.","Shall I take a picture with the image of blue in mind?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -12,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,2,1);
     VoicePlay("B040402301_04_010");
     MsgDisp("Nanatsumori","Yeah.
-I'm more like a red type of person, so this
-is hurting my eyes...");
+I'm more like a red type of person, so
+this is hurting my eyes...");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -36,8 +37,8 @@ Like a world with no boundary lines.");
     ChMotion(4,1,1);
     VoicePlay("B040402301_04_030");
     MsgDisp("Nanatsumori","I see...it's a world of blue.
-It's a world that can only be created during
-the day. Nice advice.");
+It's a world that can only be created
+during the day. Nice advice.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

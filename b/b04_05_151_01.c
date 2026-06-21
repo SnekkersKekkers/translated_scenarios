@@ -39,8 +39,8 @@ Today we observe the skilled players!");
     ChMotion(5,0,1);
     VoicePlay("B040515101_05_030");
     MsgDisp("Hiiragi","Agreed.
-Maybe this way, we can both redeem ourselves
-for being so bad at it?");
+Maybe this way, we can both redeem
+ourselves for being so bad at it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

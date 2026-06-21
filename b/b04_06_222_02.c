@@ -59,8 +59,8 @@ switch (MsgSelRsltGet()){
         ChMouth(6,0);
         ChMotion(6,0);
         VoicePlay("B040622202_06_050");
-        MsgDisp("Himuro","If I'm with you, I have fun no matter where
-we go.");
+        MsgDisp("Himuro","If I'm with you, I have fun no matter
+where we go.");
         MsgDisp("主人公","Ehhh?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -69,7 +69,8 @@ we go.");
         VoicePlay("B040622202_06_060");
         MsgDisp("Himuro","Please don't make me say it again?
 You clearly heard me.");
-        MsgDisp("主人公","I was just wondering what you meant by that.");
+        MsgDisp("主人公","I was just wondering what you meant
+by that.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -101,7 +102,8 @@ Spending time with you like this.");
         ChMotion(6,4);
         VoicePlay("B040622202_06_110");
         MsgDisp("Himuro","Maybe that's the reason I come along.");
-        MsgDisp("主人公","(Seems like ｛Himuro＊＊｝ is also having fun...
+        MsgDisp("主人公","(Seems like ｛Himuro＊＊｝ is also
+having fun...
 I'm glad.)");
         break ;
         default :

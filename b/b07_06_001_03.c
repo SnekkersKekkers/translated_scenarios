@@ -1,5 +1,5 @@
-MsgDisp("主人公","It's been lively around you recently, hasn't
-it, ｛Himuro＊＊｝?");
+MsgDisp("主人公","It's been lively around you recently,
+hasn't it, ｛Himuro＊＊｝?");
 ChEye(6,2);
 ChMouth(6,1);
 ChMotion(6,2);
@@ -31,23 +31,23 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_210");
-MsgDisp("Himuro","One way or another, I'm also getting caught
-up in the pace of Ryota-senpai and
+MsgDisp("Himuro","One way or another, I'm also getting
+caught up in the pace of Ryota-senpai and
 Nozomu-senpai...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_220");
-MsgDisp("Himuro","I'm also starting to find it hard to say no
-like I used to...");
+MsgDisp("Himuro","I'm also starting to find it hard to say
+no like I used to...");
 ChEye(6,2);
 ChMouth(6,2);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600001_06_230");
 MsgDisp("Himuro","Sigh...that's not like me...");
-MsgDisp("主人公","(I wonder if ｛Himuro＊＊｝ is content with the
-current situation in his own way?)");
+MsgDisp("主人公","(I wonder if ｛Himuro＊＊｝ is content with
+the current situation in his own way?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

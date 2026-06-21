@@ -8,8 +8,8 @@ to actors.");
 ChMouth(5,4);
 VoicePlay("B070500000_05_120");
 MsgDisp("Hiiragi","Yes.
-There are sword fights in my performances, so
-I need physical strength too.");
+There are sword fights in my performances,
+so I need physical strength too.");
 MsgDisp("主人公","Sword fights, huh....");
 ChMotion(5,4);
 VoicePlay("B070500000_05_130");

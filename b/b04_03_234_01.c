@@ -25,8 +25,8 @@ for here?");
     ChMouth(3,3);
     ChMotion(3,4);
     VoicePlay("B040323401_03_020");
-    MsgDisp("Honda","I don't think it'll ever get to a point where
-I enjoy it.");
+    MsgDisp("Honda","I don't think it'll ever get to a point
+where I enjoy it.");
     MsgDateResultDisp();
     break ;
     case 2:

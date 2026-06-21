@@ -9,7 +9,8 @@ ChMotion(1,3);
 VoicePlay("B030122000_01_000");
 MsgDisp("Kazama","At least to me, this is like visiting
 a grave.");
-MsgDisp("主人公","Hehe, we'll have to greet our ancestors then.");
+MsgDisp("主人公","Hehe, we'll have to greet our
+ancestors then.");
 ChMotion(1,0);
 ChEyeOpenLevel(1,0);
 Wait(8,0);

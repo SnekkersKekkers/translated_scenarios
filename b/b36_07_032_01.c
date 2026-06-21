@@ -29,8 +29,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360703201_07_030");
-MsgDisp("Mikage","Inori especially would love to hear this kind
-of thing, right?");
+MsgDisp("Mikage","Inori especially would love to hear this
+kind of thing, right?");
 MsgDisp("主人公","Hehe. Okay, I understand.");
 ChEye(7,0);
 ChMouth(7,0);

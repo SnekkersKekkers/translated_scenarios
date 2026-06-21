@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,3);
     ChMotion(5,0);
     VoicePlay("B040523501_05_010");
-    MsgDisp("Hiiragi","Haha.... I'll let you experience real fear.");
+    MsgDisp("Hiiragi","Haha....
+I'll let you experience real fear.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -87,8 +88,9 @@ haunted house.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523501_05_090");
-        MsgDisp("Hiiragi","Hmm, but you're a mix of fun and cuteness, so
-I guess you're not that scary after all.");
+        MsgDisp("Hiiragi","Hmm, but you're a mix of fun and
+cuteness, so I guess you're not that
+scary after all.");
         MsgDisp("主人公","Umm, there's no need for the \"fun\" part.");
         break ;
         default :

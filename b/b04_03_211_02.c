@@ -45,8 +45,8 @@ Might be dangerous, you know?");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040321102_03_030");
-        MsgDisp("Honda","It might be hard to see, but that's part of
-the fun.");
+        MsgDisp("Honda","It might be hard to see, but that's part
+of the fun.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -62,9 +62,9 @@ the fun.");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040321102_03_050");
-        MsgDisp("Honda","Right? You'll be surrounded by the countless
-glowing eyes of animals, and feel like you've
-become the prey～?");
+        MsgDisp("Honda","Right? You'll be surrounded by the
+countless glowing eyes of animals, and
+feel like you've become the prey～?");
         MsgDisp("主人公","Hehe.
 ｛Honda＊＊｝ seems like he's enjoying it.");
         ChEye(3,0);
@@ -73,8 +73,8 @@ become the prey～?");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040321102_03_060");
         MsgDisp("Honda","Yep yep, I like those glowing eyes.
-It's the work of a reflector plate behind the
-retina. I also want those eyes.");
+It's the work of a reflector plate behind
+the retina. I also want those eyes.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,0);

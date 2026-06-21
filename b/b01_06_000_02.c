@@ -35,8 +35,8 @@ to do.");
     ChMotion(6,0);
     VoicePlay("B010600002_06_030");
     MsgDisp("Himuro","About 15 minutes ago.
-It would be a problem if something unexpected
-popped up.");
+It would be a problem if something
+unexpected popped up.");
     MsgDisp("主人公","Does that sort of thing really happen...?");
     MsgDispSksp(1,0);
     ChEye(6,0);

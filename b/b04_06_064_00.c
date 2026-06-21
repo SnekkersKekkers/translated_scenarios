@@ -6,8 +6,8 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040606400_06_000");
 MsgDisp("Himuro","What a crowd...
-Even if this is a staple of summer, it feels
-like we're punishing ourselves.");
+Even if this is a staple of summer, it
+feels like we're punishing ourselves.");
 MsgDisp("主人公","You'll enjoy it once you get into it!");
 ChEye(6,1);
 ChMouth(6,0);
@@ -18,7 +18,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B040606400_06_020");
-MsgDisp("Himuro","For starters, unlike you, I'm not a glutton.
+MsgDisp("Himuro","For starters, unlike you, I'm not a
+glutton.
 Food stalls won't—");
 ChEye(6,3);
 ChMouth(6,0);

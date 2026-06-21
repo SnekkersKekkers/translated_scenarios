@@ -54,9 +54,9 @@ Stealing is taboo, you know?");
 ChEye(35,1);
 ChMouth(35,1);
 VoicePlay("B110600002_35_050");
-MsgDisp("Guy","It's been years since I stepped away from the
-spotlight... For me to make an offer like
-this, it's super rare!");
+MsgDisp("Guy","It's been years since I stepped away from
+the spotlight... For me to make an offer
+like this, it's super rare!");
 MsgDispSksp(1,5);
 ChEye(6,1);
 ChMouth(6,0);
@@ -77,7 +77,8 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("B110600002_06_030");
-MsgDisp("Himuro","...Ha? Why would I be in a rebellious phase?");
+MsgDisp("Himuro","...Ha?
+Why would I be in a rebellious phase?");
 MsgDispSksp(0);
 ChEye(35,2);
 ChMouth(35,1);

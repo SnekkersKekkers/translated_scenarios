@@ -11,7 +11,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360350401_03_000");
 MsgDisp("Honda","I wonder what would happen if Ryo-kun and
-Mi-kun found out that we came here together?");
+Mi-kun found out that we came here
+together?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -24,15 +25,15 @@ ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B360350401_03_020");
 MsgDisp("Honda","Yeah.
-Ryo-kun's intense look when he's upset can be
-pretty scary.");
+Ryo-kun's intense look when he's upset can
+be pretty scary.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B360350401_03_030");
 MsgDisp("Honda","But, you know, there's something almost
-addictive about it. I don't really mind when
-Ryo-kun gets mad at me.");
+addictive about it. I don't really mind
+when Ryo-kun gets mad at me.");
 MsgDisp("主人公","Oh? Why's that?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -45,16 +46,16 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B360350401_03_050");
-MsgDisp("Honda","Mi-kun never shows his emotions, but Ryo-kun
-does sometimes.
+MsgDisp("Honda","Mi-kun never shows his emotions, but
+Ryo-kun does sometimes.
 It's kind of intriguing, right?");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B360350401_03_060");
-MsgDisp("Honda","I wonder if I should secretly confess that we
-went to see the lights together.");
+MsgDisp("Honda","I wonder if I should secretly confess that
+we went to see the lights together.");
 MsgDisp("主人公","(Huh∋
 Does ｛Honda＊＊｝ see ｛Kazama＊＊｝ as an
 object of observation?)");

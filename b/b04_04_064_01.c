@@ -8,8 +8,9 @@ VoicePlay("B040406401_04_000");
 MsgDisp("Nanatsumori","I sure love festivals.");
 MsgDisp("主人公","Hm?");
 VoicePlay("B040406401_04_010");
-MsgDisp("Nanatsumori","Everyone has the same objective, they dress
-the same, and share the same experiences.");
+MsgDisp("Nanatsumori","Everyone has the same objective, they
+dress the same, and share the same
+experiences.");
 ChEye(4,4);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -22,8 +23,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B040406401_04_030");
 MsgDisp("Nanatsumori","But here, I can let my guard down.
-I don't really even care if someone clocks me
-as NANA.");
+I don't really even care if someone clocks
+me as NANA.");
 MsgDisp("主人公","Eh? Is that really okay?");
 ChMotion(4,1,1);
 VoicePlay("B040406401_04_040");

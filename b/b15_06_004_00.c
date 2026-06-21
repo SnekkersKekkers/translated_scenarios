@@ -26,16 +26,17 @@ ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,0);
 VoicePlay("B150600400_06_030");
-MsgDisp("Himuro","If that was you after studying and exercising
-self-restraint, then what would going all out
-be like?");
+MsgDisp("Himuro","If that was you after studying and
+exercising self-restraint, then what would
+going all out be like?");
 MsgDisp("主人公","All-out...");
 ChEye(6,1);
 ChMouth(6,1);
 ChMotion(6,1);
 VoicePlay("B150600400_06_040");
 MsgDisp("Himuro","You don't have to think about it.
-I can't keep up with this, so I'm going home.");
+I can't keep up with this, so I'm
+going home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(6);
 ChEyeOpenLevel(6,#1);

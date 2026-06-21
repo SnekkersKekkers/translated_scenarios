@@ -10,8 +10,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040504100_05_000");
     MsgDisp("Hiiragi","I'm glad.
-Unfortunately, I don't know enough to really
-critique it.");
+Unfortunately, I don't know enough to
+really critique it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

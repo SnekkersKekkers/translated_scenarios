@@ -37,8 +37,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B330B30500_03_010");
 MsgDisp("Honda","Mi-kun, was there a band you liked?
-It looked like you were pretty quiet during
-the show.");
+It looked like you were pretty quiet
+during the show.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);

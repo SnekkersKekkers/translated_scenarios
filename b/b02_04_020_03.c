@@ -14,7 +14,8 @@ ChMouth(4,3);
 ChMotion(4,3);
 VoicePlay("B020402003_04_010");
 MsgDisp("Nanatsumori","Yeah.
-I overlooked that genre before, but I like it
-when you wear it.");
+I overlooked that genre before, but I like
+it when you wear it.");
 MsgDisp("主人公","(Yay!
-It seems like I managed to pull it off well.)");
+It seems like I managed to pull it
+off well.)");

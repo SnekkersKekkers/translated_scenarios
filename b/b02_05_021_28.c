@@ -11,9 +11,9 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B020502128_05_010");
-MsgDisp("Hiiragi","It is easy to move in, and dries quickly even
-when you sweat in it. So if you were to wear
-it as practice clothes...");
+MsgDisp("Hiiragi","It is easy to move in, and dries quickly
+even when you sweat in it. So if you were
+to wear it as practice clothes...");
 MsgDisp("主人公","Practice clothes?");
 ChMouth(5,4);
 ChMotion(5,0);
@@ -23,5 +23,5 @@ MsgDisp("Hiiragi","It's nothing. Just being able to find fashion
 in something so casual and easy to move in...
 I find it impressive.");
 MsgDisp("主人公","(Oh, good.
-｛Hiiragi＊＊＊｝ seems to have come to like these
-clothes.)");
+｛Hiiragi＊＊＊｝ seems to have come to like
+these clothes.)");

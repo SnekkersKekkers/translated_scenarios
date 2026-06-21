@@ -16,8 +16,8 @@ ChMouth(4,4);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B050400300_04_000");
-MsgDisp("Nanatsumori","Man, this flea market's got such a wide range
-of stuff.
+MsgDisp("Nanatsumori","Man, this flea market's got such a wide
+range of stuff.
 Feels like I'm on an expedition.");
 MsgDisp("主人公","What does that mean?");
 ChEye(4,0);
@@ -99,9 +99,9 @@ StlEye(4,1);
 StlMouth(4,1);
 StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400300_04_120");
-MsgDisp("Nanatsumori","I'm guessing it's \"Don't tell me you're going
-to wear that∋
-You like to crossdress\".");
+MsgDisp("Nanatsumori","I'm guessing it's \"Don't tell me you're
+going to wear that∋ You like to
+crossdress\".");
 MsgDisp("主人公","Uh...");
 StlEyeOpenLevel(4,0,1);
 StlMouthOpenLevel(4,0);
@@ -170,7 +170,7 @@ ChMotion(4,1,1);
 VoicePlay("B050400300_04_220");
 MsgDisp("Nanatsumori","Yeah. I believe it, because it's you.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
-MsgDisp("主人公","(I wonder if he'll ever show me what he looks
-like crossdressing.
+MsgDisp("主人公","(I wonder if he'll ever show me what he
+looks like crossdressing.
 I kind of want to see it...)");
 ChPrmTblAdd(4,0);

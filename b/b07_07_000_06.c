@@ -24,16 +24,16 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700000_07_330");
-MsgDisp("Mikage","For me, high school was the one period that
-was different.");
+MsgDisp("Mikage","For me, high school was the one period
+that was different.");
 MsgDisp("主人公","High school?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B070700000_07_340");
 MsgDisp("Mikage","Yeah, since I was abroad the whole time.
-Well, that's probably why I'm making the most
-out of high school now.");
+Well, that's probably why I'm making the
+most out of high school now.");
 ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,5);
@@ -49,8 +49,9 @@ MsgDisp("Mikage","Alright, this mutually beneficial
 relationship is called \"symbiosis\".
 Remember that～, it'll be on the test～");
 MsgDisp("主人公","Hehe, it's like a biology lesson.");
-MsgDisp("主人公","(I feel like it's thanks to ｛Mikage＊＊｝
-that Haba High is super fun!)");
+MsgDisp("主人公","(I feel like it's thanks to
+｛Mikage＊＊｝ that Haba High is
+super fun!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

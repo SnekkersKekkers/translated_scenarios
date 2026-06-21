@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,3);
     VoicePlay("B040202100_02_010");
     MsgDisp("Sassa","I guess so.
-It's kind of hard to do it leisurely, though.");
+It's kind of hard to do it
+leisurely, though.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

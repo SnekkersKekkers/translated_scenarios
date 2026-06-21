@@ -7,8 +7,8 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040421302_04_000");
 MsgDisp("Nanatsumori","Amazing...
-This might be the first time I've been this
-popular with cats.");
+This might be the first time I've been
+this popular with cats.");
 MsgSel("They're really friendly, right?","You normally aren't popular, huh?","I might get jealous...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -31,8 +31,8 @@ neighbourhood were this friendly.");
     ChMotion(4,1,1);
     VoicePlay("B040421302_04_020");
     MsgDisp("Nanatsumori","The way you said that ....well, it's fine.
-The strays in my neighbourhood don't really
-let me touch them.");
+The strays in my neighbourhood don't
+really let me touch them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

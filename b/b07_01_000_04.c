@@ -13,8 +13,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100000_01_180");
-MsgDisp("Kazama","Really? These days I listen to my Grandpa's
-comedy shows and rakugo CDs.
+MsgDisp("Kazama","Really? These days I listen to my
+Grandpa's comedy shows and rakugo CDs.
 Not exactly music though.");
 MsgDisp("主人公","Ehhh, Rakugo huh?
 Come to think of it, I've never had the

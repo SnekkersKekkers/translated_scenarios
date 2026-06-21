@@ -85,8 +85,8 @@ This is lemongrass.");
 It's a herb with insect-repellent effects.
 My own specially mixed, original cocktail!");
         MsgDisp("主人公","Amazing!
-It has a nice smell, and mosquitoes won't go
-near it. ｛Honda＊＊｝, thank you.");
+It has a nice smell, and mosquitoes won't
+go near it. ｛Honda＊＊｝, thank you.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);

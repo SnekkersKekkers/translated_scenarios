@@ -32,8 +32,9 @@ MsgDisp("Hiiragi","Yeah, I wanted to see it with you.");
 ChMotion(5,1);
 ChEyeOpenLevel(5,0);
 VoicePlay("B360522101_05_040");
-MsgDisp("Hiiragi","If I had invited Inori-kun and Mikage-sensei
-as well, we would have made it on time──");
+MsgDisp("Hiiragi","If I had invited Inori-kun and
+Mikage-sensei as well, we would have made
+it on time──");
 ChEye(5,3);
 ChMouth(5,2);
 ChMotion(5,5);
@@ -57,8 +58,8 @@ SEPlay("EV_SE_544");
 ChOpen(5,255,4,3,4,#1,#1,0,0);
 VoicePlay("B360522101_05_080");
 MsgDisp("Hiiragi","What a strange coincidence.
-If we'd made it in time for the viewing, we'd
-never have noticed this.");
+If we'd made it in time for the viewing,
+we'd never have noticed this.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B360522101_05_090");

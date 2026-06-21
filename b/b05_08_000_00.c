@@ -52,13 +52,14 @@ MsgDisp("主人公","Wow, there's so many beautiful koi!");
 VoicePlay("B050800000_08_060");
 MsgDisp("Shirahane","Please give me your heart's blessing...");
 MsgDisp("主人公","(Heart's blessing?)");
-MsgDisp("主人公","Ah... Ah, that koi has a love heart marking!");
+MsgDisp("主人公","Ah...
+Ah, that koi has a love heart marking!");
 StlEye(8,1);
 StlMouth(8,1);
 VoicePlay("B050800000_08_070");
 MsgDisp("Shirahane","That's right!
-That koi isn't just any koi; it's the Cupid
-of this pond.");
+That koi isn't just any koi; it's the
+Cupid of this pond.");
 StlEye(8,1);
 StlMouth(8,1);
 StlEyeOpenLevel(8,5);

@@ -11,14 +11,15 @@ ChMouth(7,0);
 ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B330C20401_06_000");
-MsgDisp("Himuro","The Forest Park is so vast, yet this is the
-only spot with fireflies... how strange.");
+MsgDisp("Himuro","The Forest Park is so vast, yet this is
+the only spot with fireflies... how
+strange.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C20401_05_000");
-MsgDisp("Hiiragi","I heard it was because of the spring water,
-but is that not the case?");
+MsgDisp("Hiiragi","I heard it was because of the spring
+water, but is that not the case?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -38,8 +39,8 @@ ChEye(5,0);
 ChMouth(5,2);
 ChMotion(5,4);
 VoicePlay("B330C20401_05_010");
-MsgDisp("Hiiragi","I wonder if that has something to do with the
-fireflies?");
+MsgDisp("Hiiragi","I wonder if that has something to do with
+the fireflies?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -58,8 +59,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,1);
 VoicePlay("B330C20401_06_010");
-MsgDisp("Himuro","Kojiro-sensei, it's unfortunate but you hear
-the inner voice of the other person.
+MsgDisp("Himuro","Kojiro-sensei, it's unfortunate but you
+hear the inner voice of the other person.
 You can't hear it if you're alone.");
 ChEye(5,2);
 ChMouth(5,4);

@@ -5,7 +5,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040202200_02_000");
-MsgDisp("Sassa","The view from the boat is so exhilarating...");
+MsgDisp("Sassa","The view from the boat is so
+exhilarating...");
 MsgSel("The ocean is truly amazing...","I want to sail around the world like this.","Look, the seagulls are so cute▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,7 +28,8 @@ That's the only word I can think to use.");
     ChMotion(2,3);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040202200_02_020");
-    MsgDisp("Sassa","Sure. But I wonder how long that would take.");
+    MsgDisp("Sassa","Sure.
+But I wonder how long that would take.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

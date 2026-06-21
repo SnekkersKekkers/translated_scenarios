@@ -13,7 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,3);
     VoicePlay("B040724201_07_010");
-    MsgDisp("Mikage","Camping isn't fun if you leave it to others.
+    MsgDisp("Mikage","Camping isn't fun if you leave it
+to others.
 You have to do it together.");
     MsgDateResultDisp();
     break ;

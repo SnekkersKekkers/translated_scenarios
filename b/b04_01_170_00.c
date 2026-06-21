@@ -30,7 +30,8 @@ don't know most of these songs.");
     ChMotion(1,0);
     VoicePlay("B040117000_01_020");
     MsgDisp("Kazama","Understood.
-It'll be fine as long as I copy you, right?");
+It'll be fine as long as I copy
+you, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -41,7 +42,8 @@ It'll be fine as long as I copy you, right?");
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040117000_01_030");
-    MsgDisp("Kazama","The songstress of Haba High has arrived, huh?");
+    MsgDisp("Kazama","The songstress of Haba High has
+arrived, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

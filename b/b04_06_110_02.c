@@ -5,7 +5,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611002_06_000");
-MsgDisp("Himuro","I wonder what's so fun about a water slide.");
+MsgDisp("Himuro","I wonder what's so fun about a
+water slide.");
 MsgSel("Sliding down is exhilarating!","Let's find out together!","I don't know...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -87,7 +88,8 @@ How was it for you, ｛Himuro＊＊｝?");
         ChMotion(6,1);
         VoicePlay("B040611002_06_090");
         MsgDisp("Himuro","I'm going for a little swim.
-...My worldly desires are getting in the way.");
+...My worldly desires are getting in
+the way.");
         MsgClose();
         SEPlay("EV_SE_563");
         MsgClose();

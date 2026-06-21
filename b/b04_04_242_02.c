@@ -101,7 +101,8 @@ Alright, open up....");
         VoicePlay("B040424202_04_140");
         MsgDisp("Nanatsumori","...What was I saying?");
         MsgDisp("主人公","S-Sorry.
-I couldn't really catch what you were saying?");
+I couldn't really catch what you
+were saying?");
         ChEye(4,4);
         ChMouth(4,0);
         ChMotion(4,2,1);

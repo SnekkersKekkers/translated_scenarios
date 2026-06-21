@@ -29,7 +29,8 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,9);
 VoicePlay("B040206402_02_030");
-MsgDisp("Sassa","Well I still have a long way to go. ...But—");
+MsgDisp("Sassa","Well I still have a long way to go.
+...But—");
 SEPlay("EV_SE_534",0,1);
 Wait(60,1);
 ChEye(2,0);
@@ -42,8 +43,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B040206402_02_050");
-MsgDisp("Sassa","Alright, out of respect for that guy, let's
-go buy some toppings!");
+MsgDisp("Sassa","Alright, out of respect for that guy,
+let's go buy some toppings!");
 MsgDisp("主人公","(｛Sassa＊＊｝, weren't you about to say
 something?)");
 MsgClose();

@@ -6,7 +6,8 @@ MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(33,254,0,0,0,#1,#1,0,0);
 VoicePlay("B110800000_33_000");
-MsgDisp("Guy","I'll teach you about this world's true form.");
+MsgDisp("Guy","I'll teach you about this world's
+true form.");
 MsgDisp("主人公","Eh? I'm here meeting with someone...");
 ChEye(33,1);
 ChMouth(33,0);
@@ -20,8 +21,8 @@ ChMouth(33,0);
 ChEyeOpenLevel(33,0);
 VoicePlay("B110800000_33_020");
 MsgDisp("Guy","You're confused huh.
-Are you going to choose your friend or follow
-your curiosity...?");
+Are you going to choose your friend or
+follow your curiosity...?");
 VoicePlay("B110800000_08_000");
 MsgDisp("Shirahane?","We're not friends.");
 ChEye(33,0);
@@ -58,8 +59,8 @@ ChEye(8,1);
 ChMouth(8,1);
 ChMotion(8,1,1);
 VoicePlay("B110800000_08_030");
-MsgDisp("Shirahane","Sure, I'm the tagalong, but you're the real
-eyesore here.
+MsgDisp("Shirahane","Sure, I'm the tagalong, but you're the
+real eyesore here.
 Pain, pain, fly away!");
 MsgDispSksp(0);
 ChEye(33,1);

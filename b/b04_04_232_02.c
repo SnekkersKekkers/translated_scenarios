@@ -6,9 +6,9 @@ ChNanaType(#1);
 ChOpen(4,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040423202_04_000");
-MsgDisp("Nanatsumori","Come to think of it...did you know the legend
-that kissing at the top of the ferris wheel
-makes your love come true?");
+MsgDisp("Nanatsumori","Come to think of it...did you know the
+legend that kissing at the top of the
+ferris wheel makes your love come true?");
 MsgSel("Wow, what a lovely superstition!","...Do you want to try it?","K-K-kiss∋");
 switch (MsgSelRsltGet()){
     case 0:
@@ -47,7 +47,8 @@ their love fulfilled with that.");
         VoicePlay("B040423202_04_030");
         MsgDisp("Nanatsumori","Yes?");
         MsgDisp("主人公","Ummm...
-I was wondering if the superstition is real.");
+I was wondering if the superstition
+is real.");
         ChEye(4,0);
         ChMouth(4,4);
         ChMotion(4,0,1);
@@ -91,8 +92,9 @@ the most harmful thing.");
         ChEye(4,0);
         ChMouth(4,0);
         VoicePlay("B040423202_04_110");
-        MsgDisp("Nanatsumori","So... before you go making someone flustered
-like that, take a proper look at them first.");
+        MsgDisp("Nanatsumori","So... before you go making someone
+flustered like that, take a proper look at
+them first.");
         ChMotion(4,1,1);
         VoicePlay("B040423202_04_120");
         MsgDisp("Nanatsumori","I can still stay calm.

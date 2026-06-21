@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040222102_02_010");
-    MsgDisp("Sassa","That kind of love you have for your hometown,
-I always think it's great.");
+    MsgDisp("Sassa","That kind of love you have for your
+hometown, I always think it's great.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -27,7 +27,8 @@ I always think it's great.");
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040222102_02_020");
-    MsgDisp("Sassa","Huh? Did I press some sort of weird switch?");
+    MsgDisp("Sassa","Huh?
+Did I press some sort of weird switch?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -66,18 +67,18 @@ went to the same places.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040222102_02_060");
-        MsgDisp("Sassa","Today will be the last time we visit Habataki
-castle. We'll go somewhere new next time,
-then somewhere new again.");
-        MsgDisp("主人公","But, even in one place, the scenery changes
-depending on season and time.");
+        MsgDisp("Sassa","Today will be the last time we visit
+Habataki castle. We'll go somewhere new
+next time, then somewhere new again.");
+        MsgDisp("主人公","But, even in one place, the scenery
+changes depending on season and time.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040222102_02_070");
         MsgDisp("Sassa","I see...
-Then factoring in the seasons, let's work out
-a \"yearly date rotation\" together.");
+Then factoring in the seasons, let's work
+out a \"yearly date rotation\" together.");
         ChEye(2,0);
         ChMouth(2,2);
         ChMotion(2,0);
@@ -85,8 +86,8 @@ a \"yearly date rotation\" together.");
         MsgDisp("Sassa","A combination and order that fulfils both
 efficiency and satisfaction...");
         MsgDisp("主人公","(Ummm...
-｛Sassa＊＊｝, this is beginning to look like a
-training programme.)");
+｛Sassa＊＊｝, this is beginning to look
+like a training programme.)");
         break ;
         default :
         DbgAssert(1);

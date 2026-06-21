@@ -69,8 +69,8 @@ Your eyes are kinda scary!");
         ChMotion(4,2);
         ChEyeOpenLevel(4,7);
         VoicePlay("B040406202_04_060");
-        MsgDisp("Nanatsumori","All day in the best spot with the person you
-like, just the two of you.
+        MsgDisp("Nanatsumori","All day in the best spot with the person
+you like, just the two of you.
 Man, how good must that feel.");
         MsgDisp("主人公","That's right.
 The person I like...");

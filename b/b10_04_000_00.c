@@ -15,8 +15,8 @@ MsgDisp("Nanatsumori","Hey, don't be so distant with me.");
 MsgDisp("主人公","Eh...?");
 VoicePlay("B100400000_04_020");
 MsgDisp("Nanatsumori","Sorry for just now.
-I started getting irritated on my own, and I
-said some nasty things to you.");
+I started getting irritated on my own, and
+I said some nasty things to you.");
 VoicePlay("B100400000_04_030");
 MsgDisp("Nanatsumori","I really was an idiot.
 Sorry.");
@@ -32,6 +32,7 @@ Then, goodnight.");
 MsgDisp("主人公","Yeah, goodnight.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Nanatsumori＊｝...called to check up on me.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝...called to check up
+on me.)");
 MsgClose();
 ScrFadeOut(0,0);

@@ -20,8 +20,8 @@ MsgDisp("Himuro","I also went a bit too far.
 Let's put today behind us.");
 MsgDisp("主人公","Y-Yeah.");
 VoicePlay("B100600000_06_030");
-MsgDisp("Himuro","Then, let's not say things like that to each
-other anymore.
+MsgDisp("Himuro","Then, let's not say things like that to
+each other anymore.
 That's all I had to say. ...Goodnight.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();

@@ -61,8 +61,8 @@ You're having fun, right?");
         ChMotion(4,1,1);
         VoicePlay("B040410102_04_060");
         MsgDisp("Nanatsumori","...Alright!
-Then, how about you be my teacher and show me
-how to enjoy this?");
+Then, how about you be my teacher and show
+me how to enjoy this?");
         MsgDisp("主人公","Eh?");
         ChEye(4,0);
         ChMouth(4,4);

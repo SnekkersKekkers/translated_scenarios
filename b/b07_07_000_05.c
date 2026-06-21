@@ -20,8 +20,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);
 VoicePlay("B070700000_07_250");
-MsgDisp("Mikage","Even after all that effort explaining, people
-just go \"Ehhh?\"
+MsgDisp("Mikage","Even after all that effort explaining,
+people just go \"Ehhh?\"
 So then I came across the term DIY.");
 ChEye(7,0);
 ChMouth(7,0);
@@ -37,8 +37,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B070700000_07_270");
-MsgDisp("Mikage","Yeah, the first thing I made was probably a
-dog house in middle school?");
+MsgDisp("Mikage","Yeah, the first thing I made was probably
+a dog house in middle school?");
 MsgDisp("主人公","You made a dog house?
 That's so cute.");
 ChEye(7,0);
@@ -54,8 +54,9 @@ ChMouth(7,0);
 ChMotion(7,1);
 ChEyeOpenLevel(7,8);
 VoicePlay("B070700000_07_290");
-MsgDisp("Mikage","That's probably why I get so excited during
-the cultural festival preparation period.");
+MsgDisp("Mikage","That's probably why I get so excited
+during the cultural festival
+preparation period.");
 MsgDisp("主人公","(It seems more like carpentry than DIY...)");
 BGMStop();
 MsgClose();

@@ -27,9 +27,9 @@ MsgDisp("主人公","...Yeah.");
 ChEye(5,4);
 ChMotion(5,2);
 VoicePlay("B150500400_05_040");
-MsgDisp("Hiiragi","But you know, having first stepped onto the
-stage at two, I have more experience as an
-actor than I do as a man.");
+MsgDisp("Hiiragi","But you know, having first stepped onto
+the stage at two, I have more experience
+as an actor than I do as a man.");
 ChEyeOpenLevel(5,0);
 VoicePlay("B150500400_05_050");
 MsgDisp("Hiiragi","Two year-olds aren't aware of being a man.

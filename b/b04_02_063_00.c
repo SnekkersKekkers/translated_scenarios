@@ -5,8 +5,8 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040206300_02_000");
-MsgDisp("Sassa","During this time of year, there aren't many
-people out.");
+MsgDisp("Sassa","During this time of year, there aren't
+many people out.");
 MsgSel("We have the winter sea all to ourselves!","The winter sea feels so sad...","The winter ocean is full of yummy food♪");
 switch (MsgSelRsltGet()){
     case 0:

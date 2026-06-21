@@ -3,7 +3,8 @@ ChLayout(1);
 ChOpen(6,253,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B040608102_06_000");
-MsgDisp("Himuro","To think I would go cherry blossom viewing...");
+MsgDisp("Himuro","To think I would go cherry blossom
+viewing...");
 MsgSel("Are you having fun?","It's fun once in a while","It's not like you, huh.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -12,7 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040608102_06_010");
-    MsgDisp("Himuro","Not sure how I feel about that assumption...
+    MsgDisp("Himuro","Not sure how I feel about that
+assumption...
 Well, it's not bad.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
@@ -26,9 +28,9 @@ Well, it's not bad.");
     ChMouth(6,4);
     ChMotion(6,0);
     VoicePlay("B040608102_06_020");
-    MsgDisp("Himuro","Well, if it's once in a while, I don't want
-to do frivolous things, but it's a nice
-change of pace.");
+    MsgDisp("Himuro","Well, if it's once in a while, I don't
+want to do frivolous things, but it's a
+nice change of pace.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -57,7 +59,8 @@ change of pace.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608102_06_040");
-        MsgDisp("Himuro","Then let me ask you this: what is \"like\" me?");
+        MsgDisp("Himuro","Then let me ask you this: what is
+\"like\" me?");
         MsgDisp("主人公","Eh?");
         ChEye(6,0);
         ChMouth(6,0);
@@ -92,9 +95,10 @@ studying or being an honour student...");
         ChEyeOpenLevel(6,0);
         ChCheek(6,0);
         VoicePlay("B040608102_06_090");
-        MsgDisp("Himuro","Perhaps it's just me who's caught up with the
-Himuro surname...");
-        MsgDisp("主人公","(｛Himuro＊＊｝ also has a lot of worries huh...)");
+        MsgDisp("Himuro","Perhaps it's just me who's caught up with
+the Himuro surname...");
+        MsgDisp("主人公","(｛Himuro＊＊｝ also has a lot of
+worries huh...)");
         break ;
         default :
         DbgAssert(1);

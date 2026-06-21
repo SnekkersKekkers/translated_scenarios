@@ -30,15 +30,15 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B360302301_03_030");
-MsgDisp("Honda","I'm just kidding, but it's true I don't want
-to go home yet.");
+MsgDisp("Honda","I'm just kidding, but it's true I don't
+want to go home yet.");
 ChEye(3,1);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360302301_03_040");
 MsgDisp("Honda","There were four of us earlier, after all.
-Do the math and I only got to talk to you a
-third as much as usual.");
+Do the math and I only got to talk to you
+a third as much as usual.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
@@ -71,8 +71,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B360302301_03_090");
 MsgDisp("Honda","Haha... You're right.
-If I got sick and couldn't see you, it would
-be even worse.");
+If I got sick and couldn't see you, it
+would be even worse.");
 MsgDisp("主人公","(｛Honda＊＊｝...)");
 BGMStop();
 MsgClose();

@@ -38,9 +38,9 @@ built. The motif is a bellflower.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040322201_03_030");
-    MsgDisp("Honda","Haha, there's the view from the castle tower,
-and the stone walls, but the last one is a
-secret. ...Shall I buy it?");
+    MsgDisp("Honda","Haha, there's the view from the castle
+tower, and the stone walls, but the last
+one is a secret. ...Shall I buy it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

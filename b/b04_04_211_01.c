@@ -42,8 +42,8 @@ for reference in my work.");
     ChMotion(4,0,1);
     VoicePlay("B040421101_04_030");
     MsgDisp("Nanatsumori","Haha.
-Then let's take a good look at all of them,
-one by one.");
+Then let's take a good look at all of
+them, one by one.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

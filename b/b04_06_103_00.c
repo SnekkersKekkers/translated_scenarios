@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,4);
     VoicePlay("B040610300_06_010");
-    MsgDisp("Himuro","Art is difficult to understand, but it would
-be better for you to pay more attention to
-how you say these things.");
+    MsgDisp("Himuro","Art is difficult to understand, but it
+would be better for you to pay more
+attention to how you say these things.");
     MsgDateResultDisp();
     break ;
     case 1:

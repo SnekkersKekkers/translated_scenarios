@@ -68,8 +68,8 @@ StlEye(8,1);
 StlMouth(8,2);
 VoicePlay("B050800200_08_090");
 MsgDisp("Shirahane","These are autumn fireflies.
-They hang on strongly until the last minute
-and survive. With all they've got.");
+They hang on strongly until the last
+minute and survive. With all they've got.");
 MsgDisp("主人公","Hehe. Like ｛Daichi＊＊｝?");
 StlEye(8,3);
 StlMouth(8,0);
@@ -90,8 +90,8 @@ StlEye(8,1);
 StlMouth(8,1);
 StlEyeOpenLevel(8,5);
 VoicePlay("B050800200_08_130");
-MsgDisp("Shirahane","Right now, I'm definitely giving it all that
-I've got.
+MsgDisp("Shirahane","Right now, I'm definitely giving it all
+that I've got.
 In order to be here with you.");
 StlEye(8,2);
 StlMouth(8,2);

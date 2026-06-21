@@ -14,8 +14,8 @@ VoicePlay("B090C00000_07_000");
 MsgDisp("Mikage","Oi, if you're sleeping, wake up～");
 VoicePlay("B090C00000_05_010");
 MsgDisp("Hiiragi","Ummm...
-If you've received this message, please get
-in touch. We'll be waiting.");
+If you've received this message, please
+get in touch. We'll be waiting.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","As I thought, I got the meeting place

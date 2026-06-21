@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B040330001_03_010");
-    MsgDisp("Honda","Yep yep, if you're interested, take anything
-you like.");
+    MsgDisp("Honda","Yep yep, if you're interested, take
+anything you like.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

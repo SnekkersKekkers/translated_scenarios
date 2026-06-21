@@ -61,7 +61,8 @@ Then, let me be clearer.");
         ChOpen(5,255,0,4,4,#1,#1,0,0);
         VoicePlay("B040503302_05_060");
         MsgDisp("Hiiragi","Phew...
-I should have just said that from the start.");
+I should have just said that from
+the start.");
         ChMotion(5,2);
         VoicePlay("B040503302_05_070");
         MsgDisp("Hiiragi","I wonder why that is.
@@ -70,8 +71,8 @@ When I'm in front of you, I'm so indirect.");
 I'm sorry for misunderstanding so often.");
         ChMotion(5,4);
         VoicePlay("B040503302_05_080");
-        MsgDisp("Hiiragi","I'll be more straightforward in conveying it
-to you. At any rate, I can't conceal my
+        MsgDisp("Hiiragi","I'll be more straightforward in conveying
+it to you. At any rate, I can't conceal my
 affections towards you.");
         ChEye(5,2);
         VoicePlay("B040503302_05_090");
@@ -82,8 +83,8 @@ of you.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040503302_05_100");
-        MsgDisp("Hiiragi","Then, shall we keep holding hands like this
-while we walk around?");
+        MsgDisp("Hiiragi","Then, shall we keep holding hands like
+this while we walk around?");
         MsgDisp("主人公","(Affections towards me...
 I might've unintentionally heard
 something huge.)");

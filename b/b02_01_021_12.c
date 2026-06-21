@@ -5,7 +5,8 @@ VoicePlay("B020102112_01_000");
 MsgDisp("Kazama","Somehow...
 It feels like I'm looking at a fashion
 magazine.");
-MsgDisp("主人公","I wondered if these clothes were too much...
+MsgDisp("主人公","I wondered if these clothes were
+too much...
 Do you think it doesn't suit me?");
 ChEye(1,0);
 ChMouth(1,3);

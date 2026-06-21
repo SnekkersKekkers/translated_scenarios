@@ -39,8 +39,8 @@ ya know?");
     ChMotion(8,3,1);
     ChCheek(8,3);
     VoicePlay("B040822200_08_030");
-    MsgDisp("Shirahane","That's right! Since I can't actually have an
-extracurricular lesson with you.
+    MsgDisp("Shirahane","That's right! Since I can't actually have
+an extracurricular lesson with you.
 Today is a simulation▼");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

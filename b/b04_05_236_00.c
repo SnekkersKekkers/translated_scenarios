@@ -32,8 +32,8 @@ It's beautiful.");
     ChEye(5,0);
     ChMotion(5,4);
     VoicePlay("B040523600_05_020");
-    MsgDisp("Hiiragi","Loud sounds are also necessary to forcefully
-draw you into the world.");
+    MsgDisp("Hiiragi","Loud sounds are also necessary to
+forcefully draw you into the world.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

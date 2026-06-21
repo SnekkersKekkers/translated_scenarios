@@ -59,15 +59,15 @@ new things.");
         ChMotion(3,2);
         ChEyeOpenLevel(3,0);
         VoicePlay("B040308202_03_050");
-        MsgDisp("Honda","That's also what it was like with my sister
-when she was younger...");
+        MsgDisp("Honda","That's also what it was like with my
+sister when she was younger...");
         MsgDisp("主人公","Your sister?");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040308202_03_060");
-        MsgDisp("Honda","Right right, she started asking all sorts of
-questions when I taught her, and new
+        MsgDisp("Honda","Right right, she started asking all sorts
+of questions when I taught her, and new
 questions started popping up for me too.");
         ChEye(3,4);
         ChMouth(3,4);

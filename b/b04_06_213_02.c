@@ -28,7 +28,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040621302_06_020");
     MsgDisp("Himuro","I was just curious, that's all.
-It made me wonder how intelligent they are.");
+It made me wonder how intelligent
+they are.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -89,8 +90,8 @@ an animal.");
         ChMotion(6,4);
         ChCheek(6,10);
         VoicePlay("B040621302_06_090");
-        MsgDisp("Himuro","If I were a cat or dog I wouldn't want to see
-you on a date here with someone else.");
+        MsgDisp("Himuro","If I were a cat or dog I wouldn't want to
+see you on a date here with someone else.");
         MsgDisp("主人公","Huh?");
         ChEye(6,0);
         ChMouth(6,0);

@@ -51,8 +51,8 @@ I think it's cool though.");
 you're cool.");
         ChMouth(4,4);
         VoicePlay("B040414002_04_050");
-        MsgDisp("Nanatsumori","Well, I'm trying to do something similar in
-terms of outfits.");
+        MsgDisp("Nanatsumori","Well, I'm trying to do something similar
+in terms of outfits.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,2,1);
@@ -64,7 +64,8 @@ terms of outfits.");
         ChMotion(4,0,1);
         VoicePlay("B040414002_04_070");
         MsgDisp("Nanatsumori","...Pfft! Even you're considering it.");
-        MsgDisp("主人公","It's making me imagine all sorts of things.");
+        MsgDisp("主人公","It's making me imagine all sorts
+of things.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -79,7 +80,8 @@ amateur band?");
         MsgDisp("Nanatsumori","You can do the vocals.
 I'll...pretend to play some instruments.");
         MsgDisp("主人公","That's unfair!
-Then, I'll also, pretend to do some vocals...");
+Then, I'll also, pretend to do some
+vocals...");
         ChEye(4,0);
         ChMouth(4,0);
         ChMouthOpenLevel(4,0);
@@ -90,7 +92,8 @@ Then, I'll also, pretend to do some vocals...");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040414002_04_110");
-        MsgDisp("Nanatsumori","In the end, we're better off as the audience.");
+        MsgDisp("Nanatsumori","In the end, we're better off as the
+audience.");
         MsgDisp("主人公","Right?");
         break ;
         default :

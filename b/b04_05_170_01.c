@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(5,2);
     ChMotion(5,0);
     VoicePlay("B040517001_05_010");
-    MsgDisp("Hiiragi","Ehh, even though we had such a good time...?");
+    MsgDisp("Hiiragi","Ehh, even though we had such a good
+time...?");
     MsgDateResultDisp();
     break ;
     case 1:

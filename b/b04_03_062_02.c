@@ -28,9 +28,9 @@ I'm glad you're here with me!");
     ChMouth(3,5);
     ChMotion(3,5);
     VoicePlay("B040306202_03_020");
-    MsgDisp("Honda","Woah! If that glow can hold its own against
-all this blue... we might be onto a major
-discovery!");
+    MsgDisp("Honda","Woah! If that glow can hold its own
+against all this blue... we might be onto
+a major discovery!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +46,9 @@ discovery!");
         ChMouth(3,0);
         ChMotion(3,2);
         VoicePlay("B040306202_03_030");
-        MsgDisp("Honda","I can already see the news headline: \"Two
-reckless youths found on Hanegasaki Coast.\"");
+        MsgDisp("Honda","I can already see the news headline:
+\"Two reckless youths found on
+Hanegasaki Coast.\"");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,35 +60,36 @@ reckless youths found on Hanegasaki Coast.\"");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040306202_03_040");
         MsgDisp("Honda","Ah, sorry sorry! I got too carried away.
-Making decisions on your own is dangerous, so
-I shouldn't have suggested that.");
+Making decisions on your own is dangerous,
+so I shouldn't have suggested that.");
         MsgDisp("主人公","I see.
-I was feeling safe because you were with me
-｛Honda＊＊｝.");
+I was feeling safe because you were with
+me ｛Honda＊＊｝.");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4);
         ChEyeOpenLevel(3,10);
         VoicePlay("B040306202_03_050");
         MsgDisp("Honda","That makes me happy but...
-I need to be more careful so I don't put you
-in danger.");
+I need to be more careful so I don't put
+you in danger.");
         ChEye(3,4);
         ChMouth(3,4);
         ChMotion(3,3);
         VoicePlay("B040306202_03_060");
-        MsgDisp("Honda","But you know, I have this tendency to charge
-ahead recklessly when I get excited.");
+        MsgDisp("Honda","But you know, I have this tendency to
+charge ahead recklessly when I get
+excited.");
         MsgDisp("主人公","Hehe.
-It's one of the things that makes you amazing
-｛Honda＊＊｝.");
+It's one of the things that makes you
+amazing ｛Honda＊＊｝.");
         ChEye(3,0);
         ChMouth(3,4);
         ChMotion(3,1);
         VoicePlay("B040306202_03_070");
         MsgDisp("Honda","What? Don't tease me.
-I want you to think I'm amazing, but I don't
-want to put you in danger.");
+I want you to think I'm amazing, but I
+don't want to put you in danger.");
         ChEye(3,1);
         ChMouth(3,1);
         ChMotion(3,5);
@@ -99,8 +101,8 @@ Curiosity killed the cat!");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040306202_03_090");
-        MsgDisp("Honda","It'd be one thing if it were just me, but I
-don't want anything to happen to you.
+        MsgDisp("Honda","It'd be one thing if it were just me, but
+I don't want anything to happen to you.
 I'll keep that in mind.");
         MsgDisp("主人公","(｛Honda＊＊｝...thank you.)");
         break ;

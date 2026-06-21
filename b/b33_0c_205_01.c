@@ -113,7 +113,8 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B330C20501_07_040");
-MsgDisp("Mikage","Let's settle it with one last bowling match.
+MsgDisp("Mikage","Let's settle it with one last
+bowling match.
 I'm not gonna lose this time.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -122,8 +123,8 @@ ChMouth(6,3);
 ChMotion(6,5);
 VoicePlay("B330C20501_06_040");
 MsgDisp("Himuro","Pfft...sounds good.
-Not going easy on each other, and keep going
-until we win. Bring it on.");
+Not going easy on each other, and keep
+going until we win. Bring it on.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);

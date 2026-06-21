@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B030523001_05_000");
-MsgDisp("Hiiragi","I get excited just looking at the amusement
-park map.
+MsgDisp("Hiiragi","I get excited just looking at the
+amusement park map.
 So, have you decided?");
 MsgSel("The Roller Coaster sounds fun!","Let's ride the Ferris Wheel.","I want to try Bungee Jumping!","I want to ride the Tea Cups.","Let's go to the Haunted House.");
 switch (MsgSelRsltGet()){
@@ -54,8 +54,8 @@ Let's enjoy the view.");
     ScrFadeIn(0);
     ChMotion(5,4);
     VoicePlay("B030523001_05_040");
-    MsgDisp("Hiiragi","The scenery is beautiful, until you happen to
-look down...
+    MsgDisp("Hiiragi","The scenery is beautiful, until you happen
+to look down...
 That's the charm of the Ferris wheel.");
     break ;
     case 2:

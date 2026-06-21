@@ -19,6 +19,7 @@ MsgDisp("Kazama","...We'll be waiting.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Oh no!
-I was supposed to go out with everyone today!");
+I was supposed to go out with
+everyone today!");
 MsgClose();
 ScrFadeOut(0,0);

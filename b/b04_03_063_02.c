@@ -5,8 +5,8 @@ ChMotion(3,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040306302_03_000");
-MsgDisp("Honda","I know it's dangerous, but I want to walk on
-the water's edge～");
+MsgDisp("Honda","I know it's dangerous, but I want to walk
+on the water's edge～");
 MsgSel("｛Honda＊＊｝, do your best!","Let's see who dares to get closer!","Hey, if you get wet, you'll catch a cold▼");
 switch (MsgSelRsltGet()){
     case 0:
@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306302_03_020");
     MsgDisp("Honda","As I thought, you're the best!
-You're the only girl who I could do this kind
-of thing with! ...It's cold!");
+You're the only girl who I could do this
+kind of thing with! ...It's cold!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

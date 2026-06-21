@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040506300_05_010");
     MsgDisp("Hiiragi","Couldn't you hear me over the waves?
-\"Doesn't the winter sea remind you of a stern
-father?\"");
+\"Doesn't the winter sea remind you of a
+stern father?\"");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

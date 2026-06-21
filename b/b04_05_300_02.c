@@ -47,8 +47,8 @@ I do it myself.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040530002_05_030");
-        MsgDisp("Hiiragi","No no. It would be a waste for someone to do
-the cleaning.");
+        MsgDisp("Hiiragi","No no. It would be a waste for someone to
+do the cleaning.");
         MsgDisp("主人公","A waste?");
         ChEye(5,4);
         VoicePlay("B040530002_05_040");
@@ -67,15 +67,15 @@ the cleaning.");
         ChMotion(5,4);
         VoicePlay("B040530002_05_070");
         MsgDisp("Hiiragi","Yes, that's it.
-I like tidying up, especially when things are
-really messy.");
+I like tidying up, especially when things
+are really messy.");
         MsgDisp("主人公","Hehe, that's right.");
         ChEye(5,2);
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040530002_05_080");
-        MsgDisp("Hiiragi","Yes, because reality is full of problems you
-can't just tidy away...");
+        MsgDisp("Hiiragi","Yes, because reality is full of problems
+you can't just tidy away...");
         ChEye(5,3);
         ChMotion(5,0);
         VoicePlay("B040530002_05_090");
@@ -87,8 +87,8 @@ theatre troupe?");
         ChMotion(5,4);
         VoicePlay("B040530002_05_100");
         MsgDisp("Hiiragi","Partly, but there's also something else
-lately, a special presence I have no idea how
-to handle.");
+lately, a special presence I have no idea
+how to handle.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040530002_05_110");
@@ -121,9 +121,9 @@ What is he planning to do with me...?)");
     ChMouth(5,4);
     ChMotion(5,0,1);
     VoicePlay("B040530002_05_140");
-    MsgDisp("Hiiragi","Yes, there are all sorts of cleaning supplies
-here. But since I'm not usually here, the
-room doesn't get dirty.");
+    MsgDisp("Hiiragi","Yes, there are all sorts of cleaning
+supplies here. But since I'm not usually
+here, the room doesn't get dirty.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

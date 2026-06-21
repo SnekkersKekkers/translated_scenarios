@@ -1,5 +1,5 @@
-MsgDisp("主人公","We've been hanging out with ｛Kazama＊＊｝ and
-｛Himuro＊＊｝ a lot lately.");
+MsgDisp("主人公","We've been hanging out with ｛Kazama＊＊｝
+and ｛Himuro＊＊｝ a lot lately.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4,1);
@@ -9,8 +9,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,3);
 VoicePlay("B070200001_02_350");
-MsgDisp("Sassa","If there was a 4-person competition I think
-we could go very far.");
+MsgDisp("Sassa","If there was a 4-person competition I
+think we could go very far.");
 MsgDisp("主人公","Yeah, maybe.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -23,7 +23,8 @@ ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B070200001_02_370");
 MsgDisp("Sassa","...Nope, I can only think of relays.
-There aren't many team sports with 4 people.");
+There aren't many team sports with
+4 people.");
 MsgDisp("主人公","Hehe.
 If we did a relay, ｛Sassa＊＊｝ would be
 the anchor.");
@@ -44,8 +45,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B070200001_02_400");
-MsgDisp("Sassa","You can bring us together, but you can also
-tear us apart.");
+MsgDisp("Sassa","You can bring us together, but you can
+also tear us apart.");
 MsgDisp("主人公","(Eh, I wonder what he means by tear us
 apart...)");
 BGMStop();

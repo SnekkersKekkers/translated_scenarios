@@ -29,7 +29,8 @@ ChEye(7,1);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750100_07_020");
-MsgDisp("Mikage","It's not unfair, club activities are fun too!
+MsgDisp("Mikage","It's not unfair, club activities are
+fun too!
 Do your best everyone～");
 ChEye(7,0);
 ChMouth(7,0);

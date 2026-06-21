@@ -14,8 +14,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_120");
-MsgDisp("Kazama","Being good at something and liking it are two
-different things.");
+MsgDisp("Kazama","Being good at something and liking it are
+two different things.");
 MsgDisp("主人公","Is that how it is?");
 ChEye(1,4);
 ChMouth(1,2);

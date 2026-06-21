@@ -6,8 +6,8 @@ ChMouth(2,0);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040205101_02_000");
-MsgDisp("Sassa","The vibe here is quite similar to that other
-place, right?");
+MsgDisp("Sassa","The vibe here is quite similar to that
+other place, right?");
 MsgSel("The Cinema?","The Aquarium's Deep Sea Corner!","The Haunted House?");
 switch (MsgSelRsltGet()){
     case 0:

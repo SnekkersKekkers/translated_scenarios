@@ -18,6 +18,7 @@ ChMouth(2,4);
 ChMotion(2,4);
 ChEyeOpenLevel(2,0);
 VoicePlay("B020202125_02_020");
-MsgDisp("Sassa","Maybe it's because it's you who's wearing it.");
+MsgDisp("Sassa","Maybe it's because it's you who's
+wearing it.");
 MsgDisp("主人公","(I'm glad.
 These clothes seem okay too.)");

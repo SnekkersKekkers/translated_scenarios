@@ -45,8 +45,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B140600000_06_050");
-MsgDisp("Himuro","The lights are nice, but what I really enjoy
-is seeing you watching and enjoying them.");
+MsgDisp("Himuro","The lights are nice, but what I really
+enjoy is seeing you watching and
+enjoying them.");
 MsgDisp("主人公","Umm...thank you.");
 ChEye(6,0);
 ChMouth(6,4);

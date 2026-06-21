@@ -12,5 +12,6 @@ ChMotion(8,0);
 VoicePlay("B020800001_08_010");
 MsgDisp("Shirahane","What you're wearin' today.
 Ya look just like a doll. Wow...");
-MsgDisp("主人公","(｛Daichi＊＊｝ seems to like these clothes.
+MsgDisp("主人公","(｛Daichi＊＊｝ seems to like these
+clothes.
 I'm glad!)");

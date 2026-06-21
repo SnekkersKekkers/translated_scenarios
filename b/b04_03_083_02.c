@@ -48,8 +48,8 @@ battle of serious appeal.");
         VoicePlay("B040308302_03_040");
         MsgDisp("Honda","I bet they're working out all kinds of
 strategies right about now.");
-        MsgDisp("主人公","If ｛Honda＊＊｝ were a firefly, he'd come up
-with some amazing strategies huh?");
+        MsgDisp("主人公","If ｛Honda＊＊｝ were a firefly, he'd come
+up with some amazing strategies huh?");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -65,10 +65,10 @@ front of you.");
         ChEyeOpenLevel(3,10);
         VoicePlay("B040308302_03_060");
         MsgDisp("Honda","Yep yep!
-Even if you were a firefly, I'm sure I'd find
-you right away!");
-        MsgDisp("主人公","(I'm sure I'd find ｛Honda＊＊｝ as a firefly
-right away too.)");
+Even if you were a firefly, I'm sure I'd
+find you right away!");
+        MsgDisp("主人公","(I'm sure I'd find ｛Honda＊＊｝ as a
+firefly right away too.)");
         break ;
         default :
         DbgAssert(1);

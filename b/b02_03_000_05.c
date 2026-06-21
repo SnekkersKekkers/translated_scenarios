@@ -14,4 +14,5 @@ VoicePlay("B020300005_03_010");
 MsgDisp("Honda","I also wore short sleeves and shorts all
 year round.
 But, of course, I don't do that anymore...");
-MsgDisp("主人公","(Ugh... I definitely dressed too lightly...)");
+MsgDisp("主人公","(Ugh...
+I definitely dressed too lightly...)");

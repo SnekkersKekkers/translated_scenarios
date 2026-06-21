@@ -11,8 +11,8 @@ ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_240");
-MsgDisp("Kazama","I do ocean fishing too, but my specialty is
-fly fishing.");
+MsgDisp("Kazama","I do ocean fishing too, but my specialty
+is fly fishing.");
 MsgDisp("主人公","Fly fishing?");
 ChEye(1,0);
 ChMouth(1,3);
@@ -22,8 +22,8 @@ MsgDisp("Kazama","Right.
 Fly fishing is a type of fishing where you
 use a fly to lure fish, like a flying insect.");
 VoicePlay("B070100000_01_260");
-MsgDisp("Kazama","It's a type of sports fishing originating in
-England.");
+MsgDisp("Kazama","It's a type of sports fishing originating
+in England.");
 MsgDisp("主人公","Seems kind of difficult...");
 ChEye(1,4);
 ChMouth(1,3);
@@ -44,9 +44,9 @@ ChMouth(1,3);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_290");
-MsgDisp("Kazama","Teasing you. You've become even more fun to
-tease than when we were kids... Thanks for
-growing up into such a great target.");
+MsgDisp("Kazama","Teasing you. You've become even more fun
+to tease than when we were kids... Thanks
+for growing up into such a great target.");
 MsgDisp("主人公","(......)");
 BGMStop();
 MsgClose();

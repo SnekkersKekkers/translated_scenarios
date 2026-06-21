@@ -17,7 +17,8 @@ MsgDisp("Nanatsumori","Yeah.
 But maybe it's just the right sound for me
 right now.");
 MsgDisp("主人公","Hehe.
-Are you tired from hanging out with everyone?");
+Are you tired from hanging out with
+everyone?");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -58,12 +59,14 @@ VoicePlay("B360450101_04_060");
 MsgDisp("Nanatsumori","You've got a lot of memories from your
 childhood engraved into it, right?
 I don't want to destroy those things either.");
-MsgDisp("主人公","｛Nanatsumori＊｝... You're kind.");
+MsgDisp("主人公","｛Nanatsumori＊｝...
+You're kind.");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B360450101_04_070");
-MsgDisp("Nanatsumori","Well. It more or less depends on the person.
+MsgDisp("Nanatsumori","Well.
+It more or less depends on the person.
 But to you, I'm the ultimate gentleman.");
 MsgDisp("主人公","Hehe!");
 BGMStop();

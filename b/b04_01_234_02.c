@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,8);
     VoicePlay("B040123402_01_010");
     MsgDisp("Kazama","What, what's with that?
-You're suddenly getting caught up with minor
-details.");
+You're suddenly getting caught up with
+minor details.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -81,15 +81,15 @@ parks themselves weren't that great.");
         ChMotion(1,0);
         VoicePlay("B040123402_01_070");
         MsgDisp("Kazama","Don't make that face.
-Places like this are designed for a man and a
-woman to have fun together.");
+Places like this are designed for a man
+and a woman to have fun together.");
         ChEye(1,2);
         ChMouth(1,0);
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123402_01_080");
-        MsgDisp("Kazama","Then, I would end up remembering that, and it
-caused some trouble for my Mom and Dad.
+        MsgDisp("Kazama","Then, I would end up remembering that, and
+it caused some trouble for my Mom and Dad.
 Well, I was a brat.");
         MsgDisp("主人公","I see, you moved abroad when you were only
 in your first year of Elementary School
@@ -106,8 +106,8 @@ after all.");
         ChMotion(1,3);
         VoicePlay("B040123402_01_100");
         MsgDisp("Kazama","Hey, do you want a second helping?");
-        MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of me even
-in England.)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, you were thinking of me
+even in England.)");
         break ;
         default :
         DbgAssert(1);

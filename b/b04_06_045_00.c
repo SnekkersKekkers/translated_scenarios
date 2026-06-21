@@ -35,8 +35,8 @@ different person...");
     ChMotion(6,0);
     VoicePlay("B040604500_06_020");
     MsgDisp("Himuro","In what respect? I want to have a thorough
-discussion. If we do that, I'm sure we'll be
-able to understand each other better.");
+discussion. If we do that, I'm sure we'll
+be able to understand each other better.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

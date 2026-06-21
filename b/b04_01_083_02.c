@@ -44,8 +44,8 @@ second longer?");
         ChMotion(1,0,1);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108302_01_030");
-        MsgDisp("Kazama","You should study up a bit more on how to set
-the mood, seriously.");
+        MsgDisp("Kazama","You should study up a bit more on how to
+set the mood, seriously.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -71,8 +71,9 @@ You're a real dummy, you know?");
         ChMouth(1,3);
         ChMotion(1,3);
         VoicePlay("B040108302_01_060");
-        MsgDisp("Kazama","Nice, your inner voice sounds just like you.
- C'mon, keep it going.");
+        MsgDisp("Kazama","Nice, your inner voice sounds just
+like you.
+C'mon, keep it going.");
         MsgDisp("主人公","Hey, I'm not doing it again.");
         ChEye(1,4);
         ChMouth(1,3);

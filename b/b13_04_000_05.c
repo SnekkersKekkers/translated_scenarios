@@ -6,7 +6,8 @@ ChMotion(4,0);
 ChCheek(4,5);
 ScrFadeIn(0);
 VoicePlay("B130400005_04_000");
-MsgDisp("Nanatsumori","Uh... Look, I'm going to be honest with you.");
+MsgDisp("Nanatsumori","Uh...
+Look, I'm going to be honest with you.");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,2,1);

@@ -37,8 +37,8 @@ I'm right here, you know.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040602202_06_030");
-        MsgDisp("Himuro","...If there's something you're curious about,
-why don't you ask me directly?");
+        MsgDisp("Himuro","...If there's something you're curious
+about, why don't you ask me directly?");
         MsgDisp("主人公","T-That's true huh?");
         ChEye(6,0);
         ChMouth(6,0);

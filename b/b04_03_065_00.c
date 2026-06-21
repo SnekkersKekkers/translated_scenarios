@@ -25,9 +25,9 @@ Now this is what Japanese summer is about.");
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040306500_03_020");
-    MsgDisp("Honda","Yep yep. Whether you look at it from above,
-below, it's heart-shaped no matter which way
-you look at it.");
+    MsgDisp("Honda","Yep yep. Whether you look at it from
+above, below, it's heart-shaped no matter
+which way you look at it.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

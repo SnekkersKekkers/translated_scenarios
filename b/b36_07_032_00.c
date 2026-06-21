@@ -18,8 +18,8 @@ ChMotion(7,3);
 VoicePlay("B360703200_07_010");
 MsgDisp("Mikage","Huh, I guess you caught on.
 I was trying to play it cool.");
-MsgDisp("主人公","Well, then, what happens when you enjoy it to
-the fullest?");
+MsgDisp("主人公","Well, then, what happens when you enjoy it
+to the fullest?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,4);

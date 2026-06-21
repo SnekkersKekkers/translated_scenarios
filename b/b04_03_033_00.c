@@ -29,8 +29,8 @@ I find them unique.");
     VoiceEVSPlay(3);
     VoicePlay("B040303300_03_020");
     MsgDisp("Honda","｛主人公｝, nice observation!
-In the deep sea, 200 metres down, that mouth
-is needed to catch prey efficiently.");
+In the deep sea, 200 metres down, that
+mouth is needed to catch prey efficiently.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

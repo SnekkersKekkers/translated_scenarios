@@ -69,8 +69,8 @@ You can relax.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040608202_06_070");
-        MsgDisp("Himuro","No, I don't want to show the shameful parts
-of myself.
+        MsgDisp("Himuro","No, I don't want to show the shameful
+parts of myself.
 Especially...not to you.");
         MsgDisp("主人公","(Actually, I would like to see it...)");
         break ;

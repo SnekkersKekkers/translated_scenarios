@@ -50,9 +50,9 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B330C10101_07_020");
-MsgDisp("Mikage","Causing a ruckus with your friends is one of
-the true joys of being a high school student
-isn't it?");
+MsgDisp("Mikage","Causing a ruckus with your friends is one
+of the true joys of being a high school
+student isn't it?");
 ChEye(5,3);
 ChMouth(5,2);
 ChEye(6,0);
@@ -96,8 +96,8 @@ ChMotion(6,0);
 VoicePlay("B330C10101_06_030");
 MsgDisp("Himuro","Well, he's a biology teacher after all.");
 MsgDisp("主人公","(Hehe!
-｛Mikage＊＊｝ might be the most like a high
-school student?)");
+｛Mikage＊＊｝ might be the most like a
+high school student?)");
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(2);

@@ -7,7 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040321101_03_000");
 MsgDisp("Honda","They're all packed out today.
-Let's be efficient in seeing lots of things!");
+Let's be efficient in seeing lots
+of things!");
 MsgSel("Seems like the reptile zone is empty.","The naked mole rat is an amazing name, huh?","There's a newborn corner?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -30,8 +31,8 @@ Well then, off to the giant tortoise pen!");
     ChMotion(3,5,1);
     VoicePlay("B040321101_03_020");
     MsgDisp("Honda","There it is～, the naked mole rat.
-I'm fascinated. Even though it's a rodent, it
-can live for 30 years～");
+I'm fascinated. Even though it's a rodent,
+it can live for 30 years～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

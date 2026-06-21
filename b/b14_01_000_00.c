@@ -35,8 +35,8 @@ ChEye(1,4);
 ChMouth(1,3);
 VoicePlay("B140100000_01_030");
 MsgDisp("Kazama","I see.
-We've known each other a long time, but there
-are still \"firsts\" for us.");
+We've known each other a long time, but
+there are still \"firsts\" for us.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);

@@ -43,7 +43,8 @@ VoicePlay("B330C10501_07_010");
 MsgDisp("Mikage","Oh, me too.
 There are ones that can be washed tens of
 thousands of times.");
-MsgDisp("主人公","Hehe. You both seem to be very knowledgeable.");
+MsgDisp("主人公","Hehe.
+You both seem to be very knowledgeable.");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
@@ -53,16 +54,16 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C10501_06_010");
-MsgDisp("Himuro","I understand why Kojiro-sensei is since he's
-been living alone for a long time, but why
-you, Yanosuke-senpai?");
+MsgDisp("Himuro","I understand why Kojiro-sensei is since
+he's been living alone for a long time,
+but why you, Yanosuke-senpai?");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10501_05_040");
 MsgDisp("Hiiragi","Maybe it's just that I like cleaning.
-It feels truly wonderful to have everything
-clean and tidy.");
+It feels truly wonderful to have
+everything clean and tidy.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,4);
@@ -101,8 +102,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10501_05_060");
-MsgDisp("Hiiragi","Oh, that's right, that store sometimes does
-live demonstrations of rollers.
+MsgDisp("Hiiragi","Oh, that's right, that store sometimes
+does live demonstrations of rollers.
 Why don't we go and check it out?");
 ChEye(6,0);
 ChMouth(6,0);

@@ -76,8 +76,8 @@ ChEye(2,1);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B110200000_02_040");
-MsgDisp("Sassa","What's with that guy, going on and on about
-how big I am...");
+MsgDisp("Sassa","What's with that guy, going on and on
+about how big I am...");
 ChEye(2,2);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -99,7 +99,8 @@ ChMouth(2,4);
 ChMotion(2,0);
 ChCheek(2,10);
 VoicePlay("B110200000_02_070");
-MsgDisp("Sassa","Hmmm... I don't dislike it when you say it.");
+MsgDisp("Sassa","Hmmm...
+I don't dislike it when you say it.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,2);

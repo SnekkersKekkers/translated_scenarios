@@ -24,8 +24,8 @@ VoicePlay("B050700300_07_020");
 MsgDisp("Mikage","\"Quickly, quickly!\"
 I understand what that feels like.");
 MsgDisp("主人公","Hehe.
-｛Mikage＊＊｝, you're also somewhat in high
-spirits aren't you?");
+｛Mikage＊＊｝, you're also somewhat in
+high spirits aren't you?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -72,8 +72,8 @@ MsgDisp("主人公","Yes, I'm excited!");
 StlEye(7,1);
 StlMouth(7,1);
 VoicePlay("B050700300_07_070");
-MsgDisp("Mikage","Yeah, everything looks like it's sparkling to
-me too.
+MsgDisp("Mikage","Yeah, everything looks like it's sparkling
+to me too.
 Those kids must be losing their minds.");
 StlEye(7,0);
 StlMouth(7,0);
@@ -85,8 +85,8 @@ StlEye(7,0);
 StlMouth(7,1);
 VoicePlay("B050700300_07_090");
 MsgDisp("Mikage","Is it really that tall...?");
-MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is more surprised
-than the kids?)");
+MsgDisp("主人公","(Looks like ｛Mikage＊＊｝ is more
+surprised than the kids?)");
 MsgClose();
 ScrFadeOut(0);
 StlClose();

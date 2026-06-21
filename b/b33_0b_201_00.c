@@ -18,7 +18,8 @@ ChEye(4,5);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B20100_04_000");
-MsgDisp("Nanatsumori","Eh∋ That's not like you to say that, Dahon.");
+MsgDisp("Nanatsumori","Eh∋
+That's not like you to say that, Dahon.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
@@ -40,8 +41,8 @@ ChEye(4,2);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B330B20100_04_010");
-MsgDisp("Nanatsumori","Dahon's standards for beauty and cuteness are
-too weird...");
+MsgDisp("Nanatsumori","Dahon's standards for beauty and cuteness
+are too weird...");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);

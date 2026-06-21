@@ -10,5 +10,5 @@ ChMouth(7,3);
 ChMotion(7,1);
 VoicePlay("B020702000_07_010");
 MsgDisp("Mikage","Yeah, you've got good taste.");
-MsgDisp("主人公","(I wonder if ｛Mikage＊＊｝ is a Hazuki Kei
-fan too...?)");
+MsgDisp("主人公","(I wonder if ｛Mikage＊＊｝ is a Hazuki
+Kei fan too...?)");

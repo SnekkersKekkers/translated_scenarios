@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,4);
     VoicePlay("B040321301_03_010");
-    MsgDisp("Honda","It's quite rare to see a Scottish Fold with
-perfectly folded ears, you know?");
+    MsgDisp("Honda","It's quite rare to see a Scottish Fold
+with perfectly folded ears, you know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

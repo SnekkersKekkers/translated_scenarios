@@ -8,15 +8,15 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B150300100_03_010");
-MsgDisp("Honda","Remember when I said the distance between us
-felt like we were family?");
+MsgDisp("Honda","Remember when I said the distance between
+us felt like we were family?");
 ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B150300100_03_020");
-MsgDisp("Honda","I've been reflecting on that, and honestly, I
-don't usually have this kind of physical
-closeness with my family.");
+MsgDisp("Honda","I've been reflecting on that, and
+honestly, I don't usually have this kind
+of physical closeness with my family.");
 MsgDisp("主人公","Oh, I see.");
 ChEye(3,2);
 ChMouth(3,4);
@@ -30,7 +30,8 @@ ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B150300100_03_040");
 MsgDisp("Honda","Why are you apologising?
-It's probably just my approach that was off.");
+It's probably just my approach that
+was off.");
 ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);

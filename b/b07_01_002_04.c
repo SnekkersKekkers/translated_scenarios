@@ -6,17 +6,17 @@ ChMouth(1,2);
 ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100002_01_230");
-MsgDisp("Kazama","I wasn't here in elementary or middle school,
-so Nanatsumori will tell me about what was
-popular at the time?");
+MsgDisp("Kazama","I wasn't here in elementary or middle
+school, so Nanatsumori will tell me about
+what was popular at the time?");
 MsgDisp("主人公","Hmm, ｛Nanatsumori＊｝ knows trends well.");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_240");
-MsgDisp("Kazama","Then Honda throws in his own analysis about
-the historical context of when it was
-popular. After that, it's just chaos.");
+MsgDisp("Kazama","Then Honda throws in his own analysis
+about the historical context of when it
+was popular. After that, it's just chaos.");
 MsgDisp("主人公","Yeah, it seems super interesting.");
 ChEye(1,0);
 ChMouth(1,2);

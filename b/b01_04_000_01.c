@@ -40,7 +40,8 @@ switch (ChPrmGet(4,6)){
     ChMotion(4,3);
     VoicePlay("B010400001_04_030");
     MsgDisp("Nanatsumori","What, are you laughing?
-Well, if you think it's funny, that's fine.");
+Well, if you think it's funny,
+that's fine.");
     MsgDispSksp(0);
     break ;
     case 4:

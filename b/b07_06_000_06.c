@@ -10,8 +10,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_310");
-MsgDisp("Himuro","Just to preface, that doesn't mean I haven't
-grown up.");
+MsgDisp("Himuro","Just to preface, that doesn't mean I
+haven't grown up.");
 MsgDisp("主人公","Hehe, yeah.");
 ChEye(6,1);
 ChMouth(6,0);

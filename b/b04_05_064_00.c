@@ -21,8 +21,8 @@ ChEye(5,0);
 ChMotion(5,0);
 VoicePlay("B040506400_05_020");
 MsgDisp("Hiiragi","So this is Habataki City's festival, huh?
-I need to be able to proudly call this place
-my home.");
+I need to be able to proudly call this
+place my home.");
 ChEye(5,3);
 ChMotion(5,4);
 VoicePlay("B040506400_05_030");

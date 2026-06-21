@@ -32,13 +32,14 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360618001_06_030");
-MsgDisp("Himuro","It is. Otherwise, I wouldn't be this tired.");
+MsgDisp("Himuro","It is.
+Otherwise, I wouldn't be this tired.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360618001_06_040");
-MsgDisp("Himuro","You were showing everyone that innocent face
-of yours.
+MsgDisp("Himuro","You were showing everyone that innocent
+face of yours.
 It was like you meant to charm them all.");
 MsgDisp("主人公","I wasn't doing that!");
 SEPlay("EV_SE_587");

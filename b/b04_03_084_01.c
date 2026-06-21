@@ -30,8 +30,8 @@ fallen leaves are actually floating.");
     ChMotion(3,1);
     VoicePlay("B040308401_03_020");
     MsgDisp("Honda","The fallen leaves become food for little
-snails, and those snails get eaten by firefly
-larvae. The cycle is complete!");
+snails, and those snails get eaten by
+firefly larvae. The cycle is complete!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +42,8 @@ larvae. The cycle is complete!");
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B040308401_03_030");
-    MsgDisp("Honda","Yeah, it's a scene that can only be seen in
-this time of year.");
+    MsgDisp("Honda","Yeah, it's a scene that can only be seen
+in this time of year.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

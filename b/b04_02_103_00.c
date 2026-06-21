@@ -29,8 +29,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     VoicePlay("B040210300_02_020");
     MsgDisp("Sassa","They painted those in the art room, right?
-Comparing them to my own drawings is so sad
-it's actually funny.");
+Comparing them to my own drawings is so
+sad it's actually funny.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

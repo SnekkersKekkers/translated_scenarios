@@ -5,8 +5,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040124200_01_000");
-MsgDisp("Kazama","It's different from what I'm used to in the
-kitchen.");
+MsgDisp("Kazama","It's different from what I'm used to in
+the kitchen.");
 MsgSel("｛Kazama＊＊｝, I'm counting on you♪","Camping means BBQ!","Seems like a lot of hassle...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040124200_01_010");
     MsgDisp("Kazama","OK! Then first is fire.
-I'd like to say let's start a fire, but let's
-count on modern conveniences here.");
+I'd like to say let's start a fire, but
+let's count on modern conveniences here.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

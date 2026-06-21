@@ -20,8 +20,8 @@ ChMotion(8,3,1);
 ChEyeOpenLevel(8,0);
 VoicePlay("B050800100_08_020");
 MsgDisp("Shirahane","I'm glad we did that!
-After all it's not a date if we didn't both
-enjoy ourselves right?");
+After all it's not a date if we didn't
+both enjoy ourselves right?");
 MsgDisp("主人公","Hehe.");
 ChEye(8,0);
 ChMouth(8,0);
@@ -77,8 +77,8 @@ StlEye(8,0);
 StlEyeOpenLevel(8,0,1);
 StlMouth(8,1);
 VoicePlay("B050800100_08_080");
-MsgDisp("Shirahane","Anyone who can perform on a stage like that,
-I really respect...
+MsgDisp("Shirahane","Anyone who can perform on a stage like
+that, I really respect...
 Do they live in a different dimension?");
 MsgDisp("主人公","Hehe.");
 StlEye(8,2);
@@ -92,8 +92,8 @@ StlEye(8,1);
 StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("B050800100_08_110");
-MsgDisp("Shirahane","I heard a Hane School alum used to come here
-to picture their dreams comin' true.");
+MsgDisp("Shirahane","I heard a Hane School alum used to come
+here to picture their dreams comin' true.");
 StlEye(8,1);
 StlMouth(8,0);
 VoicePlay("B050800100_08_120");
@@ -105,8 +105,8 @@ StlMouth(8,0);
 StlEyeOpenLevel(8,5,1);
 VoicePlay("B050800100_08_130");
 MsgDisp("Shirahane","Watching that huge stage today made me
-curious about how that person must have felt
-as a high schooler.");
+curious about how that person must have
+felt as a high schooler.");
 StlEye(8,2);
 StlMouth(8,0);
 VoicePlay("B050800100_08_140");
@@ -123,7 +123,8 @@ ChOpen(8,255,0,3,0,0,#1,4,0);
 ScrFadeIn(0);
 VoicePlay("B050800100_08_150");
 MsgDisp("Shirahane","Hehe...!");
-MsgDisp("主人公","Hehe! Do you think your dream will come true?");
+MsgDisp("主人公","Hehe!
+Do you think your dream will come true?");
 ChEye(8,2);
 ChMouth(8,0);
 ChMotion(8,0,1);
@@ -149,8 +150,8 @@ ChMouth(8,3);
 ChMotion(8,3,1);
 VoicePlay("B050800100_08_190");
 MsgDisp("Shirahane","Alright!
-I don't know what it is, but I'm gonna give
-it my best—∈");
+I don't know what it is, but I'm gonna
+give it my best—∈");
 MsgDisp("主人公","(Hehe!
 I wonder where ｛Daichi＊＊｝'s dream will
 take him?)");

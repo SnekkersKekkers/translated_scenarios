@@ -24,8 +24,8 @@ vital, but I'm not good with them.");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040224102_02_020");
-    MsgDisp("Sassa","Yeah, whoever came up with the idea of making
-sausages is pretty amazing.");
+    MsgDisp("Sassa","Yeah, whoever came up with the idea of
+making sausages is pretty amazing.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -60,7 +60,8 @@ I feel bad for the ponies.");
         ChMotion(2,4);
         VoicePlay("B040224102_02_050");
         MsgDisp("Sassa","Eh?
-Ah, I'm just imagining you riding on a pony.");
+Ah, I'm just imagining you riding on
+a pony.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -77,7 +78,8 @@ that's plodding along.");
         ChMouth(2,3);
         ChMotion(2,4);
         VoicePlay("B040224102_02_080");
-        MsgDisp("Sassa","It would be too cute if I saw that for real.");
+        MsgDisp("Sassa","It would be too cute if I saw that
+for real.");
         MsgClose();
         SEPlay("EV_SE_765");
         ChClose(2);

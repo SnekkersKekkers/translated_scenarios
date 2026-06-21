@@ -36,7 +36,8 @@ ChMotion(7,3);
 ScrFadeIn(0);
 VoicePlay("B360723600_07_030");
 MsgDisp("Mikage","It's really lively～!");
-MsgDisp("主人公","｛Mikage＊＊｝, sorry for making you come...");
+MsgDisp("主人公","｛Mikage＊＊｝, sorry for making
+you come...");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);

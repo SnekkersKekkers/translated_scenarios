@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0);
     ChMotion(3,4);
     VoicePlay("B040310102_03_010");
-    MsgDisp("Honda","Yep yep, the permanent dinosaur exhibit here
-is also well done.");
+    MsgDisp("Honda","Yep yep, the permanent dinosaur exhibit
+here is also well done.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -28,8 +28,8 @@ is also well done.");
     ChMotion(3,5);
     VoicePlay("B040310102_03_020");
     MsgDisp("Honda","I get it!
-Even the permanent exhibits change with the
-season. As expected of Habataki City!");
+Even the permanent exhibits change with
+the season. As expected of Habataki City!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -47,7 +47,8 @@ season. As expected of Habataki City!");
         ChEyeOpenLevel(3,8);
         VoicePlay("B040310102_03_030");
         MsgDisp("Honda","You don't know?
-But it's about your own personal preferences?");
+But it's about your own personal
+preferences?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -78,16 +79,16 @@ exhibits to you, right?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040310102_03_070");
-        MsgDisp("Honda","There's always so much I want to talk about
-that my explanations for one thing end up
-shallow— This is truly my fault.");
+        MsgDisp("Honda","There's always so much I want to talk
+about that my explanations for one thing
+end up shallow— This is truly my fault.");
         MsgDisp("主人公","Eh, I never thought they were shallow—");
         ChEye(3,1);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040310102_03_080");
-        MsgDisp("Honda","Today, let's take our time going through each
-one in order.
+        MsgDisp("Honda","Today, let's take our time going through
+each one in order.
 Now that it's been decided... Let's go!");
         MsgDisp("主人公","(Ehh! Right now—∋)");
         break ;

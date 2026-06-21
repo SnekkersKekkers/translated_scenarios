@@ -4,8 +4,8 @@ ChMouth(2,4);
 ChMotion(2,4,1);
 VoicePlay("B020202136_02_000");
 MsgDisp("Sassa","Those clothes and accessories are trendy
-right now. 
-Oh...And that colour, too?");
+right now.
+Oh... And that colour, too?");
 MsgDisp("主人公","Yeah, it's a trendy colour.");
 ChEye(2,0);
 ChMouth(2,4);

@@ -5,7 +5,8 @@ ChMouth(7,0);
 ChMotion(7,0);
 ScrFadeIn(0);
 VoicePlay("B040710400_07_000");
-MsgDisp("Mikage","Migrating butterflies are fascinating bugs.
+MsgDisp("Mikage","Migrating butterflies are
+fascinating bugs.
 They're worth looking into.");
 MsgSel("Uugh, creepy.","It's like they're on a field trip.","They travel 4000 km∈");
 switch (MsgSelRsltGet()){
@@ -37,8 +38,8 @@ It must be wonderful.");
     ChMouth(7,3);
     ChMotion(7,1);
     VoicePlay("B040710400_07_030");
-    MsgDisp("Mikage","Where do they store all that energy in such a
-small body?");
+    MsgDisp("Mikage","Where do they store all that energy in
+such a small body?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

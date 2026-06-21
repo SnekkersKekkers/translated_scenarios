@@ -14,7 +14,8 @@ ChMotion(2,0);
 VoicePlay("B070200000_02_280");
 MsgDisp("Sassa","Oh, you're so nice.
 A track and field idiot, then.");
-MsgDisp("主人公","Hehe, were you already that strong back then?");
+MsgDisp("主人公","Hehe, were you already that strong
+back then?");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
@@ -52,10 +53,10 @@ ChMouth(2,4);
 ChMotion(2,1);
 VoicePlay("B070200000_02_330");
 MsgDisp("Sassa","Exactly.
-All I have to do now is just try my best to
-win. It's way more simple this way.");
-MsgDisp("主人公","(If it's ｛Sassa＊＊｝, I believe he can win it
-all and become a champion...!)");
+All I have to do now is just try my best
+to win. It's way more simple this way.");
+MsgDisp("主人公","(If it's ｛Sassa＊＊｝, I believe he can win
+it all and become a champion...!)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

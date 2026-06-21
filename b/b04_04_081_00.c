@@ -29,8 +29,8 @@ It suits you too.");
     ChMotion(4,2,1);
     VoicePlay("B040408100_04_020");
     MsgDisp("Nanatsumori","Fleeting, huh?
-It's definitely sad that they fall in such a
-short period of time.");
+It's definitely sad that they fall in such
+a short period of time.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

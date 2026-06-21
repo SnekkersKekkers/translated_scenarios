@@ -37,8 +37,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B360603101_06_040");
-MsgDisp("Himuro","It's torture seeing everyone be so familiar
-with you.");
+MsgDisp("Himuro","It's torture seeing everyone be so
+familiar with you.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);

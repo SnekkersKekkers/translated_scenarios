@@ -14,10 +14,12 @@ full-fledged Habataki citizen?");
 ChEye(5,3);
 ChMotion(5,3);
 VoicePlay("B040506401_05_010");
-MsgDisp("Hiiragi","Yes. Whoever says it first wins, after all.");
+MsgDisp("Hiiragi","Yes.
+Whoever says it first wins, after all.");
 SEPlay("EV_SE_022",1);
 MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝, we have to hurry and buy
-something and head to the fireworks grounds.");
+something and head to the fireworks
+grounds.");
 ChEye(5,0);
 ChMotion(5,4);
 VoicePlay("B040506401_05_020");

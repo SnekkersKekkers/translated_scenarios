@@ -33,8 +33,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B140100100_01_020");
-MsgDisp("Kazama","You should thank the people of Habataki City
-instead, right?");
+MsgDisp("Kazama","You should thank the people of Habataki
+City instead, right?");
 MsgDisp("主人公","Hehe, that's right.");
 MsgClose();
 ScrFadeOut(0,0);
@@ -73,8 +73,8 @@ ChMotion(1,4);
 ChEyeOpenLevel(1,8);
 VoicePlay("B140100100_01_060");
 MsgDisp("Kazama","The ups and downs between us have been so
-extreme. It's a bit scary, not knowing what
-comes next.");
+extreme. It's a bit scary, not knowing
+what comes next.");
 ChMotion(1,0);
 MsgDisp("主人公","(｛Kazama＊＊｝...
 What's going to happen once we graduate?)");

@@ -5,8 +5,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 ScrFadeIn(0);
 VoicePlay("B040301100_03_000");
-MsgDisp("Honda","Yeah yeah, it looks like a satellite photo of
-Habataki City.
+MsgDisp("Honda","Yeah yeah, it looks like a satellite photo
+of Habataki City.
 Pretty cool.");
 MsgSel("Wow! The horizon looks like it's shining!","I can see your house from here!","It's so high, I can't move my legs...");
 switch (MsgSelRsltGet()){
@@ -42,8 +42,8 @@ Ah, I can't see it behind the parking lot.");
     ChMotion(3,0,1);
     VoicePlay("B040301100_03_030");
     MsgDisp("Honda","I see, you can't help it if you're scared.
-That reinforced glass floor over there...no,
-you can't, right?");
+That reinforced glass floor over
+there...no, you can't, right?");
     MsgDateResultDisp();
     break ;
     default :

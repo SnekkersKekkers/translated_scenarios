@@ -16,8 +16,8 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B360417000_04_010");
-MsgDisp("Nanatsumori","I'll get myself in the mood after I've seen
-you up on stage.");
+MsgDisp("Nanatsumori","I'll get myself in the mood after I've
+seen you up on stage.");
 MsgDisp("主人公","Hmm... What should I do...");
 ChEye(4,4);
 ChMouth(4,0);
@@ -43,8 +43,8 @@ ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);
 VoicePlay("B360417000_04_050");
-MsgDisp("Nanatsumori","It's risky for me when it's just the two of
-us in a dimly lit room together.");
+MsgDisp("Nanatsumori","It's risky for me when it's just the two
+of us in a dimly lit room together.");
 MsgDisp("主人公","Do you not remember the song?
 I'll look it up for you.
 The opening lyrics—");

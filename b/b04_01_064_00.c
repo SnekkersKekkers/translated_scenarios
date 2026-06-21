@@ -13,8 +13,8 @@ ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B040106400_01_010");
 MsgDisp("Kazama","Well, you know.
-It's not like I could take you out when I was
-in kindergarten.");
+It's not like I could take you out when I
+was in kindergarten.");
 MsgDisp("主人公","Hehe.");
 ChEye(1,0);
 ChMouth(1,3);
@@ -43,8 +43,8 @@ ChEyeOpenLevel(1,0);
 VoicePlay("B040106400_01_050");
 MsgDisp("Kazama","Say what you want, don't be shy about it.");
 MsgDisp("主人公","Hehe, in that case...
-From here all the way to over there, I want
-it all!");
+From here all the way to over there, I
+want it all!");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);

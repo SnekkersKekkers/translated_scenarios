@@ -96,7 +96,8 @@ let them.");
         ChMouth(1,3);
         ChMotion(1,0,1);
         VoicePlay("B040103302_01_080");
-        MsgDisp("Kazama","You should just always be your natural self.");
+        MsgDisp("Kazama","You should just always be your
+natural self.");
         MsgDisp("主人公","Yeah. Thank you, ｛Kazama＊＊｝.");
         MsgDisp("主人公","(Is ｛Kazama＊＊｝ able to make his stomach
 growl any time...?)");

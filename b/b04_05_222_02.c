@@ -44,8 +44,8 @@ I'm getting dizzy...");
         ChMotion(5,1);
         ChEyeOpenLevel(5,0);
         VoicePlay("B040522202_05_030");
-        MsgDisp("Hiiragi","Sigh...even then, it may be difficult for me
-to understand.");
+        MsgDisp("Hiiragi","Sigh...even then, it may be difficult for
+me to understand.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -58,9 +58,9 @@ It's difficult for me.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040522202_05_050");
-        MsgDisp("Hiiragi","I may not enjoy the historical documents, but
-it does feel like we have a several hundred
-year old castle to ourselves.");
+        MsgDisp("Hiiragi","I may not enjoy the historical documents,
+but it does feel like we have a several
+hundred year old castle to ourselves.");
         MsgDisp("主人公","Huh?");
         ChMotion(5,0);
         VoicePlay("B040522202_05_060");
@@ -76,9 +76,9 @@ setting and put on a little play?");
         ChMouth(5,0);
         ChMotion(5,0);
         VoicePlay("B040522202_05_080");
-        MsgDisp("Hiiragi","\"This short sword is my alter ego.
-A guiding light to protect you.
-My soul will be with you for eternity.\"");
+        MsgDisp("Hiiragi","\"This short sword is my alter ego. A
+guiding light to protect you. My soul will
+be with you for eternity.\"");
         MsgDisp("主人公","Ehhh∋
 That's like a scene from Habataki Theatre
 Troupe's play?");
@@ -88,7 +88,8 @@ Troupe's play?");
         MsgDisp("Hiiragi","No, the line is \"My soul will also be with
 you for eternity.\"");
         MsgDisp("主人公","Ummm...
-\"My soul will also be with you for eternity.\"");
+\"My soul will also be with you for
+eternity.\"");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -100,10 +101,10 @@ I'll believe you then?");
         ChMotion(5,3);
         VoicePlay("B040522202_05_110");
         MsgDisp("Hiiragi","Haha, you did well.
-Hearing those words from your lips, even as a
-line, made my day.");
-        MsgDisp("主人公","(Umm, somehow it seems like I fell right into
-｛Hiiragi＊＊＊｝'s plan.)");
+Hearing those words from your lips, even
+as a line, made my day.");
+        MsgDisp("主人公","(Umm, somehow it seems like I fell right
+into ｛Hiiragi＊＊＊｝'s plan.)");
         break ;
         default :
         DbgAssert(1);

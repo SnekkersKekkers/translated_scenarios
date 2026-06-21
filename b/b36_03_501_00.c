@@ -17,9 +17,9 @@ ChEye(3,4);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B360350100_03_010");
-MsgDisp("Honda","For me, I once tried to camp out here with my
-little sister. We brought a bunch of stuff
-and got in trouble for it.");
+MsgDisp("Honda","For me, I once tried to camp out here with
+my little sister. We brought a bunch of
+stuff and got in trouble for it.");
 MsgDisp("主人公","Hehe, that's so cute.");
 ChEye(3,0);
 ChMouth(3,3);
@@ -47,13 +47,14 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360350100_03_050");
-MsgDisp("Honda","If you're having fun, then it's fine with me.");
+MsgDisp("Honda","If you're having fun, then it's fine
+with me.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B360350100_03_060");
-MsgDisp("Honda","Oh, and what if we invited Ryo-kun and Mi-kun
-along too?
+MsgDisp("Honda","Oh, and what if we invited Ryo-kun and
+Mi-kun along too?
 I'd love to see what they'd say about it.");
 MsgDisp("主人公","(Haha, the thought of ｛Honda＊＊｝ and
 ｛Nanatsumori＊｝ playing with kids...

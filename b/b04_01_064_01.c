@@ -23,8 +23,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B040106401_01_030");
-MsgDisp("Kazama","You're standing out even more than usual, so
-it does have me a little worried.");
+MsgDisp("Kazama","You're standing out even more than usual,
+so it does have me a little worried.");
 MsgDisp("主人公","Umm...");
 ChEye(1,0);
 ChMouth(1,2);

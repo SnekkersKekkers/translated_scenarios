@@ -7,8 +7,8 @@ wear for theatre practice...");
 ChMouth(5,0);
 ChMotion(5,4);
 VoicePlay("B020502104_05_010");
-MsgDisp("Hiiragi","But when you are wearing it, it is somewhat
-different.
+MsgDisp("Hiiragi","But when you are wearing it, it is
+somewhat different.
 ...I wonder why?");
 MsgDisp("主人公","I wonder why...");
 ChMouth(5,4);
@@ -17,4 +17,5 @@ VoicePlay("B020502104_05_020");
 MsgDisp("Hiiragi","You bring out the charm in clothing.
 That is why I've come to like this type of
 clothing. It is a feeling I can't explain.");
-MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ seems to be really happy!)");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ seems to be really happy!)");

@@ -31,7 +31,8 @@ I'll tell you which ones are my favourite.");
     ChMouth(3,3);
     ChMotion(3,1);
     VoicePlay("B030321002_03_020");
-    MsgDisp("Honda","Well then, which ones are we visiting today?");
+    MsgDisp("Honda","Well then, which ones are we
+visiting today?");
     MsgDispSksp(0);
     break ;
     default :

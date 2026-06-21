@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040122202_01_000");
 MsgDisp("Kazama","The exhibit artefacts are important, but
-there's a history behind each scratch on the
-pillars and floors.");
+there's a history behind each scratch on
+the pillars and floors.");
 MsgSel("The castle itself was rebuilt, right?","Were they cut with swords during a battle?","How cruel... there's graffiti too.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -37,8 +37,8 @@ repaired so many times is itself a history.");
         ChMouth(1,3);
         ChMotion(1,0);
         VoicePlay("B040122202_01_020");
-        MsgDisp("Kazama","That's right. There was a big renovation 50
-years ago, and my grandpa said valuable
+        MsgDisp("Kazama","That's right. There was a big renovation
+50 years ago, and my grandpa said valuable
 cultural assets were found then, too.");
         MsgDisp("主人公","Treasure?");
         ChEye(1,0);
@@ -46,8 +46,8 @@ cultural assets were found then, too.");
         ChMotion(1,3);
         VoicePlay("B040122202_01_030");
         MsgDisp("Kazama","It wasn't anything like that.
-Just like graffiti from people of the past or
-carpentry tools left behind.");
+Just like graffiti from people of the past
+or carpentry tools left behind.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,1);

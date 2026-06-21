@@ -25,8 +25,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20201_03_010");
-MsgDisp("Honda","I was just wondering what kind of system the
-projector in this planetarium uses!");
+MsgDisp("Honda","I was just wondering what kind of system
+the projector in this planetarium uses!");
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 ChEye(4,2);
@@ -40,8 +40,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B330B20201_03_020");
-MsgDisp("Honda","There are both optical and digital projectors
-in planetariums.");
+MsgDisp("Honda","There are both optical and digital
+projectors in planetariums.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -60,8 +60,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B20201_03_040");
-MsgDisp("Honda","But digital is better in terms of the range
-of visual expression.
+MsgDisp("Honda","But digital is better in terms of the
+range of visual expression.
 It's difficult to choose which one to use.");
 ChEye(4,2);
 ChMouth(4,0);

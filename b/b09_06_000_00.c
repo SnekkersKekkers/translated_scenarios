@@ -1,6 +1,7 @@
 BGOpen("ho210",2);
 ScrFadeIn(0);
-MsgDisp("主人公","Ah, there's a new voicemail in my inbox...?
+MsgDisp("主人公","Ah, there's a new voicemail in my
+inbox...?
 Who is it?");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
@@ -10,11 +11,12 @@ MsgDisp("主人公","Huh, ｛Himuro＊＊｝?");
 VoicePlay("B090600000_06_010");
 MsgDisp("Himuro","You know why I called you, right?");
 VoicePlay("B090600000_06_020");
-MsgDisp("Himuro","Normally, if something happens you should at
-least get in touch, right? Reflect on wasting
-someone's time. That's all.");
+MsgDisp("Himuro","Normally, if something happens you should
+at least get in touch, right? Reflect on
+wasting someone's time. That's all.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","Crap! We were supposed to go on a date today!");
+MsgDisp("主人公","Crap!
+We were supposed to go on a date today!");
 MsgClose();
 ScrFadeOut(0,0);

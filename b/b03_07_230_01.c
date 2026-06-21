@@ -107,7 +107,8 @@ Surely you're kidding?");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030723001_07_080");
-    MsgDisp("Mikage","Looks like I better not let my guard down...");
+    MsgDisp("Mikage","Looks like I better not let my
+guard down...");
     break ;
     case 4:
     MsgDispSksp(1,0);
@@ -133,7 +134,8 @@ let's go.");
     ChMouth(7,0);
     ChMotion(7,4);
     VoicePlay("B030723001_07_100");
-    MsgDisp("Mikage","Whoa... This has a seriously cool atmosphere.");
+    MsgDisp("Mikage","Whoa...
+This has a seriously cool atmosphere.");
     break ;
     default :
     DbgAssert(0);

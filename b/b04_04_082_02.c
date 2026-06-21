@@ -73,8 +73,8 @@ particularly disliked bugs, but...");
         ChEyeOpenLevel(4,8);
         VoicePlay("B040408202_04_080");
         MsgDisp("Nanatsumori","The insects you see one-by-one in an
-encyclopedia and the ones you see moving in
-groups in the wild...");
+encyclopedia and the ones you see moving
+in groups in the wild...");
         ChEye(4,1);
         ChMouth(4,2);
         ChEyeOpenLevel(4,10);
@@ -97,8 +97,8 @@ You should get it now too!");
         ChMotion(4,2,1);
         ChEyeOpenLevel(4,8);
         VoicePlay("B040408202_04_110");
-        MsgDisp("Nanatsumori","That's when I first realised some truths just
-aren't worth knowing...
+        MsgDisp("Nanatsumori","That's when I first realised some truths
+just aren't worth knowing...
 The summer I was five.");
         MsgDisp("主人公","I guess it's become a trauma for you...");
         ChMouth(4,2);
@@ -116,8 +116,8 @@ have only scared me...");
         MsgDisp("Nanatsumori","｛主人公｝, you understand, right?
 How I feel.");
         MsgDisp("主人公","(I understand how he feels, but...
-The ｛Nanatsumori＊｝ who's scared of insects
-is kind of cute?)");
+The ｛Nanatsumori＊｝ who's scared of
+insects is kind of cute?)");
         break ;
         default :
         DbgAssert(1);

@@ -13,7 +13,8 @@ MsgDisp("主人公","Wow, pretty...!");
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B140400100_04_000");
-MsgDisp("Nanatsumori","Yeah. It's particularly beautiful this year.");
+MsgDisp("Nanatsumori","Yeah.
+It's particularly beautiful this year.");
 MsgDisp("主人公","Particularly?");
 ChMotion(4,0,1);
 VoicePlay("B140400100_04_010");
@@ -62,7 +63,8 @@ ChLayout(1);
 ChNanaType(#1);
 ChOpen(4,255,0,4,3,#1,#1,8,0,0,30);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Nanatsumori＊｝, just now, on my forehead...");
+MsgDisp("主人公","｛Nanatsumori＊｝, just now, on my
+forehead...");
 VoicePlay("B140400100_04_070");
 MsgDisp("Nanatsumori","A kiss-mas present.");
 ChEye(4,4);
@@ -70,8 +72,9 @@ ChMouth(4,4);
 ChMotion(4,2,1);
 ChCheek(4,10);
 VoicePlay("B140400100_04_080");
-MsgDisp("Nanatsumori","Unless I've totally misread things, I figured
-it'd be the best present for both of us.");
+MsgDisp("Nanatsumori","Unless I've totally misread things, I
+figured it'd be the best present for both
+of us.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,4);
 ChMouth(4,3);
@@ -82,9 +85,9 @@ MsgDisp("Nanatsumori","｛主人公｝.
 Thank you for spending today with me.");
 ChMotion(4,3,1);
 VoicePlay("B140400100_04_100");
-MsgDisp("Nanatsumori","For the first time in my life, on this day I
-got to feel what it's like to overflow with
-happiness and be moved to tears.");
+MsgDisp("Nanatsumori","For the first time in my life, on this day
+I got to feel what it's like to overflow
+with happiness and be moved to tears.");
 MsgDisp("主人公","Yeah...");
 ChMotion(4,0,1);
 VoicePlay("B140400100_04_110");

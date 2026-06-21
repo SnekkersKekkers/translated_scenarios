@@ -11,8 +11,8 @@ ChEyeOpenLevel(4,9);
 ScrFadeIn(0);
 VoicePlay("B040403302_04_000");
 MsgDisp("Nanatsumori","Hmm...
-As I get used to looking at them, these guys
-start to seem kinda cute...");
+As I get used to looking at them, these
+guys start to seem kinda cute...");
 ChEyeOpenLevel(4,#1);
 MsgSel("Yeah, they're creepy cute▼","Hmmm...","They're not cute at all.");
 switch (MsgSelRsltGet()){
@@ -71,9 +71,9 @@ That's unfortunate.");
         ChMouth(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040403302_04_050");
-        MsgDisp("Nanatsumori","That's not it. I prefer it when someone gives
-me their opinion clearly, rather than being
-overly considerate.");
+        MsgDisp("Nanatsumori","That's not it. I prefer it when someone
+gives me their opinion clearly, rather
+than being overly considerate.");
         ChEye(4,4);
         ChMouth(4,3);
         ChMotion(4,0,1);
@@ -100,8 +100,8 @@ your true opinions with?");
         ChCheek(4,8);
         VoicePlay("B040403302_04_090");
         MsgDisp("Nanatsumori","That's why I wanna keep going to different
-places together, seeing different things, and
-talking about different things. OK?");
+places together, seeing different things,
+and talking about different things. OK?");
         MsgDisp("主人公","Hehe, OK!");
         ChEye(4,4);
         ChMouth(4,3);

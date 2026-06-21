@@ -14,5 +14,5 @@ ChMotion(4,3,1);
 VoicePlay("B020402119_04_010");
 MsgDisp("Nanatsumori","Pff! Yeah, yeah.
 I think it's really girly.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes like
-these, too!)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes
+like these, too!)");

@@ -44,8 +44,8 @@ nightmare?");
     ChMouth(6,0);
     ChMotion(6,3);
     VoicePlay("B040623600_06_030");
-    MsgDisp("Himuro","Yeah. I was more interested in that than the
-production.
+    MsgDisp("Himuro","Yeah. I was more interested in that than
+the production.
 I wonder how much the electricity bill is.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

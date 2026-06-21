@@ -43,8 +43,8 @@ You really are a funny one.");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040124102_01_030");
-        MsgDisp("Kazama","You can see that windmill even without coming
-all the way here, right?");
+        MsgDisp("Kazama","You can see that windmill even without
+coming all the way here, right?");
         MsgDateResultDisp();
         break ;
         case 4:

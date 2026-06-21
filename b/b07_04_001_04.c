@@ -16,8 +16,9 @@ He's always talking.");
 ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_300");
-MsgDisp("Nanatsumori","When it comes to Habatcher or other popular
-things, the baton is passed on to me.");
+MsgDisp("Nanatsumori","When it comes to Habatcher or other
+popular things, the baton is passed on
+to me.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,2);
 ChMouth(4,4);
@@ -30,13 +31,13 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_320");
-MsgDisp("Nanatsumori","Yeah. I'm from the neighbouring town, so I'd
-like to hear lots of different things about
-Habataki City.");
+MsgDisp("Nanatsumori","Yeah. I'm from the neighbouring town, so
+I'd like to hear lots of different things
+about Habataki City.");
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_330");
-MsgDisp("Nanatsumori","Well, what Kazama won't tell you, Dahon will
-talk a lot, adding little tidbits.");
+MsgDisp("Nanatsumori","Well, what Kazama won't tell you, Dahon
+will talk a lot, adding little tidbits.");
 MsgDisp("主人公","I see.");
 ChEye(4,0);
 ChMouth(4,0);

@@ -26,8 +26,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040623100_06_020");
     MsgDisp("Himuro","Guess that makes you the winner, huh?
-The whole point of the ride is enjoying the
-thrill, after all.");
+The whole point of the ride is enjoying
+the thrill, after all.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

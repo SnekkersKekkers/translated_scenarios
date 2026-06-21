@@ -39,8 +39,8 @@ That's not right, look closer.");
     ChMotion(3,4);
     VoicePlay("B040302101_03_030");
     MsgDisp("Honda","I like that sort of thing.
-Okay, I'll carry you on my back. That way you
-won't have to step on them, right?");
+Okay, I'll carry you on my back. That way
+you won't have to step on them, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -49,8 +49,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B050600100_06_040");
 MsgDisp("Himuro","I guess we'll see?
-Back in middle school, I borrowed one from a
-friend to try.");
+Back in middle school, I borrowed one from
+a friend to try.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -118,14 +118,14 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B050600100_06_110");
 MsgDisp("Himuro","Everyone is like this.
-Even if you don't realise it, we all have our
-strengths and weaknesses.");
+Even if you don't realise it, we all have
+our strengths and weaknesses.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("B050600100_06_120");
-MsgDisp("Himuro","That's why it's foolish to say you can't do
-something from the start.
+MsgDisp("Himuro","That's why it's foolish to say you can't
+do something from the start.
 You'll never know unless you try.");
 MsgDisp("主人公","Yeah...that's true.");
 ChEye(6,0);
@@ -133,7 +133,8 @@ ChMouth(6,3);
 ChMotion(6,4);
 ChEyeOpenLevel(6,8);
 VoicePlay("B050600100_06_130");
-MsgDisp("Himuro","Maybe you have the talent to play bass too?");
+MsgDisp("Himuro","Maybe you have the talent to play
+bass too?");
 MsgDisp("主人公","I-I wonder...?");
 ChEye(6,0);
 ChMouth(6,3);

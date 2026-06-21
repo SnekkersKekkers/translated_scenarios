@@ -18,7 +18,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(4,8);
     VoicePlay("B040408302_04_010");
     MsgDisp("Nanatsumori","I don't get it.
-I think there are more leaves in the spring.");
+I think there are more leaves in
+the spring.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -49,8 +50,8 @@ I think there are more leaves in the spring.");
         ChEyeOpenLevel(4,0);
         VoicePlay("B040408302_04_040");
         MsgDisp("Nanatsumori","...What are you saying?");
-        MsgDisp("主人公","That when I'm with ｛Nanatsumori＊｝, it's fun
-no matter where we are.");
+        MsgDisp("主人公","That when I'm with ｛Nanatsumori＊｝, it's
+fun no matter where we are.");
         ChEye(4,4);
         ChMouthOpenLevel(4,0);
         VoicePlay("B040408302_04_050");
@@ -65,8 +66,8 @@ Then it's the same for me.");
         ChMouth(4,2);
         ChMotion(4,1,1);
         VoicePlay("B040408302_04_070");
-        MsgDisp("Nanatsumori","But here, the fear is just as strong as that
-feeling.");
+        MsgDisp("Nanatsumori","But here, the fear is just as strong as
+that feeling.");
         MsgDisp("主人公","Fear?");
         ChMotion(4,0,1);
         VoicePlay("B040408302_04_080");
@@ -109,7 +110,8 @@ resume our date.");
     ChMotion(4,0,1);
     VoicePlay("B040408302_04_120");
     MsgDisp("Nanatsumori","Agreed.
-Ah, but I won't treat you to kakigori, okay?");
+Ah, but I won't treat you to
+kakigori, okay?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

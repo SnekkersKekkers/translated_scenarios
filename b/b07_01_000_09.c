@@ -15,8 +15,8 @@ ChEyeOpenLevel(1,8);
 VoicePlay("B070100000_01_500");
 MsgDisp("Kazama","Just do as you normally do.
 And what is that?");
-MsgDisp("主人公","Um, you know, ｛Kazama＊＊｝, how do you feel
-about love?");
+MsgDisp("主人公","Um, you know, ｛Kazama＊＊｝, how do you
+feel about love?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,5);
@@ -37,16 +37,16 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B070100000_01_530");
-MsgDisp("Kazama","For me, love is entwined with my dreams, my
-memories and my current life.");
+MsgDisp("Kazama","For me, love is entwined with my dreams,
+my memories and my current life.");
 ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 Wait(16,0);
 ChEye(1,4);
 ChMouth(1,2);
 VoicePlay("B070100000_01_540");
-MsgDisp("Kazama","So to only extract \"love\" from the equation
-is difficult.
+MsgDisp("Kazama","So to only extract \"love\" from the
+equation is difficult.
 I can't do it.");
 MsgDisp("主人公","I see.
 I guess I should also think about it more

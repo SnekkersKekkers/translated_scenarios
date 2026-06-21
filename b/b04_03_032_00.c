@@ -7,7 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040303200_03_000");
 MsgDisp("Honda","Water gardens, huh?
-This facility is evolving rapidly, isn't it!");
+This facility is evolving rapidly,
+isn't it!");
 MsgSel("It's just the right place to take a break.","What a beautiful fountain; it's like art created by water.","Ah, looks like there's a trendy cafe.");
 switch (MsgSelRsltGet()){
     case 0:

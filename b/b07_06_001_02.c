@@ -1,5 +1,5 @@
-MsgDisp("主人公","Recently, you've been talking to ｛Sassa＊＊｝
-a lot huh?");
+MsgDisp("主人公","Recently, you've been talking to
+｛Sassa＊＊｝ a lot huh?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -11,7 +11,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_100");
-MsgDisp("Himuro","He acts like an older brother, it's annoying.
+MsgDisp("Himuro","He acts like an older brother, it's
+annoying.
 Even though we're only a year apart.");
 MsgDisp("主人公","Isn't he like a reliable older brother?");
 ChEye(6,0);
@@ -24,29 +25,29 @@ ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B070600001_06_120");
 MsgDisp("Himuro","But he's a smart person.");
-MsgDisp("主人公","If you're the one saying it, ｛Himuro＊＊｝, it's
-gotta be true.");
+MsgDisp("主人公","If you're the one saying it, ｛Himuro＊＊｝,
+it's gotta be true.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_130");
-MsgDisp("Himuro","Even though he's always thinking about track
-and field, he's good at building
+MsgDisp("Himuro","Even though he's always thinking about
+track and field, he's good at building
 relationships with those around him.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_140");
-MsgDisp("Himuro","When someone gets seriously into something,
-it usually creates distance or a gulf between
-them and others.");
+MsgDisp("Himuro","When someone gets seriously into
+something, it usually creates distance or
+a gulf between them and others.");
 MsgDisp("主人公","｛Himuro＊＊｝...");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,3);
 VoicePlay("B070600001_06_150");
-MsgDisp("Himuro","And on top of that, he's achieving results,
-so I have to admit it.");
+MsgDisp("Himuro","And on top of that, he's achieving
+results, so I have to admit it.");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
@@ -55,8 +56,8 @@ VoicePlay("B070600001_06_160");
 MsgDisp("Himuro","But him pushing the decathlon on me of
 all people?
 Total nonsense.");
-MsgDisp("主人公","(｛Himuro＊＊｝ recognises ｛Sassa＊＊｝ in his own
-way, doesn't he?)");
+MsgDisp("主人公","(｛Himuro＊＊｝ recognises ｛Sassa＊＊｝ in his
+own way, doesn't he?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

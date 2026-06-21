@@ -27,8 +27,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B040623402_06_020");
     MsgDisp("Himuro","...Fair point.
-Well, we're us, so we can just hold our heads
-high and own it.");
+Well, we're us, so we can just hold our
+heads high and own it.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -69,8 +69,8 @@ called children anymore though.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040623402_06_060");
-        MsgDisp("Himuro","Well, I can't deny there's a chance we'll be
-seen that way.");
+        MsgDisp("Himuro","Well, I can't deny there's a chance we'll
+be seen that way.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -81,8 +81,8 @@ seen that way.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040623402_06_080");
-        MsgDisp("Himuro","...Since we're here anyways, shall we try to
-go along with it?");
+        MsgDisp("Himuro","...Since we're here anyways, shall we try
+to go along with it?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);

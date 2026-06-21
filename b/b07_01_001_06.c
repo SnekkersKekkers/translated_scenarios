@@ -1,5 +1,5 @@
-MsgDisp("主人公","We've been hanging out with ｛Sassa＊＊｝ and
-｛Himuro＊＊｝ a lot lately.");
+MsgDisp("主人公","We've been hanging out with ｛Sassa＊＊｝
+and ｛Himuro＊＊｝ a lot lately.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -7,16 +7,16 @@ VoicePlay("B070100001_01_300");
 MsgDisp("Kazama","Well yeah. Me, you and Sassa make sense,
 we're childhood friends. But if you think
 about it, Inori is a strange addition.");
-MsgDisp("主人公","It's not strange but, I wonder if ｛Himuro＊＊｝
-likes us?");
+MsgDisp("主人公","It's not strange but, I wonder if
+｛Himuro＊＊｝ likes us?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_310");
 MsgDisp("Kazama","Who knows?
-His evaluation criteria is a mystery, well,
-he definitely finds us interesting.");
+His evaluation criteria is a mystery,
+well, he definitely finds us interesting.");
 MsgDisp("主人公","Hehe.
 It would be nice if we could all stick
 together from now on too.");

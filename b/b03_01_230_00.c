@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChEyeOpenLevel(1,0);
     VoicePlay("B030123000_01_020");
-    MsgDisp("Kazama","Yeah, no way we're skipping that one now that
-we're here.");
+    MsgDisp("Kazama","Yeah, no way we're skipping that one now
+that we're here.");
     ChEye(1,0);
     ChEyeOpenLevel(1,10);
     break ;
@@ -80,7 +80,8 @@ Alright, let's go!");
     ChEyeOpenLevel(1,8);
     ScrFadeIn(0);
     VoicePlay("B030123000_01_060");
-    MsgDisp("Kazama","If you want to turn back, now's your chance.");
+    MsgDisp("Kazama","If you want to turn back, now's
+your chance.");
     break ;
     case 3:
     MsgDispSksp(1,0);

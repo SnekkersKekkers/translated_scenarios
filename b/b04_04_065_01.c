@@ -28,7 +28,8 @@ For now, let's just watch the fireworks?");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040406501_04_020");
-    MsgDisp("Nanatsumori","Ah... It'd be a shame to wake up from this.");
+    MsgDisp("Nanatsumori","Ah...
+It'd be a shame to wake up from this.");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040211100_02_020");
-        MsgDisp("Sassa","The gap between what you say and what you do
-is huge, you know?");
+        MsgDisp("Sassa","The gap between what you say and what you
+do is huge, you know?");
         MsgDateResultDisp();
         }
     break ;

@@ -13,8 +13,8 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);
 VoicePlay("B070201000_02_000");
-MsgDisp("Sassa","Hey, you know how you asked me before about
-what love means to me?");
+MsgDisp("Sassa","Hey, you know how you asked me before
+about what love means to me?");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -27,8 +27,9 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,2);
 VoicePlay("B070201000_02_020");
-MsgDisp("Sassa","After that, I thought about it in my own way,
-and love just doesn't rank in my priorities.");
+MsgDisp("Sassa","After that, I thought about it in my own
+way, and love just doesn't rank in my
+priorities.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,0);

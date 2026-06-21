@@ -18,8 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040422201_04_010");
     MsgDisp("Nanatsumori","Seems like girls would like it.
-It would probably be well-received if it was
-turned into a movie.");
+It would probably be well-received if it
+was turned into a movie.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

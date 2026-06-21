@@ -14,5 +14,5 @@ VoicePlay("B020402129_04_010");
 MsgDisp("Nanatsumori","Yeah.
 When the person and the clothes click, the
 result's amazing.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes like
-these, too.)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes
+like these, too.)");

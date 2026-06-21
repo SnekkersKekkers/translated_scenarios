@@ -79,8 +79,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B20101_01_010");
-MsgDisp("Kazama","Deep sea fish are delicious, but when you see
-them like that, it's a bit sad.");
+MsgDisp("Kazama","Deep sea fish are delicious, but when you
+see them like that, it's a bit sad.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,1,1);

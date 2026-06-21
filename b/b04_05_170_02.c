@@ -67,8 +67,8 @@ for Couples Only\"?");
         ChMouth(5,3);
         ChMotion(5,4);
         VoicePlay("B040517002_05_070");
-        MsgDisp("Hiiragi","Even if it's only for lovey-dovey couples, I
-don't mind at all.");
+        MsgDisp("Hiiragi","Even if it's only for lovey-dovey couples,
+I don't mind at all.");
         MsgDisp("主人公","(Hehe, ｛Hiiragi＊＊＊｝ has a surprisingly
 stubborn side...)");
         break ;

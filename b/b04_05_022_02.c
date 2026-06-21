@@ -56,12 +56,13 @@ a ship, I guess we could go there for work?");
         ChMotion(5,0);
         VoicePlay("B040502202_05_040");
         MsgDisp("Hiiragi","Hard to say.
-I've never been on a long boat trip before.");
+I've never been on a long boat
+trip before.");
         ChMotion(5,4);
         VoicePlay("B040502202_05_050");
-        MsgDisp("Hiiragi","Before coming to Habataki City, I travelled
-all over the country, but it wasn't on a
-sea voyage.");
+        MsgDisp("Hiiragi","Before coming to Habataki City, I
+travelled all over the country, but it
+wasn't on a sea voyage.");
         MsgDisp("主人公","I see.
 ｛Hiiragi＊＊＊｝ is accustomed to travelling.");
         ChEye(5,0);

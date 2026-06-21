@@ -56,8 +56,8 @@ Let's go.");
     ScrFadeIn(0);
     VoicePlay("B030523000_05_040");
     MsgDisp("Hiiragi","I like that feeling you get when boarding.
-It's a little nerve-wracking, like being on a
-ski lift.");
+It's a little nerve-wracking, like being
+on a ski lift.");
     break ;
     case 2:
     MsgDispSksp(1,0);

@@ -10,10 +10,11 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_020");
 MsgDisp("Himuro","It's normal.
-It's more concerning to be indifferent about
-what's going on in the world.");
+It's more concerning to be indifferent
+about what's going on in the world.");
 MsgDisp("主人公","I see...
-Do you watch programmes related to the ocean?");
+Do you watch programmes related to
+the ocean?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -27,7 +28,8 @@ ChMotion(6,3);
 VoicePlay("B070600000_06_040");
 MsgDisp("Himuro","Right.
 It portrays nature as it is.");
-MsgDisp("主人公","I see. That's just like ｛Himuro＊＊｝ isn't it?");
+MsgDisp("主人公","I see.
+That's just like ｛Himuro＊＊｝ isn't it?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -36,15 +38,15 @@ VoicePlay("B070600000_06_050");
 MsgDisp("Himuro","You say it's like me, but what do you know
 about me?");
 MsgDisp("主人公","Hehe, that's right.
-Then, from now on too, could you tell me lots
-of different things?");
+Then, from now on too, could you tell me
+lots of different things?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600000_06_060");
 MsgDisp("Himuro","...If I feel like it.");
-MsgDisp("主人公","(No matter what he says, ｛Himuro＊＊｝ will tell
-me about himself, right?)");
+MsgDisp("主人公","(No matter what he says, ｛Himuro＊＊｝ will
+tell me about himself, right?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

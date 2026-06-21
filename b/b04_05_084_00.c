@@ -6,8 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508400_05_000");
 MsgDisp("Hiiragi","Maybe it's the water temperature...
-The autumn colours here come a little later
-than elsewhere.");
+The autumn colours here come a little
+later than elsewhere.");
 MsgSel("It's thanks to the spring water.","I guess it's slightly off?","The fallen leaves floating on the water are beautiful.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,9 +26,9 @@ temperature, after all.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040508400_05_020");
-    MsgDisp("Hiiragi","Saying it's \"off\" sounds negative, but it's
-wonderful that you can enjoy it in a way
-that's unique to this place.");
+    MsgDisp("Hiiragi","Saying it's \"off\" sounds negative, but
+it's wonderful that you can enjoy it in a
+way that's unique to this place.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,9 +38,9 @@ that's unique to this place.");
     ChEye(5,3);
     ChMotion(5,0);
     VoicePlay("B040508400_05_030");
-    MsgDisp("Hiiragi","Yes, thanks to the transparency of the spring
-water, the shadows of the leaves are
-reflected on the bottom of the water.");
+    MsgDisp("Hiiragi","Yes, thanks to the transparency of the
+spring water, the shadows of the leaves
+are reflected on the bottom of the water.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

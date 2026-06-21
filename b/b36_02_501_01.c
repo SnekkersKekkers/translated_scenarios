@@ -45,8 +45,8 @@ MsgClose();
 SEPlay("EV_SE_FOOT_RUN_AWAY_ALONE");
 ChClose(2);
 MsgDisp("主人公","(｛Sassa＊＊｝ is like a little kid.
-Maybe we used to play like this together in
-kindergarten...?)");
+Maybe we used to play like this together
+in kindergarten...?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

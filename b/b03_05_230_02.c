@@ -37,7 +37,8 @@ Let's watch it from the best spot.");
     ChEyeOpenLevel(5,8);
     VoicePlay("B030523002_05_020");
     MsgDisp("Hiiragi","I see... That's unfortunate.
-It's hard to leave, but it can't be helped.");
+It's hard to leave, but it can't
+be helped.");
     MsgDispSksp(0);
     break ;
     default :

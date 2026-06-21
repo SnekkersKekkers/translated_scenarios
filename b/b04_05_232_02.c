@@ -41,8 +41,8 @@ or miss?");
         ChEye(5,4);
         ChMouth(5,0);
         VoicePlay("B040523202_05_030");
-        MsgDisp("Hiiragi","Hmm, if two people ride in a pink one, that
-indicates a fortune of love...");
+        MsgDisp("Hiiragi","Hmm, if two people ride in a pink one,
+that indicates a fortune of love...");
         ChEye(5,0);
         ChMouth(5,4);
         ChMotion(5,0);
@@ -87,8 +87,8 @@ Thank you.");
         ChMotion(5,4);
         VoicePlay("B040523202_05_080");
         MsgDisp("Hiiragi","Yes. But...do you want to try again?");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you like fortune telling this
-much...)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you like fortune telling
+this much...)");
         break ;
         default :
         DbgAssert(1);

@@ -70,8 +70,8 @@ ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B110600001_06_030");
-MsgDisp("Himuro","Anyone who hides behind a hood and sunglasses
-to deceive people is a \"this\".
+MsgDisp("Himuro","Anyone who hides behind a hood and
+sunglasses to deceive people is a \"this\".
 If you don't like it, act properly.");
 MsgDispSksp(0);
 ChEye(34,1);

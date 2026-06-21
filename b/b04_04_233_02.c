@@ -47,8 +47,8 @@ to it...");
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_040");
         MsgDisp("Nanatsumori","Eh? ...What did you think I was?");
-        MsgDisp("主人公","I thought you were a model who could fit into
-any situation.");
+        MsgDisp("主人公","I thought you were a model who could fit
+into any situation.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,1,1);
@@ -64,9 +64,9 @@ different world, ｛Nanatsumori＊｝.");
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_060");
         MsgDisp("Nanatsumori","!");
-        MsgDisp("主人公","Sometimes it's gentle, sometimes scary, you
-can also sometimes feel something sad about
-it. Of course, there's sexy too.");
+        MsgDisp("主人公","Sometimes it's gentle, sometimes scary,
+you can also sometimes feel something sad
+about it. Of course, there's sexy too.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,2,1);
@@ -78,8 +78,8 @@ it. Of course, there's sexy too.");
         ChMotion(4,0,1);
         VoicePlay("B040423302_04_080");
         MsgDisp("Nanatsumori","This is the happiest I've been.
-More than being praised by the cameraman or
-the producer on site.");
+More than being praised by the cameraman
+or the producer on site.");
         VoicePlay("B040423302_04_090");
         MsgDisp("Nanatsumori","It got through to the person I wanted to
 convey it to most.

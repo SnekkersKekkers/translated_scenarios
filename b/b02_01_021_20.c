@@ -12,7 +12,7 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B020102120_01_010");
 MsgDisp("Kazama","Huh...
-You're way too good at everything—even this
-style suits you.");
+You're way too good at everything—even
+this style suits you.");
 MsgDisp("主人公","(｛Kazama＊＊｝ seems to like clothes like
 these, too.)");

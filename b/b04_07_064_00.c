@@ -12,7 +12,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B040706400_07_010");
-MsgDisp("Mikage","Yeah. I like them more than when I was a kid.");
+MsgDisp("Mikage","Yeah.
+I like them more than when I was a kid.");
 MsgDisp("主人公","Is that so?");
 ChEye(7,0);
 ChMouth(7,3);
@@ -23,11 +24,11 @@ ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,2);
 VoicePlay("B040706400_07_030");
-MsgDisp("Mikage","Only those who have the financial power of an
-adult but retained their childlike mind can
-enjoy this.");
-MsgDisp("主人公","Hehe, you're gonna buy the whole place out,
-aren't you?");
+MsgDisp("Mikage","Only those who have the financial power of
+an adult but retained their childlike mind
+can enjoy this.");
+MsgDisp("主人公","Hehe, you're gonna buy the whole place
+out, aren't you?");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,4);

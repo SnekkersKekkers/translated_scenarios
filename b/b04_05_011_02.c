@@ -61,14 +61,15 @@ Compared to you, I'm the dishonest one.");
         ChEyeOpenLevel(5,#1);
         VoicePlay("B040501102_05_060");
         MsgDisp("Hiiragi","I wonder why?
-I seem to become childish when I am in front
-of you.");
+I seem to become childish when I am in
+front of you.");
         VoicePlay("B040501102_05_070");
         MsgDisp("Hiiragi","What is it about you that causes this...
-I am surprised that such feelings themselves
-remain within me.");
-        MsgDisp("主人公","｛Hiiragi＊＊＊｝, I would be happy if you were to
-talk to me about whatever was on your mind.");
+I am surprised that such feelings
+themselves remain within me.");
+        MsgDisp("主人公","｛Hiiragi＊＊＊｝, I would be happy if you
+were to talk to me about whatever was on
+your mind.");
         ChEye(5,4);
         ChMouth(5,4);
         ChMotion(5,3);
@@ -87,8 +88,8 @@ Can we walk around once holding hands?");
         MsgDisp("Hiiragi","Thank you.");
         ChMotion(5,4);
         VoicePlay("B040501102_05_100");
-        MsgDisp("Hiiragi","Unlike the lines on stage, in real life, only
-simple words come out.");
+        MsgDisp("Hiiragi","Unlike the lines on stage, in real life,
+only simple words come out.");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, are you relying on me?)");
         break ;
         default :
@@ -101,8 +102,8 @@ simple words come out.");
     ChEye(5,4);
     ChMotion(5,0);
     VoicePlay("B040501102_05_110");
-    MsgDisp("Hiiragi","Though, I'm slightly conscious of the store
-clerk watching us.");
+    MsgDisp("Hiiragi","Though, I'm slightly conscious of the
+store clerk watching us.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

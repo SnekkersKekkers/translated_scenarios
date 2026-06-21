@@ -47,8 +47,8 @@ history here in the medieval ages.");
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040110100_01_030");
-    MsgDisp("Kazama","It's important to be more interested in your
-local history.");
+    MsgDisp("Kazama","It's important to be more interested in
+your local history.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

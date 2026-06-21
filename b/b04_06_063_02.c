@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,2);
     ChEyeOpenLevel(6,0);
     VoicePlay("B040606302_06_010");
-    MsgDisp("Himuro","I was mistaken to bring up this sort of topic
-up with you.");
+    MsgDisp("Himuro","I was mistaken to bring up this sort of
+topic up with you.");
     MsgDateResultDisp();
     break ;
     case 1:

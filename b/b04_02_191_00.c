@@ -23,7 +23,8 @@ stuff that requires me to use my head.");
     ChMotion(2,4);
     VoicePlay("B040219100_02_010");
     MsgDisp("Sassa","Yeah, that's about right.
-Even I could watch it without getting bored.");
+Even I could watch it without
+getting bored.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

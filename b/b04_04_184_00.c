@@ -25,9 +25,9 @@ I'm going to buy merch.");
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040418400_04_010");
-    MsgDisp("Nanatsumori","Really? The sea slugs were the lead actors,
-it was so amazing that I couldn't take my
-eyes off them.");
+    MsgDisp("Nanatsumori","Really? The sea slugs were the lead
+actors, it was so amazing that I couldn't
+take my eyes off them.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

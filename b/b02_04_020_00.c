@@ -20,6 +20,6 @@ ChMouth(4,3);
 ChMotion(4,3);
 VoicePlay("B020402000_04_020");
 MsgDisp("Nanatsumori","...Yeah. Seriously incredible...");
-MsgDisp("主人公","(｛Nanatsumori＊｝, are you overwhelmed by the
-intensity of your senior?
+MsgDisp("主人公","(｛Nanatsumori＊｝, are you overwhelmed by
+the intensity of your senior?
 Hehe, that's a little funny!)");

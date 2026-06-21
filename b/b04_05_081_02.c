@@ -7,8 +7,8 @@ ScrFadeIn(0);
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B040508102_05_000");
-MsgDisp("Hiiragi","No matter how many times I see it, its beauty
-never changes.");
+MsgDisp("Hiiragi","No matter how many times I see it, its
+beauty never changes.");
 MsgSel("I want to come again and again.","Umm...thank you.","Quite a lot has fallen huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -63,8 +63,8 @@ You were not mistaken.");
         ChMotion(5,2);
         VoicePlay("B040508102_05_060");
         MsgDisp("Hiiragi","Proof of that is when I come here, my eyes
-continuously go back and forth from you and
-the cherry blossoms. I am truly busy.");
+continuously go back and forth from you
+and the cherry blossoms. I am truly busy.");
         MsgDisp("主人公","Umm... ｛Hiiragi＊＊＊｝, thank you.");
         ChEye(5,3);
         ChMouth(5,3);
@@ -76,7 +76,8 @@ thing, hanami dango.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(5);
         SEWait();
-        MsgDisp("主人公","(He covered for my silly misunderstanding...
+        MsgDisp("主人公","(He covered for my silly
+misunderstanding...
 ｛Hiiragi＊＊＊｝, thank you.)");
         break ;
         default :

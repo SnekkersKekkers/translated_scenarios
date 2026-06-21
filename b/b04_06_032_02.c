@@ -47,8 +47,8 @@ quarrel in front of it.");
         ChMouth(6,0);
         ChMotion(6,4);
         VoicePlay("B040603202_06_030");
-        MsgDisp("Himuro","It's a great mistake to think everyone would
-be jealous of the couples.");
+        MsgDisp("Himuro","It's a great mistake to think everyone
+would be jealous of the couples.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -61,8 +61,8 @@ be jealous of the couples.");
         MsgDisp("Himuro","Why?
 It's a penguin, so it doesn't matter
 either way?");
-        MsgDisp("主人公","But if I were a penguin, and ｛Himuro＊＊｝ came
-here on a date...");
+        MsgDisp("主人公","But if I were a penguin, and ｛Himuro＊＊｝
+came here on a date...");
         ChEye(6,0);
         ChMouth(6,1);
         ChMotion(6,0);
@@ -78,8 +78,8 @@ your own?");
         ChMouth(6,0);
         ChMotion(6,0,1);
         VoicePlay("B040603202_06_070");
-        MsgDisp("Himuro","Why would I have to come to a place like this
-with someone other than you?");
+        MsgDisp("Himuro","Why would I have to come to a place like
+this with someone other than you?");
         MsgDisp("主人公","No, I'm just talking in hypotheticals...");
         ChEye(6,0);
         ChMouth(6,0);
@@ -91,9 +91,10 @@ with someone other than you?");
         ChMouth(6,0);
         ChMotion(6,0,1);
         VoicePlay("B040603202_06_090");
-        MsgDisp("Himuro","The person you'd see me with, as a penguin,
-is Reiichi-san.");
-        MsgDisp("主人公","Reiichi-san...you mean Vice Principal Himuro?");
+        MsgDisp("Himuro","The person you'd see me with, as a
+penguin, is Reiichi-san.");
+        MsgDisp("主人公","Reiichi-san...you mean Vice
+Principal Himuro?");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,3);

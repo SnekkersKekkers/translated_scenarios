@@ -26,7 +26,8 @@ Don't just make stuff up.");
     ChMouth(4,4);
     ChMotion(4,0,1);
     VoicePlay("B040420001_04_020");
-    MsgDisp("Nanatsumori","Our pace is kinda iffy but...well, let's ski.");
+    MsgDisp("Nanatsumori","Our pace is kinda iffy but...well,
+let's ski.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -39,7 +40,8 @@ Don't just make stuff up.");
     ChEyeOpenLevel(4,8);
     VoicePlay("B040420001_04_030");
     MsgDisp("Nanatsumori","Seriously, that's it.
-In a warm place, gracefully, and comfortably.");
+In a warm place, gracefully, and
+comfortably.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

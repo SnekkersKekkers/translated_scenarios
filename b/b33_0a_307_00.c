@@ -49,8 +49,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B330A30700_02_000");
-MsgDisp("Sassa","You're not especially bad with this kind of
-stuff are you, Ryota?");
+MsgDisp("Sassa","You're not especially bad with this kind
+of stuff are you, Ryota?");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,1);
@@ -59,7 +59,8 @@ VoicePlay("B330A30700_01_020");
 MsgDisp("Kazama","Yeah, of course.
 I'm fine.
 She's the one who's scared.");
-MsgDisp("主人公","Maybe I should sit this one out after all...?");
+MsgDisp("主人公","Maybe I should sit this one out
+after all...?");
 ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0);

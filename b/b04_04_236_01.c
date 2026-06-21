@@ -46,7 +46,8 @@ The sweetness and spice are just right.");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("B040423601_04_030");
-    MsgDisp("Nanatsumori","Well, I guess it's hard for girls to accept.");
+    MsgDisp("Nanatsumori","Well, I guess it's hard for girls
+to accept.");
     MsgDateResultDisp();
     break ;
     default :

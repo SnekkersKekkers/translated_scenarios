@@ -5,8 +5,8 @@ ChMouth(4,3);
 ChMotion(4,3);
 ScrFadeIn(0);
 VoicePlay("B040402202_04_000");
-MsgDisp("Nanatsumori","A photo just can't capture everything about a
-360-degree panorama like this...");
+MsgDisp("Nanatsumori","A photo just can't capture everything
+about a 360-degree panorama like this...");
 MsgSel("You can't experience it with a photograph","It's all about photos...","Maybe it's an issue with your technique, ｛Nanatsumori＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,9 +15,9 @@ switch (MsgSelRsltGet()){
     ChMouth(4,3);
     ChMotion(4,1,1);
     VoicePlay("B040402202_04_010");
-    MsgDisp("Nanatsumori","Yeah, exactly. No matter how much you edit it
-to look nice, there's no sea breeze blowing
-from a photograph.");
+    MsgDisp("Nanatsumori","Yeah, exactly. No matter how much you edit
+it to look nice, there's no sea breeze
+blowing from a photograph.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -45,7 +45,8 @@ from a photograph.");
         VoicePlay("B040402202_04_030");
         MsgDisp("Nanatsumori","You're sulking?");
         MsgDisp("主人公","I mean...
-We came out all this way together after all.");
+We came out all this way together
+after all.");
         ChEye(4,2);
         ChMouth(4,1);
         ChMotion(4,2,1);
@@ -66,12 +67,13 @@ I'm sorry.");
         ChEye(4,0);
         ChMouth(4,4);
         VoicePlay("B040402202_04_070");
-        MsgDisp("Nanatsumori","Let's take a picture together, the two of us.");
+        MsgDisp("Nanatsumori","Let's take a picture together, the two
+of us.");
         ChEye(4,4);
         ChMotion(4,1,1);
         VoicePlay("B040402202_04_080");
-        MsgDisp("Nanatsumori","Of course, it won't be for social media, just
-for private use.");
+        MsgDisp("Nanatsumori","Of course, it won't be for social media,
+just for private use.");
         MsgDisp("主人公","Is that okay?");
         ChEye(4,0);
         ChMouth(4,3);

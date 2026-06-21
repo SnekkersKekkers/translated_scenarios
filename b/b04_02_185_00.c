@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,4);
     ChEyeOpenLevel(2,0);
     VoicePlay("B040218500_02_000");
-    MsgDisp("Sassa","I didn't think much of romance movies, but...
-in the end, I was wishing for their
+    MsgDisp("Sassa","I didn't think much of romance movies,
+but... in the end, I was wishing for their
 happiness.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -26,7 +26,8 @@ happiness.");
     ChMotion(2,4);
     VoicePlay("B040218500_02_010");
     MsgDisp("Sassa","No way that ending was okay.
-I really wanted to see what happens next...");
+I really wanted to see what
+happens next...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

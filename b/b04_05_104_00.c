@@ -28,7 +28,8 @@ Oh, you mean the insect legs?");
     ChMotion(5,2);
     VoicePlay("B040510400_05_020");
     MsgDisp("Hiiragi","Eh, is that so...
-Let's pass by the butterfly specimen corner.");
+Let's pass by the butterfly
+specimen corner.");
     MsgDateResultDisp();
     break ;
     case 2:

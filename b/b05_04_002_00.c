@@ -41,13 +41,14 @@ MsgDisp("主人公","Ah.");
 StlEyeOpenLevel(4,5,1);
 VoicePlay("B050400200_04_030");
 MsgDisp("Nanatsumori","What.");
-MsgDisp("主人公","This is the first time you've taken off your
-glasses with that hairstyle, right?");
+MsgDisp("主人公","This is the first time you've taken off
+your glasses with that hairstyle, right?");
 StlEyeOpenLevel(4,0,1);
 VoicePlay("B050400200_04_040");
 MsgDisp("Nanatsumori","That's right.
 I'd never take them off at school.");
-MsgDisp("主人公","Yeah. ｛Nanatsumori＊｝ is super cool even now.");
+MsgDisp("主人公","Yeah.
+｛Nanatsumori＊｝ is super cool even now.");
 StlEye(4,1);
 VoicePlay("B050400200_04_050");
 MsgDisp("Nanatsumori","Thanks.

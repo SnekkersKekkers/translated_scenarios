@@ -19,7 +19,8 @@ ChMotion(1,2);
 ChEyeOpenLevel(1,8);
 VoicePlay("B360115101_01_010");
 MsgDisp("Kazama","There's two bad ones left.
-Seems like a herculean task even for a pro.");
+Seems like a herculean task even for
+a pro.");
 MsgDisp("主人公","But ｛Kazama＊＊｝ could probably knock
 them down.");
 ChEye(1,0);
@@ -45,7 +46,8 @@ SEPlay("EV_SE_544");
 ChOpen(1,255,0,3,3,#1,#1,0,0,0,30);
 ChMotion(1,3);
 VoicePlay("B360115101_01_050");
-MsgDisp("Kazama","Yeah, with this now, it's just the two of us.");
+MsgDisp("Kazama","Yeah, with this now, it's just the two
+of us.");
 MsgDisp("主人公","Eh? Was someone there?");
 ChEye(1,2);
 ChMouth(1,3);
@@ -58,8 +60,8 @@ ChMouth(1,3);
 ChMotion(1,4);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360115101_01_070");
-MsgDisp("Kazama","They disturbed our time together, so I threw
-it and they fell.");
+MsgDisp("Kazama","They disturbed our time together, so I
+threw it and they fell.");
 MsgDisp("主人公","Ehhh? I feel sorry for those two.");
 ChEye(1,0);
 ChMouth(1,2);
@@ -74,11 +76,11 @@ ChMouth(1,0);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360115101_01_090");
-MsgDisp("Kazama","If I throw with this image in mind, I might
-come out with a high score.");
+MsgDisp("Kazama","If I throw with this image in mind, I
+might come out with a high score.");
 MsgDisp("主人公","(｛Kazama＊＊｝...
-I think finding a different technique might
-be better?)");
+I think finding a different technique
+might be better?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

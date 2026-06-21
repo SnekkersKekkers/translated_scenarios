@@ -56,7 +56,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360403201_04_070");
 MsgDisp("Nanatsumori","You got it.
-Just watching your facial expressions is fun.");
+Just watching your facial expressions
+is fun.");
 MsgDisp("主人公","Hey!
 We came to the aquarium, so let's look at
 the fish!");

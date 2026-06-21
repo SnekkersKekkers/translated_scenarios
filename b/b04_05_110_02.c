@@ -67,8 +67,8 @@ poolside.");
         ChMotion(5,3);
         VoicePlay("B040511002_05_060");
         MsgDisp("Hiiragi","But, let's hurry.
-The private hot-spring feeling makes running
-by the poolside worth it.");
+The private hot-spring feeling makes
+running by the poolside worth it.");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, do you like jacuzzi baths
 that much?)");
         break ;
@@ -93,7 +93,8 @@ that much?)");
     ChCheek(5,7);
     VoicePlay("B040511002_05_080");
     MsgDisp("Hiiragi","That's right.
-Feeling like I'm in a hot spring with you...");
+Feeling like I'm in a hot spring
+with you...");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

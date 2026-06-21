@@ -14,8 +14,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040211002_02_010");
-    MsgDisp("Sassa","That's why we're not stopping, we're taking
-a break.");
+    MsgDisp("Sassa","That's why we're not stopping, we're
+taking a break.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

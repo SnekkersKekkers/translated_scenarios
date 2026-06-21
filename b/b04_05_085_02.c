@@ -32,7 +32,8 @@ The cold has gotten you strangely tense.");
         ChEye(5,2);
         ChMotion(5,4);
         VoicePlay("B040508502_05_020");
-        MsgDisp("Hiiragi","Hey, if you do that you'll run out of breath.");
+        MsgDisp("Hiiragi","Hey, if you do that you'll run out
+of breath.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -51,8 +52,8 @@ The cold has gotten you strangely tense.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040508502_05_050");
-        MsgDisp("Hiiragi","No, my heart just skipped a beat seeing your
-breath turn white.");
+        MsgDisp("Hiiragi","No, my heart just skipped a beat seeing
+your breath turn white.");
         MsgDisp("主人公","Ehhh∋");
         ChEye(5,3);
         ChMouth(5,2);
@@ -73,8 +74,8 @@ your breath.");
         VoicePlay("B040508502_05_080");
         MsgDisp("Hiiragi","Ah, please excuse me.
 Winter is a wonderful thing, isn't it?");
-        MsgDisp("主人公","(Hey, ｛Hiiragi＊＊＊｝, you say weird things from
-time to time don't you...)");
+        MsgDisp("主人公","(Hey, ｛Hiiragi＊＊＊｝, you say weird things
+from time to time don't you...)");
         break ;
         default :
         DbgAssert(1);
@@ -88,8 +89,8 @@ time to time don't you...)");
     ChMotion(5,3);
     VoicePlay("B040508502_05_090");
     MsgDisp("Hiiragi","Sounds good.
-How about we hold hands and walk around the
-spring several times?");
+How about we hold hands and walk around
+the spring several times?");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -9,8 +9,8 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040403301_04_000");
-MsgDisp("Nanatsumori","Deep sea fish have evolved into some strange
-shapes, haven't they?");
+MsgDisp("Nanatsumori","Deep sea fish have evolved into some
+strange shapes, haven't they?");
 MsgSel("It's interesting.","Huh, it looks like you, ｛Nanatsumori＊｝.","It looks like I can learn to make weird faces here!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040403301_04_020");
     MsgDisp("Nanatsumori","Seriously∋
-It really does...the colour, the spiky parts,
-it really might look like me.");
+It really does...the colour, the spiky
+parts, it really might look like me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

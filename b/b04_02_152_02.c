@@ -70,8 +70,8 @@ vertically.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040215202_02_050");
-        MsgDisp("Sassa","Yeah, if you do it like that, it won't go off
-to the side.");
+        MsgDisp("Sassa","Yeah, if you do it like that, it won't go
+off to the side.");
         MsgDisp("主人公","Understood, I'll try that.");
         MsgClose();
         ChClose(2);

@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,0);
     VoicePlay("B040510200_05_010");
     MsgDisp("Hiiragi","Yes, me too.
-If we treat everything as nourishment for our
-craft, we might learn something new.");
+If we treat everything as nourishment for
+our craft, we might learn something new.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

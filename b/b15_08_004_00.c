@@ -18,8 +18,8 @@ ChMouth(8,4);
 ChMotion(8,0,1);
 VoicePlay("B150800400_08_030");
 MsgDisp("Shirahane","I like it when you do that to me.
-If you keep doin' that to me, next time, I'll
-wanna do the same to you.");
+If you keep doin' that to me, next time,
+I'll wanna do the same to you.");
 ChEye(8,2);
 VoicePlay("B150800400_08_040");
 MsgDisp("Shirahane","...Understood?");
@@ -39,7 +39,8 @@ It's like an unstoppable force...or out of
 frustration.");
 ChEye(8,4);
 VoicePlay("B150800400_08_070");
-MsgDisp("Shirahane","I don't wanna do those rough things to you.
+MsgDisp("Shirahane","I don't wanna do those rough things
+to you.
 I wanna treasure you.");
 ChEye(8,2);
 ChMouth(8,0);
@@ -53,6 +54,7 @@ MsgDisp("Shirahane","See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(8,0,30);
-MsgDisp("主人公","(I wonder if I've troubled ｛Daichi＊＊｝...)");
+MsgDisp("主人公","(I wonder if I've troubled
+｛Daichi＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

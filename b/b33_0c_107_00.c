@@ -57,8 +57,8 @@ ChEye(6,2);
 ChMouth(6,0);
 ChMotion(6,4);
 VoicePlay("B330C10700_06_020");
-MsgDisp("Himuro","Can't you tell all that spinning of yours has
-wiped us out?");
+MsgDisp("Himuro","Can't you tell all that spinning of yours
+has wiped us out?");
 MsgDisp("主人公","Maybe I spun it a little too much...");
 ChEye(7,0);
 ChMouth(7,0);
@@ -101,7 +101,8 @@ MsgDisp("主人公","Eh∋");
 MsgClose();
 ScrFadeOut(0,0);
 VoicePlay("B330C10700_05_030");
-MsgDisp("Hiiragi","Well, let's enjoy ourselves to the fullest?");
+MsgDisp("Hiiragi","Well, let's enjoy ourselves to the
+fullest?");
 MsgDisp("主人公","Yeah...!");
 MsgDisp("主人公","(I'm happy, but is it really okay to leave
 ｛Himuro＊＊｝ and ｛Mikage＊＊｝ behind?)");

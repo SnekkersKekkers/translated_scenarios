@@ -4,9 +4,9 @@ MsgClose();
 ChOpen(1,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050100200_01_000");
-MsgDisp("Kazama","How about we finish the day with some coffee
-boiled over charcoal, while watching the
-autumn leaves?");
+MsgDisp("Kazama","How about we finish the day with some
+coffee boiled over charcoal, while
+watching the autumn leaves?");
 MsgDisp("主人公","Wow, that sounds wonderful!");
 MsgClose();
 ScrFadeOut(0,0);
@@ -33,8 +33,8 @@ MsgDisp("主人公","Wow, when did you get this?
 ｛Kazama＊＊｝, you're like a magician!");
 StlEyeOpenLevel(1,5);
 VoicePlay("B050100200_01_030");
-MsgDisp("Kazama","I haven't heard of a magician that pulls out
-sweet potatoes.");
+MsgDisp("Kazama","I haven't heard of a magician that pulls
+out sweet potatoes.");
 StlEyeOpenLevel(1,#1);
 VoicePlay("B050100200_01_040");
 MsgDisp("Kazama","Here. It's piping hot, so be careful.");
@@ -46,8 +46,8 @@ StlCheek(1,5);
 VoicePlay("B050100200_01_050");
 MsgDisp("Kazama","......");
 MsgDisp("主人公","Hey...
-If you stare at me like that, it'll be hard
-for me to eat.");
+If you stare at me like that, it'll be
+hard for me to eat.");
 StlEye(1,1);
 StlMouth(1,1);
 StlCheek(1,7);
@@ -90,8 +90,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B050100200_01_090");
-MsgDisp("Kazama","When you have a nice reaction like that, it's
-worthwhile for me too.");
+MsgDisp("Kazama","When you have a nice reaction like that,
+it's worthwhile for me too.");
 MsgDisp("主人公","Next time I'll be the one to surprise
 ｛Kazama＊＊｝ with something he likes.
 What would be good for you?");

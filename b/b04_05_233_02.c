@@ -33,7 +33,8 @@ That's the charm of this attraction.");
         ChMotion(5,0);
         VoicePlay("B040523302_05_020");
         MsgDisp("Hiiragi","Oh, ah, please excuse me.
-It seems like I was the only one having fun.");
+It seems like I was the only one
+having fun.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -49,16 +50,16 @@ It seems like I was the only one having fun.");
         ChMouth(5,4);
         ChMotion(5,4);
         VoicePlay("B040523302_05_040");
-        MsgDisp("Hiiragi","It'd be nice if we could jump together, don't
-you think?");
+        MsgDisp("Hiiragi","It'd be nice if we could jump together,
+don't you think?");
         MsgDisp("主人公","Eh?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040523302_05_050");
         MsgDisp("Hiiragi","If we do it together, it won't be
 scary, right?");
-        MsgDisp("主人公","Yeah...but, if the lines get tangled it might
-be dangerous?");
+        MsgDisp("主人公","Yeah...but, if the lines get tangled it
+might be dangerous?");
         ChEye(5,3);
         ChMouth(5,3);
         VoicePlay("B040523302_05_060");

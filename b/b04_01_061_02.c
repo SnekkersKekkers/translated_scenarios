@@ -82,8 +82,8 @@ You're basically just bait.");
         ChEyeOpenLevel(1,8);
         ChCheek(1,0);
         VoicePlay("B040106102_01_070");
-        MsgDisp("Kazama","No, that's just how amazing your attraction
-powers are.
+        MsgDisp("Kazama","No, that's just how amazing your
+attraction powers are.
 Especially today.");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
@@ -93,8 +93,8 @@ Especially today.");
         VoicePlay("B040106102_01_080");
         MsgDisp("Kazama","You understand?
 So leaving my side today is prohibited.");
-        MsgDisp("主人公","(Seems like ｛Kazama＊＊｝ is banning more and
-more things these days...)");
+        MsgDisp("主人公","(Seems like ｛Kazama＊＊｝ is banning more
+and more things these days...)");
         break ;
         default :
         DbgAssert(1);

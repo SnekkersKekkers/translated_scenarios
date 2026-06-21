@@ -5,8 +5,8 @@ ChOpen(3,255,0,0,3,#1,#1,0,0);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040323202_03_000");
-MsgDisp("Honda","I'm gradually starting to understand the good
-points of ferris wheels.");
+MsgDisp("Honda","I'm gradually starting to understand the
+good points of ferris wheels.");
 MsgSel("If you look into the distance, it's not scary.","I love that feeling of being lifted away from the ground.","We get to take our time to talk, right?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -57,8 +57,8 @@ from that.");
         ChEye(3,0);
         ChMotion(3,1);
         VoicePlay("B040323202_03_050");
-        MsgDisp("Honda","Something like, hey, I'm sitting opposite you
-in an empty space, right?
+        MsgDisp("Honda","Something like, hey, I'm sitting opposite
+you in an empty space, right?
 It's like an interview.");
         MsgDisp("主人公","Yeah, it's a bit odd.");
         ChEye(3,4);
@@ -74,8 +74,8 @@ I mean, maybe warm or happy...");
         ChCheek(3,10);
         VoicePlay("B040323202_03_070");
         MsgDisp("Honda","Huh?
-Could this be... that bittersweet feeling of
-young love?");
+Could this be... that bittersweet feeling
+of young love?");
         SEPlay("EV_SE_GAYA_024",0.5,0.5);
         SEPlay("EV_SE_GAYA_017",1);
         SEWait();

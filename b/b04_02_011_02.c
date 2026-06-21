@@ -56,8 +56,8 @@ Couples-only days.");
         VoicePlay("B040201102_02_040");
         MsgDisp("Sassa","It's not a big deal, right?
 It's not like there's a certificate.");
-        MsgDisp("主人公","That's true, proving it would be difficult,
-I guess.");
+        MsgDisp("主人公","That's true, proving it would be
+difficult, I guess.");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,0);

@@ -10,7 +10,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B050600000_06_010");
 MsgDisp("Himuro","...like a cherry blossom carpet?");
-MsgDisp("主人公","I guess it's more like a futon than a carpet?");
+MsgDisp("主人公","I guess it's more like a futon than
+a carpet?");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
@@ -51,8 +52,9 @@ StlEye(6,1);
 StlMouth(6,1);
 StlEyeOpenLevel(6,0);
 VoicePlay("B050600000_06_060");
-MsgDisp("Himuro","Everything I was thinking about, everything
-that worried me, is drifting away.");
+MsgDisp("Himuro","Everything I was thinking about,
+everything that worried me, is
+drifting away.");
 MsgDisp("主人公","Is something bothering you?");
 StlEye(6,1);
 StlMouth(6,1);
@@ -99,8 +101,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B050600000_06_110");
-MsgDisp("Himuro","Today might be the first and last time we get
-to see the cherry blossoms together.");
+MsgDisp("Himuro","Today might be the first and last time we
+get to see the cherry blossoms together.");
 MsgDisp("主人公","Huh?");
 ChEye(6,0);
 ChMouth(6,4);

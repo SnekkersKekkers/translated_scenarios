@@ -46,8 +46,8 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 MsgDispSksp(1,5);
 VoicePlay("B110300002_03_010");
-MsgDisp("Honda","Yeah, you must be a CEO of a big company or
-something?");
+MsgDisp("Honda","Yeah, you must be a CEO of a big company
+or something?");
 MsgDispSksp(0);
 ChEye(35,0);
 ChMouth(35,0);
@@ -83,7 +83,7 @@ ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B110300002_03_040");
 MsgDisp("Honda","No, it's my fault.
-The gold jacket guy only showed up because I
-was late.");
+The gold jacket guy only showed up because
+I was late.");
 MsgDisp("主人公","(｛Honda＊＊｝...somehow, you were really
 reliable.)");

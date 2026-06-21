@@ -36,7 +36,8 @@ If you didn't it was unrewarding.");
     ChMotion(6,4);
     VoicePlay("B040618800_06_020");
     MsgDisp("Himuro","I honestly couldn't sit through it.
-Other than that, I'm at a loss for words...");
+Other than that, I'm at a loss for
+words...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

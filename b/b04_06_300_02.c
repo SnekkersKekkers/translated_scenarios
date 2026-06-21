@@ -107,7 +107,8 @@ Thanks.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040630002_06_110");
-        MsgDisp("Himuro","Seriously, you throw me for a loop so easily.");
+        MsgDisp("Himuro","Seriously, you throw me for a loop
+so easily.");
         MsgDisp("主人公","(...?
 ｛Himuro＊＊｝ seems happy for some reason?)");
         break ;

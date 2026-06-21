@@ -10,7 +10,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4,1);
 ScrFadeIn(0);
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, did you want to go to the park?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, did you want to go to
+the park?");
 ChEye(5,3);
 VoicePlay("B360550100_05_000");
 MsgDisp("Hiiragi","I wonder.");
@@ -25,16 +26,16 @@ ChEye(5,2);
 ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B360550100_05_020");
-MsgDisp("Hiiragi","It might be disrespectful to the park to say
-that anywhere is fine.
+MsgDisp("Hiiragi","It might be disrespectful to the park to
+say that anywhere is fine.
 But that's honestly how I feel.");
 ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(12,0);
 ChEye(5,4);
 VoicePlay("B360550100_05_030");
-MsgDisp("Hiiragi","I'm sorry to those two, but I wanted to talk
-to you alone.");
+MsgDisp("Hiiragi","I'm sorry to those two, but I wanted to
+talk to you alone.");
 MsgDisp("主人公","I see...");
 ChEye(5,2);
 ChEyeOpenLevel(5,0);
@@ -75,7 +76,8 @@ SEWait();
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(Hehe. ｛Hiiragi＊＊＊｝ is like a child today.)");
+MsgDisp("主人公","(Hehe.
+｛Hiiragi＊＊＊｝ is like a child today.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

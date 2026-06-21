@@ -6,8 +6,8 @@ ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 ScrFadeIn(0);
 VoicePlay("B040108102_01_000");
-MsgDisp("Kazama","When I'm looking at the cherry blossoms, I'm
-reminded of all kinds of things.");
+MsgDisp("Kazama","When I'm looking at the cherry blossoms,
+I'm reminded of all kinds of things.");
 MsgSel("The elementary school entrance ceremony?","Are there cherry blossoms in England?","The Haba High entrance ceremony?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -34,8 +34,8 @@ like that.");
         ChMouth(1,2);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040108102_01_020");
-        MsgDisp("Kazama","Just what exactly am I supposed to feel about
-you saying that?");
+        MsgDisp("Kazama","Just what exactly am I supposed to feel
+about you saying that?");
         MsgDisp("主人公","Huh?");
         ChMouth(1,1);
         ChMotion(1,0,1);
@@ -62,8 +62,8 @@ But you know, I remember.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040108102_01_060");
         MsgDisp("Kazama","You were just a scared, timid little kid.
-And from the day we were in the same class,
-we always went home together.");
+And from the day we were in the same
+class, we always went home together.");
         MsgDisp("主人公","Yeah. You were always cheering me up.");
         ChEye(1,0);
         ChMouth(1,3);
@@ -81,8 +81,8 @@ But, thank you.");
         MsgDisp("Kazama","Oh-hoh. That honesty is nice.
 Make sure you're always grateful, okay?
 From now on, thank me once a day.");
-        MsgDisp("主人公","(｛Kazama＊＊｝, you've cared about me for so
-long now...
+        MsgDisp("主人公","(｛Kazama＊＊｝, you've cared about me for
+so long now...
 It makes me happy.)");
         break ;
         default :

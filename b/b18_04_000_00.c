@@ -22,7 +22,8 @@ feeling though.");
     ChEye(4,4);
     ChMotion(4,1,1);
     VoicePlay("B180400000_04_030");
-    MsgDisp("Nanatsumori","Yeah. It's a nice kind of thrill for me too.");
+    MsgDisp("Nanatsumori","Yeah.
+It's a nice kind of thrill for me too.");
     MsgDisp("主人公","Hehe!");
     ChEye(4,4);
     ChMouth(4,3);

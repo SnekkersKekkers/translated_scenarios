@@ -75,8 +75,8 @@ places we stayed had bowling alleys.");
         ChEye(5,4);
         VoicePlay("B040515102_05_070");
         MsgDisp("Hiiragi","Indeed, but I wasn't allowed to play.
-Despite appearances, I've been a lead actor
-since I was little.");
+Despite appearances, I've been a lead
+actor since I was little.");
         MsgDisp("主人公","I see...");
         ChEye(5,0);
         ChMouth(5,3);
@@ -95,9 +95,9 @@ I grew up being cared for by everyone.");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040515102_05_100");
-        MsgDisp("Hiiragi","That said, being able to go bowling anytime
-with the person I like might be the best time
-of my life.");
+        MsgDisp("Hiiragi","That said, being able to go bowling
+anytime with the person I like might be
+the best time of my life.");
         MsgDisp("主人公","(｛Hiiragi＊＊＊｝, you're exaggerating.)");
         break ;
         default :

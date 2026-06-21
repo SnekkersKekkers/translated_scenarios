@@ -12,8 +12,8 @@ switch (MsgSelRsltGet()){
     NSSMouth(4,4);
     VoicePlay("B160400300_04_010");
     MsgDisp("Nanatsumori","Ah...right.
-Now that you've answered so honestly, I don't
-know how to respond.");
+Now that you've answered so honestly, I
+don't know how to respond.");
     break ;
     case 1:
     NSSEye(4,2);

@@ -6,7 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040502102_05_000");
 MsgDisp("Hiiragi","There really aren't many people here.
-It looks like I can do some vocal exercises.");
+It looks like I can do some vocal
+exercises.");
 MsgSel("I want to hear it.","This is the feeling of the springtime of life.","Teach me too");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,8 +51,8 @@ sunset on a beach, correct?");
         ChMouth(5,4);
         ChMotion(5,0);
         VoicePlay("B040502102_05_040");
-        MsgDisp("Hiiragi","It's neither sunset, nor are we at a beach,
-but do you want to try it?");
+        MsgDisp("Hiiragi","It's neither sunset, nor are we at a
+beach, but do you want to try it?");
         MsgDisp("主人公","Eh, are you really going to do it?");
         ChEye(5,4);
         ChMouth(5,3);
@@ -94,8 +95,8 @@ Let's do it together.");
     ChMotion(5,3);
     VoicePlay("B040502102_05_100");
     MsgDisp("Hiiragi","Are you interested?
-We're anticipating your visit at the Habataki
-Theatre Company.");
+We're anticipating your visit at the
+Habataki Theatre Company.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

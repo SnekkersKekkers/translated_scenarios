@@ -35,7 +35,8 @@ ScrFadeOut(0);
 SEPlay("EV_SE_551");
 SEWait();
 VoicePlay("B150400400_04_050");
-MsgDisp("Nanatsumori","Even though I really wanted to cherish you...");
+MsgDisp("Nanatsumori","Even though I really wanted to
+cherish you...");
 VoicePlay("B150400400_04_060");
 MsgDisp("Nanatsumori","This is making me lose confidence.
 Come on, understand...");

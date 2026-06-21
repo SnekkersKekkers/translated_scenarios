@@ -10,8 +10,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040112101_01_000");
-MsgDisp("Kazama","I always thought that the flea markets here
-were very lively.");
+MsgDisp("Kazama","I always thought that the flea markets
+here were very lively.");
 MsgSel("Wow, they're even selling fresh veggies.","There's so many different things, you can never tire of it.","If ｛Kazama＊＊｝ opened a stall, it would be the talk of the city.");
 switch (MsgSelRsltGet()){
     case 0:

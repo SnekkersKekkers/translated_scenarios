@@ -28,15 +28,17 @@ MsgDisp("Kazama","Whaddya mean why?
 What're we gonna do once we're on it?");
 ChSet(3,3);
 VoicePlay("B330B30800_03_000");
-MsgDisp("Honda","Let's all chat while we sail through the sky!");
+MsgDisp("Honda","Let's all chat while we sail through
+the sky!");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30800_01_020");
 MsgDisp("Kazama","That's fine for you, but what about us?");
-MsgDisp("主人公","I guess we'll listen to ｛Honda＊＊｝'s chatter
-while looking at the beautiful scenery?");
+MsgDisp("主人公","I guess we'll listen to ｛Honda＊＊｝'s
+chatter while looking at the beautiful
+scenery?");
 ChSet(3,0);
 ChEye(4,0);
 ChMouth(4,3);
@@ -89,7 +91,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330B30800_01_050");
 MsgDisp("Kazama","Leave it.");
-MsgDisp("主人公","(Umm...is there something I haven't noticed?)");
+MsgDisp("主人公","(Umm...is there something I haven't
+noticed?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

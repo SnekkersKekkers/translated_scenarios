@@ -5,7 +5,8 @@ ChMouth(2,4);
 ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B040208200_02_000");
-MsgDisp("Sassa","The path around the pond's great for a walk.
+MsgDisp("Sassa","The path around the pond's great for
+a walk.
 Especially this time of year.");
 MsgSel("Yes, lovely flowers are blooming too.","The doggies would be happy here!","Does this make you want to run?");
 switch (MsgSelRsltGet()){
@@ -15,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040208200_02_010");
-    MsgDisp("Sassa","It's not just the cultivated ones; some are
-growing wild too.");
+    MsgDisp("Sassa","It's not just the cultivated ones; some
+are growing wild too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

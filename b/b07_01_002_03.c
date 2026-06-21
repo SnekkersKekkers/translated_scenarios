@@ -4,9 +4,11 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B070100002_01_150");
-MsgDisp("Kazama","Are you talking about Honda and Nanatsumori?");
+MsgDisp("Kazama","Are you talking about Honda and
+Nanatsumori?");
 MsgDisp("主人公","Yeah.
-｛Kazama＊＊｝ also looks like he's having fun.");
+｛Kazama＊＊｝ also looks like he's
+having fun.");
 ChEye(1,4);
 ChMouth(1,3);
 ChMotion(1,0,1);

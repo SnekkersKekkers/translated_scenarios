@@ -18,4 +18,5 @@ VoicePlay("B020502103_05_020");
 MsgDisp("Hiiragi","I don't want anyone but me to see you
 like this.
 What a strange feeling.");
-MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ seems to be really happy!)");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ seems to be really happy!)");

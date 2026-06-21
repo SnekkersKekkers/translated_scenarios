@@ -6,8 +6,8 @@ ChOpen(6,255,0,0,0,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B040623202_06_000");
 MsgDisp("Himuro","You still haven't noticed?
-This ride's a pretty high hurdle for a guy to
-get on.");
+This ride's a pretty high hurdle for a guy
+to get on.");
 MsgSel("I'm sure there are guys that like it?","But I want to ride it with ｛Himuro＊＊｝.","I haven't noticed at all.");
 switch (MsgSelRsltGet()){
     case 0:

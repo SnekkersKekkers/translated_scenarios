@@ -72,8 +72,8 @@ Seems like we don't get along...");
         ChMouth(4,3);
         ChMotion(4,0,1);
         VoicePlay("B040421202_04_070");
-        MsgDisp("Nanatsumori","I mean, bunny girls are something that guys
-yearn for?");
+        MsgDisp("Nanatsumori","I mean, bunny girls are something that
+guys yearn for?");
         MsgDisp("主人公","...Pervert.");
         ChEye(4,2);
         ChMouth(4,1);
@@ -81,7 +81,8 @@ yearn for?");
         ChCheek(4,8);
         VoicePlay("B040421202_04_080");
         MsgDisp("Nanatsumori","Eh∋
-I didn't say you had to be a full-body bunny.");
+I didn't say you had to be a
+full-body bunny.");
         MsgDisp("主人公","Your eyes are kind of serious though,
 ｛Nanatsumori＊｝.");
         ChEye(4,2);

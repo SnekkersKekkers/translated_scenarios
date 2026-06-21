@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040206202_02_000");
-MsgDisp("Sassa","If we were on a deserted island, maybe this
-cave would be our base camp?");
+MsgDisp("Sassa","If we were on a deserted island, maybe
+this cave would be our base camp?");
 MsgSel("Wouldn't it get flooded during high tide?","Eh? A deserted island?","First we'd need to start a fire!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -43,8 +43,8 @@ I'm glad you're here.");
         ChMotion(2,4);
         VoicePlay("B040206202_02_030");
         MsgDisp("Sassa","Yeah.
-What would you do if there were just the two
-of us and we had to survive?");
+What would you do if there were just the
+two of us and we had to survive?");
         MsgDisp("主人公","Having ｛Sassa＊＊｝ with me would be
 reassuring, I guess?");
         ChEye(2,0);
@@ -79,8 +79,8 @@ What's wrong?");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040206202_02_080");
-        MsgDisp("Sassa","I think catching some fish for dinner will be
-the fastest.
+        MsgDisp("Sassa","I think catching some fish for dinner will
+be the fastest.
 Is that okay with you?");
         MsgDisp("主人公","(He's already starting the survival...)");
         break ;

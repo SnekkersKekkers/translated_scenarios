@@ -115,7 +115,8 @@ Did you read my mind∋");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040417002_04_130");
-        MsgDisp("Nanatsumori","The heart-racing private room moment is over.");
+        MsgDisp("Nanatsumori","The heart-racing private room moment
+is over.");
         MsgDisp("主人公","Y-Yeah.");
         ChEye(4,4);
         ChMouth(4,3);
@@ -124,7 +125,8 @@ Did you read my mind∋");
         MsgDisp("Nanatsumori","Crap. I don't feel like singing anymore.
 Right?");
         MsgDisp("主人公","(Definitely.
-That might've been a bit too stimulating...)");
+That might've been a bit too
+stimulating...)");
         break ;
         default :
         DbgAssert(1);

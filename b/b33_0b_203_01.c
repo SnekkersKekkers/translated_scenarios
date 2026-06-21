@@ -38,9 +38,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B330B20301_03_010");
-MsgDisp("Honda","The yellow bananas we normally eat are green
-at harvest. If you let them ripen more,
-they'll be delicious.");
+MsgDisp("Honda","The yellow bananas we normally eat are
+green at harvest. If you let them ripen
+more, they'll be delicious.");
 ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,0,1);
@@ -89,9 +89,9 @@ ChMotion(3,3,1);
 VoicePlay("B330B20301_03_030");
 MsgDisp("Honda","We have to go!
 Right?");
-MsgDisp("主人公","(I'm sure ｛Honda＊＊｝ will start explaining
-lots of different things to us while we're
-sampling the fruit.)");
+MsgDisp("主人公","(I'm sure ｛Honda＊＊｝ will start
+explaining lots of different things to us
+while we're sampling the fruit.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

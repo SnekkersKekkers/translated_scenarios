@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(1,0);
     VoicePlay("B040123102_01_010");
     MsgDisp("Kazama","Apparently it's faster in the back.
-You can't see much either, so it's probably
-more thrilling.");
+You can't see much either, so it's
+probably more thrilling.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -63,7 +63,8 @@ you don't like it.");
         ChMouth(1,2);
         ChCheek(1,0);
         VoicePlay("B040123102_01_050");
-        MsgDisp("Kazama","Just how much is \"a bit\" is important though.
+        MsgDisp("Kazama","Just how much is \"a bit\" is
+important though.
 If you scream too much, you're banned.");
         MsgDisp("主人公","Hey, ｛Kazama＊＊｝.
 I'm gonna end up not being able to do
@@ -81,8 +82,8 @@ anything?");
         ChMotion(1,0);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123102_01_070");
-        MsgDisp("Kazama","Then just change your scream to \"Waa—\", that
-should be fine.");
+        MsgDisp("Kazama","Then just change your scream to \"Waa—\",
+that should be fine.");
         MsgDisp("主人公","(That's difficult, ｛Kazama＊＊｝...)");
         break ;
         default :
@@ -97,7 +98,8 @@ should be fine.");
     ChMotion(1,3);
     VoicePlay("B040123102_01_080");
     MsgDisp("Kazama","Isn't that good?
-It just means you're also in top form today.");
+It just means you're also in top
+form today.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

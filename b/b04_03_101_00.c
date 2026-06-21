@@ -16,8 +16,9 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040310100_03_010");
-    MsgDisp("Honda","Yep yep, the more the research advances, the
-more fascinating stories keep coming out.");
+    MsgDisp("Honda","Yep yep, the more the research
+advances, the more fascinating stories
+keep coming out.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -3,8 +3,8 @@ ChLayout(1);
 ChSet(3,0,1);
 ScrFadeIn(0);
 VoicePlay("B040311002_03_000");
-MsgDisp("Honda","If I wore a high-speed competitive swimsuit,
-I wonder if I could swim faster?");
+MsgDisp("Honda","If I wore a high-speed competitive
+swimsuit, I wonder if I could swim faster?");
 MsgSel("Like a sharkskin swimsuit?","Is speed really the issue?","Starting with the looks first?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -58,7 +58,8 @@ floating, don't you?");
         ChMotion(3,0);
         VoicePlay("B040311002_03_050");
         MsgDisp("Honda","Huh?
-There's kind of a bite to your words today.");
+There's kind of a bite to your
+words today.");
         MsgDisp("主人公","Eh, that's not what I meant!");
         MsgDisp("主人公","It's just that I think it's amazing that
 ｛Honda＊＊｝ enjoys even the things he's
@@ -73,8 +74,9 @@ That's what I meant!");
         ChMouth(3,3);
         ChMotion(3,4);
         VoicePlay("B040311002_03_070");
-        MsgDisp("Honda","Then, I'll let you in on a special secret
-about why I always look like I'm having fun.");
+        MsgDisp("Honda","Then, I'll let you in on a special
+secret about why I always look like I'm
+having fun.");
         ChEye(3,3);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -94,8 +96,8 @@ Because I'm together with you.");
     ChSet(3,0,1);
     VoicePlay("B040311002_03_090");
     MsgDisp("Honda","Yep yep.
-Yeah, exactly. Dressing the part is important
-to get your spirits up.");
+Yeah, exactly. Dressing the part is
+important to get your spirits up.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

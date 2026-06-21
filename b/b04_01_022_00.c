@@ -5,8 +5,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040102200_01_000");
-MsgDisp("Kazama","Seeing the sea from the port has a different
-charm to it than from the beach.");
+MsgDisp("Kazama","Seeing the sea from the port has a
+different charm to it than from the beach.");
 MsgSel("The ocean is truly amazing...","I want to sail around the world like this.","Look, the seagulls are so cute▼");
 switch (MsgSelRsltGet()){
     case 0:

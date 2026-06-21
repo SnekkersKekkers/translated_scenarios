@@ -5,15 +5,16 @@ ChMouth(3,0);
 ChMotion(3,4,1);
 ScrFadeIn(0);
 VoicePlay("B050300200_03_000");
-MsgDisp("Honda","There's something I want to show you today.");
+MsgDisp("Honda","There's something I want to show
+you today.");
 MsgDisp("主人公","What do you want to show me?");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B050300200_03_010");
 MsgDisp("Honda","We found something nostalgic in the attic.
-Close your eyes for a moment while I get it
-ready, okay?");
+Close your eyes for a moment while I get
+it ready, okay?");
 MsgDisp("主人公","Sure, gotcha.");
 MsgClose();
 ScrFadeOut(3,30);
@@ -36,10 +37,11 @@ Pretty!");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("B050300200_03_030");
-MsgDisp("Honda","This is the planetarium that I built back in
-elementary school.");
+MsgDisp("Honda","This is the planetarium that I built back
+in elementary school.");
 MsgDisp("主人公","Woah, that's awesome!
-You know how to build your own planetarium?");
+You know how to build your own
+planetarium?");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("B050300200_03_040");
@@ -49,8 +51,8 @@ coloured cellophane sheets.");
 StlEye(3,0);
 StlMouth(3,0);
 VoicePlay("B050300200_03_050");
-MsgDisp("Honda","The mechanism itself is the same as an actual
-planetarium.");
+MsgDisp("Honda","The mechanism itself is the same as an
+actual planetarium.");
 MsgDisp("主人公","That's really amazing!
 ｛Honda＊＊｝ can do some commentary now.");
 StlEye(3,0);
@@ -58,8 +60,8 @@ StlMouth(3,0);
 StlEyeOpenLevel(3,0);
 VoicePlay("B050300200_03_060");
 MsgDisp("Honda","—Ahem. Please take a look.
-Can you spot those three stars sparkling in
-the night sky?");
+Can you spot those three stars sparkling
+in the night sky?");
 MsgDisp("主人公","Hehe, it's like the real thing!");
 StlEye(3,0);
 StlMouth(3,0);
@@ -88,8 +90,8 @@ ChOpen(3,253,4,0,3,#1,#1,0,0,0,0);
 ScrFadeIn(0);
 VoicePlay("B050300200_03_100");
 MsgDisp("Honda","—So, it would go something like that.");
-MsgDisp("主人公","Were you explaining things like this back in
-elementary school too?");
+MsgDisp("主人公","Were you explaining things like this back
+in elementary school too?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1);
@@ -113,7 +115,7 @@ VoicePlay("B050300200_03_130");
 MsgDisp("Honda","Discovering that joy back in elementary
 school was huge.
 To be honest, it's how I got started.");
-MsgDisp("主人公","(｛Honda＊＊｝ has a really happy look on his
-face...)");
+MsgDisp("主人公","(｛Honda＊＊｝ has a really happy look on
+his face...)");
 BGMStop();
 ChPrmTblAdd(3,0);

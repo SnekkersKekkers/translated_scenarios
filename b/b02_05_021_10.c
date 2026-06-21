@@ -9,6 +9,7 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,9);
 VoicePlay("B020502110_05_010");
 MsgDisp("Hiiragi","The very opposite.
-I must take utmost care not to be swept up by
-such a provocative look.");
-MsgDisp("主人公","(Yay! ｛Hiiragi＊＊＊｝ seems to be really happy!)");
+I must take utmost care not to be swept up
+by such a provocative look.");
+MsgDisp("主人公","(Yay!
+｛Hiiragi＊＊＊｝ seems to be really happy!)");

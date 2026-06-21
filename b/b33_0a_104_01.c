@@ -65,14 +65,15 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B330A10401_06_030");
 MsgDisp("Himuro","Both you and Nozomu-senpai are simplistic.
-As for the interesting person...well there's
-only one person left, isn't there?");
+As for the interesting person...well
+there's only one person left, isn't there?");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,3);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10401_01_020");
-MsgDisp("Kazama","...Even I don't really have anything to hide.");
+MsgDisp("Kazama","...Even I don't really have anything
+to hide.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
@@ -101,8 +102,8 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,8);
 VoicePlay("B330A10401_01_030");
-MsgDisp("Kazama","At this rate, whether they hear anything or
-not, they're just going to tease me.");
+MsgDisp("Kazama","At this rate, whether they hear anything
+or not, they're just going to tease me.");
 MsgDisp("主人公","I-Is that so?");
 ChEye(1,2);
 ChMouth(1,2);

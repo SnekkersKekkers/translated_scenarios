@@ -5,8 +5,8 @@ ChMotion(5,2,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040508401_05_000");
-MsgDisp("Hiiragi","After the fireflies, it's the trees' turn to
-liven things up.");
+MsgDisp("Hiiragi","After the fireflies, it's the trees' turn
+to liven things up.");
 MsgSel("I like the autumn leaves more!","Let's collect the fallen leaves.","The firefly habitat is wonderful no matter which season.");
 switch (MsgSelRsltGet()){
     case 0:

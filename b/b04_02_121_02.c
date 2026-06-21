@@ -43,7 +43,8 @@ Then, shall we take a short break?");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040212101_02_030");
-        MsgDisp("Sassa","Yeah, wait a minute, I'll go buy some drinks.");
+        MsgDisp("Sassa","Yeah, wait a minute, I'll go buy
+some drinks.");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         MsgDisp("","　　　　　　　　　　 ・
@@ -67,7 +68,8 @@ Then, shall we take a short break?");
         ChMotion(2,2);
         VoicePlay("B040212101_02_050");
         MsgDisp("Sassa","When I went to buy drinks, I saw
-Mikage-sensei selling vegetables over there.");
+Mikage-sensei selling vegetables
+over there.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
@@ -117,8 +119,9 @@ That's somewhat embarrassing.)");
     ChMouth(2,4);
     ChMotion(2,3);
     VoicePlay("B040212101_02_110");
-    MsgDisp("Sassa","In other words, you're releasing adrenaline,
-so you feel like you're not tired right?");
+    MsgDisp("Sassa","In other words, you're releasing
+adrenaline, so you feel like you're not
+tired right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -12,6 +12,7 @@ ChMouth(2,2);
 ChMotion(2,2);
 VoicePlay("B020201000_02_010");
 MsgDisp("Sassa","The opposite.
-It's so good, I don't know where to look...");
+It's so good, I don't know where
+to look...");
 MsgDisp("主人公","(He seems to really like this swimsuit.
 I'm glad!)");

@@ -3,8 +3,8 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040106202_01_000");
-MsgDisp("Kazama","Aside from just being blue, the cave sounds
-are exciting too.");
+MsgDisp("Kazama","Aside from just being blue, the cave
+sounds are exciting too.");
 MsgSel("Boys like that kind of stuff, right?","Captain! Falling rocks overhead!","Hehe, ｛Kazama＊＊｝'s expedition team?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -20,7 +20,8 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(1,7);
         VoicePlay("B040106202_01_010");
         MsgDisp("Kazama","Boys?
-That's a pretty rough way to lump me in, huh?");
+That's a pretty rough way to lump me
+in, huh?");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -34,9 +35,9 @@ That's a pretty rough way to lump me in, huh?");
         MsgDisp("Kazama","And just how many boys do you have in your
 sample size, here? You sound like you're
 talking from some high and mighty place.");
-        MsgDisp("主人公","But ever since we were kids, you always said
-that you'd investigate anything you were
-curious about...");
+        MsgDisp("主人公","But ever since we were kids, you always
+said that you'd investigate anything you
+were curious about...");
         ChEyeOpenLevel(1,0);
         Wait(8,0);
         ChEye(1,0);
@@ -50,8 +51,8 @@ curious about...");
         MsgDisp("Kazama","Ahh, that's right.
 Like that ringing bell?");
         MsgDisp("主人公","Yeah.
-If it was just me alone, I would have never
-done anything like that.");
+If it was just me alone, I would have
+never done anything like that.");
         ChEye(1,4);
         ChMouth(1,2);
         ChMotion(1,0);

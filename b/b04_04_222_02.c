@@ -68,10 +68,11 @@ interested too.");
         ChMouth(4,0);
         ChMotion(4,1,1);
         VoicePlay("B040422202_04_060");
-        MsgDisp("Nanatsumori","So? Why is coming here with me fun for you?");
+        MsgDisp("Nanatsumori","So?
+Why is coming here with me fun for you?");
         MsgDisp("主人公","That's because...
-It feels like we're going back in time, the
-two of us.");
+It feels like we're going back in time,
+the two of us.");
         ChEye(4,0);
         ChMouth(4,0);
         ChMotion(4,3,1);

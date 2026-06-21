@@ -34,9 +34,9 @@ ChMouth(1,3);
 ChMotion(1,2);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100000_01_050");
-MsgDisp("Kazama","The \"Eating Around the Globe Series\" is good
-too. The episode about British home cooking
-was incredible.");
+MsgDisp("Kazama","The \"Eating Around the Globe Series\" is
+good too. The episode about British home
+cooking was incredible.");
 MsgDisp("主人公","(Umm, ｛Kazama＊＊｝ does like TV...)");
 BGMStop();
 MsgClose();

@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030723000_07_010");
-    MsgDisp("Mikage","Oh... Well, if you want to ride it, I'll go.");
+    MsgDisp("Mikage","Oh...
+Well, if you want to ride it, I'll go.");
     MsgDispSksp(0);
     SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
     MsgClose();
@@ -107,7 +108,8 @@ No issue there.");
     ChMouth(7,0);
     ChMotion(7,1);
     VoicePlay("B030723000_07_080");
-    MsgDisp("Mikage","That looks more dangerous than I thought...");
+    MsgDisp("Mikage","That looks more dangerous than I
+thought...");
     break ;
     default :
     DbgAssert(0);

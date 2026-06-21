@@ -17,9 +17,9 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4,1);
 VoicePlay("B360350201_03_010");
-MsgDisp("Honda","I was just imagining how Ryo-kun and Mi-kun
-would react if they found out we came here
-together.");
+MsgDisp("Honda","I was just imagining how Ryo-kun and
+Mi-kun would react if they found out we
+came here together.");
 MsgDisp("主人公","What kind of reaction do you think
 they'd have?");
 ChEye(3,4);
@@ -44,8 +44,7 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
 VoicePlay("B360350201_03_050");
-MsgDisp("Honda","\"Oh, you and Dahon?
-Did you have fun?\"");
+MsgDisp("Honda","\"Oh, you and Dahon? Did you have fun?\"");
 MsgDisp("主人公","｛Nanatsumori＊｝ seems pretty laid-back
 about it?");
 ChEye(3,3);

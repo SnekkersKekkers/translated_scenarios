@@ -26,8 +26,8 @@ little more?");
     ChMotion(6,3);
     VoicePlay("B040624200_06_020");
     MsgDisp("Himuro","Yeah, not a bad suggestion.
-Then, let's prepare the ingredients and start
-grilling right away.");
+Then, let's prepare the ingredients and
+start grilling right away.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

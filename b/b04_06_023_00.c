@@ -10,7 +10,8 @@ switch (MsgSelRsltGet()){
     ChMouth(6,0);
     ChMotion(6,0);
     VoicePlay("B040602300_06_010");
-    MsgDisp("Himuro","Well, that's pretty much all there is to do.");
+    MsgDisp("Himuro","Well, that's pretty much all there is
+to do.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -35,8 +36,8 @@ talk about!");
     ChMotion(6,3);
     VoicePlay("B040602300_06_030");
     MsgDisp("Himuro","A staring contest?
-...I'm good at it though? I'll go along with
-it, so just try to make me laugh.");
+...I'm good at it though? I'll go along
+with it, so just try to make me laugh.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

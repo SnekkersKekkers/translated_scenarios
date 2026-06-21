@@ -1,7 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Seems like ｛Nanatsumori＊｝ isn't here yet...");
+MsgDisp("主人公","Seems like ｛Nanatsumori＊｝ isn't
+here yet...");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -43,8 +44,8 @@ ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B110400000_04_020");
 MsgDisp("Nanatsumori","I see, I see.
-Good for you. You should definitely never go
-with a stranger.");
+Good for you. You should definitely never
+go with a stranger.");
 MsgDispSksp(0);
 ChEye(33,0);
 ChMouth(33,1);
@@ -74,8 +75,8 @@ MsgDispSksp(0);
 ChEye(33,2);
 ChMouth(33,1);
 VoicePlay("B110400000_33_070");
-MsgDisp("Guy","Guess they're not interested... nobody's even
-listening to me...");
+MsgDisp("Guy","Guess they're not interested... nobody's
+even listening to me...");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 MsgClose();
 ChClose(33,0,30);
@@ -86,8 +87,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B110400000_04_050");
 MsgDisp("Nanatsumori","Don't thank me.
-It was my fault for being late. I let such a
-cheap-looking guy mess with you...");
+It was my fault for being late. I let such
+a cheap-looking guy mess with you...");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,1,1);

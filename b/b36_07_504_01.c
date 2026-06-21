@@ -14,7 +14,8 @@ ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B360750401_07_010");
-MsgDisp("Mikage","...Don't give me that \"it's beautiful\" stuff.
+MsgDisp("Mikage","...Don't give me that \"it's
+beautiful\" stuff.
 Let's go.");
 MsgDisp("主人公","...Okay.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_TWO");
@@ -58,7 +59,8 @@ ChMotion(7,0);
 ChEyeOpenLevel(7,8);
 VoicePlay("B360750401_07_060");
 MsgDisp("Mikage","Let's keep it a secret between us.");
-MsgDisp("主人公","(Thank you for bringing me, ｛Mikage＊＊｝.)");
+MsgDisp("主人公","(Thank you for bringing me,
+｛Mikage＊＊｝.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

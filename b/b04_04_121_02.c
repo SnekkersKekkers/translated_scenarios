@@ -129,8 +129,8 @@ But, I'm also not mentally ready just yet.");
     ChMotion(4,0,1);
     VoicePlay("B040412102_04_130");
     MsgDisp("Nanatsumori","Eh...
-Is that something worth going to the trouble
-of looking for here?");
+Is that something worth going to the
+trouble of looking for here?");
     MsgDateResultDisp();
     break ;
     case 2:

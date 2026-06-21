@@ -13,7 +13,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1,1);
     VoicePlay("B040302300_03_010");
     MsgDisp("Honda","Exactly, the sea is the soup of life.
-This is also the scent of living creatures!");
+This is also the scent of living
+creatures!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

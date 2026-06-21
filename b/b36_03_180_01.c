@@ -24,7 +24,8 @@ ChMotion(3,0,1);
 VoicePlay("B360318001_03_020");
 MsgDisp("Honda","...Wait, did you hear about it from
 Mi-kun too?");
-MsgDisp("主人公","No, the popcorn here is just really popular.");
+MsgDisp("主人公","No, the popcorn here is just really
+popular.");
 ChMouth(3,4);
 VoicePlay("B360318001_03_030");
 MsgDisp("Honda","I see...wait a second.");
@@ -33,8 +34,9 @@ ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,2,1);
 VoicePlay("B360318001_03_040");
-MsgDisp("Honda","I just pictured you and Mi-kun eating popcorn
-together, and it made me feel... uneasy.");
+MsgDisp("Honda","I just pictured you and Mi-kun eating
+popcorn together, and it made me
+feel... uneasy.");
 MsgDisp("主人公","What?");
 ChEye(3,0);
 ChMouth(3,0);
@@ -48,8 +50,8 @@ ChMouth(3,4);
 ChMotion(3,4,1);
 VoicePlay("B360318001_03_060");
 MsgDisp("Honda","I didn't realise I was this possessive...
-When I'm with you, I keep discovering parts
-of myself I didn't know existed.");
+When I'm with you, I keep discovering
+parts of myself I didn't know existed.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);

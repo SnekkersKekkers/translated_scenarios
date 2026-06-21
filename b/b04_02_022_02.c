@@ -63,8 +63,8 @@ want to go.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040202202_02_060");
-        MsgDisp("Sassa","Whether I like the place or not, I want to go
-everywhere with you.
+        MsgDisp("Sassa","Whether I like the place or not, I want to
+go everywhere with you.
 ...That's the truth.");
         MsgDisp("主人公","I see. That makes me happy.");
         ChEye(2,4);
@@ -76,8 +76,9 @@ everywhere with you.
 you, right?
 Ah, I don't mean that in a weird way.");
         MsgDisp("主人公","Hehe, I think I understand?");
-        MsgDisp("主人公","(I hope ｛Sassa＊＊｝ and I can continue going
-to many different places in the future.)");
+        MsgDisp("主人公","(I hope ｛Sassa＊＊｝ and I can continue
+going to many different places in the
+future.)");
         break ;
         default :
         DbgAssert(1);
@@ -90,7 +91,8 @@ to many different places in the future.)");
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040202202_02_080");
-    MsgDisp("Sassa","I see. That's a good way to enjoy yourself.
+    MsgDisp("Sassa","I see.
+That's a good way to enjoy yourself.
 Next time, I'll try that too.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

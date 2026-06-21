@@ -12,8 +12,8 @@ ChMotion(2,3,1);
 ScrFadeIn(0);
 VoicePlay("B360218000_02_000");
 MsgDisp("Sassa","I'm glad we made it in time for the
-screening. We'll be able to watch it properly
-from the start.");
+screening. We'll be able to watch it
+properly from the start.");
 MsgDisp("主人公","Yeah, I'm glad!");
 ChEye(2,0);
 ChMouth(2,4);
@@ -42,7 +42,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B360218000_02_040");
-MsgDisp("Sassa","I won't watch this film with anyone but you.
+MsgDisp("Sassa","I won't watch this film with anyone
+but you.
 What about you?");
 MsgDisp("主人公","Ehh, that...");
 ChEye(2,0);

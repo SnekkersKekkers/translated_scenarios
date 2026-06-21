@@ -100,7 +100,8 @@ didn't you?");
         ChMouth(6,0);
         ChMotion(6,1);
         VoicePlay("B040620002_06_090");
-        MsgDisp("Himuro","We both need to be careful or we'll get hurt.
+        MsgDisp("Himuro","We both need to be careful or we'll
+get hurt.
 Come on, give me your hand.");
         MsgDisp("主人公","......");
         SEPlay("EV_SE_760");
@@ -119,7 +120,8 @@ didn't you?");
         ChMotion(6,1);
         ChEyeOpenLevel(6,0);
         VoicePlay("B040620002_06_110");
-        MsgDisp("Himuro","I don't know anymore, I'm leaving you here.");
+        MsgDisp("Himuro","I don't know anymore, I'm leaving
+you here.");
         MsgDisp("主人公","Ehhh∋ How cruel!");
         break ;
         default :

@@ -44,8 +44,8 @@ yourself, right?");
         ChMouth(2,0);
         ChMotion(2,4);
         VoicePlay("B040220002_02_030");
-        MsgDisp("Sassa","Hey, if you get too carried away, you'll get
-injured.");
+        MsgDisp("Sassa","Hey, if you get too carried away, you'll
+get injured.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -68,8 +68,8 @@ There is.");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040220002_02_060");
-        MsgDisp("Sassa","Then, before that, we have to practise using
-the advanced course first.");
+        MsgDisp("Sassa","Then, before that, we have to practise
+using the advanced course first.");
         MsgDisp("主人公","Hehe, alright.");
         ChClose(2);
         SEPlay("EV_SE_536");
@@ -86,8 +86,8 @@ the advanced course first.");
         ChMotion(2,3);
         VoicePlay("B040220002_02_080");
         MsgDisp("Sassa","Yeah, you're getting better.
-At this rate, we'll be able to do the expert
-course together one day.");
+At this rate, we'll be able to do the
+expert course together one day.");
         MsgDisp("主人公","Yay! Make sure to take me along, okay?");
         ChEye(2,3);
         ChMouth(2,3);

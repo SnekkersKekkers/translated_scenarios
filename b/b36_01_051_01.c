@@ -32,7 +32,8 @@ ChMouth(1,0);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B360105101_01_030");
-MsgDisp("Kazama","Those guys will be outraged if they find us.");
+MsgDisp("Kazama","Those guys will be outraged if they
+find us.");
 MsgDisp("主人公","Then, we can all have fun together again.");
 ChEye(1,0);
 ChMouth(1,1);

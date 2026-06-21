@@ -22,8 +22,8 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330C30700_06_010");
-MsgDisp("Himuro","I drew her again and again at sketch sessions
-in Elementary School.");
+MsgDisp("Himuro","I drew her again and again at sketch
+sessions in Elementary School.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -91,8 +91,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B330C30700_07_030");
-MsgDisp("Mikage","Now that we've come this far, let's colour it
-and finish it off on our own.
+MsgDisp("Mikage","Now that we've come this far, let's colour
+it and finish it off on our own.
 Today's sketching session ends here.");
 ChEye(6,0);
 ChMouth(6,3);
@@ -104,7 +104,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C30700_05_020");
 MsgDisp("Hiiragi","It was fun sketching with everyone.");
-MsgDisp("主人公","(Hehe! ｛Hiiragi＊＊＊｝ seems to be having fun.
+MsgDisp("主人公","(Hehe!
+｛Hiiragi＊＊＊｝ seems to be having fun.
 Alright, I'll also finish it at home.)");
 BGMStop();
 MsgClose();

@@ -28,7 +28,8 @@ I'm happy to hear you feel the same.");
     ChMotion(5,0);
     VoicePlay("B040523100_05_020");
     MsgDisp("Hiiragi","Are you alright?
-Sorry, it seems like only I enjoyed myself.");
+Sorry, it seems like only I
+enjoyed myself.");
     MsgDateResultDisp();
     break ;
     case 2:

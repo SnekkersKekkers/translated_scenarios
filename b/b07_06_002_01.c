@@ -35,21 +35,23 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600002_06_050");
 MsgDisp("Himuro","Maybe it's not quite naivety...
-But, at any rate he's definitely a bit off.");
+But, at any rate he's definitely a
+bit off.");
 MsgDisp("主人公","Yeah, I think I get it.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B070600002_06_060");
-MsgDisp("Himuro","Even if he's a little absent-minded, he's got
-his act together and has his eyes firmly set
-on the future.");
+MsgDisp("Himuro","Even if he's a little absent-minded, he's
+got his act together and has his eyes
+firmly set on the future.");
 ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600002_06_070");
-MsgDisp("Himuro","He's an interesting character in many ways.");
+MsgDisp("Himuro","He's an interesting character in
+many ways.");
 MsgDisp("主人公","(I wonder if ｛Hiiragi＊＊＊｝'s existence will
 expand ｛Himuro＊＊｝'s world.)");
 BGMStop();

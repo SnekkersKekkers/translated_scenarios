@@ -57,15 +57,15 @@ walking faster. Weird, huh?");
     ChMotion(3,4);
     VoicePlay("B010300002_03_050");
     MsgDisp("Honda","Yup yup. Actually, I couldn't wait to tell
-you this dream I had this morning, so I ended
-up here early.");
+you this dream I had this morning, so I
+ended up here early.");
     ChEye(3,0);
     ChMouth(3,0);
     ChMotion(3,0);
     VoicePlay("B010300002_03_060");
     MsgDisp("Honda","But then, as I got here early, I realised
-there was no point in being the only one here
-already.");
+there was no point in being the only one
+here already.");
     MsgDisp("主人公","Hehe. What kind of dream was it?");
     ChEye(3,3);
     ChMouth(3,3);

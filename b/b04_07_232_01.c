@@ -22,8 +22,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723201_07_010");
     MsgDisp("Mikage","It shook.
-I don't know if it was part of the theatrics,
-but it creaked as well～");
+I don't know if it was part of the
+theatrics, but it creaked as well～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -47,8 +47,8 @@ A difference in values, you could say.");
     ChEyeOpenLevel(7,10);
     VoicePlay("B040723201_07_030");
     MsgDisp("Mikage","That's right.
-Living with my roots in the ground suits me
-better. We're a good match.");
+Living with my roots in the ground suits
+me better. We're a good match.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040223502_02_010");
-    MsgDisp("Sassa","But the fact that rules don't apply to them,
-that's the scary part.");
+    MsgDisp("Sassa","But the fact that rules don't apply to
+them, that's the scary part.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -63,8 +63,8 @@ Even you were surprised.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040223502_02_050");
-        MsgDisp("Sassa","More importantly, did you see the small chair
-at the back of the old well?");
+        MsgDisp("Sassa","More importantly, did you see the small
+chair at the back of the old well?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,4);
@@ -73,8 +73,8 @@ at the back of the old well?");
 of sight.
 Maybe it's a break spot for the ghosts.");
         MsgDisp("主人公","Hehe.
-Rather than coming out the old well, they're
-sitting behind it, huh?");
+Rather than coming out the old well,
+they're sitting behind it, huh?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,0);
@@ -88,8 +88,8 @@ phones huh?");
         ChEyeOpenLevel(2,0);
         VoicePlay("B040223502_02_080");
         MsgDisp("Sassa","They probably didn't expect a customer as
-tall as me, maybe I'll be able to spot more
-funny things.");
+tall as me, maybe I'll be able to spot
+more funny things.");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);
@@ -108,7 +108,8 @@ Let's go elsewhere!");
         SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
         ChClose(2);
         SEWait();
-        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ is bad at haunted houses.
+        MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ is bad at
+haunted houses.
 It's a bit cute!)");
         MsgClose();
         ScrFadeOut(0);

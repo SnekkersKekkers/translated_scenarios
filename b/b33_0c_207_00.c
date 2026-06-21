@@ -30,8 +30,8 @@ ChEye(5,3);
 ChMouth(5,3);
 ChMotion(5,3);
 VoicePlay("B330C20700_05_000");
-MsgDisp("Hiiragi","Yes, after reaching the top, we went down in
-one loop.
+MsgDisp("Hiiragi","Yes, after reaching the top, we went down
+in one loop.
 Like my body was floating.");
 MsgDisp("主人公","Y-Yeah...
 That was the scariest part.");
@@ -59,8 +59,8 @@ ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C20700_05_020");
 MsgDisp("Hiiragi","I see... I'm happy.");
-MsgDisp("主人公","｛Hiiragi＊＊＊｝, you haven't been to amusement
-parks much have you?");
+MsgDisp("主人公","｛Hiiragi＊＊＊｝, you haven't been to
+amusement parks much have you?");
 ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,0);

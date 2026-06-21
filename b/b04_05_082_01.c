@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChEye(5,0);
     ChMotion(5,0);
     VoicePlay("B040508201_05_010");
-    MsgDisp("Hiiragi","There's that rumour about hearing someone's
-inner thoughts, right?");
+    MsgDisp("Hiiragi","There's that rumour about hearing
+someone's inner thoughts, right?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -42,8 +42,8 @@ gushes out.");
     ChMotion(5,0);
     VoicePlay("B040508201_05_030");
     MsgDisp("Hiiragi","Yes.
-That means Habataki City is a great place for
-fireflies to live, doesn't it?");
+That means Habataki City is a great place
+for fireflies to live, doesn't it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

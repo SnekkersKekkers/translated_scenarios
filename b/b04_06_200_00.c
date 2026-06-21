@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
         ChMotion(6,5);
         VoicePlay("B040620000_06_010");
         MsgDisp("Himuro","What's with that?
-But, I guess I do have no choice but to call
-you that.");
+But, I guess I do have no choice but to
+call you that.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);

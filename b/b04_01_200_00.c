@@ -31,7 +31,8 @@ Seems like today will be fun.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040120000_01_020");
         MsgDisp("Kazama","You're leaving craters all over the slope.
-Just how many times are you gonna wipe out?");
+Just how many times are you gonna
+wipe out?");
         MsgDateResultDisp();
         }
     break ;

@@ -14,5 +14,5 @@ MsgDisp("Honda","At least that's what I always figured...
 But on you, it works.
 It really works!");
 MsgDisp("主人公","(Oh, good.
-｛Honda＊＊｝ seems to have come to like these
-clothes.)");
+｛Honda＊＊｝ seems to have come to like
+these clothes.)");

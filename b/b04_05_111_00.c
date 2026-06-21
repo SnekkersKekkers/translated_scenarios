@@ -22,7 +22,8 @@ switch (MsgSelRsltGet()){
         ChMotion(5,0);
         VoicePlay("B040511100_05_010");
         MsgDisp("Hiiragi","An ice princess.
-Yes, your appearance lives up to your name.");
+Yes, your appearance lives up to
+your name.");
         MsgDispSksp(1,8);
         MsgDateResultDisp();
         MsgDispSksp(0);

@@ -45,8 +45,8 @@ Especially when it's you I'm with.");
         ChMouth(5,2);
         ChMotion(5,0);
         VoicePlay("B040508202_05_030");
-        MsgDisp("Hiiragi","Even if it's not true, I don't think it's a
-lie either.");
+        MsgDisp("Hiiragi","Even if it's not true, I don't think it's
+a lie either.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -59,14 +59,14 @@ lie either.");
         MsgDisp("主人公","Huh?");
         ChEye(5,0);
         VoicePlay("B040508202_05_050");
-        MsgDisp("Hiiragi","If you think that, it means you haven't heard
-anything of the sort, right?");
+        MsgDisp("Hiiragi","If you think that, it means you haven't
+heard anything of the sort, right?");
         ChEye(5,4);
         ChMotion(5,1);
         VoicePlay("B040508202_05_060");
-        MsgDisp("Hiiragi","I was anxious, worrying that my inner voice
-might be chattering away where I couldn't
-hear it.");
+        MsgDisp("Hiiragi","I was anxious, worrying that my inner
+voice might be chattering away where I
+couldn't hear it.");
         MsgDisp("主人公","Hehe, ｛Hiiragi＊＊＊｝ is your inner voice
 talkative?");
         ChEye(5,2);
@@ -76,8 +76,8 @@ talkative?");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040508202_05_080");
-        MsgDisp("Hiiragi","But, if you happen to hear it, please take it
-with a grain of salt.");
+        MsgDisp("Hiiragi","But, if you happen to hear it, please take
+it with a grain of salt.");
         MsgDisp("主人公","Hehe. Then, that goes for me too.");
         ChEye(5,3);
         ChMouth(5,4);

@@ -76,14 +76,16 @@ encourage me.");
         ChMotion(5,0);
         VoicePlay("B040521302_05_080");
         MsgDisp("Hiiragi","That's you.
-That's right, to me you are my lint roller.");
+That's right, to me you are my
+lint roller.");
         MsgDisp("主人公","Lint roller?");
         ChEye(5,3);
         ChMotion(5,4);
         VoicePlay("B040521302_05_090");
-        MsgDisp("Hiiragi","Yes, no matter what problem I have, you seem
-to resolve it neatly.");
-        MsgDisp("主人公","(I want ｛Hiiragi＊＊＊｝ to depend on me but...
+        MsgDisp("Hiiragi","Yes, no matter what problem I have, you
+seem to resolve it neatly.");
+        MsgDisp("主人公","(I want ｛Hiiragi＊＊＊｝ to depend on
+me but...
 Lint roller?)");
         break ;
         default :

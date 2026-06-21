@@ -37,8 +37,8 @@ observe, I can't calm down at all.");
         MsgDisp("主人公","What's wrong?");
         ChMotion(3,0);
         VoicePlay("B040303102_03_030");
-        MsgDisp("Honda","When I come here, there are various things I
-want to check, and there are several
+        MsgDisp("Honda","When I come here, there are various things
+I want to check, and there are several
 specimens that I observe regularly...");
         ChEye(3,2);
         ChMouth(3,2);
@@ -53,9 +53,10 @@ I was looking forward to listening to
         ChMotion(3,0);
         VoicePlay("B040303102_03_050");
         MsgDisp("Honda","Really?
-But today I'll speak calmly - is that okay?");
-        MsgDisp("主人公","I'd be happy if you could have fun talking to
-me like you always do.");
+But today I'll speak calmly - is
+that okay?");
+        MsgDisp("主人公","I'd be happy if you could have fun talking
+to me like you always do.");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
@@ -68,8 +69,8 @@ Because you're listening to me.");
         ChMotion(3,4);
         VoicePlay("B040303102_03_070");
         MsgDisp("Honda","Oh? I mean, I'm...
-I might be learning things that I think will
-be fun for you to hear about.");
+I might be learning things that I think
+will be fun for you to hear about.");
         MsgDisp("主人公","Huh∋");
         ChEye(3,4);
         ChMouth(3,4);
@@ -83,8 +84,9 @@ thinking about how to talk to you about it.");
         ChEyeOpenLevel(3,0);
         ChCheek(3,8);
         VoicePlay("B040303102_03_090");
-        MsgDisp("Honda","But in the end, the instant we meet I forget
-about it all and I just talk to you freely.");
+        MsgDisp("Honda","But in the end, the instant we meet I
+forget about it all and I just talk to
+you freely.");
         MsgDisp("主人公","(I can't believe ｛Honda＊＊｝ thinks of me
 that way...
 I'm so happy.)");

@@ -47,7 +47,8 @@ They look like professional dancers.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040723601_07_030");
-    MsgDisp("Mikage","Yeah, the nighttime makes a huge difference.
+    MsgDisp("Mikage","Yeah, the nighttime makes a huge
+difference.
 It gets you pumped no matter what.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

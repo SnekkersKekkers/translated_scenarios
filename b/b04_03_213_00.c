@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,0,1);
     VoicePlay("B040321300_03_010");
     MsgDisp("Honda","Ah, no, no, that's not it.
-There's preferences for either cats or dogs
-right? I'm a cat person.");
+There's preferences for either cats or
+dogs right? I'm a cat person.");
     MsgDateResultDisp();
     break ;
     case 1:

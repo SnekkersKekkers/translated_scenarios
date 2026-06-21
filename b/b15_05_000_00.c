@@ -11,15 +11,15 @@ ChMotion(5,4);
 VoicePlay("B150500000_05_010");
 MsgDisp("Hiiragi","No, no. I just remembered something.");
 VoicePlay("B150500000_05_020");
-MsgDisp("Hiiragi","The cat we kept at the theatre troupe a long
-time ago.");
+MsgDisp("Hiiragi","The cat we kept at the theatre troupe a
+long time ago.");
 MsgDisp("主人公","Cat?");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B150500000_05_030");
 MsgDisp("Hiiragi","I'd stroke his head, rub his belly.
-Even though I didn't have any friends, they
-would play with me often.");
+Even though I didn't have any friends,
+they would play with me often.");
 MsgDisp("主人公","So that's how it was.");
 ChMotion(5,4);
 VoicePlay("B150500000_05_040");
@@ -41,6 +41,7 @@ See you.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(5);
-MsgDisp("主人公","(Ehh...? Having my belly rubbed is a bit...)");
+MsgDisp("主人公","(Ehh...?
+Having my belly rubbed is a bit...)");
 MsgClose();
 ScrFadeOut(0,0);

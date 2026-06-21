@@ -32,6 +32,7 @@ Goodnight.");
 MsgDisp("主人公","Goodnight, ｛Daichi＊＊｝.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Daichi＊＊｝...called to check up on me.)");
+MsgDisp("主人公","(｛Daichi＊＊｝...called to check up
+on me.)");
 MsgClose();
 ScrFadeOut(0,0);

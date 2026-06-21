@@ -57,8 +57,8 @@ Let's go?");
     ChMotion(1,0);
     VoicePlay("B350100000_01_070");
     MsgDisp("Kazama","Don't apologise. I only came to pick up
-something I forgot. You should be careful on
-your way home as well.");
+something I forgot. You should be careful
+on your way home as well.");
     MsgClose();
     SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
     ChClose(1);

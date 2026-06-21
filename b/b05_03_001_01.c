@@ -13,8 +13,8 @@ VoicePlay("B050300101_45_000");
 MsgDisp("Girl","Ah, it's the Quiz King!");
 VoicePlay("B050300101_44_000");
 MsgDisp("Boy","For real!
-Quiz King, there are a bunch of crabs in the
-rocks over there.");
+Quiz King, there are a bunch of crabs in
+the rocks over there.");
 VoicePlay("B050300101_03_000");
 MsgDisp("Honda","Yeppers, where are they?");
 SEStop("EV_SE_855",3);

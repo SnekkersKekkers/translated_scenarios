@@ -42,7 +42,8 @@ Can you even hear the questions?");
     ChMotion(1,0);
     VoicePlay("B040116000_01_030");
     MsgDisp("Kazama","OK!
-Let's see what this game can tell about us?");
+Let's see what this game can tell
+about us?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

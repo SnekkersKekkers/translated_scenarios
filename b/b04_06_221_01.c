@@ -39,7 +39,8 @@ But, are you even listening to me?");
     ChMotion(6,3);
     VoicePlay("B040622101_06_030");
     MsgDisp("Himuro","Hmm.
-You're definitely amazingly sharp at times.");
+You're definitely amazingly sharp
+at times.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

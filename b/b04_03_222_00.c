@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040322200_03_010");
     MsgDisp("Honda","Yep yep, that looks like an IOU.
-The feudal lord borrowed money from a wealthy
-merchant.");
+The feudal lord borrowed money from a
+wealthy merchant.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -30,8 +30,8 @@ merchant.");
     ChMotion(3,1);
     VoicePlay("B040322200_03_020");
     MsgDisp("Honda","That's right.
-Sword scabbards were actually made as fashion
-items depending on the era.");
+Sword scabbards were actually made as
+fashion items depending on the era.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

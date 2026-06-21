@@ -33,7 +33,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650400_06_030");
 MsgDisp("Himuro","...Well, before, I used to think couples
-walking around places like this was nonsense.");
+walking around places like this was
+nonsense.");
 MsgDisp("主人公","Huh, is that so?");
 ChEye(6,0);
 ChMouth(6,0);
@@ -46,8 +47,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650400_06_050");
-MsgDisp("Himuro","...But, as I walk with you like this, I think
-I understand how they feel.");
+MsgDisp("Himuro","...But, as I walk with you like this, I
+think I understand how they feel.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -67,13 +68,15 @@ ChMotion(6,1);
 ChCheek(6,0);
 VoicePlay("B360650400_06_080");
 MsgDisp("Himuro","What's the big deal?
-We had plenty of fun together during the day.");
+We had plenty of fun together during
+the day.");
 ChEye(6,3);
 ChMouth(6,3);
 ChMotion(6,0);
 ChEyeOpenLevel(6,0);
 VoicePlay("B360650400_06_090");
-MsgDisp("Himuro","It's fine to keep it to ourselves sometimes.");
+MsgDisp("Himuro","It's fine to keep it to ourselves
+sometimes.");
 MsgDisp("主人公","(｛Himuro＊＊｝...)");
 BGMStop();
 MsgClose();

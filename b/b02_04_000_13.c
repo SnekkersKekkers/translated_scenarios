@@ -17,5 +17,5 @@ MsgDisp("Nanatsumori","Ah, yeah. ...But there's something else...
 Unlike models I see, there's something
 somehow moe about it...");
 MsgDisp("主人公","(...Moe?
-But at least ｛Nanatsumori＊｝ seems to really
-like it!)");
+But at least ｛Nanatsumori＊｝ seems to
+really like it!)");

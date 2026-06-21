@@ -33,8 +33,8 @@ of it.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040318100_03_020");
-    MsgDisp("Honda","\"Connect with the sash!
-The connections of youth!\"
+    MsgDisp("Honda","\"Connect with the sash! The connections
+of youth!\"
 That catchphrase is already awful.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

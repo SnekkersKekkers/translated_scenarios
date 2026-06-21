@@ -12,7 +12,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B070600001_06_400");
 MsgDisp("Himuro","Hmm... who knows.
-There's no way to tell something like that.");
+There's no way to tell something
+like that.");
 MsgDisp("主人公","I see.");
 ChEye(6,0);
 ChMouth(6,0);
@@ -50,8 +51,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 VoicePlay("B070600001_06_460");
 MsgDisp("Himuro","Besides, it's not like things are the best
-now. The relationship after the change might
-surprisingly be more comfortable.");
+now. The relationship after the change
+might surprisingly be more comfortable.");
 MsgDisp("主人公","(I see...)");
 BGMStop();
 MsgClose();

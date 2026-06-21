@@ -54,8 +54,8 @@ things I'm not used to yet?");
         ChMotion(6,4);
         VoicePlay("B040606202_06_040");
         MsgDisp("Himuro","When I'm with you, it always feels fresh.
-If I'm careless, I won't even get used to a
-trip to the convenience store.");
+If I'm careless, I won't even get used to
+a trip to the convenience store.");
         MsgDisp("主人公","Ehhh∋");
         ChEye(6,0);
         ChMouth(6,0);
@@ -74,8 +74,8 @@ feel, when I'm with you.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040606202_06_070");
-        MsgDisp("Himuro","Yeah...my chest is kind of itchy and tingly,
-but, it feels somewhat nice.");
+        MsgDisp("Himuro","Yeah...my chest is kind of itchy and
+tingly, but, it feels somewhat nice.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,2);
@@ -86,9 +86,9 @@ but, it feels somewhat nice.");
         ChMouth(6,4);
         ChMotion(6,0);
         VoicePlay("B040606202_06_090");
-        MsgDisp("Himuro","Well, but... I'm happy that you said I should
-\"Get used to it soon\", it means being by your
-side is only natural.");
+        MsgDisp("Himuro","Well, but... I'm happy that you said I
+should \"Get used to it soon\", it means
+being by your side is only natural.");
         MsgDisp("主人公","Hehe, yeah!");
         break ;
         default :

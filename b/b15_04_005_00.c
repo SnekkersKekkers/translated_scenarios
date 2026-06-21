@@ -42,7 +42,8 @@ VoicePlay("B150400500_04_050");
 MsgDisp("Nanatsumori","Sigh...");
 MsgDisp("主人公","Ugh... ｛Nanatsumori＊｝, it hurts.");
 VoicePlay("B150400500_04_060");
-MsgDisp("Nanatsumori","I bet. I'm holding you with all my strength.");
+MsgDisp("Nanatsumori","I bet.
+I'm holding you with all my strength.");
 MsgDisp("主人公","(What should I do?
 I can almost hear my heart racing...)");
 VoicePlay("B150400500_04_070");
@@ -78,7 +79,8 @@ MsgDisp("Nanatsumori","You're the one who's mean.
 Truth is you like it.");
 ChMotion(4,0,1);
 VoicePlay("B150400500_04_110");
-MsgDisp("Nanatsumori","From now on, touch me as much as you'd like.
+MsgDisp("Nanatsumori","From now on, touch me as much as
+you'd like.
 And I'll do the same.");
 ChMotion(4,1,1);
 VoicePlay("B150400500_04_120");

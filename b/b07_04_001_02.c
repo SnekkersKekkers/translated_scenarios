@@ -1,17 +1,17 @@
-MsgDisp("主人公","｛Nanatsumori＊｝ and ｛Honda＊＊｝ are extremely
-different types.");
+MsgDisp("主人公","｛Nanatsumori＊｝ and ｛Honda＊＊｝ are
+extremely different types.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_100");
 MsgDisp("Nanatsumori","For sure.
-Even I was dead set on never having anything
-to do with Dahon.");
+Even I was dead set on never having
+anything to do with Dahon.");
 MsgDisp("主人公","Hmmm...");
 ChMotion(4,0,1);
 VoicePlay("B070400001_04_110");
-MsgDisp("Nanatsumori","He's so chatty, loud about everything, like
-an out-of-control robot.");
+MsgDisp("Nanatsumori","He's so chatty, loud about everything,
+like an out-of-control robot.");
 MsgDisp("主人公","Hehe!");
 ChEye(4,0);
 ChMouth(4,4);
@@ -36,9 +36,9 @@ ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
 VoicePlay("B070400001_04_150");
-MsgDisp("Nanatsumori","Well, something like that. Even though we're
-polar opposites, it seems like we get along
-and can learn from each other.");
+MsgDisp("Nanatsumori","Well, something like that. Even though
+we're polar opposites, it seems like we
+get along and can learn from each other.");
 MsgDisp("主人公","(Hehe, ｛Nanatsumori＊｝ seems to be
 having fun!)");
 BGMStop();

@@ -87,7 +87,8 @@ ChMotion(7,3);
 VoicePlay("B330C20800_07_050");
 MsgDisp("Mikage","Yay! This is the true joy of camping.");
 MsgDisp("主人公","(Hehe, everyone seems to be having fun!
-Camping with four people is this much fun!)");
+Camping with four people is this
+much fun!)");
 MsgClose();
 ScrFadeOut(0,0);
 ChLayout(2);

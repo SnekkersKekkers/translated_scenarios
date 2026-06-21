@@ -8,8 +8,8 @@ ScrFadeIn(0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B040505102_05_000");
-MsgDisp("Hiiragi","The stories of the constellations are rather
-interesting.");
+MsgDisp("Hiiragi","The stories of the constellations are
+rather interesting.");
 MsgSel("How about incorporating it into a performance?","Doesn't it make you a bit sleepy?","It's a love story huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -48,9 +48,9 @@ I'm sorry.");
         ChEye(5,4);
         ChMouth(5,4);
         VoicePlay("B040505102_05_040");
-        MsgDisp("Hiiragi","There's no need to apologise. Not only was I
-able to see the beautiful stars, but also
-your comfortable sleeping face.");
+        MsgDisp("Hiiragi","There's no need to apologise. Not only was
+I able to see the beautiful stars, but
+also your comfortable sleeping face.");
         MsgDisp("主人公","Ehh∈ ｛Hiiragi＊＊＊｝, you saw?");
         ChMotion(5,4);
         VoicePlay("B040505102_05_050");
@@ -80,8 +80,8 @@ I was the one who fell asleep...");
         ChMotion(5,0);
         ChCheek(5,0);
         VoicePlay("B040505102_05_090");
-        MsgDisp("Hiiragi","Haha, we didn't even say our impressions on
-the planetarium.");
+        MsgDisp("Hiiragi","Haha, we didn't even say our impressions
+on the planetarium.");
         MsgDisp("主人公","Hehe.
 Come to think of it, that is strange,
 isn't it?");
@@ -89,17 +89,18 @@ isn't it?");
         ChMotion(5,4);
         VoicePlay("B040505102_05_100");
         MsgDisp("Hiiragi","Yes.
-Going on about being sleepy, about waking me
-up... What were we even saying?");
+Going on about being sleepy, about waking
+me up... What were we even saying?");
         MsgDisp("主人公","Seriously.");
         ChEye(5,4);
         ChMotion(5,0);
         VoicePlay("B040505102_05_110");
-        MsgDisp("Hiiragi","But, today I found another way to enjoy the
-planetarium.
+        MsgDisp("Hiiragi","But, today I found another way to enjoy
+the planetarium.
 Let's come again, okay?");
         MsgDisp("主人公","(Another way to enjoy the planetarium...
-Next time, I definitely won't fall asleep!)");
+Next time, I definitely won't fall
+asleep!)");
         break ;
         default :
         DbgAssert(1);
@@ -112,8 +113,8 @@ Next time, I definitely won't fall asleep!)");
     ChMotion(5,0);
     VoicePlay("B040505102_05_120");
     MsgDisp("Hiiragi","That's right.
-Since ancient times, \"love\" has been a theme
-for humans.");
+Since ancient times, \"love\" has been a
+theme for humans.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

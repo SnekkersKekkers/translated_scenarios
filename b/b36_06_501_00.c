@@ -23,8 +23,9 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650100_06_020");
-MsgDisp("Himuro","Right behind you on the playground equipment,
-there's a couple acting excited.");
+MsgDisp("Himuro","Right behind you on the playground
+equipment, there's a couple acting
+excited.");
 MsgDisp("主人公","Exci—");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -86,8 +87,8 @@ ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 ChCheek(6,0);
 VoicePlay("B360650100_06_110");
-MsgDisp("Himuro","...Ugh, this is no different from that couple
-over there.");
+MsgDisp("Himuro","...Ugh, this is no different from that
+couple over there.");
 MsgDisp("主人公","(My heart is pounding...)");
 BGMStop();
 MsgClose();

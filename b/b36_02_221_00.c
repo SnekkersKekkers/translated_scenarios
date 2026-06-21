@@ -9,7 +9,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360222100_02_000");
 MsgDisp("Sassa","Phew... The castle at sunset is nice, huh.");
-MsgDisp("主人公","Yeah. The town is dyed red, it's beautiful.");
+MsgDisp("主人公","Yeah.
+The town is dyed red, it's beautiful.");
 MsgClose();
 SEPlay("EV_SE_544");
 ChOpen(2,255,3,0,4,#1,#1,0,0);
@@ -21,8 +22,8 @@ ChMouth(2,4);
 ChMotion(2,3);
 ChEyeOpenLevel(2,0);
 VoicePlay("B360222100_02_020");
-MsgDisp("Sassa","There's very few visitors at this time, so we
-get this place to ourselves.
+MsgDisp("Sassa","There's very few visitors at this time, so
+we get this place to ourselves.
 I feel bad for Ryota and Inori though.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -36,8 +37,8 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,4);
 VoicePlay("B360222100_02_040");
-MsgDisp("Sassa","So even on the podium inside your heart, I'm
-going to climb all the way to the top.");
+MsgDisp("Sassa","So even on the podium inside your heart,
+I'm going to climb all the way to the top.");
 MsgDisp("主人公","Eh?");
 ChEye(2,0);
 ChMouth(2,4);

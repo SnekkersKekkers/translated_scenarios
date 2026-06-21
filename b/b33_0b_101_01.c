@@ -32,8 +32,8 @@ MsgDisp("Honda","If you don't have a goal in mind when
 you're shopping in the first place, it's
 just a stroll.");
 MsgDisp("主人公","Is that so?
-It's fun for me to look at lots of different
-things though.");
+It's fun for me to look at lots of
+different things though.");
 ChEye(1,0);
 ChEye(4,0);
 ChMouth(4,3);
@@ -76,9 +76,9 @@ ChEye(3,3);
 ChMouth(3,0);
 ChMotion(3,3,1);
 VoicePlay("B330B10101_03_020");
-MsgDisp("Honda","Right right, that thing about how if it was
-just you and her, even window shopping would
-be fun?");
+MsgDisp("Honda","Right right, that thing about how if it
+was just you and her, even window shopping
+would be fun?");
 MsgDisp("主人公","?");
 ChEye(1,0);
 ChMouth(1,1);

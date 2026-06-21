@@ -44,7 +44,8 @@ switch (MsgSelRsltGet()){
         ChMotion(2,3);
         VoicePlay("B040223602_02_030");
         MsgDisp("Sassa","Too bad.
-I'm surprisingly good at that sort of thing.");
+I'm surprisingly good at that sort
+of thing.");
         MsgDisp("主人公","Eh...?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -67,7 +68,8 @@ more fun...");
         ChCheek(2,10);
         VoicePlay("B040223602_02_060");
         MsgDisp("Sassa","Ah, no, I meant camping.
-Not the all-nighter you were talking about.");
+Not the all-nighter you were
+talking about.");
         MsgDisp("主人公","Hehe, yeah!
 I want to go someday.");
         MsgDisp("主人公","(If it's with ｛Sassa＊＊｝, anywhere would

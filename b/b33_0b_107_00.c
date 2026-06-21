@@ -25,8 +25,8 @@ ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
 VoicePlay("B330B10700_01_000");
-MsgDisp("Kazama","Nanatsumori, the exhibition corner is nice,
-you know?");
+MsgDisp("Kazama","Nanatsumori, the exhibition corner is
+nice, you know?");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,0,1);
@@ -40,8 +40,8 @@ ChMouth(1,3);
 ChMotion(1,3);
 VoicePlay("B330B10700_01_010");
 MsgDisp("Kazama","Just look.
-Things from hundreds of years ago are right
-before our eyes.");
+Things from hundreds of years ago are
+right before our eyes.");
 ChEye(4,2);
 ChMouth(4,0);
 ChMotion(4,2,1);
@@ -52,8 +52,8 @@ ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B330B10700_03_010");
 MsgDisp("Honda","Right right.
-Most of the items here are masterpieces made
-by artisans from that era.");
+Most of the items here are masterpieces
+made by artisans from that era.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -100,8 +100,8 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B330B10700_03_030");
-MsgDisp("Honda","The old lady in my neighbourhood also calls
-Ryo-kun young master.");
+MsgDisp("Honda","The old lady in my neighbourhood also
+calls Ryo-kun young master.");
 ChEye(1,0);
 ChMouth(1,4);
 ChMotion(1,1);

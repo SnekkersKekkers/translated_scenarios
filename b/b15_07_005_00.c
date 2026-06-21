@@ -32,7 +32,8 @@ ChMouth(7,0);
 ChMotion(7,4);
 ScrFadeIn(0);
 VoicePlay("B150700500_07_040");
-MsgDisp("Mikage","Sigh... Could you act a bit more surprised?
+MsgDisp("Mikage","Sigh...
+Could you act a bit more surprised?
 Ah-, how embarrassing...");
 ChEye(7,2);
 ChMouth(7,0);
@@ -55,15 +56,15 @@ ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B150700500_07_070");
 MsgDisp("Mikage","I knew that myself.
-No matter how far you took it, there was no
-chance of winning.");
+No matter how far you took it, there was
+no chance of winning.");
 MsgDisp("主人公","Chance of winning?");
 ChEye(7,2);
 ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B150700500_07_080");
-MsgDisp("Mikage","Yeah, I'm running away with my tail between
-my legs.");
+MsgDisp("Mikage","Yeah, I'm running away with my tail
+between my legs.");
 MsgClose();
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(7);

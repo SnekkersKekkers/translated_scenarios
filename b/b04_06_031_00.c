@@ -6,7 +6,8 @@ ChMouth(6,0);
 ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603100_06_000");
-MsgDisp("Himuro","They've managed to gather so many fish here.");
+MsgDisp("Himuro","They've managed to gather so many
+fish here.");
 MsgSel("What's the name of that fish?","The patterns on the tropical fish are so pretty▼","I feel like something's watching us from behind the rocks...∋");
 switch (MsgSelRsltGet()){
     case 0:

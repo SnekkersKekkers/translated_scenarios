@@ -17,7 +17,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,2);
     VoicePlay("B040722101_07_010");
     MsgDisp("Mikage","Got it.
-Hey, just look at it until you're satisfied.");
+Hey, just look at it until you're
+satisfied.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -27,7 +28,8 @@ Hey, just look at it until you're satisfied.");
     ChMotion(7,3);
     VoicePlay("B040722101_07_020");
     MsgDisp("Mikage","It's a mountain, a mountain.
-This high up, no way it counts as flatland.");
+This high up, no way it counts as
+flatland.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

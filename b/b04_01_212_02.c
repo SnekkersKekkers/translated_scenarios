@@ -81,7 +81,8 @@ It seems kinda cool.");
         MsgDisp("Kazama","No, don't look too close, actually. it's
 dangerous.
 Yeah, dangerous. That's why you're banned.");
-        MsgDisp("主人公","Hey... what do you mean souvenirs are banned?");
+        MsgDisp("主人公","Hey... what do you mean souvenirs
+are banned?");
         ChEye(1,4);
         ChMouth(1,0);
         ChMotion(1,0);
@@ -107,10 +108,10 @@ over there, kinda looks like you?
         SEWait();
         VoicePlay("B040121202_01_090");
         MsgDisp("Kazama","Excuse me.
-Please let me buy this bear eraser and bear
-plushie over there.");
-        MsgDisp("主人公","(｛Kazama＊＊｝, is the bear the only one that
-gets special treatment?)");
+Please let me buy this bear eraser and
+bear plushie over there.");
+        MsgDisp("主人公","(｛Kazama＊＊｝, is the bear the only one
+that gets special treatment?)");
         MsgClose();
         ScrFadeOut(0,0);
         ChOpen(1,255,0,0,0,#1,#1,0,0,0,0);

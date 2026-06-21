@@ -7,8 +7,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040722202_07_000");
 MsgDisp("Mikage","See?
-There are discoveries you'd never notice in a
-textbook, right?");
+There are discoveries you'd never notice
+in a textbook, right?");
 MsgSel("Controlling the temperature and humidity looks like a real challenge.","It's surprisingly big for a koban coin.","The admission fee is one rich.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -18,7 +18,8 @@ switch (MsgSelRsltGet()){
     ChMotion(7,1);
     VoicePlay("B040722202_07_010");
     MsgDisp("Mikage","That's it.
-You'd never know unless you saw it in person.");
+You'd never know unless you saw it
+in person.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -73,9 +74,10 @@ with that.");
         ChMouth(7,3);
         ChMotion(7,1);
         VoicePlay("B040722202_07_060");
-        MsgDisp("Mikage","Until the advance payment is calculated, it's
-practically my treat.");
-        MsgDisp("主人公","Hehe. ｛Mikage＊＊｝, thank you very much.");
+        MsgDisp("Mikage","Until the advance payment is calculated,
+it's practically my treat.");
+        MsgDisp("主人公","Hehe.
+｛Mikage＊＊｝, thank you very much.");
         ChEye(7,0);
         ChMouth(7,3);
         ChMotion(7,0);

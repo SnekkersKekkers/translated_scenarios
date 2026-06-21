@@ -41,7 +41,8 @@ If it's convenient.");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040401101_04_030");
-    MsgDisp("Nanatsumori","So? You don't have to say it with that face.");
+    MsgDisp("Nanatsumori","So?
+You don't have to say it with that face.");
     MsgDateResultDisp();
     break ;
     default :

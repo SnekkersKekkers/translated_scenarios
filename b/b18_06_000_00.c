@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChMotion(6,0);
     VoicePlay("B180600000_06_020");
     MsgDisp("Himuro","Thanks.
-...Well, it's not really a matter of asking
-permission.");
+...Well, it's not really a matter of
+asking permission.");
     MsgDisp("主人公","(It feels a little embarrassing...)");
     break ;
     case 1:

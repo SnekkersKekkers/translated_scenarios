@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,0);
     ChMotion(1,0);
     VoicePlay("B040121300_01_010");
-    MsgDisp("Kazama","But would you come all the way here just for
-the dogs and cats?
+    MsgDisp("Kazama","But would you come all the way here just
+for the dogs and cats?
 I don't get that.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -41,8 +41,9 @@ the other.");
     ChMotion(1,2);
     ChEyeOpenLevel(1,8);
     VoicePlay("B040121300_01_030");
-    MsgDisp("Kazama","Yeah...kinda like how someone I know used to
-nap in the sunlight by the classroom window.");
+    MsgDisp("Kazama","Yeah...kinda like how someone I know
+used to nap in the sunlight by the
+classroom window.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

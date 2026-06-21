@@ -10,7 +10,8 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 ScrFadeIn(0);
 VoicePlay("B360403200_04_000");
-MsgDisp("Nanatsumori","You know, I actually really like aquariums.");
+MsgDisp("Nanatsumori","You know, I actually really like
+aquariums.");
 MsgDisp("主人公","Surprisingly?");
 ChMotion(4,1,1);
 VoicePlay("B360403200_04_010");
@@ -47,11 +48,11 @@ ChMouth(4,3);
 ChMotion(4,0,1);
 VoicePlay("B360403200_04_050");
 MsgDisp("Nanatsumori","I can't put it into words...
-I wonder if you can understand this feeling
-of excitement.");
+I wonder if you can understand this
+feeling of excitement.");
 MsgDisp("主人公","(Hehe!
-｛Nanatsumori＊｝ seems like he's having lots
-of fun.)");
+｛Nanatsumori＊｝ seems like he's having
+lots of fun.)");
 ChEye(4,4);
 ChMouth(4,4);
 ChMotion(4,0,1);

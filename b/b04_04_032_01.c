@@ -9,8 +9,8 @@ ChMouth(4,4);
 ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040403201_04_000");
-MsgDisp("Nanatsumori","Apparently these gardens often have something
-heart-shaped hidden somewhere.");
+MsgDisp("Nanatsumori","Apparently these gardens often have
+something heart-shaped hidden somewhere.");
 MsgSel("Seems fun! Shall we look for it?","Hmmm...","It's perfect for the mood");
 switch (MsgSelRsltGet()){
     case 0:

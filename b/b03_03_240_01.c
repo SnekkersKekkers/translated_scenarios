@@ -6,8 +6,8 @@ ChEyeOpenLevel(3,0);
 ScrFadeIn(0);
 VoicePlay("B030324001_03_000");
 MsgDisp("Honda","...Ahh.
-The air is rich with oxygen and the smell of
-animals. The Ranch is the best!");
+The air is rich with oxygen and the smell
+of animals. The Ranch is the best!");
 MsgSel("I wonder if there are animals?","Want to head to the campsite?");
 switch (MsgSelRsltGet()){
     case 0:

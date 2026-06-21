@@ -12,5 +12,6 @@ ChEyeOpenLevel(2,0);
 VoicePlay("B020200002_02_010");
 MsgDisp("Sassa","Yeah. Girls look good in that colour.
 It's nice.");
-MsgDisp("主人公","(｛Sassa＊＊｝ seems to like the colour pink.
+MsgDisp("主人公","(｛Sassa＊＊｝ seems to like the
+colour pink.
 I'll have to remember that.)");

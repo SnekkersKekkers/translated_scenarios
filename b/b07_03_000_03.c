@@ -48,8 +48,8 @@ ChMotion(3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B070300000_03_180");
 MsgDisp("Honda","Yepyep, completely.");
-MsgDisp("主人公","(｛Honda＊＊｝ seems more like a curious person
-than a sports fan.)");
+MsgDisp("主人公","(｛Honda＊＊｝ seems more like a curious
+person than a sports fan.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

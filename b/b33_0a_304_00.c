@@ -38,7 +38,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B330A30400_01_020");
-MsgDisp("Kazama","Don't say it as if I'm usually so demanding.");
+MsgDisp("Kazama","Don't say it as if I'm usually so
+demanding.");
 MsgDisp("主人公","Hehe.");
 ChEye(6,0);
 ChMouth(6,3);
@@ -61,15 +62,15 @@ ChEye(6,0);
 ChMouth(6,3);
 ChMotion(6,0,1);
 VoicePlay("B330A30400_06_020");
-MsgDisp("Himuro","The autumn leaves reflected on the water and
-so on, classic, but beautiful.");
+MsgDisp("Himuro","The autumn leaves reflected on the water
+and so on, classic, but beautiful.");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,0);
 VoicePlay("B330A30400_02_010");
 MsgDisp("Sassa","I also like autumn and spring.
-The season of flowers and autumn leaves are
-especially nice here.");
+The season of flowers and autumn leaves
+are especially nice here.");
 MsgDisp("主人公","Yeah, that's right.
 And the season of fireflies.");
 ChMouth(1,3);
@@ -137,7 +138,8 @@ VoicePlay("B330A30400_01_090");
 MsgDisp("Kazama","Right.");
 ChEye(1,0);
 MsgDisp("主人公","(Hehe!
-It's wonderful we all have similar tastes.)");
+It's wonderful we all have similar
+tastes.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

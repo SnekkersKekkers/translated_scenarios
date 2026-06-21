@@ -28,8 +28,8 @@ There's no need to get worked up.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040406201_04_020");
-    MsgDisp("Nanatsumori","After I've engraved it into my memory, I need
-to take one for the record.");
+    MsgDisp("Nanatsumori","After I've engraved it into my memory, I
+need to take one for the record.");
     MsgDateResultDisp();
     break ;
     case 2:

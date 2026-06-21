@@ -30,6 +30,7 @@ VoicePlay("B100700000_07_050");
 MsgDisp("Mikage","See you.");
 SEPlay("SYS_SE_PHONE_POWER_ON");
 SEWait();
-MsgDisp("主人公","(｛Mikage＊＊｝...called to check up on me.)");
+MsgDisp("主人公","(｛Mikage＊＊｝...called to check up
+on me.)");
 MsgClose();
 ScrFadeOut(0,0);

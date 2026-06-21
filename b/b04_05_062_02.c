@@ -6,7 +6,8 @@ ChLayout(1);
 ScrFadeIn(0);
 ChEye(5,4);
 VoicePlay("B040506202_05_000");
-MsgDisp("Hiiragi","It's hard to believe it's so lively outside.
+MsgDisp("Hiiragi","It's hard to believe it's so lively
+outside.
 It's mysterious.");
 MsgSel("We can talk calmly here.","It's like we're on a stage, ｛Hiiragi＊＊＊｝...","Ah— it's funny how our voices echo");
 switch (MsgSelRsltGet()){

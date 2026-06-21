@@ -80,8 +80,8 @@ surface.");
         ChMotion(4,2,1);
         VoicePlay("B040423502_04_090");
         MsgDisp("Nanatsumori","So it was like that.
-Those guys are 100 years too early to scare
-me like that.");
+Those guys are 100 years too early to
+scare me like that.");
         MsgDisp("主人公","(｛Nanatsumori＊｝ is quite scared, huh...)");
         break ;
         default :
@@ -108,8 +108,8 @@ I could see our feet quite well.");
     ChMotion(4,0,1);
     VoicePlay("B040423502_04_110");
     MsgDisp("Nanatsumori","That's a shame.
-Then next time I'll hold your hand, so make
-sure you get a proper look.");
+Then next time I'll hold your hand, so
+make sure you get a proper look.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

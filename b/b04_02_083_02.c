@@ -5,8 +5,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040208302_02_000");
-MsgDisp("Sassa","The water's so clear, look, you can even see
-the aquatic plants swaying.");
+MsgDisp("Sassa","The water's so clear, look, you can even
+see the aquatic plants swaying.");
 MsgSel("It's like it's not in the water.","The fish are completely visible too","I'd like to watch while floating on a boat.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -64,8 +64,8 @@ though...");
         ChMotion(2,0);
         VoicePlay("B040208302_02_050");
         MsgDisp("Sassa","Boats are fine.
-But those swan paddling boats are all sorts
-of challenging.");
+But those swan paddling boats are all
+sorts of challenging.");
         MsgDisp("主人公","Do you dislike it?");
         ChEye(2,0);
         ChMouth(2,0);
@@ -90,8 +90,8 @@ wouldn't it?");
         ChMouth(2,4);
         ChMotion(2,3);
         VoicePlay("B040208302_02_090");
-        MsgDisp("Sassa","Plus, I can't get both legs in so I have to
-paddle with one foot....
+        MsgDisp("Sassa","Plus, I can't get both legs in so I have
+to paddle with one foot....
 Sigh...");
         MsgDisp("主人公","(I kind of want to see this...?)");
         break ;

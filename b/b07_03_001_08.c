@@ -10,22 +10,22 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);
 VoicePlay("B070300001_03_590");
-MsgDisp("Honda","Oh, if that's the case, feel free to look as
-much as you want.");
+MsgDisp("Honda","Oh, if that's the case, feel free to look
+as much as you want.");
 MsgDisp("主人公","Hehe, yeah.");
 ChMotion(3,0);
 VoicePlay("B070300001_03_600");
 MsgDisp("Honda","Is there something on your mind?");
-MsgDisp("主人公","｛Honda＊＊｝, I was just thinking how smooth
-your hair is.
+MsgDisp("主人公","｛Honda＊＊｝, I was just thinking how
+smooth your hair is.
 It looks lovely.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,4);
 VoicePlay("B070300001_03_610");
-MsgDisp("Honda","Really? My dad's hair has been thinning, so
-I've been researching and trying a bunch of
-things to help.");
+MsgDisp("Honda","Really? My dad's hair has been thinning,
+so I've been researching and trying a
+bunch of things to help.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1);

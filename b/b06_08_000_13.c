@@ -4,8 +4,8 @@ ChMotion(8,2);
 ChCheek(8,4);
 VoicePlay("B060800013_08_000");
 MsgDisp("Shirahane","...Hey.
-I wanna stay with ya a bit longer...won't ya
-accompany me?");
+I wanna stay with ya a bit longer...won't
+ya accompany me?");
 MsgSel("Sure, that's fine.","Sorry, today's a bit...");
 switch (MsgSelRsltGet()){
     case 0:

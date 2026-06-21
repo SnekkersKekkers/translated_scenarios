@@ -19,7 +19,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040403300_04_010");
     MsgDisp("Nanatsumori","That's right.
-And their auto mode can also be unreliable.");
+And their auto mode can also be
+unreliable.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -44,7 +45,8 @@ This lighting is there to protect them.");
     ChMotion(4,0,1);
     ChEyeOpenLevel(4,8);
     VoicePlay("B040403300_04_030");
-    MsgDisp("Nanatsumori","Ha? Did you mistake this for a haunted house?");
+    MsgDisp("Nanatsumori","Ha?
+Did you mistake this for a haunted house?");
     MsgDateResultDisp();
     break ;
     default :

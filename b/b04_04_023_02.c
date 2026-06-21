@@ -34,8 +34,8 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(4,#1);
         VoicePlay("B040402302_04_030");
         MsgDisp("Nanatsumori","Hm.
-A man and woman are going on a date, would it
-be an exaggeration to call them a cou—");
+A man and woman are going on a date, would
+it be an exaggeration to call them a cou—");
         ChEye(4,2);
         ChMotion(4,2,1);
         VoicePlay("B040402302_04_040");

@@ -5,8 +5,8 @@ ChMouth(4,3);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040408501_04_000");
-MsgDisp("Nanatsumori","Surely with it being this cold, there won't
-be any bugs.");
+MsgDisp("Nanatsumori","Surely with it being this cold, there
+won't be any bugs.");
 MsgSel("They're definitely hibernating!","Apparently mosquitoes hibernate nowadays.","Are you that bad with bugs?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -26,7 +26,8 @@ little bugs...");
     ChMouth(4,2);
     ChMotion(4,0,1);
     VoicePlay("B040408501_04_020");
-    MsgDisp("Nanatsumori","Sigh∋ That sort of evolution is troubling.");
+    MsgDisp("Nanatsumori","Sigh∋
+That sort of evolution is troubling.");
     MsgDateResultDisp();
     break ;
     case 2:

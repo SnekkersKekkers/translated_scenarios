@@ -22,8 +22,8 @@ ChMotion(2,5);
 ChCheek(2,10);
 VoicePlay("B050200000_02_020");
 MsgDisp("Sassa","Eh...∋
-When you say it like that, it sounds kind of
-awesome.");
+When you say it like that, it sounds kind
+of awesome.");
 MsgDisp("主人公","Eh, why?");
 ChEye(2,5);
 ChMouth(2,0);
@@ -52,14 +52,16 @@ ScrFadeIn(0);
 VoicePlay("B050200000_02_050");
 MsgDisp("Sassa","I see...");
 MsgDisp("主人公","Uhm...
-So I hold it firmly at the base and squeeze—");
+So I hold it firmly at the base and
+squeeze—");
 SEPlay("EV_SE_521");
 SEWait();
 StlEye(2,0);
 StlMouth(2,0);
 VoicePlay("B050200000_02_060");
 MsgDisp("Sassa","OOH!");
-MsgDisp("主人公","I think I'm starting to get the hang of it.
+MsgDisp("主人公","I think I'm starting to get the hang
+of it.
 ...Look!");
 SEPlay("EV_SE_522");
 SEWait();
@@ -102,8 +104,8 @@ ChEye(2,0);
 ChMouth(2,3);
 ChMotion(2,4);
 VoicePlay("B050200000_02_110");
-MsgDisp("Sassa","Haha, yeah, it's special because you squeezed
-it, huh?");
+MsgDisp("Sassa","Haha, yeah, it's special because you
+squeezed it, huh?");
 MsgDisp("主人公","Come to think of it.
 ｛Sassa＊＊｝ didn't try at all.
 ...Ah, maybe it's because—");

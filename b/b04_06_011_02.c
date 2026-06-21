@@ -63,8 +63,9 @@ Nonsense.");
         ChMotion(6,3);
         ChCheek(6,0);
         VoicePlay("B040601102_06_070");
-        MsgDisp("Himuro","...Well, the lovestruck look on your face is
-probably more worth seeing than this place.");
+        MsgDisp("Himuro","...Well, the lovestruck look on your
+face is probably more worth seeing than
+this place.");
         MsgDisp("主人公","∋
 My face is not doing that!");
         ChEye(6,3);

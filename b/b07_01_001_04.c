@@ -7,8 +7,8 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_180");
 MsgDisp("Kazama","Sassa keeps pestering me to do sports.");
-MsgDisp("主人公","｛Kazama＊＊｝ can do any sport, so he probably
-just thinks it's a shame.");
+MsgDisp("主人公","｛Kazama＊＊｝ can do any sport, so he
+probably just thinks it's a shame.");
 ChEye(1,0);
 ChMouth(1,1);
 ChMotion(1,3);
@@ -23,9 +23,9 @@ ChMouth(1,2);
 ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B070100001_01_200");
-MsgDisp("Kazama","Inori joins in too, saying I should do track,
-surfing... In the end, it's like, \"Why not
-try e-sports instead?\"");
+MsgDisp("Kazama","Inori joins in too, saying I should do
+track, surfing... In the end, it's like,
+\"Why not try e-sports instead?\"");
 MsgDisp("主人公","Hehe, ｛Himuro＊＊｝ wants to go surfing with
 ｛Kazama＊＊｝ doesn't he?");
 ChEye(1,0);

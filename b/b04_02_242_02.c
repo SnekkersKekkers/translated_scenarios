@@ -69,8 +69,8 @@ interested in camping alone.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040224202_02_060");
-        MsgDisp("Sassa","Look, it's not just camping, anything's more
-fun when I'm with you.");
+        MsgDisp("Sassa","Look, it's not just camping, anything's
+more fun when I'm with you.");
         MsgDisp("主人公","...Yeah, sorry.");
         ChEye(2,0);
         ChMouth(2,3);
@@ -91,8 +91,8 @@ I'll remember that.");
         ChEyeOpenLevel(2,0);
         VoicePlay("B040224202_02_090");
         MsgDisp("Sassa","That's no good.
-As a punishment, we'll go overnight camping
-together next!");
+As a punishment, we'll go overnight
+camping together next!");
         MsgDisp("主人公","Ehhh∋");
         break ;
         default :

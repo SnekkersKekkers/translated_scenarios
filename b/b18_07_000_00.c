@@ -30,8 +30,8 @@ switch (MsgSelRsltGet()){
     ChCheek(7,5);
     VoicePlay("B180700000_07_030");
     MsgDisp("Mikage","I said it myself, but I'm getting bashful.");
-    MsgDisp("主人公","(When you say something like that, I'll feel
-shy too...)");
+    MsgDisp("主人公","(When you say something like that, I'll
+feel shy too...)");
     ChCheek(7,0);
     break ;
     case 1:

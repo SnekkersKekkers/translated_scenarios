@@ -18,9 +18,9 @@ I didn't want to head home with things
 hanging like this. Sorry about today!");
 MsgDisp("主人公","No, I'm the one who said weird things...");
 VoicePlay("B100300000_03_020");
-MsgDisp("Honda","It's more fun saying weird things than saying
-the obvious. So let's say lots of weird
-things to each other.");
+MsgDisp("Honda","It's more fun saying weird things than
+saying the obvious. So let's say lots of
+weird things to each other.");
 MsgDisp("主人公","Hahaha.
 Thanks ｛Honda＊＊｝.");
 VoicePlay("B100300000_03_030");

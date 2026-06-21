@@ -25,8 +25,8 @@ ChOpen(4,253,0,0,0,#1,#1,0,3,0,30);
 ScrFadeIn(0);
 VoicePlay("B330B20200_03_000");
 MsgDisp("Honda","It's moving no matter how many times I see
-it... The constellations, the myths, the life
-of the stars.");
+it... The constellations, the myths, the
+life of the stars.");
 ChEyeOpenLevel(3,#1);
 MsgDisp("主人公","Yeah.
 There are many kinds of myths, but they're
@@ -54,15 +54,15 @@ ChMouth(3,0);
 ChMotion(3,1,1);
 VoicePlay("B330B20200_03_010");
 MsgDisp("Honda","That's right.
-Zeus had many children with various goddesses
-and human women.");
+Zeus had many children with various
+goddesses and human women.");
 ChEye(3,2);
 ChMouth(3,3);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B330B20200_03_020");
-MsgDisp("Honda","He made his wife Hera constantly jealous, and
-he had a lot of unhappy relationships.");
+MsgDisp("Honda","He made his wife Hera constantly jealous,
+and he had a lot of unhappy relationships.");
 ChEye(4,2);
 ChMouth(4,1);
 ChMotion(4,2,1);
@@ -73,8 +73,8 @@ ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B330B20200_03_030");
-MsgDisp("Honda","But, it's because of the legends of Zeus that
-so many constellations exist.");
+MsgDisp("Honda","But, it's because of the legends of Zeus
+that so many constellations exist.");
 ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
@@ -108,8 +108,8 @@ ChMotion(3,4,1);
 VoicePlay("B330B20200_03_050");
 MsgDisp("Honda","Hmm? Is there something on my face?");
 MsgDisp("主人公","(A romance with ｛Honda＊＊｝...
-I don't think there's anything to worry about
-though...)");
+I don't think there's anything to worry
+about though...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

@@ -35,7 +35,8 @@ back here.");
     ChCheek(1,5);
     ScrFadeIn(0);
     VoicePlay("B060100000_01_020");
-    MsgDisp("Kazama","Geez...the whole day flew by because of you.
+    MsgDisp("Kazama","Geez...the whole day flew by because
+of you.
 Next time, I'll be the one to invite you.");
     MsgDispSksp(0);
     break ;

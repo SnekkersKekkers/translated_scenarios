@@ -15,7 +15,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,3);
     ChMotion(2,1);
     VoicePlay("B040217002_02_010");
-    MsgDisp("Sassa","Alright, let's go for 100 songs starting now!
+    MsgDisp("Sassa","Alright, let's go for 100 songs
+starting now!
 Let's go?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

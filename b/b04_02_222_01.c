@@ -6,9 +6,9 @@ ChMouth(2,4);
 ChMotion(2,0);
 ScrFadeIn(0);
 VoicePlay("B040222201_02_000");
-MsgDisp("Sassa","Back in elementary school, they made us write
-a report on this place for a field trip,
-remember?");
+MsgDisp("Sassa","Back in elementary school, they made us
+write a report on this place for a field
+trip, remember?");
 MsgSel("What did ｛Sassa＊＊｝ write?","You still come here for extracurricular activities even now huh?","You've been coming here for ages, huh?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -17,8 +17,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B040222201_02_010");
-    MsgDisp("Sassa","I got scolded for writing what was written on
-the pamphlet word-for word.");
+    MsgDisp("Sassa","I got scolded for writing what was written
+on the pamphlet word-for word.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -40,9 +40,9 @@ the pamphlet word-for word.");
     ChMouth(2,2);
     ChMotion(2,4);
     VoicePlay("B040222201_02_030");
-    MsgDisp("Sassa","Surely...this isn't the kind of place I would
-go out to the trouble of coming with you on a
-day off?");
+    MsgDisp("Sassa","Surely...this isn't the kind of place I
+would go out to the trouble of coming with
+you on a day off?");
     MsgDateResultDisp();
     break ;
     default :

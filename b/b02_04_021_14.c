@@ -14,5 +14,5 @@ VoicePlay("B020402114_04_010");
 MsgDisp("Nanatsumori","Definitely suits you.
 Nicely done.
 You pass.");
-MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes like
-these, too!)");
+MsgDisp("主人公","(｛Nanatsumori＊｝ seems to like clothes
+like these, too!)");

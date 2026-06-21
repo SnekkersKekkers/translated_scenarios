@@ -5,8 +5,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,3);
 VoicePlay("B020402134_04_000");
-MsgDisp("Nanatsumori","\"A Beauty Beyond Words\"—that's exactly the
-phrase for this.");
+MsgDisp("Nanatsumori","\"A Beauty Beyond Words\"—that's exactly
+the phrase for this.");
 MsgDisp("主人公","Um... About me?");
 ChEye(4,0);
 ChMouth(4,3);
@@ -16,5 +16,5 @@ MsgDisp("Nanatsumori","Of course.
 Aren't you an elegant and refined high school
 student? I think that's extremely rare.");
 MsgDisp("主人公","(It's rare...
-But ｛Nanatsumori＊｝ seems to have really come
-to like these clothes!)");
+But ｛Nanatsumori＊｝ seems to have really
+come to like these clothes!)");

@@ -32,7 +32,8 @@ I understood that quite well.");
     ChMotion(1,0);
     VoicePlay("B040123500_01_020");
     MsgDisp("Kazama","Oi, are you alright?
-You're banned for haunted houses from now on.");
+You're banned for haunted houses from
+now on.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

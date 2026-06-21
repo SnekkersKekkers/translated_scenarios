@@ -13,8 +13,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,3);
     ChMotion(3,1,1);
     VoicePlay("B040302301_03_010");
-    MsgDisp("Honda","Yup, if they were more colourful, they might
-look just like sugar candy.");
+    MsgDisp("Honda","Yup, if they were more colourful, they
+might look just like sugar candy.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -38,9 +38,9 @@ four-pronged one is probably the most common.");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040302301_03_030");
-    MsgDisp("Honda","Yup. They not only protect the harbour from
-the strength of the waves, but also serve as
-habitats for living creatures.");
+    MsgDisp("Honda","Yup. They not only protect the harbour
+from the strength of the waves, but also
+serve as habitats for living creatures.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

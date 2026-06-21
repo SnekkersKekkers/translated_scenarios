@@ -27,7 +27,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,4);
     ChMotion(3,0);
     VoicePlay("B040308301_03_020");
-    MsgDisp("Honda","Is there something you're worried I'll hear?");
+    MsgDisp("Honda","Is there something you're worried
+I'll hear?");
     MsgDateResultDisp();
     break ;
     case 2:

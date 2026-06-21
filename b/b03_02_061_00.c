@@ -13,8 +13,9 @@ ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B030206100_02_010");
-MsgDisp("Sassa","Since we have some time before the fireworks,
-let's look around at the stalls.");
+MsgDisp("Sassa","Since we have some time before the
+fireworks, let's look around at
+the stalls.");
 MsgDispSksp(1,0);
 ChEye(2,0);
 ChMouth(2,4);

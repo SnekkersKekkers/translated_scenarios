@@ -93,7 +93,8 @@ I have to go greet her...");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040230002_02_090");
-        MsgDisp("Sassa","Didn't you already do that when you came in?");
+        MsgDisp("Sassa","Didn't you already do that when you
+came in?");
         ChEye(2,0);
         ChMouth(2,4);
         ChMotion(2,3);

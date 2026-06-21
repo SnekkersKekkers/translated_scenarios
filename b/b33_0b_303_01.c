@@ -18,7 +18,8 @@ ChMotion(1,0);
 VoicePlay("B330B30301_01_000");
 MsgDisp("Kazama","Oh, so you didn't buy it in the end?");
 MsgDisp("主人公","Yeah.
-I kind of thought I couldn't pull it off...");
+I kind of thought I couldn't pull
+it off...");
 ChEye(4,0);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -94,8 +95,8 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B330B30301_04_040");
 MsgDisp("Nanatsumori","Yeah. Hm.
-I can't imitate Dahon's sense of fashion in
-that respect.");
+I can't imitate Dahon's sense of fashion
+in that respect.");
 MsgDisp("主人公","(Hehe! I might be caught off-guard if
 ｛Nanatsumori＊｝ wore his uniform in the
 casual way ｛Honda＊＊｝ does?)");

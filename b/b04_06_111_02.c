@@ -6,7 +6,8 @@ ChMotion(6,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040611102_06_000");
-MsgDisp("Himuro","Yeah. Feels like I'm getting the hang of it.");
+MsgDisp("Himuro","Yeah.
+Feels like I'm getting the hang of it.");
 MsgSel("As expected of you!","I'm jealous...","Even though it's Himuro?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -29,8 +30,8 @@ that normal?");
     ChMotion(6,0);
     VoicePlay("B040611102_06_020");
     MsgDisp("Himuro","Shall I give you some advice?
-It's pretty nerve-wracking when someone falls
-next to you.");
+It's pretty nerve-wracking when someone
+falls next to you.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -83,8 +84,8 @@ sense for.");
         ChMotion(6,0);
         VoicePlay("B040611102_06_080");
         MsgDisp("Himuro","Ah...no.
-I was just thinking about how I wasn't that
-offended.");
+I was just thinking about how I wasn't
+that offended.");
         ChEye(6,0);
         ChMouth(6,0);
         ChMotion(6,0);
@@ -116,9 +117,9 @@ talking to...");
         ChMouth(6,3);
         ChMotion(6,1);
         VoicePlay("B040611102_06_130");
-        MsgDisp("Himuro","It's nothing. At any rate, let's skate a bit
-more. I've gotten the hang of it, so I want
-to make the most of it.");
+        MsgDisp("Himuro","It's nothing. At any rate, let's skate a
+bit more. I've gotten the hang of it, so I
+want to make the most of it.");
         MsgDisp("主人公","Yeah!");
         break ;
         default :

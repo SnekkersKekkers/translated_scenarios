@@ -61,14 +61,15 @@ StlEye(6,1);
 StlMouth(6,0);
 StlCheek(6,10);
 VoicePlay("B050600300_06_080");
-MsgDisp("Himuro","You know, I didn't say to stare at my face.");
+MsgDisp("Himuro","You know, I didn't say to stare at
+my face.");
 MsgDisp("主人公","Ah...");
 StlEye(6,1);
 StlMouth(6,0);
 StlEyeOpenLevel(6,0);
 VoicePlay("B050600300_06_090");
-MsgDisp("Himuro","It's really distracting, or I guess, it fires
-me up...");
+MsgDisp("Himuro","It's really distracting, or I guess, it
+fires me up...");
 MsgDisp("主人公","Ah, ｛Himuro＊＊｝!");
 StlEye(6,0);
 StlMouth(6,0);

@@ -20,8 +20,8 @@ ChMouth(3,2);
 ChMotion(3,2);
 ChMotion(3,2);
 VoicePlay("B070301000_03_020");
-MsgDisp("Honda","No matter what books I read or what I search
-online, I can't find an answer.
+MsgDisp("Honda","No matter what books I read or what I
+search online, I can't find an answer.
 This is a first for me.");
 MsgDisp("主人公","Oh...
 I'm sorry for asking something so strange.");
@@ -65,8 +65,8 @@ ChEyeOpenLevel(3,0);
 ChCheek(3,0);
 VoicePlay("B070301000_03_090");
 MsgDisp("Honda","Sorry, I didn't mean to say that!
-Well, I did mean it, but it's not something I
-should've said right now!");
+Well, I did mean it, but it's not
+something I should've said right now!");
 MsgDisp("主人公","O-Okay.
 Just calm down, alright?");
 ChSet(3,2);

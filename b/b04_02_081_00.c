@@ -24,7 +24,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040208100_02_020");
     MsgDisp("Sassa","Huh, so that's how you see it.
-Me, I just figure there's always next year.");
+Me, I just figure there's always
+next year.");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);
     MsgDateResultDisp();

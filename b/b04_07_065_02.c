@@ -60,8 +60,8 @@ style, but...");
         ChMouth(7,0);
         ChMotion(7,0);
         VoicePlay("B040706502_07_050");
-        MsgDisp("Mikage","...But thanks to you, I might be able to get
-out of this spiral.");
+        MsgDisp("Mikage","...But thanks to you, I might be able to
+get out of this spiral.");
         MsgDisp("主人公","Spiral?");
         ChEye(7,1);
         ChMouth(7,0);
@@ -80,9 +80,9 @@ will come.");
         ChMouth(7,0);
         ChMotion(7,3);
         VoicePlay("B040706502_07_080");
-        MsgDisp("Mikage","If I kept playing the \"eternal high schooler\"
-like an idiot, you'd probably just get sick
-of me.");
+        MsgDisp("Mikage","If I kept playing the \"eternal high
+schooler\" like an idiot, you'd probably
+just get sick of me.");
         MsgDisp("主人公","｛Mikage＊＊｝...?");
         ChEye(7,2);
         ChMouth(7,3);
@@ -91,7 +91,8 @@ of me.");
         MsgDisp("Mikage","Sigh, it's no good.
 This isn't a talk for under fireworks. Let's
 talk properly once I've collected myself.");
-        MsgDisp("主人公","(｛Mikage＊＊｝...did something happen...?)");
+        MsgDisp("主人公","(｛Mikage＊＊｝...did something
+happen...?)");
         break ;
         default :
         DbgAssert(1);

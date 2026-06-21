@@ -30,8 +30,8 @@ ChClose(1);
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
-MsgDisp("主人公","Doesn't this poncho look like it would suit
-you, ｛Kazama＊＊｝?");
+MsgDisp("主人公","Doesn't this poncho look like it would
+suit you, ｛Kazama＊＊｝?");
 VoicePlay("B360107001_01_020");
 MsgDisp("Kazama","No way would it suit m—");
 VoicePlay("B360107001_01_030");

@@ -23,7 +23,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330A20700_06_000");
-MsgDisp("Himuro","But there's always someone who's got it more.
+MsgDisp("Himuro","But there's always someone who's got
+it more.
 Look.");
 ChMouth(1,2);
 VoicePlay("B330A20700_02_000");
@@ -84,8 +85,8 @@ ChMotion(2,4);
 ChEyeOpenLevel(2,7);
 VoicePlay("B330A20700_02_040");
 MsgDisp("Sassa","What are you two saying!");
-MsgDisp("主人公","I think it's surely just because the animals
-know ｛Sassa＊＊｝ is a good person.");
+MsgDisp("主人公","I think it's surely just because the
+animals know ｛Sassa＊＊｝ is a good person.");
 ChEye(1,0);
 ChMouth(1,2);
 ChEye(2,0);
@@ -109,8 +110,8 @@ ChMotion(2,5);
 VoicePlay("B330A20700_02_060");
 MsgDisp("Sassa","I'm not wearing anything!");
 MsgDisp("主人公","(Hehe.
-I wonder if ｛Kazama＊＊｝ and ｛Himuro＊＊｝ are
-jealous?)");
+I wonder if ｛Kazama＊＊｝ and ｛Himuro＊＊｝
+are jealous?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

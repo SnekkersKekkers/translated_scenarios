@@ -79,8 +79,8 @@ ChEye(1,0);
 ChMouth(1,2);
 ChMotion(1,0);
 VoicePlay("B110100000_01_040");
-MsgDisp("Kazama","What the hell was up with that guy...hey, are
-you alright?");
+MsgDisp("Kazama","What the hell was up with that guy...hey,
+are you alright?");
 MsgDisp("主人公","Y-Yeah.
 Thank you for helping me.");
 ChEye(1,4);

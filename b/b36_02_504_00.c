@@ -11,8 +11,8 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B360250400_02_000");
-MsgDisp("Sassa","The scenery looks completely different from
-just a moment ago.");
+MsgDisp("Sassa","The scenery looks completely different
+from just a moment ago.");
 MsgDisp("主人公","Yeah. Because the lights are pretty.");
 ChEye(2,0);
 ChMouth(2,4);
@@ -31,15 +31,16 @@ ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
 VoicePlay("B360250400_02_030");
-MsgDisp("Sassa","When we're with Ryota and Inori, and it's the
-four of us, I don't get this kind of feeling.");
+MsgDisp("Sassa","When we're with Ryota and Inori, and it's
+the four of us, I don't get this kind of
+feeling.");
 MsgDisp("主人公","｛Sassa＊＊｝...");
 ChEye(2,0);
 ChMouth(2,4);
 ChMotion(2,3);
 VoicePlay("B360250400_02_040");
-MsgDisp("Sassa","Hey, I say nice things every now and again,
-don't I?");
+MsgDisp("Sassa","Hey, I say nice things every now and
+again, don't I?");
 MsgDisp("主人公","Hehe!");
 BGMStop();
 MsgClose();

@@ -10,5 +10,5 @@ ChMouth(1,4);
 ChMotion(1,4);
 VoicePlay("B020102126_01_010");
 MsgDisp("Kazama","Guess you've changed what I'm into?");
-MsgDisp("主人公","(｛Kazama＊＊｝ seems to have started to like
-clothes like these.)");
+MsgDisp("主人公","(｛Kazama＊＊｝ seems to have started to
+like clothes like these.)");

@@ -46,9 +46,9 @@ something else?");
         ChMouth(4,0);
         ChMotion(4,0);
         VoicePlay("B040406102_04_050");
-        MsgDisp("Nanatsumori","Actually, if I get injured or get a bad tan,
-it affects my modelling work, so I've been
-told to avoid this sort of thing.");
+        MsgDisp("Nanatsumori","Actually, if I get injured or get a bad
+tan, it affects my modelling work, so I've
+been told to avoid this sort of thing.");
         MsgDisp("主人公","Ah... I see.
 I'm sorry for not taking that into
 consideration.");
@@ -67,8 +67,9 @@ consideration.");
         ChEye(4,4);
         ChMouth(4,3);
         VoicePlay("B040406102_04_080");
-        MsgDisp("Nanatsumori","If we hold hands and float out to the sea, I
-probably won't get injured or get a bad tan.");
+        MsgDisp("Nanatsumori","If we hold hands and float out to the
+sea, I probably won't get injured or get
+a bad tan.");
         MsgDisp("主人公","True!");
         ChEye(4,4);
         ChMouth(4,3);

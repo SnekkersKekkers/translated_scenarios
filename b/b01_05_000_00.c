@@ -14,8 +14,8 @@ switch (ChPrmGet(5,6)){
     case 2:
     ChMotion(5,1);
     VoicePlay("B010500000_05_000");
-    MsgDisp("Hiiragi","If you're going to be late, let me know ahead
-of time.
+    MsgDisp("Hiiragi","If you're going to be late, let me know
+ahead of time.
 Communication is important.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Yes, I'll be more careful...");
@@ -48,8 +48,8 @@ to you.");
     ChMouth(5,3);
     ChEyeOpenLevel(5,#1);
     VoicePlay("B010500000_05_040");
-    MsgDisp("Hiiragi","You are the only person who manages to make
-me anxious like this.");
+    MsgDisp("Hiiragi","You are the only person who manages to
+make me anxious like this.");
     MsgDisp("主人公","Huh?");
     MsgDispSksp(1,0);
     ChMotion(5,0);

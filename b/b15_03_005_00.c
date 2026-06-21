@@ -28,7 +28,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B150300500_03_040");
 MsgDisp("Honda","...It's fine.
-But in return, can you forgive me for this?");
+But in return, can you forgive me
+for this?");
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
 ChClose(3);
 SEWait();

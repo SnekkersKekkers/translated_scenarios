@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(2,0);
     ChMotion(2,0);
     VoicePlay("B040209002_02_010");
-    MsgDisp("Sassa","No, not that it looks delicious or anything.");
+    MsgDisp("Sassa","No, not that it looks delicious or
+anything.");
     MsgDateResultDisp();
     break ;
     case 1:
@@ -75,8 +76,8 @@ That's about it.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040209002_02_070");
-        MsgDisp("Sassa","Ah, but if you made them at home, I would eat
-lots of it.");
+        MsgDisp("Sassa","Ah, but if you made them at home, I would
+eat lots of it.");
         MsgDisp("主人公","Home-cooked vegetables?");
         ChEye(2,0);
         ChMouth(2,4);
@@ -84,7 +85,8 @@ lots of it.");
         VoicePlay("B040209002_02_080");
         MsgDisp("Sassa","You know, like Mikage-sensei?
 He cooks with vegetables.");
-        MsgDisp("主人公","I see. I'll try studying up on cooking then.");
+        MsgDisp("主人公","I see.
+I'll try studying up on cooking then.");
         ChEye(2,0);
         ChMouth(2,0);
         ChMotion(2,4);

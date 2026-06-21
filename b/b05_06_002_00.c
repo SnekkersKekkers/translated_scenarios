@@ -5,7 +5,8 @@ ChOpen(6,255,0,0,0,#1,#1,0,0);
 ScrFadeIn(0);
 VoicePlay("B050600200_06_000");
 MsgDisp("Himuro","Ah... Over there.
-A pitch black cat is sitting in the corner.");
+A pitch black cat is sitting in
+the corner.");
 MsgDisp("主人公","Oh, you're right.
 Come here, kitty.");
 ChEye(6,0);
@@ -20,16 +21,17 @@ ChMouth(6,0);
 ChMotion(6,1);
 VoicePlay("B050600200_06_020");
 MsgDisp("Himuro","Lonely...?
-So what? Are you going to stay here for the
-rest of your life and play with him?");
+So what? Are you going to stay here for
+the rest of your life and play with him?");
 MsgDisp("主人公","Huh?");
 ChEye(6,1);
 ChMouth(6,0);
 ChMotion(6,2);
 ChEyeOpenLevel(6,0);
 VoicePlay("B050600200_06_030");
-MsgDisp("Himuro","You get him attached to you while you're
-here, then just leave whenever it suits you.");
+MsgDisp("Himuro","You get him attached to you while
+you're here, then just leave whenever
+it suits you.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -89,13 +91,13 @@ StlEye(6,0);
 StlMouth(6,0);
 StlEyeOpenLevel(6,5);
 VoicePlay("B050600200_06_100");
-MsgDisp("Himuro","It's true that we can only come here once in
-a while.");
+MsgDisp("Himuro","It's true that we can only come here once
+in a while.");
 StlEye(6,0);
 StlMouth(6,0);
 VoicePlay("B050600200_06_110");
-MsgDisp("Himuro","But...don't think badly of that person from
-earlier, okay?");
+MsgDisp("Himuro","But...don't think badly of that person
+from earlier, okay?");
 MsgDisp("主人公","(That person...
 He's talking about me, right?)");
 StlEye(6,0);
@@ -136,7 +138,8 @@ MsgClose();
 ChOpen(6,255,4,0,0,#1,#1,5,0);
 VoicePlay("B050600200_06_160");
 MsgDisp("Himuro","...for how long have you been listening?");
-MsgDisp("主人公","Uhm, from the moment you picked up the kitty?");
+MsgDisp("主人公","Uhm, from the moment you picked up
+the kitty?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);

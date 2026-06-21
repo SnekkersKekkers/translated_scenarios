@@ -91,7 +91,8 @@ ChMouth(1,0);
 ChMotion(1,0,1);
 VoicePlay("B330B10201_01_040");
 MsgDisp("Kazama","Nanatsumori.
-I specialise in lure fishing so don't worry.");
+I specialise in lure fishing so
+don't worry.");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,0,1);
@@ -108,9 +109,9 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B330B10201_01_050");
-MsgDisp("Kazama","There are two ways to go about it: making it
-look like the real thing, and making it stand
-out in a flashy way.");
+MsgDisp("Kazama","There are two ways to go about it: making
+it look like the real thing, and making it
+stand out in a flashy way.");
 MsgDisp("主人公","(Before I knew it, we were talking about
 fishing...)");
 BGMStop();

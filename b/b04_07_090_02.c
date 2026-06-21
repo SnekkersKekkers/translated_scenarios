@@ -61,8 +61,8 @@ stimuli just growth?");
         ChMouth(7,3);
         ChMotion(7,4);
         VoicePlay("B040709002_07_060");
-        MsgDisp("Mikage","...Wow, that's a rare example of when I said
-something good.");
+        MsgDisp("Mikage","...Wow, that's a rare example of when I
+said something good.");
         MsgDisp("主人公","Hehe.
 ｛Mikage＊＊｝, I want to grow up being
 stimulated in all sorts of ways.");

@@ -7,8 +7,8 @@ ChMotion(1,0,1);
 ScrFadeIn(0);
 ChMotion(1,1);
 VoicePlay("B040121301_01_000");
-MsgDisp("Kazama","There's a comfort to them you don't get from
-other animals.");
+MsgDisp("Kazama","There's a comfort to them you don't get
+from other animals.");
 MsgSel("It's nice to be able to hold and stroke them.","It's nice to be able to feed them.","Recently, there's been some doggy and kitty cafes.");
 switch (MsgSelRsltGet()){
     case 0:

@@ -60,8 +60,8 @@ this summer.");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423602_04_040");
-        MsgDisp("Nanatsumori","My, oh my....you're bringing that up in this
-atmosphere?");
+        MsgDisp("Nanatsumori","My, oh my....you're bringing that up in
+this atmosphere?");
         MsgDisp("主人公","It just popped into my head.");
         ChEye(4,2);
         ChMouth(4,4);
@@ -76,8 +76,8 @@ We were having so much fun too.");
         ChMotion(4,0,1);
         VoicePlay("B040423602_04_060");
         MsgDisp("Nanatsumori","No problem.");
-        MsgDisp("主人公","｛Nanatsumori＊｝, are you nearly done with the
-homework?");
+        MsgDisp("主人公","｛Nanatsumori＊｝, are you nearly done with
+the homework?");
         ChEye(4,2);
         ChMouth(4,3);
         VoicePlay("B040423602_04_070");
@@ -86,8 +86,8 @@ homework?");
         ChMouth(4,3);
         ChMotion(4,1,1);
         VoicePlay("B040423602_04_080");
-        MsgDisp("Nanatsumori","As punishment for just now, I'll copy all of
-your notes.");
+        MsgDisp("Nanatsumori","As punishment for just now, I'll copy all
+of your notes.");
         MsgDisp("主人公","Ehhh∋");
         ChEye(4,0);
         ChMouth(4,0);
@@ -119,8 +119,8 @@ your notes.");
         ChMouth(4,1);
         ChMotion(4,2,1);
         VoicePlay("B040423602_04_140");
-        MsgDisp("Nanatsumori","Getting all embarrassed when I'm the one who
-said it...
+        MsgDisp("Nanatsumori","Getting all embarrassed when I'm the one
+who said it...
 So pathetic...");
         MsgDisp("主人公","(My heart is racing...)");
         break ;

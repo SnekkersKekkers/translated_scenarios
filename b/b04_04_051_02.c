@@ -28,7 +28,8 @@ constellations to cover up his tracks.");
     ChEye(4,0);
     ChMouth(4,0);
     VoicePlay("B040405102_04_020");
-    MsgDisp("Nanatsumori","Hmm... Are you the type to find it romantic?");
+    MsgDisp("Nanatsumori","Hmm...
+Are you the type to find it romantic?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

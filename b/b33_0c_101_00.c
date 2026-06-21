@@ -19,8 +19,8 @@ ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B330C10100_05_010");
-MsgDisp("Hiiragi","Until I enrolled at Habataki High School, I
-was always travelling.");
+MsgDisp("Hiiragi","Until I enrolled at Habataki High School,
+I was always travelling.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -30,7 +30,8 @@ ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B330C10100_05_020");
-MsgDisp("Hiiragi","Yes, I even got to visit some remote islands.");
+MsgDisp("Hiiragi","Yes, I even got to visit some remote
+islands.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0,1);
@@ -45,8 +46,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 ChEyeOpenLevel(5,0);
 VoicePlay("B330C10100_05_030");
-MsgDisp("Hiiragi","...No. I have not gotten used to it yet, but
-I love life at Haba High.");
+MsgDisp("Hiiragi","...No. I have not gotten used to it yet,
+but I love life at Haba High.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -65,8 +66,8 @@ ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B330C10100_07_020");
 MsgDisp("Mikage","I see.
-Isn't that proof that you're starting to have
-more freedom now?");
+Isn't that proof that you're starting to
+have more freedom now?");
 ChEye(5,0);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -77,8 +78,8 @@ ChMouth(6,4);
 ChMotion(6,3);
 VoicePlay("B330C10100_06_010");
 MsgDisp("Himuro","Then, today in order to satisfy
-Yanosuke-senpai's wanderlust, let's board as
-if we're setting off on a real journey.");
+Yanosuke-senpai's wanderlust, let's board
+as if we're setting off on a real journey.");
 MsgDisp("主人公","Yeah, let's do that.");
 ChEye(5,4);
 ChMouth(5,4);
@@ -101,8 +102,8 @@ MsgClose();
 ChOpen(5,255,0,0,4,#1,#1,0,3,0,30);
 ChOpen(7,255,0,0,0,#1,#1,0,3,0,30);
 VoicePlay("B330C10100_05_070");
-MsgDisp("Hiiragi","Inori-kun asks whatever's on his mind without
-holding back.
+MsgDisp("Hiiragi","Inori-kun asks whatever's on his mind
+without holding back.
 It's refreshing.");
 ChEye(7,0);
 ChMouth(7,0);

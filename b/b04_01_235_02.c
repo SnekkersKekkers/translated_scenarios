@@ -53,8 +53,8 @@ scared of.");
         VoicePlay("B040123502_01_040");
         MsgDisp("Kazama","I won't tell you that easily.");
         MsgDisp("主人公","Eh, is there such a thing?
-I thought ｛Kazama＊＊｝ could do anything, and
-didn't have anything he was scared of.");
+I thought ｛Kazama＊＊｝ could do anything,
+and didn't have anything he was scared of.");
         ChEye(1,0);
         ChMouth(1,2);
         ChMotion(1,0);
@@ -66,8 +66,8 @@ didn't have anything he was scared of.");
         ChMotion(1,4);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040123502_01_060");
-        MsgDisp("Kazama","It's not quite being scared, but even I have
-weaknesses.");
+        MsgDisp("Kazama","It's not quite being scared, but even I
+have weaknesses.");
         MsgDisp("主人公","Is that so?
 Tell me.");
         ChEye(1,0);
@@ -75,8 +75,8 @@ Tell me.");
         ChMotion(1,0);
         ChEyeOpenLevel(1,8);
         VoicePlay("B040123502_01_070");
-        MsgDisp("Kazama","Well, since you're super naive, I'll give you
-a special hint.");
+        MsgDisp("Kazama","Well, since you're super naive, I'll give
+you a special hint.");
         MsgClose();
         SEPlay("EV_SE_544");
         ChClose(1,0,30);

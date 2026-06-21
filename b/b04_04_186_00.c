@@ -13,7 +13,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,3,1);
     VoicePlay("B040418600_04_000");
     MsgDisp("Nanatsumori","They nailed the formula.
-If it's well executed, it feels really good!");
+If it's well executed, it feels
+really good!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

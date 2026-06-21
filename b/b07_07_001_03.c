@@ -18,15 +18,17 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("B070700001_07_180");
-MsgDisp("Mikage","Hm? What's up with that \"I'm different\" face?
+MsgDisp("Mikage","Hm?
+What's up with that \"I'm different\" face?
 You're the most interesting one.");
 MsgDisp("主人公","Eeh....");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,3);
 VoicePlay("B070700001_07_190");
-MsgDisp("Mikage","Listen up, the highest form of praise you can
-receive in life is being called interesting.");
+MsgDisp("Mikage","Listen up, the highest form of praise you
+can receive in life is being called
+interesting.");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
@@ -64,8 +66,8 @@ MsgDisp("Mikage","Listen up, at first glance you might seem
 different, but cherish the friends you can
 empathise with on a deeper level.");
 MsgDisp("主人公","(｛Mikage＊＊｝, ｛Hiiragi＊＊＊｝ and
-｛Himuro＊＊｝ seem different, but maybe they're
-similar too?)");
+｛Himuro＊＊｝ seem different, but maybe
+they're similar too?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

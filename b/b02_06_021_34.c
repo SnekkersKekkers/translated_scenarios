@@ -11,5 +11,6 @@ ChCheek(6,10);
 VoicePlay("B020602134_06_010");
 MsgDisp("Himuro","Is it bad?
 You're the one who made me feel this way.");
-MsgDisp("主人公","(I think he likes this style even more now.
+MsgDisp("主人公","(I think he likes this style even
+more now.
 I'm glad!)");

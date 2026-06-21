@@ -35,8 +35,8 @@ ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B360718001_07_040");
 MsgDisp("Mikage","Everyone has the same amount of time.
-Whether you're having fun with friends or at
-cram school. It's the same day.");
+Whether you're having fun with friends or
+at cram school. It's the same day.");
 MsgDisp("主人公","That's right...
 I should study hard too.");
 ChEye(7,0);
@@ -61,8 +61,8 @@ ChMouth(7,3);
 ChMotion(7,4);
 VoicePlay("B360718001_07_070");
 MsgDisp("Mikage","Those students going home from cram school
-look nervous. They're wondering if it's okay
-to just study all the time.");
+look nervous. They're wondering if it's
+okay to just study all the time.");
 ChEye(7,0);
 ChMouth(7,3);
 ChMotion(7,5);

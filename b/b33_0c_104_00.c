@@ -65,8 +65,8 @@ ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B330C10400_06_030");
 MsgDisp("Himuro","Right.
-But it doesn't really feel like a place for
-all four of us to come to.");
+But it doesn't really feel like a place
+for all four of us to come to.");
 ChEye(5,4);
 ChMouth(5,4);
 ChMotion(5,4);
@@ -78,8 +78,9 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoiceEVSPlay(7);
 VoicePlay("B330C10400_07_030");
-MsgDisp("Mikage","｛主人公｝, it seems like everyone wants to
-come here alone with you on a summer night.");
+MsgDisp("Mikage","｛主人公｝, it seems like everyone
+wants to come here alone with you on a
+summer night.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,4);
@@ -117,7 +118,8 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,0);
 VoicePlay("B330C10400_07_050");
-MsgDisp("Mikage","I think I'll watch the fireflies by myself?");
+MsgDisp("Mikage","I think I'll watch the fireflies
+by myself?");
 ChEye(5,3);
 ChMouth(5,4);
 VoicePlay("B330C10400_05_030");
@@ -135,8 +137,8 @@ ChMotion(7,2);
 VoicePlay("B330C10400_07_060");
 MsgDisp("Mikage","What's up with you two?");
 MsgDisp("主人公","(Hehe, ｛Mikage＊＊｝ is being put on the
-spot. I wonder who ｛Mikage＊＊｝ wants to
-see the fireflies with?)");
+spot. I wonder who ｛Mikage＊＊｝ wants
+to see the fireflies with?)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

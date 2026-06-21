@@ -23,8 +23,8 @@ If you liked it, then it's fine.");
     ChMotion(1,0);
     VoicePlay("B040118400_01_010");
     MsgDisp("Kazama","Right. I heard the director is highly
-regarded around the world, but it just wasn't
-to our taste.");
+regarded around the world, but it just
+wasn't to our taste.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

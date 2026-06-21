@@ -13,7 +13,8 @@ VoicePlay("B150600000_06_010");
 MsgDisp("Himuro","Were you unaware of it yourself?
 Even among girls, you're one of the more
 aggressive ones.");
-MsgDisp("主人公","...Do other girls touch you too, ｛Himuro＊＊｝?");
+MsgDisp("主人公","...Do other girls touch you too,
+｛Himuro＊＊｝?");
 ChEye(6,0);
 ChMouth(6,5);
 ChMotion(6,5);
@@ -33,14 +34,15 @@ ChMouth(6,0);
 ChMotion(6,0);
 ChCheek(6,0);
 VoicePlay("B150600000_06_040");
-MsgDisp("Himuro","That was my impression after watching girls
-mess around with each other.
+MsgDisp("Himuro","That was my impression after watching
+girls mess around with each other.
 Don't get any weird misunderstandings.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B150600000_06_050");
-MsgDisp("Himuro","Are you doing this with both guys and girls?");
+MsgDisp("Himuro","Are you doing this with both guys
+and girls?");
 MsgDisp("主人公","No, I'm not.");
 ChEye(6,0);
 ChMouth(6,0);

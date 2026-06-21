@@ -40,7 +40,8 @@ Got it, give me your hand.");
         ChMotion(7,1);
         VoicePlay("B040723602_07_020");
         MsgDisp("Mikage","Hey, hey.
-You won't be able to see anything like that.");
+You won't be able to see anything
+like that.");
         MsgDateResultDisp();
         DateRateSet(5);
         break ;
@@ -73,8 +74,8 @@ Suit yourself.");
         ChLayout(0);
         ChOpen(7,253,1,0,0,#1,#1,0,0,0,30);
         VoicePlay("B040723602_07_060");
-        MsgDisp("Mikage","Look. Now, there's no need to worry we'll get
-separated, but you can't see anything,
+        MsgDisp("Mikage","Look. Now, there's no need to worry we'll
+get separated, but you can't see anything,
 right～?");
         MsgDisp("主人公","I can see ｛Mikage＊＊｝ very well.");
         ChEye(7,1);
@@ -101,7 +102,8 @@ The skull bear is changing colours∈");
         VoicePlay("B040723602_07_090");
         MsgDisp("Mikage","Sigh...seriously?
 I just can't beat you, can I.");
-        MsgDisp("主人公","(Sigh, my heart might be racing a little...)");
+        MsgDisp("主人公","(Sigh, my heart might be racing a
+little...)");
         break ;
         default :
         DbgAssert(1);
@@ -114,8 +116,8 @@ I just can't beat you, can I.");
     ChMouth(7,3);
     ChMotion(7,5);
     VoicePlay("B040723602_07_100");
-    MsgDisp("Mikage","Guess this height's good for somethin' after
-all, huh?");
+    MsgDisp("Mikage","Guess this height's good for somethin'
+after all, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

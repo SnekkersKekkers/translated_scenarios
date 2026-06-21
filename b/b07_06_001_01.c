@@ -1,6 +1,6 @@
 MsgDisp("主人公","Hey.
-These days you've been getting involved with
-｛Kazama＊＊｝ haven't you?");
+These days you've been getting involved
+with ｛Kazama＊＊｝ haven't you?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,1);
@@ -8,7 +8,8 @@ VoicePlay("B070600001_06_010");
 MsgDisp("Himuro","What's with that phrasing?
 I'm not trying to \"get involved\" with him.");
 MsgDisp("主人公","I see.
-But you've been getting along recently right?");
+But you've been getting along
+recently right?");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -38,9 +39,9 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,0);
 VoicePlay("B070600001_06_060");
-MsgDisp("Himuro","He's got his own share of worries that never
-seem to end. I've found myself sympathising
-with him more and more.");
+MsgDisp("Himuro","He's got his own share of worries that
+never seem to end. I've found myself
+sympathising with him more and more.");
 MsgDisp("主人公","Is that so.");
 ChEye(6,0);
 ChMouth(6,3);
@@ -55,8 +56,8 @@ VoicePlay("B070600001_06_080");
 MsgDisp("Himuro","Well, it's interesting to watch, so I
 wouldn't mind if this dynamic kept going.");
 MsgDisp("主人公","(...Interesting?
-But as I thought ｛Himuro＊＊｝ and ｛Kazama＊＊｝
-really do get along.)");
+But as I thought ｛Himuro＊＊｝ and
+｛Kazama＊＊｝ really do get along.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0);

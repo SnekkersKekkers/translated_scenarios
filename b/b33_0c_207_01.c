@@ -31,7 +31,8 @@ ChMouth(6,3);
 ChMotion(6,0);
 VoicePlay("B330C20701_06_010");
 MsgDisp("Himuro","...These screams included.");
-MsgDisp("主人公","Sigh... I get nervous every time I come here.");
+MsgDisp("主人公","Sigh...
+I get nervous every time I come here.");
 ChEye(7,2);
 ChMouth(7,0);
 ChMotion(7,2);
@@ -61,7 +62,8 @@ ChEye(6,0);
 ChMouth(6,4);
 ChMotion(6,4);
 VoicePlay("B330C20701_06_020");
-MsgDisp("Himuro","What are you two whispering about back there?
+MsgDisp("Himuro","What are you two whispering about
+back there?
 Look, we're almost up.");
 ChEye(7,2);
 ChMouth(7,0);

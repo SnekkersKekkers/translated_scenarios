@@ -21,8 +21,8 @@ Did you run here?");
     ChMotion(2,4);
     VoicePlay("B010200001_02_010");
     MsgDisp("Sassa","Yeah.
-Every light was green the whole way, so I ran
-nonstop from home.");
+Every light was green the whole way, so I
+ran nonstop from home.");
     MsgDisp("主人公","Huh?
 You ran all the way here from your house?");
     MsgDispSksp(1,0);
@@ -86,8 +86,8 @@ I could carry you around too?");
     ChMouth(2,2);
     ChMotion(2,2);
     VoicePlay("B010200001_02_080");
-    MsgDisp("Sassa","It feels like you didn't have high hopes for
-me, and that makes me anxious.
+    MsgDisp("Sassa","It feels like you didn't have high hopes
+for me, and that makes me anxious.
 Were you not looking forward to this?");
     MsgDisp("主人公","That's not the case at all!");
     ChEye(2,0);

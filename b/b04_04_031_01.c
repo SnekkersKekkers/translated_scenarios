@@ -37,7 +37,8 @@ Pay attention to that too∈");
     ChMouth(4,3);
     ChMotion(4,3,1);
     VoicePlay("B040403101_04_020");
-    MsgDisp("Nanatsumori","For sure...a human child could fit in there.
+    MsgDisp("Nanatsumori","For sure...a human child could fit
+in there.
 Damn! That's funny, I'll take a picture.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

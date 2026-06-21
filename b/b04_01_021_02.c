@@ -16,7 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,3);
     ChMotion(1,0);
     VoicePlay("B040102102_01_010");
-    MsgDisp("Kazama","The scents and sounds are part of the appeal.");
+    MsgDisp("Kazama","The scents and sounds are part of
+the appeal.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

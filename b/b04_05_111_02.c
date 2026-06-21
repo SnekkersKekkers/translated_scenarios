@@ -56,8 +56,9 @@ Now, will you give me your hand?");
         MsgDisp("主人公","Wow! Everyone would be surprised, huh?");
         ChEye(5,2);
         VoicePlay("B040511102_05_050");
-        MsgDisp("Hiiragi","After the surprise wears off, they'd probably
-boo once they see how I actually skate.");
+        MsgDisp("Hiiragi","After the surprise wears off, they'd
+probably boo once they see how I
+actually skate.");
         MsgDisp("主人公","No way.
 It would be a good way to advertise the
 Theatre Company's Ice Show.");
@@ -103,8 +104,8 @@ Sorry for the trouble...");
         MsgClose();
         ChOpen(5,255,0,2,4,#1,#1,0,0);
         VoicePlay("B040511102_05_120");
-        MsgDisp("Hiiragi","I think it will be difficult for me to turn
-your idea into a reality...");
+        MsgDisp("Hiiragi","I think it will be difficult for me to
+turn your idea into a reality...");
         MsgDisp("主人公","(Phew, thank goodness nobody got hurt...)");
         break ;
         default :

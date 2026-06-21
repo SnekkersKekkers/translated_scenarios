@@ -31,9 +31,9 @@ MsgDisp("主人公","Huh?");
 ChEyeOpenLevel(5,0);
 ChCheek(5,0);
 VoicePlay("B070500001_05_550");
-MsgDisp("Hiiragi","To make someone feel that way just by being
-with them is the greatest reward an actor
-could ask for.");
+MsgDisp("Hiiragi","To make someone feel that way just by
+being with them is the greatest reward an
+actor could ask for.");
 ChEye(5,4);
 VoicePlay("B070500001_05_560");
 MsgDisp("Hiiragi","Furthermore, I feel the same.");
@@ -64,8 +64,8 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,#1);
 ChCheek(5,0);
 VoicePlay("B070500001_05_600");
-MsgDisp("Hiiragi","If both our hearts are racing, then there's
-no need for either of us to worry.");
+MsgDisp("Hiiragi","If both our hearts are racing, then
+there's no need for either of us to worry.");
 MsgDisp("主人公","(｛Hiiragi＊＊＊｝'s heart also races when he's
 around me...?)");
 BGMStop();

@@ -6,7 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121302_01_000");
-MsgDisp("Kazama","For some reason the dogs always go up to you.");
+MsgDisp("Kazama","For some reason the dogs always go up
+to you.");
 MsgSel("Maybe I smell of something?","Apparently animals can tell the difference between good and bad people.","Maybe it's cause I'm holding food?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMouth(1,4);
     ChMotion(1,4);
     VoicePlay("B040121302_01_010");
-    MsgDisp("Kazama","You always have this, how should I put it...
-fluffy kind of smell.");
+    MsgDisp("Kazama","You always have this, how should I put
+it... fluffy kind of smell.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -73,7 +74,8 @@ Maybe there was a person inside?");
         ChMotion(1,1);
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121302_01_060");
-        MsgDisp("Kazama","I know that, but I don't like that male dog.");
+        MsgDisp("Kazama","I know that, but I don't like that
+male dog.");
         MsgDisp("主人公","It's a dog, it can't be helped.
 And besides, it was a girl, you know?");
         ChEye(1,0);
@@ -97,8 +99,8 @@ Well, I guess that can't be helped.");
         VoicePlay("B040121302_01_090");
         MsgDisp("Kazama","Still, it's kind of annoying when she just
 casually licked you...");
-        MsgDisp("主人公","(Is ｛Kazama＊＊｝ really that particular about
-things?)");
+        MsgDisp("主人公","(Is ｛Kazama＊＊｝ really that particular
+about things?)");
         break ;
         default :
         DbgAssert(1);

@@ -11,7 +11,8 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B360302300_03_000");
 MsgDisp("Honda","The timing's perfect.
-I wonder if we'll be able to see it today...");
+I wonder if we'll be able to see it
+today...");
 MsgDisp("主人公","Huh? What are you talking about?");
 ChEye(3,3);
 ChMouth(3,3);
@@ -24,21 +25,21 @@ ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,1,1);
 VoicePlay("B360302300_03_020");
-MsgDisp("Honda","If anything deserves the word \"breathtaking,\"
-it's a view like this.");
+MsgDisp("Honda","If anything deserves the word
+\"breathtaking,\" it's a view like this.");
 ChEye(3,4);
 ChMotion(3,4,1);
 VoicePlay("B360302300_03_030");
-MsgDisp("Honda","Even on clear days, it's rare to see it this
-beautiful.");
+MsgDisp("Honda","Even on clear days, it's rare to see it
+this beautiful.");
 ChEye(3,3);
 ChMouth(3,3);
 ChMotion(3,3,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B360302300_03_040");
 MsgDisp("Honda","We're so lucky today.");
-MsgDisp("主人公","It's a shame everyone didn't come to see it
-with us.");
+MsgDisp("主人公","It's a shame everyone didn't come to see
+it with us.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2,1);
@@ -54,8 +55,8 @@ ChEye(3,4);
 ChMouth(3,0);
 ChMotion(3,0,1);
 VoicePlay("B360302300_03_070");
-MsgDisp("Honda","I'm not saying that I don't enjoy hanging out
-with everyone.
+MsgDisp("Honda","I'm not saying that I don't enjoy hanging
+out with everyone.
 But—");
 ChEye(3,4);
 ChMouth(3,4);

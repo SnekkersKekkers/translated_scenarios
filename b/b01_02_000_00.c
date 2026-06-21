@@ -68,15 +68,15 @@ No need to make that face about it.");
     ChMotion(2,4);
     VoicePlay("B010200000_02_060");
     MsgDisp("Sassa","Oh, I know.
-Let's make a do-over and meet up here again
-next time.");
+Let's make a do-over and meet up here
+again next time.");
     ChEye(2,0);
     ChMouth(2,4);
     ChMotion(2,0);
     VoicePlay("B010200000_02_070");
     MsgDisp("Sassa","Then next time, just make sure you're on
-time. That way, today's lateness won't count
-anymore.");
+time. That way, today's lateness won't
+count anymore.");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);

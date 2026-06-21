@@ -5,8 +5,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040116002_01_000");
-MsgDisp("Kazama","That fishing game has a really realistic feel
-when you reel something in.");
+MsgDisp("Kazama","That fishing game has a really realistic
+feel when you reel something in.");
 MsgSel("It's like real fishing, huh?","Do you get medals for catching fish?","Shall we play Fishing-Fishing Champ again?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -111,7 +111,8 @@ really go to England.)");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040116002_01_090");
-    MsgDisp("Kazama","Alright, I'll aim for a monster class next.");
+    MsgDisp("Kazama","Alright, I'll aim for a monster
+class next.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

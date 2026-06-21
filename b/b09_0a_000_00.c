@@ -13,11 +13,12 @@ VoicePlay("B090A00000_06_000");
 MsgDisp("Himuro","Maybe she got the week wrong?");
 VoicePlay("B090A00000_02_010");
 MsgDisp("Sassa","Hope you're okay.
-We'll wait a bit longer, so give us a call,
-alright?");
+We'll wait a bit longer, so give us a
+call, alright?");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
 MsgDisp("主人公","Oh no!
-I was supposed to go out with everyone today!");
+I was supposed to go out with
+everyone today!");
 MsgClose();
 ScrFadeOut(0);

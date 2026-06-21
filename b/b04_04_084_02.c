@@ -55,16 +55,16 @@ I do that on a regular basis.");
         ChMotion(4,0,1);
         VoicePlay("B040408402_04_060");
         MsgDisp("Nanatsumori","I don't...jog everyday though.
-If it's necessary for work, I'll also go to
-the gym.");
+If it's necessary for work, I'll also go
+to the gym.");
         MsgDisp("主人公","｛Nanatsumori＊｝, you're amazing.");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,2,1);
         VoicePlay("B040408402_04_070");
         MsgDisp("Nanatsumori","Not really.
-I already knew modelling takes little efforts
-even in everyday life.");
+I already knew modelling takes little
+efforts even in everyday life.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,1,1);
@@ -81,8 +81,8 @@ like me.");
         ChMotion(4,1,1);
         VoicePlay("B040408402_04_100");
         MsgDisp("Nanatsumori","We're going to exercise, right?
-If it's only a little, I can join you for a
-bit. Dash!");
+If it's only a little, I can join you for
+a bit. Dash!");
         MsgClose();
         ChClose(4,0,30);
         SEPlay("EV_SE_FOOT_005",1);

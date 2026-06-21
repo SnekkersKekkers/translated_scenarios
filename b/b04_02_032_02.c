@@ -6,8 +6,8 @@ ChMouth(2,4);
 ChMotion(2,0,1);
 ScrFadeIn(0);
 VoicePlay("B040203202_02_000");
-MsgDisp("Sassa","Apparently during the night the aquarium is
-all lit up.");
+MsgDisp("Sassa","Apparently during the night the aquarium
+is all lit up.");
 MsgSel("Wow, you know a lot.","I wonder if that blinds the fish?","That sounds romantic.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -22,7 +22,8 @@ switch (MsgSelRsltGet()){
         ChMotion(2,4);
         VoicePlay("B040203202_02_010");
         MsgDisp("Sassa","I just read it off that poster.
-No need to go out of your way to flatter me.");
+No need to go out of your way to
+flatter me.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -38,8 +39,8 @@ No need to go out of your way to flatter me.");
         ChMouth(2,4);
         ChMotion(2,0);
         VoicePlay("B040203202_02_030");
-        MsgDisp("Sassa","It's rare for me to know something about the
-city that you don't.");
+        MsgDisp("Sassa","It's rare for me to know something about
+the city that you don't.");
         MsgDisp("主人公","Ah, that's kind of frustrating, actually.");
         ChEye(2,0);
         ChMouth(2,4);
@@ -57,7 +58,8 @@ story would be something.");
         MsgDisp("Sassa","Legwork, huh?
 Alright, next time let's go cover Habataki
 Mountain together!");
-        MsgDisp("主人公","Hehe, but isn't that just like a normal date?");
+        MsgDisp("主人公","Hehe, but isn't that just like a
+normal date?");
         ChEye(2,0);
         ChMouth(2,3);
         ChMotion(2,3);

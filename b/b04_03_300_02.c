@@ -34,8 +34,8 @@ But I give them names.");
     ChMotion(3,3);
     VoicePlay("B040330002_03_020");
     MsgDisp("Honda","They have, they have.
-When I feed them, I sometimes forget to close
-the lid.");
+When I feed them, I sometimes forget to
+close the lid.");
     MsgDispBGSksp(1,2);
     MsgDispSksp(1,0);
     MsgDateResultDisp();
@@ -62,23 +62,24 @@ that much?");
         ChMouth(3,4);
         ChMotion(3,4);
         VoicePlay("B040330002_03_040");
-        MsgDisp("Honda","...I see. You really dislike them that much?");
+        MsgDisp("Honda","...I see.
+You really dislike them that much?");
         MsgDisp("主人公","No, it's just that I'm not very good
 with them.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,0);
         VoicePlay("B040330002_03_050");
-        MsgDisp("Honda","Then, let's put the creatures aside, and try
-some fortune telling?");
+        MsgDisp("Honda","Then, let's put the creatures aside, and
+try some fortune telling?");
         MsgDisp("主人公","Eh, ｛Honda＊＊｝, you can fortune-tell?");
         ChEye(3,0);
         ChMouth(3,3);
         ChMotion(3,1);
         VoicePlay("B040330002_03_060");
         MsgDisp("Honda","Yep yep, yeah, I like the concept based on
-the Five Elements theory and I've read quite
-a few books on it.");
+the Five Elements theory and I've read
+quite a few books on it.");
         ChMotion(3,4);
         VoicePlay("B040330002_03_070");
         MsgDisp("Honda","But it's more about compatibility, I think.

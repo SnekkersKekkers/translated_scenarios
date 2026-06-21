@@ -36,9 +36,9 @@ or less.");
     ChMouth(4,3);
     ChMotion(4,3);
     VoicePlay("B040402101_04_030");
-    MsgDisp("Nanatsumori","Ahh, I see. If I can take it up this close, I
-might be able to get a nice picture of its
-wings and eyes.");
+    MsgDisp("Nanatsumori","Ahh, I see. If I can take it up this
+close, I might be able to get a nice
+picture of its wings and eyes.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

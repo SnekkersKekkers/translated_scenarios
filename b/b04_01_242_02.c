@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChEyeOpenLevel(1,0);
     VoicePlay("B040124202_01_010");
     MsgDisp("Kazama","Apparently sitting around the same fire
-strengthens bonds. Well, we don't need that
-kind of thing, though.");
+strengthens bonds. Well, we don't need
+that kind of thing, though.");
     MsgDispSksp(1,0);
     ChEyeOpenLevel(1,#1);
     MsgDateResultDisp();
@@ -30,8 +30,8 @@ kind of thing, though.");
     ChMotion(1,3);
     VoicePlay("B040124202_01_020");
     MsgDisp("Kazama","There it is.
-Everything really is related to food for you,
-isn't it?");
+Everything really is related to food for
+you, isn't it?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -77,9 +77,10 @@ that fire?");
         MsgDisp("主人公","Ummm... ｛Kazama＊＊｝?");
         VoicePlay("B040124202_01_070");
         MsgDisp("Kazama","Right.
-It's just me and you warming ourselves by the
-fire. What do you think of that?");
-        MsgDisp("主人公","Yeah, it feels... really peaceful, somehow?");
+It's just me and you warming ourselves by
+the fire. What do you think of that?");
+        MsgDisp("主人公","Yeah, it feels... really peaceful,
+somehow?");
         VoicePlay("B040124202_01_080");
         MsgDisp("Kazama","Alright!");
         SEPlay("EV_SE_524",0,1);

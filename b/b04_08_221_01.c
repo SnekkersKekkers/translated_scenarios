@@ -7,8 +7,8 @@ ChMotion(8,0);
 ScrFadeIn(0);
 ChMotion(8,4,1);
 VoicePlay("B040822101_08_000");
-MsgDisp("Shirahane","Hundreds of years ago the scenery musta been
-completely different to now...");
+MsgDisp("Shirahane","Hundreds of years ago the scenery musta
+been completely different to now...");
 MsgSel("It might change 10 years later too?","Maybe some relics still remain?","I can feel the flow of history.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -41,9 +41,9 @@ closely?");
     ChMotion(8,0,1);
     ChCheek(8,3);
     VoicePlay("B040822101_08_030");
-    MsgDisp("Shirahane","That's right. It's movin' to think that even
-now, as we talk, it will someday become a
-thing of the past.");
+    MsgDisp("Shirahane","That's right. It's movin' to think that
+even now, as we talk, it will someday
+become a thing of the past.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

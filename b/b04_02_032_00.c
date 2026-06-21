@@ -6,7 +6,8 @@ ChMouth(2,0);
 ChMotion(2,4,1);
 ScrFadeIn(0);
 VoicePlay("B040203200_02_000");
-MsgDisp("Sassa","Huh, I didn't know a place like this existed.");
+MsgDisp("Sassa","Huh, I didn't know a place like this
+existed.");
 MsgSel("It was on the news, right?","Maybe they made it in secret?","It's great when it's sunny, huh?");
 switch (MsgSelRsltGet()){
     case 0:

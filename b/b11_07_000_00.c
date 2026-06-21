@@ -1,7 +1,8 @@
 BGDateBeforeOpen();
 ChLayout(1);
 ScrFadeIn(0);
-MsgDisp("主人公","Huh... ｛Mikage＊＊｝ still hasn't come yet.");
+MsgDisp("主人公","Huh...
+｛Mikage＊＊｝ still hasn't come yet.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");
@@ -80,8 +81,8 @@ ChEye(7,4);
 ChMouth(7,0);
 ChMotion(7,2);
 VoicePlay("B110700000_07_050");
-MsgDisp("Mikage","Whether you believe it, or don't believe it,
-is up to you.");
+MsgDisp("Mikage","Whether you believe it, or don't believe
+it, is up to you.");
 ChEye(33,1);
 ChMouth(33,1);
 ChEyeOpenLevel(33,7);

@@ -96,7 +96,8 @@ VoicePlay("B050200300_02_030");
 MsgDisp("Sassa","...Yeah.
 This is my first time looking so cool.");
 VoicePlay("B050200300_31_070");
-MsgDisp("Goro","Yep. I went with \"Goro's Fresh Collection\"!");
+MsgDisp("Goro","Yep.
+I went with \"Goro's Fresh Collection\"!");
 MsgDisp("主人公","Ah, that fashion collection is featured on
 Habatcher...");
 StlEye(2,1);
@@ -125,7 +126,8 @@ SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 Wait(90,0);
 VoicePlay("B050200300_02_060");
 MsgDisp("Sassa","Ah. Thank you so much...");
-MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ seems a bit disappointed.
+MsgDisp("主人公","(Hehe, ｛Sassa＊＊｝ seems a bit
+disappointed.
 The suit really made him look cool.)");
 BGMStop();
 ChPrmTblAdd(2,0);

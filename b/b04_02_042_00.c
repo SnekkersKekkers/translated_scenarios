@@ -23,8 +23,8 @@ staged, right∋");
     ChMouth(2,4);
     ChMotion(2,4);
     VoicePlay("B040204200_02_010");
-    MsgDisp("Sassa","I guess... That clown dragged us around and
-made us do different things...
+    MsgDisp("Sassa","I guess... That clown dragged us around
+and made us do different things...
 Well, it was still a good experience.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

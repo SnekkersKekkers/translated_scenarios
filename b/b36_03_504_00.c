@@ -21,9 +21,10 @@ ChMouth(3,4);
 ChMotion(3,1,1);
 VoicePlay("B360350400_03_020");
 MsgDisp("Honda","Ah, I prepared in advance...
-I wanted to say something cool while looking
-at the lights.");
-MsgDisp("主人公","Um... I think I prefer the usual ｛Honda＊＊｝.");
+I wanted to say something cool while
+looking at the lights.");
+MsgDisp("主人公","Um...
+I think I prefer the usual ｛Honda＊＊｝.");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,0,1);
@@ -39,9 +40,11 @@ SEPlay("EV_SE_544",0,0.6);
 MsgClose();
 ChOpen(3,255,4,0,0,#1,#1,0,0);
 VoicePlay("B360350400_03_050");
-MsgDisp("Honda","...I thought about it, and it didn't turn out
-that different from the cool line, did it?");
-MsgDisp("主人公","(It's sweet, but also a bit embarrassing...)");
+MsgDisp("Honda","...I thought about it, and it didn't turn
+out that different from the cool line,
+did it?");
+MsgDisp("主人公","(It's sweet, but also a bit
+embarrassing...)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);

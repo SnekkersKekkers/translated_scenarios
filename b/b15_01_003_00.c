@@ -21,9 +21,9 @@ ChMouth(1,2);
 ChMotion(1,0);
 ChCheek(1,0);
 VoicePlay("B150100300_01_020");
-MsgDisp("Kazama","Hey, you know it's been 10 years since we've
-last met, but neither you nor I are the same
-as back then.");
+MsgDisp("Kazama","Hey, you know it's been 10 years since
+we've last met, but neither you nor I are
+the same as back then.");
 MsgDisp("主人公","Y-Yeah.
 I know that.");
 ChEye(1,0);
@@ -40,7 +40,8 @@ VoicePlay("B150100300_01_040");
 MsgDisp("Kazama","Sigh...we're basically in front of
 your house.
 What would you do if your family saw you?");
-MsgDisp("主人公","Ah... I would probably be a bit embarrassed.");
+MsgDisp("主人公","Ah...
+I would probably be a bit embarrassed.");
 ChEye(1,0);
 ChMouth(1,0);
 ChMotion(1,0);
@@ -70,6 +71,7 @@ See you.
 I'll cool my head as I go home.");
 SEPlay("EV_SE_FOOT_WALK_AWAY_ALONE");
 ChClose(1);
-MsgDisp("主人公","(I wonder if I've troubled ｛Kazama＊＊｝...)");
+MsgDisp("主人公","(I wonder if I've troubled
+｛Kazama＊＊｝...)");
 MsgClose();
 ScrFadeOut(0,0);

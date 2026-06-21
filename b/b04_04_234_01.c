@@ -39,8 +39,8 @@ You've got a good eye.");
     ChMotion(4,0,1);
     VoicePlay("B040423401_04_030");
     MsgDisp("Nanatsumori","I see.
-The more you take, the more likely one will
-be a hit, huh?");
+The more you take, the more likely one
+will be a hit, huh?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

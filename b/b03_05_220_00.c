@@ -32,8 +32,8 @@ I want to feel like a lord.");
     case 1:
     ChEye(5,4);
     VoicePlay("B030522000_05_030");
-    MsgDisp("Hiiragi","There is so much to learn about the history
-of Habataki City.");
+    MsgDisp("Hiiragi","There is so much to learn about the
+history of Habataki City.");
     MsgDispSksp(1,0);
     MsgDisp("主人公","Yeah, let's go.");
     MsgDispSksp(0);

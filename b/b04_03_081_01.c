@@ -6,8 +6,8 @@ ChEyeOpenLevel(3,8);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040308101_03_000");
-MsgDisp("Honda","This blizzard of falling cherry blossoms is
-so nice.
+MsgDisp("Honda","This blizzard of falling cherry blossoms
+is so nice.
 I can't take my eyes off it.");
 MsgSel("It's really like pink snow.","Ah, it's falling into my mouth.","There's like 3 centimetres thick of fallen snow?");
 switch (MsgSelRsltGet()){
@@ -31,7 +31,8 @@ well-developed crystals.");
     ChMouth(3,1);
     ChMotion(3,5);
     VoicePlay("B040308101_03_020");
-    MsgDisp("Honda","Haha! Awaaa, it's fallen into my mouth too...
+    MsgDisp("Honda","Haha!
+Awaaa, it's fallen into my mouth too...
 No, I swallowed it∋");
     MsgDispBGSksp(1,1);
     MsgDispSksp(1,0);

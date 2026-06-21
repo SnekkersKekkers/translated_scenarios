@@ -40,8 +40,8 @@ Want to step outside for a moment?");
     ChMotion(5,0);
     VoicePlay("B040521301_05_030");
     MsgDisp("Hiiragi","That's good.
-I think I'll go for the two round white ones
-at the back.");
+I think I'll go for the two round white
+ones at the back.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

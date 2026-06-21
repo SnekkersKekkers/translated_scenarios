@@ -34,14 +34,16 @@ VoicePlay("B360450401_04_050");
 MsgDisp("Nanatsumori","Are you just going to ignore that?");
 MsgDisp("主人公","Eh?");
 VoicePlay("B360450401_04_060");
-MsgDisp("Nanatsumori","I thought I said something really shocking.");
+MsgDisp("Nanatsumori","I thought I said something really
+shocking.");
 MsgDisp("主人公","Umm...");
 ChEye(4,2);
 ChMouth(4,4);
 ChMotion(4,2,1);
 VoicePlay("B360450401_04_070");
 MsgDisp("Nanatsumori","Whoa...
-Seems like it was casually brushed aside...");
+Seems like it was casually brushed
+aside...");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,1,1);

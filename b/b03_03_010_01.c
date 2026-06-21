@@ -14,7 +14,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,1);
     VoicePlay("B030301001_03_010");
     MsgDisp("Honda","Alright.
-Let's find out the source of your interest.");
+Let's find out the source of your
+interest.");
     MsgDispSksp(0);
     break ;
     case 1:
@@ -24,7 +25,8 @@ Let's find out the source of your interest.");
     ChMotion(3,1);
     VoicePlay("B030301001_03_010");
     MsgDisp("Honda","Alright.
-Let's find out the source of your interest.");
+Let's find out the source of your
+interest.");
     MsgDispSksp(0);
     break ;
     default :

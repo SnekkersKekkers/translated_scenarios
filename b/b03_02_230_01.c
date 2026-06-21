@@ -97,7 +97,8 @@ I was preparing for this anyway.");
     ChLayout(1);
     ScrFadeIn(0);
     VoicePlay("B030223001_02_080");
-    MsgDisp("Sassa","The more I look at it, the weirder it gets.
+    MsgDisp("Sassa","The more I look at it, the weirder
+it gets.
 It even spins around...");
     break ;
     case 4:

@@ -18,7 +18,8 @@ ChEye(7,0);
 ChMouth(7,4);
 ChMotion(7,4);
 VoicePlay("B070700000_07_030");
-MsgDisp("Mikage","But, I wonder if that TV will even turn on...");
+MsgDisp("Mikage","But, I wonder if that TV will even
+turn on...");
 MsgDisp("主人公","You haven't even turned it on?
 You really don't like TV do you?");
 ChEye(7,0);

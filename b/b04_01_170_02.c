@@ -35,7 +35,8 @@ switch (MsgSelRsltGet()){
         ChMotion(1,0);
         VoicePlay("B040117002_01_020");
         MsgDisp("Kazama","Got it.
-Then, pick something you like from the menu.");
+Then, pick something you like from
+the menu.");
         MsgDisp("主人公","Really∋
 ｛Kazama＊＊｝, thank you!
 The sweets here are delicious, right?");
@@ -107,7 +108,8 @@ original song!");
     ChMotion(1,0);
     VoicePlay("B040117002_01_090");
     MsgDisp("Kazama","Yeah, they messed up on the judging.
-If I was the judge, I'd give it full marks!");
+If I was the judge, I'd give it
+full marks!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

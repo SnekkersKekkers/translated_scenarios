@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,0,1);
     VoicePlay("B040408502_04_010");
     MsgDisp("Nanatsumori","Nice!
-I wonder if there's a place around here that
-does hot chocolate.");
+I wonder if there's a place around here
+that does hot chocolate.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,8 +46,8 @@ does hot chocolate.");
         ChCheek(4,5);
         VoicePlay("B040408502_04_030");
         MsgDisp("Nanatsumori","You...");
-        MsgDisp("主人公","Like hugging, or huddling together, that kind
-of thing?");
+        MsgDisp("主人公","Like hugging, or huddling together, that
+kind of thing?");
         ChEye(4,4);
         ChMouth(4,4);
         ChMotion(4,1,1);
@@ -62,8 +62,8 @@ of thing?");
         MsgDisp("Nanatsumori","∋
 ...H-Hugging?
 Is that okay?");
-        MsgDisp("主人公","It's a bit embarrassing but, I don't have any
-hand warmers.
+        MsgDisp("主人公","It's a bit embarrassing but, I don't have
+any hand warmers.
 And ｛Nanatsumori＊｝, you get cold easily.");
         ChEye(4,4);
         ChMouth(4,4);

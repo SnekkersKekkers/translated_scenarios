@@ -11,8 +11,8 @@ switch (MsgSelRsltGet()){
     ChMouth(3,0);
     ChMotion(3,1);
     VoicePlay("B040318400_03_000");
-    MsgDisp("Honda","The way they rendered the underwater scenes
-and the waves was really intricate.");
+    MsgDisp("Honda","The way they rendered the underwater
+scenes and the waves was really intricate.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,8 @@ nor children?");
     ChMouth(3,3);
     ChMotion(3,3);
     VoicePlay("B040318400_03_020");
-    MsgDisp("Honda","Thanks to that, I ate too much popcorn and my
-throat is dry～");
+    MsgDisp("Honda","Thanks to that, I ate too much popcorn and
+my throat is dry～");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

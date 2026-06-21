@@ -10,8 +10,8 @@ MsgDisp("主人公","Huh?");
 ChEye(5,4);
 ChMotion(5,4);
 VoicePlay("B150500200_05_010");
-MsgDisp("Hiiragi","You start doing that when it becomes dark on
-the way home, don't you?");
+MsgDisp("Hiiragi","You start doing that when it becomes dark
+on the way home, don't you?");
 MsgDisp("主人公","By \"that\"...do you mean skinship?");
 ChEye(5,4);
 ChMotion(5,2);
@@ -39,7 +39,8 @@ counterattack.");
 ChEye(5,4);
 ChMotion(5,0);
 VoicePlay("B150500200_05_060");
-MsgDisp("Hiiragi","If you don't want that, you should stop here.");
+MsgDisp("Hiiragi","If you don't want that, you should
+stop here.");
 MsgDisp("主人公","Y-Yeah.");
 ChEye(5,0);
 ChMouth(5,4);

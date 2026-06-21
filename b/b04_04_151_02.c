@@ -6,8 +6,8 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040415102_04_000");
-MsgDisp("Nanatsumori","If you think about it properly, bowling is a
-simple game.");
+MsgDisp("Nanatsumori","If you think about it properly, bowling is
+a simple game.");
 MsgSel("Maybe it would look better if the pins were more vibrant","Apparently they hold events to hold customers?","I like it though.");
 switch (MsgSelRsltGet()){
     case 0:
@@ -48,8 +48,8 @@ event day!");
         ChMotion(4,0,1);
         VoicePlay("B040415102_04_030");
         MsgDisp("Nanatsumori","Hmm.
-If I get better, I wonder if I'll be able to
-see the fun part of it?");
+If I get better, I wonder if I'll be able
+to see the fun part of it?");
         MsgDispSksp(1,0);
         MsgDateResultDisp();
         MsgDispSksp(0);
@@ -64,9 +64,9 @@ see the fun part of it?");
         MsgDisp("Nanatsumori","Hmm.");
         ChMotion(4,2,1);
         VoicePlay("B040415102_04_050");
-        MsgDisp("Nanatsumori","Well, lots of games that are loved for that
-long tend to be simple and replayable, that's
-for sure.");
+        MsgDisp("Nanatsumori","Well, lots of games that are loved for
+that long tend to be simple and
+replayable, that's for sure.");
         MsgDisp("主人公","I think it's nice that you can share the
 highs and lows and laugh together, even if
 you're not good at it.");
@@ -82,8 +82,8 @@ you're not good at it.");
         VoicePlay("B040415102_04_070");
         MsgDisp("Nanatsumori","Yeah. That's definitely true.");
         VoicePlay("B040415102_04_080");
-        MsgDisp("Nanatsumori","It feels nice to not only bowl together, but
-share the fun too.");
+        MsgDisp("Nanatsumori","It feels nice to not only bowl together,
+but share the fun too.");
         ChEye(4,0);
         ChMouth(4,3);
         ChMotion(4,0,1);

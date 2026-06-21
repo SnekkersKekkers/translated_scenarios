@@ -57,7 +57,8 @@ VoicePlay("B330A10701_02_010");
 VoiceEVSPlay(2);
 MsgDisp("Sassa","That's right...
 You choose, ｛主人公｝.");
-MsgDisp("主人公","Umm...then 3, the treasure house's pinwheel.");
+MsgDisp("主人公","Umm...then 3, the treasure house's
+pinwheel.");
 ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,3);
@@ -86,8 +87,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330A10701_01_060");
-MsgDisp("Kazama","When I found out about this, I made a replica
-and made a wish.");
+MsgDisp("Kazama","When I found out about this, I made a
+replica and made a wish.");
 ChEye(2,0);
 ChMouth(2,0);
 ChMotion(2,4);
@@ -143,8 +144,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330A10701_01_090");
-MsgDisp("Kazama","Then, shall we talk about the Legend of the
-Lone Pillar next?");
+MsgDisp("Kazama","Then, shall we talk about the Legend of
+the Lone Pillar next?");
 ChEye(2,2);
 ChMouth(2,2);
 ChMotion(2,4);

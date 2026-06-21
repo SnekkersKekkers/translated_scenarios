@@ -4,8 +4,8 @@ ChEye(5,3);
 ChMouth(5,2);
 VoicePlay("B070500001_05_360");
 MsgDisp("Hiiragi","Hm? What's the matter?");
-MsgDisp("主人公","No. I was just a bit curious...since I'm the
-only girl.");
+MsgDisp("主人公","No. I was just a bit curious...since I'm
+the only girl.");
 ChEye(5,2);
 ChMouth(5,4);
 VoicePlay("B070500001_05_370");

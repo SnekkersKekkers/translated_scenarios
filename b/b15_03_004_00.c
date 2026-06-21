@@ -24,23 +24,24 @@ ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B150300400_03_030");
 MsgDisp("Honda","Maybe a big bang! Just kidding.
-I don't really get it, but when you touch me,
-something in my chest grows restless.");
+I don't really get it, but when you touch
+me, something in my chest grows restless.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,4,1);
 ChEyeOpenLevel(3,0);
 VoicePlay("B150300400_03_040");
 MsgDisp("Honda","I was almost at the point of exploding!
-I'm actually relieved that today ended just
-before that.");
+I'm actually relieved that today ended
+just before that.");
 ChEye(3,0);
 ChMouth(3,3);
 ChMotion(3,3,1);
 VoicePlay("B150300400_03_050");
 MsgDisp("Honda","It's kind of scary and frustrating...it's
 just a really weird feeling!");
-MsgDisp("主人公","But ｛Honda＊＊｝, you seem to be enjoying it?");
+MsgDisp("主人公","But ｛Honda＊＊｝, you seem to be
+enjoying it?");
 ChEye(3,0);
 ChMouth(3,0);
 ChMotion(3,1,1);
@@ -53,8 +54,8 @@ ChMouth(3,3);
 ChMotion(3,4,1);
 VoicePlay("B150300400_03_070");
 MsgDisp("Honda","I really want to figure out what the heck
-this feeling that's about to explode really
-is. So I don't want you to stop.");
+this feeling that's about to explode
+really is. So I don't want you to stop.");
 MsgDisp("主人公","O-Okay.");
 ChEye(3,3);
 ChMouth(3,3);

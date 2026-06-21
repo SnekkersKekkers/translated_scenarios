@@ -15,8 +15,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,0);
     VoicePlay("B040223202_02_010");
     MsgDisp("Sassa","It's fine, but what kind of face am I
-supposed to make, sitting here knee to knee
-not moving?");
+supposed to make, sitting here knee to
+knee not moving?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -56,8 +56,8 @@ But, in front of me is your smile.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223202_02_050");
-        MsgDisp("Sassa","It's a double whammy of stuff I can't handle
-and stuff I love.
+        MsgDisp("Sassa","It's a double whammy of stuff I can't
+handle and stuff I love.
 For a full 15 minutes, too.");
         MsgDisp("主人公","Ehh! Then, what should we do next time?");
         ChEye(2,0);
@@ -71,9 +71,9 @@ already okay for next time.");
         ChMouth(2,4);
         ChMotion(2,4);
         VoicePlay("B040223202_02_070");
-        MsgDisp("Sassa","That's why, from next time, just think that
-\"This person is struggling huh—\" and that'll
-be enough.");
+        MsgDisp("Sassa","That's why, from next time, just think
+that \"This person is struggling huh—\" and
+that'll be enough.");
         MsgDisp("主人公","Hehe, if you put it that way, I'll end up
 laughing at ｛Sassa＊＊｝ who's making a
 troubled face.");

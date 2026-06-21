@@ -24,7 +24,8 @@ That is what I should aim for.");
     ChMotion(5,2);
     VoicePlay("B040518400_05_010");
     MsgDisp("Hiiragi","Everyone has their own interpretations.
-As for my rating, I thought it was wonderful.");
+As for my rating, I thought it was
+wonderful.");
     MsgDateResultDisp();
     break ;
     case 2:

@@ -1,18 +1,20 @@
-MsgDisp("主人公","Hey, ｛Honda＊＊｝, tell me about your hobbies.");
+MsgDisp("主人公","Hey, ｛Honda＊＊｝, tell me about your
+hobbies.");
 ChEye(3,4);
 ChMouth(3,4);
 ChMotion(3,2);
 VoicePlay("B070300000_03_250");
 MsgDisp("Honda","My hobbies, huh?
-That's the most troubling thing to be asked.");
+That's the most troubling thing to
+be asked.");
 MsgDisp("主人公","Does it really bother you?");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("B070300000_03_260");
 MsgDisp("Honda","Yeah, I guess it depends on how you define
-hobby. If you mean something you enjoy and do
-habitually...");
+hobby. If you mean something you enjoy and
+do habitually...");
 MsgDisp("主人公","Don't overthink it.");
 ChMotion(3,4);
 VoicePlay("B070300000_03_270");
@@ -33,8 +35,8 @@ ChMouth(3,3);
 ChMotion(3,0,1);
 VoicePlay("B070300000_03_290");
 MsgDisp("Honda","Maintaining a small ecosystem of plants,
-fish, and insects in an aquarium doesn't take
-much effort.");
+fish, and insects in an aquarium doesn't
+take much effort.");
 MsgDisp("主人公","Really?
 That's incredible!");
 ChEye(3,0);

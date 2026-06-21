@@ -23,9 +23,9 @@ This really would be a problem.");
 ChEye(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040406402_04_030");
-MsgDisp("Nanatsumori","We can keep in contact with our phones, but
-before that, if some shady guys tried hitting
-on you...");
+MsgDisp("Nanatsumori","We can keep in contact with our phones,
+but before that, if some shady guys tried
+hitting on you...");
 ChEye(4,4);
 ChMouth(4,2);
 ChMotion(4,2,1);

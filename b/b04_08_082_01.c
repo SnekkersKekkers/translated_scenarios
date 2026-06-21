@@ -5,8 +5,8 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040808201_08_000");
-MsgDisp("Shirahane","The water surface is sparklin', it's really
-beautiful.");
+MsgDisp("Shirahane","The water surface is sparklin', it's
+really beautiful.");
 MsgSel("Want to read some poetry?","It's super magical...","Fair words will not fill the belly!");
 switch (MsgSelRsltGet()){
     case 0:

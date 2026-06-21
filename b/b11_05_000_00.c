@@ -15,7 +15,8 @@ MsgDisp("主人公","Eh∈ See what...?");
 ChEye(33,1);
 ChMouth(33,0);
 VoicePlay("B110500000_33_010");
-MsgDisp("Guy","It's alright, you've got the gift of sight.
+MsgDisp("Guy","It's alright, you've got the gift
+of sight.
 Come on, come with me.");
 ChPosition(33,2);
 SEPlay("EV_SE_FOOT_WALK_COME_ALONE_SHORT");
@@ -79,7 +80,8 @@ ChMouth(5,4);
 ChEyeOpenLevel(5,#1);
 VoicePlay("B110500000_05_030");
 MsgDisp("Hiiragi","I wonder?
-But enough of the \"can see, can't see\" talk.");
+But enough of the \"can see, can't
+see\" talk.");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,0);

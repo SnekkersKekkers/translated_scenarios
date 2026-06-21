@@ -45,7 +45,8 @@ songs would be good too.");
         ChMotion(3,5);
         VoicePlay("B040314002_03_030");
         MsgDisp("Honda","Eh? That's harsh.
-I'm not really good with group stuff, though.");
+I'm not really good with group
+stuff, though.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -63,9 +64,9 @@ a band.");
         ChMouth(3,0);
         ChMotion(3,1);
         VoicePlay("B040314002_03_050");
-        MsgDisp("Honda","Right right. My sister played the piano, my
-mom the guitar, my dad played the bass, and
-I, was on the drums.");
+        MsgDisp("Honda","Right right. My sister played the piano,
+my mom the guitar, my dad played the bass,
+and I, was on the drums.");
         MsgDisp("主人公","Ehhh, seems fun!");
         ChEye(3,0);
         ChMouth(3,3);
@@ -102,9 +103,11 @@ I was worried.");
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040314002_03_110");
-        MsgDisp("Honda","If you ever told me you were bored of me...");
-        MsgDisp("主人公","｛Honda＊＊｝ is always teaching me fun new
-things, so I don't think that would happen.");
+        MsgDisp("Honda","If you ever told me you were bored
+of me...");
+        MsgDisp("主人公","｛Honda＊＊｝ is always teaching me fun
+new things, so I don't think that
+would happen.");
         ChMouth(3,4);
         VoicePlay("B040314002_03_120");
         MsgDisp("Honda","Always?");
@@ -117,7 +120,8 @@ things, so I don't think that would happen.");
         MsgDisp("Honda","Always, huh?
 Just the two of us, forever.
 Yeah, this is the best!");
-        MsgDisp("主人公","(...Hm? Is he happy with some other meaning?)");
+        MsgDisp("主人公","(...Hm?
+Is he happy with some other meaning?)");
         break ;
         default :
         DbgAssert(1);

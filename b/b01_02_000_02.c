@@ -22,7 +22,8 @@ I didn't think you'd arrive first.");
     MsgDisp("Sassa","What's that mean?
 Do I seem like I lose track of time?");
     MsgDisp("主人公","No, that's not quite what I meant.
-More like the type that's always last minute.");
+More like the type that's always
+last minute.");
     MsgDispSksp(1,0);
     ChEye(2,0);
     ChMouth(2,4);
@@ -36,7 +37,8 @@ More like the type that's always last minute.");
     MsgClose();
     ChOpen(2,253,0,0,4,#1,#1,0,0);
     VoicePlay("B010200002_02_030");
-    MsgDisp("Sassa","I wanted to get here earlier than you today.");
+    MsgDisp("Sassa","I wanted to get here earlier than
+you today.");
     MsgDisp("主人公","Huh? Why?");
     ChEye(2,0);
     ChMouth(2,4);
@@ -44,7 +46,8 @@ More like the type that's always last minute.");
     VoicePlay("B010200002_02_040");
     MsgDisp("Sassa","Even if you ask, I can't really say...
 It's just how I feel.");
-    MsgDisp("主人公","Well, then next time I'll come even earlier.");
+    MsgDisp("主人公","Well, then next time I'll come even
+earlier.");
     MsgDispSksp(1,0);
     ChEye(2,3);
     ChMouth(2,4);
@@ -76,17 +79,18 @@ But before I knew it, I started running.");
     ChMotion(2,0);
     VoicePlay("B010200002_02_080");
     MsgDisp("Sassa","Yeah.
-I thought about us meeting up, and next thing
-I knew, I was running here.");
-    MsgDisp("主人公","Hehe. Somehow, that makes me a little happy.");
+I thought about us meeting up, and next
+thing I knew, I was running here.");
+    MsgDisp("主人公","Hehe.
+Somehow, that makes me a little happy.");
     MsgDispSksp(1,0);
     ChEye(2,4);
     ChMouth(2,4);
     ChMotion(2,2);
     ChCheek(2,10);
     VoicePlay("B010200002_02_090");
-    MsgDisp("Sassa","I just naturally start running toward things
-I like...
+    MsgDisp("Sassa","I just naturally start running toward
+things I like...
 I'm sort of like a dog, huh?");
     MsgDispSksp(0);
     break ;

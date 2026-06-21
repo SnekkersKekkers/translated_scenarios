@@ -16,8 +16,8 @@ ChMotion(4,3,1);
 ChCheek(4,10);
 VoicePlay("B020400011_04_010");
 MsgDisp("Nanatsumori","Cute.
-I picked it with you in mind, so that's just
-natural.");
+I picked it with you in mind, so that's
+just natural.");
 MsgDisp("主人公","(That's a little embarrassing...
 But ｛Nanatsumori＊｝ seems very happy.
 I'm glad I wore it!)");

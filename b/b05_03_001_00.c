@@ -71,9 +71,9 @@ dough long and thin without any cutting.");
 StlEye(3,1);
 StlMouth(3,0);
 VoicePlay("B050300100_03_080");
-MsgDisp("Honda","The word \"Longevity\" comes from how long they
-are. It's said that if you eat them a lot,
-you'll live a long life.");
+MsgDisp("Honda","The word \"Longevity\" comes from how long
+they are. It's said that if you eat them a
+lot, you'll live a long life.");
 MsgDisp("主人公","These are those \"Longevity Noodles\"?");
 StlEye(3,0);
 StlMouth(3,0);
@@ -123,7 +123,8 @@ ChMouth(3,3);
 ChMotion(3,3);
 VoicePlay("B050300100_03_140");
 MsgDisp("Honda","We have to go.
-Let's eat them and live a long life together!");
+Let's eat them and live a long life
+together!");
 MsgDisp("主人公","(...Hm? He just said something crazy...)");
 BGMStop();
 ChPrmTblAdd(3,0);

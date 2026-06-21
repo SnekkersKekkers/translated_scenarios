@@ -23,8 +23,8 @@ I think it just feels damp.");
     ChMotion(1,2);
     VoicePlay("B040106200_01_020");
     MsgDisp("Kazama","I wonder.
-Isn't it blue because it's transparent, not
-because it's deep?");
+Isn't it blue because it's transparent,
+not because it's deep?");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -36,8 +36,8 @@ because it's deep?");
     ChMotion(1,0,1);
     VoicePlay("B040106200_01_030");
     MsgDisp("Kazama","Yeah, it looks like a pretty sapphire.
-Coloured stones are rare, and deep blue ones
-are especially gorgeous.");
+Coloured stones are rare, and deep blue
+ones are especially gorgeous.");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

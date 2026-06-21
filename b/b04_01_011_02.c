@@ -33,8 +33,8 @@ switch (MsgSelRsltGet()){
         ChEyeOpenLevel(1,0);
         VoicePlay("B040101102_01_020");
         MsgDisp("Kazama","I know that.
-...Sheesh, no matter where you go, it's not
-like it's going to collapse.");
+...Sheesh, no matter where you go, it's
+not like it's going to collapse.");
         MsgDateResultDisp();
         break ;
         case 4:
@@ -52,7 +52,8 @@ like it's going to collapse.");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040101102_01_040");
         MsgDisp("Kazama","I'm not particularly scared here.");
-        MsgDisp("主人公","Because I can't stand to watch you do that.");
+        MsgDisp("主人公","Because I can't stand to watch you
+do that.");
         ChMotion(1,0);
         Wait(16,0);
         ChEye(1,0);
@@ -69,8 +70,8 @@ for me.");
         SEWait();
         VoicePlay("B040101102_01_060");
         MsgDisp("Kazama","Here, what about this?");
-        MsgDisp("主人公","Jeez, I already said don't do it because it's
-dangerous.");
+        MsgDisp("主人公","Jeez, I already said don't do it because
+it's dangerous.");
         ChEye(1,2);
         ChMouth(1,3);
         ChMotion(1,3);

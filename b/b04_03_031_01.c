@@ -41,8 +41,8 @@ Let's start with what's close to home!");
     ChMotion(3,3);
     VoicePlay("B040303101_03_030");
     MsgDisp("Honda","That's okay.
-Hesitating is important. I'll wait as long as
-it takes until you have an answer∈");
+Hesitating is important. I'll wait as long
+as it takes until you have an answer∈");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

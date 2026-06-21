@@ -12,9 +12,9 @@ ChMotion(4,0,1);
 ChEyeOpenLevel(4,#1);
 ChCheek(4,8);
 VoicePlay("B020402128_04_010");
-MsgDisp("Nanatsumori","Figured I was used to seeing sexy girls from
-modelling work... but you're on another
-level. I don't stand a chance.");
-MsgDisp("主人公","(What does winning or losing have to do with
-it? But ｛Nanatsumori＊｝ seems to like clothes
-like these, too.)");
+MsgDisp("Nanatsumori","Figured I was used to seeing sexy girls
+from modelling work... but you're on
+another level. I don't stand a chance.");
+MsgDisp("主人公","(What does winning or losing have to do
+with it? But ｛Nanatsumori＊｝ seems to like
+clothes like these, too.)");

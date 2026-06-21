@@ -40,8 +40,8 @@ That's so totally your style.");
     ChMotion(2,4);
     VoicePlay("B040201000_02_030");
     MsgDisp("Sassa","I see.
-If you're that sure about it, then nothing I
-can do.");
+If you're that sure about it, then nothing
+I can do.");
     MsgDateResultDisp();
     break ;
     default :

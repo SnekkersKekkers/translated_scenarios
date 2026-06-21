@@ -49,8 +49,9 @@ ChMotion(1,1);
 ChEyeOpenLevel(1,0);
 VoicePlay("B330B10500_01_020");
 MsgDisp("Kazama","Yeah, I'm tired.");
-MsgDisp("主人公","Isn't that... not because you were singing,
-but because you were talking the whole time?");
+MsgDisp("主人公","Isn't that... not because you were
+singing, but because you were talking the
+whole time?");
 ChEye(4,2);
 ChMouth(4,3);
 ChMotion(4,0,1);
@@ -76,8 +77,8 @@ ChEye(1,2);
 ChMouth(1,3);
 ChMotion(1,0,1);
 VoicePlay("B330B10500_01_040");
-MsgDisp("Kazama","Right, we were just talking about who would
-best bring out your potential.");
+MsgDisp("Kazama","Right, we were just talking about who
+would best bring out your potential.");
 ChEye(4,3);
 ChMouth(4,3);
 ChMotion(4,1,1);
@@ -100,8 +101,8 @@ VoicePlay("B330B10500_01_050");
 MsgDisp("Kazama","Why am I the composer?
 There's no way I can do that!");
 MsgDisp("主人公","(And we're back to square one.
-This topic has been ongoing for more than an
-hour now...)");
+This topic has been ongoing for more than
+an hour now...)");
 MsgClose();
 ScrFadeOut(0,0);
 ChEye(1,0);

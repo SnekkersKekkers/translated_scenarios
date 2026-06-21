@@ -10,8 +10,8 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,1,1);
 VoicePlay("B070400000_04_420");
-MsgDisp("Nanatsumori","Modelling's fun and all, but do I really want
-to keep doing this forever?
+MsgDisp("Nanatsumori","Modelling's fun and all, but do I really
+want to keep doing this forever?
 When I think about it... yeah.");
 ChEye(4,4);
 ChMouth(4,0);
@@ -22,9 +22,9 @@ ChEye(4,0);
 ChMouth(4,0);
 ChMotion(4,2,1);
 VoicePlay("B070400000_04_440");
-MsgDisp("Nanatsumori","But if you walk only looking at the sky that
-is your dream, you won't discover the little
-flowers blooming by the roadside.");
+MsgDisp("Nanatsumori","But if you walk only looking at the sky
+that is your dream, you won't discover the
+little flowers blooming by the roadside.");
 MsgDisp("主人公","｛Nanatsumori＊｝...");
 ChEye(4,0);
 ChMouth(4,0);

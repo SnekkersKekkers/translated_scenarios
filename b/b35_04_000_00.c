@@ -8,15 +8,16 @@ MsgClose();
 ChNanaType(0);
 ChOpen(4,255,0,0,0,#1,#1,0,0,0,60);
 MsgDisp("主人公","Huh?
-｛Nanatsumori＊｝, you still haven't gone home?");
+｛Nanatsumori＊｝, you still haven't
+gone home?");
 VoicePlay("B350400000_04_010");
 MsgDisp("Nanatsumori","There's no way I can go home feeling this
 unsatisfied.");
 MsgDisp("主人公","Eh?");
 ChMotion(4,1,1);
 VoicePlay("B350400000_04_020");
-MsgDisp("Nanatsumori","If you're still okay for time, could you hang
-out with me a little longer?");
+MsgDisp("Nanatsumori","If you're still okay for time, could you
+hang out with me a little longer?");
 MsgSel("Yeah, of course!","I have something else to do...");
 switch (MsgSelRsltGet()){
     case 0:

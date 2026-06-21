@@ -42,7 +42,8 @@ ChEye(1,0);
 ChMouth(1,3);
 ChMotion(1,0);
 VoicePlay("B360107000_01_030");
-MsgDisp("Kazama","Seeing you happy about the bargains that is.");
+MsgDisp("Kazama","Seeing you happy about the bargains
+that is.");
 MsgDisp("主人公","Hey... I can buy two for the same price!
 Double the bargain.");
 ChEye(1,0);

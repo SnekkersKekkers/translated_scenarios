@@ -6,7 +6,8 @@ ChMouth(1,3);
 ChMotion(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040103200_01_000");
-MsgDisp("Kazama","It's like swimming in the sky for them, huh.
+MsgDisp("Kazama","It's like swimming in the sky for
+them, huh.
 Looks like it feels good.");
 MsgSel("Then penguins can fly too!","Like a water slide.","There's benches, just like a real park.");
 switch (MsgSelRsltGet()){

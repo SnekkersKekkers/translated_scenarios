@@ -56,7 +56,8 @@ for you.");
         ChMotion(1,1);
         VoicePlay("B040108402_01_030");
         MsgDisp("Kazama","Body warmth∋
-...Sheesh, you can really be such an airhead!");
+...Sheesh, you can really be such an
+airhead!");
         MsgDateResultDisp();
         ChCheek(1,0);
         break ;
@@ -80,7 +81,8 @@ for you.");
         ChMouth(1,1);
         ChMotion(1,0);
         VoicePlay("B040108402_01_060");
-        MsgDisp("Kazama","Listen, do not ever say that again in public.
+        MsgDisp("Kazama","Listen, do not ever say that again
+in public.
 You get it?");
         MsgDisp("主人公","O-Okay.");
         MsgClose();
@@ -107,7 +109,8 @@ So, here. My hand.");
         ChEyeOpenLevel(1,0);
         ChCheek(1,5);
         VoicePlay("B040108402_01_090");
-        MsgDisp("Kazama","Phew, this season isn't so bad after all...");
+        MsgDisp("Kazama","Phew, this season isn't so bad
+after all...");
         MsgDisp("主人公","Ooh, ｛Kazama＊＊｝, you definitely like
 fall, right?");
         MsgClose();
@@ -116,7 +119,8 @@ fall, right?");
         MsgClose();
         ChOpen(1,255,3,3,1,#1,#1,0,0,0,30);
         VoicePlay("B040108402_01_100");
-        MsgDisp("Kazama","Why∋ Hey, you know I can totally hear you?
+        MsgDisp("Kazama","Why∋
+Hey, you know I can totally hear you?
 That inner voice of yours.");
         MsgDisp("主人公","(Umm... He was totally babbling earlier.)");
         break ;

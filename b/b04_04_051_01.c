@@ -6,9 +6,9 @@ ChMouth(4,0);
 ChMotion(4,1);
 ScrFadeIn(0);
 VoicePlay("B040405101_04_000");
-MsgDisp("Nanatsumori","Even in an artificial starry sky, there are
-sights that just make you want to take a
-picture.");
+MsgDisp("Nanatsumori","Even in an artificial starry sky, there
+are sights that just make you want to take
+a picture.");
 MsgSel("Let's forget about photos for now?","It would be nice if it was okay to take pictures","Show me a picture of the real starry sky");
 switch (MsgSelRsltGet()){
     case 0:
@@ -39,9 +39,9 @@ show it to you.");
     ChMouth(4,3);
     ChMotion(4,0,1);
     VoicePlay("B040405101_04_030");
-    MsgDisp("Nanatsumori","OK. Both a starry sky with a new moon and a
-starry sky with a moon floating in it have
-their own individual charms.");
+    MsgDisp("Nanatsumori","OK. Both a starry sky with a new moon and
+a starry sky with a moon floating in it
+have their own individual charms.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

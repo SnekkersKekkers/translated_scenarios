@@ -4,7 +4,8 @@ SEPlay("EV_SE_788",0.3);
 ScrFadeIn(0);
 Wait(30,0);
 MsgDisp("主人公","(Everyone is already here...
-I wonder what happened to ｛Mikage＊＊｝?)");
+I wonder what happened to
+｛Mikage＊＊｝?)");
 SEPlay("EV_SE_FOOT_025",1.2,0.9);
 Wait(88,1);
 MsgClose();

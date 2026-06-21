@@ -39,8 +39,8 @@ atmosphere that looks like an ink painting.");
     DateRateSet(2);
     ChMotion(5,0);
     VoicePlay("B040508500_05_030");
-    MsgDisp("Hiiragi","The temperature of the spring water is warm
-in comparison to the surroundings.");
+    MsgDisp("Hiiragi","The temperature of the spring water is
+warm in comparison to the surroundings.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

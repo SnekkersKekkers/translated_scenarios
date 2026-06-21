@@ -52,7 +52,8 @@ For suddenly giving this kinda analogy.");
         ChMotion(8,4,1);
         VoicePlay("B040811102_08_040");
         MsgDisp("Shirahane","This won't do.
-When I'm with you, I get strangely worked up.");
+When I'm with you, I get strangely
+worked up.");
         MsgDisp("主人公","Hehe, is that so?");
         ChEye(8,3);
         ChMouth(8,3);
@@ -106,8 +107,8 @@ Give me your hand!");
     ChMotion(8,3,1);
     VoicePlay("B040811102_08_100");
     MsgDisp("Shirahane","You're good at playin' along!
-If we ran together, we might be able to set a
-new record!");
+If we ran together, we might be able to
+set a new record!");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

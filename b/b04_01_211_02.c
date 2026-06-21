@@ -4,9 +4,9 @@ ChLayout(1);
 ChSet(1,0,1);
 ScrFadeIn(0);
 VoicePlay("B040121102_01_000");
-MsgDisp("Kazama","When I come here, I don't know if I'm looking
-at the animals, or if the animals are looking
-at me?");
+MsgDisp("Kazama","When I come here, I don't know if I'm
+looking at the animals, or if the animals
+are looking at me?");
 MsgSel("I wonder what we look like to the animals.","They're giving us such puzzled looks, huh.","Maybe they think we look delicious?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -105,7 +105,8 @@ don't get along with?");
         ChEyeOpenLevel(1,0);
         VoicePlay("B040121102_01_100");
         MsgDisp("Kazama","That in itself is a problem for me...");
-        MsgDisp("主人公","(｛Kazama＊＊｝, is something bothering you?)");
+        MsgDisp("主人公","(｛Kazama＊＊｝, is something
+bothering you?)");
         break ;
         default :
         DbgAssert(1);

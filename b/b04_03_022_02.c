@@ -6,8 +6,8 @@ ChMotion(3,5,1);
 ScrFadeIn(0);
 VoicePlay("B040302202_03_000");
 MsgDisp("Honda","Oh!
-They're accepting suggestions for the name of
-the tour boat.");
+They're accepting suggestions for the name
+of the tour boat.");
 MsgSel("I wonder if they didn't have one until now?","What about the usual: Habataki?","How about calling it HMS ｛Honda＊＊｝?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -84,8 +84,8 @@ you too.");
         ChMotion(3,5,1);
         VoicePlay("B040302202_03_080");
         MsgDisp("Honda","That's it!
-What about a secret nickname just between us;
-Rose Queen?");
+What about a secret nickname just between
+us; Rose Queen?");
         MsgDisp("主人公","Oh?
 After the Habataki High School Festival
 Rose Queen?");

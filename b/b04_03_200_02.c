@@ -16,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(3,4);
     VoicePlay("B040320002_03_010");
     MsgDisp("Honda","Is that so?
-But the long boards get in the way, I can't
-take my time looking around.");
+But the long boards get in the way, I
+can't take my time looking around.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -46,18 +46,18 @@ it's brimming with life.");
         ChMotion(3,1);
         VoicePlay("B040320002_03_030");
         MsgDisp("Honda","That's right.
-The pure whiteness makes it feel like it has
-a uniform beauty.");
+The pure whiteness makes it feel like it
+has a uniform beauty.");
         MsgDisp("主人公","｛Honda＊＊｝?");
         ChEye(3,4);
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040320002_03_040");
-        MsgDisp("Honda","If I could really take my time looking, I bet
-I'd discover all kinds of things.
+        MsgDisp("Honda","If I could really take my time looking, I
+bet I'd discover all kinds of things.
 But that's hard to do while skiing.");
-        MsgDisp("主人公","Then, why don't we do what ｛Honda＊＊｝ wants
-to do today?");
+        MsgDisp("主人公","Then, why don't we do what ｛Honda＊＊｝
+wants to do today?");
         ChSet(3,5);
         VoicePlay("B040320002_03_050");
         MsgDisp("Honda","Eh!");
@@ -79,15 +79,15 @@ to do today?");
         ChEyeOpenLevel(3,0);
         VoicePlay("B040320002_03_080");
         MsgDisp("Honda","Yeah.
-Look, in a world of pure white, you're still
-gorgeous!");
+Look, in a world of pure white, you're
+still gorgeous!");
         MsgDisp("主人公","Eh.");
         ChEye(3,0);
         ChMouth(3,0);
         ChMotion(3,4);
         VoicePlay("B040320002_03_090");
-        MsgDisp("Honda","And on days when I get to see you, I want to
-spend the time observing you.");
+        MsgDisp("Honda","And on days when I get to see you, I want
+to spend the time observing you.");
         MsgDisp("主人公","Ehh.");
         ChEye(3,3);
         ChMouth(3,3);

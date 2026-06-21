@@ -40,8 +40,8 @@ fall in!?");
     ChEyeOpenLevel(3,0);
     VoicePlay("B040306200_03_030");
     MsgDisp("Honda","Yepyep, I get that blue light is the least
-absorbed by water in theory, but seeing it in
-real life - it's stunningly beautiful!");
+absorbed by water in theory, but seeing it
+in real life - it's stunningly beautiful!");
     MsgDispSksp(1,7);
     MsgDateResultDisp();
     MsgDispSksp(0);

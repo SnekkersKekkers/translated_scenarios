@@ -6,9 +6,9 @@ ChMouth(8,0);
 ChMotion(8,0);
 ScrFadeIn(0);
 VoicePlay("B040822202_08_000");
-MsgDisp("Shirahane","Some of the things here are heirlooms offered
-by local noble families. They may have been
-feudal lords in another era.");
+MsgDisp("Shirahane","Some of the things here are heirlooms
+offered by local noble families. They may
+have been feudal lords in another era.");
 MsgSel("Like someone in the imperial court?","I'm sure it's not limited to feudal lords?","Do you admire it?");
 switch (MsgSelRsltGet()){
     case 0:
@@ -50,11 +50,11 @@ depending on the individual.");
         ChMotion(8,0,1);
         VoicePlay("B040822202_08_030");
         MsgDisp("Shirahane","Ah...that's right. When it comes to
-heirlooms, each one of those families have an
-individual sense of what's valuable.");
+heirlooms, each one of those families have
+an individual sense of what's valuable.");
         MsgDisp("主人公","That's right.
-By the way, does ｛Daichi＊＊｝ have his own
-treasures?");
+By the way, does ｛Daichi＊＊｝ have his
+own treasures?");
         ChEye(8,4);
         ChMouth(8,4);
         ChMotion(8,2,1);
@@ -101,8 +101,8 @@ I just said something cringy.");
     ChMotion(8,3,1);
     VoicePlay("B040822202_08_090");
     MsgDisp("Shirahane","Haha!
-That's right, I might wanna experience being
-a lord at least once.");
+That's right, I might wanna experience
+being a lord at least once.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

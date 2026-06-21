@@ -35,8 +35,8 @@ mixed up the names of the moves and fighters.");
     ChMouth(4,2);
     ChMotion(4,1,1);
     VoicePlay("B040404100_04_020");
-    MsgDisp("Nanatsumori","Whatever it may be, that's a terrible thing
-to say after watching a show.");
+    MsgDisp("Nanatsumori","Whatever it may be, that's a terrible
+thing to say after watching a show.");
     MsgDateResultDisp();
     break ;
     default :

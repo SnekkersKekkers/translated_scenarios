@@ -42,7 +42,8 @@ ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B360650101_06_040");
 MsgDisp("Himuro","I was also watching you.
-So I understand what everyone was looking at.");
+So I understand what everyone was
+looking at.");
 ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
@@ -87,7 +88,8 @@ ChMouth(6,4);
 ChMotion(6,0,1);
 VoicePlay("B360650101_06_110");
 MsgDisp("Himuro","...Thanks.
-I almost lost sight of something important.");
+I almost lost sight of something
+important.");
 MsgDisp("主人公","(｛Himuro＊＊｝...)");
 BGMStop();
 MsgClose();

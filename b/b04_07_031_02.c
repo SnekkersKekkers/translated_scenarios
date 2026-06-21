@@ -80,8 +80,8 @@ apologise when it's absolutely necessary.");
         VoicePlay("B040703102_07_080");
         MsgDisp("Mikage","I'll buy you a Giant Isopod pen set.");
         MsgDisp("主人公","(｛Mikage＊＊｝ is kind.
-...But let's be more careful about forgetting
-things.)");
+...But let's be more careful about
+forgetting things.)");
         break ;
         default :
         DbgAssert(1);
@@ -106,8 +106,8 @@ things.)");
     ChMotion(7,5);
     VoicePlay("B040703102_07_100");
     MsgDisp("Mikage","You've got your eye on something good.
-These guys can live five years without food,
-so it's worth looking into.");
+These guys can live five years without
+food, so it's worth looking into.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

@@ -34,7 +34,8 @@ supermarket, too.");
     ChMotion(1,1);
     ChEyeOpenLevel(1,0);
     VoicePlay("B040121200_01_020");
-    MsgDisp("Kazama","So you'd stomp around on something cute, huh.");
+    MsgDisp("Kazama","So you'd stomp around on something
+cute, huh.");
     MsgDateResultDisp();
     break ;
     case 2:

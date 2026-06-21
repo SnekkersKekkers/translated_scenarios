@@ -12,6 +12,7 @@ MsgDisp("Hiiragi","I just need to know that you're safe.
 I'll be waiting to hear from you.");
 SEPlay("SYS_SE_RECORD_END");
 SEWait();
-MsgDisp("主人公","Crap! We were supposed to go on a date today!");
+MsgDisp("主人公","Crap!
+We were supposed to go on a date today!");
 MsgClose();
 ScrFadeOut(0,0);

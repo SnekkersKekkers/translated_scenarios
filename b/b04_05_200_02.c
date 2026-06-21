@@ -70,7 +70,8 @@ take the lift back.");
         ScrFadeIn(0);
         VoiceEVSPlay(5);
         VoicePlay("B040520002_05_070");
-        MsgDisp("Hiiragi","｛主人公｝, we somehow managed to get back.");
+        MsgDisp("Hiiragi","｛主人公｝, we somehow managed to
+get back.");
         MsgDisp("主人公","Hehe, yeah.
 That was close, but you looked cool.");
         ChEye(5,2);
@@ -78,7 +79,8 @@ That was close, but you looked cool.");
         ChMotion(5,4);
         VoicePlay("B040520002_05_080");
         MsgDisp("Hiiragi","You're laughing, aren't you?
-Well, I started laughing along the way too.");
+Well, I started laughing along the
+way too.");
         ChEye(5,3);
         ChMouth(5,3);
         ChMotion(5,0);
@@ -91,8 +93,8 @@ Well, I started laughing along the way too.");
         VoicePlay("B040520002_05_100");
         MsgDisp("Hiiragi","If you believe in me, I feel like I can do
 anything.");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is so cool, giving his all even
-at things he's bad at...)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝ is so cool, giving his all
+even at things he's bad at...)");
         break ;
         default :
         DbgAssert(1);
@@ -105,8 +107,8 @@ at things he's bad at...)");
     ChMouth(5,4);
     ChMotion(5,0);
     VoicePlay("B040520002_05_110");
-    MsgDisp("Hiiragi","Yes, if you're afraid of getting injured, you
-can't do anything.");
+    MsgDisp("Hiiragi","Yes, if you're afraid of getting injured,
+you can't do anything.");
     MsgDispSksp(1,8);
     MsgDateResultDisp();
     MsgDispSksp(0);

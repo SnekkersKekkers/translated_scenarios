@@ -28,8 +28,8 @@ switch (MsgSelRsltGet()){
     ChMotion(4,1,1);
     VoicePlay("B040406502_04_020");
     MsgDisp("Nanatsumori","Right.
-Watching them with you three times in a row,
-maybe I've fallen under a spell?");
+Watching them with you three times in a
+row, maybe I've fallen under a spell?");
     MsgDispSksp(1,6);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -62,8 +62,8 @@ glasses.");
         ChMouth(4,4);
         ChMotion(4,0,1);
         VoicePlay("B040406502_04_050");
-        MsgDisp("Nanatsumori","In the limited three years of high school, I
-watched the same fireworks with the same
+        MsgDisp("Nanatsumori","In the limited three years of high school,
+I watched the same fireworks with the same
 person, three years in a row.");
         VoicePlay("B040406502_04_060");
         MsgDisp("Nanatsumori","The old me never would've imagined it.");
@@ -91,14 +91,15 @@ I felt like he was a bit scary.");
         ChMotion(4,0,1);
         VoicePlay("B040406502_04_100");
         MsgDisp("Nanatsumori","Yeah.
-I was on edge every single day, and kept my
-distance from people at school.");
+I was on edge every single day, and kept
+my distance from people at school.");
         ChEye(4,0);
         ChMouth(4,4);
         ChCheek(4,8);
         VoicePlay("B040406502_04_110");
-        MsgDisp("Nanatsumori","If I had stayed the same as I was, I think I
-would have had a super dull high school life.");
+        MsgDisp("Nanatsumori","If I had stayed the same as I was, I
+think I would have had a super dull high
+school life.");
         MsgDisp("主人公","I see.");
         ChEye(4,4);
         VoicePlay("B040406502_04_120");

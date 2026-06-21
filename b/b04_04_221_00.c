@@ -34,7 +34,8 @@ You can see it all.");
     ChMouth(4,4);
     ChMotion(4,2,1);
     VoicePlay("B040422100_04_030");
-    MsgDisp("Nanatsumori","...Well, I'm also glad it's you next to me.");
+    MsgDisp("Nanatsumori","...Well, I'm also glad it's you next
+to me.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

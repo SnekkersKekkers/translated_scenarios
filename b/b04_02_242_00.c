@@ -5,7 +5,8 @@ ChMouth(2,3);
 ChMotion(2,3);
 ScrFadeIn(0);
 VoicePlay("B040224200_02_000");
-MsgDisp("Sassa","Well then, hmm, where should we put our tent?");
+MsgDisp("Sassa","Well then, hmm, where should we put
+our tent?");
 MsgSel("｛Sassa＊＊｝, I'm counting on you♪","Camping means BBQ!","Seems like a lot of hassle...");
 switch (MsgSelRsltGet()){
     case 0:
@@ -15,8 +16,8 @@ switch (MsgSelRsltGet()){
     ChMotion(2,1);
     VoicePlay("B040224200_02_010");
     MsgDisp("Sassa","Leave it to me!
-Well first, let's start with putting up the
-sun tarp...");
+Well first, let's start with putting up
+the sun tarp...");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);

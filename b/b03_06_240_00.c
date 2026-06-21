@@ -8,8 +8,8 @@ ChEye(6,0);
 ChMouth(6,0);
 VoicePlay("B030624000_06_000");
 MsgDisp("Himuro","Habataki really does have everything.");
-MsgDisp("主人公","It's nice that we can enjoy such a peaceful
-atmosphere.");
+MsgDisp("主人公","It's nice that we can enjoy such a
+peaceful atmosphere.");
 MsgDisp("","　　　　　　　　　　 ・
 　　　　　　　　　　 ・
 　　　　　　　　　　 ・");

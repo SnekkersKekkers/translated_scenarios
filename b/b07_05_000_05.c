@@ -3,8 +3,8 @@ ChMouth(5,4);
 ChMotion(5,4);
 VoicePlay("B070500000_05_200");
 MsgDisp("Hiiragi","Would you laugh if I said cleaning?");
-MsgDisp("主人公","No. I want to follow your example of having
-cleaning as a hobby!");
+MsgDisp("主人公","No. I want to follow your example of
+having cleaning as a hobby!");
 ChEye(5,2);
 ChMotion(5,2);
 ChEyeOpenLevel(5,8);
@@ -29,8 +29,8 @@ VoicePlay("B070500000_05_230");
 MsgDisp("Hiiragi","Ah, recently I've been interested in
 cleaning robots.
 They're rather unorthodox.");
-MsgDisp("主人公","(A cleaning showdown between ｛Hiiragi＊＊＊｝ and
-a cleaning robot...
+MsgDisp("主人公","(A cleaning showdown between ｛Hiiragi＊＊＊｝
+and a cleaning robot...
 I'm kind of curious.)");
 BGMStop();
 MsgClose();

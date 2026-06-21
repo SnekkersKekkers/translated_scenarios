@@ -44,8 +44,8 @@ I'm already fired up now!");
         ChEye(8,4);
         ChMouth(8,3);
         VoicePlay("B040802202_08_030");
-        MsgDisp("Shirahane","Well, I'm definitely just imitating but maybe
-I'll end up being good at it?");
+        MsgDisp("Shirahane","Well, I'm definitely just imitating but
+maybe I'll end up being good at it?");
         ChEye(8,4);
         ChMouth(8,0);
         ChMotion(8,0,1);

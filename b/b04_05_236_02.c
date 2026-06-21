@@ -12,8 +12,8 @@ ChMotion(5,0,1);
 ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040523602_05_000");
-MsgDisp("Hiiragi","Why is the amusement park so fun both during
-the day and at night?");
+MsgDisp("Hiiragi","Why is the amusement park so fun both
+during the day and at night?");
 MsgSel("｛Hiiragi＊＊＊｝, you're like a little kid.","Because the amusement park is a fun place!","Tonight, we pull an all-nighter!");
 switch (MsgSelRsltGet()){
     case 0:
@@ -23,8 +23,8 @@ switch (MsgSelRsltGet()){
     ChMotion(5,4);
     VoicePlay("B040523602_05_010");
     MsgDisp("Hiiragi","That's right.
-I wasn't able to come much when I was a kid,
-so now I'm having fun.");
+I wasn't able to come much when I was a
+kid, so now I'm having fun.");
     MsgDispSksp(1,0);
     MsgDateResultDisp();
     MsgDispSksp(0);
@@ -73,7 +73,8 @@ And, I'm sorry.");
 strange moods.");
         ChEyeOpenLevel(5,0);
         VoicePlay("B040523602_05_060");
-        MsgDisp("Hiiragi","But I don't want you staying out all night.");
+        MsgDisp("Hiiragi","But I don't want you staying out
+all night.");
         MsgDisp("主人公","Ah, umm...
 I'm the one who's sorry for getting
 carried away.");
@@ -97,13 +98,14 @@ this situation.");
         ChEye(5,4);
         ChMotion(5,4);
         VoicePlay("B040523602_05_090");
-        MsgDisp("Hiiragi","Look. Even that tuna over there is smiling.");
+        MsgDisp("Hiiragi","Look.
+Even that tuna over there is smiling.");
         ChMouth(5,3);
         ChMotion(5,0);
         VoicePlay("B040523602_05_100");
         MsgDisp("Hiiragi","Well, let's hurry and head home!");
-        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, thank you for always thinking
-of me...)");
+        MsgDisp("主人公","(｛Hiiragi＊＊＊｝, thank you for always
+thinking of me...)");
         break ;
         default :
         DbgAssert(1);

@@ -43,8 +43,8 @@ your ears?");
     ChMouth(1,3);
     ChMotion(1,3);
     VoicePlay("B040101101_01_030");
-    MsgDisp("Kazama","You're really the type to attract that kind
-of stuff, aren't you.
+    MsgDisp("Kazama","You're really the type to attract that
+kind of stuff, aren't you.
 You're something else, you know?");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

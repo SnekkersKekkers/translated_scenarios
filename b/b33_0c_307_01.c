@@ -75,7 +75,8 @@ ChEye(6,0);
 ChMouth(6,0);
 ChMotion(6,0);
 VoicePlay("B330C30701_06_020");
-MsgDisp("Himuro","It looked like it was the one picking fights?");
+MsgDisp("Himuro","It looked like it was the one
+picking fights?");
 ChEye(5,4);
 ChMouth(5,2);
 ChMotion(5,4);
@@ -85,9 +86,9 @@ ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,3);
 VoicePlay("B330C30701_07_030");
-MsgDisp("Mikage","Well, that's true. The purpose of the zoo's
-boss monkey... It might also be interesting
-to investigate that?");
+MsgDisp("Mikage","Well, that's true. The purpose of the
+zoo's boss monkey... It might also be
+interesting to investigate that?");
 ChEye(7,0);
 ChMouth(7,0);
 ChMotion(7,1);
@@ -95,8 +96,8 @@ VoicePlay("B330C30701_07_040");
 MsgDisp("Mikage","Our next extracurricular lesson will be at
 the zoo, observing the monkey mountain.");
 MsgDisp("主人公","(Hehe.
-I'm looking forward to ｛Mikage＊＊｝'s next
-extracurricular lesson.)");
+I'm looking forward to ｛Mikage＊＊｝'s
+next extracurricular lesson.)");
 BGMStop();
 MsgClose();
 ScrFadeOut(0,0);
