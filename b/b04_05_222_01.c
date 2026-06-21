@@ -9,7 +9,7 @@ ChMotion(5,4);
 VoicePlay("B040522201_05_000");
 MsgDisp("Hiiragi","Unlike the castle tower, this place
 is empty.");
-MsgSel("It's because it's a bit dull isn't it?","If you're a Habataki local, you'll have been coming here for years.","Looks like it's just the two of us!");
+MsgSel("It's because it's a bit dull, isn't it?","If you're a Habataki local, you'll have been coming here for years.","Looks like it's just the two of us!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

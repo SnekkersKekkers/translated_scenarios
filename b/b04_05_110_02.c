@@ -9,7 +9,7 @@ ChMouth(5,4);
 ChMotion(5,0);
 VoicePlay("B040511002_05_000");
 MsgDisp("Hiiragi","There's a jacuzzi bath.");
-MsgSel("Should we get in at once?","It feels warm doesn't it?","It gets you in the mood for a hot spring huh");
+MsgSel("Should we get in for a bit?","It feels warm, doesn't it?","It gets you in the mood for a hot spring.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){

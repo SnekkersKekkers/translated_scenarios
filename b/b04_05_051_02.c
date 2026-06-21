@@ -10,7 +10,7 @@ ChMotion(5,4);
 VoicePlay("B040505102_05_000");
 MsgDisp("Hiiragi","The stories of the constellations are
 rather interesting.");
-MsgSel("How about incorporating it into a performance?","Doesn't it make you a bit sleepy?","It's a love story huh?");
+MsgSel("How about incorporating it into a performance?","Doesn't it make you a bit sleepy?","It's a love story, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

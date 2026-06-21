@@ -12,7 +12,7 @@ switch (ChPrmGet(5,6)){
 Want to try your luck this year?");
     MsgDisp("主人公","I think you're right.
 There are so many people.");
-    MsgSel("Let's draw fortunes.","It's too crowded.");
+    MsgSel("Let's draw fortunes!","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,4);
@@ -101,7 +101,7 @@ there too?");
     VoicePlay("S090500000_05_090");
     MsgDisp("Hiiragi","It seems so.
 ...Should we get in line too?");
-    MsgSel("Let's line up.","I'm tired, let's not");
+    MsgSel("Let's line up!","I'm tired, let's not.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(5,3);

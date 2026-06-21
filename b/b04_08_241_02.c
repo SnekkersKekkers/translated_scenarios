@@ -8,7 +8,7 @@ VoicePlay("B040824102_08_000");
 MsgDisp("Shirahane","Apparently some bigger farms run a side
 business alongside farming and manage
 things on a larger scale.");
-MsgSel("Seems like that requires lots of different skills.","That's more profitable right?","Seems like they'd be stretched too thin...");
+MsgSel("Seems like that requires lots of different skills.","That's more profitable, right?","Seems like they'd be stretched too thin...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

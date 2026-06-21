@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040601102_06_000");
 MsgDisp("Himuro","This is the same old course.");
-MsgSel("Are you tired of it?","I like it here","It's nice for us to have a \"same old\".");
+MsgSel("Are you tired of it?","I like it here.","It's nice for us to have a \"same old\".");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){

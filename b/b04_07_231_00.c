@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040723100_07_000");
 MsgDisp("Mikage","Riding this really makes me feel how
 helpless I am.");
-MsgSel("That was awesome! I want to ride it again","Uugh, that was scary...","I wanted a little more thrill...");
+MsgSel("That was awesome! I want to ride it again!","Uugh, that was scary...","I wanted a little more thrill...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

@@ -9,7 +9,7 @@ ChMouth(4,0);
 ChMotion(4,1);
 VoicePlay("B040430001_04_000");
 MsgDisp("Nanatsumori","...What should we do?");
-MsgSel("I want to see your makeup tools and stuff","I'm curious about your equipment...","Let's take a commemorative photograph!");
+MsgSel("I want to see your makeup tools and stuff.","I'm curious about your equipment...","Let's take a commemorative photograph!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

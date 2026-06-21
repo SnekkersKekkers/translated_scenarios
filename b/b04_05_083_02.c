@@ -8,7 +8,7 @@ ChMouth(5,4);
 VoicePlay("B040508302_05_000");
 MsgDisp("Hiiragi","Over there, the walking path stretches
 deep into the forest.");
-MsgSel("It's a popular walking path.","Seems like there's lots of mosquitoes...","Evening, the time of the fireflies is wonderful");
+MsgSel("It's a popular walking path.","Seems like there's lots of mosquitoes...","Evening, the time of the fireflies is wonderful.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

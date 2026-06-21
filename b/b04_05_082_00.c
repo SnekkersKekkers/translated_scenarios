@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040508200_05_000");
 MsgDisp("Hiiragi","This is a nice place.
 What are fireflies doing in the spring?");
-MsgSel("Aren't they awaiting their turn?","I wonder where they're hiding","There might be some hasty fireflies");
+MsgSel("Aren't they awaiting their turn?","I wonder where they're hiding.","There might be some hasty fireflies.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

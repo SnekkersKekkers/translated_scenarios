@@ -8,7 +8,7 @@ ChMotion(4,1,1);
 VoicePlay("B040424201_04_000");
 MsgDisp("Nanatsumori","There might not be enough water.
 I'll go get some.");
-MsgSel("Take care▼","I'll go ahead and prepare the food","Please.");
+MsgSel("Take care▼","I'll go ahead and prepare the food.","Please.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

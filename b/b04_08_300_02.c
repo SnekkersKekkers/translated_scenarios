@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040830002_08_000");
 MsgDisp("Shirahane","I'm so nervous even though it's my
 own room...");
-MsgSel("It's just us right?","Should we make things more exciting?","You won't notice it as soon as we start talking.");
+MsgSel("It's just us, right?","Should we make things more exciting?","You won't notice it as soon as we start talking.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

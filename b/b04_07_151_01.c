@@ -8,7 +8,7 @@ VoicePlay("B040715101_07_000");
 MsgDisp("Mikage","As many games as you want, I'm down.
 Just rolling a heavy ball around is so
 much fun.");
-MsgSel("You'll get muscle pain.","If you can throw it straight, that is","It's a great body workout!");
+MsgSel("You'll get muscle pain.","If you can throw it straight, that is...","It's a great body workout!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

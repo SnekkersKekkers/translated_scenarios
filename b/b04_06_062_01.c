@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040606201_06_000");
 MsgDisp("Himuro","It seems like there are grottos like this
 outside of Habataki City.");
-MsgSel("I'd like to go someday","So this isn't the only one...","Let's enjoy this one first?");
+MsgSel("I'd like to go someday.","So this isn't the only one...","Let's enjoy this one first?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

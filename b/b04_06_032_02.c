@@ -9,7 +9,7 @@ VoicePlay("B040603202_06_000");
 MsgDisp("Himuro","A penguin swimming leisurely while being
 watched by all these couples...
 I wonder how it feels.");
-MsgSel("It doesn't seem interested.","It seems to be enjoying itself","It seems jealous.");
+MsgSel("It doesn't seem interested.","It seems to be enjoying itself.","It seems jealous.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

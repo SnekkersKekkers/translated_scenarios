@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040606202_06_000");
 MsgDisp("Himuro","Whenever I come here, it's like I've been
 transported to a new world...");
-MsgSel("It's one of the wonders of nature","Shouldn't you get used to it soon?","I don't want to go back to the original world");
+MsgSel("It's one of the wonders of nature.","Shouldn't you get used to it soon?","I don't want to go back to the original world.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

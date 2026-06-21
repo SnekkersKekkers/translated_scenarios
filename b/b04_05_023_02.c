@@ -3,7 +3,7 @@ ChOpen(5,255,0,0,4,#1,#1,0,0);
 VoicePlay("B040502302_05_000");
 MsgDisp("Hiiragi","No matter when I come here, this place
 always has such a unique atmosphere.");
-MsgSel("Those mushrooms look so fantastical, huh","This really is a trichromatic world","It blends right into the blue of the sea");
+MsgSel("Those mushrooms look so fantastical, huh.","This really is a trichromatic world.","It blends right into the blue of the sea.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(5,6)){

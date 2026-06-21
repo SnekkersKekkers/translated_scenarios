@@ -9,7 +9,7 @@ ChMouth(5,3);
 VoicePlay("B040506502_05_000");
 MsgDisp("Hiiragi","Every year, I find myself thinking \"This
 year's the best\".");
-MsgSel("Yeah, the evolution of technology is amazing.","Yeah, the number of fireworks is increasing","Yeah, that'll definitely go for next year too");
+MsgSel("Yeah, the evolution of technology is amazing.","Yeah, the number of fireworks is increasing.","Yeah, that'll definitely go for next year too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

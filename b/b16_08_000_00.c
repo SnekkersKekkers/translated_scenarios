@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160800000_08_000");
 MsgDisp("Shirahane","What's wrong?
 You're lookin' at me intently.");
-MsgSel("It's nothing","I just wanted to stare.");
+MsgSel("It's nothing.","I just wanted to stare...");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(8,2);

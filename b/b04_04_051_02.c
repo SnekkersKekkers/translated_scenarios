@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040405102_04_000");
 MsgDisp("Nanatsumori","Aren't there a lot of outrageous stories
 about the constellations?");
-MsgSel("Zeus was especially bad.","I don't think so","Surprisingly, you've actually been seriously listening?");
+MsgSel("Zeus was especially bad.","I don't think so.","It's surprising that you were seriously listening.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

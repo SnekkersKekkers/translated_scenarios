@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040524202_05_000");
 MsgDisp("Hiiragi","Looks like we can catch some trout.");
-MsgSel("Seems fun! Shall we try it?","Grilled with salt, grilled with salt!","We'll get soaked won't we?");
+MsgSel("Seems fun! Shall we try it?","Grilled with salt, grilled with salt!","We'll get soaked, won't we?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,4,1);
 VoicePlay("B040615202_06_000");
 MsgDisp("Himuro","Shall we have a serious competition today?");
-MsgSel("Sounds good, what shall we bet?","I'll definitely lose.","How about we just relax and have fun?");
+MsgSel("Sounds good, what shall we bet?","I'll definitely lose...","How about we just relax and have fun?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

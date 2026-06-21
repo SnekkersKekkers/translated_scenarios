@@ -8,7 +8,7 @@ ChMotion(6,4,1);
 VoicePlay("B040610400_06_000");
 MsgDisp("Himuro","This exhibition sure is an acquired
 taste huh?");
-MsgSel("I like it","It's kind of gross","Do you dislike bugs?");
+MsgSel("I like it.","It's kind of gross...","Do you dislike bugs?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040503302_05_000");
 MsgDisp("Hiiragi","It's dark, so watch your step.");
-MsgSel("Thank you very much!","The floor looks like it's glowing faintly","I've come here many times, so I'll be fine?");
+MsgSel("Thank you very much!","The floor looks like it's glowing faintly.","I've come here many times, so I'll be fine?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

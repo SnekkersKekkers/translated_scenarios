@@ -8,7 +8,7 @@ ChMouth(4,0);
 ChMotion(4,0,1);
 VoicePlay("B040402401_04_000");
 MsgDisp("Nanatsumori","What was that just now∋");
-MsgSel("Is it okay to laugh here?","Art...?","Crap∈");
+MsgSel("...Is it okay to laugh here?","Art...?","Crap∈");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

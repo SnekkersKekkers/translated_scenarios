@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMouth(5,4);
 VoicePlay("B040508300_05_000");
 MsgDisp("Hiiragi","After this, let's go to the gazebo too.");
-MsgSel("It looks like it's standing in the middle of the spring.","Apparently you can hear people's inner voice in there","It seems refreshing there.");
+MsgSel("It looks like it's standing in the middle of the spring.","Apparently you can hear people's inner voice in there.","It seems refreshing there.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

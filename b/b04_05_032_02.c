@@ -12,7 +12,7 @@ VoicePlay("B040503202_05_000");
 MsgDisp("Hiiragi","The light passing through the tube tank is
 beautiful.
 This is a sun and water garden.");
-MsgSel("Sun・and・Water Garden!","If people could enter the tube, it would become popular.","It's like we're in the south sea huh");
+MsgSel("Sun・and・Water Garden!","If people could enter the tube, it would become popular.","It's like we're in the south sea.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

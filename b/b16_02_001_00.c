@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B160200100_02_000");
 MsgDisp("Sassa","You seem restless, though, is there
 something bothering you?");
-MsgSel("I was just born like this","There are always things bothering me");
+MsgSel("I was just born like this.","There are always things bothering me.");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(2,3);

@@ -5,7 +5,7 @@ ScrFadeIn(0);
 VoicePlay("B040608102_06_000");
 MsgDisp("Himuro","To think I would go cherry blossom
 viewing...");
-MsgSel("Are you having fun?","It's fun once in a while","It's not like you, huh.");
+MsgSel("Are you having fun?","It's fun once in a while.","It's not like you, huh.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

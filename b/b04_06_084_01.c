@@ -11,7 +11,7 @@ ChMotion(6,5,1);
 ChCheek(6,10);
 VoicePlay("B040608401_06_000");
 MsgDisp("Himuro","Ah...");
-MsgSel("Autumn stirs up your appetite huh","I heard that ▼","I'm also getting hungry.");
+MsgSel("Autumn stirs up your appetite.","I heard that▼","I'm also getting hungry.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

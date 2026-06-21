@@ -12,7 +12,7 @@ MsgClose();
 ChOpen(6,32,0,2,1,0,#1,0,0);
 VoicePlay("B040620002_06_000");
 MsgDisp("Himuro","Whoa∋ ...ow.");
-MsgSel("A-Are you alright?","It's difficult isn't it?","You're so clumsy!");
+MsgSel("A-Are you alright?","It's difficult, isn't it?","You're so clumsy!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

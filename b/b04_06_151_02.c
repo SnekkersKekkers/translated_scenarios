@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(6,2,1);
 VoicePlay("B040615102_06_000");
 MsgDisp("Himuro","It went into the gutter...");
-MsgSel("Don't mind it, get the next one!","Alright, I have a chance now!","That's unusual huh?");
+MsgSel("Don't mind it, get the next one!","Alright, I have a chance now!","That's unusual, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(6,6)){

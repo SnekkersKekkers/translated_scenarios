@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040603302_06_000");
 MsgDisp("Himuro","The ocean we see is only a tiny part of
 the whole thing...");
-MsgSel("Oh, that's a good point!","What's with this all of a sudden...?","You could say that about other things too");
+MsgSel("Oh, that's a good point!","What's with this all of a sudden...?","You could say that about other things too.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

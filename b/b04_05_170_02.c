@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040517002_05_000");
 MsgDisp("Hiiragi","The food menu also seems to be popular?
 What do you want to eat?");
-MsgSel("Habataki mixed juice of course!","Couple-exclusive lovey-dovey menu?","Looks like the natto fried rice is the top pick");
+MsgSel("Habataki mixed juice, of course!","The Couple-exclusive lovey-dovey menu?","The Natto Fried Rice is the best.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

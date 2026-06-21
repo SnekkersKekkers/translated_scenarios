@@ -1,4 +1,4 @@
-MsgSel("Yeah, I'll be there!" , " Sorry but that day I'm busy...");
+MsgSel("Yeah, I'll be there!" , "Sorry but that day I'm busy...");
 switch (MsgSelRsltGet()){
     case 0:
     VoicePlay("J140201001_02_000");

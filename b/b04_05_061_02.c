@@ -11,7 +11,7 @@ ChMotion(5,4);
 VoicePlay("B040506102_05_000");
 MsgDisp("Hiiragi","What's that...
 Something smells delicious.");
-MsgSel("Some people are grilling freshly caught seafood.","I think it's the beach house yakisoba","Maybe I put on too much tanning oil?");
+MsgSel("Some people are grilling freshly caught seafood.","I think it's the beach house yakisoba.","Maybe I put on too much tanning oil?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

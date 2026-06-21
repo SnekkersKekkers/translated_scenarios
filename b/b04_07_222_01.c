@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040722201_07_000");
 MsgDisp("Mikage","Alright, let's look into the historical
 documents at the exhibition corner?");
-MsgSel("I can't read it at all.","Do we really have to?","You're a bit of a weirdo, huh?");
+MsgSel("I can't read it at all!","Do we really have to?","You're a bit of a weirdo, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

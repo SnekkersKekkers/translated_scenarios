@@ -8,7 +8,7 @@ VoicePlay("B040608400_06_000");
 MsgDisp("Himuro","Reading, appetite, exercise...
 There are all kinds of autumn.
 Which one is yours?");
-MsgSel("Reading!","Appetite!","｛Himuro＊＊｝'s autumn.");
+MsgSel("Reading!","Appetite!","｛Himuro＊＊｝'s autumn");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

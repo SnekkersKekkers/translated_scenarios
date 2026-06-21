@@ -14,7 +14,7 @@ ChMotion(7,0,1);
 ScrFadeIn(0);
 VoicePlay("B040723601_07_000");
 MsgDisp("Mikage","Habataki Land really brought its A-game.");
-MsgSel("It's gorgeous, isn't it?","Their dance is amazing!!","The atmosphere at night is also wonderful!");
+MsgSel("It's gorgeous, isn't it?","Their dance is amazing!","The atmosphere at night is also wonderful!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

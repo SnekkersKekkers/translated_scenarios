@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(5,4);
 VoicePlay("B040516002_05_000");
 MsgDisp("Hiiragi","I can play the crane game.");
-MsgSel("Get lots of sweets!","The skull bear plushie please!","Shall we find a machine where it's easy to win prizes?");
+MsgSel("Get lots of sweets!","The skull bear plushie, please!","Shall we find a machine where it's easy to win prizes?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

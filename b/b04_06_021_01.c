@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040602101_06_000");
 MsgDisp("Himuro","There's hardly anyone here.
 Maybe that's why—listen, the waves...");
-MsgSel("It's true, that's the feeling of the sea","Ah...I can hear my stomach rumbling too","You're surprisingly a romantic huh?");
+MsgSel("It's true, that's the feeling of the sea.","Ah...I can hear my stomach rumbling too.","You're surprisingly a romantic, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

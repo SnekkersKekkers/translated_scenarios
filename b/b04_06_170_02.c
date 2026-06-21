@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040617002_06_000");
 MsgDisp("Himuro","...How do I say this, I'm surprised you
 never get tired of this.");
-MsgSel("Of course not! It's fun","Isn't it about time for you to sing too ｛Himuro＊＊｝?","I put on \"Love Between the Waves\"!");
+MsgSel("Of course not! It's fun.","Isn't it about time for you to sing too, ｛Himuro＊＊｝?","I put on \"Love Between the Waves\"!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

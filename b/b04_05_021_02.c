@@ -8,7 +8,7 @@ VoicePlay("B040502102_05_000");
 MsgDisp("Hiiragi","There really aren't many people here.
 It looks like I can do some vocal
 exercises.");
-MsgSel("I want to hear it.","This is the feeling of the springtime of life.","Teach me too");
+MsgSel("I want to hear it.","This is the feeling of the springtime of life.","Can you teach me too?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

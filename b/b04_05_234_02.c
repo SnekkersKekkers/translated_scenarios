@@ -9,7 +9,7 @@ ChMotion(5,4);
 VoicePlay("B040523402_05_000");
 MsgDisp("Hiiragi","You were competing with the cup next to
 us...in number of rotations.");
-MsgSel("Hehe, I thought we were going to go flying!","I wonder if the people on the cup on the opposite side are okay...","You don't want to lose huh?");
+MsgSel("Hehe, I thought we were going to go flying!","I wonder if the people on the cup on the opposite side are okay...","You don't want to lose, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

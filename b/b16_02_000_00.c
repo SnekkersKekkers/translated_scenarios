@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160200000_02_000");
 MsgDisp("Sassa","...Hm? Did something happen?");
-MsgSel("It's nothing","Don't pay it any mind");
+MsgSel("It's nothing.","Don't pay it any mind.");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(2,0);

@@ -8,7 +8,7 @@ ScrFadeIn(0);
 ChMotion(4,2,1);
 VoicePlay("B040423402_04_000");
 MsgDisp("Nanatsumori","You...you're spinning the handle too much.");
-MsgSel("Are you dizzy?","I wanted to make ｛Nanatsumori＊｝ dizzy","That's what the handle is for!");
+MsgSel("Are you dizzy?","I wanted to make you dizzy, ｛Nanatsumori＊｝.","That's what the handle is for!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

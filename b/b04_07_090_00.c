@@ -9,7 +9,7 @@ VoicePlay("B040709000_07_000");
 MsgDisp("Mikage","*Sniff-sniff*...
 Lots of different plants are giving their
 own aroma.");
-MsgSel("It smells sweet.","There's mint isn't there?","It's a strong aroma.");
+MsgSel("It smells sweet.","There's mint, isn't there?","It's a strong aroma.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

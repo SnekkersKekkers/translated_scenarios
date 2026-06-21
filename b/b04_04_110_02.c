@@ -9,7 +9,7 @@ ChMotion(4,1,1);
 VoicePlay("B040411002_04_000");
 MsgDisp("Nanatsumori","....Hey.
 What's the best way to enjoy the pool?");
-MsgSel("Of course, it's swimming!","Examining the swimsuits","I think it's playing around with water.");
+MsgSel("Of course, it's swimming!","Examining the swimsuits?","I think it's playing around with water.");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){

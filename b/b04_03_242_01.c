@@ -6,7 +6,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040324201_03_000");
 MsgDisp("Honda","Tent's all set up!");
-MsgSel("I might want to live here?","Let's greet the neighbours!","It's like a secret base, I'm getting excited");
+MsgSel("I might want to live here?","Let's greet the neighbours!","It's like a secret base, I'm getting excited.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

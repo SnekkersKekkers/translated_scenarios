@@ -7,7 +7,7 @@ ScrFadeIn(0);
 VoicePlay("B040722100_07_000");
 MsgDisp("Mikage","O-Oi. Don't go out any further than that.
 It's dangerous.");
-MsgSel("Are you bad with high places?","Both the handrail and floor are creaking huh?","Do you want to hold hands?");
+MsgSel("Are you bad with high places?","Both the handrail and floor are creaking, huh?","Do you want to hold hands?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

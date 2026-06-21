@@ -17,7 +17,7 @@ MsgDisp("Shirahane","∋");
 MsgDisp("主人公","｛Daichi＊＊｝?");
 VoicePlay("I640000000_08_030");
 MsgDisp("Shirahane","Are ya really quittin'...?");
-MsgSel("Actually, I'll continue","Quit.");
+MsgSel("Actually, I'll continue","Quit");
 switch (MsgSelRsltGet()){
     case 0:
     MsgDisp("主人公","Ah... Actually, forget it!");

@@ -6,7 +6,7 @@ ChMotion(4,0);
 ScrFadeIn(0);
 VoicePlay("B040424102_04_000");
 MsgDisp("Nanatsumori","Then what should we do today?");
-MsgSel("The cow milking experience▼","Let's interact with sheep!","Let's do what ｛Nanatsumori＊｝ wants");
+MsgSel("The cow milking experience▼","Let's interact with sheep!","Let's do what you want, ｛Nanatsumori＊｝.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

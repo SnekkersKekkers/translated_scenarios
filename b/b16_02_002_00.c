@@ -4,7 +4,7 @@ SEPlay("EV_SE_754",0.5,0.5,0.25);
 ScrFadeIn(0);
 VoicePlay("B160200200_02_000");
 MsgDisp("Sassa","Hm, did you just call me?");
-MsgSel("No, I didn't call for you","I just wanted to try calling your name.");
+MsgSel("No, I didn't call for you.","I just wanted to try calling your name.");
 switch (MsgSelRsltGet()){
     case 0:
     NSSEye(2,3);

@@ -9,7 +9,7 @@ VoicePlay("B040506202_05_000");
 MsgDisp("Hiiragi","It's hard to believe it's so lively
 outside.
 It's mysterious.");
-MsgSel("We can talk calmly here.","It's like we're on a stage, ｛Hiiragi＊＊＊｝...","Ah— it's funny how our voices echo");
+MsgSel("We can talk calmly here.","It's like we're on a stage, ｛Hiiragi＊＊＊｝...","Ah! It's funny how our voices echo.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

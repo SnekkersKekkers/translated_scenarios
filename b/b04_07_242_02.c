@@ -10,7 +10,7 @@ VoicePlay("B040724202_07_000");
 MsgDisp("Mikage","When you go camping together, you can
 see a side of the other person that's
 usually hidden.");
-MsgSel("It's perfect for marriage interviews","｛Mikage＊＊｝'s hidden side?","It's a little scary...");
+MsgSel("It's perfect for marriage interviews.","｛Mikage＊＊｝'s hidden side?","It's a little scary...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

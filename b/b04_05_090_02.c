@@ -11,7 +11,7 @@ VoicePlay("B040509002_05_000");
 MsgDisp("Hiiragi","Tropical plant illumination...
 It seems to be open at night for a
 limited time.");
-MsgSel("It's like a jungle expedition team.","I wonder if the flowers bloom even at night...","Seems fun let's go!");
+MsgSel("It's like a jungle expedition team.","I wonder if the flowers bloom even at night...","Seems fun, let's go!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);

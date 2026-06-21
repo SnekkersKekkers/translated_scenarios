@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040420001_04_000");
 MsgDisp("Nanatsumori","The landscape is beautiful but...
 It's cold∈");
-MsgSel("This cold is nice.","You'll get warm if you move about","Maybe it's best to look at it from indoors?");
+MsgSel("This cold feels nice.","You'll warm up if you move around.","Maybe it's best to look at it from indoors?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

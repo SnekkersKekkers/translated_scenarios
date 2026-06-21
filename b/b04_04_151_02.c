@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040415102_04_000");
 MsgDisp("Nanatsumori","If you think about it properly, bowling is
 a simple game.");
-MsgSel("Maybe it would look better if the pins were more vibrant","Apparently they hold events to hold customers?","I like it though.");
+MsgSel("Maybe it would look better if the pins were more vibrant?","Apparently they hold events to attract customers?","I like it though.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
@@ -30,7 +30,7 @@ here too.");
     ChMotion(4,0,1);
     VoicePlay("B040415102_04_020");
     MsgDisp("Nanatsumori","Eh? This place does something that fun?
-Then, next time let's come here on an
+Next time let's come here on an
 event day!");
     MsgDispSksp(1,0);
     MsgDateResultDisp();

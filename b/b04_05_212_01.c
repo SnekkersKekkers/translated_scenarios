@@ -7,7 +7,7 @@ ChLayout(1);
 ScrFadeIn(0);
 VoicePlay("B040521201_05_000");
 MsgDisp("Hiiragi","There's lots of plushies aren't there?");
-MsgSel("That bear looks like it's looking this way","Is that a dog plush?","That purple fox is cute isn't it?");
+MsgSel("That bear looks like it's looking this way.","Is that a dog plush?","That purple fox is cute, isn't it?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

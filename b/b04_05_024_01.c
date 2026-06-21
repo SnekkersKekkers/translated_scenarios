@@ -5,7 +5,7 @@ ChOpen(5,255,2,2,2,#1,#1,0,0);
 VoicePlay("B040502401_05_000");
 MsgDisp("Hiiragi","This is the sound of you and me...
 How should I interpret this?");
-MsgSel("There's an ominous feeling...","Two people who shouldn't meet","Forget that one! Let's try again!");
+MsgSel("There's an ominous feeling...","Two people who shouldn't meet?","Forget that one! Let's try again!");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

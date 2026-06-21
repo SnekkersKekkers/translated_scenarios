@@ -7,7 +7,7 @@ ScrFadeIn(0);
 ChMotion(5,3);
 VoicePlay("B040523302_05_000");
 MsgDisp("Hiiragi","Sigh, the inside of my mouth is parched.");
-MsgSel("It's because you were laughing while you jumped.","Your voice was loud?","Shall we take a break?");
+MsgSel("It's because you were laughing while you jumped.","Your voice was loud, wasn't it?","Shall we take a break?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(4);

@@ -13,7 +13,7 @@ ScrFadeIn(0);
 VoicePlay("B040623601_06_000");
 MsgDisp("Himuro","I wonder if the efforts the park put in
 actually came across properly.");
-MsgSel("What a realist take...","Corporate efforts right?","You mean the efforts of the cast?");
+MsgSel("What a realist take...","Corporate efforts, right?","You mean the efforts of the cast?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

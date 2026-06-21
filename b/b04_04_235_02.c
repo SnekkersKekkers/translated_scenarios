@@ -10,7 +10,7 @@ VoicePlay("B040423502_04_000");
 MsgDisp("Nanatsumori","There were a lot of disembodied souls
 flying around on the graveyard course,
 weren't there?");
-MsgSel("Eh...?","There were so many of them, that it was pretty well-lit","I was so scared, I didn't look that much...");
+MsgSel("Eh...?","There were so many of them, that it was pretty well-lit.","I was so scared, I didn't look that much...");
 switch (MsgSelRsltGet()){
     case 0:
     switch (ChPrmGet(4,6)){

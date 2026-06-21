@@ -15,7 +15,7 @@ switch (ChPrmGet(6,6)){
     ChMotion(6,0);
     VoicePlay("S090600000_06_010");
     MsgDisp("Himuro","Aah. ...Would you like to draw one?");
-    MsgSel("Let's do it","It's too crowded.");
+    MsgSel("Let's do it.","It's too crowded.");
     switch (MsgSelRsltGet()){
         case 0:
         ChEye(6,2);

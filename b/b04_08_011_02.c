@@ -9,7 +9,7 @@ ChMotion(8,2,1);
 VoicePlay("B040801102_08_000");
 MsgDisp("Shirahane","A cool guy would suit a stylish place
 like this...");
-MsgSel("Like a model?","That sort of thing doesn't matter!","Right!");
+MsgSel("Like a model?","That sort of thing doesn't matter!","Right...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(1);

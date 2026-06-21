@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040822200_08_000");
 MsgDisp("Shirahane","Doesn't it kinda feel like an
 extracurricular lesson?");
-MsgSel("Do you not like history?","Wanna study something else?","It'll be fun to study it together");
+MsgSel("Do you not like history?","Wanna study something else?","It'll be fun to study it together.");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

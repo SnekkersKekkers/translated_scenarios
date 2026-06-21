@@ -7,7 +7,7 @@ ChMotion(6,0,1);
 ScrFadeIn(0);
 VoicePlay("B040603300_06_000");
 MsgDisp("Himuro","There's not a lot of people.");
-MsgSel("Maybe it's not popular?","We can take our time to look around","It's good we have the place to ourselves, huh?");
+MsgSel("Maybe it's not popular?","We can take our time to look around.","It's good we have the place to ourselves, huh?");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(2);

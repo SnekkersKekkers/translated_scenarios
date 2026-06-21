@@ -8,7 +8,7 @@ ScrFadeIn(0);
 VoicePlay("B040510101_05_000");
 MsgDisp("Hiiragi","There's plenty of documentation on
 Habataki Castle.");
-MsgSel("There's even a helmet passed down by generations of castle lords.","A princess' kimono!","An expensive looking vase");
+MsgSel("There's even a helmet heirloom from generations of castle lords.","Look, the kimono of a princess!","That's an expensive looking vase...");
 switch (MsgSelRsltGet()){
     case 0:
     DateRateSet(3);
