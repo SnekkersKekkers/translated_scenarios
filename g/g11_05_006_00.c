@@ -12,7 +12,7 @@ MsgDisp("主人公","Ah, ｛Hiiragi＊＊＊｝.");
 ChEye(5,4);
 VoicePlay("G110500600_05_000");
 MsgDisp("Hiiragi","Greetings.
-Ah, want to use one of the canvas' today?");
+Ah, want to use one of the easels today?");
 MsgDisp("主人公","Hm, I wasn't sure yet...
 Will you, ｛Hiiragi＊＊＊｝?");
 ChEye(5,0);
@@ -54,7 +54,7 @@ ChEyeOpenLevel(5,12);
 Wait(30,0);
 SEStop("EV_SE_712",0);
 VoicePlay("G110500600_05_030");
-MsgDisp("Hiiragi","Huh, has today already ended?");
+MsgDisp("Hiiragi","Huh, are you already done for today?");
 MsgDisp("主人公","Yeah.
 The weather was so nice that I really
 didn't do much progress.");
@@ -67,7 +67,7 @@ ChEyeOpenLevel(5,#1);
 VoicePlay("G110500600_05_040");
 MsgDisp("Hiiragi","Haha, I didn't do much either.
 Mine was just a bad computer though.");
-MsgDisp("主人公","I'm not much of a good artist.");
+MsgDisp("主人公","I'm not very good at art.");
 ChEye(5,1);
 ChMouth(5,1);
 ChMotion(5,1);
@@ -75,12 +75,12 @@ ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,12);
 VoicePlay("G110500600_05_050");
-MsgDisp("Hiiragi","Then you're like me, then.
+MsgDisp("Hiiragi","You're just like me, then.
 I just enjoy this time of day.");
 VoicePlay("G110500600_05_060");
 MsgDisp("Hiiragi","Can you show me sometime?
 Your drawings, I mean.");
-MsgDisp("主人公","I'll try to draw something that you will
+MsgDisp("主人公","I'll try to draw something that you'll
 like then.");
 ChEye(5,0);
 ChMouth(5,1);
@@ -109,7 +109,7 @@ ChMotion(5,0);
 ChEyeOpenLevel(5,0);
 Wait(10,0);
 ChEyeOpenLevel(5,#1);
-MsgDisp("主人公","(｛Hiiragi＊＊＊｝...are you going to see me
+MsgDisp("主人公","(｛Hiiragi＊＊＊｝...are you going to watch me
 anyways?)");
 BGMStop();
 MsgClose();

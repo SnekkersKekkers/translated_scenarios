@@ -53,7 +53,7 @@ MsgDisp("主人公","Sure, what is it?");
 StlEye(5,1);
 StlEyeOpenLevel(5,5,1);
 VoicePlay("D010500600_05_080");
-MsgDisp("Hiiragi","Sometimes people see me and go \"Rerere\" Do
+MsgDisp("Hiiragi","Sometimes people see me and go \"Rerere\". Do
 you know what that means?");
 StlEye(5,0);
 MsgDisp("主人公","Rerere?
