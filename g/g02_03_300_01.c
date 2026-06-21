@@ -16,7 +16,7 @@ ChMouth(3,4);
 ChMotion(3,0);
 VoicePlay("G020330001_03_020");
 MsgDisp("Honda","Ryo might get mad though.
-Like, \"Why didn't you invite me? \"");
+Like, \"Why didn't you invite me?\"");
 MsgDisp("主人公","Is that so...?");
 ChEye(3,0);
 ChMouth(3,0);

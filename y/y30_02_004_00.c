@@ -32,7 +32,7 @@ he had noticed the slightly stagnant
 atmosphere.");
 VoicePlay("Y300200400_01_000");
 MsgDisp("Kazama","\"You turned to look at the rooftop
-door time and time again though? \"");
+door time and time again though?\"");
 MsgClear();
 VoicePlay("Y300200400_06_010");
 MsgDisp("Himuro","\"That's just because my back is to

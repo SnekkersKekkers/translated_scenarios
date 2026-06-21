@@ -81,7 +81,7 @@ thoughts will reach her?\"");
 VoicePlay("Y300100400_04_020");
 MsgDisp("Nanatsumori","What's that?");
 VoicePlay("Y300100400_03_030");
-MsgDisp("Honda","Just have \"Turn around! \" in mind.
+MsgDisp("Honda","Just have \"Turn around!\" in mind.
 That's all. Ready? ∈");
 MsgClear();
 MsgDisp("","\"The next instant, she turned around.

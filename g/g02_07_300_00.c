@@ -44,7 +44,7 @@ ChMouth(7,0);
 ChMotion(7,1);
 VoicePlay("G020730000_07_050");
 MsgDisp("Mikage","He would say, \"There's a reason for
-everything. Shall I hear it? \" while
+everything. Shall I hear it?\" while
 approaching.");
 MsgDisp("主人公","Hehe, ｛Mikage＊＊｝ is always thinking
 of those two.");

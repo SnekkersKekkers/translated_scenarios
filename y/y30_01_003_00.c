@@ -40,7 +40,7 @@ on my mind.");
 VoicePlay("Y300100300_01_040");
 MsgDisp("Kazama","\"Sorry, this doesn't mean I'm
 weighing out Grandpa's work and Dad's
-work against each other. \"");
+work against each other.\"");
 MsgClear();
 MsgDisp("","When I hastily tried to cover it up,
 he slowly shook his head and went

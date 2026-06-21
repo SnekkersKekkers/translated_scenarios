@@ -75,7 +75,7 @@ the office breakroom for a rest.\"");
 VoicePlay("Y300800100_08_000");
 MsgDisp("Shirahane","\"Ya can help yourself to any drink
 here durin' your break. Well then,
-what would ya like? \"");
+what would ya like?\"");
 MsgDisp("","Can't help it — I'm just the type
 who's always gotta look after people.");
 MsgClear();

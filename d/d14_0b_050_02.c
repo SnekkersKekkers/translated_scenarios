@@ -73,7 +73,7 @@ ChMotion(1,0);
 ChEyeOpenLevel(1,8);
 VoicePlay("D140B05002_01_020");
 MsgDisp("Kazama","Don't enter their own world over there.
-\" That's all\", they said.");
+\"That's all\", they said.");
 ChEye(3,0);
 ChMouth(3,4);
 ChMotion(3,0,1);
